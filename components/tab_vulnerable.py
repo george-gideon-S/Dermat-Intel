@@ -34,8 +34,8 @@ def build_pdf_brief(top_df) -> bytes:
         pdf.cell(0, 7, head, new_x=XPos.LMARGIN, new_y=YPos.NEXT)
         pdf.set_font("Helvetica", "", 9)
         line = f"{_ascii(fmt.text(r.get('formatted_address')))} | {_ascii(fmt.text(r.get('formatted_phone_number'), 'No phone'))} | {_ascii(fmt.text(r.get('website'), 'No website'))}"
-        pdf.multi_cell(0, 5, line)
-        pdf.multi_cell(0, 5, _ascii(r.get("opportunity_notes", "")))
+        pdf.multi_cell(0, 5, line, new_x=XPos.LMARGIN, new_y=YPos.NEXT)
+        pdf.multi_cell(0, 5, _ascii(r.get("opportunity_notes", "")), new_x=XPos.LMARGIN, new_y=YPos.NEXT)
         pdf.ln(1)
     return bytes(pdf.output())
 
