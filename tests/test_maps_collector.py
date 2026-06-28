@@ -85,6 +85,21 @@ def test_collect_mock_does_not_touch_network(monkeypatch):
     assert rows[0]["status"] == "OK"
 
 
+def test_run_browser_wrapper_returns_and_reraises(monkeypatch):
+    # The wrapper runs _run_browser_impl in a worker thread (Streamlit asyncio fix).
+    # It must return the impl's result and propagate the impl's exceptions.
+    monkeypatch.setattr(mc, "_run_browser_impl", lambda *a, **k: ["ok"])
+    assert mc._run_browser("q", 3) == ["ok"]
+
+    def boom(*a, **k):
+        raise RuntimeError("scrape blew up")
+
+    monkeypatch.setattr(mc, "_run_browser_impl", boom)
+    import pytest
+    with pytest.raises(RuntimeError):
+        mc._run_browser("q", 3)
+
+
 # ---------------------------------------------------------------- excel
 def test_save_results_xlsx(tmp_path):
     rows = make_mock_results(QROWS, per_query=15)
