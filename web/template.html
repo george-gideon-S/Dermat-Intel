@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Derma Intel — Guntur</title>
+<style>{{STYLES}}</style>
+</head>
+<body>
+
+<header class="topbar">
+  <div class="wrap">
+    <div class="brand">
+      <span class="mark">D</span>
+      <span>Derma&nbsp;Intel <span class="sub">/ market intelligence</span></span>
+    </div>
+    <div class="meta">
+      <span class="item hide-sm"><span class="dot"></span></span>
+      <span class="item hide-sm" id="m-city"></span>
+      <span class="item" id="m-generated"></span>
+    </div>
+  </div>
+</header>
+
+<main id="app"><!-- populated by app.js --></main>
+
+<footer>
+  <div class="wrap">
+    <span id="foot-generated"></span>
+    <span>Operational console &amp; data refresh remain in Streamlit — <code>streamlit run app.py</code>. Rebuild this view with <code>python derma_web.py</code>.</span>
+  </div>
+</footer>
+
+<script>{{ECHARTS}}</script>
+<script>window.__DATA__ = {{DATA}};</script>
+<script>{{APP_JS}}</script>
+</body>
+</html>

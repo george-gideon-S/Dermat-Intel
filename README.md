@@ -12,7 +12,31 @@ Index (0–100)**, and surfaces the 10 clinics with the weakest online presence 
 
 ---
 
-## What you get
+## Two front ends over the same data
+
+**1. Premium web interface — recommended.** A single self-contained, offline HTML page with a calm,
+editorial design and insight-rich charts. **No server to keep running** (open the file directly).
+
+```bash
+python derma_web.py     # rebuilds from the latest data and opens it in your browser
+```
+
+It builds and opens `web/dist/derma_intel.html` — answer-first: a headline + KPIs, the ranked **top-10
+opportunities** with a linked detail panel, a **demand-vs-presence** landscape, market composition,
+and a searchable table of all clinics. Full design write-up: [`docs/redesign/REDESIGN.md`](docs/redesign/REDESIGN.md).
+
+**2. Streamlit console — operations & fallback.** For generating queries, running the scrape, mock
+mode, and Excel/PDF export:
+
+```bash
+streamlit run app.py
+```
+
+Typical loop: refresh data in Streamlit (or `python run_pipeline.py`) → `python derma_web.py` to view.
+
+---
+
+## What you get (Streamlit console)
 
 - **Tab 1 — Queries:** paste-in workflow + a sortable/filterable table of all 50 queries (category,
   intent, and search-strength auto-derived from each query).
