@@ -183,6 +183,25 @@ def _save_cache(cache: dict) -> None:
         json.dump(cache, fh, ensure_ascii=False, indent=2)
 
 
+def _details_cache_path() -> str:
+    return str(Path(config.CACHE_DIR) / "maps_details.json")
+
+
+def _load_details_cache() -> dict:
+    """Per-clinic detail cache (keyed by place id) so a clinic is enriched only once across queries."""
+    try:
+        with open(_details_cache_path(), "r", encoding="utf-8") as fh:
+            return json.load(fh)
+    except (FileNotFoundError, json.JSONDecodeError):
+        return {}
+
+
+def _save_details_cache(details: dict) -> None:
+    Path(config.CACHE_DIR).mkdir(parents=True, exist_ok=True)
+    with open(_details_cache_path(), "w", encoding="utf-8") as fh:
+        json.dump(details, fh, ensure_ascii=False, indent=2)
+
+
 def _polite_sleep() -> None:
     time.sleep(random.uniform(config.SCRAPER_MIN_DELAY_S, config.SCRAPER_MAX_DELAY_S))
 
@@ -353,10 +372,11 @@ def _enrich_from_place(page, raw: dict) -> None:
         pass
 
 
-def _run_browser(query: str, max_results: int) -> list[dict]:
+def _run_browser(query: str, max_results: int, details_cache: dict | None = None) -> list[dict]:
     """Open Google Maps for a query and return raw listing dicts. Network/browser side-effect."""
     from playwright.sync_api import sync_playwright
 
+    details_cache = {} if details_cache is None else details_cache
     # AI-generated queries already imply the specialty; only ensure the city is present.
     search_text = query if "guntur" in query.lower() else f"{query} Guntur"
     term = urllib.parse.quote_plus(search_text)
@@ -403,15 +423,28 @@ def _run_browser(query: str, max_results: int) -> list[dict]:
                     page.mouse.wheel(0, 3000)
                 time.sleep(1.2)
             raws = _extract_cards(page, max_results)
-            # Phase 2: enrich each place from its detail panel (clean website/phone/address)
+            # Phase 2: enrich each place from its detail panel (clean website/phone/address).
+            # Reuse a cross-query cache so a clinic seen in an earlier query isn't re-opened.
             if config.SCRAPER_OPEN_DETAILS and raws:
                 detail = context.new_page()
                 detail.set_default_timeout(config.SCRAPER_PAGE_TIMEOUT_S * 1000)
                 try:
                     for r in raws:
-                        if r.get("url"):
-                            _enrich_from_place(detail, r)
-                            _polite_sleep()
+                        if not r.get("url"):
+                            continue
+                        key = dedup_key(r["url"])
+                        cached = details_cache.get(key) if key else None
+                        if cached:  # already enriched this clinic in this or a prior run
+                            for field, value in cached.items():
+                                if value not in (None, ""):
+                                    r[field] = value
+                            continue
+                        _enrich_from_place(detail, r)
+                        if key:
+                            details_cache[key] = {
+                                f: r.get(f) for f in ("website", "phone", "address", "reviews", "closed")
+                            }
+                        _polite_sleep()
                 finally:
                     detail.close()
         finally:
@@ -419,7 +452,8 @@ def _run_browser(query: str, max_results: int) -> list[dict]:
     return raws
 
 
-def scrape_query(query_row: dict, max_results: int, cache: dict) -> list[dict]:
+def scrape_query(query_row: dict, max_results: int, cache: dict,
+                 details_cache: dict | None = None) -> list[dict]:
     """Scrape one query (cache-first), map to result rows, dedupe + OSM-geocode gaps."""
     q = query_row["search_query"]
     if q in cache:
@@ -428,7 +462,7 @@ def scrape_query(query_row: dict, max_results: int, cache: dict) -> list[dict]:
         raws = []
         for attempt in range(config.SCRAPER_MAX_RETRIES):
             try:
-                raws = _run_browser(q, max_results)
+                raws = _run_browser(q, max_results, details_cache)
                 if raws:
                     break
             except Exception:
@@ -467,13 +501,15 @@ def collect(query_rows: list[dict], mock: bool = False, progress_cb=None) -> lis
         return rows
 
     cache = _load_cache()
+    details_cache = _load_details_cache()
     all_rows: list[dict] = []
     n = len(query_rows)
     for i, q in enumerate(query_rows, start=1):
         if progress_cb:
             progress_cb(i, n, q["search_query"])
-        all_rows.extend(scrape_query(q, config.RESULTS_PER_QUERY, cache))
+        all_rows.extend(scrape_query(q, config.RESULTS_PER_QUERY, cache, details_cache))
     _save_cache(cache)
+    _save_details_cache(details_cache)
     return all_rows
 
 
