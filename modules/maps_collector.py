@@ -188,52 +188,178 @@ def _polite_sleep() -> None:
 
 
 # --------------------------------------------------------------------------- scraper
+def _clean(s: str) -> str:
+    """Strip Google's private-use icon glyphs (U+E000–U+F8FF) + replacement chars, collapse spaces."""
+    if not s:
+        return ""
+    s = "".join(ch for ch in s if not (0xE000 <= ord(ch) <= 0xF8FF))
+    s = s.replace("�", " ")
+    return re.sub(r"\s+", " ", s).strip()
+
+
+def _text_or_none(locator):
+    try:
+        if locator.count() == 0:
+            return None
+        return _clean(locator.first.inner_text(timeout=1200))
+    except Exception:
+        return None
+
+
 def _extract_cards(page, max_results: int) -> list[dict]:
     """Extract up to `max_results` listing dicts from a loaded Google Maps results feed.
 
-    NOTE: Google Maps markup is unstable; this uses resilient anchor + aria-label parsing and
-    is the part to tune during live verification (plan Task 16). Pure helpers above are tested.
+    Targets Google's current result-card structure (div.Nv2PK + rating/review spans), with an
+    anchor-based fallback. Markup is unstable, so this is the part to re-tune if Google changes it.
     """
     raws: list[dict] = []
-    links = page.locator('a[href*="/maps/place/"]')
-    count = min(links.count(), max_results)
-    for i in range(count):
-        link = links.nth(i)
-        raw = {"name": "", "url": ""}
+    cards = page.locator("div.Nv2PK")
+    count = cards.count()
+    if count == 0:  # fallback: one card per place anchor
+        anchors = page.locator('a[href*="/maps/place/"]')
+        count = anchors.count()
+        cards = None
+
+    for i in range(min(count, max_results)):
+        card = cards.nth(i) if cards is not None else page.locator('a[href*="/maps/place/"]').nth(i)
+        raw: dict = {"name": "", "url": ""}
         try:
+            link = card.locator('a[href*="/maps/place/"]').first
             raw["url"] = link.get_attribute("href") or ""
-            raw["name"] = (link.get_attribute("aria-label") or "").strip()
-            card = link.locator("xpath=..")
-            text = card.inner_text(timeout=2000)
-            # rating + reviews e.g. "4.6\n(120)"
-            m = re.search(r"(\d\.\d)\s*\(?\s*([\d,]+)\)?", text)
-            if m:
-                raw["rating"] = float(m.group(1))
-                raw["reviews"] = int(m.group(2).replace(",", ""))
-            # crude address line (last comma-bearing line)
-            for line in reversed(text.splitlines()):
-                if "Guntur" in line or "," in line:
-                    raw["address"] = line.strip()
+            raw["name"] = _clean(link.get_attribute("aria-label") or "")
+            if not raw["name"]:
+                raw["name"] = _text_or_none(card.locator("div.qBF1Pd, .fontHeadlineSmall")) or ""
+
+            # rating + reviews: the star widget's aria-label ("4.9 stars 86 Reviews") carries both
+            al = ""
+            try:
+                imgs = card.locator('[role="img"]')
+                for j in range(min(imgs.count(), 6)):
+                    cand = imgs.nth(j).get_attribute("aria-label") or ""
+                    if re.search(r"star", cand, re.I):
+                        al = cand
+                        break
+            except Exception:
+                pass
+            if al:
+                mr = re.search(r"(\d(?:[.,]\d)?)\s*star", al, re.I)
+                if mr:
+                    raw["rating"] = float(mr.group(1).replace(",", "."))
+                mv = re.search(r"([\d,]+)\s*review", al, re.I)
+                if mv:
+                    raw["reviews"] = int(mv.group(1).replace(",", ""))
+            # fallbacks via explicit spans
+            if raw.get("rating") is None:
+                rt = _text_or_none(card.locator("span.MW4etd"))
+                if rt:
+                    m = re.search(r"\d(?:[.,]\d)?", rt)
+                    if m:
+                        raw["rating"] = float(m.group(0).replace(",", "."))
+            if raw.get("reviews") is None:
+                rv = _text_or_none(card.locator("span.UY7F9"))
+                if rv:
+                    m = re.search(r"([\d,]+)", rv)
+                    if m:
+                        raw["reviews"] = int(m.group(1).replace(",", ""))
+
+            # website button (only present when the place has a site)
+            try:
+                wl = card.locator('a[data-value="Website"]').first
+                if wl.count() > 0:
+                    href = wl.get_attribute("href") or ""
+                    if href and "google.com" not in href:
+                        raw["website"] = href
+            except Exception:
+                pass
+
+            txt = _clean(_safe_inner_text(card))
+            raw["closed"] = ("Permanently closed" in txt) or ("Temporarily closed" in txt)
+            # phone (Indian formats) from the card info line
+            mp = re.search(r"(?:\+?91[\s-]?)?0?\d{3,5}[\s-]\d{5,6}", txt)
+            if mp:
+                raw["phone"] = mp.group(0).strip()
+            # best-effort address: a "·"-separated chunk that has a digit and a comma/pincode
+            for part in re.split(r"[·•]", txt):
+                part = part.strip()
+                if re.search(r"\d", part) and ("," in part or re.search(r"\d{6}", part)):
+                    raw["address"] = part
                     break
             # lat/lng from the place URL (!3dLAT!4dLNG)
             mll = re.search(r"!3d(-?\d+\.\d+)!4d(-?\d+\.\d+)", raw["url"])
             if mll:
                 raw["lat"], raw["lng"] = float(mll.group(1)), float(mll.group(2))
-            raw["closed"] = "Permanently closed" in text or "Temporarily closed" in text
-            wl = card.locator('a[href^="http"]:not([href*="google.com"])')
-            if wl.count() > 0:
-                raw["website"] = wl.first.get_attribute("href") or ""
         except Exception:
             pass
         raws.append(raw)
     return raws
 
 
+def _safe_inner_text(locator) -> str:
+    try:
+        return locator.inner_text(timeout=1500)
+    except Exception:
+        return ""
+
+
+def _enrich_from_place(page, raw: dict) -> None:
+    """Open a place page and pull clean website/phone/address/status from its detail panel.
+
+    Uses Google's stable `data-item-id` attributes (authority=website, phone:tel:=phone, address).
+    Best-effort: any failure leaves the list-card values untouched.
+    """
+    try:
+        page.goto(raw["url"], wait_until="domcontentloaded")
+        page.wait_for_selector("button[data-item-id], a[data-item-id]", timeout=8000)
+    except Exception:
+        return
+    try:
+        a = page.locator('a[data-item-id="authority"]').first
+        if a.count() > 0:
+            href = a.get_attribute("href") or ""
+            if href and "google.com" not in href:
+                raw["website"] = href
+    except Exception:
+        pass
+    try:
+        b = page.locator('button[data-item-id^="phone:tel:"]').first
+        if b.count() > 0:
+            did = b.get_attribute("data-item-id") or ""
+            raw["phone"] = did.replace("phone:tel:", "").strip() or raw.get("phone")
+    except Exception:
+        pass
+    try:
+        b = page.locator('button[data-item-id="address"]').first
+        if b.count() > 0:
+            label = _clean(b.get_attribute("aria-label") or "")
+            raw["address"] = re.sub(r"^Address:\s*", "", label).strip()
+    except Exception:
+        pass
+    # review count (authoritative): an aria-label like "86 reviews" in the place header
+    try:
+        revs = page.locator('[aria-label*="review" i]')
+        for j in range(min(revs.count(), 10)):
+            al = revs.nth(j).get_attribute("aria-label") or ""
+            m = re.search(r"([\d,]+)\s*review", al, re.I)
+            if m:
+                raw["reviews"] = int(m.group(1).replace(",", ""))
+                break
+    except Exception:
+        pass
+    try:
+        main = _clean(_safe_inner_text(page.locator('div[role="main"]')))
+        if "Permanently closed" in main or "Temporarily closed" in main:
+            raw["closed"] = True
+    except Exception:
+        pass
+
+
 def _run_browser(query: str, max_results: int) -> list[dict]:
     """Open Google Maps for a query and return raw listing dicts. Network/browser side-effect."""
     from playwright.sync_api import sync_playwright
 
-    term = urllib.parse.quote_plus(f"{query} {config.SPECIALTY} Guntur")
+    # AI-generated queries already imply the specialty; only ensure the city is present.
+    search_text = query if "guntur" in query.lower() else f"{query} Guntur"
+    term = urllib.parse.quote_plus(search_text)
     url = f"https://www.google.com/maps/search/{term}"
     raws: list[dict] = []
     with sync_playwright() as p:
@@ -277,6 +403,17 @@ def _run_browser(query: str, max_results: int) -> list[dict]:
                     page.mouse.wheel(0, 3000)
                 time.sleep(1.2)
             raws = _extract_cards(page, max_results)
+            # Phase 2: enrich each place from its detail panel (clean website/phone/address)
+            if config.SCRAPER_OPEN_DETAILS and raws:
+                detail = context.new_page()
+                detail.set_default_timeout(config.SCRAPER_PAGE_TIMEOUT_S * 1000)
+                try:
+                    for r in raws:
+                        if r.get("url"):
+                            _enrich_from_place(detail, r)
+                            _polite_sleep()
+                finally:
+                    detail.close()
         finally:
             browser.close()
     return raws

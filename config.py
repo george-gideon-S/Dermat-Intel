@@ -30,6 +30,7 @@ SCRAPER_MIN_DELAY_S = 1.5          # randomized polite delay between actions (an
 SCRAPER_MAX_DELAY_S = 3.5
 SCRAPER_PAGE_TIMEOUT_S = 30
 SCRAPER_MAX_RETRIES = 3
+SCRAPER_OPEN_DETAILS = True        # open each place panel for clean website/phone/address (slower, accurate)
 USE_OSM_FALLBACK = True            # use OpenStreetMap Nominatim (keyless) to geocode gaps
 SCRAPER_LOCALE = "en-IN"
 SCRAPER_USER_AGENT = (

@@ -66,15 +66,35 @@ quick demo or if Chromium isn’t installed yet.
 
 Live Google Maps scraping needs Playwright’s Chromium browser (`python -m playwright install chromium`).
 
-On some networks (corporate proxies / antivirus that inspect TLS) this download fails with
-`UNABLE_TO_VERIFY_LEAF_SIGNATURE`. Safe fixes, best first:
+On some Windows machines (antivirus / proxy that inspects HTTPS) this download fails with
+`UNABLE_TO_VERIFY_LEAF_SIGNATURE`. The download tool (Node) doesn't trust your security software's
+certificate. **Proven fix** — export the certificates Windows already trusts and tell Node to use them
+(this *adds* trust, it does **not** disable security):
 
-1. Run the install command on a network **without** TLS interception (e.g. a home network / phone hotspot).
-2. Point Node at your organisation’s root certificate:
-   `setx NODE_EXTRA_CA_CERTS "C:\path\to\corporate-root-ca.pem"` then re-run the install.
-3. Temporarily disable HTTPS/SSL scanning in your antivirus for the one-time download.
+```powershell
+# 1) Export trusted certificates to a file
+$stores = "Cert:\LocalMachine\Root","Cert:\LocalMachine\CA","Cert:\CurrentUser\Root","Cert:\CurrentUser\CA"
+$blocks = Get-ChildItem $stores -EA SilentlyContinue | ForEach-Object {
+  "-----BEGIN CERTIFICATE-----`r`n" +
+  [Convert]::ToBase64String($_.RawData,'InsertLineBreaks') + "`r`n-----END CERTIFICATE-----"
+}
+Set-Content "$env:USERPROFILE\node_ca_bundle.pem" ($blocks -join "`r`n") -Encoding ascii
 
-Until Chromium is installed, the app is fully usable in **mock data** mode.
+# 2) Make Node trust them (permanent), then install Chromium
+setx NODE_EXTRA_CA_CERTS "$env:USERPROFILE\node_ca_bundle.pem"
+$env:NODE_EXTRA_CA_CERTS = "$env:USERPROFILE\node_ca_bundle.pem"
+python -m playwright install chromium
+```
+
+Alternatives: run the install on a network without TLS interception (phone hotspot), or temporarily
+disable HTTPS scanning in your antivirus. Until Chromium is installed, the app is fully usable in
+**mock data** mode.
+
+### Scrape speed vs. detail
+
+`config.py` → `SCRAPER_OPEN_DETAILS` (default `True`) opens each clinic's Google Maps panel to capture a
+clean **phone, website, and full address**. It's accurate but slower. Set it to `False` for a faster run
+that keeps name/rating/reviews/location but skips phone & exact address.
 
 > **Note on scraping:** scraping Google Maps is against Google’s Terms of Service and is more fragile than
 > an official API. This project keeps volume low (≈50 queries), adds polite delays, caches aggressively,
