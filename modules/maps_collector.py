@@ -10,6 +10,7 @@ from __future__ import annotations
 import json
 import random
 import re
+import threading
 import time
 import urllib.parse
 from datetime import datetime
@@ -373,6 +374,29 @@ def _enrich_from_place(page, raw: dict) -> None:
 
 
 def _run_browser(query: str, max_results: int, details_cache: dict | None = None) -> list[dict]:
+    """Run the sync-Playwright scrape in a worker thread.
+
+    Streamlit's script-runner thread has a *running* asyncio loop, and Playwright's sync API refuses
+    to run there ("Sync API inside the asyncio loop"). A fresh worker thread has no event loop, so the
+    sync API works — while the caller's loop and any progress callbacks stay on the main thread.
+    """
+    box: dict = {}
+
+    def _work():
+        try:
+            box["raws"] = _run_browser_impl(query, max_results, details_cache)
+        except BaseException as exc:  # captured and re-raised on the caller thread
+            box["err"] = exc
+
+    t = threading.Thread(target=_work, daemon=True)
+    t.start()
+    t.join()
+    if "err" in box:
+        raise box["err"]
+    return box.get("raws", [])
+
+
+def _run_browser_impl(query: str, max_results: int, details_cache: dict | None = None) -> list[dict]:
     """Open Google Maps for a query and return raw listing dicts. Network/browser side-effect."""
     from playwright.sync_api import sync_playwright
 
