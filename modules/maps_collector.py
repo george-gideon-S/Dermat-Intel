@@ -480,7 +480,7 @@ def scrape_query(query_row: dict, max_results: int, cache: dict,
                  details_cache: dict | None = None) -> list[dict]:
     """Scrape one query (cache-first), map to result rows, dedupe + OSM-geocode gaps."""
     q = query_row["search_query"]
-    if q in cache:
+    if cache.get(q):  # only reuse a non-empty cached result (never a past failure)
         raws = cache[q]
     else:
         raws = []
@@ -491,7 +491,8 @@ def scrape_query(query_row: dict, max_results: int, cache: dict,
                     break
             except Exception:
                 time.sleep(2 ** (attempt + 1))
-        cache[q] = raws
+        if raws:  # don't cache failures, so they're retried next run
+            cache[q] = raws
         _polite_sleep()
 
     if not raws:
