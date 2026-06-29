@@ -24,6 +24,13 @@ VULNERABLE_XLSX = str(BASE_DIR / "data" / "vulnerable_10.xlsx")
 MAPS_CACHE = str(BASE_DIR / ".cache" / "maps_raw.json")
 METADATA_FILE = str(BASE_DIR / "metadata.json")
 
+# --- Google-web SERP screenshot dataset (free: manual full-page captures + Claude-vision extraction) ---
+SCREENSHOTS_DIR = str(BASE_DIR / "data" / "Full Page Screenshots")  # the 78 manual SERP PNGs
+WEB_TILES_DIR = str(BASE_DIR / ".cache" / "web_tiles")              # ephemeral legible tiles (gitignored)
+WEB_SCREENS_CACHE = str(BASE_DIR / ".cache" / "web_screens.json")  # extracted SERP dataset (source of truth)
+SEARCH_RESULTS_XLSX = str(BASE_DIR / "data" / "google_search_results.xlsx")  # Task 1 export
+UNIFIED_XLSX = str(BASE_DIR / "data" / "unified_results.xlsx")      # Task 2: Maps ‖ web per-clinic
+
 # --- Scraper settings (free Google Maps scraping via Playwright) ---
 SCRAPER_HEADLESS = True
 SCRAPER_MIN_DELAY_S = 1.5          # randomized polite delay between actions (anti rate-limit)
