@@ -37,9 +37,12 @@ def main() -> int:
 
     if "--web" in args:
         qrows = storage.load_rows(storage.QUERIES_JSON) or []
-        print(f"Scraping Google web search for {len(qrows)} queries "
-              f"(a browser window opens — solve the CAPTCHA once if shown)…")
-        web = wc.collect_web(qrows, progress_cb=lambda i, n, q: print(f"  [{i}/{n}] {q[:42]}", flush=True))
+        print(f"Opening ONE Chrome window for {len(qrows)} Google searches.")
+        print("  → When a CAPTCHA appears, just solve it in that window — the script WAITS for you")
+        print("    and continues automatically. You usually only solve once or twice (cookies stick),")
+        print("    and it saves after every query, so you can stop and resume anytime.\n")
+        web = wc.collect_web_interactive(
+            qrows, progress_cb=lambda i, n, q: print(f"  [{i}/{n}] {q[:42]}", flush=True))
         got = sum(1 for v in web.values() if v)
         print(f"Google web results captured for {got}/{len(qrows)} queries.")
 

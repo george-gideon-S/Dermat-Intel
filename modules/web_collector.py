@@ -259,20 +259,21 @@ def _run_browser(query: str, max_results: int) -> list[dict]:
     return box.get("results", [])
 
 
-def _launch_context(p):
+def _launch_context(p, headless=None):
     """Persistent Chrome context (real channel first, bundled Chromium as fallback)."""
+    hl = _WEB_HEADLESS if headless is None else headless
     args = [
         "--disable-blink-features=AutomationControlled",
         "--no-sandbox",
         "--disable-gpu",
         "--window-size=1366,768",
     ]
-    if _WEB_HEADLESS:  # explicit new-headless if someone forces headless mode
+    if hl:  # explicit new-headless if someone forces headless mode
         args.append("--headless=new")
     Path(_PROFILE_DIR).mkdir(parents=True, exist_ok=True)
     kwargs = dict(
         user_data_dir=_PROFILE_DIR,
-        headless=_WEB_HEADLESS,
+        headless=hl,
         args=args,
         locale=config.SCRAPER_LOCALE,
         timezone_id="Asia/Kolkata",
@@ -463,6 +464,85 @@ def _save_cache(cache: dict) -> None:
 def _polite_sleep() -> None:
     # Web search needs gentler pacing than Maps; 5-15s human-like gaps reduce the block rate.
     time.sleep(random.uniform(5.0, 15.0))
+
+
+def collect_web_interactive(query_rows, max_results: int = 10, progress_cb=None,
+                            solve_timeout: float = 300.0) -> dict:
+    """Human-in-the-loop Google collection.
+
+    Opens ONE persistent, visible Chrome window reused across every query and PAUSES for you to
+    solve any CAPTCHA (polls until the /sorry wall clears, up to `solve_timeout`s). Because the
+    profile is persistent (`.cache/web_profile/`), Google's cookies usually clear the wall after one
+    or two solves and the rest flow automatically. Cache-first (`.cache/web_raw.json`), saved after
+    every success so you can quit and resume. Returns {query: [results]}.
+    """
+    from playwright.sync_api import sync_playwright
+
+    cache = _load_cache()
+    queries = [q.get("search_query", "") for q in query_rows if q.get("search_query")]
+    out = {q: cache[q] for q in queries if cache.get(q)}
+    todo = [q for q in queries if not cache.get(q)]
+    if not todo:
+        return out
+
+    with sync_playwright() as p:
+        ctx = _launch_context(p, headless=False)  # always visible so you can solve the CAPTCHA
+        try:
+            ctx.add_init_script(_STEALTH_JS)
+        except Exception:
+            pass
+        page = ctx.pages[0] if ctx.pages else ctx.new_page()
+        page.set_default_timeout(config.SCRAPER_PAGE_TIMEOUT_S * 1000)
+        try:
+            page.goto("https://www.google.com/?hl=en&gl=in", wait_until="domcontentloaded")
+            time.sleep(1.0)
+            _handle_consent(page)
+        except Exception:
+            pass
+
+        n = len(todo)
+        for i, query in enumerate(todo, start=1):
+            if progress_cb:
+                progress_cb(i, n, query)
+            search_text = query if "guntur" in query.lower() else f"{query} Guntur"
+            term = urllib.parse.quote_plus(search_text)
+            url = f"https://www.google.com/search?q={term}&num={max(max_results, 10)}&hl=en&gl=in&pws=0"
+            try:
+                page.goto(url, wait_until="domcontentloaded")
+            except Exception:
+                pass
+            time.sleep(1.0)
+            _handle_consent(page)
+
+            if _blocked(page):
+                print(f"   CAPTCHA shown — solve it in the browser window for query {i}/{n}; "
+                      f"I'll continue automatically once it clears...", flush=True)
+                waited = 0.0
+                while _blocked(page) and waited < solve_timeout:
+                    time.sleep(3.0)
+                    waited += 3.0
+                if _blocked(page):
+                    print(f"   Skipped '{query}' (not solved in {int(solve_timeout)}s) — "
+                          f"re-run --web to retry it.", flush=True)
+                    continue
+                _handle_consent(page)
+
+            try:
+                page.wait_for_selector("div#search, div#rso, a:has(h3)", timeout=8000)
+            except Exception:
+                pass
+            res = _extract_serp(page, max_results)
+            if res:
+                cache[query] = res
+                out[query] = res
+                _save_cache(cache)  # persist after each success (resume-safe)
+            time.sleep(random.uniform(1.5, 3.5))  # session is warm now; gentler pacing is fine
+
+        try:
+            ctx.close()
+        except Exception:
+            pass
+    return out
 
 
 # --------------------------------------------------------------------------- collect
