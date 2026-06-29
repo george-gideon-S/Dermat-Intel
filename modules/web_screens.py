@@ -34,6 +34,24 @@ AGGREGATOR_PLATFORMS = {"practo", "justdial", "lybrate", "skedoc", "sulekha", "d
 SOCIAL_PLATFORMS = {"instagram", "facebook", "youtube"}
 BORROWED_PLATFORMS = AGGREGATOR_PLATFORMS | SOCIAL_PLATFORMS | {"traya"}
 SPONSORED_TYPES = {"sponsored_top", "sponsored_mid"}
+VALID_BLOCK_TYPES = {"sponsored_top", "sponsored_mid", "places", "organic", "ai_overview"}
+
+
+def _normalize_block(b: dict) -> dict:
+    """Repair vision blocks whose block_type holds a platform string (fields occasionally swapped).
+
+    An unrecognised block_type means a plain organic result whose platform leaked into block_type —
+    coerce block_type to 'organic' and recover the platform when it wasn't separately captured.
+    """
+    bt = b.get("block_type")
+    if bt in VALID_BLOCK_TYPES:
+        return b
+    out = dict(b)
+    if (not out.get("platform")) or out.get("platform") == "other":
+        if bt and bt != "other":
+            out["platform"] = bt
+    out["block_type"] = "organic"
+    return out
 
 
 # --------------------------------------------------------------------------- query reconciliation
@@ -91,7 +109,7 @@ def reconcile(parts: list[dict], manifest: dict, query_rows: list[dict]) -> dict
             "search_box_text": q.get("search_box_text", ""),
             "match_confidence": m["match_confidence"],
             "readable": q.get("readable", True),
-            "blocks": q.get("blocks", []),
+            "blocks": [_normalize_block(b) for b in q.get("blocks", [])],
         })
     unmatched = [qr.get("search_query") for qr in query_rows if qr.get("search_query") not in matched]
     return {

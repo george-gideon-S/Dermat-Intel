@@ -38,6 +38,29 @@ def test_match_query_unmatched_returns_none_rank():
 
 
 # --------------------------------------------------------------------------- reconcile (78 vs 80)
+def test_normalize_block_coerces_platform_mislabeled_as_block_type():
+    # vision occasionally puts the platform into block_type; coerce to organic + recover the platform
+    b = ws._normalize_block({"block_type": "instagram", "platform": "other", "title": "x"})
+    assert b["block_type"] == "organic" and b["platform"] == "instagram"
+    b2 = ws._normalize_block({"block_type": "clinic_site", "platform": "", "title": "y"})
+    assert b2["block_type"] == "organic" and b2["platform"] == "clinic_site"
+    # valid block types are left untouched (platform preserved)
+    keep = ws._normalize_block({"block_type": "places", "platform": "clinic_site"})
+    assert keep["block_type"] == "places" and keep["platform"] == "clinic_site"
+    assert ws._normalize_block({"block_type": "sponsored_top", "platform": "other"})["block_type"] == "sponsored_top"
+
+
+def test_reconcile_normalizes_blocks():
+    parts = [{"queries": [{"index": 0, "search_box_text": "best dermatologist in Guntur",
+              "readable": True, "blocks": [{"block_type": "instagram", "platform": "other",
+                                            "title": "Some Clinic (@handle)"}]}]}]
+    manifest = {"num_screenshots": 1, "num_queries_expected": 1,
+                "screenshots": [{"index": 0, "screenshot": "a.png"}]}
+    out = ws.reconcile(parts, manifest, [{"rank": 1, "search_query": "best dermatologist in Guntur"}])
+    blk = out["queries"][0]["blocks"][0]
+    assert blk["block_type"] == "organic" and blk["platform"] == "instagram"
+
+
 def test_reconcile_maps_by_search_box_and_reports_missing():
     parts = [
         {"queries": [{"index": 0, "search_box_text": "best dermatologist in Guntur",
