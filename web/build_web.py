@@ -88,15 +88,26 @@ def _clinic(row, nlp_map=None) -> dict:
 
 
 def _attach_web(agg):
-    """Attach Google-web visibility to the aggregated clinics (enables the 40% web blend)."""
+    """Attach Google-web visibility to the aggregated clinics (enables the 40% web blend).
+
+    Prefers the richer screenshot-derived signal (owned vs borrowed presence) when it exists; falls
+    back to the legacy live-collector cache (appearances-only). Neither present -> Maps-only score.
+    """
+    from modules import unify_results, web_screens
+    clinics = [{"name": r.get("name"), "website": r.get("website"), "place_url": r.get("place_url")}
+               for _, r in agg.iterrows()]
+
+    screens = web_screens.load_web_screens()
+    if screens.get("queries"):  # screenshot dataset present -> presence-weighted owned/borrowed signal
+        web_by = web_screens.aggregate_web_by_clinic(screens, clinics)
+        return unify_results.unify(agg, web_by)
+
     try:
         web_by_query = web_collector._load_cache()
     except Exception:
         web_by_query = {}
     if not web_by_query:
         return agg  # no web data collected yet -> score stays Maps-only
-    clinics = [{"name": r.get("name"), "website": r.get("website"), "place_url": r.get("place_url")}
-               for _, r in agg.iterrows()]
     match = web_collector.match_clinics_web(web_by_query, clinics)
 
     def key_of(r):

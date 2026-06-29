@@ -281,6 +281,16 @@ def save_web_screens(screens: dict, path: str | None = None) -> str:
     return path
 
 
+def load_web_screens(path: str | None = None) -> dict:
+    """Load the persisted screenshot dataset; {} if it doesn't exist yet."""
+    path = path or config.WEB_SCREENS_CACHE
+    try:
+        with open(path, encoding="utf-8") as fh:
+            return json.load(fh)
+    except (FileNotFoundError, json.JSONDecodeError):
+        return {}
+
+
 def clinics_from_maps() -> list[dict]:
     """The 34 Maps clinics as lightweight match records (name/website/place_url)."""
     from modules import storage
