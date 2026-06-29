@@ -96,7 +96,7 @@ def build_payload() -> dict:
         "generated_at": (storage.load_meta() or {}).get("last_run") or datetime.now().isoformat(timespec="seconds"),
         "city": config.TARGET_CITY,
         "kpis": {"unique_clinics": 0, "no_website_count": 0, "avg_rating": 0,
-                 "median_reviews": 0, "pct_with_website": 0,
+                 "avg_reviews": 0, "pct_with_website": 0,
                  "total_appearances": len(ok), "queries": len(qrows)},
         "clinics": [], "top10": [], "categories": [], "rating_distribution": [],
         "median_appearances": 0,
@@ -116,7 +116,7 @@ def build_payload() -> dict:
 
     payload["kpis"] = {
         "unique_clinics": int(k["unique_clinics"]), "no_website_count": no_web,
-        "avg_rating": round(float(k["avg_rating"]), 2), "median_reviews": int(k["median_reviews"]),
+        "avg_rating": round(float(k["avg_rating"]), 2), "avg_reviews": int(k["avg_reviews"]),
         "pct_with_website": round(float(k["pct_with_website"]), 1),
         "total_appearances": len(ok), "queries": len(qrows),
     }

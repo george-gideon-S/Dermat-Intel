@@ -31,7 +31,7 @@ def render():
     c1, c2, c3, c4 = st.columns(4)
     c1.metric("Unique clinics", k["unique_clinics"])
     c2.metric("Avg rating", k["avg_rating"])
-    c3.metric("Median reviews", k["median_reviews"])
+    c3.metric("Average reviews", k["avg_reviews"])
     c4.metric("% with website", f'{k["pct_with_website"]}%')
     cL, cR = st.columns(2)
     _chart(cL, figs["donut"], "Where local search demand concentrates.", "an_donut")

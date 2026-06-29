@@ -113,16 +113,16 @@
   // ============================================================ KPIs
   document.getElementById("kpis").innerHTML = [
     { label: "Unique clinics", val: int(k.unique_clinics), ctx: `${int(k.total_appearances)} appearances across ${k.queries} searches` },
-    { label: "No website", val: int(k.no_website_count), u: `/ ${k.unique_clinics}`, ctx: `${(100 - k.pct_with_website).toFixed(1)}% have no online home` },
+    { label: "No / weaker website", val: int(k.no_website_count), u: `/ ${k.unique_clinics}`, ctx: `${(100 - k.pct_with_website).toFixed(1)}% have no online home` },
     { label: "Avg rating", val: r1(k.avg_rating), u: "★", ctx: "Reputation is uniformly strong" },
-    { label: "Median reviews", val: int(k.median_reviews), ctx: "Typical social-proof base" },
+    { label: "Average reviews", val: int(k.avg_reviews), ctx: "Mean social-proof base" },
   ].map((x) => `<div class="kpi"><span class="label">${x.label}</span><span class="val">${x.val}${x.u ? `<span class="u">${x.u}</span>` : ""}</span><span class="ctx">${x.ctx}</span></div>`).join("");
 
   // ============================================================ opportunity list + detail
   const maxScore = Math.max(...top.map((c) => c.score), 1);
   document.getElementById("opp-list").innerHTML = top.map((c, i) => {
     const col = labelColor(c.label);
-    const site = c.has_website ? '<span class="site">● website</span>' : '<span class="nosite">● no website</span>';
+    const site = c.has_website ? '<span class="site">● website</span>' : '<span class="nosite">● no / weaker site</span>';
     return `<div class="opp-row" data-i="${i}" data-clinic="${esc(c.name)}">
       <span class="rank">${i + 1}</span>
       <div><div class="name" title="${esc(c.name)}">${esc(c.display_name || c.name)}</div>
@@ -187,7 +187,7 @@
   const medApp = D.median_appearances || 0;
   document.getElementById("land-legend").innerHTML =
     `<span class="l"><span class="sw" style="background:${C.accent}"></span>Has website</span>` +
-    `<span class="l"><span class="sw" style="background:${C.clay}"></span>No website</span>` +
+    `<span class="l"><span class="sw" style="background:${C.clay}"></span>No / weaker website</span>` +
     `<span class="l" style="color:var(--ink-3)">bubble = vulnerability score</span>`;
   const land = mk("chart-landscape");
   land.setOption(Object.assign({}, baseAnim, {
@@ -229,12 +229,12 @@
       padAngle: 2, itemStyle: { borderRadius: 4 }, label: { show: false }, labelLine: { show: false },
       data: [
         { value: k.unique_clinics - k.no_website_count, name: "Has website", itemStyle: { color: C.accent } },
-        { value: k.no_website_count, name: "No website", itemStyle: { color: C.clay } },
+        { value: k.no_website_count, name: "No / weaker website", itemStyle: { color: C.clay } },
       ],
     }],
     graphic: [
       { type: "text", left: "center", top: "42%", style: { text: k.no_website_count + "/" + k.unique_clinics, fontFamily: C.mono, fontSize: 30, fontWeight: 500, fill: C.ink, textAlign: "center" } },
-      { type: "text", left: "center", top: "60%", style: { text: "no website", fontFamily: C.mono, fontSize: 11, fill: C.ink3, textAlign: "center" } },
+      { type: "text", left: "center", top: "60%", style: { text: "no / weaker website", fontFamily: C.mono, fontSize: 11, fill: C.ink3, textAlign: "center" } },
     ],
   }));
 

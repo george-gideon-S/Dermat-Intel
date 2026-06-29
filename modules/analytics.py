@@ -50,7 +50,8 @@ def _placeholder(msg: str = "No data yet — run the pipeline"):
 def kpis(result_rows: list[dict]) -> dict:
     u = aggregate_clinics(result_rows)
     if u.empty:
-        return {"unique_clinics": 0, "avg_rating": 0.0, "median_reviews": 0, "pct_with_website": 0.0}
+        return {"unique_clinics": 0, "avg_rating": 0.0, "median_reviews": 0,
+                "avg_reviews": 0, "pct_with_website": 0.0}
     ratings = u["rating"].dropna()
     reviews = u["user_ratings_total"].dropna()
     has_web = int((u["website"].fillna("").astype(str).str.strip() != "").sum())
@@ -58,6 +59,7 @@ def kpis(result_rows: list[dict]) -> dict:
         "unique_clinics": len(u),
         "avg_rating": round(float(ratings.mean()), 2) if not ratings.empty else 0.0,
         "median_reviews": int(reviews.median()) if not reviews.empty else 0,
+        "avg_reviews": int(round(reviews.mean())) if not reviews.empty else 0,
         "pct_with_website": round(100 * has_web / len(u), 1),
     }
 
