@@ -1,5 +1,10 @@
 # PROMPT — Next session
 
+> ✅ **COMPLETED in Phase 10** (2026-06-30). The screenshot extraction + unify task below is done:
+> `web_screens.json` + `google_search_results.xlsx` + `unified_results.xlsx` built, 40% web term live,
+> 121 tests. See SESSION_LOG.md (Phase 10) and `docs/superpowers/specs/2026-06-30-…-design.md`.
+> Kept below as the historical brief.
+
 Paste this to start the next session.
 
 ---

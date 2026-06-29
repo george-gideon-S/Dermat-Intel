@@ -3,7 +3,7 @@
 Working memory + instructions for Claude Code. **Read this first every session.** Companion docs:
 [ARCHITECTURE.md](ARCHITECTURE.md) (how it's built), [DESIGN.md](DESIGN.md) (UI + scoring rationale),
 [SESSION_LOG.md](SESSION_LOG.md) (history), [README.md](README.md) (user guide), [PROMPT.md](PROMPT.md)
-(the next task).
+(the Phase-10 screenshot brief, now complete).
 
 ## What this is
 A **100% free, no-API-key** market-intelligence platform that finds the dermatology clinics in
@@ -26,7 +26,10 @@ opportunity/diagnostic, not accusatory.
 | Scrape clinics from Google Maps | `python run_pipeline.py` (resume-safe; only scrapes uncached queries) |
 | Reviews + NLP | `python collect_extras.py --reviews` |
 | Google web relevance (headful, manual CAPTCHA) | `python collect_extras.py --web` |
-| Tests | `python -m pytest -q` (97 passing) |
+| Slice SERP screenshots → tiles | `python modules/screenshot_slicer.py` (Pillow; `.cache/web_tiles/` + manifest) |
+| Build google-search dataset (after vision extraction) | `python modules/web_screens.py` → `web_screens.json` + `data/google_search_results.xlsx` |
+| Unify Maps + search → 40% web term | `python modules/unify_results.py` → `data/unified_results.xlsx` |
+| Tests | `python -m pytest -q` (121 passing) |
 
 ## Environment gotchas (these cost hours last time — heed them)
 - **TLS interception** on this machine breaks HTTPS downloads (Node + Python `requests`). Fix already
@@ -54,6 +57,14 @@ opportunity/diagnostic, not accusatory.
 - `web_collector.py` — Google **web** SERP collector (headful interactive) + `match_clinics_web`.
 - `reviews_collector.py` — Google Maps **reviews** scraper (resume-safe, throttle backoff).
 - `reviews_nlp.py` — **free** VADER NLP: sentiment, themes, pain points, referral rate, recency.
+- `screenshot_slicer.py` — Pillow tiling of the tall full-page SERP PNGs into legible overlapping tiles
+  (a whole page downscales to illegible in Claude vision) + manifest. Tiles are ephemeral/gitignored.
+- `web_screens.py` — **screenshot google-search dataset**: reconcile screenshots→queries (map by
+  search-box text, **never order**; report the 78-vs-80 gap), clinic mapping (reuses `web_collector`
+  helpers), block normalization, per-clinic **OWNED-vs-BORROWED** web visibility, and
+  `google_search_results.xlsx`. Independent of the Maps dataset.
+- `unify_results.py` — merge the clinic-level Maps view + the screenshot web signal →
+  `unified_results.xlsx`; exposes the per-clinic web signal that feeds the 40% web term.
 
 ## Front ends
 - **Streamlit**: `app.py` + `components/` (`tab_queries`, `tab_results`, `tab_analytics`,
@@ -65,9 +76,11 @@ opportunity/diagnostic, not accusatory.
 ## Data (ALL gitignored)
 - `.cache/`: `query_rows.json` (80 queries), `result_rows.json` (≈750 appearance rows → 34 unique
   clinics), `maps_raw.json`, `maps_details.json`, `reviews_raw.json`, `reviews_nlp.json`,
-  `web_raw.json`, `web_profile/` (persistent Chrome profile for headful web).
+  `web_raw.json`, `web_profile/` (persistent Chrome profile for headful web), **`web_screens.json`**
+  (extracted SERP dataset — 78 queries, ~1122 blocks), **`web_tiles/`** (ephemeral SERP tiles + manifest).
 - `data/`: `search_queries.xlsx` (80), `google_maps_results.xlsx`, `vulnerable_10.xlsx`,
-  **`Full Page Screenshots/`** (78 full-page Google SERP PNGs — the NEXT task; see PROMPT.md).
+  **`google_search_results.xlsx`** (one row per SERP block), **`unified_results.xlsx`** (Maps ‖ web per
+  clinic), **`Full Page Screenshots/`** (78 full-page Google SERP PNGs, extracted).
 - `metadata.json`: last-run timestamp.
 
 ## The opportunity score (`vulnerability.py`)
@@ -78,21 +91,33 @@ Non-operational clinics ×0.4. Higher = bigger opportunity.
     weak rating (< 4.8) **8**, no phone **6**.
   - REACH: demand **16** (appearances/25, capped), high-intent **14** (share in Pricing/Booking/
     Near-Me), central location **12** (≤ 3 km from city core).
-- **Web** = invisibility from `web_appearances` across the 50 web searches.
+- **Web (LIVE via screenshots)** = invisibility from the screenshot dataset: **OWNED** (own-site organic
+  ranking or paid ad) drives visibility, **BORROWED** (aggregator/social-only, e.g. Practo/JustDial)
+  earns partial credit, **Places-only / absent = fully invisible** (the Places pack is Maps re-surfaced,
+  excluded so the 40% web term doesn't echo the 60% Maps term). `web_relevance_vuln` keeps a
+  backward-compatible legacy `web_appearances` path. Calibrated: `OWNED_FULL=6`, `BORROWED_FULL=12`,
+  `BORROWED_CREDIT=0.35`. Wired in via `build_web._attach_web` (prefers screenshots over the live cache).
 - Labels: **Critical 80+, High 60–79, Medium 40–59, Low 0–39** (calm sand→clay palette, never red).
 - **Reviews-NLP** (sentiment / pain points / referral rate) currently feeds the "Patient voice" panel,
   **not** the numeric score yet (referral rate + review velocity are the intended word-of-mouth inputs).
 
 ## Conventions
-- Logic-heavy code is TDD'd; keep `pytest` green (**97 tests**). Commit frequently to local `master`
+- Logic-heavy code is TDD'd; keep `pytest` green (**121 tests**). Commit frequently to local `master`
   (no remote). End commit messages with `Co-Authored-By: Claude Opus 4.8 <noreply@anthropic.com>`.
-- Gitignored: `.cache/*.json`, `data/*.xlsx`, `data/Full Page Screenshots/`, `web/dist/`, `metadata.json`.
+- Gitignored: `.cache/*.json`, `.cache/web_tiles/`, `data/*.xlsx`, `data/Full Page Screenshots/`,
+  `web/dist/`, `metadata.json`.
 - Visual/functional QA of the web app is done with **Playwright screenshots** + a headless functional
   suite (see `tests/` and the scratchpad scripts pattern in SESSION_LOG.md).
 
-## Current state (2026-06-29)
-80 queries (50 original + 30 season/condition queries from research) · 34 clinics scored, **Maps-only
-live** (web 40% pending a data source) · reviews-NLP for 31 clinics · premium web dashboard built ·
-97 tests pass. **Next:** extract the Google SERP **screenshots** in `data/Full Page Screenshots/` into a
-structured google-search dataset, map to clinics, keep it independent of the Maps data, then unify.
-Full brief in **[PROMPT.md](PROMPT.md)**.
+## Current state (2026-06-30)
+80 queries · 34 clinics scored with the **full 60/40 blend now LIVE** (Maps + Google-web from the
+screenshot dataset) · reviews-NLP for 31 clinics · premium web dashboard built (`web_available=True`) ·
+**121 tests pass**.
+- **Screenshot dataset done**: 78 SERP screenshots → 440 tiles → vision-extracted **78 queries / ~1122
+  blocks** → `web_screens.json` + `google_search_results.xlsx` (Task 1), unified into `unified_results.xlsx`
+  feeding the 40% web term (Task 2). Spec: `docs/superpowers/specs/2026-06-30-google-serp-screenshot-dataset-design.md`.
+- **78-vs-80**: the 2 queries with no screenshot are rank 50 *"best dermatologist in Guntur for
+  pigmentation"* and rank 69 *"urticaria hives treatment Guntur"*. All 78 mapped exact by search-box text.
+- **15 of 34 clinics have ZERO web presence** (top opportunities pair this with high Maps demand).
+- **Next candidates**: fold review-NLP (referral/word-of-mouth) into the numeric score; surface the
+  owned/borrowed web signals + zero-presence flag in the dashboard UI.

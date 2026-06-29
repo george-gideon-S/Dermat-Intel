@@ -37,6 +37,9 @@ over the same JSON/Excel outputs. Deleting `web/` doesn't affect Streamlit and v
 | `reviews_collector` | Scrape **all** Google Maps reviews per clinic (resume-safe, throttle backoff, CID fallback) | `reviews_raw.json` |
 | `reviews_nlp` | Free offline NLP (VADER): sentiment, themes, pain points, referral rate, recency | `reviews_nlp.json` |
 | `web_collector` | Google **web** SERP (headful interactive, persistent profile) + match results to clinics | `web_raw.json` |
+| `screenshot_slicer` | Pillow-tile the tall full-page SERP PNGs into legible overlapping tiles + manifest | `.cache/web_tiles/` |
+| `web_screens` | **Screenshot** google-search dataset: reconcile→queries (by search-box text), clinic map, **owned/borrowed** web signal | `web_screens.json`, `google_search_results.xlsx` |
+| `unify_results` | Merge Maps clinic view + screenshot web signal → per-clinic 40%-web input | `unified_results.xlsx` |
 | `storage` | JSON state store + metadata | `.cache/*.json`, `metadata.json` |
 
 ### Presentation layer
@@ -85,8 +88,13 @@ over the same JSON/Excel outputs. Deleting `web/` doesn't affect Streamlit and v
 - Web UI: Playwright full-page + per-section screenshots for visual QA, and a headless functional
   suite (charts render, row→detail linking, table sort/filter, no horizontal overflow, empty state).
 
-## 6. Not yet wired (roadmap)
-- **Google-web 40%** is architected but needs data (run `collect_extras.py --web`, or the new
-  **screenshot-extraction** path — see PROMPT.md).
+## 6. Google-web 40% — LIVE (Phase 10)
+The **screenshot → google-search dataset** path is built and wired (SESSION_LOG Phase 10):
+`screenshot_slicer` (tile the manual SERP PNGs) → **Claude-vision extraction** (one-time, persisted to
+`web_screens.json`) → `web_screens` (reconcile by search-box text + clinic map + **owned/borrowed**
+visibility) → `unify_results` → `build_web._attach_web` feeds `vulnerability.web_relevance_vuln`
+(presence-weighted, backward-compatible). 78 queries / ~1122 blocks; the blend moved 31/34 clinics ≥10 pts.
+
+## 7. Not yet wired (roadmap)
 - **Review-NLP into the score** (word-of-mouth factor) — currently display-only.
-- Screenshot-based Google SERP dataset → unify with Maps (the immediate next task).
+- Surface the owned/borrowed web signals + the zero-web-presence flag in the dashboard UI.

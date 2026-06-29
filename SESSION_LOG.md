@@ -68,11 +68,28 @@ Commits are local on `master`. Newest phases at the bottom.
 - Renamed exports to count-agnostic names: `search_queries.xlsx`, `google_maps_results.xlsx`
   (kept `vulnerable_10.xlsx`); updated config, download names, README, spec.
 
-## Phase 9 — Documentation (this entry)
+## Phase 9 — Documentation (`9ae4547`)
 - Created CLAUDE.md, ARCHITECTURE.md, DESIGN.md, README refresh, SESSION_LOG.md, PROMPT.md.
 
+## Phase 10 — Screenshot → google-search dataset → 40% web term LIVE (`450e14c → ff7b7a6`)
+Brainstormed + spec'd (`docs/superpowers/specs/2026-06-30-…-design.md`), then built the two-task pipeline.
+- **Extraction method**: Tesseract absent + full pages downscale to illegible in Claude vision → chose
+  **vision on Pillow-tiled images** (1500×1600, 180px overlap). 78 PNGs → **440 legible tiles**.
+- **Hybrid execution**: locked the schema on a diverse sample (confirmed sponsored/places/AI-overview/
+  aggregators/own-sites all extractable), then **10 parallel subagents** (~8 screenshots each) wrote
+  per-part JSON. A mid-run **API 529 overload** killed 3 batches; recovered by re-dispatching only those.
+- **`web_screens.py`** (TDD): reconcile screenshots→queries by **search-box text, not order** (order had
+  drifted +2 from the 2 missing screenshots); clinic mapping reuses `web_collector` helpers; block
+  normalization (vision sometimes swapped block_type/platform); per-clinic **OWNED vs BORROWED** signal.
+- **Key scoring decision**: OWNED = own-site organic / paid ad; BORROWED = aggregator/social-only (partial
+  credit); **Places excluded** (it's Maps re-surfaced — would echo the 60% Maps term). `web_relevance_vuln`
+  got a backward-compatible presence-weighted branch (legacy 4 tests stay green). Calibrated against the
+  real distribution (owned mean 5.5 → `OWNED_FULL=6`).
+- **`unify_results.py`** (TDD) + wired `build_web._attach_web` to prefer the screenshot signal.
+- **Results**: 78 queries / ~1122 blocks; **15 of 34 clinics have zero web presence**; the web term moved
+  31/34 clinics ≥10 pts; dashboard `web_available=True`. 97 → **121 tests**.
+
 ## Current state
-80 queries · 34 clinics scored (Maps-only live; web 40% pending) · review-NLP for 31 clinics · premium
-web dashboard built · **97 tests pass**. Next task in **PROMPT.md**: extract the 78 Google SERP
-screenshots in `data/Full Page Screenshots/` into a structured, independent google-search dataset →
-map to clinics → unify with the Maps dataset.
+80 queries · 34 clinics scored with the **full 60/40 blend live** (Maps + screenshot-derived Google-web) ·
+review-NLP for 31 clinics · premium web dashboard built · **121 tests pass**. Candidates next: fold
+review-NLP word-of-mouth into the numeric score; surface owned/borrowed + zero-web-presence in the UI.
