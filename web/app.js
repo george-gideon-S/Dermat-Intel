@@ -131,6 +131,19 @@
     </div>`;
   }).join("");
 
+  function nlpBlock(n) {
+    const pretty = (t) => esc(String(t).replace(/_/g, " "));
+    const chips = (arr, cls) => (arr || []).map((t) => `<span class="chip ${cls}">${pretty(t)}</span>`).join("");
+    const sent = (n.neg || 0) >= 30 ? "Mixed" : ((n.pos || 0) >= 60 ? "Positive" : "Neutral");
+    return `<div class="voice">
+      <div class="voice-h">Patient voice · ${int(n.n)} reviews analysed</div>
+      <div class="voice-row"><span>Sentiment</span><b style="color:${(n.neg || 0) > 30 ? C.clay : C.accent}">${sent} · ${Math.round(n.pos || 0)}% positive, ${Math.round(n.neg || 0)}% negative</b></div>
+      ${(n.themes && n.themes.length) ? `<div class="voice-row"><span>Praised</span><div>${chips(n.themes, "good")}</div></div>` : ""}
+      ${(n.pains && n.pains.length) ? `<div class="voice-row"><span>Pain points</span><div>${chips(n.pains, "bad")}</div></div>` : ""}
+      <div class="voice-row"><span>Word-of-mouth</span><b>${Math.round((n.referral || 0) * 100)}% of reviews mention a referral</b></div>
+    </div>`;
+  }
+
   function renderDetail(i) {
     const c = top[i]; if (!c) return;
     const col = labelColor(c.label);
@@ -145,6 +158,7 @@
         <div class="s"><div class="k">Website</div><div class="v" style="color:${c.has_website ? C.accent : C.clay}">${c.has_website ? "Yes" : "None"}</div></div>
       </div>
       <div class="note">${esc(c.notes || "")}</div>
+      ${c.nlp ? nlpBlock(c.nlp) : ""}
       <div class="actions">
         ${safeUrl(c.place_url) ? `<a class="btn primary" href="${safeUrl(c.place_url)}" target="_blank" rel="noopener">View on Google Maps ↗</a>` : ""}
         ${c.phone ? `<a class="btn" href="tel:${safeTel(c.phone)}">${esc(c.phone)}</a>` : ""}

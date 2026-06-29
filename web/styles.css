@@ -184,6 +184,16 @@ section:first-of-type { border-top: 0; }
 .btn.primary { background: var(--ink); color: var(--paper); border-color: var(--ink); }
 .btn.primary:hover { background: #000; }
 
+/* review-NLP "patient voice" block in the detail panel */
+.opp-detail .voice { margin-top: var(--s5); border-top: 1px solid var(--line-2); padding-top: var(--s4); }
+.voice-h { font-family: var(--mono); font-size: 10.5px; letter-spacing: .08em; text-transform: uppercase; color: var(--ink-3); margin-bottom: var(--s3); }
+.voice-row { display: flex; gap: var(--s3); align-items: baseline; font-size: 12.5px; color: var(--ink-2); margin-bottom: 7px; }
+.voice-row > span:first-child { width: 104px; flex: none; color: var(--ink-3); font-family: var(--mono); font-size: 11px; }
+.voice-row b { font-weight: 500; color: var(--ink); }
+.chip { display: inline-block; font-size: 11px; padding: 2px 9px; border-radius: 999px; margin: 0 5px 5px 0; text-transform: capitalize; }
+.chip.good { background: var(--accent-12); color: var(--accent-ink); }
+.chip.bad { background: rgba(176,84,44,.12); color: var(--neg); }
+
 /* ---------------------------------------------------------------- cards / charts */
 .card { background: var(--surface); border: 1px solid var(--line); border-radius: var(--r); box-shadow: var(--shadow-sm); overflow: hidden; }
 .card .card-head { padding: var(--s5) var(--s5) 0; }

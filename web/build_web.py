@@ -14,7 +14,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))  # repo root for config/modules
 
 import config
-from modules import analytics, storage, vulnerability
+from modules import analytics, maps_collector, reviews_nlp, storage, vulnerability, web_collector
 
 WEB = Path(__file__).resolve().parent
 VENDOR = WEB / "vendor"
@@ -49,14 +49,14 @@ def _num(v, nd=None):
     return round(float(v), nd) if nd is not None else int(round(float(v)))
 
 
-def _clinic(row) -> dict:
+def _clinic(row, nlp_map=None) -> dict:
     full = str(row.get("name") or "")
     disp = _display_name(full)
     web = "" if _isna(row.get("website")) else str(row.get("website")).strip()
     phone = None if _isna(row.get("formatted_phone_number")) else str(row.get("formatted_phone_number")).strip()
     raw_notes = "" if _isna(row.get("opportunity_notes")) else str(row.get("opportunity_notes"))
     notes = raw_notes.replace(full, disp) if full and disp != full else raw_notes
-    return {
+    d = {
         "name": full,
         "display_name": disp,
         "rating": _num(row.get("rating"), 1),
@@ -71,6 +71,51 @@ def _clinic(row) -> dict:
         "label": str(row.get("vulnerability_label") or "Low"),
         "notes": notes,
     }
+    key = maps_collector.dedup_key(d["place_url"]) or full.lower()
+    n = (nlp_map or {}).get(key)
+    if n and n.get("n_reviews"):
+        names = lambda items: [(t[0] if isinstance(t, (list, tuple)) else t) for t in (items or [])][:3]
+        d["nlp"] = {
+            "n": n.get("n_reviews"),
+            "sentiment": n.get("avg_sentiment"),
+            "pos": n.get("pos_pct"), "neg": n.get("neg_pct"),
+            "themes": names(n.get("top_positive_themes")),
+            "pains": names(n.get("top_negative_themes")),
+            "referral": n.get("referral_mention_rate"),
+            "recent6mo": (n.get("recency_summary") or {}).get("last_6mo"),
+        }
+    return d
+
+
+def _attach_web(agg):
+    """Attach Google-web visibility to the aggregated clinics (enables the 40% web blend)."""
+    try:
+        web_by_query = web_collector._load_cache()
+    except Exception:
+        web_by_query = {}
+    if not web_by_query:
+        return agg  # no web data collected yet -> score stays Maps-only
+    clinics = [{"name": r.get("name"), "website": r.get("website"), "place_url": r.get("place_url")}
+               for _, r in agg.iterrows()]
+    match = web_collector.match_clinics_web(web_by_query, clinics)
+
+    def key_of(r):
+        return maps_collector.dedup_key(r.get("place_url") or "") or str(r.get("name") or "").lower()
+
+    agg = agg.copy()
+    agg["web_appearances"] = agg.apply(lambda r: (match.get(key_of(r)) or {}).get("web_appearances", 0), axis=1)
+    agg["web_data"] = True
+    return agg
+
+
+def _load_nlp() -> dict:
+    try:
+        with open(reviews_nlp.nlp_cache_path(), encoding="utf-8") as fh:
+            data = json.load(fh)
+        data.pop("_meta", None)
+        return data
+    except Exception:
+        return {}
 
 
 def _rating_bins(clinics) -> list:
@@ -104,12 +149,14 @@ def build_payload() -> dict:
     if not ok:
         return payload
 
-    scored = vulnerability.score_clinics(vulnerability.aggregate_clinics(ok))
+    agg = _attach_web(vulnerability.aggregate_clinics(ok))
+    scored = vulnerability.score_clinics(agg)
     if scored is None or scored.empty:
         return payload
     k = analytics.kpis(ok)
-    clinics = [_clinic(r) for _, r in scored.sort_values("vulnerability_score", ascending=False).iterrows()]
-    top10 = [_clinic(r) for _, r in vulnerability.top_n(scored, 10).iterrows()]
+    nlp_map = _load_nlp()
+    clinics = [_clinic(r, nlp_map) for _, r in scored.sort_values("vulnerability_score", ascending=False).iterrows()]
+    top10 = [_clinic(r, nlp_map) for _, r in vulnerability.top_n(scored, 10).iterrows()]
     no_web = sum(1 for c in clinics if not c["has_website"])
     pct_no = round(100 - k["pct_with_website"], 1)
     med_app = float(scored["appearances"].median())
@@ -133,6 +180,8 @@ def build_payload() -> dict:
         f"({pct_no:.0f}%) have no website at all. The clearest opportunities are the established, "
         f"in-demand clinics with no digital home."
     )
+    payload["web_available"] = bool("web_data" in scored.columns and scored["web_data"].any())
+    payload["reviews_available"] = any(c.get("nlp") for c in clinics)
     return payload
 
 

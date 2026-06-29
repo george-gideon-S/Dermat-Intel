@@ -36,6 +36,24 @@ Typical loop: refresh data in Streamlit (or `python run_pipeline.py`) → `pytho
 
 ---
 
+## Deeper signals (reviews NLP + Google-web)
+
+Two optional enrichments deepen the clinic report:
+
+```bash
+python collect_extras.py --reviews   # scrape Google Maps reviews for every clinic + free NLP
+python collect_extras.py --web       # Google web-search visibility (the 40% of the score)
+python derma_web.py                  # rebuild the dashboard with whatever you've collected
+```
+
+- **Reviews + NLP** (reliable, resume-safe): sentiment, what patients praise, **pain points**, and a
+  **word-of-mouth / referral rate** per clinic — shown in each clinic's "Patient voice" panel. Google
+  throttles bursts, so re-run `--reviews` to fill any clinics it skipped.
+- **Google web relevance** (the 40% blend): Google **blocks automated/headless** web-search scraping,
+  so `--web` opens a **real browser window** — solve the one-time CAPTCHA and it captures all 50
+  queries (cookies carry the rest). Until you run it, the opportunity score uses Google-Maps signals
+  only (noted in the dashboard footer).
+
 ## What you get (Streamlit console)
 
 - **Tab 1 — Queries:** paste-in workflow + a sortable/filterable table of all 50 queries (category,
