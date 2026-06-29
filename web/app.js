@@ -28,7 +28,7 @@
   const genStr = genDate ? genDate.toLocaleString("en-IN", { dateStyle: "medium", timeStyle: "short" }) : "—";
   setText("m-city", D.city || "");
   setText("m-generated", "Updated " + genStr);
-  setText("foot-generated", "Generated " + genStr + " · " + (D.kpis ? D.kpis.queries : 0) + " queries · " + (D.kpis ? int(D.kpis.total_appearances) : 0) + " appearances");
+  setText("foot-generated", "Generated " + genStr + " · " + (D.kpis ? D.kpis.queries : 0) + " queries · " + (D.kpis ? int(D.kpis.total_appearances) : 0) + " appearances · Google-Maps opportunity model");
 
   // ---- empty state ----
   if (!D.clinics || !D.clinics.length) {
@@ -59,7 +59,7 @@
     <div class="sec-head">
       <span class="eyebrow">Where the opportunity is</span>
       <h2>The ten clinics to approach first</h2>
-      <p>Ranked by a 0–100 vulnerability score — the gap between a clinic's local demand and its online presence. Select one to see the case.</p>
+      <p>Ranked by a 0–100 opportunity score — strong local demand and a central location weighed against weak online presence. Select one to see the case.</p>
     </div>
     <div class="opp-grid">
       <div class="opp-list" id="opp-list"></div>
@@ -188,7 +188,7 @@
   document.getElementById("land-legend").innerHTML =
     `<span class="l"><span class="sw" style="background:${C.accent}"></span>Has website</span>` +
     `<span class="l"><span class="sw" style="background:${C.clay}"></span>No / weaker website</span>` +
-    `<span class="l" style="color:var(--ink-3)">bubble = vulnerability score</span>`;
+    `<span class="l" style="color:var(--ink-3)">bubble = opportunity score</span>`;
   const land = mk("chart-landscape");
   land.setOption(Object.assign({}, baseAnim, {
     grid: { left: 58, right: 28, top: 24, bottom: 52 },
