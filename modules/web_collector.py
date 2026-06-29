@@ -466,6 +466,51 @@ def _polite_sleep() -> None:
     time.sleep(random.uniform(5.0, 15.0))
 
 
+def _looks_blocked(page) -> bool:
+    """True if Google is showing a verification wall (URL, reCAPTCHA iframe, or 'unusual traffic')."""
+    try:
+        if "/sorry/" in page.url or "consent.google.com" in page.url:
+            return True
+        if page.locator("iframe[src*='recaptcha'], form#captcha-form, #recaptcha").count() > 0:
+            return True
+        body = (page.locator("body").inner_text(timeout=1000) or "")[:800].lower()
+        return ("unusual traffic" in body) or ("not a robot" in body)
+    except Exception:
+        return False
+
+
+def _await_results(page, max_results: int, timeout: float) -> list[dict]:
+    """Poll until real organic results appear (i.e. after the human solves any CAPTCHA), or timeout.
+
+    Success is defined by RESULTS being present — robust to redirect timing and inline CAPTCHAs that
+    don't change the URL. Prompts the user once when a wall is detected.
+    """
+    waited, prompted = 0.0, False
+    while waited < timeout:
+        try:
+            _handle_consent(page)
+        except Exception:
+            pass
+        try:
+            if page.locator("div#search a:has(h3), div#rso a:has(h3), a:has(h3)").count() > 0:
+                res = _extract_serp(page, max_results)
+                if res:
+                    return res
+        except Exception:
+            pass
+        if not prompted and _looks_blocked(page):
+            try:
+                cur = page.url
+            except Exception:
+                cur = ""
+            print(f"      verification needed (at {cur[:62]}). Solve it in the window — "
+                  f"I'll continue automatically the moment results load.", flush=True)
+            prompted = True
+        time.sleep(2.0)
+        waited += 2.0
+    return []
+
+
 def collect_web_interactive(query_rows, max_results: int = 10, progress_cb=None,
                             solve_timeout: float = 300.0) -> dict:
     """Human-in-the-loop Google collection.
@@ -511,31 +556,14 @@ def collect_web_interactive(query_rows, max_results: int = 10, progress_cb=None,
                 page.goto(url, wait_until="domcontentloaded")
             except Exception:
                 pass
-            time.sleep(1.0)
-            _handle_consent(page)
-
-            if _blocked(page):
-                print(f"   CAPTCHA shown — solve it in the browser window for query {i}/{n}; "
-                      f"I'll continue automatically once it clears...", flush=True)
-                waited = 0.0
-                while _blocked(page) and waited < solve_timeout:
-                    time.sleep(3.0)
-                    waited += 3.0
-                if _blocked(page):
-                    print(f"   Skipped '{query}' (not solved in {int(solve_timeout)}s) — "
-                          f"re-run --web to retry it.", flush=True)
-                    continue
-                _handle_consent(page)
-
-            try:
-                page.wait_for_selector("div#search, div#rso, a:has(h3)", timeout=8000)
-            except Exception:
-                pass
-            res = _extract_serp(page, max_results)
+            res = _await_results(page, max_results, solve_timeout)
             if res:
                 cache[query] = res
                 out[query] = res
                 _save_cache(cache)  # persist after each success (resume-safe)
+                print(f"      got {len(res)} results", flush=True)
+            else:
+                print(f"      no results for '{query}' (skipped) — re-run --web to retry", flush=True)
             time.sleep(random.uniform(1.5, 3.5))  # session is warm now; gentler pacing is fine
 
         try:
