@@ -65,7 +65,7 @@ python derma_web.py                  # rebuild the dashboard with whatever you'v
 - **Tab 4 — Vulnerable 10:** ranked cards + an auto-written opportunity note per clinic, with **Excel**
   and **one-page PDF** export.
 
-All three spreadsheets (`search_queries_50.xlsx`, `google_maps_results_50.xlsx`, `vulnerable_10.xlsx`)
+All three spreadsheets (`search_queries.xlsx`, `google_maps_results.xlsx`, `vulnerable_10.xlsx`)
 open cleanly in Excel and Google Sheets.
 
 ---

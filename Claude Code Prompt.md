@@ -52,8 +52,8 @@ derma-intel/
 ├── README.md
 ├── metadata.json             # Last-run timestamp + run stats (created at runtime)
 ├── data/
-│   ├── search_queries_50.xlsx
-│   ├── google_maps_results_50.xlsx
+│   ├── search_queries.xlsx
+│   ├── google_maps_results.xlsx
 │   ├── vulnerable_10.xlsx
 │   └── .gitkeep
 ├── .cache/
@@ -161,7 +161,7 @@ For each query it returns a dict with all 5 fields the rest of the app expects:
 warn if not exactly 50, and let the user proceed with whatever parsed (min 1) or re-paste.
 
 ### c) `save_queries_xlsx(rows) -> str`
-Saves to `data/search_queries_50.xlsx` with:
+Saves to `data/search_queries.xlsx` with:
 - Auto-adjusted column widths
 - Bold header row with light blue background fill (#DDEEFF)
 - Freeze top row
@@ -231,7 +231,7 @@ Show in Streamlit:
 - Confirmation dialog: "This will open a headless browser and scrape ~50 Google Maps searches
   (~X–Y minutes). Continue?"
 
-Save to `data/google_maps_results_50.xlsx`:
+Save to `data/google_maps_results.xlsx`:
 - Up to 750 rows (50 queries × 15 results)
 - Freeze header row
 - Alternating row fill (white / light gray)

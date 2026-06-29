@@ -81,7 +81,7 @@ def _render_table(rows: list[dict]):
     p = Path(config.QUERIES_XLSX)
     if p.exists():
         st.download_button("⬇ Download queries (.xlsx)", p.read_bytes(),
-                           file_name="search_queries_50.xlsx", key="dl_queries")
+                           file_name="search_queries.xlsx", key="dl_queries")
 
     with st.expander("↻ Replace queries"):
         _render_setup(prefix="replace")
