@@ -155,6 +155,14 @@ def test_aggregate_owned_borrowed_places_semantics():
     assert all(v["web_data"] is True for v in agg.values())
 
 
+def test_aggregate_collects_borrowed_platforms_per_clinic():
+    # the third-party real-estate carrying each clinic (for "found via Practo, JustDial" copy)
+    agg = ws.aggregate_web_by_clinic(_web_screens(), _clinics())
+    assert "practo" in agg["1"]["platforms"]       # Sowmya named on a Practo page
+    assert "justdial" in agg["2"]["platforms"]      # Chandana on JustDial
+    assert agg["3"]["platforms"] == []              # Skin Perfect only in the Places pack
+
+
 def test_aggregate_marks_clinic_with_no_web_presence():
     screens = {"queries": [{"rank": 1, "search_query": "x", "readable": True, "blocks": [
         {"position": 1, "block_type": "organic", "platform": "practo",

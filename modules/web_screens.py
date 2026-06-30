@@ -171,7 +171,7 @@ def aggregate_web_by_clinic(web_screens: dict, clinics: list[dict]) -> dict:
     out = {c["key"]: {"web_data": True, "web_appearances": 0, "web_owned_appearances": 0,
                       "web_borrowed_appearances": 0, "web_best_position": None,
                       "has_own_site": False, "in_places_count": 0, "sponsored_count": 0,
-                      "ai_overview_count": 0} for c in prepared}
+                      "ai_overview_count": 0, "platforms": set()} for c in prepared}
 
     for q in web_screens.get("queries", []):
         per: dict[str, list[tuple[dict, bool]]] = {}
@@ -209,6 +209,12 @@ def aggregate_web_by_clinic(web_screens: dict, clinics: list[dict]) -> dict:
                 rec["sponsored_count"] += 1
             if any(b.get("block_type") == "ai_overview" for b, _ in items):
                 rec["ai_overview_count"] += 1
+            for b, _ in items:                       # third-party real-estate carrying the clinic
+                if b.get("platform") in BORROWED_PLATFORMS:
+                    rec["platforms"].add(b["platform"])
+
+    for rec in out.values():
+        rec["platforms"] = sorted(rec["platforms"])
     return out
 
 
