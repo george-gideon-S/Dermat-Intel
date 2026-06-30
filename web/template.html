@@ -2,15 +2,21 @@
 <html lang="en">
 <head>
 <meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Derma Intel — Guntur</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<title>Derma Intel — Guntur market intelligence · Trinade</title>
+<meta name="description" content="Where Guntur's dermatology clinics stand online — a Trinade market-intelligence report." />
 <style>{{STYLES}}</style>
 </head>
 <body>
-<!-- ROUGH SKETCH (Phase 11 wires the polished design). app.js builds sidebar + views + tour into #app. -->
-<div id="app"></div>
+<!-- shell.js prepends the top bar; story.js builds #story; app.js renders the tabs into #app -->
+<main id="story"></main>
+<main id="app" hidden></main>
 <script>{{ECHARTS}}</script>
+<script>{{GSAP}}</script>
 <script>window.__DATA__ = {{DATA}};</script>
+<script>{{SHELL_JS}}</script>
+<script>{{STORY_JS}}</script>
 <script>{{APP_JS}}</script>
+<script>window.DI && DI.boot && DI.boot();</script>
 </body>
 </html>

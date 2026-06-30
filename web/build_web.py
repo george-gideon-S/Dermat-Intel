@@ -293,11 +293,48 @@ def _font_face_css() -> str:
     return "\n".join(blocks)
 
 
+# GSAP (vendored offline) — order matters: core first, then plugins.
+_GSAP = ["gsap.min.js", "ScrollTrigger.min.js", "SplitText.min.js", "ScrollToPlugin.min.js"]
+_SHOTS = WEB.parent / "data" / "Full Page Screenshots"
+
+
+def _gsap_js() -> str:
+    parts = []
+    for fn in _GSAP:
+        p = VENDOR / fn
+        if p.exists():
+            parts.append(p.read_text(encoding="utf-8"))
+    return "\n".join(parts)
+
+
+def _copy_proof(payload) -> int:
+    """Bundle the SERP proof screenshots the app references into dist/proof/ — deploy-safe
+    (no ../../data escape, so the same dist/ works on file:// and on Vercel)."""
+    import shutil
+    dest = DIST / "proof"
+    dest.mkdir(parents=True, exist_ok=True)
+    names = {(c.get("proof") or {}).get("screenshot") for c in payload.get("clinics", [])}
+    names.discard(None)
+    n = 0
+    for name in names:
+        src = _SHOTS / name
+        if src.exists():
+            try:
+                shutil.copyfile(src, dest / name)
+                n += 1
+            except Exception:
+                pass
+    return n
+
+
 def build() -> str:
     payload = build_payload()
     template = (WEB / "template.html").read_text(encoding="utf-8")
     styles = (WEB / "styles.css").read_text(encoding="utf-8")
+    shell_js = (WEB / "shell.js").read_text(encoding="utf-8")
+    story_js = (WEB / "story.js").read_text(encoding="utf-8")
     app_js = (WEB / "app.js").read_text(encoding="utf-8")
+    gsap_js = _gsap_js()
 
     echarts_path = VENDOR / "echarts.min.js"
     if echarts_path.exists():
@@ -316,13 +353,18 @@ def build() -> str:
     html = (template
             .replace("{{STYLES}}", css)
             .replace("{{ECHARTS}}", echarts_js)
+            .replace("{{GSAP}}", gsap_js)
             .replace("{{DATA}}", data_json)
+            .replace("{{SHELL_JS}}", shell_js)
+            .replace("{{STORY_JS}}", story_js)
             .replace("{{APP_JS}}", app_js))
 
-    out = DIST / "derma_intel.html"
+    n_proof = _copy_proof(payload)
+    out = DIST / "index.html"            # Vercel serves this at /
     out.write_text(html, encoding="utf-8")
+    (DIST / "derma_intel.html").write_text(html, encoding="utf-8")  # back-compat for the local opener
     n = payload["kpis"]["unique_clinics"]
-    print(f"Built {out}  ({len(html) // 1024} KB, {n} clinics)")
+    print(f"Built {out}  ({len(html) // 1024} KB, {n} clinics, {n_proof} proof imgs)")
     return str(out)
 
 
