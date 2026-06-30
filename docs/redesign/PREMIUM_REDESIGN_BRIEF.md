@@ -34,16 +34,17 @@ unmistakably-not-AI* craft that justifies a paid engagement.
   shape* — not `modules/`. Keep pytest green; QA the UI with Playwright screenshots.
 - Platform **Python 3.10 / Windows**; the build stays `python derma_web.py` (build + open, no server).
 
-## What to surface that the data already supports (currently hidden in the UI)
-The 40% web term is **live** but the front-end doesn't yet *tell the story*. The payload
-(`build_web._clinic`) does **not** yet carry the web signal. Add per-clinic
-`web = {owned, borrowed, appearances, has_own_site, invisibility, platforms[]}` (tiny addition to
-`web_screens.aggregate_web_by_clinic` to also return the borrowed platforms per clinic) and render:
-- a **"Web visibility"** block in the clinic detail (clinic-facing copy, no "owned/borrowed" jargon):
-  own-site ranks → *"Ranks its own site in N of 78 Google searches"*; aggregators-only → *"Found only
-  via Practo, JustDial — its own site never ranks"*; Maps-pack-only / absent → *"Invisible in Google
-  web search."*
-- a hero KPI substantiating "invisible online": **15 of 34 clinics have zero web presence**.
+## Content engine is BUILT — render two views (see [CONTENT_SPEC.md](CONTENT_SPEC.md))
+The doctor-facing **content/feature engine is done, wired, and tested** (`modules/report.py`, 135 pytest
+green). The `build_web.py` payload now carries, **per clinic**: a higher-is-better **`visibility`** score +
+`visibility_rank`, a one-line `verdict`, `web {owned, borrowed, appearances, has_own_site, in_places,
+platforms[]}`, a 5-check `scorecard[]` (website/search/maps/reviews/phone), `benchmarks[]` (you-vs-market),
+and the real-SERP **`proof`** (a high-demand search where the clinic is absent + who shows up instead +
+the screenshot file). Plus `payload.market` (market summary). **The redesign renders two clearly separated
+views from this:** ① a **"Your Clinic" report** (primary/conversion) and ② a **"Market" dashboard**
+(secondary/motivation). Full structure + copy + chart treatments in **CONTENT_SPEC.md**. This replaces the
+seller-oriented "ten clinics to approach first" framing with a doctor-facing one (the internal opportunity
+score stays seller-only).
 
 ## The installed skills (global, in `~/.claude/skills/`) and how to use them
 Invoke as slash commands / via the Skill tool. **Process skills first, then implementation.**

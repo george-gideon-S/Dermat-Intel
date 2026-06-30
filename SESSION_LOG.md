@@ -89,7 +89,21 @@ Brainstormed + spec'd (`docs/superpowers/specs/2026-06-30-…-design.md`), then 
 - **Results**: 78 queries / ~1122 blocks; **15 of 34 clinics have zero web presence**; the web term moved
   31/34 clinics ≥10 pts; dashboard `web_available=True`. 97 → **121 tests**.
 
+## Phase 10.5 — Doctor-facing content engine + two-view product definition (`67ebd07`, `5f5644e`)
+Reviewed the dashboard for clarity/persuasion/conversion and found the core issue: it's built for the
+**seller** (prospect list, competitor scatter), but sold to the **doctor** (who wants their own standing)
+— and the opportunity score is *backwards* for a doctor (high = weakest). Decision: **two separated views,
+one dataset** — ① "Your Clinic" report (primary/conversion) + ② "Market" dashboard (motivation).
+Built `modules/report.py` (TDD): higher-is-better **Online Visibility** score + rank, 5-check scorecard
+(website/search/maps/reviews/phone), you-vs-market benchmarks, plain verdict, market summary, and the
+real-**SERP proof** (highest-demand search where the clinic is absent + who shows up instead + the
+screenshot). `aggregate_web_by_clinic` now also returns borrowed `platforms`. Wired into the payload via
+`build_web._attach_reports`; verified on real data (Suram visibility 13/rank 26; Sneha Kovi 79; Leelavathi
+97). Content/structure spec for both views: `docs/redesign/CONTENT_SPEC.md`. 121 → **135 tests**. The
+*visual* build of the two views is Phase 11 (parallel session).
+
 ## Current state
-80 queries · 34 clinics scored with the **full 60/40 blend live** (Maps + screenshot-derived Google-web) ·
-review-NLP for 31 clinics · premium web dashboard built · **121 tests pass**. Candidates next: fold
-review-NLP word-of-mouth into the numeric score; surface owned/borrowed + zero-web-presence in the UI.
+80 queries · 34 clinics scored with the **full 60/40 blend live** · review-NLP for 31 clinics · premium web
+dashboard built · doctor-facing report engine + two-view content spec done · **135 tests pass**. Next:
+Phase 11 premium visual redesign of the two views (see `NEXT_SESSION_PROMPT.md`); optionally fold
+review-NLP word-of-mouth into the score.

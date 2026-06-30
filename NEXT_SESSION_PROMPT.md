@@ -63,18 +63,23 @@ worker-thread fixes) → premium web UI ("Quiet Precision") → scoring recalibr
 (GAP+REACH, 60/40 blend) → reviews-NLP + headful web collector → 80-query expansion → docs → **Phase 10:
 the screenshot→google-search dataset and the 40% web term went LIVE** (78 queries/~1122 blocks; **15 of
 34 clinics have zero web presence**; the blend moved 31/34 clinics ≥10 pts; dashboard `web_available=True`).
-**Current state: 80 queries · 34 clinics scored on the full 60/40 blend · 121 pytest green · dashboard
-built.** Full history in `SESSION_LOG.md`.
+**Current state: 80 queries · 34 clinics scored on the full 60/40 blend · 135 pytest green · dashboard
+built.** A **doctor-facing content engine** (`modules/report.py`) is also built + wired into the payload:
+per-clinic **Online Visibility** score (higher=better) + rank, a 5-check scorecard, you-vs-market
+benchmarks, a plain verdict, and the real-SERP **proof**, plus `payload.market`. Full history in
+`SESSION_LOG.md`.
 
 ## 4) YOUR TASK — Phase 11: premium redesign (see `docs/redesign/PREMIUM_REDESIGN_BRIEF.md`)
 Make Derma Intel look and feel like an **expensive, studio-quality product** — premium motion, premium
 icons, premium UI, premium UX — good enough to sell to clinics and to upsell website builds. Deliverables:
 1. **Brand Identity Design Guide** (`docs/redesign/BRAND_GUIDE.md` + image boards): Color palette,
    Typography, Logo/mark, Iconography, Motion principles, Components, Website system, **Don'ts**.
-2. **Redesigned premium dashboard** (`web/`): studio-quality UI, **GSAP motion (vendored offline)**,
-   premium icons, refined UX. Fold in the **deferred web-visibility feature** — surface OWNED vs BORROWED
-   and the 15 zero-web-presence clinics (the payload `build_web._clinic` doesn't carry the web signal yet;
-   add it + a small `platforms` return in `web_screens.aggregate_web_by_clinic`). Details in the brief.
+2. **Redesigned premium product, as TWO clearly separated views** (`web/`): studio-quality UI, **GSAP
+   motion (vendored offline)**, premium icons, refined UX. ① a **"Your Clinic" report** (primary,
+   conversion) and ② a **"Market" dashboard** (secondary, motivation). The content engine + payload are
+   **already built** — you render them; do not rebuild the logic. Full structure, copy, and chart
+   treatments in **`docs/redesign/CONTENT_SPEC.md`**; show doctors `visibility` (higher=better), never the
+   raw seller `score`.
 3. **(Upsell, next) per-clinic premium website/report template** from the same data.
 
 **Presentation-only:** change `web/template.html`, `web/styles.css`, `web/app.js`, `web/vendor/`, and the

@@ -112,7 +112,12 @@ Non-operational clinics ×0.4. Higher = bigger opportunity.
 ## Current state (2026-06-30)
 80 queries · 34 clinics scored with the **full 60/40 blend now LIVE** (Maps + Google-web from the
 screenshot dataset) · reviews-NLP for 31 clinics · premium web dashboard built (`web_available=True`) ·
-**121 tests pass**.
+**135 tests pass**.
+- **Doctor-facing content engine built** (`modules/report.py`, TDD): per-clinic **Online Visibility**
+  score (higher=better) + rank, 5-check scorecard, you-vs-market benchmarks, plain verdict, and the
+  real-SERP **proof**; `payload.market` summary. Wired into the payload via `build_web._attach_reports`.
+  Powers a planned **two-view** product — ① "Your Clinic" report + ② "Market" dashboard. Content/structure
+  spec: [docs/redesign/CONTENT_SPEC.md](docs/redesign/CONTENT_SPEC.md) (visual build is Phase 11).
 - **Screenshot dataset done**: 78 SERP screenshots → 440 tiles → vision-extracted **78 queries / ~1122
   blocks** → `web_screens.json` + `google_search_results.xlsx` (Task 1), unified into `unified_results.xlsx`
   feeding the 40% web term (Task 2). Spec: `docs/superpowers/specs/2026-06-30-google-serp-screenshot-dataset-design.md`.
