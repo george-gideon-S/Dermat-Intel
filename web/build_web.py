@@ -25,6 +25,9 @@ _FONTS = [
     ("Geist", 400, "geist-400.woff2"), ("Geist", 500, "geist-500.woff2"),
     ("Geist", 600, "geist-600.woff2"), ("Geist", 700, "geist-700.woff2"),
     ("Geist Mono", 400, "geistmono-400.woff2"), ("Geist Mono", 500, "geistmono-500.woff2"),
+    # Brand display face (Warm Intelligence) — vendored offline, see docs/redesign/BRAND_GUIDE.md §10
+    ("Bricolage Grotesque", 700, "bricolage-700.woff2"),
+    ("Bricolage Grotesque", 800, "bricolage-800.woff2"),
 ]
 
 

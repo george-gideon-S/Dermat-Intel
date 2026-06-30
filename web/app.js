@@ -14,9 +14,16 @@
   const int = (v) => (v == null ? "—" : nf.format(Math.round(v)));
   const r1 = (v) => (v == null ? "—" : Number(v).toFixed(1));
   const esc = (s) => String(s == null ? "" : s).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
-  const C = { ink: "#16150F", ink2: "#57554B", ink3: "#908E82", line: "#E2E0D6", accent: "#0F766E",
-    blue: "#1f6feb", orange: "#C8843F", good: "#0F766E", warn: "#B07A12", bad: "#B0542C",
-    mono: '"Geist Mono",monospace', sans: '"Geist",sans-serif' };
+  const C = { ink: "#0B0B0C", ink2: "#54504A", ink3: "#8A847B", line: "rgba(11,11,12,.10)",
+    cobalt: "#1F6BF0", amber: "#FFB200", orange: "#FB5A1E", red: "#ED3A36", grass: "#16A64C",
+    lavender: "#A98BF2", purple: "#9B3FEE",
+    accent: "#9B3FEE", blue: "#1F6BF0", good: "#16A64C", warn: "#FFB200", bad: "#ED3A36",
+    mono: '"Geist Mono",monospace', sans: '"Geist",sans-serif',
+    cat: ["#1F6BF0", "#FB5A1E", "#16A64C", "#9B3FEE", "#FFB200", "#ED3A36", "#A98BF2"] };
+  // brand tooltip — white card, hairline, soft shadow, Geist (BRAND_GUIDE.md §8)
+  const tip = { backgroundColor: "#fff", borderColor: "rgba(11,11,12,.14)", borderWidth: 1,
+    textStyle: { color: "#0B0B0C", fontFamily: '"Geist",sans-serif', fontSize: 12 },
+    extraCssText: "border-radius:12px;box-shadow:0 10px 30px -12px rgba(0,0,0,.22);padding:8px 11px" };
   const SERP = (f) => "../../data/Full%20Page%20Screenshots/" + encodeURIComponent(f || "");
   const median = (a) => { const s = a.slice().sort((x, y) => x - y); const n = s.length; return n ? (n % 2 ? s[(n - 1) / 2] : (s[n / 2 - 1] + s[n / 2]) / 2) : 0; };
 
@@ -28,7 +35,7 @@
   let CHARTS = [];
   function disposeCharts() { CHARTS.forEach((c) => { try { c.dispose(); } catch (e) {} }); CHARTS = []; }
   function mk(id, opt) { const el = document.getElementById(id); if (!el || !window.echarts) return; const c = echarts.init(el); c.setOption(opt); CHARTS.push(c); }
-  const axis = { axisLine: { lineStyle: { color: C.line } }, axisTick: { show: false }, axisLabel: { color: C.ink3, fontFamily: C.mono, fontSize: 10 }, splitLine: { lineStyle: { color: "#EFEDE5" } } };
+  const axis = { axisLine: { lineStyle: { color: C.line } }, axisTick: { show: false }, axisLabel: { color: C.ink2, fontFamily: C.mono, fontSize: 10 }, splitLine: { lineStyle: { color: "rgba(11,11,12,.06)" } } };
 
   // ---------- client-side derivations ----------
   const AREAS = ["Brodipet", "Kothapet", "Lakshmipuram", "Arundelpet", "Pattabhipuram", "Nagarampalem",
@@ -63,7 +70,7 @@
   }
   function sidebar() {
     return `<aside class="side">
-      <div class="brand" data-go="home">Derma&nbsp;Intel<small>Guntur market intel</small></div>
+      <div class="brand" data-go="home">Derma&nbsp;Intel<span class="dot">.</span><small>Guntur market intel</small></div>
       <button class="nav-home ${state.view === "home" ? "is-active" : ""}" data-go="home">⌂ Home</button>
       <div data-tour="tabs" style="display:flex;flex-direction:column;gap:10px">
         <button class="tab tab--clinic ${state.view === "clinic" ? "is-active" : ""}" data-go="clinic">
@@ -171,18 +178,18 @@
     function pct(b) { return b && b.market ? Math.round(b.you / b.market * 100) : 0; }
     function pctv(you, m) { return m ? Math.round((you || 0) / m * 100) : 0; }
     mk("ch-bench", { grid: { left: 40, right: 16, top: 28, bottom: 24 }, legend: { top: 0, textStyle: { fontSize: 11 } },
-      tooltip: { trigger: "axis" }, xAxis: Object.assign({ type: "category", data: ["Reviews", "Rating", "Searches"] }, axis),
+      tooltip: Object.assign({ trigger: "axis" }, tip), xAxis: Object.assign({ type: "category", data: ["Reviews", "Rating", "Searches"] }, axis),
       yAxis: Object.assign({ type: "value", name: "% of market" }, axis),
       series: [
-        { name: "You", type: "bar", data: youP, itemStyle: { color: C.blue }, markLine: { silent: true, symbol: "none", data: [{ yAxis: 100 }], lineStyle: { color: C.ink3, type: "dashed" }, label: { formatter: "market avg", color: C.ink3, fontSize: 10 } } },
-        { name: "Clinics like you", type: "bar", data: peerP, itemStyle: { color: C.ink3 } },
+        { name: "You", type: "bar", data: youP, itemStyle: { color: C.purple, borderRadius: [6, 6, 0, 0] }, markLine: { silent: true, symbol: "none", data: [{ yAxis: 100 }], lineStyle: { color: C.ink3, type: "dashed" }, label: { formatter: "market avg", color: C.ink3, fontSize: 10 } } },
+        { name: "Clinics like you", type: "bar", data: peerP, itemStyle: { color: C.ink3, borderRadius: [6, 6, 0, 0] } },
       ] });
     const labels = (c.breakdown || []).map((b) => b.label);
-    mk("ch-break", { grid: { left: 130, right: 20, top: 10, bottom: 20 }, tooltip: { trigger: "axis" },
+    mk("ch-break", { grid: { left: 130, right: 20, top: 10, bottom: 20 }, tooltip: Object.assign({ trigger: "axis" }, tip),
       xAxis: Object.assign({ type: "value", max: 30 }, axis), yAxis: Object.assign({ type: "category", data: labels, axisLabel: { color: C.ink2, fontSize: 11 } }, axis),
       series: [
-        { name: "earned", type: "bar", stack: "t", data: (c.breakdown || []).map((b) => b.earned), itemStyle: { color: C.accent } },
-        { name: "gap", type: "bar", stack: "t", data: (c.breakdown || []).map((b) => b.max - b.earned), itemStyle: { color: "#E6E3D8" } },
+        { name: "earned", type: "bar", stack: "t", data: (c.breakdown || []).map((b) => b.earned), itemStyle: { color: C.purple, borderRadius: [6, 0, 0, 6] } },
+        { name: "gap", type: "bar", stack: "t", data: (c.breakdown || []).map((b) => b.max - b.earned), itemStyle: { color: "rgba(11,11,12,.08)", borderRadius: [0, 6, 6, 0] } },
       ] });
   }
 
@@ -244,35 +251,35 @@
   function marketCharts() {
     const ordered = CL.map((c, i) => ({ c, i })).sort((a, b) => (a.c.visibility || 0) - (b.c.visibility || 0));
     const med = median(CL.map((c) => c.visibility || 0));
-    mk("ch-league", { grid: { left: 150, right: 24, top: 6, bottom: 20 }, tooltip: { trigger: "axis" },
+    mk("ch-league", { grid: { left: 150, right: 24, top: 6, bottom: 20 }, tooltip: Object.assign({ trigger: "axis" }, tip),
       xAxis: Object.assign({ type: "value", max: 100 }, axis),
       yAxis: Object.assign({ type: "category", data: ordered.map(({ c }) => (c.display_name || c.name).slice(0, 22)), axisLabel: { fontSize: 9, color: C.ink2 } }, axis),
-      series: [{ type: "bar", data: ordered.map(({ c, i }) => ({ value: c.visibility || 0, itemStyle: { color: i === state.idx ? C.blue : C.accent } })),
+      series: [{ type: "bar", barWidth: "62%", data: ordered.map(({ c, i }) => ({ value: c.visibility || 0, itemStyle: { color: i === state.idx ? C.purple : C.cobalt, borderRadius: [0, 5, 5, 0] } })),
         markLine: { silent: true, symbol: "none", data: [{ xAxis: med }], lineStyle: { color: C.ink3, type: "dashed" } } }] });
-    mk("ch-quad", { grid: { left: 44, right: 20, top: 16, bottom: 40 }, tooltip: { trigger: "item", formatter: (p) => `${esc(p.data.name)}<br/>demand ${p.value[0]} · vis ${p.value[1]}` },
+    mk("ch-quad", { grid: { left: 44, right: 20, top: 16, bottom: 40 }, tooltip: Object.assign({ trigger: "item", formatter: (p) => `${esc(p.data.name)}<br/>demand ${p.value[0]} · vis ${p.value[1]}` }, tip),
       xAxis: Object.assign({ type: "value", name: "searches shown in →", nameLocation: "middle", nameGap: 26 }, axis),
       yAxis: Object.assign({ type: "value", name: "visibility", max: 100 }, axis),
       series: [
-        { type: "scatter", symbolSize: 9, data: CL.map((c) => ({ value: [c.appearances || 0, c.visibility || 0], name: c.display_name || c.name })), itemStyle: { color: "rgba(15,118,110,.5)" },
+        { type: "scatter", symbolSize: 9, data: CL.map((c) => ({ value: [c.appearances || 0, c.visibility || 0], name: c.display_name || c.name })), itemStyle: { color: "rgba(31,107,240,.55)" },
           markLine: { silent: true, symbol: "none", lineStyle: { color: C.ink3, type: "dashed" }, data: [{ xAxis: D.median_appearances || median(CL.map((c) => c.appearances || 0)) }, { yAxis: med }] } },
-        { type: "scatter", symbolSize: 18, data: (CL[state.idx] ? [{ value: [CL[state.idx].appearances || 0, CL[state.idx].visibility || 0], name: "You" }] : []), itemStyle: { color: C.blue, borderColor: "#fff", borderWidth: 2 } },
+        { type: "scatter", symbolSize: 18, data: (CL[state.idx] ? [{ value: [CL[state.idx].appearances || 0, CL[state.idx].visibility || 0], name: "You" }] : []), itemStyle: { color: C.purple, borderColor: "#fff", borderWidth: 2 } },
       ] });
     const own = CL.filter((c) => c.web && c.web.has_own_site).length;
     const invis = CL.filter((c) => (c.web && c.web.appearances || 0) === 0).length;
     const borrowed = CL.filter((c) => c.web && !c.web.has_own_site && ((c.web.borrowed || 0) > 0 || (c.web.platforms || []).length)).length;
     const other = Math.max(0, CL.length - own - invis - borrowed);
-    mk("ch-found", { grid: { left: 8, right: 16, top: 30, bottom: 8 }, legend: { top: 0, textStyle: { fontSize: 10 } }, tooltip: { trigger: "axis" },
+    mk("ch-found", { grid: { left: 8, right: 16, top: 30, bottom: 8 }, legend: { top: 0, textStyle: { fontSize: 10, fontFamily: C.sans } }, tooltip: Object.assign({ trigger: "axis" }, tip),
       xAxis: Object.assign({ type: "value" }, axis), yAxis: { type: "category", data: ["Clinics"], axisLabel: { show: false }, axisLine: { show: false }, axisTick: { show: false } },
       series: [
-        { name: "Rank own site", type: "bar", stack: "s", data: [own], itemStyle: { color: C.accent } },
-        { name: "Only via Practo/JustDial", type: "bar", stack: "s", data: [borrowed], itemStyle: { color: C.orange } },
+        { name: "Rank own site", type: "bar", stack: "s", data: [own], itemStyle: { color: C.grass, borderRadius: [6, 0, 0, 6] } },
+        { name: "Only via Practo/JustDial", type: "bar", stack: "s", data: [borrowed], itemStyle: { color: C.amber } },
         { name: "Other", type: "bar", stack: "s", data: [other], itemStyle: { color: C.ink3 } },
-        { name: "Invisible", type: "bar", stack: "s", data: [invis], itemStyle: { color: C.bad } },
+        { name: "Invisible", type: "bar", stack: "s", data: [invis], itemStyle: { color: C.red, borderRadius: [0, 6, 6, 0] } },
       ] });
     const cats = (D.categories || []).slice().sort((a, b) => a.count - b.count);
-    mk("ch-cat", { grid: { left: 8, right: 28, top: 8, bottom: 8, containLabel: true }, tooltip: { trigger: "axis" },
-      xAxis: Object.assign({ type: "value" }, axis), yAxis: { type: "category", data: cats.map((c) => c.category), axisLabel: { fontSize: 11, color: C.ink2 } },
-      series: [{ type: "bar", data: cats.map((c) => c.count), itemStyle: { color: C.accent, borderRadius: [0, 4, 4, 0] }, label: { show: true, position: "right", color: C.ink3, fontSize: 10 } }] });
+    mk("ch-cat", { grid: { left: 8, right: 28, top: 8, bottom: 8, containLabel: true }, tooltip: Object.assign({ trigger: "axis" }, tip),
+      xAxis: Object.assign({ type: "value" }, axis), yAxis: { type: "category", data: cats.map((c) => c.category), axisLine: { lineStyle: { color: C.line } }, axisTick: { show: false }, axisLabel: { fontSize: 11, color: C.ink2 } },
+      series: [{ type: "bar", barWidth: "62%", data: cats.map((c, i) => ({ value: c.count, itemStyle: { color: C.cat[i % C.cat.length], borderRadius: [0, 6, 6, 0] } })), label: { show: true, position: "right", color: C.ink2, fontFamily: C.mono, fontSize: 10 } }] });
   }
 
   // ---------- wiring ----------
