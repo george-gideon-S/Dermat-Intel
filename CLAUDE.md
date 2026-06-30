@@ -119,5 +119,16 @@ screenshot dataset) · reviews-NLP for 31 clinics · premium web dashboard built
 - **78-vs-80**: the 2 queries with no screenshot are rank 50 *"best dermatologist in Guntur for
   pigmentation"* and rank 69 *"urticaria hives treatment Guntur"*. All 78 mapped exact by search-box text.
 - **15 of 34 clinics have ZERO web presence** (top opportunities pair this with high Maps demand).
-- **Next candidates**: fold review-NLP (referral/word-of-mouth) into the numeric score; surface the
-  owned/borrowed web signals + zero-presence flag in the dashboard UI.
+- **NEXT — Phase 11: premium redesign** (runs in a parallel session). Make the dashboard studio-quality
+  (premium motion via GSAP, premium icons/UI/UX) to sell to Guntur clinics + upsell website builds; craft
+  a Brand Identity Guide. Brief: [docs/redesign/PREMIUM_REDESIGN_BRIEF.md](docs/redesign/PREMIUM_REDESIGN_BRIEF.md);
+  paste-ready kickoff: [NEXT_SESSION_PROMPT.md](NEXT_SESSION_PROMPT.md). Design skills installed globally
+  (`~/.claude/skills/`): `impeccable`, `taste-skill`, `redesign-skill`, `soft-skill`, `brandkit`,
+  `hallmark`, `gsap-*` (8), imagegen-web/mobile. The redesign folds in the still-deferred owned/borrowed +
+  zero-web-presence UI surfacing. Presentation-only — keep `modules/` + the 121 tests intact.
+- **Other candidates**: fold review-NLP (referral/word-of-mouth) into the numeric score.
+
+## Environment note — git over TLS interception
+`git clone` (e.g. installing skills) hits the same MITM cert wall as Node downloads. Fix without weakening
+TLS: `git -c http.sslBackend=schannel clone …` (uses the Windows cert store, which trusts the corporate
+root). Never `http.sslVerify=false`.
