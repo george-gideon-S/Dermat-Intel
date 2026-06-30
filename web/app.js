@@ -253,17 +253,19 @@
     root.querySelectorAll("[data-open]").forEach((o) => o.addEventListener("click", () => { state.idx = +o.dataset.open; (DI.enterApp || DI.renderApp)("clinic"); }));
   }
 
-  // ---------- cursor-tied background parallax (Increment C fleshes the motion) ----------
+  // ---------- cursor-tied background parallax ----------
+  // Translate the composited .cursor-bg layer via inherited :root vars (GPU transform, CSS-smoothed).
+  // Binds once globally so it survives tab re-renders (the layer reads the inherited vars).
   let cursorBound = false;
   function initCursor() {
-    const bg = document.getElementById("cursor-bg");
-    if (!bg || DI.reduced || cursorBound || !window.gsap) return;
+    if (cursorBound || DI.reduced) return;
     cursorBound = true;
-    const xT = gsap.quickTo(bg, "--mx", { duration: 0.6, ease: "power3" });
-    const yT = gsap.quickTo(bg, "--my", { duration: 0.6, ease: "power3" });
+    const root = document.documentElement;
     window.addEventListener("pointermove", (e) => {
-      const nx = (e.clientX / window.innerWidth - 0.5), ny = (e.clientY / window.innerHeight - 0.5);
-      bg.style.setProperty("--mx", (nx * 28).toFixed(2) + "px"); bg.style.setProperty("--my", (ny * 28).toFixed(2) + "px");
+      const nx = (e.clientX / window.innerWidth - 0.5) * 30;
+      const ny = (e.clientY / window.innerHeight - 0.5) * 30;
+      root.style.setProperty("--mx", nx.toFixed(1) + "px");
+      root.style.setProperty("--my", ny.toFixed(1) + "px");
     }, { passive: true });
   }
 

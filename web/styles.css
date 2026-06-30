@@ -167,12 +167,12 @@ a{color:inherit;text-decoration:none}
 /* ============================================================ APP (tabs) === */
 #app{display:block} #app[hidden]{display:none}
 .appwrap{position:relative;min-height:100svh}
-.cursor-bg{position:fixed;inset:0;z-index:0;pointer-events:none;--mx:0px;--my:0px;
+.cursor-bg{position:fixed;inset:-6%;z-index:0;pointer-events:none;will-change:transform;
+  transform:translate3d(var(--mx,0px),var(--my,0px),0);transition:transform .45s var(--ease);
   background:
-    radial-gradient(38rem 38rem at calc(18% + var(--mx)) calc(0% + var(--my)),rgba(155,63,238,.10),transparent 60%),
-    radial-gradient(34rem 34rem at calc(96% - var(--mx)) calc(30% + var(--my)),rgba(31,107,240,.10),transparent 60%),
-    radial-gradient(30rem 30rem at calc(60% + var(--mx)) calc(100% - var(--my)),rgba(251,90,30,.07),transparent 60%);
-  transition:background .25s linear}
+    radial-gradient(38rem 38rem at 16% 0%,rgba(155,63,238,.10),transparent 60%),
+    radial-gradient(34rem 34rem at 98% 28%,rgba(31,107,240,.10),transparent 60%),
+    radial-gradient(30rem 30rem at 62% 100%,rgba(251,90,30,.07),transparent 60%)}
 .appmain{position:relative;z-index:1;max-width:var(--maxw);margin:0 auto;padding:calc(var(--bar-h) + 1.5rem) var(--gutter) 6rem}
 body.in-app{background-attachment:fixed}
 

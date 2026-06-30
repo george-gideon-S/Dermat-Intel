@@ -363,6 +363,7 @@ def build() -> str:
     out = DIST / "index.html"            # Vercel serves this at /
     out.write_text(html, encoding="utf-8")
     (DIST / "derma_intel.html").write_text(html, encoding="utf-8")  # back-compat for the local opener
+    (DIST / "vercel.json").write_text('{\n  "cleanUrls": true,\n  "trailingSlash": false\n}\n', encoding="utf-8")  # static deploy config
     n = payload["kpis"]["unique_clinics"]
     print(f"Built {out}  ({len(html) // 1024} KB, {n} clinics, {n_proof} proof imgs)")
     return str(out)
