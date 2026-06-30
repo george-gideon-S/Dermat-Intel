@@ -1,7 +1,7 @@
 # Derma Intel — Brand Identity Guide
 
 **"Warm Intelligence"** · v1.0 · 2026-06-30 · Units-led direction
-Companion files: [`tokens.css`](tokens.css) (drop-in variables) · [`brand-styleframe.png`](brand-styleframe.png) (the system, rendered) · brief [`PREMIUM_REDESIGN_BRIEF.md`](PREMIUM_REDESIGN_BRIEF.md)
+Companion files: [`tokens.css`](tokens.css) (drop-in variables) · [`Derma-Intel-Brand-Guide.pdf`](Derma-Intel-Brand-Guide.pdf) (the designed booklet) · [`brand-styleframe.png`](brand-styleframe.png) (the system, rendered) · brief [`PREMIUM_REDESIGN_BRIEF.md`](PREMIUM_REDESIGN_BRIEF.md)
 
 > **What this is.** The foundational visual system for Derma Intel — typography, color, spacing, sizing,
 > components, charts, motion. It is established *first*; the dashboard (`web/`, owned by a parallel
