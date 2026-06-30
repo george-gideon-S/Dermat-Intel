@@ -69,6 +69,7 @@
     DI.renderChrome();
     if (window.DIStory && DIStory.onShow) DIStory.onShow();
     window.scrollTo(0, 0);
+    requestAnimationFrame(function () { if (window.ScrollTrigger) ScrollTrigger.refresh(); });
   };
 
   DI.enterApp = function (view) {
@@ -81,7 +82,7 @@
     document.body.classList.add("in-app");
     DI.renderChrome();
     if (DI.renderApp) DI.renderApp(DI.view);
-    window.scrollTo(0, 0);
+    requestAnimationFrame(function () { window.scrollTo(0, 0); if (window.ScrollTrigger) ScrollTrigger.refresh(); });
   };
 
   // scroll-progress rail (cheap; always on, independent of GSAP)

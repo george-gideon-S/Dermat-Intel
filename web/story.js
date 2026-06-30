@@ -181,11 +181,56 @@
     if (g) g.scrollIntoView({ behavior: DI.reduced ? "auto" : "smooth", block: "start" });
   }
 
-  // GSAP scroll choreography — fleshed out in Increment B. Safe no-op if GSAP missing.
+  // GSAP scroll choreography. Only runs when motion is allowed (build() guards on DI.reduced).
   function initMotion() {
     if (!window.gsap) return;
-    try { gsap.registerPlugin(window.ScrollTrigger, window.SplitText, window.ScrollToPlugin); } catch (e) {}
-    /* Increment B: pinned scrub for the tunnel, proof sweep, market build, the turn. */
+    const ST = window.ScrollTrigger;
+    try { gsap.registerPlugin(ST, window.SplitText, window.ScrollToPlugin); } catch (e) {}
+
+    // Act 1 — hook headline reveal (words rise in)
+    const h1 = document.querySelector(".act-hook .story-h1");
+    if (h1 && window.SplitText) {
+      try {
+        const sp = new SplitText(h1, { type: "words" });
+        gsap.from(sp.words, { yPercent: 70, opacity: 0, stagger: 0.06, duration: 0.7, ease: "power3.out", delay: 0.15 });
+      } catch (e) {}
+    }
+
+    if (!ST) return;
+
+    // Act 2 — the Search Tunnel: pin the act, scrub the camera forward through the rings
+    const tunnel = document.querySelector(".act-tunnel");
+    const rings = gsap.utils.toArray(".tunnel .ring:not(.core)");
+    if (tunnel && rings.length) {
+      rings.forEach((r, i) => gsap.set(r, { z: -i * 175, opacity: 1 - i * 0.1, transformOrigin: "50% 50%" }));
+      const counter = { v: 0 };
+      const elInvis = document.getElementById("t-invis");
+      gsap.timeline({ scrollTrigger: { trigger: tunnel, start: "top top", end: "+=200%", pin: true, scrub: 0.6, anticipatePin: 1 } })
+        .to(rings, { z: "+=560", ease: "none" }, 0)
+        .to(counter, { v: INVIS, ease: "none", snap: { v: 1 }, onUpdate: () => { if (elInvis) elInvis.textContent = Math.round(counter.v); } }, 0)
+        .fromTo(".tunnel-cap", { opacity: 0.25, y: 24 }, { opacity: 1, y: 0, ease: "power2.out", duration: 0.4 }, 0.55);
+    }
+
+    // Enter-reveals for the remaining acts (fire once on scroll-in)
+    const reveal = (sel, vars) => {
+      const el = document.querySelector(sel);
+      if (!el) return;
+      gsap.from(el, Object.assign({ opacity: 0, y: 30, duration: 0.7, ease: "power3.out",
+        scrollTrigger: { trigger: el, start: "top 78%", once: true } }, vars || {}));
+    };
+    reveal(".act-proof .story-h2", { y: 24 });
+    reveal(".act-proof .proof-frame");
+    reveal(".act-market .story-h2", { y: 24 });
+    reveal(".act-turn .locked-slot", { scale: 0.94, y: 20 });
+    reveal(".act-gate .gate-card", { y: 36 });
+
+    // market: the category bars draw in
+    const bars = gsap.utils.toArray(".mk-bar i");
+    if (bars.length) {
+      gsap.from(bars, { scaleX: 0, transformOrigin: "0 50%", stagger: 0.08, duration: 0.8, ease: "power3.out",
+        scrollTrigger: { trigger: ".act-market", start: "top 60%", once: true } });
+    }
+    requestAnimationFrame(() => ST.refresh());
   }
 
   window.DIStory = { skipToGate, onShow: function () {}, rebuild: build };
