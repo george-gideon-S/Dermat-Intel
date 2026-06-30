@@ -44,6 +44,22 @@ def test_visibility_score_website_and_ranking_beats_bare():
     assert R.visibility_score(strong, MARKET) > R.visibility_score(weak, MARKET)
 
 
+def test_visibility_breakdown_components_sum_to_score():
+    c = _clinic(has_website=True, owned=8, places=8, reviews=400, has_phone=True, web_appearances=12)
+    comps = R.visibility_breakdown(c, MARKET)
+    assert {x["key"] for x in comps} == {"website", "search", "maps", "reviews", "phone", "breadth"}
+    assert all(0 <= x["earned"] <= x["max"] for x in comps)
+    # the breakdown is the score, decomposed (rounding across 6 parts stays within a few points)
+    assert abs(sum(x["earned"] for x in comps) - R.visibility_score(c, MARKET)) <= 6
+
+
+def test_visibility_breakdown_zero_clinic_is_mostly_gaps():
+    comps = {x["key"]: x for x in R.visibility_breakdown(_clinic(reviews=0), MARKET)}
+    assert comps["website"]["earned"] == 0 and comps["website"]["max"] == 30
+    assert comps["search"]["earned"] == 0
+    assert comps["phone"]["earned"] == 0
+
+
 # --------------------------------------------------------------------------- scorecard (plain checks)
 def test_scorecard_flags_zero_web_clinic():
     c = _clinic(places=2, reviews=250, has_phone=True)

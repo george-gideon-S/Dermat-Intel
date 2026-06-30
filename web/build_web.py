@@ -149,6 +149,7 @@ def _attach_reports(clinics, top10, scored, qrows, k, med_app) -> dict:
                     "platforms": nc["platforms"]},
             "scorecard": report.scorecard(nc, market),
             "benchmarks": report.benchmarks(nc, market),
+            "breakdown": report.visibility_breakdown(nc, market),
             "verdict": report.verdict(nc, market),
             "proof": report.serp_proof(key, screens, clist, qrows) if has_web else None,
         }
