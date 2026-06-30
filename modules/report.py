@@ -26,10 +26,6 @@ def _label_platforms(platforms) -> list[str]:
     return [_PLATFORM_LABEL.get(p, str(p).title()) for p in (platforms or [])]
 
 
-def _present_label(x: str) -> str:
-    return _PLATFORM_LABEL.get(x, x) if x else ""
-
-
 # --------------------------------------------------------------------------- Online Visibility (higher=better)
 def visibility_score(c: dict, market: dict) -> int:
     """0–100 clinic-facing "how findable are you online" score (higher = more present).
@@ -180,7 +176,10 @@ def serp_proof(clinic_key: str, web_screens: dict, clinics: list[dict],
         present: list[str] = []
         for b in blocks:
             k, _ = map_block(b, prepared)
-            label = name_by_key.get(k) if k else _present_label(b.get("platform") or b.get("domain") or "")
+            if k:
+                label = name_by_key.get(k)
+            else:  # not one of our clinics — show a recognizable platform name or the domain, skip generics
+                label = _PLATFORM_LABEL.get(b.get("platform") or "") or (b.get("domain") or "")
             if label and label not in present:
                 present.append(label)
             if len(present) >= 4:

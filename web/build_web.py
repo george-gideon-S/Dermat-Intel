@@ -87,6 +87,84 @@ def _clinic(row, nlp_map=None) -> dict:
     return d
 
 
+def _num0(v):
+    return 0 if _isna(v) else int(round(float(v)))
+
+
+def _norm_clinic(row) -> dict:
+    """Normalize a scored clinic row into the plain dict modules.report consumes."""
+    key = maps_collector.dedup_key(row.get("place_url") or "") or str(row.get("name") or "").lower()
+    web = "" if _isna(row.get("website")) else str(row.get("website")).strip()
+    phone = "" if _isna(row.get("formatted_phone_number")) else str(row.get("formatted_phone_number")).strip()
+    return {
+        "name": row.get("name"), "key": key, "has_website": bool(web),
+        "owned": _num0(row.get("web_owned_appearances")),
+        "borrowed": _num0(row.get("web_borrowed_appearances")),
+        "places": _num0(row.get("in_places_count")),
+        "reviews": _num0(row.get("user_ratings_total")),
+        "rating": 0.0 if _isna(row.get("rating")) else float(row.get("rating")),
+        "appearances": _num0(row.get("appearances")),
+        "has_phone": bool(phone),
+        "web_appearances": _num0(row.get("web_appearances")),
+        "has_own_site": bool(row.get("has_own_site")) if not _isna(row.get("has_own_site")) else False,
+        "platforms": [],
+    }
+
+
+def _attach_reports(clinics, top10, scored, qrows, k, med_app) -> dict:
+    """Attach doctor-facing report fields (visibility, scorecard, benchmarks, verdict, SERP proof) to
+    each clinic dict in place; return the market-summary dict. Safe no-op if web data is absent."""
+    from modules import report, web_screens as ws_mod
+    screens = ws_mod.load_web_screens()
+    has_web = bool(screens.get("queries"))
+    clist = [{"name": r.get("name"), "website": r.get("website"), "place_url": r.get("place_url")}
+             for _, r in scored.iterrows()]
+    web_by = ws_mod.aggregate_web_by_clinic(screens, clist) if has_web else {}
+    market = {"avg_reviews": float(k["avg_reviews"]), "avg_rating": float(k["avg_rating"]),
+              "median_appearances": med_app}
+
+    norm = {}
+    for _, r in scored.iterrows():
+        nc = _norm_clinic(r)
+        nc["platforms"] = (web_by.get(nc["key"]) or {}).get("platforms", [])
+        norm[nc["key"]] = nc
+    norm_list = list(norm.values())
+    ranked = {d["key"]: d for d in report.rank_by_visibility(norm_list, market)}
+    total = len(norm_list)
+    cache: dict = {}
+
+    def fields(key):
+        if key in cache:
+            return cache[key]
+        nc = norm.get(key)
+        if not nc:
+            cache[key] = {}
+            return {}
+        rk = ranked.get(key, {})
+        out = {
+            "visibility": rk.get("visibility"), "visibility_rank": rk.get("rank"),
+            "visibility_total": total,
+            "web": {"owned": nc["owned"], "borrowed": nc["borrowed"], "appearances": nc["web_appearances"],
+                    "has_own_site": nc["has_own_site"], "in_places": nc["places"],
+                    "platforms": nc["platforms"]},
+            "scorecard": report.scorecard(nc, market),
+            "benchmarks": report.benchmarks(nc, market),
+            "verdict": report.verdict(nc, market),
+            "proof": report.serp_proof(key, screens, clist, qrows) if has_web else None,
+        }
+        cache[key] = out
+        return out
+
+    def key_of(c):
+        return maps_collector.dedup_key(c.get("place_url") or "") or str(c.get("name") or "").lower()
+
+    for c in clinics:
+        c.update(fields(key_of(c)))
+    for c in top10:
+        c.update(fields(key_of(c)))
+    return report.market_summary(norm_list, market)
+
+
 def _attach_web(agg):
     """Attach Google-web visibility to the aggregated clinics (enables the 40% web blend).
 
@@ -171,6 +249,7 @@ def build_payload() -> dict:
     no_web = sum(1 for c in clinics if not c["has_website"])
     pct_no = round(100 - k["pct_with_website"], 1)
     med_app = float(scored["appearances"].median())
+    payload["market"] = _attach_reports(clinics, top10, scored, qrows, k, med_app)
 
     payload["kpis"] = {
         "unique_clinics": int(k["unique_clinics"]), "no_website_count": no_web,
