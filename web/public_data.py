@@ -18,13 +18,16 @@ FNV_BASIS = 2166136261
 FNV_PRIME = 16777619
 
 # Generic words that don't identify a clinic — dropped so only distinctive tokens remain.
+# Includes the marketing/geo stuffing Google Maps names carry ("... / Best Skin Doctor in Guntur").
 STOP = {
-    "clinic", "clinics", "skin", "hair", "care", "dr", "doctor", "the", "and",
+    "clinic", "clinics", "skin", "hair", "care", "dr", "doctor", "doctors", "the", "and",
     "centre", "center", "hospital", "derma", "dermatology", "dermatologist",
-    "cosmetic", "laser", "guntur",
+    "cosmetic", "laser", "guntur", "best", "top", "good", "famous", "near", "for",
+    "treatment", "specialist", "andhra", "pradesh", "india",
 }
 
 _TOKEN_RE = re.compile(r"[a-z0-9]+")
+_SEG_RE = re.compile(r"\s*[/|]\s*")
 
 
 def fnv1a(s: str) -> int:
@@ -34,14 +37,20 @@ def fnv1a(s: str) -> int:
     return h
 
 
+def display_of(name: str) -> str:
+    """The actual clinic name: Maps names are keyword-stuffed after a / or | separator."""
+    seg = _SEG_RE.split((name or "").strip())[0].strip(" -–·")
+    return seg if len(seg) >= 4 else (name or "")
+
+
 def name_tokens(name: str) -> list:
-    toks = _TOKEN_RE.findall((name or "").lower())
+    toks = _TOKEN_RE.findall(display_of(name).lower())
     return [t for t in toks if len(t) >= 3 and t not in STOP]
 
 
 def norm_full(name: str) -> str:
-    """Whole-name normalization for the exact-match hash (keeps generic words)."""
-    return "".join(_TOKEN_RE.findall((name or "").lower()))
+    """Display-segment normalization for the exact-match hash (keeps generic words)."""
+    return "".join(_TOKEN_RE.findall(display_of(name).lower()))
 
 
 def rank_bucket(rank: int, total: int) -> str:
@@ -119,7 +128,7 @@ def _sample_queries(qrows: list, clinics: list, limit: int = 8) -> list:
         banned.update(name_tokens(c.get("name") or ""))
     out = []
     for row in qrows:
-        q = str(row.get("query") or "").strip()
+        q = str(row.get("query") or row.get("search_query") or "").strip()
         if not q:
             continue
         if set(_TOKEN_RE.findall(q.lower())) & banned:

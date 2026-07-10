@@ -21,13 +21,12 @@ VENDOR = WEB / "vendor"
 DIST = WEB / "dist"
 DIST.mkdir(parents=True, exist_ok=True)
 
-_FONTS = [
+# v2 "Luminous Precision" fonts (both dists) — Doto's weight is the variable range.
+_FONTS_V2 = [
     ("Geist", 400, "geist-400.woff2"), ("Geist", 500, "geist-500.woff2"),
     ("Geist", 600, "geist-600.woff2"), ("Geist", 700, "geist-700.woff2"),
     ("Geist Mono", 400, "geistmono-400.woff2"), ("Geist Mono", 500, "geistmono-500.woff2"),
-    # Brand display face (Warm Intelligence) — vendored offline, see docs/redesign/BRAND_GUIDE.md §10
-    ("Bricolage Grotesque", 700, "bricolage-700.woff2"),
-    ("Bricolage Grotesque", 800, "bricolage-800.woff2"),
+    ("Doto", "100 900", "doto-var.woff2"),
 ]
 
 
@@ -215,13 +214,18 @@ def intent_positions(ok_rows, qrows, key_of) -> dict:
     """Per clinic-key: [{cat, pos (avg, 1dp), n}] for every query category the clinic
     actually appears in, plus '_market': {cat: median of clinic averages}. Feeds the
     'Where you rank, by what patients want' strip in the clinic report."""
-    cat_of = {str(q.get("query") or "").strip().lower(): q.get("category") for q in qrows}
+    # Field names differ between test fixtures and the live pipeline:
+    # qrows: query|search_query · rows: query|source_query, position|result_position,
+    # and live rows carry source_category directly (preferred).
+    cat_of = {str(q.get("query") or q.get("search_query") or "").strip().lower(): q.get("category")
+              for q in qrows}
     acc: dict = {}
     for r in ok_rows:
         if r.get("status") not in (None, "OK"):
             continue  # defensive: callers pass OK rows, but never trust it
-        cat = cat_of.get(str(r.get("query") or "").strip().lower())
-        pos = r.get("position")
+        cat = r.get("source_category") or cat_of.get(
+            str(r.get("query") or r.get("source_query") or "").strip().lower())
+        pos = r.get("position") if not _isna(r.get("position")) else r.get("result_position")
         if not cat or _isna(pos):
             continue
         key = key_of(r)
@@ -322,7 +326,7 @@ def build_payload() -> dict:
 
 def _font_face_css(fonts=None) -> str:
     blocks = []
-    for fam, wt, fname in (fonts or _FONTS):
+    for fam, wt, fname in (fonts or _FONTS_V2):
         p = VENDOR / fname
         if not p.exists():
             continue
@@ -334,13 +338,7 @@ def _font_face_css(fonts=None) -> str:
     return "\n".join(blocks)
 
 
-# Public dist: v2 brand — Doto replaces Bricolage; weight "100 900" = the variable range.
-_FONTS_PUBLIC = [
-    ("Geist", 400, "geist-400.woff2"), ("Geist", 500, "geist-500.woff2"),
-    ("Geist", 600, "geist-600.woff2"), ("Geist", 700, "geist-700.woff2"),
-    ("Geist Mono", 400, "geistmono-400.woff2"), ("Geist Mono", 500, "geistmono-500.woff2"),
-    ("Doto", "100 900", "doto-var.woff2"),
-]
+_FONTS_PUBLIC = _FONTS_V2
 
 
 # GSAP (vendored offline) — order matters: core first, then plugins.
@@ -378,13 +376,13 @@ def _copy_proof(payload) -> int:
 
 
 def build() -> str:
+    """Private dist (the paid report app): v2 two-tab report. The scroll story left this
+    bundle in Phase C — the public dist (build_public) owns marketing now."""
     payload = build_payload()
+    payload["contact"] = {"whatsapp": config.WHATSAPP_NUMBER}
     template = (WEB / "template.html").read_text(encoding="utf-8")
     styles = (WEB / "styles.css").read_text(encoding="utf-8")
-    shell_js = (WEB / "shell.js").read_text(encoding="utf-8")
-    story_js = (WEB / "story.js").read_text(encoding="utf-8")
     app_js = (WEB / "app.js").read_text(encoding="utf-8")
-    gsap_js = _gsap_js()
 
     echarts_path = VENDOR / "echarts.min.js"
     if echarts_path.exists():
@@ -397,16 +395,18 @@ def build() -> str:
             f'<script src="https://cdn.jsdelivr.net/npm/echarts@5.5.1/dist/echarts.min.js" '
             f'integrity="{sri}" crossorigin="anonymous"></script>')
 
-    css = _font_face_css() + "\n" + styles
+    css = "\n".join([
+        _font_face_css(),
+        (V2 / "tokens-v2.css").read_text(encoding="utf-8"),
+        (V2 / "components.css").read_text(encoding="utf-8"),
+        styles,
+    ])
     data_json = json.dumps(payload, ensure_ascii=False).replace("</", "<\\/")  # avoid closing the <script>
 
     html = (template
             .replace("{{STYLES}}", css)
             .replace("{{ECHARTS}}", echarts_js)
-            .replace("{{GSAP}}", gsap_js)
             .replace("{{DATA}}", data_json)
-            .replace("{{SHELL_JS}}", shell_js)
-            .replace("{{STORY_JS}}", story_js)
             .replace("{{APP_JS}}", app_js))
 
     n_proof = _copy_proof(payload)

@@ -55,3 +55,17 @@ def test_market_medians_per_category():
 
 def test_empty_inputs():
     assert intent_positions([], QROWS, key_of) == {"_market": {}}
+
+
+def test_live_pipeline_field_names():
+    # The real scraper writes source_query/source_category/result_position and
+    # qrows write search_query — the helper must accept both shapes.
+    live_rows = [
+        {"status": "OK", "place_url": "https://maps/a", "name": "A",
+         "source_query": "best dermatologist in guntur", "source_category": "Discovery",
+         "result_position": 4},
+    ]
+    live_qrows = [{"search_query": "best dermatologist in guntur", "category": "Discovery"}]
+    out = intent_positions(live_rows, live_qrows, key_of)
+    assert out["https://maps/a"] == [{"cat": "Discovery", "pos": 4.0, "n": 1}]
+    assert out["_market"] == {"Discovery": 4.0}

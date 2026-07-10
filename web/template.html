@@ -3,20 +3,23 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
-<title>Derma Intel — Guntur market intelligence · Trinade</title>
-<meta name="description" content="Where Guntur's dermatology clinics stand online — a Trinade market-intelligence report." />
+<title>Derma Intel — Your Clinic Report · Trinade</title>
+<meta name="description" content="The Derma Intel visibility examination — your clinic vs the Guntur dermatology market." />
+<meta name="theme-color" content="#E9EAEC" />
 <style>{{STYLES}}</style>
 </head>
 <body>
-<!-- shell.js prepends the top bar; story.js builds #story; app.js renders the tabs into #app -->
-<main id="story"></main>
-<main id="app" hidden></main>
+<header class="topbar">
+  <a class="tb-brand" href="#" data-nav="clinic">Derma Intel<span class="tb-dot">.</span><span class="tb-city">Guntur</span></a>
+  <nav class="tb-nav" aria-label="Views">
+    <button class="pill-tab" data-nav="clinic">Your Clinic</button>
+    <button class="pill-tab" data-nav="market">The Market</button>
+  </nav>
+</header>
+<main id="app"></main>
 <script>{{ECHARTS}}</script>
-<script>{{GSAP}}</script>
 <script>window.__DATA__ = {{DATA}};</script>
-<script>{{SHELL_JS}}</script>
-<script>{{STORY_JS}}</script>
 <script>{{APP_JS}}</script>
-<script>window.DI && DI.boot && DI.boot();</script>
+<script>window.DI && DI.renderApp && DI.renderApp("clinic");</script>
 </body>
 </html>
