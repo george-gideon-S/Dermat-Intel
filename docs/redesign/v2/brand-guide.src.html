@@ -1,0 +1,398 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Derma Intel — Brand Guide v2 · Luminous Precision</title>
+<!--BUILD:FONTS-->
+<!--BUILD:TOKENS-->
+<!--BUILD:COMPONENTS-->
+<style>
+* { box-sizing: border-box; margin: 0; }
+html { scroll-behavior: smooth; }
+body {
+  background: var(--canvas); color: var(--ink);
+  font: var(--fw-body) var(--fs-body)/var(--lh-body) var(--sans);
+}
+.shell { display: grid; grid-template-columns: 264px 1fr; max-width: 1400px;
+         margin: 0 auto; gap: var(--sp-6); padding: var(--sp-6); }
+@media (max-width: 900px) { .shell { grid-template-columns: 1fr; } .toc { position: static !important; } }
+
+/* — left nav — */
+.toc { position: sticky; top: var(--sp-6); align-self: start;
+       display: flex; flex-direction: column; gap: var(--sp-2); }
+.toc .wordmark { font: var(--fw-display) var(--fs-title)/1.1 var(--sans);
+                 letter-spacing: -.02em; padding: var(--sp-3) var(--sp-4) var(--sp-5); }
+.toc .wordmark .dot { color: var(--lime); -webkit-text-stroke: 1px var(--ink); }
+.toc .wordmark small { display:block; color: var(--ink-3); font: var(--fw-body) var(--fs-small) var(--sans); margin-top: 4px; }
+
+/* — chapters — */
+main { display: flex; flex-direction: column; gap: var(--sp-8); min-width: 0; }
+.chapter { display: flex; flex-direction: column; gap: var(--sp-5); scroll-margin-top: var(--sp-6); }
+.ch-head { display: flex; align-items: baseline; gap: var(--sp-4); }
+.ch-num { font-family: var(--dot); font-variation-settings: var(--dot-round);
+          font-weight: 700; font-size: var(--fs-display); color: var(--ink-3); }
+.ch-head h2 { font: var(--fw-display) var(--fs-display)/var(--lh-tight) var(--sans); letter-spacing: -.02em; }
+.ch-purpose { color: var(--ink-2); max-width: 62ch; }
+.panel { background: var(--surface); border-radius: var(--r-card);
+         box-shadow: var(--shadow-card); padding: var(--sp-6); }
+.panel h3 { font: var(--fw-semibold) var(--fs-title)/1.2 var(--sans); margin-bottom: var(--sp-4); }
+.grid-2 { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: var(--sp-5); }
+.grid-3 { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: var(--sp-5); }
+.row { display: flex; gap: var(--sp-3); align-items: center; flex-wrap: wrap; }
+.stack { display: flex; flex-direction: column; gap: var(--sp-3); }
+p.note { color: var(--ink-2); font-size: var(--fs-small); max-width: 58ch; }
+
+/* — hero — */
+.hero { min-height: 380px; padding: var(--sp-7); display: flex; flex-direction: column;
+        justify-content: center; align-items: center; gap: var(--sp-4); text-align: center; }
+.hero .dot-num--hero { font-size: clamp(4rem, 9vw, 7rem); }
+.hero .ruler { width: 58%; }
+
+/* — swatches — */
+.swatch { border-radius: var(--r-tab); padding: var(--sp-4); min-height: 96px;
+          display: flex; flex-direction: column; justify-content: space-between;
+          border: 1px solid var(--line-2); }
+.swatch code { font: var(--fw-medium) var(--fs-micro) var(--mono); }
+
+/* — type specimens — */
+.spec { display: grid; grid-template-columns: 130px 1fr; gap: var(--sp-4); align-items: baseline;
+        padding: var(--sp-3) 0; border-bottom: 1px solid var(--line-2); }
+.spec:last-child { border-bottom: 0; }
+
+/* — do/don't — */
+.dd { border-radius: var(--r-tab); overflow: hidden; border: 1px solid var(--line-2); }
+.dd .dd-demo { height: 130px; display: flex; align-items: center; justify-content: center;
+               background: var(--canvas-2); position: relative; overflow: hidden; }
+.dd .dd-cap { padding: var(--sp-3) var(--sp-4); font-size: var(--fs-small); background: var(--surface); }
+.dd .dd-cap b { font-family: var(--mono); font-size: var(--fs-micro); letter-spacing: var(--ls-micro);
+                text-transform: uppercase; display: block; margin-bottom: 4px; }
+.dd.good .dd-cap b { color: #2E7D32; } .dd.bad .dd-cap b { color: #B4443C; }
+
+/* — motion demos — */
+.demo-btn { border: 0; cursor: pointer; }
+.count-demo { cursor: pointer; }
+table.t { width: 100%; border-collapse: collapse; font-size: var(--fs-small); }
+table.t th { text-align: left; font: var(--fw-medium) var(--fs-micro) var(--mono);
+             letter-spacing: var(--ls-micro); text-transform: uppercase; color: var(--ink-2);
+             padding: var(--sp-2) var(--sp-3); border-bottom: 1px solid var(--line); }
+table.t td { padding: var(--sp-2) var(--sp-3); border-bottom: 1px solid var(--line-2); vertical-align: top; }
+table.t td:first-child { font-family: var(--mono); white-space: nowrap; }
+footer { color: var(--ink-3); font-size: var(--fs-small); text-align: center; padding: var(--sp-7) 0 var(--sp-5); }
+</style>
+</head>
+<body>
+<div class="shell">
+
+  <nav class="toc" aria-label="Chapters">
+    <div class="wordmark">Derma Intel<span class="dot">.</span><small>Brand Guide v2 · Luminous Precision</small></div>
+    <a class="pill-tab" href="#story">Story <span class="pt-status">01</span></a>
+    <a class="pill-tab" href="#voice">Voice <span class="pt-status">02</span></a>
+    <a class="pill-tab" href="#logo">Logo <span class="pt-status">03</span></a>
+    <a class="pill-tab" href="#color">Color <span class="pt-status">04</span></a>
+    <a class="pill-tab" href="#type">Typography <span class="pt-status">05</span></a>
+    <a class="pill-tab" href="#components">Components <span class="pt-status">06</span></a>
+    <a class="pill-tab" href="#motion">Motion <span class="pt-status">07</span></a>
+    <a class="pill-tab" href="#charts">Charts <span class="pt-status">08</span></a>
+    <a class="pill-tab" href="#access">Access <span class="pt-status">09</span></a>
+    <a class="pill-tab" href="#misuse">Misuse <span class="pt-status">10</span></a>
+  </nav>
+
+  <main>
+
+    <!-- HERO -->
+    <section class="grain-card grain-card--growth hero">
+      <span class="gc-label">Derma Intel · Brand System</span>
+      <span class="dot-num dot-num--hero count-demo" data-count="2.0" data-decimals="1">2.0</span>
+      <span class="gc-sub">Luminous Precision — crisp instruments on diffuse light</span>
+      <div class="ruler ruler--on-field" style="color:#fff"><span class="ruler-marker" style="--pos:66%"></span></div>
+    </section>
+
+    <!-- 01 STORY -->
+    <section class="chapter" id="story">
+      <div class="ch-head"><span class="ch-num">01</span><h2>The texture is the meaning</h2></div>
+      <p class="ch-purpose">The grain-gradient field is the market — hundreds of patients searching,
+      diffuse and unresolved. The dot-matrix numeral and the ruler tick are what Derma Intel does to
+      that noise: resolve it into an instrument-grade reading. That contrast <em>is</em> the brand.</p>
+      <div class="grid-3">
+        <div class="panel stack"><span class="micro-label">Principle</span><h3>Diagnose, don't accuse</h3>
+          <p class="note">Gaps are opportunity. A trusted advisor's tone — never a scold's.</p></div>
+        <div class="panel stack"><span class="micro-label">Principle</span><h3>Luminous, but organized</h3>
+          <p class="note">Color is light, not paint — held calm by the gray canvas, space, and a strict grid.</p></div>
+        <div class="panel stack"><span class="micro-label">Principle</span><h3>Numbers you can trust</h3>
+          <p class="note">Every figure precise, sourced, instrument-rendered. Rigor reads as premium.</p></div>
+      </div>
+    </section>
+
+    <!-- 02 VOICE -->
+    <section class="chapter" id="voice">
+      <div class="ch-head"><span class="ch-num">02</span><h2>Voice — the clinical mirror</h2></div>
+      <p class="ch-purpose">We speak the customer's professional language. The funnel mirrors a
+      doctor's own: examination → follow-up → treatment.</p>
+      <div class="panel">
+        <table class="t">
+          <tr><th>Ours</th><th>Say it as</th></tr>
+          <tr><td>The report</td><td><b>The examination.</b> "You'd never treat before an examination. Neither would we."</td></tr>
+          <tr><td>Monitoring</td><td><b>Follow-up visits.</b> "Re-examine every quarter."</td></tr>
+          <tr><td>Website build</td><td><b>The treatment.</b></td></tr>
+          <tr><td>Score movement</td><td>improving · stable · needs attention — never "failing"</td></tr>
+        </table>
+        <p class="note" style="margin-top:var(--sp-4)">Plain, declarative, sentence case. Specific numbers over
+        adjectives. No fake urgency — real scarcity only. Roadmap features are "ships to all subscribers."</p>
+      </div>
+    </section>
+
+    <!-- 03 LOGO -->
+    <section class="chapter" id="logo">
+      <div class="ch-head"><span class="ch-num">03</span><h2>Logo</h2></div>
+      <div class="grid-2">
+        <div class="panel stack" style="align-items:flex-start">
+          <span class="micro-label">Wordmark</span>
+          <div style="font:var(--fw-display) var(--fs-display) var(--sans); letter-spacing:-.02em">
+            Derma Intel<span style="color:var(--lime); -webkit-text-stroke:1px var(--ink)">.</span>
+            <span style="color:var(--ink-3); font-weight:var(--fw-body); font-size:var(--fs-title)">Guntur</span>
+          </div>
+          <p class="note">Geist 700, −0.02em. The terminal period is the one lime moment in the wordmark.
+          Context suffix in ink-3. Minimum width 96px.</p>
+        </div>
+        <div class="panel stack" style="align-items:flex-start">
+          <span class="micro-label">Mark · each dot is a data point</span>
+          <div class="row">
+            <svg width="64" height="64" viewBox="0 0 64 64" aria-label="Derma Intel mark">
+              <rect width="64" height="64" rx="12" fill="var(--ink)"/>
+              <g fill="var(--surface)">
+                <circle cx="22" cy="18" r="3"/><circle cx="30" cy="18" r="3"/><circle cx="38" cy="20" r="3"/>
+                <circle cx="22" cy="26" r="3"/><circle cx="44" cy="26" r="3"/>
+                <circle cx="22" cy="34" r="3"/><circle cx="44" cy="34" r="3"/>
+                <circle cx="22" cy="42" r="3"/><circle cx="38" cy="44" r="3"/><circle cx="30" cy="46" r="3"/>
+                <circle cx="22" cy="46" r="3"/>
+              </g>
+            </svg>
+            <svg width="40" height="40" viewBox="0 0 64 64" aria-hidden="true">
+              <rect width="64" height="64" rx="12" fill="var(--ink)"/>
+              <text x="32" y="44" text-anchor="middle" fill="var(--surface)"
+                    style="font:700 34px var(--sans)">D</text>
+            </svg>
+          </div>
+          <p class="note">Dot-matrix D tile (preferred) and plain D tile. Nav + favicon use the mark;
+          page headers use the wordmark. Clear space = the D's cap height; minimum 20px.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- 04 COLOR -->
+    <section class="chapter" id="color">
+      <div class="ch-head"><span class="ch-num">04</span><h2>Color — one ground, one ink, one accent, three lights</h2></div>
+      <div class="panel stack">
+        <span class="micro-label">Ground &amp; ink</span>
+        <div class="grid-3">
+          <div class="swatch" style="background:var(--canvas)"><span>Canvas</span><code>--canvas · #E9EAEC</code></div>
+          <div class="swatch" style="background:var(--canvas-2)"><span>Canvas 2</span><code>--canvas-2 · #E2E4E7</code></div>
+          <div class="swatch" style="background:var(--surface)"><span>Surface</span><code>--surface · #FFFFFF</code></div>
+          <div class="swatch" style="background:var(--ink); color:#fff"><span>Ink</span><code style="color:#fff">--ink · #131417</code></div>
+          <div class="swatch" style="background:var(--ink-2); color:#fff"><span>Ink 2</span><code style="color:#fff">--ink-2 · #5C6066</code></div>
+          <div class="swatch" style="background:var(--lime)"><span>Lime — the ONLY flat accent</span><code>--lime · #D9F24F</code></div>
+        </div>
+        <p class="note">The page canvas is never pure white — white is reserved for cards so they float.
+        Lime: chips, live badges, marker dots, ink-on-lime CTAs. ≤3 lime moments per viewport.</p>
+      </div>
+      <div class="grid-3">
+        <div class="grain-card grain-card--growth hero" style="min-height:220px">
+          <span class="gc-label">GROWTH</span><span class="dot-num">+18</span>
+          <span class="gc-sub">opportunity · demand · improvement</span>
+        </div>
+        <div class="grain-card grain-card--status hero" style="min-height:220px">
+          <span class="gc-label">STATUS</span><span class="dot-num">#12</span>
+          <span class="gc-sub">scores · standing · benchmarks</span>
+        </div>
+        <div class="grain-card grain-card--alert hero" style="min-height:220px">
+          <span class="gc-label">ALERT</span><span class="dot-num">15</span>
+          <span class="gc-sub">gaps · risks · connect-actions</span>
+        </div>
+      </div>
+      <div class="panel stack">
+        <span class="micro-label">Magnitude = intensity, never hue</span>
+        <div class="grid-3">
+          <div class="grain-card grain-card--growth hero" style="min-height:120px"><span class="gc-sub">--field-dim: 1 · full signal</span></div>
+          <div class="grain-card grain-card--growth hero" style="min-height:120px; --field-dim:.55"><span class="gc-sub" style="color:var(--ink-2); text-shadow:none">--field-dim: .55 · subdued</span></div>
+          <div class="grain-card grain-card--growth hero" style="min-height:120px; --field-dim:.3"><span class="gc-sub" style="color:var(--ink-2); text-shadow:none">--field-dim: .3 · ghost</span></div>
+        </div>
+        <p class="note">Categorical = which triad (which meaning). Magnitude = field intensity.
+        They never mix, and alarm-red does not exist. Proportional use: canvas ~70% · surface ~20% ·
+        ink ~8% · lime + fields ~2%.</p>
+      </div>
+    </section>
+
+    <!-- 05 TYPE -->
+    <section class="chapter" id="type">
+      <div class="ch-head"><span class="ch-num">05</span><h2>Typography — three faces, three jobs</h2></div>
+      <div class="panel">
+        <div class="spec"><span class="micro-label">Geist · words</span>
+          <span style="font-size:var(--fs-title)">Trusted in person. Invisible online.</span></div>
+        <div class="spec"><span class="micro-label">Doto · hero numerals</span>
+          <span class="dot-num">0123456789</span></div>
+        <div class="spec"><span class="micro-label">Geist Mono · labels</span>
+          <span class="micro-label" style="font-size:var(--fs-small)">SEARCHES TRACKED · 47 REVIEWS VS 212 MEDIAN</span></div>
+        <div class="spec"><span class="micro-label">Scale</span>
+          <span class="row" style="align-items:baseline">
+            <span style="font-size:var(--fs-hero); font-weight:var(--fw-display); line-height:1">Aa</span>
+            <span style="font-size:var(--fs-display); font-weight:var(--fw-display)">Aa</span>
+            <span style="font-size:var(--fs-title); font-weight:var(--fw-semibold)">Aa</span>
+            <span style="font-size:var(--fs-body)">Aa</span>
+            <span style="font-size:var(--fs-small)">Aa</span>
+            <span class="micro-label">AA</span>
+          </span></div>
+      </div>
+      <p class="note">Doto is numerals ONLY — never words, never body, always
+      <code style="font-family:var(--mono)">font-variation-settings: var(--dot-round)</code>. The huge size
+      contrast between a hero numeral and its micro-label is a brand signature — don't flatten it.</p>
+    </section>
+
+    <!-- 06 COMPONENTS -->
+    <section class="chapter" id="components">
+      <div class="ch-head"><span class="ch-num">06</span><h2>The six components</h2></div>
+      <div class="grid-2">
+        <div class="panel stack">
+          <span class="micro-label">Pill tabs · per-item status</span>
+          <a class="pill-tab is-active" href="#components"><span class="pt-dot"></span> Visibility <span class="pt-status">71/100</span></a>
+          <a class="pill-tab" href="#components">Search demand <span class="pt-status">High</span></a>
+          <a class="pill-tab" href="#components">Web presence <span class="pt-status">Missing</span></a>
+        </div>
+        <div class="panel stack">
+          <span class="micro-label">Glass pill · ruler · chips · ghost numeral</span>
+          <div class="row"><span class="glass-pill">↗ Health improving <span class="gp-sub">+3.2 · 90 days</span></span></div>
+          <div class="ruler" style="color:var(--ink)"><span class="ruler-marker" style="--pos:71%"></span></div>
+          <div class="row"><span class="chip-lime">Live · Q3</span><span class="chip-lime">Best value</span>
+            <span class="dot-num dot-num--small dot-num--ghost">##</span>
+            <span class="micro-label">ghost = pending / gated</span></div>
+        </div>
+      </div>
+      <p class="note">Grain cards are display surfaces: dot numerals + short labels only — never body copy,
+      never charts, ≤2 full-intensity fields per screen region. Any score or benchmark may carry a ruler;
+      decorative rulers are banned.</p>
+    </section>
+
+    <!-- 07 MOTION -->
+    <section class="chapter" id="motion">
+      <div class="ch-head"><span class="ch-num">07</span><h2>Motion — calm-confident</h2></div>
+      <div class="grid-2">
+        <div class="panel stack">
+          <table class="t">
+            <tr><th>Token</th><th>Value</th><th>Job</th></tr>
+            <tr><td>--dur-quick</td><td>240ms</td><td>feedback: hover, press</td></tr>
+            <tr><td>--dur-base</td><td>380ms</td><td>reveals, moves</td></tr>
+            <tr><td>--dur-slow</td><td>520ms</td><td>hero: count-ups, the gate</td></tr>
+            <tr><td>--ease-out</td><td>cubic-bezier(.22,.9,.24,1)</td><td>default deceleration</td></tr>
+            <tr><td>--ease-in-out</td><td>cubic-bezier(.6,0,.2,1)</td><td>in-page moves</td></tr>
+          </table>
+          <p class="note">Signatures: numerals count up (the instrument settles) · ticks draw in sequence ·
+          fields breathe (ambient, subtle) · reveals stagger 40–70ms. Never bounce; never linear.
+          Reduced-motion zeroes the tokens — the page must read fully static.</p>
+        </div>
+        <div class="panel stack">
+          <span class="micro-label">Live demo · click the number</span>
+          <span class="dot-num count-demo" data-count="71" style="font-size:var(--fs-hero)">71</span>
+          <span class="micro-label">Liquid-glass map</span>
+          <p class="note"><b>Allowed:</b> nav chrome, the paywall gate, floating pills, modal chrome.<br>
+          <b>Banned:</b> behind charts, behind body text, elements &gt; 800px, carrying meaning
+          (Chromium-only refraction; frosted fallback elsewhere).</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- 08 CHARTS -->
+    <section class="chapter" id="charts">
+      <div class="ch-head"><span class="ch-num">08</span><h2>Charts — the ECharts doctrine</h2></div>
+      <div class="panel">
+        <table class="t">
+          <tr><th>Rule</th><th>Doctrine</th></tr>
+          <tr><td>grid</td><td>lines --line-2 · axis labels --mono --fs-micro --ink-2 · no axis boxes</td></tr>
+          <tr><td>categorical</td><td>triad -a stops as flat series colors (growth green · status slate · alert rose) + --ink for "you" · max 4 hues</td></tr>
+          <tr><td>magnitude</td><td>opacity/intensity ramp of ONE hue — never a hue ramp</td></tr>
+          <tr><td>you vs market</td><td>you = --ink (or lime marker) · market = --ink-3</td></tr>
+          <tr><td>tooltip</td><td>rendered as .glass-pill</td></tr>
+          <tr><td>numerals</td><td>hero numbers = Doto · in-table numbers = --mono right-aligned · pending = ghost</td></tr>
+        </table>
+      </div>
+    </section>
+
+    <!-- 09 ACCESSIBILITY -->
+    <section class="chapter" id="access">
+      <div class="ch-head"><span class="ch-num">09</span><h2>Accessibility — computed, not asserted</h2></div>
+      <div class="panel">
+        <table class="t">
+          <tr><th>Pair</th><th>Ratio</th><th>Verdict</th></tr>
+          <tr><td>--ink on --canvas</td><td>15.30:1</td><td>body ✓</td></tr>
+          <tr><td>--ink-2 on --canvas</td><td>5.25:1</td><td>secondary ✓</td></tr>
+          <tr><td>--ink-2 on --surface</td><td>6.33:1</td><td>secondary ✓</td></tr>
+          <tr><td>--ink on --lime</td><td>14.70:1</td><td>CTA ✓</td></tr>
+          <tr><td>--ink-3 anywhere</td><td>2.11:1</td><td>decorative / disabled only — never information</td></tr>
+          <tr><td>white on field deep zones</td><td>3.45:1</td><td>display numerals ≥32px + lift-shadow only</td></tr>
+          <tr><td>white on field light zones</td><td>&lt;3:1</td><td>banned for text — use the deep zones</td></tr>
+        </table>
+        <p class="note" style="margin-top:var(--sp-4)">Focus: 2px ink ring, offset 2px. Everything keyboard-reachable.
+        Reduced-motion is first-class, not a fallback.</p>
+      </div>
+    </section>
+
+    <!-- 10 MISUSE -->
+    <section class="chapter" id="misuse">
+      <div class="ch-head"><span class="ch-num">10</span><h2>Misuse — never do these</h2></div>
+      <div class="grid-3">
+        <div class="dd bad"><div class="dd-demo grain-card grain-card--growth" style="border-radius:0">
+            <p style="color:#fff; font-size:var(--fs-small); padding:var(--sp-4); text-shadow:none">Body copy set directly on a grain field is unreadable and cheapens both.</p>
+          </div><div class="dd-cap"><b>Don't</b>Body text on a grain field</div></div>
+        <div class="dd bad"><div class="dd-demo">
+            <span style="font-family:var(--dot); font-variation-settings:var(--dot-round); font-weight:700; font-size:var(--fs-title)">DERMA</span>
+          </div><div class="dd-cap"><b>Don't</b>Doto for words — numerals only</div></div>
+        <div class="dd bad"><div class="dd-demo grain-card grain-card--alert" style="border-radius:0">
+            <span class="gc-sub">growth stats on the ALERT triad</span>
+          </div><div class="dd-cap"><b>Don't</b>Wrong triad for the meaning</div></div>
+        <div class="dd bad"><div class="dd-demo" style="background:var(--lime)">
+            <span style="font-weight:var(--fw-semibold)">Lime as a background</span>
+          </div><div class="dd-cap"><b>Don't</b>Lime is a chip accent, never a surface</div></div>
+        <div class="dd bad"><div class="dd-demo" style="background:linear-gradient(135deg,#3FA544,#E8973A)">
+            <span style="color:#fff">flat linear gradient</span>
+          </div><div class="dd-cap"><b>Don't</b>Flat gradients posing as fields — no bleed, no grain</div></div>
+        <div class="dd good"><div class="dd-demo grain-card grain-card--growth" style="border-radius:0">
+            <span class="dot-num" style="font-size:var(--fs-display)">71</span>
+          </div><div class="dd-cap"><b>Do</b>Instrument numerals on diffuse light — the brand</div></div>
+      </div>
+      <div class="panel">
+        <p class="note"><b style="color:var(--ink)">Also banned:</b> hue ramps for magnitude · pure-white page canvas ·
+        alarm-red · liquid-glass behind data · bounce easing · &gt;3 lime moments per viewport ·
+        decorative rulers · parallax that survives reduced-motion.</p>
+      </div>
+    </section>
+
+    <footer>
+      We sell precision about someone's market. Imprecise layout contradicts the product
+      before a word is read. — Derma Intel · Brand Guide v2.0 · 2026
+    </footer>
+  </main>
+</div>
+
+<script>
+/* Count-up signature (motion doctrine §07). Zero-duration under reduced motion. */
+(function () {
+  var reduced = matchMedia("(prefers-reduced-motion: reduce)").matches;
+  function countUp(el) {
+    var target = parseFloat(el.dataset.count), dec = +(el.dataset.decimals || 0);
+    if (reduced) { el.textContent = target.toFixed(dec); return; }
+    var t0 = performance.now(), dur = 520; /* --dur-slow */
+    function tick(t) {
+      var p = Math.min((t - t0) / dur, 1);
+      p = 1 - Math.pow(1 - p, 3); /* ease-out cubic */
+      el.textContent = (target * p).toFixed(dec);
+      if (p < 1) requestAnimationFrame(tick);
+    }
+    requestAnimationFrame(tick);
+  }
+  document.querySelectorAll(".count-demo").forEach(function (el) {
+    el.addEventListener("click", function () { countUp(el); });
+    countUp(el);
+  });
+})();
+</script>
+</body>
+</html>
