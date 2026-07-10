@@ -35,8 +35,8 @@ def font_css() -> str:
     return "<style>\n" + "\n".join(rules) + "\n</style>"
 
 
-def build() -> pathlib.Path:
-    src = (V2 / "brand-guide.src.html").read_text(encoding="utf-8")
+def build(src_name: str, dest_name: str) -> pathlib.Path:
+    src = (V2 / src_name).read_text(encoding="utf-8")
     tokens = (V2 / "tokens-v2.css").read_text(encoding="utf-8")
     components = (V2 / "components.css").read_text(encoding="utf-8")
 
@@ -48,11 +48,15 @@ def build() -> pathlib.Path:
     for marker in ("<!--BUILD:", ):
         assert marker not in out, f"unresolved build marker in output ({marker})"
 
-    dest = V2 / "brand-guide.html"
+    dest = V2 / dest_name
     dest.write_text(out, encoding="utf-8")
     return dest
 
 
 if __name__ == "__main__":
-    p = build()
-    print(f"built {p}  ({p.stat().st_size / 1024:.0f} KB)")
+    for src_name, dest_name in [
+        ("brand-guide.src.html", "brand-guide.html"),
+        ("brand-booklet.src.html", "brand-booklet.html"),
+    ]:
+        p = build(src_name, dest_name)
+        print(f"built {p.name}  ({p.stat().st_size / 1024:.0f} KB)")

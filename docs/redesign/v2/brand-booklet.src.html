@@ -1,0 +1,292 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Derma Intel — Brand Guide v2 Booklet</title>
+<!--BUILD:FONTS-->
+<!--BUILD:TOKENS-->
+<!--BUILD:COMPONENTS-->
+<style>
+* { box-sizing: border-box; margin: 0; }
+@page { size: A4 landscape; margin: 0; }
+body { background: var(--canvas); color: var(--ink);
+       font: var(--fw-body) 11pt/1.5 var(--sans); }
+.sheet { width: 297mm; height: 210mm; padding: 16mm 18mm; page-break-after: always;
+         position: relative; display: flex; flex-direction: column; gap: 8mm; overflow: hidden; }
+.folio { position: absolute; bottom: 8mm; left: 18mm; right: 18mm;
+         display: flex; justify-content: space-between; align-items: center;
+         font: var(--fw-medium) 7.5pt var(--mono); letter-spacing: var(--ls-micro);
+         text-transform: uppercase; color: var(--ink-3); }
+.folio .ticks { flex: 1; height: 8px; margin: 0 6mm;
+  background: repeating-linear-gradient(90deg, var(--line) 0 1px, transparent 1px 8px);
+  background-position: bottom; background-size: 100% 6px; background-repeat: no-repeat; }
+.sh-head { display: flex; align-items: baseline; gap: 6mm; }
+.sh-num { font-family: var(--dot); font-variation-settings: var(--dot-round);
+          font-weight: 700; font-size: 22pt; color: var(--ink-3); }
+h2 { font: var(--fw-display) 24pt/1.05 var(--sans); letter-spacing: -.02em; }
+h3 { font: var(--fw-semibold) 13pt/1.2 var(--sans); }
+.lead { color: var(--ink-2); max-width: 150mm; font-size: 11.5pt; }
+.cols { display: grid; grid-template-columns: repeat(3, 1fr); gap: 6mm; flex: 1; min-height: 0; }
+.cols-2 { display: grid; grid-template-columns: repeat(2, 1fr); gap: 6mm; flex: 1; min-height: 0; }
+.panel { background: var(--surface); border-radius: var(--r-card); box-shadow: var(--shadow-card);
+         padding: 8mm; display: flex; flex-direction: column; gap: 4mm; }
+.note { color: var(--ink-2); font-size: 9.5pt; }
+.field { border-radius: var(--r-card); display: flex; flex-direction: column;
+         align-items: center; justify-content: center; gap: 3mm; text-align: center; padding: 8mm; }
+.swrow { display: flex; gap: 4mm; }
+.sw { flex: 1; border-radius: var(--r-tab); border: 1px solid var(--line-2); padding: 4mm;
+      display: flex; flex-direction: column; justify-content: space-between; min-height: 24mm; }
+.sw code { font: var(--fw-medium) 7pt var(--mono); }
+table.t { width: 100%; border-collapse: collapse; font-size: 9.5pt; }
+table.t th { text-align: left; font: var(--fw-medium) 7.5pt var(--mono); letter-spacing: var(--ls-micro);
+             text-transform: uppercase; color: var(--ink-2); padding: 2mm; border-bottom: 1px solid var(--line); }
+table.t td { padding: 2mm; border-bottom: 1px solid var(--line-2); vertical-align: top; }
+table.t td:first-child { font-family: var(--mono); white-space: nowrap; font-size: 8.5pt; }
+.micro-label { font-size: 7.5pt; }
+</style>
+</head>
+<body>
+
+<!-- COVER -->
+<section class="sheet" style="padding:0">
+  <div class="grain-card grain-card--growth" style="border-radius:0; flex:1; display:flex; flex-direction:column;
+       align-items:center; justify-content:center; gap:8mm; text-align:center">
+    <span class="gc-label">Brand Identity Guide</span>
+    <div style="font:var(--fw-display) 42pt var(--sans); letter-spacing:-.02em; color:#fff;
+                text-shadow:0 2px 22px rgba(19,20,23,.22)">Derma Intel<span style="color:var(--lime)">.</span></div>
+    <span class="dot-num" style="font-size:30pt">v2.0</span>
+    <span class="gc-sub">Luminous Precision · 2026</span>
+    <div class="ruler ruler--on-field" style="color:#fff; width:40%"><span class="ruler-marker" style="--pos:66%"></span></div>
+  </div>
+</section>
+
+<!-- 01 STORY -->
+<section class="sheet">
+  <div class="sh-head"><span class="sh-num">01</span><h2>The texture is the meaning</h2></div>
+  <p class="lead">The grain-gradient field is the market — hundreds of patients searching, diffuse and
+  unresolved. The dot-matrix numeral and the ruler tick resolve that noise into an instrument-grade
+  reading. Crisp measurement on diffuse light — that contrast <em>is</em> the brand.</p>
+  <div class="cols">
+    <div class="panel"><span class="micro-label">Principle</span><h3>Diagnose, don't accuse</h3>
+      <p class="note">Gaps are opportunity. A trusted advisor's tone — never a scold's.</p></div>
+    <div class="panel"><span class="micro-label">Principle</span><h3>Luminous, but organized</h3>
+      <p class="note">Color is light, not paint — held calm by the gray canvas, space, and a strict grid.</p></div>
+    <div class="panel"><span class="micro-label">Principle</span><h3>Numbers you can trust</h3>
+      <p class="note">Every figure precise, sourced, instrument-rendered. Rigor reads as premium.</p></div>
+  </div>
+  <div class="folio"><span>Derma Intel · Brand Guide v2</span><span class="ticks"></span><span>01 · Story</span></div>
+</section>
+
+<!-- 02 VOICE -->
+<section class="sheet">
+  <div class="sh-head"><span class="sh-num">02</span><h2>Voice — the clinical mirror</h2></div>
+  <p class="lead">We speak the customer's own professional language: examination → follow-up → treatment.</p>
+  <div class="cols-2">
+    <div class="panel">
+      <table class="t">
+        <tr><th>Ours</th><th>Say it as</th></tr>
+        <tr><td>The report</td><td><b>The examination.</b> "You'd never treat before an examination. Neither would we."</td></tr>
+        <tr><td>Monitoring</td><td><b>Follow-up visits.</b> "Re-examine every quarter."</td></tr>
+        <tr><td>Website build</td><td><b>The treatment.</b></td></tr>
+        <tr><td>Score movement</td><td>improving · stable · needs attention — never "failing"</td></tr>
+      </table>
+    </div>
+    <div class="panel">
+      <h3>Register</h3>
+      <p class="note">Plain, declarative, sentence case. Short confident headlines ("Your patients are
+      searching. Right now."). Specific numbers over adjectives. No fake urgency — real scarcity only
+      (FCFS build slots). Roadmap features are "ships to all subscribers," never implied as current.</p>
+      <p class="note">Calm ● Energetic · Clinical —●— Warm · Confident ●— Boastful · Premium ● Flashy</p>
+    </div>
+  </div>
+  <div class="folio"><span>Derma Intel · Brand Guide v2</span><span class="ticks"></span><span>02 · Voice</span></div>
+</section>
+
+<!-- 03 LOGO -->
+<section class="sheet">
+  <div class="sh-head"><span class="sh-num">03</span><h2>Logo</h2></div>
+  <div class="cols-2">
+    <div class="panel" style="justify-content:center; align-items:flex-start">
+      <span class="micro-label">Wordmark · Geist 700 · −0.02em</span>
+      <div style="font:var(--fw-display) 30pt var(--sans); letter-spacing:-.02em">
+        Derma Intel<span style="color:var(--lime); -webkit-text-stroke:1px var(--ink)">.</span>
+        <span style="color:var(--ink-3); font-weight:var(--fw-body); font-size:18pt">Guntur</span></div>
+      <p class="note">The terminal period is the wordmark's one lime moment. Context suffix in faint ink.
+      Minimum width 96px. Clear space = the D's cap height.</p>
+    </div>
+    <div class="panel" style="justify-content:center; align-items:flex-start">
+      <span class="micro-label">Mark · each dot is a data point</span>
+      <svg width="150" height="150" viewBox="0 0 64 64">
+        <rect width="64" height="64" rx="12" fill="#131417"/>
+        <g fill="#fff">
+          <circle cx="22" cy="18" r="3"/><circle cx="30" cy="18" r="3"/><circle cx="38" cy="20" r="3"/>
+          <circle cx="22" cy="26" r="3"/><circle cx="44" cy="26" r="3"/>
+          <circle cx="22" cy="34" r="3"/><circle cx="44" cy="34" r="3"/>
+          <circle cx="22" cy="42" r="3"/><circle cx="38" cy="44" r="3"/><circle cx="30" cy="46" r="3"/>
+          <circle cx="22" cy="46" r="3"/>
+        </g>
+      </svg>
+      <p class="note">Dot-matrix D on the ink tile. Nav + favicon use the mark; page headers the wordmark.
+      Never: gradients, outlines, recolors, multi-color, stretching, dot-matrix wordmark text.</p>
+    </div>
+  </div>
+  <div class="folio"><span>Derma Intel · Brand Guide v2</span><span class="ticks"></span><span>03 · Logo</span></div>
+</section>
+
+<!-- 04 COLOR -->
+<section class="sheet">
+  <div class="sh-head"><span class="sh-num">04</span><h2>Color — one ground, one ink, one accent, three lights</h2></div>
+  <div class="swrow">
+    <div class="sw" style="background:var(--canvas)"><span style="font-size:9pt">Canvas</span><code>#E9EAEC</code></div>
+    <div class="sw" style="background:var(--canvas-2)"><span style="font-size:9pt">Canvas 2</span><code>#E2E4E7</code></div>
+    <div class="sw" style="background:var(--surface)"><span style="font-size:9pt">Surface</span><code>#FFFFFF</code></div>
+    <div class="sw" style="background:var(--ink); color:#fff"><span style="font-size:9pt">Ink</span><code style="color:#fff">#131417</code></div>
+    <div class="sw" style="background:var(--ink-2); color:#fff"><span style="font-size:9pt">Ink 2</span><code style="color:#fff">#5C6066</code></div>
+    <div class="sw" style="background:var(--lime)"><span style="font-size:9pt">Lime — the only flat accent</span><code>#D9F24F</code></div>
+  </div>
+  <div class="cols">
+    <div class="grain-card grain-card--growth field"><span class="gc-label">GROWTH</span>
+      <span class="dot-num" style="font-size:26pt">+18</span><span class="gc-sub">opportunity · demand · improvement</span></div>
+    <div class="grain-card grain-card--status field"><span class="gc-label">STATUS</span>
+      <span class="dot-num" style="font-size:26pt">#12</span><span class="gc-sub">scores · standing · benchmarks</span></div>
+    <div class="grain-card grain-card--alert field"><span class="gc-label">ALERT</span>
+      <span class="dot-num" style="font-size:26pt">15</span><span class="gc-sub">gaps · risks · connect-actions</span></div>
+  </div>
+  <p class="note">Category = which triad. Magnitude = field intensity (full / subdued / ghost) — never a hue
+  change; alarm-red does not exist. Proportion: canvas ~70% · surface ~20% · ink ~8% · lime + fields ~2%.
+  ≤3 lime moments per viewport; lime is never a surface.</p>
+  <div class="folio"><span>Derma Intel · Brand Guide v2</span><span class="ticks"></span><span>04 · Color</span></div>
+</section>
+
+<!-- 05 TYPE -->
+<section class="sheet">
+  <div class="sh-head"><span class="sh-num">05</span><h2>Typography — three faces, three jobs</h2></div>
+  <div class="cols-2">
+    <div class="panel" style="justify-content:center">
+      <span class="micro-label">Geist · every word</span>
+      <div style="font-size:19pt; font-weight:var(--fw-semibold)">Trusted in person.<br>Invisible online.</div>
+      <span class="micro-label" style="margin-top:4mm">Doto · hero numerals only</span>
+      <span class="dot-num" style="font-size:30pt">0123456789</span>
+      <span class="micro-label" style="margin-top:4mm">Geist Mono · labels &amp; data</span>
+      <span style="font:var(--fw-medium) 9pt var(--mono); letter-spacing:var(--ls-micro)">SEARCHES TRACKED · 47 REVIEWS VS 212 MEDIAN</span>
+    </div>
+    <div class="panel" style="justify-content:center">
+      <h3>Rules</h3>
+      <p class="note">Headlines: Geist 700, −0.02em, sentence case. Body 11–16px, 1.55 leading, ≤65ch.
+      Doto always at roundness 100 — numerals only, never words. Micro-labels always mono, uppercase,
+      +0.08em. The huge numeral-to-label size contrast is a brand signature — never flatten it.</p>
+      <div class="row" style="display:flex; align-items:baseline; gap:4mm">
+        <span style="font-size:34pt; font-weight:var(--fw-display); line-height:1">Aa</span>
+        <span style="font-size:22pt; font-weight:var(--fw-display)">Aa</span>
+        <span style="font-size:15pt; font-weight:var(--fw-semibold)">Aa</span>
+        <span style="font-size:11pt">Aa</span>
+        <span class="micro-label">AA</span>
+      </div>
+    </div>
+  </div>
+  <div class="folio"><span>Derma Intel · Brand Guide v2</span><span class="ticks"></span><span>05 · Typography</span></div>
+</section>
+
+<!-- 06 COMPONENTS -->
+<section class="sheet">
+  <div class="sh-head"><span class="sh-num">06</span><h2>The six components</h2></div>
+  <div class="cols-2">
+    <div class="panel">
+      <span class="micro-label">Pill tabs · glass pill · chips</span>
+      <span class="pill-tab is-active" style="width:70%"><span class="pt-dot"></span> Visibility <span class="pt-status">71/100</span></span>
+      <span class="pill-tab" style="width:70%">Web presence <span class="pt-status">Missing</span></span>
+      <span class="glass-pill" style="align-self:flex-start">↗ Market improving <span class="gp-sub">+3.2 · 90 days</span></span>
+      <span style="display:flex; gap:3mm; align-items:center">
+        <span class="chip-lime">Live · Q3</span><span class="chip-lime">Best value</span>
+        <span class="dot-num dot-num--ghost" style="font-size:14pt">##</span>
+        <span class="micro-label">ghost = pending / gated</span></span>
+    </div>
+    <div class="panel">
+      <span class="micro-label">Grain card · dot numeral · ruler</span>
+      <div class="grain-card grain-card--status field" style="flex:1">
+        <span class="gc-label">Market rank</span>
+        <span class="dot-num" style="font-size:34pt">#12</span>
+        <span class="gc-sub">of 34 dermatology clinics</span>
+        <div class="ruler ruler--on-field" style="color:#fff; width:60%"><span class="ruler-marker" style="--pos:35%"></span></div>
+      </div>
+      <p class="note">Grain cards are display surfaces — numerals + short labels only. Rulers attach to real
+      measurements; decorative rulers are banned.</p>
+    </div>
+  </div>
+  <div class="folio"><span>Derma Intel · Brand Guide v2</span><span class="ticks"></span><span>06 · Components</span></div>
+</section>
+
+<!-- 07 MOTION + CHARTS -->
+<section class="sheet">
+  <div class="sh-head"><span class="sh-num">07</span><h2>Motion &amp; charts</h2></div>
+  <div class="cols-2">
+    <div class="panel">
+      <h3>Motion — calm-confident</h3>
+      <table class="t">
+        <tr><th>Token</th><th>Value</th><th>Job</th></tr>
+        <tr><td>--dur-quick</td><td>240ms</td><td>feedback</td></tr>
+        <tr><td>--dur-base</td><td>380ms</td><td>reveals, moves</td></tr>
+        <tr><td>--dur-slow</td><td>520ms</td><td>count-ups, the gate</td></tr>
+        <tr><td>--ease-out</td><td>cubic-bezier(.22,.9,.24,1)</td><td>default</td></tr>
+      </table>
+      <p class="note">Signatures: numerals count up · ticks draw in sequence · fields breathe (ambient).
+      Never bounce, never linear. Reduced-motion: durations zero; the page reads fully static.
+      Liquid-glass: nav, gate, pills, modal chrome only — never behind data.</p>
+    </div>
+    <div class="panel">
+      <h3>Charts — ECharts doctrine</h3>
+      <table class="t">
+        <tr><td>grid</td><td>faint hairlines · mono micro axis labels · no boxes</td></tr>
+        <tr><td>categorical</td><td>triad deep stops as series colors + ink for "you" · ≤4 hues</td></tr>
+        <tr><td>magnitude</td><td>intensity ramp of ONE hue — never a hue ramp</td></tr>
+        <tr><td>you vs market</td><td>you = ink (or lime marker) · market = faint ink</td></tr>
+        <tr><td>tooltip</td><td>glass pill</td></tr>
+        <tr><td>numerals</td><td>hero = Doto · tables = mono right-aligned · pending = ghost</td></tr>
+      </table>
+    </div>
+  </div>
+  <div class="folio"><span>Derma Intel · Brand Guide v2</span><span class="ticks"></span><span>07 · Motion &amp; charts</span></div>
+</section>
+
+<!-- 08 ACCESS + MISUSE -->
+<section class="sheet">
+  <div class="sh-head"><span class="sh-num">08</span><h2>Accessibility &amp; misuse</h2></div>
+  <div class="cols-2">
+    <div class="panel">
+      <h3>Computed contrast (WCAG 2.1)</h3>
+      <table class="t">
+        <tr><th>Pair</th><th>Ratio</th><th>Verdict</th></tr>
+        <tr><td>ink / canvas</td><td>15.30:1</td><td>body ✓</td></tr>
+        <tr><td>ink-2 / canvas</td><td>5.25:1</td><td>secondary ✓</td></tr>
+        <tr><td>ink / lime</td><td>14.70:1</td><td>CTA ✓</td></tr>
+        <tr><td>ink-3 anywhere</td><td>2.11:1</td><td>decorative only</td></tr>
+        <tr><td>white / field deep zone</td><td>3.45:1</td><td>display numerals ≥32px + lift-shadow</td></tr>
+        <tr><td>white / field light zone</td><td>&lt;3:1</td><td>banned for text</td></tr>
+      </table>
+      <p class="note">Focus: 2px ink ring offset 2px. Keyboard-reachable everything. Reduced-motion first-class.</p>
+    </div>
+    <div class="panel">
+      <h3>Never do these</h3>
+      <p class="note">Body copy or charts on grain fields · Doto for words · wrong triad for the meaning ·
+      hue ramps for magnitude · lime as a surface or &gt;3 moments · pure-white canvas · flat linear
+      gradients posing as fields · liquid-glass behind data · alarm-red · bounce easing · decorative
+      rulers · motion that survives reduced-motion.</p>
+      <p class="note" style="margin-top:auto"><b style="color:var(--ink)">The closing rule:</b> we sell precision about someone's
+      market. An imprecise layout contradicts the product before a word is read.</p>
+    </div>
+  </div>
+  <div class="folio"><span>Derma Intel · Brand Guide v2</span><span class="ticks"></span><span>08 · Access &amp; misuse</span></div>
+</section>
+
+<!-- BACK COVER -->
+<section class="sheet" style="padding:0">
+  <div class="grain-card grain-card--status" style="border-radius:0; flex:1; display:flex; flex-direction:column;
+       align-items:center; justify-content:center; gap:6mm; text-align:center">
+    <span class="dot-num" style="font-size:26pt">2026</span>
+    <span class="gc-sub">Derma Intel · Trinade — Luminous Precision v2.0</span>
+    <div class="ruler ruler--on-field" style="color:#fff; width:30%"><span class="ruler-marker" style="--pos:50%"></span></div>
+  </div>
+</section>
+
+</body>
+</html>
