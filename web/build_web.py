@@ -218,6 +218,8 @@ def intent_positions(ok_rows, qrows, key_of) -> dict:
     cat_of = {str(q.get("query") or "").strip().lower(): q.get("category") for q in qrows}
     acc: dict = {}
     for r in ok_rows:
+        if r.get("status") not in (None, "OK"):
+            continue  # defensive: callers pass OK rows, but never trust it
         cat = cat_of.get(str(r.get("query") or "").strip().lower())
         pos = r.get("position")
         if not cat or _isna(pos):
