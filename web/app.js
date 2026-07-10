@@ -200,8 +200,25 @@
       ] });
   }
 
-  // ============================================================ THE MARKET (full redo = Phase D)
+  // ============================================================ THE MARKET
+  const hash32 = (s) => { let h = 2166136261; for (let i = 0; i < s.length; i++) h = Math.imul(h ^ s.charCodeAt(i), 16777619) >>> 0; return h >>> 0; };
+  const groupOf = (c) => (c.web && c.web.has_own_site) ? "own"
+    : ((c.web && ((c.web.borrowed || 0) > 0 || (c.web.platforms || []).length)) ? "borrowed" : "invisible");
   let sortKey = "visibility", sortDir = -1, areaFilter = "All";
+  function waffleHTML() {
+    const order = { own: 0, borrowed: 1, invisible: 2 };
+    const col = { own: "var(--tri-growth-a)", borrowed: "var(--tri-status-a)", invisible: "var(--tri-alert-b)" };
+    const dots = CL.map((c, i) => ({ c, i, g: groupOf(c) }))
+      .sort((a, b) => order[a.g] - order[b.g] || (b.c.visibility || 0) - (a.c.visibility || 0))
+      .map(({ c, i, g }) => `<span class="wdot ${i === state.idx ? "you" : ""}" title="${esc(c.display_name || c.name)} — ${g}"
+        style="background:${col[g]}"></span>`).join("");
+    const n = (g) => CL.filter((c) => groupOf(c) === g).length;
+    return `<div class="waffle">${dots}</div>
+      <div class="row" style="margin-top:var(--sp-3)">
+        <span class="wkey"><i style="background:var(--tri-growth-a)"></i>rank their own site · ${n("own")}</span>
+        <span class="wkey"><i style="background:var(--tri-status-a)"></i>directories only · ${n("borrowed")}</span>
+        <span class="wkey"><i style="background:var(--tri-alert-b)"></i>invisible · ${n("invisible")}</span></div>`;
+  }
   function marketView() {
     const you = CL[state.idx] || CL[0];
     const revs = CL.map((c) => c.reviews || 0);
@@ -217,19 +234,42 @@
         <div class="stat"><div class="n">${int(median(revs))}</div><div class="c">median reviews (mean ${int(MK.avg_reviews)} is skewed)</div></div>
       </div></section>
 
-    <section class="card section"><div class="h2" style="font-size:1.1rem">Visibility league — who patients find</div>
-      <div class="chart" id="ch-league" style="height:640px"></div>
-      <p class="caption">All ${CL.length} clinics by online visibility (higher = better). <b>You're highlighted.</b> Dashed line = market median.</p></section>
+    <section class="card section"><div class="h2" style="font-size:1.1rem">The opportunity map</div>
+      <div class="chart" id="ch-quad" style="height:420px"></div>
+      <p class="caption">Every bubble is a clinic — size = reviews, rose = invisible online. High demand with
+      low visibility (bottom-right) is the money corner. <b>You're the ink dot.</b></p></section>
 
     <section class="grid2 section">
-      <div class="card"><div class="h2" style="font-size:1.1rem">Demand vs visibility</div><div class="chart" id="ch-quad"></div>
-        <p class="caption">High demand + low visibility (bottom-right) = the biggest upside. Your dot is highlighted.</p></div>
-      <div class="card"><div class="h2" style="font-size:1.1rem">How clinics get found</div><div class="chart" id="ch-found"></div>
-        <p class="caption">Most clinics don't <i>own</i> their visibility — they rent it via directories, or have none.</p></div>
+      <div class="card"><div class="h2" style="font-size:1.1rem">Visibility league</div>
+        <div class="chart" id="ch-league" style="height:620px"></div>
+        <p class="caption">All ${CL.length} clinics, higher is better. Dashed = median.</p></div>
+      <div style="display:flex; flex-direction:column; gap:var(--sp-5)">
+        <div class="card"><div class="h2" style="font-size:1.1rem">Where the scores cluster</div>
+          <div class="chart" id="ch-swarm" style="height:240px"></div>
+          <p class="caption">The market splits into a found few and an unfound many.</p></div>
+        <div class="card"><div class="h2" style="font-size:1.1rem">The trust landscape</div>
+          <div class="chart" id="ch-trust" style="height:280px"></div>
+          <p class="caption">Reviews build trust; rose bubbles are trusted clinics no one can find online.</p></div>
+      </div>
     </section>
 
-    <section class="card section"><div class="h2" style="font-size:1.1rem">What patients search for</div><div class="chart" id="ch-cat"></div>
-      <p class="caption">Where demand concentrates across our ${QN} queries.</p></section>
+    <section class="grid2 section">
+      <div class="card"><div class="h2" style="font-size:1.1rem">Owned vs rented visibility</div>
+        <div class="chart" id="ch-owned" style="height:420px"></div>
+        <p class="caption">← green = ranks on its <b>own</b> site · orange = found only via directories →.
+        Directories show your competitors beside your name.</p></div>
+      <div style="display:flex; flex-direction:column; gap:var(--sp-5)">
+        <div class="card"><div class="h2" style="font-size:1.1rem">One dot per clinic</div>
+          ${waffleHTML()}</div>
+        <div class="card"><div class="h2" style="font-size:1.1rem">What patients search for</div>
+          <div class="chart" id="ch-cat" style="height:200px"></div></div>
+      </div>
+    </section>
+
+    <section class="card section"><div class="h2" style="font-size:1.1rem">Who owns each patient intent</div>
+      <div class="chart" id="ch-heat" style="height:300px"></div>
+      <p class="caption">Average position of the market's most visible clinics, by what patients want.
+      Deep green = near #1 · blank = never seen for that intent.</p></section>
 
     <section class="section"><div class="h2">All clinics</div>
       <div class="seg">Filter by area: <select id="area">${areas.map((a) => `<option ${a === areaFilter ? "selected" : ""}>${esc(a)}</option>`).join("")}</select>
@@ -248,7 +288,7 @@
       const found = c.web && c.web.has_own_site ? "Own site" : (c.web && c.web.platforms || []).length ? c.web.platforms.join(", ") : "—";
       return `<tr class="${i === state.idx ? "you" : ""}">
         <td><span class="open" data-open="${i}">${esc(c.display_name || c.name)}</span></td>
-        <td>${c.visibility}</td><td>#${c.visibility_rank}</td>
+        <td><span class="spark"><i style="width:${c.visibility || 0}%"></i></span>${c.visibility}</td><td>#${c.visibility_rank}</td>
         <td><span class="pill ${c.has_website ? "yes" : "no"}">${c.has_website ? "yes" : "no"}</span></td>
         <td>${c.web && c.web.has_own_site ? "yes" : "—"}</td><td>${esc(found)}</td>
         <td>${int(c.reviews)}</td><td>${r1(c.rating)}</td><td>${int(c.appearances)}</td></tr>`;
@@ -256,38 +296,85 @@
     return `<table><thead>${head}</thead><tbody>${body}</tbody></table>`;
   }
   function marketCharts() {
-    const ordered = CL.map((c, i) => ({ c, i })).sort((a, b) => (a.c.visibility || 0) - (b.c.visibility || 0));
     const med = median(CL.map((c) => c.visibility || 0));
-    mk("ch-league", { grid: { left: 150, right: 24, top: 6, bottom: 20 }, tooltip: Object.assign({ trigger: "axis" }, tip),
+    const medApp = D.median_appearances || median(CL.map((c) => c.appearances || 0));
+    const dotColor = (c) => groupOf(c) === "invisible" ? C.alert : C.slate;
+    const short = (s) => (s || "").slice(0, 20);
+
+    // — the opportunity map: demand × visibility, bubble = reviews —
+    mk("ch-quad", { grid: { left: 48, right: 24, top: 20, bottom: 44 },
+      tooltip: Object.assign({ trigger: "item", formatter: (p) => `${esc(p.data.name)}<br/>demand ${p.value[0]} · visibility ${p.value[1]} · ${int(p.data.rev)} reviews` }, tip),
+      xAxis: Object.assign({ type: "value", name: "patient demand (searches shown in) →", nameLocation: "middle", nameGap: 28, nameTextStyle: { color: C.ink2, fontFamily: C.mono, fontSize: 10 } }, axis),
+      yAxis: Object.assign({ type: "value", name: "visibility", max: 100, nameTextStyle: { color: C.ink2, fontFamily: C.mono, fontSize: 10 } }, axis),
+      graphic: [{ type: "text", right: 30, bottom: 58, style: { text: "high demand · low visibility\nthe opportunity corner", fill: C.ink2, font: '10px "Geist Mono"', align: "right" } }],
+      series: [
+        { type: "scatter", data: CL.map((c) => ({ value: [c.appearances || 0, c.visibility || 0], name: c.display_name || c.name, rev: c.reviews || 0, itemStyle: { color: dotColor(c), opacity: .72 } })),
+          symbolSize: (v, p) => Math.max(8, Math.min(26, Math.sqrt(p.data.rev || 1) * 1.3)),
+          markLine: { silent: true, symbol: "none", lineStyle: { color: C.ink3, type: "dashed" }, data: [{ xAxis: medApp }, { yAxis: med }] } },
+        { type: "scatter", symbolSize: 20, data: (CL[state.idx] ? [{ value: [CL[state.idx].appearances || 0, CL[state.idx].visibility || 0], name: "You", rev: CL[state.idx].reviews || 0 }] : []), itemStyle: { color: C.ink, borderColor: C.lime, borderWidth: 3 } },
+      ] });
+
+    // — league —
+    const ordered = CL.map((c, i) => ({ c, i })).sort((a, b) => (a.c.visibility || 0) - (b.c.visibility || 0));
+    mk("ch-league", { grid: { left: 148, right: 24, top: 6, bottom: 20 }, tooltip: Object.assign({ trigger: "axis" }, tip),
       xAxis: Object.assign({ type: "value", max: 100 }, axis),
-      yAxis: Object.assign({ type: "category", data: ordered.map(({ c }) => (c.display_name || c.name).slice(0, 22)), axisLabel: { fontSize: 9, color: C.ink2 } }, axis),
+      yAxis: Object.assign({ type: "category", data: ordered.map(({ c }) => short(c.display_name || c.name)), axisLabel: { fontSize: 9, color: C.ink2 } }, axis),
       series: [{ type: "bar", barWidth: "62%", data: ordered.map(({ c, i }) => ({ value: c.visibility || 0, itemStyle: { color: i === state.idx ? C.ink : C.slate, borderRadius: [0, 5, 5, 0] } })),
         markLine: { silent: true, symbol: "none", data: [{ xAxis: med }], lineStyle: { color: C.ink3, type: "dashed" } } }] });
-    mk("ch-quad", { grid: { left: 44, right: 20, top: 16, bottom: 40 }, tooltip: Object.assign({ trigger: "item", formatter: (p) => `${esc(p.data.name)}<br/>demand ${p.value[0]} · vis ${p.value[1]}` }, tip),
-      xAxis: Object.assign({ type: "value", name: "searches shown in →", nameLocation: "middle", nameGap: 26 }, axis),
-      yAxis: Object.assign({ type: "value", name: "visibility", max: 100 }, axis),
+
+    // — score beeswarm —
+    mk("ch-swarm", { grid: { left: 16, right: 16, top: 10, bottom: 26 },
+      tooltip: Object.assign({ trigger: "item", formatter: (p) => `${esc(p.data.name)} · vis ${p.value[0]}` }, tip),
+      xAxis: Object.assign({ type: "value", max: 100, name: "visibility →", nameTextStyle: { color: C.ink2, fontFamily: C.mono, fontSize: 10 } }, axis),
+      yAxis: { type: "value", min: -40, max: 40, show: false },
       series: [
-        { type: "scatter", symbolSize: 9, data: CL.map((c) => ({ value: [c.appearances || 0, c.visibility || 0], name: c.display_name || c.name })), itemStyle: { color: "rgba(151,162,178,.6)" },
-          markLine: { silent: true, symbol: "none", lineStyle: { color: C.ink3, type: "dashed" }, data: [{ xAxis: D.median_appearances || median(CL.map((c) => c.appearances || 0)) }, { yAxis: med }] } },
-        { type: "scatter", symbolSize: 18, data: (CL[state.idx] ? [{ value: [CL[state.idx].appearances || 0, CL[state.idx].visibility || 0], name: "You" }] : []), itemStyle: { color: C.ink, borderColor: C.lime, borderWidth: 3 } },
+        { type: "scatter", symbolSize: 11, data: CL.map((c, i) => ({ value: [c.visibility || 0, (hash32((c.name || "") + "sw") % 61) - 30], name: c.display_name || c.name, itemStyle: { color: i === state.idx ? C.ink : dotColor(c), opacity: i === state.idx ? 1 : .72, borderColor: i === state.idx ? C.lime : "transparent", borderWidth: i === state.idx ? 3 : 0 } })) },
       ] });
-    const own = CL.filter((c) => c.web && c.web.has_own_site).length;
-    const invis = CL.filter((c) => (c.web && c.web.appearances || 0) === 0).length;
-    const borrowed = CL.filter((c) => c.web && !c.web.has_own_site && ((c.web.borrowed || 0) > 0 || (c.web.platforms || []).length)).length;
-    const other = Math.max(0, CL.length - own - invis - borrowed);
-    mk("ch-found", { grid: { left: 8, right: 16, top: 30, bottom: 8 }, legend: { top: 0, textStyle: { fontSize: 10, fontFamily: C.sans } }, tooltip: Object.assign({ trigger: "axis" }, tip),
-      xAxis: Object.assign({ type: "value" }, axis), yAxis: { type: "category", data: ["Clinics"], axisLabel: { show: false }, axisLine: { show: false }, axisTick: { show: false } },
+
+    // — trust landscape —
+    mk("ch-trust", { grid: { left: 40, right: 20, top: 14, bottom: 40 },
+      tooltip: Object.assign({ trigger: "item", formatter: (p) => `${esc(p.data.name)}<br/>${int(p.value[0])} reviews · ${r1(p.value[1])}★ · demand ${p.data.dem}` }, tip),
+      xAxis: Object.assign({ type: "value", name: "reviews →", nameLocation: "middle", nameGap: 26, nameTextStyle: { color: C.ink2, fontFamily: C.mono, fontSize: 10 } }, axis),
+      yAxis: Object.assign({ type: "value", min: 3.5, max: 5 }, axis),
+      series: [{ type: "scatter", data: CL.filter((c) => (c.rating || 0) >= 3.5).map((c, _, __, ) => ({ value: [c.reviews || 0, c.rating || 0], name: c.display_name || c.name, dem: c.appearances || 0, itemStyle: { color: dotColor(c), opacity: .72 } })),
+        symbolSize: (v, p) => Math.max(7, Math.min(24, (p.data.dem || 1) * .9)) }] });
+
+    // — owned vs rented butterfly —
+    const web = CL.map((c, i) => ({ c, i, o: (c.web || {}).owned || 0, b: (c.web || {}).borrowed || 0 }))
+      .filter((x) => x.o + x.b > 0).sort((a, b) => (b.o + b.b) - (a.o + a.b)).slice(0, 16).reverse();
+    mk("ch-owned", { grid: { left: 148, right: 24, top: 8, bottom: 24 },
+      tooltip: Object.assign({ trigger: "axis", formatter: (ps) => `${esc(ps[0].name)}<br/>` + ps.map((p) => `${p.seriesName}: ${Math.abs(p.value)}`).join(" · ") }, tip),
+      xAxis: Object.assign({ type: "value", axisLabel: { color: C.ink2, fontFamily: C.mono, fontSize: 10, formatter: (v) => Math.abs(v) } }, axis),
+      yAxis: Object.assign({ type: "category", data: web.map((x) => short(x.c.display_name || x.c.name)), axisLabel: { fontSize: 9, color: C.ink2 } }, axis),
       series: [
-        { name: "Rank own site", type: "bar", stack: "s", data: [own], itemStyle: { color: C.growth, borderRadius: [6, 0, 0, 6] } },
-        { name: "Only via directories", type: "bar", stack: "s", data: [borrowed], itemStyle: { color: C.orange } },
-        { name: "Other", type: "bar", stack: "s", data: [other], itemStyle: { color: C.ink3 } },
-        { name: "Invisible", type: "bar", stack: "s", data: [invis], itemStyle: { color: C.alert, borderRadius: [0, 6, 6, 0] } },
+        { name: "own site", type: "bar", stack: "w", barWidth: "58%", data: web.map((x) => -x.o), itemStyle: { color: C.growth, borderRadius: [5, 0, 0, 5] } },
+        { name: "directories", type: "bar", stack: "w", data: web.map((x) => x.b), itemStyle: { color: C.orange, borderRadius: [0, 5, 5, 0] } },
       ] });
+
+    // — what patients search for —
     const cats = (D.categories || []).slice().sort((a, b) => a.count - b.count);
-    mk("ch-cat", { grid: { left: 8, right: 28, top: 8, bottom: 8, containLabel: true }, tooltip: Object.assign({ trigger: "axis" }, tip),
-      xAxis: Object.assign({ type: "value" }, axis), yAxis: { type: "category", data: cats.map((c) => c.category), axisLine: { lineStyle: { color: C.line } }, axisTick: { show: false }, axisLabel: { fontSize: 11, color: C.ink2, fontFamily: C.sans } },
-      series: [{ type: "bar", barWidth: "62%", data: cats.map((c) => ({ value: c.count, itemStyle: { color: C.slate, borderRadius: [0, 6, 6, 0] } })),
+    mk("ch-cat", { grid: { left: 8, right: 28, top: 4, bottom: 4, containLabel: true }, tooltip: Object.assign({ trigger: "axis" }, tip),
+      xAxis: Object.assign({ type: "value" }, axis), yAxis: { type: "category", data: cats.map((c) => c.category), axisLine: { lineStyle: { color: C.line } }, axisTick: { show: false }, axisLabel: { fontSize: 10, color: C.ink2, fontFamily: C.sans } },
+      series: [{ type: "bar", barWidth: "62%", data: cats.map((c) => ({ value: c.count, itemStyle: { color: C.slate, borderRadius: [0, 5, 5, 0] } })),
         label: { show: true, position: "right", color: C.ink2, fontFamily: C.mono, fontSize: 10 } }] });
+
+    // — intent ownership heatmap (magnitude = intensity of ONE hue) —
+    const catsAll = Object.keys(D.intents_market || {});
+    const topCl = CL.slice().sort((a, b) => (b.visibility || 0) - (a.visibility || 0)).slice(0, 12);
+    const heat = [];
+    topCl.forEach((c, xi) => (c.intents || []).forEach((e) => {
+      const yi = catsAll.indexOf(e.cat);
+      if (yi >= 0) heat.push([xi, yi, e.pos]);
+    }));
+    mk("ch-heat", { grid: { left: 148, right: 60, top: 10, bottom: 70 },
+      tooltip: Object.assign({ trigger: "item", formatter: (p) => `${esc(topCl[p.value[0]].display_name || topCl[p.value[0]].name)}<br/>${esc(catsAll[p.value[1]])}: avg position #${p.value[2]}` }, tip),
+      xAxis: { type: "category", data: topCl.map((c) => short(c.display_name || c.name)), axisLabel: { rotate: 32, fontSize: 9, color: C.ink2 }, axisLine: { lineStyle: { color: C.line } }, axisTick: { show: false }, splitArea: { show: false } },
+      yAxis: { type: "category", data: catsAll, axisLabel: { fontSize: 10, color: C.ink2, fontFamily: C.sans }, axisLine: { lineStyle: { color: C.line } }, axisTick: { show: false } },
+      visualMap: { min: 1, max: 15, calculable: false, orient: "vertical", right: 0, top: "center", itemHeight: 90,
+        textStyle: { color: C.ink2, fontFamily: C.mono, fontSize: 9 }, text: ["#15+", "#1"],
+        inRange: { color: [C.growth, "rgba(46,158,68,.08)"] } },
+      series: [{ type: "heatmap", data: heat, label: { show: true, formatter: (p) => "#" + p.value[2], color: C.ink, fontFamily: C.mono, fontSize: 9 },
+        itemStyle: { borderColor: "#fff", borderWidth: 2, borderRadius: 4 } }] });
   }
 
   // ---------- wiring ----------
