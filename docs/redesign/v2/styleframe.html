@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Derma Intel v2 — styleframe (internal QA)</title>
+<link rel="stylesheet" href="tokens-v2.css">
+<link rel="stylesheet" href="components.css">
+<style>
+  /* QA-only fonts: relative vendor paths (shipping builds inline base64). */
+  @font-face { font-family:"Geist"; src:url("../../../web/vendor/geist-400.woff2") format("woff2"); font-weight:400; }
+  @font-face { font-family:"Geist"; src:url("../../../web/vendor/geist-500.woff2") format("woff2"); font-weight:500; }
+  @font-face { font-family:"Geist"; src:url("../../../web/vendor/geist-600.woff2") format("woff2"); font-weight:600; }
+  @font-face { font-family:"Geist"; src:url("../../../web/vendor/geist-700.woff2") format("woff2"); font-weight:700; }
+  @font-face { font-family:"Geist Mono"; src:url("../../../web/vendor/geistmono-400.woff2") format("woff2"); font-weight:400; }
+  @font-face { font-family:"Geist Mono"; src:url("../../../web/vendor/geistmono-500.woff2") format("woff2"); font-weight:500; }
+  @font-face { font-family:"Doto"; src:url("../../../web/vendor/doto-var.woff2") format("woff2"); font-weight:100 900; }
+
+  * { box-sizing: border-box; margin: 0; }
+  body {
+    background: var(--canvas); color: var(--ink);
+    font: var(--fw-body) var(--fs-body)/var(--lh-body) var(--sans);
+    padding: var(--sp-6);
+  }
+  .frame { max-width: 1360px; margin: 0 auto; display: grid;
+           grid-template-columns: 272px 1fr; gap: var(--sp-6); }
+
+  /* header band */
+  .frame-head { grid-column: 1 / -1; display: flex; align-items: center; gap: var(--sp-5); }
+  .wordmark { font: var(--fw-display) var(--fs-title)/1 var(--sans); letter-spacing: -.02em; }
+  .wordmark small { color: var(--ink-3); font-weight: var(--fw-body); }
+
+  /* sidebar */
+  .side { display: flex; flex-direction: column; gap: var(--sp-2); }
+
+  /* main grid */
+  .main { display: grid; grid-template-columns: 1.2fr 1fr; gap: var(--sp-5); align-content: start; }
+
+  /* KPI strip */
+  .kpis { grid-column: 1 / -1; display: flex; gap: var(--sp-7); align-items: flex-end; }
+  .kpi { display: flex; flex-direction: column; gap: var(--sp-2); }
+  .kpi-row { display: flex; align-items: flex-start; gap: var(--sp-2); }
+
+  /* hero grain cards */
+  .hero-card { min-height: 300px; padding: var(--sp-6);
+               display: flex; flex-direction: column; align-items: center;
+               justify-content: center; gap: var(--sp-4); text-align: center; }
+  .hero-card .ruler { width: 70%; }
+
+  /* small alert card */
+  .mini-card { min-height: 130px; padding: var(--sp-5);
+               display: flex; flex-direction: column; justify-content: space-between; }
+  .plain-card { background: var(--surface); border-radius: var(--r-card);
+                box-shadow: var(--shadow-card); padding: var(--sp-5); }
+  .row { display: flex; gap: var(--sp-3); align-items: center; flex-wrap: wrap; }
+  .stack { display: flex; flex-direction: column; gap: var(--sp-3); }
+</style>
+</head>
+<body>
+<div class="frame">
+
+  <div class="frame-head">
+    <div class="wordmark">Derma Intel<span style="color:var(--lime)">.</span> <small>Guntur</small></div>
+    <span class="glass-pill">↗ Market improving <span class="gp-sub">+3.2 last 90 days</span></span>
+    <span class="chip-lime" style="margin-left:auto">Live · Q3 2026</span>
+  </div>
+
+  <nav class="side">
+    <div class="micro-label" style="padding:var(--sp-2) var(--sp-4)">Your clinic</div>
+    <button class="pill-tab is-active"><span class="pt-dot"></span> Visibility <span class="pt-status">71/100</span></button>
+    <button class="pill-tab">Search demand <span class="pt-status">High</span></button>
+    <button class="pill-tab">Reviews <span class="pt-status">4.6 ★</span></button>
+    <button class="pill-tab">Web presence <span class="pt-status">Missing</span></button>
+    <button class="pill-tab">Patient voice <span class="pt-status">Balanced</span></button>
+  </nav>
+
+  <main class="main">
+    <div class="kpis">
+      <div class="kpi">
+        <div class="kpi-row"><span class="dot-num">80</span><span class="chip-lime">Total</span></div>
+        <span class="micro-label">Searches tracked</span>
+      </div>
+      <div class="kpi">
+        <div class="kpi-row"><span class="dot-num">34</span></div>
+        <span class="micro-label">Clinics mapped</span>
+      </div>
+      <div class="kpi">
+        <div class="kpi-row"><span class="dot-num">15</span><span class="chip-lime">Out of range</span></div>
+        <span class="micro-label">Invisible online</span>
+      </div>
+      <div class="kpi">
+        <div class="kpi-row"><span class="dot-num dot-num--ghost">##</span></div>
+        <span class="micro-label">Your rank · unlocks</span>
+      </div>
+    </div>
+
+    <section class="grain-card grain-card--growth hero-card">
+      <span class="gc-label">Opportunity Score</span>
+      <span class="dot-num dot-num--hero">71</span>
+      <span class="gc-sub">On track · top quartile demand</span>
+      <div class="ruler ruler--on-field" style="color:#fff"><span class="ruler-marker" style="--pos:71%"></span></div>
+    </section>
+
+    <section class="grain-card grain-card--status hero-card">
+      <span class="gc-label">Market rank</span>
+      <span class="dot-num dot-num--hero">#12</span>
+      <span class="gc-sub">of 34 dermatology clinics</span>
+      <div class="ruler ruler--on-field" style="color:#fff"><span class="ruler-marker" style="--pos:35%"></span></div>
+    </section>
+
+    <section class="grain-card grain-card--alert mini-card">
+      <span class="gc-label">Web presence</span>
+      <div class="row" style="justify-content:space-between">
+        <span class="row" style="gap:var(--sp-2); align-items:baseline">
+          <span class="dot-num">0</span>
+          <span class="gc-sub" style="font-size:var(--fs-body)">pages</span>
+        </span>
+        <span class="gc-sub">found ranking for your name</span>
+      </div>
+    </section>
+
+    <section class="plain-card stack">
+      <span class="micro-label">Benchmark</span>
+      <div class="row" style="justify-content:space-between">
+        <span style="font:var(--fw-semibold) var(--fs-body) var(--sans)">You vs market median</span>
+        <span class="dot-num dot-num--small">4.6 / 4.8</span>
+      </div>
+      <div class="ruler" style="color:var(--ink)"><span class="ruler-marker" style="--pos:62%"></span></div>
+      <div class="row">
+        <span class="chip-lime">Rating</span>
+        <span class="micro-label">·  47 reviews vs 212 median</span>
+      </div>
+    </section>
+  </main>
+</div>
+</body>
+</html>

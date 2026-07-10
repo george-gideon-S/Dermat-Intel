@@ -37,12 +37,12 @@
      GROWTH  = opportunity, demand, improvement   (green → orange)
      STATUS  = scores, standing, benchmarks       (orange → slate)
      ALERT   = gaps, risks, connect-actions       (pink → magenta)     */
-  --tri-growth-a: #3FA544;  --tri-growth-b: #9BC34A;  --tri-growth-c: #E8973A;
-  --tri-status-a: #E8973A;  --tri-status-b: #D9B39A;  --tri-status-c: #8B97A8;
-  --tri-alert-a:  #E86FA4;  --tri-alert-b:  #ED4B78;  --tri-alert-c:  #F0A8B8;
+  --tri-growth-a: #2E9E44;  --tri-growth-b: #A8C84B;  --tri-growth-c: #E8973A;
+  --tri-status-a: #97A2B2;  --tri-status-b: #ED9A3E;  --tri-status-c: #C7CDD6;
+  --tri-alert-a:  #E39CB4;  --tri-alert-b:  #EE6D96;  --tri-alert-c:  #F2C6D2;
 
   /* Grain-field controls (magnitude = intensity, one knob) */
-  --grain-opacity: .16;     /* the noise layer */
+  --grain-opacity: .18;     /* the noise layer */
   --grain-blur: 28px;       /* diffusion of the radial fields */
   --field-dim: 1;           /* multiply field opacity: 1 = full signal,
                                .55 = subdued (low magnitude), .3 = ghost */

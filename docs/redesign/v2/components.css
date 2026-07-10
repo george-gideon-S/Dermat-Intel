@@ -1,0 +1,166 @@
+/* ============================================================================
+   Derma Intel v2 · component recipes — consume ONLY tokens-v2.css vars.
+   Six codified components: grain-card · dot-num · ruler · pill-tab ·
+   glass-pill · chip-lime.  (Guide chapter 6 documents usage rules.)
+   ============================================================================ */
+
+/* — 1 · Grain-gradient card ————————————————————————————————————————
+   The signature surface. Diffuse light (offset oversized radials, blurred)
+   + a grain overlay. Meaning-bound triad via modifier; magnitude via
+   --field-dim on the element. NEVER place body text or charts on it. */
+.grain-card {
+  position: relative;
+  border-radius: var(--r-card);
+  overflow: hidden;
+  color: #fff;
+  background: var(--surface);          /* base so dimmed fields stay luminous */
+  box-shadow: var(--shadow-card);
+  isolation: isolate;                  /* contain the blend mode */
+}
+.grain-card::before {                  /* the light field */
+  content: "";
+  position: absolute; inset: -40%;
+  z-index: -2;
+  opacity: var(--field-dim);
+  background:
+    radial-gradient(55% 48% at 16% 6%, rgba(255,255,255,.5) 0%, transparent 65%),
+    radial-gradient(60% 55% at 22% 78%, var(--g-a) 0%, transparent 62%),
+    radial-gradient(70% 60% at 80% 18%, var(--g-c) 0%, transparent 66%),
+    radial-gradient(90% 80% at 55% 50%, var(--g-b) 0%, transparent 75%);
+  filter: blur(var(--grain-blur)) saturate(1.05);
+}
+.grain-card::after {                   /* the grain that makes it premium */
+  content: "";
+  position: absolute; inset: 0;
+  z-index: -1;
+  opacity: var(--grain-opacity);
+  mix-blend-mode: overlay;
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='160' height='160'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='2'/></filter><rect width='160' height='160' filter='url(%23n)' opacity='0.6'/></svg>");
+}
+.grain-card--growth { --g-a: var(--tri-growth-a); --g-b: var(--tri-growth-b); --g-c: var(--tri-growth-c); }
+.grain-card--status { --g-a: var(--tri-status-a); --g-b: var(--tri-status-b); --g-c: var(--tri-status-c); }
+.grain-card--alert  { --g-a: var(--tri-alert-a);  --g-b: var(--tri-alert-b);  --g-c: var(--tri-alert-c);  }
+
+.grain-card .gc-label {                /* small centered label above the numeral */
+  font: var(--fw-medium) var(--fs-small)/1 var(--sans);
+  opacity: .92; letter-spacing: .01em;
+}
+.grain-card .gc-sub { font: var(--fw-body) var(--fs-small)/1 var(--sans); opacity: .88; }
+/* Contrast assist: grain cards are DISPLAY surfaces (numerals + short labels
+   only — never body copy). White text gets a diffuse ink lift-shadow, and
+   must sit over the field's mid/deep zones, not the white bleed. */
+.grain-card .gc-label, .grain-card .gc-sub { text-shadow: 0 1px 14px rgba(19,20,23,.28); }
+.grain-card .dot-num { text-shadow: 0 2px 22px rgba(19,20,23,.22); }
+
+/* — 2 · Dot-matrix numeral ————————————————————————————————————————
+   Doto, ROND 100 always. NUMERALS ONLY — never words. Ghost variant for
+   in-flight/obscured values (the paywall gate placeholder). */
+.dot-num {
+  font-family: var(--dot);
+  font-variation-settings: var(--dot-round);
+  font-weight: 700;
+  line-height: 1;
+  letter-spacing: .04em;
+  font-size: var(--fs-display);
+}
+.dot-num--hero  { font-size: var(--fs-hero); }
+.dot-num--small { font-size: var(--fs-title); font-weight: 500; }
+.dot-num--ghost { color: var(--ink-3); }
+
+/* — 3 · Ruler strip ————————————————————————————————————————————————
+   The measurement motif. Minor tick every 8px, major every 40px; optional
+   marker positioned by --pos (0–100%). On grain cards use the on-field
+   variant (white ticks). */
+.ruler {
+  position: relative;
+  height: 16px;
+  background:
+    repeating-linear-gradient(90deg,
+      var(--tick, var(--line)) 0 1px, transparent 1px 8px),
+    repeating-linear-gradient(90deg,
+      var(--tick-major, var(--ink-3)) 0 1px, transparent 1px 40px);
+  background-size: 100% 9px, 100% 16px;
+  background-position: bottom left, bottom left;
+  background-repeat: no-repeat;
+}
+.ruler--on-field { --tick: rgba(255,255,255,.42); --tick-major: rgba(255,255,255,.8); }
+.ruler .ruler-marker {
+  position: absolute; bottom: 0; left: var(--pos, 50%);
+  width: 3px; height: 100%; border-radius: 2px;
+  background: currentColor;
+  transform: translateX(-50%);
+}
+
+/* — 4 · Pill tab (sidebar) ————————————————————————————————————————
+   Rest = recessed; hover = lifts to white; active = white + shadow +
+   lime marker dot. Trailing chip carries the per-item status. */
+.pill-tab {
+  display: flex; align-items: center; gap: var(--sp-3);
+  padding: var(--sp-3) var(--sp-4);
+  border-radius: var(--r-tab);
+  background: var(--surface-2);
+  color: var(--ink);
+  font: var(--fw-medium) var(--fs-small)/1.2 var(--sans);
+  border: 1px solid transparent;
+  cursor: pointer;
+  transition: background var(--dur-quick) var(--ease-out),
+              box-shadow var(--dur-quick) var(--ease-out);
+}
+.pill-tab:hover { background: var(--surface); }
+.pill-tab[aria-current="true"], .pill-tab.is-active {
+  background: var(--surface);
+  box-shadow: var(--shadow-card);
+  border-color: var(--line-2);
+}
+.pill-tab .pt-icon { width: 18px; height: 18px; stroke: var(--ink-2); flex: none; }
+.pill-tab .pt-status {
+  margin-left: auto;
+  font: var(--fw-medium) var(--fs-micro)/1 var(--mono);
+  color: var(--ink-2);
+  background: var(--canvas);
+  border-radius: var(--r-pill);
+  padding: 5px 10px;
+}
+.pill-tab.is-active .pt-dot {
+  width: 6px; height: 6px; border-radius: 50%;
+  background: var(--lime); outline: 3px solid color-mix(in srgb, var(--lime) 35%, transparent);
+  flex: none;
+}
+
+/* — 5 · Glass pill ————————————————————————————————————————————————
+   Floating status. backdrop-filter is the baseline; liquid-glass.js may
+   enhance the paywall gate ONLY. Never carries body copy. */
+.glass-pill {
+  display: inline-flex; align-items: center; gap: var(--sp-2);
+  padding: var(--sp-3) var(--sp-5);
+  border-radius: var(--r-pill);
+  background: rgba(255,255,255,.55);
+  backdrop-filter: blur(14px) saturate(1.15);
+  -webkit-backdrop-filter: blur(14px) saturate(1.15);
+  border: 1px solid rgba(255,255,255,.65);
+  box-shadow: var(--shadow-float);
+  color: var(--ink);
+  font: var(--fw-semibold) var(--fs-small)/1.2 var(--sans);
+}
+.glass-pill .gp-sub { font-weight: var(--fw-body); color: var(--ink-2); }
+
+/* — 6 · Lime chip ——————————————————————————————————————————————————
+   The only flat accent. Micro label, uppercase, ink text. ≤3 per viewport. */
+.chip-lime {
+  display: inline-flex; align-items: center;
+  padding: 5px 10px;
+  border-radius: var(--r-pill);
+  background: var(--lime);
+  color: var(--lime-ink);
+  font: var(--fw-semibold) var(--fs-micro)/1 var(--sans);
+  letter-spacing: var(--ls-micro);
+  text-transform: uppercase;
+}
+
+/* — Micro label (shared) ——————————————————————————————————————————— */
+.micro-label {
+  font: var(--fw-medium) var(--fs-micro)/1 var(--mono);
+  letter-spacing: var(--ls-micro);
+  text-transform: uppercase;
+  color: var(--ink-2);
+}
