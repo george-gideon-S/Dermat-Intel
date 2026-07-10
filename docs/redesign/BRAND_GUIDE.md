@@ -1,5 +1,8 @@
 # Derma Intel — Brand Identity Guide
 
+> **SUPERSEDED (2026-07-10)** by **v2 "Luminous Precision"** — see [`v2/BRAND_GUIDE_V2.md`](v2/BRAND_GUIDE_V2.md).
+> Kept as history; do not build against these values.
+
 **"Warm Intelligence"** · v1.0 · 2026-06-30 · Units-led direction
 Companion files: [`tokens.css`](tokens.css) (drop-in variables) · [`Derma-Intel-Brand-Guide.pdf`](Derma-Intel-Brand-Guide.pdf) (the designed booklet) · [`brand-styleframe.png`](brand-styleframe.png) (the system, rendered) · brief [`PREMIUM_REDESIGN_BRIEF.md`](PREMIUM_REDESIGN_BRIEF.md)
 

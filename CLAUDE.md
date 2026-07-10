@@ -102,7 +102,7 @@ Non-operational clinics ×0.4. Higher = bigger opportunity.
   **not** the numeric score yet (referral rate + review velocity are the intended word-of-mouth inputs).
 
 ## Conventions
-- Logic-heavy code is TDD'd; keep `pytest` green (**121 tests**). Commit frequently to local `master`
+- Logic-heavy code is TDD'd; keep `pytest` green (**137 tests**, verified 2026-07-10). Commit frequently to local `master`
   (no remote). End commit messages with `Co-Authored-By: Claude Opus 4.8 <noreply@anthropic.com>`.
 - Gitignored: `.cache/*.json`, `.cache/web_tiles/`, `data/*.xlsx`, `data/Full Page Screenshots/`,
   `web/dist/`, `metadata.json`, **`.env`**, **`.env.local`**, **`.claude/settings.local.json`**.
@@ -180,10 +180,17 @@ authenticated with the `X-Goog-Api-Key` header sourced from `${STITCH_API_KEY}`.
 - Screen generation takes minutes per call. There is also `@google/stitch-sdk` (npm), same `STITCH_API_KEY`.
 
 ## Ownership & guardrails
-- **`web/` is owned by a parallel design session.** Do not edit `web/` from a setup/analysis session.
-- The brand is **locked**: "Warm Intelligence" — oat canvas + vibrant rainbow (purple primary),
-  Bricolage + Geist + Geist Mono. Source of truth: `docs/redesign/BRAND_GUIDE.md` + `docs/redesign/tokens.css`.
-- Phase 11 is **presentation-only**: `modules/` and the 135 tests stay green and untouched.
+- **`web/` is owned by the Phase-11 redesign workstream** (this project's active design effort;
+  the earlier parallel-session split is over).
+- The brand is **"Luminous Precision" v2** (2026-07-10): cool gray canvas + grain-gradient triads +
+  Doto dot-matrix numerals + single lime accent + Geist/Geist Mono. Source of truth:
+  `docs/redesign/v2/` (`tokens-v2.css`, `components.css`, `BRAND_GUIDE_V2.md`, `brand-guide.html`,
+  `DESIGN.md` for Stitch, booklet PDF). v1 "Warm Intelligence" (`docs/redesign/BRAND_GUIDE.md`)
+  is superseded — kept as history only. Business model + page specs:
+  `docs/superpowers/specs/2026-07-10-phase11-luminous-precision-redesign-design.md`
+  (diagnostic ladder: Report ₹4,999 → Monitoring ₹9,999/yr → Build ₹49,999+ · two-dist privacy split).
+- Phase 11 is **presentation-only**: `modules/` and the test suite stay green and untouched
+  (only `web/build_web.py` may gain TDD'd logic for the two-dist split).
 
 ## Current state (2026-06-30)
 80 queries · 34 clinics scored with the **full 60/40 blend now LIVE** (Maps + Google-web from the
