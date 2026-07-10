@@ -10,3 +10,8 @@ data/*.xlsx
 data/Full Page Screenshots/
 metadata.json
 web/dist/
+
+# Secrets — never commit. See .env.example for the required keys.
+.env
+.env.local
+.claude/settings.local.json

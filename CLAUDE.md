@@ -105,9 +105,85 @@ Non-operational clinics ×0.4. Higher = bigger opportunity.
 - Logic-heavy code is TDD'd; keep `pytest` green (**121 tests**). Commit frequently to local `master`
   (no remote). End commit messages with `Co-Authored-By: Claude Opus 4.8 <noreply@anthropic.com>`.
 - Gitignored: `.cache/*.json`, `.cache/web_tiles/`, `data/*.xlsx`, `data/Full Page Screenshots/`,
-  `web/dist/`, `metadata.json`.
+  `web/dist/`, `metadata.json`, **`.env`**, **`.env.local`**, **`.claude/settings.local.json`**.
 - Visual/functional QA of the web app is done with **Playwright screenshots** + a headless functional
   suite (see `tests/` and the scratchpad scripts pattern in SESSION_LOG.md).
+
+## Secrets — hard rule
+**Never hardcode a secret, never commit one, never echo one into a shell command or log.**
+- Source of truth is **`.env`** (gitignored). `.env.example` (committed) lists the required names, no values.
+- `.mcp.json` **is committed** and must only ever reference `${VAR}` — never a literal key.
+- Current secrets: `STITCH_API_KEY` (also persisted as a Windows **user env var** so `${STITCH_API_KEY}`
+  resolves for the Stitch MCP and for `@google/stitch-sdk`).
+- To read a key in a script, load it from `.env` / `os.environ`. Do **not** paste it onto a command line —
+  the tool-call classifier will (correctly) block you.
+
+## Skills & tooling — MANDATORY, load every session
+These are installed globally in `~/.claude/skills/`. Use them; do not freelance past them.
+
+**Design & UI**
+- **`impeccable`** — the primary UI craft skill. Own the whole loop: `audit` → `craft` → `animate` →
+  `polish`. Default choice for any dashboard/page/component work.
+- **`hallmark`** — use for its `study` / extraction mode only: turn `design/Design Inspiration/*.png`
+  and the brand PDFs into a concrete design language. Not a second opinion on impeccable.
+- **`taste-skill`** (`design-taste-frontend`) — run its **pre-flight anti-slop check** on the storytelling
+  home page before calling it done. Catches templated hero/feature-grid defaults.
+- **`liquid-glass`** — Apple-style refraction (real `feDisplacementMap`, Chromium; frosted fallback
+  elsewhere). Drop-in module lives at `~/.claude/skills/liquid-glass/liquid-glass.js`; copy it into
+  `web/vendor/`. Use on **chrome** (nav, modals, overlay cards) — never behind numbers or charts,
+  and never let refraction carry meaning.
+
+**Motion** (the site is motion-rich; GSAP 3.13 is already vendored in `web/vendor/`)
+- **`motion-design`** (LottieFiles) — decide *what* the motion should be: timing, easing, choreography,
+  emotional register. Consult **before** writing tweens.
+- **`gsap-core` / `gsap-timeline` / `gsap-scrolltrigger` / `gsap-plugins` / `gsap-utils` /
+  `gsap-performance`** — then implement. `gsap-scrolltrigger` owns the pinned scroll story;
+  `gsap-performance` is mandatory before any "it feels janky" fix. (`gsap-react` / `gsap-frameworks`
+  are installed but unused — this app is vanilla JS.)
+
+**UI generation**
+- **`stitch-skill`** — emits a semantic `DESIGN.md`. That file is the input to the **Stitch MCP**
+  (`create_design_system_from_design_md`), which is the intended pipeline. See "Google Stitch" below.
+
+**Discipline**
+- **`karpathy-guidelines`** — think before coding, simplicity first, **surgical changes**, verify against
+  explicit success criteria. The "surgical changes" rule is load-bearing here: Phase 11 is
+  **presentation-only** — keep `modules/` and the tests intact.
+
+**Deliberately NOT part of this project's workflow** (installed, but they fight the locked brand or
+duplicate the above — do not invoke): `gpt-tasteskill`, `soft-skill`, `redesign-skill`, `brutalist-skill`,
+`minimalist-skill`, `taste-skill-v1`, `image-to-code-skill`, `imagegen-frontend-*`, `brandkit`.
+The **`headroom`** MCP (context compression) is connected globally but must **not** be used here:
+it is lossy, and design work depends on exact CSS/DOM/pixel values.
+
+## Codebase memory (`codebase-memory-mcp`)
+100% local, no API key — consistent with the no-paid-APIs rule. **Query it before grepping** when you
+need architecture or call paths.
+- Project name: **`E-TRINADE-Dermat-Analytics-and-Websites`** (885 nodes / 2168 edges, mode `full`).
+- Useful tools: `get_architecture` (Leiden clusters = the real seams), `search_code`, `search_graph`,
+  `trace_path`, `get_code_snippet`, `detect_changes` (run after big refactors, then re-`index_repository`).
+- **Graph UI: http://localhost:9749** — browses every indexed project under `E:\TRINADE`.
+  The binary at `~/.codebase-memory-mcp/bin/` is the **UI build** (v0.8.1) and `ui=true` is persisted, so
+  the server exposes it automatically. To start it standalone:
+  `Start-Process "$env:USERPROFILE\.codebase-memory-mcp\bin\codebase-memory-mcp.exe" -ArgumentList "--ui=true" -WindowStyle Hidden`
+  (It is an stdio MCP server first — it exits instantly if stdin is closed, so don't pipe `/dev/null` into it.)
+
+## Google Stitch (AI UI generation)
+Configured in the committed `.mcp.json` as an **http** MCP at `https://stitch.googleapis.com/mcp`,
+authenticated with the `X-Goog-Api-Key` header sourced from `${STITCH_API_KEY}`. Verified working.
+- Tools: `create_project`, `generate_screen_from_text`, `edit_screens`, `generate_variants`,
+  `upload_design_md`, `create_design_system_from_design_md`, `apply_design_system`, `list_screens`,
+  `get_screen`, `list_design_systems`, `update_design_system`, plus project CRUD.
+- **Intended flow:** `stitch-skill` writes `DESIGN.md` → `create_design_system_from_design_md` →
+  `generate_screen_from_text` → pull HTML → re-implement against `docs/redesign/tokens.css`.
+  Treat Stitch output as **reference**, never as shipped markup — it does not know our brand tokens.
+- Screen generation takes minutes per call. There is also `@google/stitch-sdk` (npm), same `STITCH_API_KEY`.
+
+## Ownership & guardrails
+- **`web/` is owned by a parallel design session.** Do not edit `web/` from a setup/analysis session.
+- The brand is **locked**: "Warm Intelligence" — oat canvas + vibrant rainbow (purple primary),
+  Bricolage + Geist + Geist Mono. Source of truth: `docs/redesign/BRAND_GUIDE.md` + `docs/redesign/tokens.css`.
+- Phase 11 is **presentation-only**: `modules/` and the 135 tests stay green and untouched.
 
 ## Current state (2026-06-30)
 80 queries · 34 clinics scored with the **full 60/40 blend now LIVE** (Maps + Google-web from the
