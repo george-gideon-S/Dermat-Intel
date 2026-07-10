@@ -22,6 +22,7 @@ opportunity/diagnostic, not accusatory.
 | Goal | Command |
 |---|---|
 | Premium web dashboard (PRIMARY) | `python derma_web.py` → builds + opens `web/dist/derma_intel.html` (self-contained, offline, **no server**) |
+| **Public sales home (anonymized)** | `python web/build_web.py --public` → `web/dist/public/index.html` (287 KB, no ECharts; Vercel-ready; leak-scanned — real clinic names never ship) |
 | Streamlit console (fallback / ops) | `streamlit run app.py` |
 | Scrape clinics from Google Maps | `python run_pipeline.py` (resume-safe; only scrapes uncached queries) |
 | Reviews + NLP | `python collect_extras.py --reviews` |
