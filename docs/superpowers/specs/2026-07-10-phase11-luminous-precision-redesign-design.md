@@ -21,9 +21,13 @@ clinics and cross-sell Trinade website builds.
 
 | Decision | Choice |
 |---|---|
-| Pricing ladder | **Two plans only.** Monthly **₹4,499/mo** (hero, "cancel anytime") · Annual **₹3,999/mo billed yearly** (₹47,988/yr, "save ₹6,000/yr"). One-time tier dropped entirely. |
-| Price anchor | Value framing ("less than the revenue of one new patient"), never fake urgency. Real scarcity only (website-build FCFS; optionally "launch pricing for the first N clinics" with a true N). |
-| Checkout | **Razorpay payment links** — public URLs in `config.py` (`RAZORPAY_LINK_MONTHLY`, `RAZORPAY_LINK_ANNUAL`), pasted by George from his Razorpay dashboard. Not secrets; safe to commit. Until real links exist, buttons render a "payments opening soon → WhatsApp us" fallback. |
+| Business model | **Diagnostic ladder mirroring a doctor's own funnel** (consult → follow-up → treatment), revised 2026-07-10 after market analysis (34-clinic TAM ⇒ services-led boutique, not MRR SaaS; data cadence is quarterly; Tier-2 buyers prefer one-shot UPI over auto-debit; recurring asks belong on labor, not data access). |
+| Tier 1 (hero) | **Visibility Report — ₹4,999 one-time** ("your clinic's skin exam"): both dashboards (private dist) + personal walkthrough + 90-day re-exam reminder. **Fee fully credited toward a website build within 90 days** — the retention mechanism. |
+| Tier 2 | **Visibility Monitoring — ₹9,999/yr** (anchor: ₹2,999/qtr = ₹11,996): quarterly re-scans, updated dashboards, movement alerts, WhatsApp delivery. Framed as follow-up visits. |
+| Tier 3 | **Website + Visibility Build — from ₹49,999** (FCFS, limited slots/quarter, report fee credited) + optional **Growth Retainer ₹4,999/mo** (GBP, reviews, content; social-media analysis ships here, labeled upcoming). The revenue center. |
+| Funnel | Public site converts to **report purchase OR WhatsApp walkthrough** (dual CTA). Monitoring + build are sold *inside* the paid report experience, where trust exists. The site's job: make Trinade look world-class before/during founder-led meetings; capture the rare inbound. Expansion: pipeline is city-agnostic (Vijayawada next). |
+| Price anchor | The ₹49,999 build anchors the ₹4,999 report ("the exam costs a tenth of the treatment"). Never fake urgency; real scarcity only (FCFS build slots). Voice pillar: **clinical mirror language** — consultation / examination / follow-up / treatment. |
+| Checkout | **Razorpay payment links** — public URLs in `config.py` (`RAZORPAY_LINK_REPORT`, `RAZORPAY_LINK_MONITOR_QTR`, `RAZORPAY_LINK_MONITOR_YR`), prices config-driven. Not secrets; safe to commit. Until real links exist, buttons render a WhatsApp fallback. |
 | Public data privacy | **Anonymize until paid.** Real clinic names/scores never ship in the public payload (view-source-proof, not CSS blur). Real names appear only in the private dist. |
 | Roadmap features | Social-media analysis (Instagram/YouTube/X) etc. sold honestly as *"ships to all subscribers"*, clearly labeled upcoming — never implied as current. |
 | Brand | v2 "Luminous Precision" supersedes v1 aesthetics per George's brief; `web/` ownership transfers to this workstream (parallel session's Increments A–C get rebuilt). |
@@ -93,8 +97,11 @@ tests stay untouched and green.
    ("✓ We found you. You're one of the 15…") plus a **decorative** frosted score glyph —
    the real score is *not* in the public payload (§3), so the frosting hides a placeholder,
    not a leakable value. Loss aversion is the conversion mechanic. Unlock CTA → pricing.
-6. **The offer** — two plan cards + value anchor + honestly-labeled roadmap benefits +
-   the **website-build FCFS cross-sell card** → Build-with-Trinade page.
+6. **The offer** — the diagnostic ladder: **Visibility Report ₹4,999 hero card** (dual CTA:
+   Razorpay link + WhatsApp walkthrough) · Monitoring as the follow-up plan · the
+   **Website Build card** (from ₹49,999, FCFS slots, "report fee credited") → Build-with-Trinade
+   page. Clinical-mirror copy throughout ("You'd never treat before an examination. Neither
+   would we."). Roadmap benefits honestly labeled.
 
 GSAP pinned-scroll choreography throughout; acts sit on their assigned gradient triads.
 
@@ -112,9 +119,10 @@ share-of-search · ranked table with inline spark-bars.
 
 ## 6 · Build with Trinade (new page)
 
-Form (clinic, contact, current site, goals) + honest FCFS exclusivity copy + 1-1 / in-person
-consultation booking. Static-safe submission: prefilled **WhatsApp deep-link** primary +
-copy-to-clipboard fallback (no form backend without a server).
+The **treatment tier's** landing page: form (clinic, contact, current site, goals) + honest
+FCFS exclusivity copy (limited slots/quarter) + "report fee credited" mechanics + 1-1 /
+in-person consultation booking. Static-safe submission: prefilled **WhatsApp deep-link**
+primary + copy-to-clipboard fallback (no form backend without a server).
 
 ## 7 · Constraints & non-goals
 
@@ -129,8 +137,8 @@ copy-to-clipboard fallback (no form backend without a server).
 
 1. Brand guide v2 exists as tokens + HTML page + booklet + DESIGN.md, and the HTML page is
    itself proof of the system.
-2. Public dist: view-source contains zero real clinic names/scores; self-lookup works; both
-   Razorpay links (or fallback) reachable; the story reads as a sale, not a demo.
+2. Public dist: view-source contains zero real clinic names/scores; self-lookup works; the
+   three Razorpay links (or WhatsApp fallback) reachable; the story reads as a sale, not a demo.
 3. Private dist: all pages on the new system; every chart in §5 present with real data.
 4. `pytest -q` green (135 + new build tests). Reduced-motion honored. Offline single-file
    dists still open with no network.
