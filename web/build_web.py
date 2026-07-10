@@ -211,6 +211,38 @@ def _load_nlp() -> dict:
         return {}
 
 
+def intent_positions(ok_rows, qrows, key_of) -> dict:
+    """Per clinic-key: [{cat, pos (avg, 1dp), n}] for every query category the clinic
+    actually appears in, plus '_market': {cat: median of clinic averages}. Feeds the
+    'Where you rank, by what patients want' strip in the clinic report."""
+    cat_of = {str(q.get("query") or "").strip().lower(): q.get("category") for q in qrows}
+    acc: dict = {}
+    for r in ok_rows:
+        cat = cat_of.get(str(r.get("query") or "").strip().lower())
+        pos = r.get("position")
+        if not cat or _isna(pos):
+            continue
+        key = key_of(r)
+        acc.setdefault(key, {}).setdefault(cat, []).append(float(pos))
+
+    out: dict = {}
+    market: dict = {}
+    for key, cats in acc.items():
+        entries = []
+        for cat, positions in cats.items():
+            avg = round(sum(positions) / len(positions), 1)
+            entries.append({"cat": cat, "pos": avg, "n": len(positions)})
+            market.setdefault(cat, []).append(avg)
+        entries.sort(key=lambda e: e["pos"])
+        out[key] = entries
+    out["_market"] = {
+        cat: round(sorted(v)[len(v) // 2] if len(v) % 2 else
+                   (sorted(v)[len(v) // 2 - 1] + sorted(v)[len(v) // 2]) / 2, 1)
+        for cat, v in market.items()
+    }
+    return out
+
+
 def _rating_bins(clinics) -> list:
     edges = [(0, 3.5, "< 3.5"), (3.5, 4.0, "3.5–4.0"), (4.0, 4.5, "4.0–4.5"),
              (4.5, 4.8, "4.5–4.8"), (4.8, 5.01, "4.8–5.0")]
@@ -261,6 +293,13 @@ def build_payload() -> dict:
         "pct_with_website": round(float(k["pct_with_website"]), 1),
         "total_appearances": len(ok), "queries": len(qrows),
     }
+    ip = intent_positions(ok, qrows, lambda r: maps_collector.dedup_key(r.get("place_url") or "")
+                          or str(r.get("name") or "").lower())
+    for c in clinics + top10:
+        ck = maps_collector.dedup_key(c.get("place_url") or "") or str(c.get("name") or "").lower()
+        c["intents"] = ip.get(ck, [])
+    payload["intents_market"] = ip.get("_market", {})
+
     payload["clinics"] = clinics
     payload["top10"] = top10
     payload["categories"] = analytics.category_distribution(qrows).to_dict("records") if qrows else []
