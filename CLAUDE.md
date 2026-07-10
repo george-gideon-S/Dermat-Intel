@@ -70,9 +70,15 @@ opportunity/diagnostic, not accusatory.
 ## Front ends
 - **Streamlit**: `app.py` + `components/` (`tab_queries`, `tab_results`, `tab_analytics`,
   `tab_vulnerable`, `_format`).
-- **Premium web** (`web/`): `build_web.py` reuses the modules → one JSON payload → inlines CSS +
-  base64 Geist fonts + ECharts + data + `app.js` into a single offline `dist/derma_intel.html`.
-  Sources: `template.html`, `styles.css`, `app.js`, `vendor/` (ECharts + Geist), `vendor_assets.py`.
+- **Premium web** (`web/`, v2 "Luminous Precision", two dists):
+  - **Private report app** (`build()` → `dist/derma_intel.html` + `dist/index.html`): the paid
+    two-tab report (Your Clinic / The Market). Sources: `template.html`, `styles.css`, `app.js`
+    (+ tokens/components inlined from `docs/redesign/v2/`). ECharts + Doto/Geist; no GSAP.
+  - **Public sales home** (`build_public()` → `dist/public/`): six-act GSAP story + gate +
+    pricing. Sources: `template-public.html`, `public.css`, `story2.js`, `public_data.py`
+    (anonymizer — leak tripwire at build). The old scroll story (`shell.js`/`story.js`) was
+    retired in Phase C; git history keeps it.
+  - Shared: `vendor/` (ECharts, GSAP, liquid-glass, Geist/Geist Mono/Doto), `vendor_assets.py`.
 
 ## Data (ALL gitignored)
 - `.cache/`: `query_rows.json` (80 queries), `result_rows.json` (≈750 appearance rows → 34 unique
