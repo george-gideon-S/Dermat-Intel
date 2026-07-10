@@ -72,3 +72,17 @@ VULN_LABELS = [
     (40, "Medium", "#CA8A04"),
     (0, "Low", "#16A34A"),
 ]
+
+# --- Go-to-market (public links & prices; NOT secrets — see spec 2026-07-10 §1) ---
+# Razorpay payment links are public URLs George creates in his Razorpay dashboard and pastes
+# here. Empty string -> the CTA falls back to WhatsApp; empty WhatsApp -> plain "contact" note.
+PRICE_REPORT = 4999          # Visibility Report (one-time "examination")
+PRICE_MONITOR_QTR = 2999     # Monitoring, per quarter (anchor)
+PRICE_MONITOR_YR = 9999      # Monitoring, per year (hero of tier 2)
+PRICE_BUILD_FROM = 49999     # Website + Visibility Build, "from"
+PRICE_RETAINER_MO = 4999     # Growth Retainer, per month
+RAZORPAY_LINK_REPORT = ""      # e.g. https://rzp.io/l/...
+RAZORPAY_LINK_MONITOR_QTR = ""
+RAZORPAY_LINK_MONITOR_YR = ""
+WHATSAPP_NUMBER = ""           # E.164 digits only, e.g. "919999999999"
+PUBLIC_SALT = "derma-intel-2026"  # public self-lookup hash salt (obfuscation, not security)
