@@ -279,9 +279,9 @@ def build_payload() -> dict:
     return payload
 
 
-def _font_face_css() -> str:
+def _font_face_css(fonts=None) -> str:
     blocks = []
-    for fam, wt, fname in _FONTS:
+    for fam, wt, fname in (fonts or _FONTS):
         p = VENDOR / fname
         if not p.exists():
             continue
@@ -291,6 +291,15 @@ def _font_face_css() -> str:
             f'font-display:swap;src:url(data:font/woff2;base64,{b64}) format("woff2");}}'
         )
     return "\n".join(blocks)
+
+
+# Public dist: v2 brand — Doto replaces Bricolage; weight "100 900" = the variable range.
+_FONTS_PUBLIC = [
+    ("Geist", 400, "geist-400.woff2"), ("Geist", 500, "geist-500.woff2"),
+    ("Geist", 600, "geist-600.woff2"), ("Geist", 700, "geist-700.woff2"),
+    ("Geist Mono", 400, "geistmono-400.woff2"), ("Geist Mono", 500, "geistmono-500.woff2"),
+    ("Doto", "100 900", "doto-var.woff2"),
+]
 
 
 # GSAP (vendored offline) — order matters: core first, then plugins.
@@ -369,5 +378,79 @@ def build() -> str:
     return str(out)
 
 
+V2 = WEB.parent / "docs" / "redesign" / "v2"
+
+
+def _leak_scan(scan_text: str, full_payload: dict) -> None:
+    """Second tripwire (first is tests/test_public_data.py): no distinctive clinic-name
+    token may appear in any surface a name could travel through — the payload JSON and
+    our authored template/css/js. Vendored blobs (base64 fonts, minified GSAP) are
+    excluded: names cannot enter them, and random substrings false-positive there."""
+    from web import public_data
+    low = scan_text.lower()
+    for c in full_payload.get("clinics", []):
+        for tok in public_data.name_tokens(c.get("name") or ""):
+            if len(tok) > 3 and tok in low:
+                raise RuntimeError(f"PUBLIC LEAK: clinic name token {tok!r} found in public output")
+
+
+def build_public() -> str:
+    """Build the anonymized public dist (spec 2026-07-10 §3): dist/public/index.html.
+    Home story only — no ECharts, no real names, no exact per-clinic figures."""
+    from web import public_data
+
+    full = build_payload()
+    qrows = storage.load_rows(storage.QUERIES_JSON) or []
+    cfg = {
+        "report": config.PRICE_REPORT, "monitor_qtr": config.PRICE_MONITOR_QTR,
+        "monitor_yr": config.PRICE_MONITOR_YR, "build_from": config.PRICE_BUILD_FROM,
+        "retainer_mo": config.PRICE_RETAINER_MO,
+        "rzp_report": config.RAZORPAY_LINK_REPORT,
+        "rzp_monitor_qtr": config.RAZORPAY_LINK_MONITOR_QTR,
+        "rzp_monitor_yr": config.RAZORPAY_LINK_MONITOR_YR,
+        "whatsapp": config.WHATSAPP_NUMBER,
+    }
+    payload = public_data.build_public_payload(full, qrows, cfg, salt=config.PUBLIC_SALT)
+
+    template = (WEB / "template-public.html").read_text(encoding="utf-8")
+    styles = "\n".join([
+        _font_face_css(_FONTS_PUBLIC),
+        (V2 / "tokens-v2.css").read_text(encoding="utf-8"),
+        (V2 / "components.css").read_text(encoding="utf-8"),
+        (WEB / "public.css").read_text(encoding="utf-8"),
+    ])
+    # An inline <script> ends at a literal "</script" — liquid-glass's header comment
+    # contains one as a usage example. Escape ONLY that sequence (a broad "</" escape
+    # corrupts regex literals like /</g in code).
+    lg = (VENDOR / "liquid-glass.js").read_text(encoding="utf-8").replace("</script", "<\\/script")
+    story2 = (WEB / "story2.js").read_text(encoding="utf-8").replace(
+        "{{SALT}}", config.PUBLIC_SALT).replace("</script", "<\\/script")
+    data_json = json.dumps(payload, ensure_ascii=False).replace("</", "<\\/")
+
+    html = (template
+            .replace("{{STYLES}}", styles)
+            .replace("{{GSAP}}", _gsap_js())
+            .replace("{{LIQUID_GLASS}}", lg)
+            .replace("{{DATA}}", data_json)
+            .replace("{{STORY2_JS}}", story2))
+
+    # Leak surfaces: everything we author + the data. Not the vendored binaries.
+    scan_text = "\n".join([template, (WEB / "public.css").read_text(encoding="utf-8"),
+                           story2, data_json])
+    _leak_scan(scan_text, full)
+
+    out_dir = DIST / "public"
+    out_dir.mkdir(parents=True, exist_ok=True)
+    out = out_dir / "index.html"
+    out.write_text(html, encoding="utf-8")
+    (out_dir / "vercel.json").write_text(
+        '{\n  "cleanUrls": true,\n  "trailingSlash": false\n}\n', encoding="utf-8")
+    print(f"Built {out}  ({len(html) // 1024} KB, {len(payload['lookup'])} clinics anonymized)")
+    return str(out)
+
+
 if __name__ == "__main__":
-    build()
+    if "--public" in sys.argv:
+        build_public()
+    else:
+        build()
