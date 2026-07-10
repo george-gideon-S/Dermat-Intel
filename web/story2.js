@@ -197,8 +197,8 @@
   document.getElementById("cta-monitor").innerHTML =
     A(payHref(P.rzp_monitor_yr, msgMonitor), "Start monitoring", "btn-ink");
   document.getElementById("cta-build").innerHTML =
-    A(P.whatsapp ? { href: waLink(msgBuild), ext: true } : { href: "#gate", ext: false },
-      "Request a consultation", "btn-lime");
+    A({ href: "build.html", ext: false }, "Request a consultation", "btn-lime") +
+    (P.whatsapp ? A({ href: waLink(msgBuild), ext: true }, "WhatsApp us", "btn-ghost") : "");
 
   /* ---------- act 1: ticker + counter ---------- */
   const queries = (D.queries && D.queries.length ? D.queries : ["dermatologist in guntur"]);

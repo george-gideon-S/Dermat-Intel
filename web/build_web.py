@@ -484,9 +484,18 @@ def build_public() -> str:
     out_dir.mkdir(parents=True, exist_ok=True)
     out = out_dir / "index.html"
     out.write_text(html, encoding="utf-8")
+
+    # Build-with-Trinade page (spec §6) — same styles, pricing-only payload (leak-safe
+    # by construction), served at /build via cleanUrls.
+    build_tpl = (WEB / "template-build.html").read_text(encoding="utf-8")
+    build_data = json.dumps({"pricing": payload["pricing"]})
+    _leak_scan(build_tpl + "\n" + build_data, full)  # authored surfaces only, not base64 fonts
+    build_html = build_tpl.replace("{{STYLES}}", styles).replace("{{DATA}}", build_data)
+    (out_dir / "build.html").write_text(build_html, encoding="utf-8")
+
     (out_dir / "vercel.json").write_text(
         '{\n  "cleanUrls": true,\n  "trailingSlash": false\n}\n', encoding="utf-8")
-    print(f"Built {out}  ({len(html) // 1024} KB, {len(payload['lookup'])} clinics anonymized)")
+    print(f"Built {out} + build.html  ({len(html) // 1024} KB, {len(payload['lookup'])} clinics anonymized)")
     return str(out)
 
 

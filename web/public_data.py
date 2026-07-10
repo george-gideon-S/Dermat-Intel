@@ -23,7 +23,7 @@ STOP = {
     "clinic", "clinics", "skin", "hair", "care", "dr", "doctor", "doctors", "the", "and",
     "centre", "center", "hospital", "derma", "dermatology", "dermatologist",
     "cosmetic", "laser", "guntur", "best", "top", "good", "famous", "near", "for",
-    "treatment", "specialist", "andhra", "pradesh", "india",
+    "treatment", "treatments", "specialist", "specialists", "andhra", "pradesh", "india",
 }
 
 _TOKEN_RE = re.compile(r"[a-z0-9]+")
