@@ -1,0 +1,101 @@
+/* ============================================================================
+   Derma Intel — Brand tokens v2 · "Luminous Precision"
+   The single source of truth for the visual system. Drop into :root and
+   reference by name — NEVER hard-code raw hex/px in components.
+
+   Supersedes ../tokens.css ("Warm Intelligence"). Doctrine carried over:
+   tokens-by-name · color does two jobs (categorical identity vs magnitude)
+   · fonts vendored offline (base64 woff2 — no CDN, no server).
+
+   Fonts: Geist + Geist Mono (already in web/vendor/) · Doto variable
+   (web/vendor/doto-var.woff2, axes wght 100–900 + ROND 0–100; always ROND 100).
+   ============================================================================ */
+:root {
+  /* — Surfaces · cool, airy, luminous ————————————————————————————
+     The canvas is never pure white; white is reserved for cards so they
+     visibly FLOAT. (Inspiration: Superpower's gray-on-white float.) */
+  --canvas:    #E9EAEC;  /* page ground */
+  --canvas-2:  #E2E4E7;  /* recessed wells, hover ground, table stripes */
+  --surface:   #FFFFFF;  /* cards, panels — the floating layer */
+  --surface-2: #F5F6F7;  /* nested panels, pill tabs at rest */
+
+  /* — Ink ———————————————————————————————————————————————————————— */
+  --ink:   #131417;  /* body text, hero numerals on light, icons */
+  --ink-2: #5C6066;  /* captions, secondary copy, muted labels */
+  --ink-3: #9FA3A9;  /* faint: disabled, hints, ghost numerals */
+
+  /* — The ONE flat accent ————————————————————————————————————————
+     Lime is the only saturated flat color in the system. Its jobs: status
+     chips, live badges, the marker dot, ink-on-lime CTAs. If lime appears
+     more than ~3 times in a viewport, something is wrong. */
+  --lime:     #D9F24F;
+  --lime-ink: #131417;   /* text on lime is ALWAYS ink, never white */
+
+  /* — Gradient triads · the grain-gradient fields ————————————————
+     Each triad is meaning-bound (categorical identity). Magnitude is
+     encoded by INTENSITY (see --grain-*), never by switching hue.
+     GROWTH  = opportunity, demand, improvement   (green → orange)
+     STATUS  = scores, standing, benchmarks       (orange → slate)
+     ALERT   = gaps, risks, connect-actions       (pink → magenta)     */
+  --tri-growth-a: #3FA544;  --tri-growth-b: #9BC34A;  --tri-growth-c: #E8973A;
+  --tri-status-a: #E8973A;  --tri-status-b: #D9B39A;  --tri-status-c: #8B97A8;
+  --tri-alert-a:  #E86FA4;  --tri-alert-b:  #ED4B78;  --tri-alert-c:  #F0A8B8;
+
+  /* Grain-field controls (magnitude = intensity, one knob) */
+  --grain-opacity: .16;     /* the noise layer */
+  --grain-blur: 28px;       /* diffusion of the radial fields */
+  --field-dim: 1;           /* multiply field opacity: 1 = full signal,
+                               .55 = subdued (low magnitude), .3 = ghost */
+
+  /* — Lines & elevation ——————————————————————————————————————————— */
+  --line:   rgba(19, 20, 23, .10);  /* hairline borders */
+  --line-2: rgba(19, 20, 23, .05);  /* chart grids, faint rules, ticks-minor */
+  --shadow-card:  0 1px 2px rgba(19,20,23,.04), 0 12px 32px -16px rgba(19,20,23,.14);
+  --shadow-float: 0 24px 56px -20px rgba(19,20,23,.22);   /* glass pills, modals */
+
+  /* — Radii · "curved boxy" ———————————————————————————————————————— */
+  --r-card: 24px;   /* cards, gradient fields */
+  --r-tab:  18px;   /* sidebar pill tabs, inputs */
+  --r-chip: 8px;    /* small chips, keycaps */
+  --r-pill: 999px;  /* status pills, buttons, chips-round */
+
+  /* — Typography ————————————————————————————————————————————————————
+     Geist = every word. Doto = hero NUMERALS ONLY (never words, never
+     body). Geist Mono = micro-labels, table numerals, code-like data. */
+  --sans: "Geist", system-ui, sans-serif;
+  --dot:  "Doto", "Geist Mono", monospace;
+  --dot-round: "ROND" 100;              /* use: font-variation-settings: var(--dot-round) */
+  --mono: "Geist Mono", ui-monospace, "Cascadia Code", monospace;
+
+  --fw-body: 400;  --fw-medium: 500;  --fw-semibold: 600;  --fw-display: 700;
+
+  /* Type scale (rem; clamp for the two display sizes) */
+  --fs-hero:    clamp(3rem, 6.5vw, 5.25rem);   /* 48–84  · act headlines, giant numerals */
+  --fs-display: clamp(2rem, 3.5vw, 3rem);      /* 32–48  · section titles, card numerals */
+  --fs-title:   1.5rem;    /* 24 · card titles */
+  --fs-body:    1rem;      /* 16 · body */
+  --fs-small:   .875rem;   /* 14 · secondary copy, chips */
+  --fs-micro:   .6875rem;  /* 11 · uppercase tracked labels */
+  --ls-micro:   .08em;     /* tracking for micro labels */
+  --lh-tight: 1.08;  --lh-body: 1.55;
+
+  /* — Spacing (4px base) ————————————————————————————————————————— */
+  --sp-1: 4px;  --sp-2: 8px;  --sp-3: 12px;  --sp-4: 16px;
+  --sp-5: 24px; --sp-6: 32px; --sp-7: 48px;  --sp-8: 80px;
+
+  /* — Z-layers ——————————————————————————————————————————————————— */
+  --z-nav: 100;  --z-pill: 200;  --z-modal: 500;  --z-gate: 600;
+
+  /* — Motion · calm-confident (motion-design doctrine) ————————————
+     Quick = feedback (hover, press). Base = reveals, moves. Slow = hero
+     moments (count-ups, gate). Never bounce; never linear for movement. */
+  --dur-quick: 240ms;
+  --dur-base:  380ms;
+  --dur-slow:  520ms;
+  --ease-out:    cubic-bezier(.22, .9, .24, 1);   /* default: decelerate in */
+  --ease-in-out: cubic-bezier(.6, 0, .2, 1);      /* moves within the page */
+}
+
+@media (prefers-reduced-motion: reduce) {
+  :root { --dur-quick: 0ms; --dur-base: 0ms; --dur-slow: 0ms; }
+}
