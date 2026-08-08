@@ -42,6 +42,16 @@
 .panel__head .sub { font-size: var(--fs-small); color: var(--ink-3); }
 .panel__head .tools { margin-left: auto; display: flex; gap: var(--sp-2); align-items: center; }
 
+/* The body must be a flex column, or a chart's `flex: 1 1 auto` has no flex
+   parent to grow into and every chart sits at its min-height inside a tall
+   panel — which is exactly the dead card space v2 was criticised for. */
+.panel__body {
+  display: flex;
+  flex-direction: column;
+  gap: var(--sp-3);
+  min-height: 0;
+}
+
 .panel__note {
   font-size: var(--fs-small);
   color: var(--ink-3);

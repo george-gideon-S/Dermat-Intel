@@ -362,9 +362,8 @@ def build_payload() -> dict:
     payload["clinics"] = clinics
     payload["categories"] = analytics.category_distribution(qrows).to_dict("records") if qrows else []
     payload["median_appearances"] = round(med_app, 1)
-    # v3 market views. quadrant_frame and presence_funnel have been tested in
-    # modules/analytics.py since day one and never reached the UI.
-    payload["quadrant"] = analytics.quadrant_frame(ok).to_dict("records")
+    # presence_funnel has been tested in modules/analytics.py since day one and
+    # never reached the UI.
     payload["funnel"] = [{"step": s, "count": n} for s, n in analytics.presence_funnel(ok)]
     payload["bands"] = views.visibility_bands(clinics)
     payload["facets"] = views.market_facets(clinics)
@@ -407,7 +406,8 @@ def _gsap_js() -> str:
 # v3 bundle order. CSS: palette -> tokens -> components -> app layers. JS: each
 # file is an IIFE hanging off window.DI, so order is the dependency graph and
 # there is no bundler, no import statements, no build step beyond concatenation.
-_V3_CSS = ["00-reset", "10-shell", "20-panels", "25-clinic", "30-charts", "40-responsive"]
+_V3_CSS = ["00-reset", "10-shell", "20-panels", "25-clinic", "27-market",
+           "30-charts", "40-responsive"]
 # Numeric prefix IS the load order: the panel files call DI.app.register() at parse
 # time, so the app core has to be defined before them.
 _V3_JS = ["00-util", "10-palette", "20-store", "30-bus", "40-rail", "50-charts",

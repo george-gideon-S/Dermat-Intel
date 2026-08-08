@@ -81,6 +81,15 @@ def test_name_tokens_drop_generic_words():
     assert "skin" not in toks and "clinic" not in toks and "hair" not in toks
 
 
+def test_name_tokens_ignore_keyword_stuffing():
+    # Google Maps names carry marketing stuffing after / or | — only the display
+    # segment identifies the clinic, and marketing words are never "identifying".
+    stuffed = "Ramya Skin Clinic / Best Dermatologist in Guntur | Laser Treatment"
+    assert pd.display_of(stuffed) == "Ramya Skin Clinic"
+    assert pd.name_tokens(stuffed) == ["ramya"]
+    assert pd.norm_full(stuffed) == "ramyaskinclinic"
+
+
 def test_rank_bucket_edges():
     assert pd.rank_bucket(1, 34) == "top 10"
     assert pd.rank_bucket(10, 34) == "top 10"

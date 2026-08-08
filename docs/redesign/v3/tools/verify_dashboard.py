@@ -94,6 +94,24 @@ LAWS_JS = r"""
 """
 
 
+def shoot_tall(page, width, path):
+    """Screenshot the whole page WITHOUT full_page.
+
+    Chromium's full-page capture does not reliably repaint <canvas> on a long
+    page — the ECharts panels came out blank at 4700px even though they were
+    rendering fine. Growing the viewport to the document height and taking an
+    ordinary shot captures them correctly.
+    """
+    height = page.evaluate("document.documentElement.scrollHeight")
+    page.set_viewport_size({"width": width, "height": min(int(height), 30000)})
+    page.wait_for_timeout(700)
+    page.evaluate("DI.charts.resizeAll()")
+    page.wait_for_timeout(900)
+    page.screenshot(path=str(path))
+    page.set_viewport_size({"width": width, "height": 950})
+    page.wait_for_timeout(400)
+
+
 class Report:
     def __init__(self):
         self.rows = []
@@ -213,7 +231,7 @@ def run() -> int:
         for page_name in ("clinic", "market"):
             page.click(f'.switch button[data-page="{page_name}"]')
             page.wait_for_timeout(1100)
-            page.screenshot(path=str(OUT / f"{page_name}-1440.png"), full_page=True)
+            shoot_tall(page, 1440, OUT / f"{page_name}-1440.png")
             print(f"  wrote {page_name}-1440.png")
 
         page.set_viewport_size({"width": 390, "height": 844})

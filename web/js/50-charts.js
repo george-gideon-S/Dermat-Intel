@@ -74,11 +74,13 @@
   });
 
   /** Highlight without re-rendering: dispatchAction only, never setOption. */
-  function emphasise(chart, dataIndex) {
+  function emphasise(chart, dataIndex, seriesIndex) {
     if (!chart) return;
     chart.dispatchAction({ type: "downplay" });
     if (dataIndex !== null && dataIndex !== undefined && dataIndex >= 0) {
-      chart.dispatchAction({ type: "highlight", dataIndex });
+      const action = { type: "highlight", dataIndex };
+      if (seriesIndex !== undefined) action.seriesIndex = seriesIndex;
+      chart.dispatchAction(action);
     }
   }
 

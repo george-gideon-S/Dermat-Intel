@@ -1,0 +1,136 @@
+/* ── "The Market" panel internals ──────────────────────────────────────────── */
+
+.strip--tight { gap: var(--sp-5) var(--sp-6); }
+
+/* ── M5 · who owns the results ─────────────────────────────────────────────── */
+.own { display: flex; flex-direction: column; gap: var(--sp-5); }
+.own__lead { display: flex; flex-direction: column; gap: var(--sp-3); }
+.own__lead .row { gap: var(--sp-7); align-items: flex-start; }
+
+/* One bar, two truths: how much of the page is local, how much is not. */
+.own__share { display: flex; height: 10px; gap: 3px; }
+.own__share i { border-radius: var(--r-pill); }
+
+.own__grid {
+  display: grid;
+  grid-template-columns: minmax(180px, 1.6fr) repeat(5, minmax(58px, .8fr)) 72px;
+  gap: 2px var(--sp-3);
+  align-items: center;
+}
+.own__h {
+  font-size: var(--fs-micro);
+  color: var(--ink-4);
+  padding-bottom: var(--sp-2);
+  border-bottom: 1px solid var(--ink-hair);
+}
+.own__h--num { text-align: center; }
+
+.own__row {
+  display: flex; align-items: center; gap: var(--sp-2);
+  padding: 7px var(--sp-2) 7px 0;
+  font-size: var(--fs-small);
+  color: var(--ink-2);
+  min-width: 0;
+}
+.own__row:hover { color: var(--ink-1); }
+.own__dom { font-family: var(--mono); font-size: var(--fs-micro);
+            overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.own__cell { display: flex; justify-content: center; color: var(--ink-2); }
+.own__cellwrap { display: inline-flex; align-items: center; gap: 4px; }
+.own__more { font-family: var(--mono); font-size: 9px; color: var(--ink-4); }
+.own__zero { color: var(--ink-4); opacity: .4; }
+.own__n { text-align: right; color: var(--ink-2); }
+
+/* ── M6 · the ad shelf ─────────────────────────────────────────────────────── */
+.shelf { display: flex; flex-direction: column; gap: 3px; }
+.shelf__row {
+  display: grid;
+  grid-template-columns: 150px 1fr 26px;
+  gap: var(--sp-3);
+  align-items: center;
+  cursor: pointer;
+}
+.shelf__name {
+  font-size: var(--fs-micro); color: var(--ink-3);
+  overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+}
+.shelf__fil { height: 3px; border-radius: 2px; background: var(--data-track); }
+.shelf__fil i { display: block; height: 100%; border-radius: 2px; background: var(--data-borrowed); }
+.shelf__n { font-family: var(--mono); font-size: var(--fs-micro); color: var(--ink-3);
+            text-align: right; }
+/* The empty rows are the chart: 31 unlit filaments beside three lit ones. */
+.shelf__row.is-empty .shelf__name { color: var(--ink-4); opacity: .6; }
+.shelf__row.is-you .shelf__name { color: var(--ink-1); }
+.shelf__row.is-you .shelf__fil { box-shadow: 0 0 0 2px var(--accent-lime); border-radius: 2px; }
+
+/* ── M8 · the funnel ───────────────────────────────────────────────────────── */
+.funnel__row {
+  display: grid;
+  grid-template-columns: 1fr 88px auto;
+  gap: var(--sp-3);
+  align-items: center;
+}
+.funnel__k { font-size: var(--fs-small); color: var(--ink-2); }
+.funnel__bar { position: relative; color: var(--ink-3); }
+.funnel__bar i {
+  position: absolute; left: 0; bottom: 0; height: 3px;
+  border-radius: 2px; background: var(--data-owned);
+}
+.funnel__n { color: var(--ink-1); }
+
+/* ── M9 · categories ───────────────────────────────────────────────────────── */
+.cats__row {
+  display: grid;
+  grid-template-columns: 1fr 90px 30px;
+  gap: var(--sp-3);
+  align-items: center;
+  padding: 5px 0;
+  font-size: var(--fs-small);
+  color: var(--ink-2);
+}
+.cats__row:hover { color: var(--ink-1); }
+.cats__row.is-on .cats__k { color: var(--ink-1); font-weight: var(--fw-medium); }
+.cats__k { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; text-align: left; }
+.cats__bar { height: 3px; border-radius: 2px; background: var(--data-track); }
+.cats__bar i { display: block; height: 100%; border-radius: 2px; background: var(--data-aggregator); }
+.cats__row.is-on .cats__bar i { background: var(--data-you); }
+.cats__n { font-family: var(--mono); font-size: var(--fs-micro); color: var(--ink-3); text-align: right; }
+
+/* ── M11 · the table ───────────────────────────────────────────────────────── */
+/* No zebra stripes, no vertical rules, no bordered grid — one hairline per row
+   and nothing else. */
+.tbl-wrap { overflow-x: auto; }
+.tbl { font-size: var(--fs-small); }
+.tbl th {
+  text-align: left;
+  padding: 0 var(--sp-4) var(--sp-2) 0;
+  font-weight: var(--fw-body);
+}
+.tbl th button { font-size: var(--fs-micro); color: var(--ink-4); white-space: nowrap; }
+.tbl th button:hover { color: var(--ink-1); }
+.tbl th button[aria-sort="descending"]::after { content: " ↓"; }
+.tbl th button[aria-sort="ascending"]::after { content: " ↑"; }
+.tbl th.is-num, .tbl td.is-num { text-align: right; }
+.tbl th.is-num button { width: 100%; text-align: right; }
+.tbl td {
+  padding: 8px var(--sp-4) 8px 0;
+  border-top: 1px solid var(--ink-hair);
+  color: var(--ink-2);
+  white-space: nowrap;
+}
+.tbl tbody tr { cursor: pointer; }
+.tbl tbody tr:hover td { background: var(--sf-inner); }
+.tbl tbody tr.is-you td { color: var(--ink-1); }
+.tbl tbody tr.is-you .tbl__name { font-weight: var(--fw-medium); }
+.tbl__name { color: var(--ink-1); max-width: 260px; overflow: hidden; text-overflow: ellipsis; }
+.tbl__track {
+  display: inline-block; width: 54px; height: 3px; border-radius: 2px;
+  background: var(--data-track); margin-right: var(--sp-2); vertical-align: middle;
+}
+.tbl__track i { display: block; height: 100%; border-radius: 2px; background: var(--data-aggregator); }
+.tbl tbody tr.is-you .tbl__track i { background: var(--data-you); }
+.tbl__v { font-family: var(--mono); font-size: var(--fs-micro); }
+
+@media (max-width: 1080px) {
+  .own__grid { grid-template-columns: minmax(140px, 1.4fr) repeat(5, minmax(44px, .7fr)) 56px; }
+}

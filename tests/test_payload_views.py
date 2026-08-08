@@ -114,10 +114,12 @@ def test_serp_pages_are_ordered_and_non_empty(payload):
         assert seen == sorted(seen), f"{query} is out of block order"
 
 
-def test_quadrant_covers_every_clinic_with_a_known_zone(payload):
-    zones = {"Stars", "Hidden Gems", "Vulnerable", "Off-Radar"}
-    assert len(payload["quadrant"]) == len(payload["clinics"])
-    assert {r["zone"] for r in payload["quadrant"]} <= zones
+def test_quadrant_is_not_shipped(payload):
+    """The opportunity map cuts its zones on demand x visibility — the axes it
+    plots. analytics.quadrant_frame cuts on rating, which is a known trap here
+    (28 of 34 clinics sit between 4.8 and 5.0), so shipping it would only supply
+    labels that contradict the chart."""
+    assert "quadrant" not in payload
 
 
 def test_funnel_is_monotonically_non_increasing(payload):
