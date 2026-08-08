@@ -138,15 +138,14 @@
       }
     });
 
-    // Select changes the subject; only subject-dependent panels care.
-    bus.on("select", () => {
-      const ctx = context();
-      for (const rec of mounted.values()) {
-        if (rec.def.page !== store.state.page || !rec.def.subject) continue;
-        try { if (rec.def.update) rec.def.update(rec.api, ctx); rec.version = ctx.version; }
-        catch (err) { console.error(`[panel:${rec.def.id}]`, err); }
-      }
-    });
+    // Select changes the subject, and far more panels draw it than declare
+    // `subject: true` — six market panels mark the selected clinic (the
+    // opportunity ring, the league terminal dot, the butterfly, the ad-shelf row,
+    // the map dot, the table row) without opting in, so they kept painting the
+    // previous subject until something else forced a repaint. An opt-in flag was
+    // the wrong mechanism: a full patch of the visible page measures ~27ms, which
+    // is cheaper than the class of bug it prevents.
+    bus.on("select", () => updateAll({ force: true }));
 
     // Filter: one memoised recompute, then patch everything on the page.
     bus.on("filter", () => updateAll({ force: true }));

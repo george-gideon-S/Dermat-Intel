@@ -150,19 +150,28 @@ def run() -> int:
         page.wait_for_selector("body[data-di-ready='1']", timeout=30000)
         page.wait_for_timeout(600)
 
-        # ── Pass 1 · design laws ───────────────────────────────────────────
-        print("\ndesign laws")
-        laws = page.evaluate(LAWS_JS.replace("%RETIRED%", json.dumps(RETIRED)))
-        rep.check("field is the v3 token", laws["field"] == "rgb(237, 237, 237)", laws["field"])
-        rep.check("no weight >= 700", not laws["weight700"], laws["weight700"])
-        rep.check("no uppercase-tracked eyebrows", not laws["eyebrows"], laws["eyebrows"])
-        rep.check("no native <select>", laws["selects"] == 0, laws["selects"])
-        rep.check("no raster <img>", laws["images"] == 0, laws["images"])
-        rep.check("jewel census <= 3 per page", laws["jewels"] <= 3, laws["jewels"])
-        rep.check("lime census <= 3 per page", laws["lime"] <= 3, laws["lime"])
-        rep.check("no retired v2 colours", not laws["retired"], laws["retired"])
-        rep.check("edge-crops are clipped", laws["uncropped"] == 0, laws["uncropped"])
-        rep.check("every panel is named", not laws["unnamed"], laws["unnamed"])
+        # ── Pass 1 · design laws, on BOTH pages ────────────────────────────
+        # Evaluating once at boot only ever inspected the clinic page, so the
+        # market page's eleven panels were never checked by any of the ten laws.
+        for page_name in ("clinic", "market"):
+            page.click(f'.switch button[data-page="{page_name}"]')
+            page.wait_for_timeout(1100)
+            print(f"\ndesign laws · {page_name}")
+            laws = page.evaluate(LAWS_JS.replace("%RETIRED%", json.dumps(RETIRED)))
+            tag = f"[{page_name}] "
+            rep.check(tag + "field is the v3 token",
+                      laws["field"] == "rgb(237, 237, 237)", laws["field"])
+            rep.check(tag + "no weight >= 700", not laws["weight700"], laws["weight700"])
+            rep.check(tag + "no uppercase-tracked eyebrows", not laws["eyebrows"], laws["eyebrows"])
+            rep.check(tag + "no native <select>", laws["selects"] == 0, laws["selects"])
+            rep.check(tag + "no raster <img>", laws["images"] == 0, laws["images"])
+            rep.check(tag + "jewel census <= 3", laws["jewels"] <= 3, laws["jewels"])
+            rep.check(tag + "lime census <= 3", laws["lime"] <= 3, laws["lime"])
+            rep.check(tag + "no retired v2 colours", not laws["retired"], laws["retired"])
+            rep.check(tag + "edge-crops are clipped", laws["uncropped"] == 0, laws["uncropped"])
+            rep.check(tag + "every panel is named", not laws["unnamed"], laws["unnamed"])
+        page.click('.switch button[data-page="clinic"]')
+        page.wait_for_timeout(700)
 
         # ── Pass 2 · interaction ───────────────────────────────────────────
         print("\ncross-filter")
@@ -181,9 +190,12 @@ def run() -> int:
 
         page.click('.switch button[data-page="clinic"]')
         page.wait_for_timeout(700)
+        # `or bool(hero)` made this unfailable. Assert the hero actually shows the
+        # NEW subject's rank, which is a fact only a real propagation produces.
+        want_rank = page.evaluate("DI.store.view().subject.visibility_rank")
         hero = page.inner_text('[data-panel="twin-jewels"] .j-sub')
-        rep.check("select propagates to the hero", after.split()[0][:8].lower() in hero.lower()
-                  or bool(hero), hero[:60])
+        rep.check("select propagates to the hero", f"{want_rank} of " in hero,
+                  f"expected rank {want_rank} in {hero[:52]!r}")
 
         # hover: emphasis must reach other panels without a re-render
         page.click('.switch button[data-page="market"]')
@@ -213,6 +225,29 @@ def run() -> int:
         page.wait_for_timeout(400)
         rep.check("clearing restores the market",
                   page.evaluate("DI.store.view().filtered.length") == n_before)
+
+        # A REAL pointer drag on the opportunity map. The previous filter check
+        # called DI.store.toggleFacet directly, so it passed while the advertised
+        # brush gesture was completely inert — the panel promised "drag a box to
+        # filter" and dragging did nothing at all.
+        page.click('.switch button[data-page="market"]')
+        page.wait_for_timeout(1000)
+        chart = page.locator('[data-panel="opportunity"] .chart')
+        chart.scroll_into_view_if_needed()
+        page.wait_for_timeout(400)
+        box = chart.bounding_box()
+        page.mouse.move(box["x"] + box["width"] * 0.28, box["y"] + box["height"] * 0.18)
+        page.mouse.down()
+        for i in range(1, 21):
+            page.mouse.move(box["x"] + box["width"] * (0.28 + 0.58 * i / 20),
+                            box["y"] + box["height"] * (0.18 + 0.62 * i / 20))
+        page.mouse.up()
+        page.wait_for_timeout(700)
+        brushed = page.evaluate("DI.store.view().filtered.length")
+        rep.check("brush-drag actually filters", 0 < brushed < n_before,
+                  f"{n_before} -> {brushed}")
+        page.evaluate("() => { DI.store.clearFilters(); DI.bus.emit('filter', {}); }")
+        page.wait_for_timeout(300)
 
         # ── Pass 3 · shots ─────────────────────────────────────────────────
         print("\nscreenshots")

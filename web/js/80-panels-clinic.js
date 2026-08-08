@@ -184,16 +184,43 @@
     for (const check of (c.scorecard || [])) {
       const copy = CHECK_COPY[check.key] || { label: check.label, why: "" };
       const weak = check.status === "bad";
+      const value = valueFor(check, web, serpQueries, c, medianReviews);
+      const note = noteFor(check, c, medianReviews, meanReviews);
       const row = h("div.irow", {
         data: { check: check.key }, role: "button", tabindex: "0",
-        "aria-label": `${copy.label}: ${check.value}. ${check.note}`,
+        // The accessible name must carry the SAME corrected copy the sighted row
+        // shows, not report.py's raw string, or the two disagree.
+        "aria-label": `${copy.label}: ${value}. ${note}`,
       });
       row.append(h("div.irow__k", copy.label, h("small", { text: copy.why })));
       row.append(h("div.irow__i", instrumentFor(check, c, web, serpQueries,
                                                 medianReviews, meanReviews)));
-      row.append(h("div.irow__v" + (weak ? ".is-weak" : ""), { text: valueFor(check, web, serpQueries, c, medianReviews) }));
+      row.append(h("div.irow__v" + (weak ? ".is-weak" : ""), { text: value }));
       api.rack.append(row);
     }
+  }
+
+  /** Panel-layer copy. modules/report.py stays byte-identical; these overrides
+   *  exist only where its wording would contradict the instrument beside it or
+   *  state something untrue of this clinic. */
+  function noteFor(check, c, medianReviews, meanReviews) {
+    if (check.key === "reviews") {
+      // The instrument plots against the MEDIAN (the typical clinic) while the
+      // score is computed against the MEAN. Saying only one of those produced a
+      // row that showed the clinic ahead while its own note called it behind.
+      const you = c.reviews || 0;
+      const side = you >= medianReviews ? "ahead of" : "behind";
+      return `${num(you)} reviews — ${side} the typical Guntur clinic at ${num(medianReviews)}. ` +
+             `The score measures you against the market mean of ${num(meanReviews)}, which two ` +
+             `large chains pull upward.`;
+    }
+    // report.py credits a PAID placement as "your own clinic website shows up in
+    // Google", which is false for a clinic that has no website at all.
+    if (check.key === "search" && !c.has_website && ((c.web || {}).owned || 0) > 0) {
+      return "You appear through paid placement only — and there is no website of yours " +
+             "for that click to land on.";
+    }
+    return check.note;
   }
 
   function valueFor(check, web, serpQueries, c, medianReviews) {
@@ -281,8 +308,12 @@
     const check = (c.scorecard || []).find((x) => x.key === key);
     if (!check) return;
     const copy = CHECK_COPY[key] || {};
+    const kpis = ctx.D.kpis || {};
     app.openDrawer(copy.label || check.label, (b) => {
-      b.append(h("p.panel__note", { text: check.note }));
+      // Same corrected copy as the row — three surfaces, one statement.
+      b.append(h("p.panel__note", {
+        text: noteFor(check, c, kpis.median_reviews || 0, kpis.avg_reviews || 0),
+      }));
       const step = (c.plan && c.plan.steps || []).find((x) => x.key === key);
       if (step) {
         b.append(h("div.inner",
@@ -291,9 +322,11 @@
           h("div.metric__c", { text: `visibility ${c.visibility} → ${step.vis_after} (+${step.lift})` })));
       }
       if (key === "reviews") {
+        const above = (ctx.all || []).filter((x) => (x.reviews || 0) > (kpis.avg_reviews || 0)).length;
         b.append(h("p.caveat", {
-          text: `Compared against the market median of ${num((ctx.D.kpis || {}).median_reviews)} reviews. ` +
-                `The mean is ${num((ctx.D.kpis || {}).avg_reviews)}, pulled up by two outliers — the median is the honest comparator.`,
+          text: `The dumbbell plots you against the median (${num(kpis.median_reviews)}); the faint tick ` +
+                `is the mean (${num(kpis.avg_reviews)}). Only ${above} of ${(ctx.all || []).length} clinics ` +
+                `sit above that mean, which is why the median is the fairer read of a typical clinic.`,
         }));
       }
       if (key === "maps") {
@@ -457,7 +490,11 @@
     });
 
     const rows = pages[api.query] || [];
-    const present = rows.some((r) => r.mapped_key === c.key);
+    // Absence must also account for the extraction MISSING a mapping. If a row's
+    // visible title names the clinic, it IS on the page whether or not map_block
+    // resolved it — printing "you are not here" directly above the clinic's own
+    // visible row is the worst thing this panel could do.
+    const present = rows.some((r) => r.mapped_key === c.key || titleNames(r, c));
 
     api.col.textContent = "";
     let ghostPlaced = false;
@@ -476,6 +513,22 @@
       `The Google results page for “${api.query}”, redrawn from what we read. ` +
       `${mine} of ${rows.length} results belong to a Guntur clinic. ` +
       (present ? "You are on this page." : "You are not on this page.");
+  }
+
+  /** Does this result row visibly name the clinic, even though it went unmapped?
+   *  Mirrors the token rule modules/web_collector.py uses, minus the generics. */
+  function titleNames(row, clinic) {
+    const hay = `${row.title || ""} ${row.domain || ""}`.toLowerCase();
+    if (!hay.trim()) return false;
+    const stop = new Set(["clinic", "clinics", "skin", "hair", "care", "doctor", "the",
+                          "and", "centre", "center", "hospital", "derma", "dermatology",
+                          "dermatologist", "cosmetic", "laser", "guntur", "best", "top",
+                          "near", "treatment", "specialist"]);
+    const tokens = String(clinic.display_name || "").toLowerCase()
+      .split(/[^a-z0-9]+/).filter((t) => t.length > 3 && !stop.has(t));
+    if (!tokens.length) return false;
+    const hits = tokens.filter((t) => hay.includes(t)).length;
+    return hits >= Math.min(2, tokens.length);
   }
 
   const KIND_LABEL = { own_clinic: "clinic site", aggregator: "directory",
@@ -551,6 +604,15 @@
       : (chosen.length ? estimateRank(ctx, projected) : plan.now.rank);
 
     // Header: today and the projection on ONE shared ruler.
+    //
+    // The full-plan figure is a CEILING, not a forecast: close every gap and 27 of
+    // 34 clinics land on exactly (100, #2), so headlining it tells this clinic
+    // nothing and reads as a sales promise. It is stated below as the ceiling it
+    // is. The top-two projection genuinely varies across the market (ranks 1-11)
+    // and is the decision actually on the table.
+    const label = chosen.length === plan.steps.length ? "with every gap closed"
+      : (chosen.length ? "with what you have selected" : "with nothing selected");
+
     api.proj.append(
       h("div.proj__head",
         h("div.row",
@@ -558,9 +620,14 @@
           h("span.unit", { text: "today" }),
           h("span.proj__arrow", { text: "→", "aria-hidden": "true" }),
           h("span.disp.proj__after", { text: `#${projRank}` }),
-          h("span.unit", { text: chosen.length === plan.steps.length ? "with the full plan" : "with what you have selected" })),
+          h("span.unit", { text: label })),
         h("div.metric__c", { text: `visibility ${plan.now.vis} → ${projected} of 100` })),
-      projRuler(plan.now.vis, projected));
+      projRuler(plan.now.vis, projected),
+      h("p.caveat", {
+        text: `Closing every gap tops out at #${plan.compound.all.rank} of ${c.visibility_total} — ` +
+              `that is the arithmetic ceiling for any clinic in this market, not a forecast. ` +
+              `Your first two fixes alone reach #${plan.compound.top2.rank}.`,
+      }));
 
     if (!plan.steps.length) {
       api.list.append(h("div.inner", h("div.metric__c", {

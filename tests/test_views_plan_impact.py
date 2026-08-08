@@ -177,6 +177,77 @@ def test_a_subject_absent_from_the_list_is_still_ranked():
     assert 1 <= out["now"]["rank"] <= 5
 
 
+@pytest.mark.parametrize("key,gap,expected_lift", [
+    ("website", {"has_website": False}, 30),
+    ("search", {"owned": 0}, 30),
+    ("maps", {"places": 0}, 15),
+    ("reviews", {"reviews": 0}, 15),
+    ("phone", {"has_phone": False}, 5),
+    ("breadth", {"web_appearances": 0}, 5),
+])
+def test_every_recipe_produces_its_step(key, gap, expected_lift):
+    """Mutation guard: five of the six `maxed` recipes could be DELETED outright
+    and the suite stayed green, because only `website` was pinned by a test that
+    asserted its step exists. Each recipe now has to earn its component's points.
+    """
+    maxed_out = dict(has_website=True, owned=report.OWNED_FULL, places=report.PLACES_FULL,
+                     reviews=int(MARKET["avg_reviews"]), has_phone=True,
+                     web_appearances=report.BREADTH_FULL)
+    c = clinic(**{**maxed_out, **gap})
+    out = views.plan_impact(c, _market(), MARKET)
+    step = next((s for s in out["steps"] if s["key"] == key), None)
+    assert step is not None, f"{key} recipe produced no step"
+    assert step["lift"] == expected_lift
+    assert step["vis_after"] == out["now"]["vis"] + expected_lift
+
+
+@pytest.mark.parametrize("market", [{"avg_reviews": 0.0}, {}, {"avg_reviews": None}])
+def test_the_reviews_recipe_mirrors_the_frozen_divisor(market):
+    """Kills the `market.get("avg_reviews") or 1` -> `or 0` mutation.
+
+    report._components divides by `avg_reviews or 1`, so in a degenerate market a
+    single review maxes the component and the fix IS worth its 15 points. With
+    `or 0` the recipe sets reviews to max(existing, 0) — it changes nothing, the
+    lift computes to 0, and the step silently vanishes from the plan. Asserting
+    the step is ABSENT would pass either way; the invariant that separates them is
+    that the recipe must actually earn the component.
+    """
+    c = clinic(reviews=0)
+    out = views.plan_impact(c, [c], market)
+    step = next((s for s in out["steps"] if s["key"] == "reviews"), None)
+    assert step is not None, "the reviews fix is worth 15 points and must be offered"
+    assert step["lift"] == 15
+    assert step["vis_after"] == out["now"]["vis"] + 15
+
+
+def test_rank_after_a_fix_respects_the_subject_s_position_among_ties():
+    """Mutation guard for the append-vs-substitute bug.
+
+    The existing regression test only checked `now.rank`, which the mutation does
+    not disturb: appending leaves the original subject in the list, and
+    rank_by_visibility returns the first key match. Only a variant whose score
+    CHANGED separates the two — appended, the higher-scoring variant sorts to the
+    front and reports rank 1; substituted in place, the subject lands at its own
+    position within the new tie.
+
+    Four rivals with a website; the subject without one, sitting at index 3. After
+    the +30 fix all five tie, and a stable sort must leave the subject 4th.
+    """
+    rivals = [clinic(key=f"c{i}", name=f"C{i}", has_website=True, places=4,
+                     reviews=150, has_phone=True) for i in range(5)]
+    subject = clinic(key="subject", has_website=False, places=4,
+                     reviews=150, has_phone=True)
+    market = rivals[:3] + [subject] + rivals[3:]     # subject is 4th of five
+
+    out = views.plan_impact(subject, market, market_dict := MARKET)
+    assert market_dict is MARKET
+    website = next(s for s in out["steps"] if s["key"] == "website")
+    assert website["rank_after"] == 4, (
+        "after the fix every clinic ties, so a stable sort must keep the subject "
+        f"4th; got {website['rank_after']} (variant was appended, not substituted)")
+    assert website["rank_after"] < out["now"]["rank"]
+
+
 def test_step_keys_are_a_subset_of_the_frozen_breakdown_keys():
     """If modules/report.py ever adds a component, this catches the missing recipe."""
     out = views.plan_impact(clinic(), _market(), MARKET)

@@ -17,6 +17,7 @@ V3 = ROOT / "docs" / "redesign" / "v3"
 CSS_FILES = sorted((WEB / "css").glob("*.css"))
 JS_FILES = sorted((WEB / "js").glob("*.js"))
 TOKEN_FILES = [V3 / "tokens-v3.css", V3 / "components-v3.css"]
+TOKENS_TEXT = (V3 / "tokens-v3.css").read_text(encoding="utf-8")
 
 
 def strip_comments(text: str, js: bool) -> str:
@@ -72,9 +73,42 @@ def test_no_raw_colour_in_js(path):
 # ── typography ──────────────────────────────────────────────────────────────
 @pytest.mark.parametrize("path", CSS_FILES + TOKEN_FILES, ids=lambda p: p.name)
 def test_weight_700_is_never_authored(path):
+    """The atlas's headline typographic law.
+
+    A bare `font-weight: NNN` regex only caught 1 of 25 weight-authoring sites,
+    because almost everything goes through a token or the `font:` shorthand. This
+    resolves tokens to their values and covers every form: numeric, keyword
+    (`bold`/`bolder`), shorthand, and `var(--fw-*)`.
+    """
     body = strip_comments(path.read_text(encoding="utf-8"), js=False)
-    hits = re.findall(r"font-weight\s*:\s*(\d{3})", body)
-    assert all(int(w) < 700 for w in hits), f"weight >= 700 in {path.name}: {hits}"
+
+    # Resolve --fw-* tokens to their numeric values before checking usages.
+    tokens = {name: int(val) for name, val in
+              re.findall(r"(--fw-[a-z-]+)\s*:\s*(\d{3})\s*;", TOKENS_TEXT)}
+    assert tokens, "expected --fw-* weight tokens in tokens-v3.css"
+    assert all(v < 700 for v in tokens.values()), f"a weight token is >= 700: {tokens}"
+
+    for raw in re.findall(r"font-weight\s*:\s*([^;]+);", body):
+        val = raw.strip()
+        if val.startswith("var("):
+            name = val[4:].split(",")[0].split(")")[0].strip()
+            assert tokens.get(name, 0) < 700, f"{path.name}: {name} resolves to bold"
+        elif val.isdigit():
+            assert int(val) < 700, f"{path.name}: font-weight {val}"
+        else:
+            assert val not in ("bold", "bolder"), f"{path.name}: font-weight {val}"
+
+    # The `font:` shorthand can smuggle a weight past the property-name check.
+    for short in re.findall(r"(?<![-a-z])font\s*:\s*([^;]+);", body):
+        assert not re.search(r"\b(700|800|900|bold|bolder)\b", short), \
+            f"{path.name}: bold via the font shorthand -> {short.strip()[:60]}"
+
+
+def test_no_bold_is_smuggled_through_js():
+    """Panels build inline styles too; the CSS-only law would miss them."""
+    for path in JS_FILES:
+        body = strip_comments(path.read_text(encoding="utf-8"), js=True)
+        assert not re.search(r"fontWeight\s*:\s*[\"']?(700|800|900|bold)", body), path.name
 
 
 @pytest.mark.parametrize("path", CSS_FILES + TOKEN_FILES, ids=lambda p: p.name)

@@ -72,7 +72,11 @@
       }),
       inst.metric({
         value: k.median_reviews || 0,
-        caption: `median reviews — the mean of ${num(k.avg_reviews)} is pulled up by two outliers`,
+        // Derived, and true: "pulled up by two outliers" was not — removing the
+        // top two still leaves the mean 43% above the median, and ten clinics
+        // sit above it.
+        caption: `median reviews — ${ctx.all.filter((c) => (c.reviews || 0) < (k.avg_reviews || 0)).length} ` +
+                 `of ${ctx.all.length} clinics sit below the mean of ${num(k.avg_reviews)}`,
       }),
       inst.metric({
         value: serp.blocks || 0,
@@ -128,16 +132,37 @@
         });
       }
       buildZoneLegend(api, ctx);
+      armBrush(api);
       return api;
     },
 
     update(api, ctx) {
-      if (api.chart) api.chart.setOption(mapOption(api, ctx), { replaceMerge: ["series", "graphic"] });
+      if (!api.chart) return;
+      api.chart.setOption(mapOption(api, ctx), { replaceMerge: ["series", "graphic"] });
+      armBrush(api);   // setOption resets the global cursor
     },
     highlight(api, key) {
       charts.emphasise(api.chart, api.rows.findIndex((r) => r.key === key), 1);
     },
   });
+
+  /**
+   * Put the chart into rect-brush mode.
+   *
+   * Declaring `brush: {...}` is NOT enough: ECharts only enters brush mode after
+   * a toolbox button press or an explicit takeGlobalCursor. There is no toolbox
+   * on this page (the design laws ban ECharts' own chrome), so without this the
+   * `brushSelected` handler is unreachable and the panel's own caption promises a
+   * gesture that does nothing. setOption resets the cursor, so re-arm after every
+   * update.
+   */
+  function armBrush(api) {
+    if (!api.chart) return;
+    api.chart.dispatchAction({
+      type: "takeGlobalCursor", key: "brush",
+      brushOption: { brushType: "rect", brushMode: "single" },
+    });
+  }
 
   const ZONES = [
     { key: "stars", label: "Stars", why: "high demand, already visible" },
@@ -525,9 +550,16 @@
       if (ctx.subject && c.key === ctx.subject.key) row.classList.add("is-you");
       api.wrap.append(row);
     }
+    // Everything here is derived. The previous copy hard-coded "the three that do
+    // are chains" in the same sentence as a computed count of seven, above a list
+    // of seven.
+    const heavy = rows.filter((c) => (c.sponsored || 0) >= 10);
     api.note.textContent =
       `${rows.length - buyers} of ${rows.length} clinics have never bought a single ad slot. ` +
-      `The three that do are chains, and they take the top of the page before anyone scrolls.`;
+      (heavy.length
+        ? `${heavy.length} of the ${buyers} that do (${heavy.map((c) => short(c.display_name, 18)).join(", ")}) ` +
+          `bid on ten or more searches and take the top of the page before anyone scrolls.`
+        : `The ${buyers} that do bid on only a handful of searches each.`);
   }
 
   /* ═══ M7 · Owned vs borrowed ═════════════════════════════════════════════════
