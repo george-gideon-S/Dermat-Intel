@@ -15,6 +15,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent))  # repo root for
 
 import config
 from modules import analytics, maps_collector, reviews_nlp, storage, vulnerability, web_collector
+from web import views
 
 WEB = Path(__file__).resolve().parent
 VENDOR = WEB / "vendor"
@@ -74,6 +75,21 @@ def _clinic(row, nlp_map=None) -> dict:
         "notes": notes,
     }
     key = maps_collector.dedup_key(d["place_url"]) or full.lower()
+    # v3: fields the pipeline already computes that v2 dropped on the floor. Each one
+    # drives a panel — average Maps position, ready-to-book share, the 60/40 split
+    # behind the blended score, ad spend, and the coordinates for the constellation.
+    lat, lng = _num(row.get("lat"), 6), _num(row.get("lng"), 6)
+    d.update({
+        "key": key,
+        "pos_avg": _num(row.get("result_position_avg"), 2),
+        "high_intent": _num(row.get("high_intent_share"), 3),
+        "lat": lat,
+        "lng": lng,
+        "km_core": _num(views.km_from_core(lat, lng), 2),
+        "maps_score": _num(row.get("maps_score")),
+        "web_score": _num(row.get("web_score")),
+        "sponsored": _num(row.get("sponsored_count")) or 0,
+    })
     n = (nlp_map or {}).get(key)
     if n and n.get("n_reviews"):
         names = lambda items: [(t[0] if isinstance(t, (list, tuple)) else t) for t in (items or [])][:3]
@@ -113,7 +129,7 @@ def _norm_clinic(row) -> dict:
     }
 
 
-def _attach_reports(clinics, top10, scored, qrows, k, med_app) -> dict:
+def _attach_reports(clinics, scored, qrows, k, med_app) -> dict:
     """Attach doctor-facing report fields (visibility, scorecard, benchmarks, verdict, SERP proof) to
     each clinic dict in place; return the market-summary dict. Safe no-op if web data is absent."""
     from modules import report, web_screens as ws_mod
@@ -133,6 +149,7 @@ def _attach_reports(clinics, top10, scored, qrows, k, med_app) -> dict:
     norm_list = list(norm.values())
     ranked = {d["key"]: d for d in report.rank_by_visibility(norm_list, market)}
     total = len(norm_list)
+    best_pos = {k: (v or {}).get("web_best_position") for k, v in (web_by or {}).items()}
     cache: dict = {}
 
     def fields(key):
@@ -148,12 +165,17 @@ def _attach_reports(clinics, top10, scored, qrows, k, med_app) -> dict:
             "visibility_total": total,
             "web": {"owned": nc["owned"], "borrowed": nc["borrowed"], "appearances": nc["web_appearances"],
                     "has_own_site": nc["has_own_site"], "in_places": nc["places"],
-                    "platforms": nc["platforms"]},
+                    "platforms": nc["platforms"],
+                    # null for the 15 clinics with no organic result at all — the UI
+                    # must render "never" rather than a misleading position 0.
+                    "best_position": best_pos.get(key)},
             "scorecard": report.scorecard(nc, market),
             "benchmarks": report.benchmarks(nc, market),
             "breakdown": report.visibility_breakdown(nc, market),
             "verdict": report.verdict(nc, market),
             "proof": report.serp_proof(key, screens, clist, qrows) if has_web else None,
+            # v3: what each fix is worth, in points AND in market rank.
+            "plan": views.plan_impact(nc, norm_list, market),
         }
         cache[key] = out
         return out
@@ -163,9 +185,23 @@ def _attach_reports(clinics, top10, scored, qrows, k, med_app) -> dict:
 
     for c in clinics:
         c.update(fields(key_of(c)))
-    for c in top10:
-        c.update(fields(key_of(c)))
-    return report.market_summary(norm_list, market)
+
+    # v3 SERP real estate. The 1122-row block table is aggregated here and only the
+    # AGGREGATE ships — plus a handful of full result pages for the redrawn-SERP
+    # panel. Shipping the raw rows would cost ~250 KB of JSON nobody scrolls.
+    serp = {"ownership": views.serp_ownership([]), "pages": {}}
+    if has_web:
+        block_rows = ws_mod.to_rows(screens, clist)
+        pages = []
+        for c in clinics:
+            q = ((c.get("proof") or {}).get("query") or "").strip()
+            if q and q not in pages:
+                pages.append(q)
+        serp = {
+            "ownership": views.serp_ownership(block_rows),
+            "pages": {q: views.serp_page(block_rows, q) for q in pages[:8]},
+        }
+    return {"market": report.market_summary(norm_list, market), "serp": serp}
 
 
 def _attach_web(agg):
@@ -274,8 +310,7 @@ def build_payload() -> dict:
         "kpis": {"unique_clinics": 0, "no_website_count": 0, "avg_rating": 0,
                  "avg_reviews": 0, "pct_with_website": 0,
                  "total_appearances": len(ok), "queries": len(qrows)},
-        "clinics": [], "top10": [], "categories": [], "rating_distribution": [],
-        "median_appearances": 0,
+        "clinics": [], "categories": [], "median_appearances": 0,
     }
     if not ok:
         return payload
@@ -287,38 +322,38 @@ def build_payload() -> dict:
     k = analytics.kpis(ok)
     nlp_map = _load_nlp()
     clinics = [_clinic(r, nlp_map) for _, r in scored.sort_values("vulnerability_score", ascending=False).iterrows()]
-    top10 = [_clinic(r, nlp_map) for _, r in vulnerability.top_n(scored, 10).iterrows()]
     no_web = sum(1 for c in clinics if not c["has_website"])
     pct_no = round(100 - k["pct_with_website"], 1)
     med_app = float(scored["appearances"].median())
-    payload["market"] = _attach_reports(clinics, top10, scored, qrows, k, med_app)
+    attached = _attach_reports(clinics, scored, qrows, k, med_app)
+    payload["market"] = attached["market"]
+    payload["serp"] = attached["serp"]
 
     payload["kpis"] = {
         "unique_clinics": int(k["unique_clinics"]), "no_website_count": no_web,
         "avg_rating": round(float(k["avg_rating"]), 2), "avg_reviews": int(k["avg_reviews"]),
+        # the mean (306) is skewed by two outliers; the median (154) is the honest
+        # central tendency and is what the market view leads with.
+        "median_reviews": int(k["median_reviews"]),
         "pct_with_website": round(float(k["pct_with_website"]), 1),
         "total_appearances": len(ok), "queries": len(qrows),
     }
     ip = intent_positions(ok, qrows, lambda r: maps_collector.dedup_key(r.get("place_url") or "")
                           or str(r.get("name") or "").lower())
-    for c in clinics + top10:
+    for c in clinics:
         ck = maps_collector.dedup_key(c.get("place_url") or "") or str(c.get("name") or "").lower()
         c["intents"] = ip.get(ck, [])
     payload["intents_market"] = ip.get("_market", {})
 
     payload["clinics"] = clinics
-    payload["top10"] = top10
     payload["categories"] = analytics.category_distribution(qrows).to_dict("records") if qrows else []
-    payload["rating_distribution"] = _rating_bins(clinics)
     payload["median_appearances"] = round(med_app, 1)
-    payload["headline_lead"] = "Trusted in person,"
-    payload["headline_hl"] = "invisible online."
-    payload["lede"] = (
-        f"Across {len(qrows)} high-intent Guntur searches we mapped {k['unique_clinics']} unique "
-        f"dermatology clinics averaging {round(float(k['avg_rating']),2)}★ — yet {no_web} of them "
-        f"({pct_no:.0f}%) have no website at all. The clearest opportunities are the established, "
-        f"in-demand clinics with no digital home."
-    )
+    # v3 market views. quadrant_frame and presence_funnel have been tested in
+    # modules/analytics.py since day one and never reached the UI.
+    payload["quadrant"] = analytics.quadrant_frame(ok).to_dict("records")
+    payload["funnel"] = [{"step": s, "count": n} for s, n in analytics.presence_funnel(ok)]
+    payload["bands"] = views.visibility_bands(clinics)
+    payload["facets"] = views.market_facets(clinics)
     payload["web_available"] = bool("web_data" in scored.columns and scored["web_data"].any())
     payload["reviews_available"] = any(c.get("nlp") for c in clinics)
     return payload
