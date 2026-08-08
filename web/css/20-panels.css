@@ -1,0 +1,139 @@
+/* ── Panel chrome ─────────────────────────────────────────────────────────────
+   Panels declare their span; the grid does the rest. A panel is a Card rung of
+   the glass ladder unless it is deliberately NAKED (metrics sitting straight on
+   the field, as the reference does with its KPI strip). */
+
+.panel {
+  grid-column: span var(--span, 12);
+  grid-row: span var(--rows, 1);
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: var(--sp-3);
+  position: relative;
+}
+
+.panel--card {
+  padding: var(--sp-5);
+  border-radius: var(--r-card);
+  background: var(--sf-card);
+  backdrop-filter: blur(var(--blur-card));
+  -webkit-backdrop-filter: blur(var(--blur-card));
+  box-shadow: var(--shadow-card), var(--rim);
+  overflow: hidden;              /* required for the edge-crop rule to clip */
+}
+
+/* Naked panels carry no surface at all — the metric IS the design. */
+.panel--naked { padding: var(--sp-2) 0; }
+
+.panel__head {
+  display: flex;
+  align-items: baseline;
+  gap: var(--sp-3);
+  flex-wrap: wrap;
+}
+.panel__head h2 {
+  font: var(--fw-medium) var(--fs-title)/1.25 var(--sans);
+  letter-spacing: var(--ls-tight);
+  color: var(--ink-1);
+}
+.panel__head .sub { font-size: var(--fs-small); color: var(--ink-3); }
+.panel__head .tools { margin-left: auto; display: flex; gap: var(--sp-2); align-items: center; }
+
+.panel__note {
+  font-size: var(--fs-small);
+  color: var(--ink-3);
+  line-height: 1.55;
+}
+.panel__note b { font-weight: var(--fw-medium); color: var(--ink-2); }
+
+/* A caveat printed in the panel, never hidden — used where the data is thin
+   (10 reviews per clinic) or where a denominator needs stating (50/78/80). */
+.caveat {
+  font-size: var(--fs-micro);
+  color: var(--ink-4);
+  line-height: 1.5;
+}
+
+/* Segmented control for panel-local sorts and toggles. */
+.seg { display: inline-flex; gap: 2px; padding: 2px; border-radius: var(--r-pill);
+       background: var(--sf-veil); }
+.seg button {
+  padding: 4px 11px;
+  border-radius: var(--r-pill);
+  font-size: var(--fs-micro);
+  color: var(--ink-3);
+  transition: background var(--dur-micro) var(--ease-ui), color var(--dur-micro) var(--ease-ui);
+}
+.seg button[aria-pressed="true"] {
+  background: var(--sf-flatInner);
+  color: var(--ink-1);
+  box-shadow: 0 1px 3px var(--sf-ring);
+}
+
+/* Custom chart legends — ECharts' own legend is banned by the design laws
+   because it cannot be made to match the type system. */
+.legend { display: flex; flex-wrap: wrap; gap: var(--sp-2) var(--sp-4); align-items: center; }
+.legend button {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: var(--fs-micro);
+  color: var(--ink-3);
+  transition: color var(--dur-micro) var(--ease-ui), opacity var(--dur-micro) var(--ease-ui);
+}
+.legend button[aria-pressed="false"] { opacity: .38; }
+.legend button:hover { color: var(--ink-1); }
+.legend i { width: 9px; height: 9px; border-radius: 3px; flex: none; }
+
+/* An instrument row — the examination rack's unit. Status is carried by FILL and
+   ALPHA, never by a coloured chip. */
+.irow {
+  display: grid;
+  grid-template-columns: 1fr minmax(120px, 1.15fr) auto;
+  gap: var(--sp-3) var(--sp-4);
+  align-items: center;
+  padding: var(--sp-3) 0;
+  border-top: 1px solid var(--ink-hair);
+  transition: opacity var(--dur-micro) var(--ease-ui);
+}
+.irow:first-of-type { border-top: 0; }
+.irow__k { font-size: var(--fs-small); color: var(--ink-2); }
+.irow__k small { display: block; color: var(--ink-4); font-size: var(--fs-micro); margin-top: 2px; }
+.irow__v { justify-self: end; font-size: var(--fs-small); color: var(--ink-2); white-space: nowrap; }
+
+/* Hovering one row dims its siblings rather than highlighting the row — the eye
+   goes to the un-dimmed thing, and nothing has to change colour. */
+.rack:hover .irow { opacity: .3; }
+.rack .irow:hover { opacity: 1; }
+
+/* Naked metric — the KPI strip pattern. No card, label pill attached top-right. */
+.metric { display: flex; flex-direction: column; gap: var(--sp-1); }
+.metric__top { display: flex; align-items: flex-start; gap: var(--sp-2); }
+.metric__c { font-size: var(--fs-small); color: var(--ink-3); }
+.metric__c b { font-weight: var(--fw-medium); color: var(--ink-2); }
+
+.strip { display: flex; flex-wrap: wrap; gap: var(--sp-6) var(--sp-7); }
+
+/* Nested inner card — the brightest surface, one level only. */
+.inner {
+  background: var(--sf-inner);
+  border-radius: var(--r-inner);
+  padding: var(--sp-4);
+  box-shadow: 0 1px 2px var(--sf-ring);
+}
+
+/* The twin-jewel hero. Side by side at reference proportion (~1.5:1); they stack
+   only when the panel itself is too narrow to hold two. */
+.jewel-pair {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: var(--sp-4);
+}
+.jewel-pair .jewel { aspect-ratio: 460 / 300; }
+@container (max-width: 520px) { .jewel-pair { grid-template-columns: 1fr; } }
+@media (max-width: 860px) { .jewel-pair { grid-template-columns: 1fr; } }
+
+.stack { display: flex; flex-direction: column; gap: var(--sp-3); }
+.row { display: flex; align-items: center; gap: var(--sp-3); flex-wrap: wrap; }
+.grow { flex: 1 1 auto; min-width: 0; }

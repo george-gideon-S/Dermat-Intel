@@ -1,0 +1,67 @@
+/* ── Responsive ───────────────────────────────────────────────────────────────
+   Three steps. Below 1080 the 12-column grid collapses to 6 and wide panels take
+   the full width; below 860 the rail unsticks and becomes a top filter strip
+   (simpler than a bottom sheet and it keeps the desktop reading order). */
+
+@media (max-width: 1400px) {
+  .canvas { gap: var(--sp-4); padding: var(--sp-5) var(--sp-5) var(--sp-8); }
+}
+
+@media (max-width: 1080px) {
+  .canvas { grid-template-columns: repeat(6, minmax(0, 1fr)); }
+  /* Anything asking for more than half the grid takes all of it. */
+  .panel { grid-column: span min(var(--span, 12), 6); }
+  .panel[style*="--span: 7"], .panel[style*="--span: 8"], .panel[style*="--span: 12"] {
+    grid-column: span 6;
+  }
+}
+
+@media (max-width: 860px) {
+  body { grid-template-columns: 1fr; }
+
+  .rail {
+    position: static;
+    height: auto;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: var(--sp-3);
+    padding: var(--sp-4) var(--sp-4) var(--sp-2);
+    overflow: visible;
+  }
+  .rail-group { flex-direction: row; flex-wrap: wrap; }
+  .rail-title { display: none; }
+  .switch { flex-direction: row; gap: var(--sp-4); width: 100%; }
+  .combo { flex: 1 1 260px; }
+  .combo__pop { width: min(360px, calc(100vw - var(--sp-6))); }
+  .rail-foot { width: 100%; margin-top: 0; padding-top: var(--sp-2); }
+  /* Filter rows become chips in the strip. */
+  .rrow { width: auto; }
+  .rrow .lbl { max-width: 22ch; }
+
+  .canvas { grid-template-columns: 1fr; padding: var(--sp-4) var(--sp-4) var(--sp-8); }
+  .panel { grid-column: 1 / -1 !important; grid-row: auto !important; }
+
+  .drawer { width: 100vw; }
+}
+
+@media (max-width: 480px) {
+  .canvas { gap: var(--sp-4); }
+  .panel--card { padding: var(--sp-4); }
+  .strip { gap: var(--sp-4) var(--sp-5); }
+}
+
+/* Print: the report is a sales artefact and doctors do print it. Flatten the
+   glass (backdrop-filter does not print) and drop the interactive chrome. */
+@media print {
+  body { grid-template-columns: 1fr; }
+  .rail, .drawer, .drawer-scrim, .seg, .skip { display: none !important; }
+  .panel--card {
+    background: var(--sf-flatCard);
+    backdrop-filter: none;
+    box-shadow: none;
+    border: 1px solid var(--ink-hair);
+    break-inside: avoid;
+  }
+  .canvas { padding: 0; }
+}

@@ -1,0 +1,59 @@
+/* ── Charts ───────────────────────────────────────────────────────────────────
+   Chart hosts FILL their panel. v2's charts were fixed-pixel boxes inside larger
+   cards, which is where the dead card space came from. */
+
+.chart {
+  width: 100%;
+  min-height: 0;
+  flex: 1 1 auto;
+}
+.chart--tall { min-height: 420px; }
+.chart--mid { min-height: 300px; }
+.chart--short { min-height: 190px; }
+
+/* The tooltip is a real Float pill: content ghosts through it, exactly as the
+   summary pill does in the reference. ECharts paints the box transparent and
+   this styles the actual DOM node. */
+.di-tip {
+  background: var(--sf-float) !important;
+  backdrop-filter: blur(var(--blur-float)) saturate(140%);
+  -webkit-backdrop-filter: blur(var(--blur-float)) saturate(140%);
+  border: 0 !important;
+  border-radius: var(--r-row) !important;
+  box-shadow: var(--shadow-float), var(--rim) !important;
+  padding: 10px 14px !important;
+  color: var(--ink-1) !important;
+  font-family: var(--sans) !important;
+  font-size: var(--fs-small) !important;
+  line-height: 1.5 !important;
+  pointer-events: none;
+}
+.di-tip .t { font-weight: var(--fw-medium); display: block; margin-bottom: 3px; }
+.di-tip .r { display: flex; gap: var(--sp-4); align-items: baseline; }
+.di-tip .r span { color: var(--ink-3); font-size: var(--fs-micro); }
+.di-tip .r b { font-weight: var(--fw-body); font-family: var(--mono); color: var(--ink-1); }
+
+/* Hand-authored SVG instruments size to their host and never stretch their
+   stroke weights — vector-effect keeps hairlines hairline under preserveAspect. */
+.viz { width: 100%; display: block; overflow: visible; }
+.viz text {
+  font-family: var(--sans);
+  font-size: 10px;
+  fill: var(--ink-4);
+}
+.viz .tick { stroke: var(--ink-3); stroke-width: 1.5; opacity: var(--tick-alpha); }
+.viz .marker { stroke: var(--ink-1); stroke-width: 3; stroke-linecap: round; }
+.viz .track { stroke: var(--data-track); }
+.viz .hair { stroke: var(--ink-hair); stroke-width: 1; }
+
+/* Cross-filter emphasis. One class flip on the root, one on the matching nodes —
+   never a re-render, and never a setOption. */
+.viz [data-clinic] { transition: opacity var(--dur-micro) var(--ease-ui); }
+.hovering .viz [data-clinic] { opacity: .28; }
+.hovering .viz [data-clinic].is-hot { opacity: 1; }
+
+/* Filtered-out marks fade rather than disappear, so the distribution's SHAPE
+   survives the filter — removing them would misrepresent the market. */
+.viz [data-clinic].is-out { opacity: .12; }
+
+.swatch { width: 9px; height: 9px; border-radius: 3px; display: inline-block; flex: none; }

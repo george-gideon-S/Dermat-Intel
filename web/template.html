@@ -1,25 +1,34 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
-<title>Derma Intel — Your Clinic Report · Trinade</title>
-<meta name="description" content="The Derma Intel visibility examination — your clinic vs the Guntur dermatology market." />
-<meta name="theme-color" content="#E9EAEC" />
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Derma Intel — Guntur dermatology market</title>
+<meta name="description" content="Online visibility diagnostic for Guntur dermatology clinics.">
+<meta name="theme-color" content="#EDEDED">
 <style>{{STYLES}}</style>
 </head>
 <body>
-<header class="topbar">
-  <a class="tb-brand" href="#" data-nav="clinic">Derma Intel<span class="tb-dot">.</span><span class="tb-city">Guntur</span></a>
-  <nav class="tb-nav" aria-label="Views">
-    <button class="pill-tab" data-nav="clinic">Your Clinic</button>
-    <button class="pill-tab" data-nav="market">The Market</button>
-  </nav>
-</header>
-<main id="app"></main>
+<a class="skip" href="#canvas">Skip to the dashboard</a>
+
+<!-- The console rail. Pill rows float directly on the field: no panel background,
+     no dividing line, no darker column. 40-rail.js fills it. -->
+<aside class="rail" id="rail" aria-label="Report controls"></aside>
+
+<!-- Both pages exist simultaneously; switching toggles [hidden] and resizes charts
+     rather than re-rendering, so no chart is ever disposed and rebuilt. -->
+<main class="canvas-wrap" id="canvas">
+  <section class="canvas" data-page="clinic" aria-label="Your clinic"></section>
+  <section class="canvas" data-page="market" aria-label="The market" hidden></section>
+</main>
+
+<!-- One drawer serves every drill-in, so there is a single overlay system. -->
+<aside class="drawer" id="drawer" hidden aria-label="Details" tabindex="-1"></aside>
+<div class="drawer-scrim" id="drawer-scrim" hidden></div>
+
 <script>{{ECHARTS}}</script>
 <script>window.__DATA__ = {{DATA}};</script>
 <script>{{APP_JS}}</script>
-<script>window.DI && DI.renderApp && DI.renderApp("clinic");</script>
+<script>window.DI && DI.boot();</script>
 </body>
 </html>

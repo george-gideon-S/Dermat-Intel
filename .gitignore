@@ -22,3 +22,6 @@ docs/redesign/v3/verification/*.png
 docs/redesign/v3/verification/before/
 docs/redesign/v3/verification/after/
 .superpowers/
+
+# vendor build scratch (echarts tree-shake)
+web/.echarts-build/

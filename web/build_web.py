@@ -18,11 +18,25 @@ from modules import analytics, maps_collector, reviews_nlp, storage, vulnerabili
 from web import views
 
 WEB = Path(__file__).resolve().parent
+V3 = WEB.parent / "docs" / "redesign" / "v3"
+sys.path.insert(0, str(V3 / "tools"))
+
+import gen_tokens  # noqa: E402 — needs the path above; palette.json -> CSS vars + JS object
+
 VENDOR = WEB / "vendor"
 DIST = WEB / "dist"
 DIST.mkdir(parents=True, exist_ok=True)
 
 # v2 "Luminous Precision" fonts (both dists) — Doto's weight is the variable range.
+_FONTS_PRIVATE = [
+    ("Geist", 300, "geist-300.woff2"), ("Geist", 400, "geist-400.woff2"),
+    ("Geist", 500, "geist-500.woff2"), ("Geist", 600, "geist-600.woff2"),
+    ("Geist Mono", 400, "geistmono-400.woff2"), ("Geist Mono", 500, "geistmono-500.woff2"),
+    ("Doto", "100 900", "doto-var.woff2"),
+]
+
+# The public dist still ships the v2 face set — it is not part of this rebuild and
+# its output must stay byte-identical.
 _FONTS_V2 = [
     ("Geist", 400, "geist-400.woff2"), ("Geist", 500, "geist-500.woff2"),
     ("Geist", 600, "geist-600.woff2"), ("Geist", 700, "geist-700.woff2"),
@@ -390,51 +404,68 @@ def _gsap_js() -> str:
     return "\n".join(parts)
 
 
-def _copy_proof(payload) -> int:
-    """Bundle the SERP proof screenshots the app references into dist/proof/ — deploy-safe
-    (no ../../data escape, so the same dist/ works on file:// and on Vercel)."""
-    import shutil
-    dest = DIST / "proof"
-    dest.mkdir(parents=True, exist_ok=True)
-    names = {(c.get("proof") or {}).get("screenshot") for c in payload.get("clinics", [])}
-    names.discard(None)
-    n = 0
-    for name in names:
-        src = _SHOTS / name
-        if src.exists():
-            try:
-                shutil.copyfile(src, dest / name)
-                n += 1
-            except Exception:
-                pass
-    return n
+# v3 bundle order. CSS: palette -> tokens -> components -> app layers. JS: each
+# file is an IIFE hanging off window.DI, so order is the dependency graph and
+# there is no bundler, no import statements, no build step beyond concatenation.
+_V3_CSS = ["00-reset", "10-shell", "20-panels", "30-charts", "40-responsive"]
+# Numeric prefix IS the load order: the panel files call DI.app.register() at parse
+# time, so the app core has to be defined before them.
+_V3_JS = ["00-util", "10-palette", "20-store", "30-bus", "40-rail", "50-charts",
+          "60-instruments", "70-app", "80-panels-clinic", "85-panels-market"]
+
+
+def _vintages() -> dict:
+    """Three datasets, three dates. Shipping one 'generated_at' across all of them
+    implies a freshness the corpus does not have, so the rail states each."""
+    def stamp(path):
+        try:
+            return datetime.fromtimestamp(Path(path).stat().st_mtime).strftime("%d %b %Y")
+        except Exception:
+            return None
+    return {
+        "maps": stamp(storage.RESULTS_JSON),
+        "serp": stamp(getattr(config, "WEB_SCREENS_JSON", "") or
+                      Path(storage.RESULTS_JSON).parent / "web_screens.json"),
+        "build": datetime.now().strftime("%d %b %Y"),
+    }
 
 
 def build() -> str:
-    """Private dist (the paid report app): v2 two-tab report. The scroll story left this
-    bundle in Phase C — the public dist (build_public) owns marketing now."""
+    """Private dist — the paid report app (v3 'instrument-grade' dashboards)."""
     payload = build_payload()
     payload["contact"] = {"whatsapp": config.WHATSAPP_NUMBER}
+    payload["vintages"] = _vintages()
     template = (WEB / "template.html").read_text(encoding="utf-8")
-    styles = (WEB / "styles.css").read_text(encoding="utf-8")
-    app_js = (WEB / "app.js").read_text(encoding="utf-8")
 
-    echarts_path = VENDOR / "echarts.min.js"
-    if echarts_path.exists():
-        echarts_js = echarts_path.read_text(encoding="utf-8")
-    else:  # graceful fallback to CDN if assets were never vendored (SRI-pinned to echarts 5.5.1)
-        echarts_js = ""
+    # Tree-shaken ECharts (~568 KB) when it has been vendored; the full UMD build
+    # otherwise; the SRI-pinned CDN tag only if neither exists.
+    echarts_js = ""
+    for name in ("echarts-custom.min.js", "echarts.min.js"):
+        p = VENDOR / name
+        if p.exists():
+            echarts_js = p.read_text(encoding="utf-8")
+            break
+    if not echarts_js:
         sri = "sha384-Mx5lkUEQPM1pOJCwFtUICyX45KNojXbkWdYhkKUKsbv391mavbfoAmONbzkgYPzR"
         template = template.replace(
             "<script>{{ECHARTS}}</script>",
             f'<script src="https://cdn.jsdelivr.net/npm/echarts@5.5.1/dist/echarts.min.js" '
             f'integrity="{sri}" crossorigin="anonymous"></script>')
 
+    palette = gen_tokens.load_palette()
     css = "\n".join([
-        _font_face_css(),
-        (V2 / "tokens-v2.css").read_text(encoding="utf-8"),
-        (V2 / "components.css").read_text(encoding="utf-8"),
-        styles,
+        _font_face_css(_FONTS_PRIVATE),
+        gen_tokens.palette_css(palette),
+        (V3 / "tokens-v3.css").read_text(encoding="utf-8"),
+        (V3 / "components-v3.css").read_text(encoding="utf-8"),
+        *[(WEB / "css" / f"{n}.css").read_text(encoding="utf-8") for n in _V3_CSS],
+    ])
+    # 10-palette.js is generated in memory and never written to disk, so there is
+    # no stale-generated-file failure mode.
+    app_js = "\n".join([
+        gen_tokens.palette_js(palette) if n == "10-palette"
+        else (WEB / "js" / f"{n}.js").read_text(encoding="utf-8")
+        for n in _V3_JS
     ])
     data_json = json.dumps(payload, ensure_ascii=False).replace("</", "<\\/")  # avoid closing the <script>
 
@@ -444,13 +475,12 @@ def build() -> str:
             .replace("{{DATA}}", data_json)
             .replace("{{APP_JS}}", app_js))
 
-    n_proof = _copy_proof(payload)
     out = DIST / "index.html"            # Vercel serves this at /
     out.write_text(html, encoding="utf-8")
     (DIST / "derma_intel.html").write_text(html, encoding="utf-8")  # back-compat for the local opener
     (DIST / "vercel.json").write_text('{\n  "cleanUrls": true,\n  "trailingSlash": false\n}\n', encoding="utf-8")  # static deploy config
     n = payload["kpis"]["unique_clinics"]
-    print(f"Built {out}  ({len(html) // 1024} KB, {n} clinics, {n_proof} proof imgs)")
+    print(f"Built {out}  ({len(html) // 1024} KB, {n} clinics)")
     return str(out)
 
 

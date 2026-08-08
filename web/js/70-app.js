@@ -1,0 +1,169 @@
+/* ── App: panel registry, mount/patch loop, boot ──────────────────────────────
+   The core fix over v2. v2 did `root.innerHTML = …` on every tab click, clinic
+   change and table sort, disposing and rebuilding all eight charts each time.
+   Here both pages exist at once, panels mount ONCE, and afterwards only
+   update()/highlight() run. Nothing is ever disposed. */
+(function (DI) {
+  "use strict";
+
+  const { h, store, bus } = DI;
+  const registry = [];
+  const mounted = new Map();   // id -> { def, api, host, version }
+
+  /**
+   * @param {object} def
+   *   id       unique
+   *   page     "clinic" | "market"
+   *   span     grid columns (1..12)
+   *   rows     grid rows
+   *   card     render on the Card rung (default true); false = naked on the field
+   *   title    panel heading
+   *   sub      quiet sub-heading
+   *   mount(body, ctx)          build DOM/chart ONCE, return an api object
+   *   update(api, ctx)          data or filter changed -> patch in place
+   *   highlight(api, key)       hover -> emphasis only, never layout
+   *   subject   true = also re-render when the selected clinic changes
+   */
+  function register(def) { registry.push(def); }
+
+  function panelShell(def) {
+    const el = h(`section.panel${def.card === false ? ".panel--naked" : ".panel--card"}`, {
+      style: { "--span": def.span || 12, "--rows": def.rows || 1 },
+      data: { panel: def.id },
+      "aria-label": def.title || def.id,
+    });
+    if (def.title) {
+      const head = h("div.panel__head", h("h2", { text: def.title }));
+      if (def.sub) head.append(h("span.sub", { text: def.sub }));
+      el.append(head);
+    }
+    const body = h("div.panel__body.grow");
+    el.append(body);
+    return { el, body };
+  }
+
+  function mountPage(page) {
+    const root = document.querySelector(`.canvas[data-page="${page}"]`);
+    if (!root || root.dataset.mounted === "1") return;
+    const ctx = context();
+    for (const def of registry.filter((d) => d.page === page)) {
+      const { el, body } = panelShell(def);
+      root.append(el);
+      let api = null;
+      try {
+        api = def.mount ? def.mount(body, ctx) : null;
+      } catch (err) {
+        console.error(`[panel:${def.id}] mount failed`, err);
+        body.append(h("div.panel__note", { text: "This panel could not be drawn." }));
+      }
+      mounted.set(def.id, { def, api, host: el, body, version: ctx.version });
+    }
+    root.dataset.mounted = "1";
+  }
+
+  function context() {
+    const v = store.view();
+    return { ...v, D: DI.D };
+  }
+
+  /** Patch every mounted panel on the visible page whose version is stale. */
+  function updateAll(opts = {}) {
+    const ctx = context();
+    for (const rec of mounted.values()) {
+      if (rec.def.page !== store.state.page) { rec.version = -1; continue; }
+      if (!opts.force && rec.version === ctx.version) continue;
+      try {
+        if (rec.def.update) rec.def.update(rec.api, ctx);
+        rec.version = ctx.version;
+      } catch (err) {
+        console.error(`[panel:${rec.def.id}] update failed`, err);
+      }
+    }
+  }
+
+  function go(page) {
+    if (page === store.state.page) return;
+    store.setPage(page);
+    document.querySelectorAll(".canvas").forEach((el) => {
+      el.hidden = el.dataset.page !== page;
+    });
+    mountPage(page);
+    bus.emit("page", { page });
+    // A chart initialised inside a hidden section measured 0; tell it the truth
+    // now that it is visible.
+    updateAll();
+    requestAnimationFrame(() => DI.charts.resizeAll());
+  }
+
+  /* ── Drawer: one overlay system for every drill-in ─────────────────────── */
+  let lastFocus = null;
+  function openDrawer(title, buildBody) {
+    const drawer = document.getElementById("drawer");
+    const scrim = document.getElementById("drawer-scrim");
+    lastFocus = document.activeElement;
+    drawer.textContent = "";
+    drawer.append(h("div.drawer__head",
+      h("h2", { text: title }),
+      h("button.drawer__close", { type: "button", text: "Close ×",
+                                  "aria-label": "Close details", onclick: closeDrawer })));
+    const body = h("div.stack");
+    drawer.append(body);
+    try { buildBody(body); } catch (err) { console.error("[drawer]", err); }
+    drawer.hidden = false;
+    scrim.hidden = false;
+    drawer.focus();
+  }
+
+  function closeDrawer() {
+    document.getElementById("drawer").hidden = true;
+    document.getElementById("drawer-scrim").hidden = true;
+    if (lastFocus && lastFocus.focus) lastFocus.focus();
+  }
+
+  function boot() {
+    if (!DI.CL.length) {
+      document.getElementById("canvas").append(
+        h("div.panel__note", { text: "No clinic data in this build." }));
+      return;
+    }
+
+    DI.rail.build(document.getElementById("rail"));
+    mountPage("clinic");
+
+    // Hover: emphasis only. Never a re-render, never a setOption.
+    bus.on("hover", ({ key }) => {
+      for (const rec of mounted.values()) {
+        if (rec.def.page !== store.state.page || !rec.def.highlight) continue;
+        try { rec.def.highlight(rec.api, key); } catch (_) { /* non-fatal */ }
+      }
+    });
+
+    // Select changes the subject; only subject-dependent panels care.
+    bus.on("select", () => {
+      const ctx = context();
+      for (const rec of mounted.values()) {
+        if (rec.def.page !== store.state.page || !rec.def.subject) continue;
+        try { if (rec.def.update) rec.def.update(rec.api, ctx); rec.version = ctx.version; }
+        catch (err) { console.error(`[panel:${rec.def.id}]`, err); }
+      }
+    });
+
+    // Filter: one memoised recompute, then patch everything on the page.
+    bus.on("filter", () => updateAll({ force: true }));
+
+    document.getElementById("drawer-scrim").addEventListener("click", closeDrawer);
+    document.addEventListener("keydown", (e) => {
+      if (e.key === "Escape" && !document.getElementById("drawer").hidden) closeDrawer();
+    });
+
+    // The verifier waits on this flag rather than a fixed timeout, so a slow
+    // font load can never produce a blank screenshot.
+    document.fonts.ready.then(() => {
+      DI.charts.resizeAll();
+      document.body.dataset.diReady = "1";
+    });
+  }
+
+  DI.app = { register, go, boot, updateAll, openDrawer, closeDrawer, mounted, context };
+  DI.boot = boot;
+})(window.DI);
