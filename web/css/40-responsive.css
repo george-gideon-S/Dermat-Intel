@@ -65,3 +65,40 @@
   }
   .canvas { padding: 0; }
 }
+
+/* ── Panel internals that need real reflow, not just a narrower column ──────── */
+@media (max-width: 860px) {
+  /* The prescription card is a 4-column grid; below ~700px the text column gets
+     crushed to a few characters and wraps one letter per line. Reflow it into
+     three stacked rows instead. */
+  .rx__card { grid-template-columns: auto 1fr; row-gap: var(--sp-3); }
+  .rx__move { grid-column: 2; text-align: left; }
+  .rx__move .disp { font-size: 1.3rem; }
+  .rx__toggle { grid-column: 2; justify-self: start; }
+  .rx__link { display: none; }
+
+  /* The examination rack: give the instrument its own full-width row so it keeps
+     a readable length instead of being squeezed between label and value. */
+  .irow { grid-template-columns: 1fr auto; }
+  .irow__i { grid-column: 1 / -1; order: 3; }
+  .census-viz { max-width: 100%; }
+
+  /* The ownership matrix cannot usefully shrink to five columns on a phone;
+     scroll it horizontally rather than making every cell unreadable. */
+  .own__grid { min-width: 620px; }
+  .own { overflow-x: auto; }
+
+  .shelf__row { grid-template-columns: 110px 1fr 24px; }
+  .funnel__row { grid-template-columns: 1fr 64px auto; }
+  .cats__row { grid-template-columns: 1fr 64px 26px; }
+}
+
+@media (max-width: 860px) {
+  /* The panel-head tools (sort segments, the SERP query stepper) run past the
+     panel on a phone. Let the head wrap and the tool row scroll on its own. */
+  .panel__head .tools { margin-left: 0; max-width: 100%; overflow-x: auto; }
+  .serp-stepper { flex-wrap: nowrap; }
+  .serp-stepper button { max-width: 130px; }
+  .serprow { gap: var(--sp-2); }
+  .serprow__pos { width: 24px; }
+}

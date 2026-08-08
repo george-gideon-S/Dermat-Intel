@@ -245,6 +245,34 @@ def run() -> int:
             page.screenshot(path=str(OUT / f"{page_name}-390.png"), full_page=True)
             print(f"  wrote {page_name}-390.png")
 
+        # ── Pass 4 · performance ───────────────────────────────────────────
+        # The bus's cost contract: a filter is one memoised recompute plus a
+        # patch, and hover NEVER calls setOption. If either regresses, a
+        # 34-clinic dashboard starts to feel heavy for no visible reason.
+        print("\nperformance")
+        page.click('.switch button[data-page="market"]')
+        page.wait_for_timeout(900)
+        timings = page.evaluate("""() => {
+          const t = {};
+          let a = performance.now();
+          for (let i = 0; i < 20; i++) {
+            DI.store.toggleFacet('presence', 'invisible');
+            DI.bus.emit('filter', {});
+          }
+          t.filter = (performance.now() - a) / 20;
+          a = performance.now();
+          for (let i = 0; i < 40; i++) DI.bus.emit('hover', {key: DI.CL[i % DI.CL.length].key});
+          t.hover = (performance.now() - a) / 40;
+          DI.store.clearFilters(); DI.bus.emit('filter', {});
+          return t;
+        }""")
+        rep.check("filter round-trip < 120ms", timings["filter"] < 120,
+                  f"{timings['filter']:.1f}ms")
+        rep.check("hover dispatch < 12ms", timings["hover"] < 12,
+                  f"{timings['hover']:.1f}ms")
+        size_kb = DIST.stat().st_size // 1024
+        rep.check("dist under 1.2 MB", size_kb < 1229, f"{size_kb} KB")
+
         print("\nruntime")
         rep.check("no console errors", not errors, errors[:4])
         rep.check("no network requests (offline)", not offsite, offsite[:4])

@@ -30,7 +30,11 @@ opportunity/diagnostic, not accusatory.
 | Slice SERP screenshots → tiles | `python modules/screenshot_slicer.py` (Pillow; `.cache/web_tiles/` + manifest) |
 | Build google-search dataset (after vision extraction) | `python modules/web_screens.py` → `web_screens.json` + `data/google_search_results.xlsx` |
 | Unify Maps + search → 40% web term | `python modules/unify_results.py` → `data/unified_results.xlsx` |
-| Tests | `python -m pytest -q` (121 passing) |
+| Tests | `python -m pytest -q` (**373 passing**) |
+| **Verify the v3 dashboards** | `python docs/redesign/v3/tools/verify_dashboard.py` (22 checks: design laws · cross-filter flows · perf · shots) |
+| Re-sample the reference images | `python docs/redesign/v3/tools/sample_reference.py` → `reference-samples.json` |
+| Rebuild the tree-shaken ECharts bundle | `python web/build_echarts.py` (568 KB vs 1006 KB; vendor-time only) |
+| Contact sheet (before/after/reference) | `python docs/redesign/v3/tools/contact_sheet.py` (gitignored, ~13 MB) |
 
 ## Environment gotchas (these cost hours last time — heed them)
 - **TLS interception** on this machine breaks HTTPS downloads (Node + Python `requests`). Fix already
@@ -109,7 +113,7 @@ Non-operational clinics ×0.4. Higher = bigger opportunity.
   **not** the numeric score yet (referral rate + review velocity are the intended word-of-mouth inputs).
 
 ## Conventions
-- Logic-heavy code is TDD'd; keep `pytest` green (**137 tests**, verified 2026-07-10). Commit frequently to local `master`
+- Logic-heavy code is TDD'd; keep `pytest` green (**373 tests**, verified 2026-08-08). Commit frequently to local `master`
   (no remote). End commit messages with `Co-Authored-By: Claude Opus 4.8 <noreply@anthropic.com>`.
 - Gitignored: `.cache/*.json`, `.cache/web_tiles/`, `data/*.xlsx`, `data/Full Page Screenshots/`,
   `web/dist/`, `metadata.json`, **`.env`**, **`.env.local`**, **`.claude/settings.local.json`**.
@@ -199,29 +203,77 @@ authenticated with the `X-Goog-Api-Key` header sourced from `${STITCH_API_KEY}`.
 - Phase 11 is **presentation-only**: `modules/` and the test suite stay green and untouched
   (only `web/build_web.py` may gain TDD'd logic for the two-dist split).
 
-## Current state (2026-06-30)
-80 queries · 34 clinics scored with the **full 60/40 blend now LIVE** (Maps + Google-web from the
-screenshot dataset) · reviews-NLP for 31 clinics · premium web dashboard built (`web_available=True`) ·
-**135 tests pass**.
-- **Doctor-facing content engine built** (`modules/report.py`, TDD): per-clinic **Online Visibility**
-  score (higher=better) + rank, 5-check scorecard, you-vs-market benchmarks, plain verdict, and the
-  real-SERP **proof**; `payload.market` summary. Wired into the payload via `build_web._attach_reports`.
-  Powers a planned **two-view** product — ① "Your Clinic" report + ② "Market" dashboard. Content/structure
-  spec: [docs/redesign/CONTENT_SPEC.md](docs/redesign/CONTENT_SPEC.md) (visual build is Phase 11).
-- **Screenshot dataset done**: 78 SERP screenshots → 440 tiles → vision-extracted **78 queries / ~1122
-  blocks** → `web_screens.json` + `google_search_results.xlsx` (Task 1), unified into `unified_results.xlsx`
-  feeding the 40% web term (Task 2). Spec: `docs/superpowers/specs/2026-06-30-google-serp-screenshot-dataset-design.md`.
-- **78-vs-80**: the 2 queries with no screenshot are rank 50 *"best dermatologist in Guntur for
-  pigmentation"* and rank 69 *"urticaria hives treatment Guntur"*. All 78 mapped exact by search-box text.
-- **15 of 34 clinics have ZERO web presence** (top opportunities pair this with high Maps demand).
-- **NEXT — Phase 11: premium redesign** (runs in a parallel session). Make the dashboard studio-quality
-  (premium motion via GSAP, premium icons/UI/UX) to sell to Guntur clinics + upsell website builds; craft
-  a Brand Identity Guide. Brief: [docs/redesign/PREMIUM_REDESIGN_BRIEF.md](docs/redesign/PREMIUM_REDESIGN_BRIEF.md);
-  paste-ready kickoff: [NEXT_SESSION_PROMPT.md](NEXT_SESSION_PROMPT.md). Design skills installed globally
-  (`~/.claude/skills/`): `impeccable`, `taste-skill`, `redesign-skill`, `soft-skill`, `brandkit`,
-  `hallmark`, `gsap-*` (8), imagegen-web/mobile. The redesign folds in the still-deferred owned/borrowed +
-  zero-web-presence UI surfacing. Presentation-only — keep `modules/` + the 121 tests intact.
-- **Other candidates**: fold review-NLP (referral/word-of-mouth) into the numeric score.
+## Current state (2026-08-08) — v3 "instrument-grade" dashboards SHIPPED
+80 queries · 34 clinics · the 60/40 blend live · **373 tests pass** · private dist **1041 KB**
+(was 1322) · public dist byte-identical throughout.
+
+### The v3 rebuild (P0–P6, all gates cleared)
+The v2 report app was **scrapped**, not tweaked: `web/styles.css` and `web/app.js` are
+deleted. `web/` now holds `css/` (7 files) + `js/` (9 IIFEs on `window.DI`), concatenated
+by `build_web.py`. No bundler, no imports — **the numeric prefix IS the load order**
+(`70-app` must precede the panel files, and a test asserts it).
+
+- **Identity re-derived by MEASURING** (`docs/redesign/v3/`): a probe map + Pillow sampler
+  over the 9 reference images, reconciled in `ATLAS.md`. It overturned v2: the canvas is
+  hue-neutral `#EDEDED` (every neutral probe returned R=G=B exactly), cards run a
+  **five-rung glass ladder**, **nothing renders at weight 700**, the score jewel is
+  green-dominant (v2 mis-attributed the orange), and lime measured to `#DCF306`.
+  The sampler adds patch **sigma** + channel **delta** so a probe that misses is
+  detected, not caught by eye — it auto-flagged `field-mid` landing on a jewel.
+- **`palette.json` is the ONLY place a colour is authored.** `gen_tokens.py` emits both
+  the CSS custom properties and the JS object ECharts reads, so the v2 palette
+  duplication cannot recur. Enforced by `tests/test_v3_source_laws.py`.
+- **Jewels STATE-MAP** — the visibility hero's recipe follows the score band, so a 34
+  renders in caution and can never read as reassuring. This is the deliberate divergence
+  from the Log App (theirs never change); see `ATLAS.md` §9.
+- **`web/views.py`** — pure derived views (`plan_impact`, `serp_ownership`, `serp_page`,
+  `visibility_bands`, `market_facets`, `km_from_core`). `modules/` untouched.
+- **Cross-filtered**: 3 bus channels with a cost contract — hover NEVER calls
+  `setOption` (0.2 ms), filter is one memoised recompute (27 ms round-trip).
+- **19 panels**: Your Clinic (twin jewels · split-score · examination rack · intent polar
+  · redrawn SERP · prescription stack · patient voice · constellation) and The Market
+  (jewels · KPI strip · opportunity map with brush · league · **SERP ownership matrix** ·
+  ad shelf · owned-vs-borrowed · funnel · categories · map · table).
+- **The raw SERP screenshot is gone** — replaced by the result page redrawn in our own
+  components, with the clinic's absence as a literal dashed gap. `_copy_proof` and
+  `dist/proof/` are deleted, so the private dist is **truly self-contained** at last.
+- **Payload 193 KB** (was 215): surfaces `pos_avg`, `high_intent`, `lat/lng/km_core`,
+  the `maps_score`/`web_score` split, `sponsored`, `plan`, and the 1122-block SERP
+  aggregate; drops the unread `top10` (40 KB of duplicated clinics), `rating_distribution`,
+  `headline_*`, `lede`.
+
+### Gotchas this rebuild paid for (do not relearn them)
+- **npm cannot reach the registry** through the TLS interception — it ignores
+  `NODE_EXTRA_CA_CERTS` *and* `--use-system-ca`. **`curl` works** (schannel → Windows
+  store), which is how `build_echarts.py` fetches tarballs. Never disable verification.
+- **ECharts ignores `itemStyle` callbacks** for `opacity`/`borderWidth` (only `color`
+  works) — three series rendered invisible. Use **per-datum `itemStyle`**.
+- A **`markArea` on the same series** as its marks paints over them; give plates their
+  own silent `z:0` series.
+- **Chromium `full_page` screenshots do not repaint `<canvas>`** on long pages. Size the
+  viewport to the document instead (`shoot_tall` in the verifier).
+- `Object.assign(el.style, …)` **silently drops custom properties** — use `setProperty`.
+- `[hidden]` is only `display:none` at UA level; any `display` rule defeats it.
+
+### Deliberate calls worth knowing
+- `presence_of` is stricter than v2: a **paid placement is OWNED** (you control the
+  destination) and **places-only is INVISIBLE** (the local pack is Maps re-surfaced).
+  Live: own 12 / borrowed 2 / invisible 20, where v2 showed 10 / 9 / 15.
+- `payload.quadrant` is **not shipped** — `analytics.quadrant_frame` cuts zones on
+  *rating*, a trap here (28 of 34 sit between 4.8–5.0); the opportunity map cuts on the
+  axes it plots.
+- The `maps` scorecard check is **relabelled in panel copy** to "in the local pack"
+  because it measures local-pack presence across the 78 SERPs, not Google Maps presence.
+  `modules/report.py` stays byte-identical.
+- `design/` (13 MB of reference images + brand PDFs) is **still untracked**. The probe
+  map reads from it, so verification cannot be reproduced from a fresh clone until it is
+  committed or relocated — George's call.
+
+### Next candidates
+- **WS-2: the public homepage** (`web/dist/public/`) is still v2 and untouched by this
+  rebuild — it is the remaining "empty and centred" surface.
+- Fold review-NLP (referral / word-of-mouth) into the numeric score.
+- `config.WHATSAPP_NUMBER` and the Razorpay links are still `""`.
 
 ## Environment note — git over TLS interception
 `git clone` (e.g. installing skills) hits the same MITM cert wall as Node downloads. Fix without weakening

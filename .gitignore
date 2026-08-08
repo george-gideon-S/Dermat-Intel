@@ -17,8 +17,11 @@ web/dist/
 .env.local
 .claude/settings.local.json
 
-# v3 verification output — the contact sheet is committed, the PNGs are not
+# v3 verification output. The contact sheet embeds every screenshot as base64
+# and lands at ~13 MB, so it is regenerated on demand rather than committed:
+#   python docs/redesign/v3/tools/contact_sheet.py
 docs/redesign/v3/verification/*.png
+docs/redesign/v3/verification/contact-sheet.html
 docs/redesign/v3/verification/before/
 docs/redesign/v3/verification/after/
 .superpowers/
