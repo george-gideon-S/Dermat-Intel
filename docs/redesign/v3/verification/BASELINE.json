@@ -1,0 +1,15 @@
+{
+  "pytest_passed": 154,
+  "web/dist/public/index.html": {
+    "sha256": "de66dd2ac8651d045bd20b76b424a123cb7eea41e7afd2fa2c9cf6fac53b0ac4",
+    "bytes": 297692
+  },
+  "web/dist/public/build.html": {
+    "sha256": "6daec4ee499ca74ef7060fd4c9647127efd7c6663a2fa1516119381a0be7d9f2",
+    "bytes": 145538
+  },
+  "web/dist/index.html": {
+    "sha256": "2e1971833d6b6d8f74a92ef86214bdd2c014cc499702c476540c2e6aadeedcba",
+    "bytes": 1354449
+  }
+}

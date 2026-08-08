@@ -15,6 +15,9 @@ VENDOR.mkdir(parents=True, exist_ok=True)
 
 ASSETS = {
     "echarts.min.js": "https://cdn.jsdelivr.net/npm/echarts@5.5.1/dist/echarts.min.js",
+    # v3 ships weights 300–600 only; 700 is banned by the atlas (§6) and the
+    # private dist no longer inlines it. 300 carries the display-light register.
+    "geist-300.woff2": "https://cdn.jsdelivr.net/fontsource/fonts/geist@latest/latin-300-normal.woff2",
     "geist-400.woff2": "https://cdn.jsdelivr.net/fontsource/fonts/geist@latest/latin-400-normal.woff2",
     "geist-500.woff2": "https://cdn.jsdelivr.net/fontsource/fonts/geist@latest/latin-500-normal.woff2",
     "geist-600.woff2": "https://cdn.jsdelivr.net/fontsource/fonts/geist@latest/latin-600-normal.woff2",

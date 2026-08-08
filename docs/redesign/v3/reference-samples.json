@@ -1,0 +1,737 @@
+{
+  "generated": "2026-08-08 09:21 UTC",
+  "note": "raw = as sampled; calibrated = scaled so the image's white anchor maps to #FFFFFF. Neither is the final token value \u2014 see ATLAS.md for the reconciliation rule.",
+  "images": {
+    "Design Inspiration - sidebar navbar.png": {
+      "size": "336x650",
+      "whiteAnchor": "alldata-row-white",
+      "whiteGain": [
+        1.114,
+        1.114,
+        1.114
+      ],
+      "probes": {
+        "alldata-row-white": {
+          "raw": "#E5E5E5",
+          "mode": "avg",
+          "sigma": 5.9,
+          "delta": 0,
+          "note": "selected rail row - the elevated rung",
+          "calibrated": "#FFFFFF"
+        },
+        "value-pill-white": {
+          "raw": "#EFEFEF",
+          "mode": "avg",
+          "sigma": 4.2,
+          "delta": 0,
+          "note": "a second brightness step INSIDE a rail row",
+          "calibrated": "#FFFFFF"
+        },
+        "rail-row-fill-1": {
+          "raw": "#E9E9E9",
+          "mode": "avg",
+          "sigma": 0.0,
+          "delta": 0,
+          "note": "tonal veil rung",
+          "calibrated": "#FFFFFF"
+        },
+        "rail-row-fill-2": {
+          "raw": "#E9E9E9",
+          "mode": "avg",
+          "sigma": 0.0,
+          "delta": 0,
+          "calibrated": "#FFFFFF"
+        },
+        "rail-row-fill-3": {
+          "raw": "#E9E9E9",
+          "mode": "avg",
+          "sigma": 0.0,
+          "delta": 0,
+          "calibrated": "#FFFFFF"
+        },
+        "field-left-strip-1": {
+          "raw": "#E2E2E2",
+          "mode": "avg",
+          "sigma": 0.0,
+          "delta": 0,
+          "note": "bare field between rail and edge",
+          "calibrated": "#FCFCFC"
+        },
+        "field-left-strip-2": {
+          "raw": "#E3E3E3",
+          "mode": "avg",
+          "sigma": 0.4,
+          "delta": 0,
+          "calibrated": "#FDFDFD"
+        },
+        "field-top": {
+          "raw": "#E2E2E2",
+          "mode": "avg",
+          "sigma": 0.0,
+          "delta": 0,
+          "calibrated": "#FCFCFC"
+        },
+        "field-canvas-right": {
+          "raw": "#E2E2E2",
+          "mode": "avg",
+          "sigma": 0.5,
+          "delta": 0,
+          "calibrated": "#FCFCFC"
+        },
+        "gopro-lime": {
+          "raw": "#DFF602",
+          "mode": "maxchroma",
+          "sigma": 40.9,
+          "delta": 244,
+          "note": "lime hit 1 of 5",
+          "calibrated": "#F8FF02"
+        },
+        "wordmark-ink": {
+          "raw": "#232323",
+          "mode": "minluma",
+          "sigma": 70.2,
+          "delta": 0,
+          "calibrated": "#272727"
+        },
+        "tab-active-ink": {
+          "raw": "#2C2C2C",
+          "mode": "minluma",
+          "sigma": 68.4,
+          "delta": 0,
+          "calibrated": "#313131"
+        },
+        "tab-inactive-grey": {
+          "raw": "#E1E1E1",
+          "mode": "minluma",
+          "sigma": 0.8,
+          "delta": 0,
+          "note": "the faint end of the ink ramp",
+          "calibrated": "#FBFBFB"
+        }
+      }
+    },
+    "Design Inpsiration - dashboard snapshot 2.png": {
+      "size": "909x676",
+      "whiteAnchor": "upload-card-white",
+      "whiteGain": [
+        1.049,
+        1.049,
+        1.049
+      ],
+      "probes": {
+        "upload-card-white": {
+          "raw": "#F3F3F3",
+          "mode": "avg",
+          "sigma": 0.0,
+          "delta": 0,
+          "note": "the anchor - a real white card",
+          "calibrated": "#FFFFFF"
+        },
+        "stat-card-white": {
+          "raw": "#F3F3F3",
+          "mode": "avg",
+          "sigma": 5.0,
+          "delta": 0,
+          "calibrated": "#FFFFFF"
+        },
+        "field-mid": {
+          "raw": "#588B5E",
+          "mode": "avg",
+          "sigma": 9.0,
+          "delta": 51,
+          "note": "sister project's sample landed on the score jewel here - watch the warning",
+          "calibrated": "#5C9263"
+        },
+        "field-left-of-name": {
+          "raw": "#E2E2E2",
+          "mode": "avg",
+          "sigma": 0.0,
+          "delta": 0,
+          "calibrated": "#EDEDED"
+        },
+        "field-far-left": {
+          "raw": "#AFAFAF",
+          "mode": "avg",
+          "sigma": 0.0,
+          "delta": 0,
+          "note": "added for v3 - a field probe well clear of any card",
+          "calibrated": "#B8B8B8"
+        },
+        "total-pill-lime": {
+          "raw": "#DBF30A",
+          "mode": "maxchroma",
+          "sigma": 40.3,
+          "delta": 233,
+          "note": "lime hit 2 of 5",
+          "calibrated": "#E6FF0A"
+        },
+        "gopro-lime-rail": {
+          "raw": "#E4F07E",
+          "mode": "maxchroma",
+          "sigma": 13.3,
+          "delta": 114,
+          "note": "lime hit 3 of 5",
+          "calibrated": "#EFFC84"
+        },
+        "name-ink": {
+          "raw": "#4C4C4C",
+          "mode": "minluma",
+          "sigma": 52.9,
+          "delta": 0,
+          "calibrated": "#505050"
+        },
+        "pink-jewel-core": {
+          "raw": "#F2985A",
+          "mode": "maxchroma",
+          "sigma": 35.2,
+          "delta": 152,
+          "calibrated": "#FEA05E"
+        },
+        "score-jewel-green": {
+          "raw": "#59B151",
+          "mode": "avg",
+          "sigma": 18.9,
+          "delta": 96,
+          "calibrated": "#5DBA55"
+        },
+        "score-jewel-orange": {
+          "raw": "#E7CCAE",
+          "mode": "avg",
+          "sigma": 5.1,
+          "delta": 57,
+          "calibrated": "#F2D6B7"
+        },
+        "bioage-jewel-orange": {
+          "raw": "#EE9B26",
+          "mode": "avg",
+          "sigma": 3.6,
+          "delta": 200,
+          "calibrated": "#FAA328"
+        }
+      }
+    },
+    "Design inspiration - cards.png": {
+      "size": "916x687",
+      "whiteAnchor": null,
+      "whiteGain": null,
+      "probes": {
+        "score-sand-top-1": {
+          "raw": "#E6CBAC",
+          "mode": "avg",
+          "sigma": 1.7,
+          "delta": 58
+        },
+        "score-sand-top-2": {
+          "raw": "#E2C18F",
+          "mode": "avg",
+          "sigma": 1.5,
+          "delta": 83
+        },
+        "score-transition": {
+          "raw": "#9AC361",
+          "mode": "avg",
+          "sigma": 1.5,
+          "delta": 98,
+          "note": "the yellow-green transition band"
+        },
+        "score-green-mid-1": {
+          "raw": "#399F3A",
+          "mode": "avg",
+          "sigma": 2.5,
+          "delta": 102
+        },
+        "score-green-mid-2": {
+          "raw": "#278D2C",
+          "mode": "avg",
+          "sigma": 1.2,
+          "delta": 102
+        },
+        "score-green-deep-1": {
+          "raw": "#2A8630",
+          "mode": "avg",
+          "sigma": 10.3,
+          "delta": 92
+        },
+        "score-green-deep-2": {
+          "raw": "#539B58",
+          "mode": "avg",
+          "sigma": 2.8,
+          "delta": 72,
+          "note": "deepest pool, bottom-left"
+        },
+        "field-below-jewel": {
+          "raw": "#E0E0E0",
+          "mode": "avg",
+          "sigma": 2.4,
+          "delta": 0
+        },
+        "biomarkers-ink": {
+          "raw": "#8E8E8E",
+          "mode": "minluma",
+          "sigma": 25.9,
+          "delta": 0
+        }
+      }
+    },
+    "Design Inspiration - cards 1.png": {
+      "size": "907x677",
+      "whiteAnchor": "seeall-pill-white",
+      "whiteGain": [
+        1.049,
+        1.049,
+        1.049
+      ],
+      "probes": {
+        "seeall-pill-white": {
+          "raw": "#F3F3F3",
+          "mode": "avg",
+          "sigma": 1.8,
+          "delta": 0,
+          "calibrated": "#FFFFFF"
+        },
+        "index-slate-1": {
+          "raw": "#E2E2E1",
+          "mode": "avg",
+          "sigma": 0.5,
+          "delta": 1,
+          "calibrated": "#EDEDEC"
+        },
+        "index-slate-2": {
+          "raw": "#D2BBAD",
+          "mode": "avg",
+          "sigma": 1.4,
+          "delta": 37,
+          "calibrated": "#DCC4B6"
+        },
+        "index-slate-3": {
+          "raw": "#BCBAB7",
+          "mode": "avg",
+          "sigma": 1.2,
+          "delta": 5,
+          "calibrated": "#C5C3C0"
+        },
+        "index-orange-core-1": {
+          "raw": "#F37E1C",
+          "mode": "avg",
+          "sigma": 1.0,
+          "delta": 215,
+          "calibrated": "#FF841D"
+        },
+        "index-orange-core-2": {
+          "raw": "#F37922",
+          "mode": "avg",
+          "sigma": 1.2,
+          "delta": 209,
+          "calibrated": "#FF7F24"
+        },
+        "index-amber-bottom": {
+          "raw": "#E1A162",
+          "mode": "avg",
+          "sigma": 2.4,
+          "delta": 127,
+          "calibrated": "#ECA967"
+        },
+        "index-edge-right": {
+          "raw": "#E09E90",
+          "mode": "avg",
+          "sigma": 2.0,
+          "delta": 80,
+          "calibrated": "#EBA697"
+        },
+        "field-top-left": {
+          "raw": "#F3F3F3",
+          "mode": "avg",
+          "sigma": 0.0,
+          "delta": 0,
+          "calibrated": "#FFFFFF"
+        }
+      }
+    },
+    "Design Inspiration - cards 2.png": {
+      "size": "914x670",
+      "whiteAnchor": "upload-card-white",
+      "whiteGain": [
+        1.049,
+        1.049,
+        1.049
+      ],
+      "probes": {
+        "upload-card-white": {
+          "raw": "#F3F3F3",
+          "mode": "avg",
+          "sigma": 0.0,
+          "delta": 0,
+          "calibrated": "#FFFFFF"
+        },
+        "upload-card-white-2": {
+          "raw": "#F3F3F3",
+          "mode": "avg",
+          "sigma": 0.0,
+          "delta": 0,
+          "calibrated": "#FFFFFF"
+        },
+        "inner-card-bright": {
+          "raw": "#FAFAFA",
+          "mode": "avg",
+          "sigma": 0.0,
+          "delta": 0,
+          "note": "THE brightest surface in the system",
+          "calibrated": "#FFFFFF"
+        },
+        "icon-circle-white": {
+          "raw": "#F7F7F7",
+          "mode": "avg",
+          "sigma": 1.3,
+          "delta": 0,
+          "calibrated": "#FFFFFF"
+        },
+        "action-pink-core": {
+          "raw": "#D1EA05",
+          "mode": "maxchroma",
+          "sigma": 41.3,
+          "delta": 229,
+          "calibrated": "#DBF605"
+        },
+        "action-pink-mid": {
+          "raw": "#F36D92",
+          "mode": "avg",
+          "sigma": 1.8,
+          "delta": 134,
+          "calibrated": "#FF7299"
+        },
+        "action-pink-low": {
+          "raw": "#F46892",
+          "mode": "avg",
+          "sigma": 1.8,
+          "delta": 140,
+          "calibrated": "#FF6D99"
+        },
+        "action-rose-edge-top": {
+          "raw": "#ECC6C7",
+          "mode": "avg",
+          "sigma": 1.1,
+          "delta": 38,
+          "calibrated": "#F8D0D1"
+        },
+        "sensor-lime-core": {
+          "raw": "#D2EA08",
+          "mode": "maxchroma",
+          "sigma": 46.1,
+          "delta": 226,
+          "note": "lime hit 4 of 5 - the lime dot inside the pink jewel",
+          "calibrated": "#DCF608"
+        },
+        "field-bottom-left": {
+          "raw": "#E9E9E9",
+          "mode": "avg",
+          "sigma": 0.0,
+          "delta": 0,
+          "calibrated": "#F5F5F5"
+        }
+      }
+    },
+    "Design Inspiration - cards 3.png": {
+      "size": "910x683",
+      "whiteAnchor": "statcard-white-1",
+      "whiteGain": [
+        1.049,
+        1.049,
+        1.049
+      ],
+      "probes": {
+        "statcard-white-1": {
+          "raw": "#F3F3F3",
+          "mode": "avg",
+          "sigma": 0.0,
+          "delta": 0,
+          "calibrated": "#FFFFFF"
+        },
+        "statcard-white-2": {
+          "raw": "#F6F6F6",
+          "mode": "avg",
+          "sigma": 0.4,
+          "delta": 0,
+          "calibrated": "#FFFFFF"
+        },
+        "statcard2-white": {
+          "raw": "#F3F3F3",
+          "mode": "avg",
+          "sigma": 0.7,
+          "delta": 0,
+          "calibrated": "#FFFFFF"
+        },
+        "header-ink": {
+          "raw": "#E2E2E2",
+          "mode": "minluma",
+          "sigma": 0.0,
+          "delta": 0,
+          "calibrated": "#EDEDED"
+        },
+        "header-ink-2": {
+          "raw": "#353535",
+          "mode": "minluma",
+          "sigma": 64.6,
+          "delta": 0,
+          "calibrated": "#383838"
+        },
+        "sub-grey-text": {
+          "raw": "#A7A7A7",
+          "mode": "minluma",
+          "sigma": 21.6,
+          "delta": 0,
+          "note": "ink-muted rung",
+          "calibrated": "#AFAFAF"
+        },
+        "dotmatrix-ink-103": {
+          "raw": "#464646",
+          "mode": "minluma",
+          "sigma": 57.4,
+          "delta": 0,
+          "note": "big patch: the glyph is mostly holes",
+          "calibrated": "#494949"
+        },
+        "dotmatrix-ink-43": {
+          "raw": "#F3F3F3",
+          "mode": "minluma",
+          "sigma": 0.0,
+          "delta": 0,
+          "note": "sister project's probe MISSED here - returned #F3F3F3",
+          "calibrated": "#FFFFFF"
+        },
+        "green-band-top": {
+          "raw": "#3A8241",
+          "mode": "avg",
+          "sigma": 1.1,
+          "delta": 72,
+          "calibrated": "#3D8844"
+        },
+        "field-between-cards": {
+          "raw": "#F3F3F3",
+          "mode": "avg",
+          "sigma": 0.0,
+          "delta": 0,
+          "calibrated": "#FFFFFF"
+        },
+        "field-below-header": {
+          "raw": "#F3F3F3",
+          "mode": "avg",
+          "sigma": 0.0,
+          "delta": 0,
+          "calibrated": "#FFFFFF"
+        }
+      }
+    },
+    "Design Inspiration - cards 4.png": {
+      "size": "909x683",
+      "whiteAnchor": "vignette-circle-wash",
+      "whiteGain": [
+        1.037,
+        1.037,
+        1.037
+      ],
+      "probes": {
+        "vignette-circle-wash": {
+          "raw": "#F6F6F6",
+          "mode": "avg",
+          "sigma": 0.0,
+          "delta": 0,
+          "calibrated": "#FFFFFF"
+        },
+        "pending-card-white-1": {
+          "raw": "#E9E9E9",
+          "mode": "avg",
+          "sigma": 0.0,
+          "delta": 0,
+          "calibrated": "#F2F2F2"
+        },
+        "pending-card-white-2": {
+          "raw": "#E9E9E9",
+          "mode": "avg",
+          "sigma": 0.0,
+          "delta": 0,
+          "calibrated": "#F2F2F2"
+        },
+        "lime-progress-dot": {
+          "raw": "#DFF606",
+          "mode": "maxchroma",
+          "sigma": 1.3,
+          "delta": 240,
+          "note": "lime hit 5 of 5",
+          "calibrated": "#E7FF06"
+        },
+        "display-num-ink": {
+          "raw": "#DCDCDC",
+          "mode": "minluma",
+          "sigma": 11.7,
+          "delta": 0,
+          "note": "sister project's probe MISSED here - returned #D6D6D6",
+          "calibrated": "#E4E4E4"
+        },
+        "body-grey-text": {
+          "raw": "#AEAEAE",
+          "mode": "minluma",
+          "sigma": 22.7,
+          "delta": 0,
+          "calibrated": "#B4B4B4"
+        },
+        "connector-hairline": {
+          "raw": "#E9E9E9",
+          "mode": "minluma",
+          "sigma": 0.0,
+          "delta": 0,
+          "note": "added for v3 - the 1px journey hairline",
+          "calibrated": "#F2F2F2"
+        },
+        "orange-jewel-left": {
+          "raw": "#EF825B",
+          "mode": "avg",
+          "sigma": 1.1,
+          "delta": 148,
+          "calibrated": "#F8875E"
+        }
+      }
+    },
+    "Design Inspiration - short cards.png": {
+      "size": "914x678",
+      "whiteAnchor": "inrange-pill-white",
+      "whiteGain": [
+        1.328,
+        1.328,
+        1.328
+      ],
+      "probes": {
+        "inrange-pill-white": {
+          "raw": "#C0C0C0",
+          "mode": "avg",
+          "sigma": 4.4,
+          "delta": 0,
+          "note": "sister project's anchor here gave a bogus 1.34 gain - expect a warning",
+          "calibrated": "#FFFFFF"
+        },
+        "float-pill-1": {
+          "raw": "#F6F6F6",
+          "mode": "avg",
+          "sigma": 0.0,
+          "delta": 0,
+          "calibrated": "#FFFFFF"
+        },
+        "float-pill-2": {
+          "raw": "#F3F3F3",
+          "mode": "avg",
+          "sigma": 0.5,
+          "delta": 0,
+          "calibrated": "#FFFFFF"
+        },
+        "float-pill-top": {
+          "raw": "#F1F1F1",
+          "mode": "avg",
+          "sigma": 1.1,
+          "delta": 0,
+          "calibrated": "#FFFFFF"
+        },
+        "dotmatrix-ink-21": {
+          "raw": "#505050",
+          "mode": "minluma",
+          "sigma": 50.1,
+          "delta": 0,
+          "calibrated": "#6A6A6A"
+        },
+        "field-above": {
+          "raw": "#E2E2E2",
+          "mode": "avg",
+          "sigma": 0.0,
+          "delta": 0,
+          "calibrated": "#FFFFFF"
+        },
+        "field-beside-pill": {
+          "raw": "#E9E9E9",
+          "mode": "avg",
+          "sigma": 0.0,
+          "delta": 0,
+          "calibrated": "#FFFFFF"
+        },
+        "timeline-band-white": {
+          "raw": "#F6F6F6",
+          "mode": "avg",
+          "sigma": 0.0,
+          "delta": 0,
+          "note": "added for v3 - the shallow band the pill floats over",
+          "calibrated": "#FFFFFF"
+        },
+        "jewel-orange-below": {
+          "raw": "#E5CFB8",
+          "mode": "avg",
+          "sigma": 2.9,
+          "delta": 45,
+          "calibrated": "#FFFFF4"
+        },
+        "jewel-slate-below": {
+          "raw": "#C9D3D8",
+          "mode": "avg",
+          "sigma": 0.9,
+          "delta": 15,
+          "calibrated": "#FFFFFF"
+        }
+      }
+    },
+    "Design Inpsiration - dashboard snapshot 1.png": {
+      "size": "868x641",
+      "whiteAnchor": "healthimproving-pill",
+      "whiteGain": [
+        1.143,
+        1.143,
+        1.143
+      ],
+      "probes": {
+        "healthimproving-pill": {
+          "raw": "#DFDFDF",
+          "mode": "avg",
+          "sigma": 30.4,
+          "delta": 0,
+          "calibrated": "#FFFFFF"
+        },
+        "field-top-right": {
+          "raw": "#E2E2E2",
+          "mode": "avg",
+          "sigma": 0.0,
+          "delta": 0,
+          "calibrated": "#FFFFFF"
+        },
+        "score-sand-top": {
+          "raw": "#D9BC78",
+          "mode": "avg",
+          "sigma": 2.1,
+          "delta": 97,
+          "calibrated": "#F8D789"
+        },
+        "score-green-low": {
+          "raw": "#34833A",
+          "mode": "avg",
+          "sigma": 3.4,
+          "delta": 79,
+          "calibrated": "#3B9642"
+        },
+        "index-orange": {
+          "raw": "#F39723",
+          "mode": "avg",
+          "sigma": 27.8,
+          "delta": 208,
+          "calibrated": "#FFAD28"
+        },
+        "total-pill-lime": {
+          "raw": "#DFF405",
+          "mode": "maxchroma",
+          "sigma": 34.6,
+          "delta": 239,
+          "note": "lime cross-check",
+          "calibrated": "#FFFF06"
+        }
+      }
+    }
+  },
+  "warnings": [
+    "Design Inpsiration - dashboard snapshot 2.png/field-mid: sigma 9.0 > 8.0 \u2014 patch straddles an edge, sample unreliable",
+    "Design Inpsiration - dashboard snapshot 1.png/healthimproving-pill: sigma 30.4 > 8.0 \u2014 patch straddles an edge, sample unreliable",
+    "Design Inpsiration - dashboard snapshot 1.png/index-orange: sigma 27.8 > 26.0 \u2014 patch straddles an edge, sample unreliable"
+  ]
+}

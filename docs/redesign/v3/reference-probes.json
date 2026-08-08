@@ -1,0 +1,158 @@
+{
+  "$comment": "Probe map for the Derma Intel v3 reference atlas. Coordinates are FRACTIONS of image width/height so the map survives any resize. mode: avg (whole-patch mean, for flat surfaces and gradient bands) | minluma (mean of the darkest 12%, for text strokes) | maxchroma (mean of the top 12% by chroma, for tiny vivid pills and dots). r = patch radius in px. white = the probe used as this image's white anchor for calibration (null = report raw only). expect = neutral | chromatic | dark, used by the sampler to flag probes that missed their target. Gradient probes deliberately WALK A DIAGONAL so the output is a ramp, not a colour.",
+  "baseDir": "design/Design Inspiration",
+  "seededFrom": "E:/TRINADE/LOG APP V2/scripts/design/reference-probes.json (same source images; coordinates reused, expect/sigma annotations and ladder+instrument probes added for v3)",
+  "images": [
+    {
+      "file": "Design Inspiration - sidebar navbar.png",
+      "white": "alldata-row-white",
+      "$why": "The rail anatomy at 336x650. This image carries the cleanest evidence for the brightness ladder: field vs tonal rail row vs elevated selected row vs the value pill inside a row.",
+      "probes": [
+        { "name": "alldata-row-white", "x": 0.55, "y": 0.295, "mode": "avg", "r": 3, "expect": "neutral", "note": "selected rail row - the elevated rung" },
+        { "name": "value-pill-white", "x": 0.66, "y": 0.452, "mode": "avg", "r": 2, "expect": "neutral", "note": "a second brightness step INSIDE a rail row" },
+        { "name": "rail-row-fill-1", "x": 0.54, "y": 0.45, "mode": "avg", "r": 3, "expect": "neutral", "note": "tonal veil rung" },
+        { "name": "rail-row-fill-2", "x": 0.54, "y": 0.52, "mode": "avg", "r": 3, "expect": "neutral" },
+        { "name": "rail-row-fill-3", "x": 0.54, "y": 0.585, "mode": "avg", "r": 3, "expect": "neutral" },
+        { "name": "field-left-strip-1", "x": 0.15, "y": 0.45, "mode": "avg", "r": 2, "expect": "neutral", "note": "bare field between rail and edge" },
+        { "name": "field-left-strip-2", "x": 0.15, "y": 0.60, "mode": "avg", "r": 2, "expect": "neutral" },
+        { "name": "field-top", "x": 0.55, "y": 0.155, "mode": "avg", "r": 3, "expect": "neutral" },
+        { "name": "field-canvas-right", "x": 0.88, "y": 0.38, "mode": "avg", "r": 3, "expect": "neutral" },
+        { "name": "gopro-lime", "x": 0.30, "y": 0.937, "mode": "maxchroma", "r": 4, "expect": "chromatic", "note": "lime hit 1 of 5" },
+        { "name": "wordmark-ink", "x": 0.27, "y": 0.145, "mode": "minluma", "r": 4, "expect": "dark" },
+        { "name": "tab-active-ink", "x": 0.235, "y": 0.21, "mode": "minluma", "r": 5, "expect": "dark" },
+        { "name": "tab-inactive-grey", "x": 0.47, "y": 0.215, "mode": "minluma", "r": 5, "expect": "dark", "note": "the faint end of the ink ramp" }
+      ]
+    },
+    {
+      "file": "Design Inpsiration - dashboard snapshot 2.png",
+      "white": "upload-card-white",
+      "$why": "The composition ground truth, and the image whose white anchor the sister project found most trustworthy (gain 1.05).",
+      "probes": [
+        { "name": "upload-card-white", "x": 0.665, "y": 0.27, "mode": "avg", "r": 3, "expect": "neutral", "note": "the anchor - a real white card" },
+        { "name": "stat-card-white", "x": 0.36, "y": 0.72, "mode": "avg", "r": 3, "expect": "neutral" },
+        { "name": "field-mid", "x": 0.40, "y": 0.605, "mode": "avg", "r": 3, "expect": "neutral", "note": "sister project's sample landed on the score jewel here - watch the warning" },
+        { "name": "field-left-of-name", "x": 0.27, "y": 0.29, "mode": "avg", "r": 3, "expect": "neutral" },
+        { "name": "field-far-left", "x": 0.055, "y": 0.50, "mode": "avg", "r": 3, "expect": "neutral", "note": "added for v3 - a field probe well clear of any card" },
+        { "name": "total-pill-lime", "x": 0.335, "y": 0.305, "mode": "maxchroma", "r": 4, "expect": "chromatic", "note": "lime hit 2 of 5" },
+        { "name": "gopro-lime-rail", "x": 0.225, "y": 0.732, "mode": "maxchroma", "r": 4, "expect": "chromatic", "note": "lime hit 3 of 5" },
+        { "name": "name-ink", "x": 0.345, "y": 0.28, "mode": "minluma", "r": 5, "expect": "dark" },
+        { "name": "pink-jewel-core", "x": 0.775, "y": 0.28, "mode": "maxchroma", "r": 5, "expect": "chromatic" },
+        { "name": "score-jewel-green", "x": 0.40, "y": 0.52, "mode": "avg", "r": 4, "expect": "chromatic" },
+        { "name": "score-jewel-orange", "x": 0.36, "y": 0.44, "mode": "avg", "r": 4, "expect": "chromatic" },
+        { "name": "bioage-jewel-orange", "x": 0.565, "y": 0.47, "mode": "avg", "r": 4, "expect": "chromatic" }
+      ]
+    },
+    {
+      "file": "Design inspiration - cards.png",
+      "white": null,
+      "$why": "The Score jewel at scale. Probes walk a diagonal down the gradient (y 0.20 -> 0.68) to recover the RAMP and locate the transition band, not just 'orange and green'.",
+      "probes": [
+        { "name": "score-sand-top-1", "x": 0.50, "y": 0.20, "mode": "avg", "r": 4, "expect": "chromatic" },
+        { "name": "score-sand-top-2", "x": 0.63, "y": 0.27, "mode": "avg", "r": 4, "expect": "chromatic" },
+        { "name": "score-transition", "x": 0.42, "y": 0.38, "mode": "avg", "r": 4, "expect": "chromatic", "note": "the yellow-green transition band" },
+        { "name": "score-green-mid-1", "x": 0.46, "y": 0.52, "mode": "avg", "r": 4, "expect": "chromatic" },
+        { "name": "score-green-mid-2", "x": 0.55, "y": 0.58, "mode": "avg", "r": 4, "expect": "chromatic" },
+        { "name": "score-green-deep-1", "x": 0.30, "y": 0.62, "mode": "avg", "r": 4, "expect": "chromatic" },
+        { "name": "score-green-deep-2", "x": 0.22, "y": 0.68, "mode": "avg", "r": 4, "expect": "chromatic", "note": "deepest pool, bottom-left" },
+        { "name": "field-below-jewel", "x": 0.12, "y": 0.86, "mode": "avg", "r": 3, "expect": "neutral" },
+        { "name": "biomarkers-ink", "x": 0.12, "y": 0.83, "mode": "minluma", "r": 5, "expect": "dark" }
+      ]
+    },
+    {
+      "file": "Design Inspiration - cards 1.png",
+      "white": "seeall-pill-white",
+      "$why": "The Index jewel: cool slate frame around a blazing orange core. The hue our v2 mis-attributed to the Score jewel.",
+      "probes": [
+        { "name": "seeall-pill-white", "x": 0.585, "y": 0.828, "mode": "avg", "r": 3, "expect": "neutral" },
+        { "name": "index-slate-1", "x": 0.28, "y": 0.22, "mode": "avg", "r": 4 },
+        { "name": "index-slate-2", "x": 0.33, "y": 0.26, "mode": "avg", "r": 4 },
+        { "name": "index-slate-3", "x": 0.25, "y": 0.35, "mode": "avg", "r": 4 },
+        { "name": "index-orange-core-1", "x": 0.60, "y": 0.42, "mode": "avg", "r": 4, "expect": "chromatic" },
+        { "name": "index-orange-core-2", "x": 0.66, "y": 0.47, "mode": "avg", "r": 4, "expect": "chromatic" },
+        { "name": "index-amber-bottom", "x": 0.52, "y": 0.62, "mode": "avg", "r": 4, "expect": "chromatic" },
+        { "name": "index-edge-right", "x": 0.80, "y": 0.35, "mode": "avg", "r": 4 },
+        { "name": "field-top-left", "x": 0.12, "y": 0.10, "mode": "avg", "r": 3, "expect": "neutral" }
+      ]
+    },
+    {
+      "file": "Design Inspiration - cards 2.png",
+      "white": "upload-card-white",
+      "$why": "The single clearest evidence for the ladder: a NESTED inner card visibly brighter than the card containing it. Also the hot-pink Action jewel with its lime sensor core.",
+      "probes": [
+        { "name": "upload-card-white", "x": 0.24, "y": 0.47, "mode": "avg", "r": 3, "expect": "neutral" },
+        { "name": "upload-card-white-2", "x": 0.30, "y": 0.42, "mode": "avg", "r": 3, "expect": "neutral" },
+        { "name": "inner-card-bright", "x": 0.56, "y": 0.655, "mode": "avg", "r": 3, "expect": "neutral", "note": "THE brightest surface in the system" },
+        { "name": "icon-circle-white", "x": 0.596, "y": 0.062, "mode": "avg", "r": 3, "expect": "neutral" },
+        { "name": "action-pink-core", "x": 0.72, "y": 0.42, "mode": "maxchroma", "r": 6, "expect": "chromatic" },
+        { "name": "action-pink-mid", "x": 0.75, "y": 0.35, "mode": "avg", "r": 4, "expect": "chromatic" },
+        { "name": "action-pink-low", "x": 0.68, "y": 0.50, "mode": "avg", "r": 4, "expect": "chromatic" },
+        { "name": "action-rose-edge-top", "x": 0.58, "y": 0.22, "mode": "avg", "r": 4, "expect": "chromatic" },
+        { "name": "sensor-lime-core", "x": 0.719, "y": 0.432, "mode": "maxchroma", "r": 5, "expect": "chromatic", "note": "lime hit 4 of 5 - the lime dot inside the pink jewel" },
+        { "name": "field-bottom-left", "x": 0.13, "y": 0.72, "mode": "avg", "r": 3, "expect": "neutral" }
+      ]
+    },
+    {
+      "file": "Design Inspiration - cards 3.png",
+      "white": "statcard-white-1",
+      "$why": "Section header + small stat cards. Carries the ink ramp (header vs sub vs body) and the ink dot-matrix numerals.",
+      "probes": [
+        { "name": "statcard-white-1", "x": 0.50, "y": 0.56, "mode": "avg", "r": 3, "expect": "neutral" },
+        { "name": "statcard-white-2", "x": 0.28, "y": 0.62, "mode": "avg", "r": 3, "expect": "neutral" },
+        { "name": "statcard2-white", "x": 0.72, "y": 0.52, "mode": "avg", "r": 3, "expect": "neutral" },
+        { "name": "header-ink", "x": 0.14, "y": 0.285, "mode": "minluma", "r": 5, "expect": "dark" },
+        { "name": "header-ink-2", "x": 0.24, "y": 0.30, "mode": "minluma", "r": 5, "expect": "dark" },
+        { "name": "sub-grey-text", "x": 0.28, "y": 0.375, "mode": "minluma", "r": 4, "expect": "dark", "note": "ink-muted rung" },
+        { "name": "dotmatrix-ink-103", "x": 0.40, "y": 0.75, "mode": "minluma", "r": 6, "expect": "dark", "note": "big patch: the glyph is mostly holes" },
+        { "name": "dotmatrix-ink-43", "x": 0.78, "y": 0.62, "mode": "minluma", "r": 6, "expect": "dark", "note": "sister project's probe MISSED here - returned #F3F3F3" },
+        { "name": "green-band-top", "x": 0.25, "y": 0.045, "mode": "avg", "r": 3, "expect": "chromatic" },
+        { "name": "field-between-cards", "x": 0.63, "y": 0.70, "mode": "avg", "r": 2, "expect": "neutral" },
+        { "name": "field-below-header", "x": 0.62, "y": 0.55, "mode": "avg", "r": 2, "expect": "neutral" }
+      ]
+    },
+    {
+      "file": "Design Inspiration - cards 4.png",
+      "white": "vignette-circle-wash",
+      "$why": "The third numeral register (display-light '7-10', proportional not dot-matrix), the journey connector, and the vignette circle.",
+      "probes": [
+        { "name": "vignette-circle-wash", "x": 0.83, "y": 0.55, "mode": "avg", "r": 4, "expect": "neutral" },
+        { "name": "pending-card-white-1", "x": 0.60, "y": 0.28, "mode": "avg", "r": 3, "expect": "neutral" },
+        { "name": "pending-card-white-2", "x": 0.62, "y": 0.68, "mode": "avg", "r": 3, "expect": "neutral" },
+        { "name": "lime-progress-dot", "x": 0.368, "y": 0.518, "mode": "maxchroma", "r": 4, "expect": "chromatic", "note": "lime hit 5 of 5" },
+        { "name": "display-num-ink", "x": 0.43, "y": 0.405, "mode": "minluma", "r": 6, "expect": "dark", "note": "sister project's probe MISSED here - returned #D6D6D6" },
+        { "name": "body-grey-text", "x": 0.42, "y": 0.73, "mode": "minluma", "r": 5, "expect": "dark" },
+        { "name": "connector-hairline", "x": 0.47, "y": 0.518, "mode": "minluma", "r": 3, "note": "added for v3 - the 1px journey hairline" },
+        { "name": "orange-jewel-left", "x": 0.08, "y": 0.35, "mode": "avg", "r": 4, "expect": "chromatic" }
+      ]
+    },
+    {
+      "file": "Design Inspiration - short cards.png",
+      "white": "inrange-pill-white",
+      "$why": "The cleanest read of the FLOAT tier - a heavily blurred translucent pill with scatter dots visibly ghosting through it. Also the pastel data hues.",
+      "probes": [
+        { "name": "inrange-pill-white", "x": 0.72, "y": 0.085, "mode": "avg", "r": 3, "expect": "neutral", "note": "sister project's anchor here gave a bogus 1.34 gain - expect a warning" },
+        { "name": "float-pill-1", "x": 0.70, "y": 0.52, "mode": "avg", "r": 4, "expect": "neutral" },
+        { "name": "float-pill-2", "x": 0.25, "y": 0.50, "mode": "avg", "r": 4, "expect": "neutral" },
+        { "name": "float-pill-top", "x": 0.45, "y": 0.40, "mode": "avg", "r": 4, "expect": "neutral" },
+        { "name": "dotmatrix-ink-21", "x": 0.55, "y": 0.16, "mode": "minluma", "r": 6, "expect": "dark" },
+        { "name": "field-above", "x": 0.12, "y": 0.30, "mode": "avg", "r": 3, "expect": "neutral" },
+        { "name": "field-beside-pill", "x": 0.12, "y": 0.55, "mode": "avg", "r": 3, "expect": "neutral" },
+        { "name": "timeline-band-white", "x": 0.40, "y": 0.62, "mode": "avg", "r": 3, "expect": "neutral", "note": "added for v3 - the shallow band the pill floats over" },
+        { "name": "jewel-orange-below", "x": 0.30, "y": 0.85, "mode": "avg", "r": 5, "expect": "chromatic" },
+        { "name": "jewel-slate-below", "x": 0.72, "y": 0.82, "mode": "avg", "r": 5 }
+      ]
+    },
+    {
+      "file": "Design Inpsiration - dashboard snapshot 1.png",
+      "white": "healthimproving-pill",
+      "$why": "Same UI, steeper tilt. Best read for type weight and dot-matrix pitch; used only for cross-image consensus on field and lime.",
+      "probes": [
+        { "name": "healthimproving-pill", "x": 0.655, "y": 0.51, "mode": "avg", "r": 3, "expect": "neutral" },
+        { "name": "field-top-right", "x": 0.72, "y": 0.30, "mode": "avg", "r": 3, "expect": "neutral" },
+        { "name": "score-sand-top", "x": 0.42, "y": 0.60, "mode": "avg", "r": 4, "expect": "chromatic" },
+        { "name": "score-green-low", "x": 0.42, "y": 0.80, "mode": "avg", "r": 4, "expect": "chromatic" },
+        { "name": "index-orange", "x": 0.82, "y": 0.78, "mode": "avg", "r": 4, "expect": "chromatic" },
+        { "name": "total-pill-lime", "x": 0.395, "y": 0.345, "mode": "maxchroma", "r": 4, "expect": "chromatic", "note": "lime cross-check" }
+      ]
+    }
+  ]
+}
