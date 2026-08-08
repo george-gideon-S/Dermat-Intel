@@ -198,6 +198,18 @@ def run() -> int:
 
         # ── Pass 3 · shots ─────────────────────────────────────────────────
         print("\nscreenshots")
+        # Park the pointer off-canvas and clear every interaction state, or the
+        # panels' pointermove handlers leave body.hovering set and each mapped
+        # row screenshots at 28% opacity.
+        page.mouse.move(2, 2)
+        page.evaluate("""() => {
+          DI.bus.emit('hover', {key: null});
+          document.body.classList.remove('hovering');
+          document.querySelectorAll('.is-hot').forEach(n => n.classList.remove('is-hot'));
+          DI.store.clearFilters(); DI.bus.emit('filter', {});
+        }""")
+        page.wait_for_timeout(500)
+
         for page_name in ("clinic", "market"):
             page.click(f'.switch button[data-page="{page_name}"]')
             page.wait_for_timeout(1100)

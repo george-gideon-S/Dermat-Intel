@@ -43,6 +43,9 @@
 }
 .viz .tick { stroke: var(--ink-3); stroke-width: 1.5; opacity: var(--tick-alpha); }
 .viz .marker { stroke: var(--ink-1); stroke-width: 3; stroke-linecap: round; }
+/* The marker's glow belongs on the jewels, where it is white on a saturated mesh.
+   The same blur at ink weight on the light field just reads as a smudge. */
+.jewel .ruler-mark { filter: drop-shadow(0 0 5px currentColor); }
 .viz .track { stroke: var(--data-track); }
 .viz .hair { stroke: var(--ink-hair); stroke-width: 1; }
 

@@ -34,7 +34,6 @@
       kids.push(s("rect", {
         class: "ruler-mark", x: mx.toFixed(1), y: 0, width: 3, height,
         rx: 1.5, fill: "currentColor",
-        style: "filter:drop-shadow(0 0 5px currentColor)",
       }));
     }
     return s("svg", {

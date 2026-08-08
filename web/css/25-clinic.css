@@ -1,0 +1,211 @@
+/* ── "Your Clinic" panel internals ─────────────────────────────────────────── */
+
+/* ── P2 · split-score ─────────────────────────────────────────────────────── */
+.split__row { display: flex; flex-direction: column; gap: var(--sp-2); position: relative; }
+.split__row + .split__row { padding-top: var(--sp-4); border-top: 1px solid var(--ink-hair); }
+.split__crop { overflow: hidden; padding-bottom: var(--sp-5); }
+
+/* The blend, as one bar split 60/40. Each half fills to its own score, so you can
+   see WHICH side of the blend is carrying the number. */
+.blendbar { display: flex; gap: 3px; height: 8px; }
+.blendbar i {
+  position: relative;
+  border-radius: var(--r-pill);
+  background: var(--data-track);
+  overflow: hidden;
+}
+.blendbar i::after {
+  content: "";
+  position: absolute;
+  inset: 0 auto 0 0;
+  width: var(--fill, 0%);
+  border-radius: var(--r-pill);
+  transition: width var(--dur-reveal) var(--ease-cine);
+}
+/* A gap bar is a deficit, so it takes the caution hue. Green here would say
+   "good" about the worse of the two numbers. */
+.blendbar__maps::after { background: var(--jewel-caution-mid); }
+.blendbar__web::after { background: var(--jewel-caution-anchor); }
+
+/* ── P3 · the examination rack ────────────────────────────────────────────── */
+.irow[role="button"] { cursor: pointer; }
+.irow__i { min-width: 0; }
+.irow__v.is-weak { color: var(--jewel-caution-anchor); }
+
+/* website / phone — a filament, lit or broken. No status chip anywhere. */
+.filament--broken {
+  height: 3px;
+  border-radius: 2px;
+  background: repeating-linear-gradient(90deg,
+    var(--data-absent) 0 6px, transparent 6px 13px);
+  opacity: .5;
+}
+
+/* search — a 78-dot census. Lit = your own site ranks, half = a directory
+   carries you, dead = absent. */
+.census { fill: var(--data-absent); opacity: .28; }
+.census--own { fill: var(--data-owned); opacity: 1; }
+.census--borrowed { fill: var(--data-borrowed); opacity: .72; }
+.census-viz { max-width: 190px; }
+
+/* local pack — a tick ruler with a filled span rather than a marker. */
+.spanruler { position: relative; color: var(--ink-3); }
+.spanruler__fill {
+  position: absolute;
+  left: 0; bottom: 0;
+  height: 3px;
+  border-radius: 2px;
+  background: var(--data-owned);
+  transition: width var(--dur-reveal) var(--ease-cine);
+}
+
+/* reviews — a dumbbell against the MEDIAN, with the skewed mean as a ghost. */
+.dumb { position: relative; height: 18px; }
+.dumb i { position: absolute; top: 50%; transform: translate(-50%, -50%); }
+.dumb__track {
+  left: 0; width: 100%; transform: translateY(-50%);
+  height: 1px; background: var(--ink-hair);
+}
+.dumb__line { height: 2px; background: var(--ink-4); transform: translateY(-50%); left: 0; }
+.dumb__ghost { width: 1px; height: 12px; background: var(--ink-4); opacity: .5; }
+.dumb__mkt { width: 7px; height: 7px; border-radius: 50%; background: var(--ink-4); }
+.dumb__you {
+  width: 9px; height: 9px; border-radius: 50%;
+  background: var(--data-you);
+  box-shadow: 0 0 0 2.5px var(--accent-lime);
+}
+
+/* ── P4 · intent polar ────────────────────────────────────────────────────── */
+.polar-host { display: flex; justify-content: center; }
+.polar { max-width: 330px; }
+.polar-mkt { fill: none; stroke: var(--ink-4); stroke-width: 1.2; stroke-dasharray: 3 4; }
+.polar-you { fill: var(--data-you); fill-opacity: .10; stroke: var(--data-you); stroke-width: 1.6; }
+.polar-you-line { stroke: var(--data-you); stroke-width: 1.6; }
+.polar-vertex { fill: var(--data-you); cursor: pointer; }
+.polar-stub { stroke: var(--data-absent); stroke-width: 3; stroke-linecap: round; opacity: .55; }
+.polar-label { fill: var(--ink-4); font-size: 9.5px; cursor: pointer; }
+.polar-label:hover, .polar-vertex:hover { fill: var(--ink-1); }
+
+/* ── P5 · the redrawn results page ────────────────────────────────────────── */
+.serp { display: flex; flex-direction: column; gap: 2px; }
+.serprow {
+  display: flex;
+  align-items: center;
+  gap: var(--sp-4);
+  padding: 9px var(--sp-3);
+  border-radius: var(--r-row);
+  transition: background var(--dur-micro) var(--ease-ui);
+}
+.serprow:hover { background: var(--sf-inner); }
+.serprow__pos { color: var(--ink-4); width: 34px; flex: none; text-align: right; font-size: 1.1rem; }
+.serprow__main { min-width: 0; flex: 1 1 auto; }
+.serprow__title { font-size: var(--fs-small); color: var(--ink-1); }
+.serprow__meta {
+  display: flex; align-items: center; gap: var(--sp-2);
+  font-size: var(--fs-micro); color: var(--ink-4); margin-top: 2px; flex-wrap: wrap;
+}
+.serprow__dom { font-family: var(--mono); }
+.serprow.is-you { background: var(--sf-inner); box-shadow: inset 0 0 0 1px var(--sf-ring); }
+
+/* The absence, made literal. This is the loss-aversion beat the raw screenshot
+   was trying and failing to deliver. */
+.serprow--ghost {
+  border: 1px dashed var(--jewel-caution-core);
+  background: transparent;
+  opacity: .95;
+}
+.serprow--ghost .serprow__title { color: var(--ink-3); }
+.serprow--ghost .serprow__meta { color: var(--jewel-caution-anchor); }
+
+.tag {
+  border-radius: var(--r-pill);
+  padding: 1px 7px;
+  background: var(--data-track);
+  color: var(--ink-3);
+}
+.serp-stepper button { max-width: 200px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
+/* Ownership swatches — one hue per kind, used here and in the market matrix. */
+:root {
+  --kind-own_clinic: var(--data-owned);
+  --kind-aggregator: var(--data-aggregator);
+  --kind-social: var(--data-social);
+  --kind-borrowed: var(--data-borrowed);
+  --kind-other: var(--data-outside);
+}
+
+/* ── P6 · the prescription stack ──────────────────────────────────────────── */
+.proj { display: flex; flex-direction: column; gap: var(--sp-3); padding-bottom: var(--sp-3); }
+.proj__head .row { align-items: baseline; gap: var(--sp-2); }
+.proj__arrow { color: var(--ink-4); font-size: 1.4rem; padding: 0 var(--sp-1); }
+.proj__after { color: var(--jewel-clear-core); }
+.proj__ruler { width: 100%; color: var(--ink-3); }
+.proj__ruler .tick { fill: var(--ink-3); opacity: var(--tick-alpha); }
+.proj__span { fill: var(--jewel-clear-core); opacity: .35; }
+.proj__now { fill: var(--ink-1); }
+.proj__goal { fill: var(--jewel-clear-core); filter: drop-shadow(0 0 5px var(--jewel-clear-core)); }
+
+.rx { position: relative; }
+.rx__card {
+  position: relative;
+  display: grid;
+  grid-template-columns: auto 1fr auto auto;
+  gap: var(--sp-4);
+  align-items: center;
+  transition: opacity var(--dur-state) var(--ease-ui);
+}
+.rx__card.is-off { opacity: .42; }
+.rx__gauge { display: flex; align-items: center; }
+.dose { fill: var(--ink-4); opacity: .22; }
+.dose--lit { fill: var(--jewel-clear-core); opacity: 1; }
+.rx__action { font-size: var(--fs-small); color: var(--ink-1); font-weight: var(--fw-medium); }
+.rx__move { text-align: right; }
+.rx__move .disp { font-size: 1.5rem; }
+.rx__toggle {
+  font-size: var(--fs-micro);
+  color: var(--ink-3);
+  border-radius: var(--r-pill);
+  padding: 4px 11px;
+  background: var(--sf-veil);
+  white-space: nowrap;
+}
+/* Deliberately NOT lime. Six prescription cards would put six limes on one page
+   and blow the ≤3 census the atlas sets — and lime only reads as loud because it
+   is rare. The pressed state is carried by the elevated rung and ink instead. */
+.rx__toggle[aria-pressed="true"] {
+  background: var(--sf-elev);
+  color: var(--ink-1);
+  box-shadow: 0 1px 3px var(--sf-ring), var(--rim);
+}
+
+/* The journey connector — a hairline threading the cards into an ordered course
+   of treatment rather than a checklist. */
+.rx__link {
+  position: absolute;
+  left: 22px;
+  bottom: calc(var(--sp-3) * -1);
+  width: 1px;
+  height: var(--sp-3);
+  background: var(--ink-4);
+  opacity: .5;
+}
+
+/* ── P7 · patient voice ───────────────────────────────────────────────────── */
+.voice { max-width: 230px; }
+.vdot--pos { fill: var(--data-owned); }
+.vdot--neg { fill: none; stroke: var(--data-absent); stroke-width: 1.4; }
+.pill--warn { background: var(--zone-hidden); color: var(--ink-2); }
+
+/* ── P8 · the constellation ───────────────────────────────────────────────── */
+.map-host { display: flex; justify-content: center; }
+.map { max-width: 320px; }
+.map-ring { stroke: var(--ink-hair); stroke-width: 1; }
+.map-km { fill: var(--ink-4); font-size: 8.5px; }
+.map-core { fill: none; stroke: var(--ink-3); stroke-width: 1.5; }
+.map-dot { cursor: pointer; transition: opacity var(--dur-micro) var(--ease-ui); }
+.map-dot--alarm { fill: var(--jewel-alarm-core); }
+.map-dot--caution { fill: var(--jewel-caution-core); }
+.map-dot--steady { fill: var(--jewel-steady-core); }
+.map-dot--clear { fill: var(--jewel-clear-core); }
+.map-dot.is-you { stroke: var(--data-you); stroke-width: 2.5; }
+.map-dot.is-out { opacity: .12; }

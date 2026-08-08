@@ -196,7 +196,9 @@
   font-variation-settings: var(--dot-round);
   font-weight: 320;
   font-size: var(--fs-dot-md);
-  line-height: 1;
+  /* Doto's glyphs overshoot their em box; line-height 1 shears the top row of
+     dots off every numeral. */
+  line-height: 1.16;
   letter-spacing: var(--ls-dot);
   color: var(--ink-1);
   font-variant-numeric: tabular-nums;
@@ -276,7 +278,6 @@
   width: 3px;
   border-radius: 2px;
   background: currentColor;
-  box-shadow: 0 0 6px currentColor;
   transition: left var(--dur-state) var(--ease-cine);
 }
 

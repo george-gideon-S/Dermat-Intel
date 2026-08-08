@@ -23,8 +23,10 @@
   overflow: hidden;              /* required for the edge-crop rule to clip */
 }
 
-/* Naked panels carry no surface at all — the metric IS the design. */
-.panel--naked { padding: var(--sp-2) 0; }
+/* Naked panels carry no surface at all — the metric IS the design. A little
+   horizontal padding is still needed: Doto's glyphs sit slightly left of their
+   origin, so a numeral flush to the grid line loses its first dot column. */
+.panel--naked { padding: var(--sp-2) var(--sp-2); }
 
 .panel__head {
   display: flex;
