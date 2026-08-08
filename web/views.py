@@ -139,8 +139,11 @@ def plan_impact(clinic: dict, clinics: list[dict], market: dict) -> dict:
         "website": lambda c: {**c, "has_website": True},
         "search": lambda c: {**c, "owned": max(c.get("owned") or 0, report.OWNED_FULL)},
         "maps": lambda c: {**c, "places": max(c.get("places") or 0, report.PLACES_FULL)},
+        # `or 1` mirrors report._components exactly. With `or 0`, a degenerate market
+        # (avg_reviews == 0) would "max" the component to 0 and the step would promise
+        # +15 points that the projection never delivers.
         "reviews": lambda c: {**c, "reviews": max(c.get("reviews") or 0,
-                                                  market.get("avg_reviews") or 0)},
+                                                  market.get("avg_reviews") or 1)},
         "phone": lambda c: {**c, "has_phone": True},
         "breadth": lambda c: {**c, "web_appearances": max(c.get("web_appearances") or 0,
                                                           report.BREADTH_FULL)},
@@ -149,15 +152,23 @@ def plan_impact(clinic: dict, clinics: list[dict], market: dict) -> dict:
     steps = []
     for comp in report.visibility_breakdown(clinic, market):
         key = comp["key"]
-        lift = comp["max"] - comp["earned"]
-        if lift < 2 or key not in maxed:
-            continue  # already earned, or within rounding noise
+        if key not in maxed or comp["max"] - comp["earned"] < 1:
+            continue  # nothing left to earn on this component
         variant = maxed[key](clinic)
         after = score(variant)
+        # The lift is the PROJECTED DELTA, not the component's headroom. The two
+        # differ by a point whenever rounding bites: visibility_breakdown rounds each
+        # component while visibility_score rounds the sum, so a half-point residue
+        # anywhere in the six components makes "+7" sit next to a score that moved 8.
+        # The card shows both numbers side by side, so they have to be the same
+        # arithmetic.
+        lift = after - now
+        if lift < 2:
+            continue  # below the noise floor once rounding is accounted for
         steps.append({
             "key": key,
             "label": comp["label"],
-            "lift": round(lift),
+            "lift": lift,
             "vis_after": after,
             "rank_after": rank_for(variant),
         })
@@ -178,16 +189,23 @@ def plan_impact(clinic: dict, clinics: list[dict], market: dict) -> dict:
 
 
 # ─────────────────────────────────────────────────────────── SERP real estate
-def _kind_of(platform: str, mapped_key: str) -> str:
-    """Who owns this block: one of our clinics, an aggregator, a social profile, or
-    somebody outside the Guntur market entirely."""
+def _kind_of(platform: str, mapped_key: str, is_own_site: bool = False) -> str:
+    """Who owns this block.
+
+    The owned-vs-borrowed distinction is the product's whole thesis, so a mapping
+    alone is NOT ownership: a Practo page *about* Dr X is X being carried by somebody
+    else's real estate, which is exactly what we sell against. Only the clinic's own
+    domain (or its paid placement) counts as owned.
+    """
     p = (platform or "").lower()
-    if mapped_key:
+    if is_own_site:
         return "own_clinic"
     if p in AGGREGATORS:
         return "aggregator"
     if p in SOCIAL:
         return "social"
+    if mapped_key:
+        return "borrowed"     # mapped, not our domain, not a platform we know
     return "other"
 
 
@@ -215,15 +233,19 @@ def serp_ownership(block_rows: list[dict]) -> dict:
         bucket = local_share.setdefault(btype, {"local": 0, "other": 0})
         bucket["local" if key else "other"] += 1
 
-        # Places blocks carry no domain; group them under their platform instead so
-        # the local pack still appears in the matrix rather than as one blank row.
-        domain = (r.get("domain") or "").strip().lower() or f"({r.get('platform') or 'unknown'})"
+        # Places blocks carry no domain, and the vision extraction missed the domain on
+        # some organic rows. Group those under their platform so the local pack still
+        # appears in the matrix rather than as one blank row — but flag the bucket, so
+        # the panel labels it "clinic sites (domain not captured)" instead of implying
+        # it is one site. On the live corpus that bucket is 226 blocks over 15 clinics.
+        raw_domain = (r.get("domain") or "").strip().lower()
+        domain = raw_domain or f"({r.get('platform') or 'unknown'})"
         d = by_domain.setdefault(domain, {
-            "domain": domain, "platform": r.get("platform") or "other",
-            "kind": _kind_of(r.get("platform"), key), "clinic_key": key or "",
-            "clinic": r.get("mapped_clinic") or "",
-            "blocks": 0, "queries": set(), "positions": [],
-            "by_type": Counter(),
+            "domain": domain, "platform": (r.get("platform") or "other"),
+            "domain_known": bool(raw_domain),
+            "blocks": 0, "mapped_blocks": 0, "own_site_blocks": 0,
+            "clinics": Counter(), "names": {},
+            "queries": set(), "positions": [], "by_type": Counter(),
         })
         d["blocks"] += 1
         d["by_type"][btype] += 1
@@ -232,20 +254,34 @@ def serp_ownership(block_rows: list[dict]) -> dict:
         pos = r.get("position")
         if not _isna(pos):
             d["positions"].append(int(pos))
-        if key and not d["clinic_key"]:  # first mapping wins, then it is stable
-            d["clinic_key"], d["clinic"] = key, r.get("mapped_clinic") or ""
-            d["kind"] = "own_clinic"
+        if key:
+            d["mapped_blocks"] += 1
+            d["clinics"][key] += 1
+            d["names"].setdefault(key, r.get("mapped_clinic") or "")
+            if r.get("is_own_site"):
+                d["own_site_blocks"] += 1
 
     domains = []
     for d in by_domain.values():
         positions = sorted(d["positions"])
+        # Kind is derived from the domain's AGGREGATE, never from whichever row
+        # happened to arrive first. A single mapped block on justdial.com must not
+        # relabel 126 aggregator blocks as one clinic's own real estate.
+        kind = _kind_of(d["platform"], "k" if d["mapped_blocks"] else "",
+                        is_own_site=d["own_site_blocks"] > 0)
+        # `clinic` is a single-clinic label, so it may only be set when the domain
+        # maps unambiguously. 12 live domains carry blocks from several clinics.
+        sole = d["clinics"].most_common(1)[0][0] if len(d["clinics"]) == 1 else ""
         domains.append({
             "domain": d["domain"],
+            "domain_known": d["domain_known"],
             "platform": d["platform"],
-            "kind": d["kind"],
-            "clinic_key": d["clinic_key"],
-            "clinic": d["clinic"],
+            "kind": kind,
+            "clinic_key": sole,
+            "clinic": d["names"].get(sole, ""),
+            "clinics": len(d["clinics"]),
             "blocks": d["blocks"],
+            "mapped_blocks": d["mapped_blocks"],
             "queries": len(d["queries"]),
             "by_type": {t: d["by_type"].get(t, 0) for t in BLOCK_ORDER},
             "best_position": positions[0] if positions else None,
@@ -294,7 +330,8 @@ def serp_page(block_rows: list[dict], query: str) -> list[dict]:
         "mapped_key": r.get("mapped_key") or "",
         "clinic": r.get("mapped_clinic") or "",
         "is_own_site": bool(r.get("is_own_site")),
-        "kind": _kind_of(r.get("platform"), r.get("mapped_key") or ""),
+        "kind": _kind_of(r.get("platform"), r.get("mapped_key") or "",
+                         is_own_site=bool(r.get("is_own_site"))),
     } for _, r in rows]
 
 

@@ -72,10 +72,37 @@ def test_compound_all_is_at_least_compound_top2():
     assert out["compound"]["all"]["vis"] >= out["compound"]["top2"]["vis"]
 
 
-def test_compound_top2_matches_the_first_two_steps():
+def test_lift_always_equals_the_projected_delta():
+    """Regression: `lift` used to come from visibility_breakdown (which rounds each
+    component) while `vis_after` came from visibility_score (which rounds the sum), so
+    a card could read "+7" beside a score that moved 8. The card shows both numbers
+    together, so they must be the same arithmetic.
+
+    The fixture is deliberately non-integral — places=4 of 8 and web_appearances=9 of
+    10 both produce half-point residues, which is what made the old code disagree.
+    """
+    c = clinic(has_website=True, places=4, web_appearances=9, reviews=90, has_phone=True)
+    out = views.plan_impact(c, _market(), MARKET)
+    assert out["steps"], "fixture should still have headroom"
+    for s in out["steps"]:
+        assert s["lift"] == s["vis_after"] - out["now"]["vis"], s["key"]
+
+
+def test_compound_top2_is_at_least_the_best_single_step():
     out = views.plan_impact(clinic(), _market(), MARKET)
-    top2_lift = sum(s["lift"] for s in out["steps"][:2])
-    assert out["compound"]["top2"]["vis"] == out["now"]["vis"] + top2_lift
+    best = max(s["vis_after"] for s in out["steps"])
+    assert out["compound"]["top2"]["vis"] >= best
+
+
+def test_a_degenerate_market_average_does_not_promise_a_phantom_review_gain():
+    """Regression: maxing reviews used `avg_reviews or 0` where the frozen module
+    divides by `avg_reviews or 1`. With a zero market average the step advertised
+    +15 points that the projection never delivered."""
+    c = clinic(reviews=0)
+    for market in ({"avg_reviews": 0.0}, {}):
+        out = views.plan_impact(c, [c], market)
+        for s in out["steps"]:
+            assert s["vis_after"] > out["now"]["vis"], f"{s['key']} promised nothing"
 
 
 def test_inputs_are_never_mutated():

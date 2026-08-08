@@ -44,20 +44,26 @@ def test_domain_matrix_is_exact():
     assert practo["by_type"]["sponsored_top"] == 0
 
 
-@pytest.mark.parametrize("platform,mapped,expected", [
-    ("practo", "", "aggregator"),
-    ("justdial", "", "aggregator"),
-    ("skedoc", "", "aggregator"),
-    ("instagram", "", "social"),
-    ("facebook", "", "social"),
-    ("clinic_site", "k1", "own_clinic"),
-    ("practo", "k1", "own_clinic"),      # a mapping always wins over the platform
-    ("clinic_site", "", "other"),        # a clinic site we could not map is out-of-market
-    ("something_new", "", "other"),
+@pytest.mark.parametrize("platform,mapped,own,expected", [
+    ("practo", "", False, "aggregator"),
+    ("justdial", "", False, "aggregator"),
+    ("skedoc", "", False, "aggregator"),
+    ("instagram", "", False, "social"),
+    ("facebook", "", False, "social"),
+    ("clinic_site", "k1", True, "own_clinic"),
+    # A Practo page ABOUT a clinic is that clinic being carried on somebody else's
+    # real estate — borrowed, not owned. This is the product's entire thesis, so a
+    # mapping must never outrank the platform family.
+    ("practo", "k1", False, "aggregator"),
+    ("instagram", "k1", False, "social"),
+    # Mapped, not our domain, not a platform we recognise.
+    ("clinic_site", "k1", False, "borrowed"),
+    ("clinic_site", "", False, "other"),   # unmappable clinic site = out of market
+    ("something_new", "", False, "other"),
 ])
-def test_kind_classification(platform, mapped, expected):
+def test_kind_classification(platform, mapped, own, expected):
     out = views.serp_ownership([block(platform=platform, mapped_key=mapped,
-                                      domain=f"{platform}.com")])
+                                      is_own_site=own, domain=f"{platform}.com")])
     assert out["domains"][0]["kind"] == expected
 
 
@@ -114,6 +120,45 @@ def test_empty_input_returns_a_zeroed_skeleton():
     assert out["totals"]["mapped"] == 0
     assert out["domains"] == []
     assert set(out["local_share"]) == set(views.BLOCK_ORDER)
+
+
+def test_one_mapped_block_does_not_annex_a_whole_aggregator_domain():
+    """Regression: the accumulator used to latch the FIRST mapped block and relabel
+    the entire domain as that clinic's own real estate. On the live corpus that made
+    42 of 95 domains 'own_clinic', covering 934 blocks when only 559 are mapped —
+    and it defeated the aggregator taxonomy for justdial, practo and lybrate.
+    """
+    rows = [block(domain="justdial.com", platform="justdial") for _ in range(99)]
+    rows.append(block(domain="justdial.com", platform="justdial", mapped_key="clinicA",
+                      mapped_clinic="Clinic A"))
+    d = views.serp_ownership(rows)["domains"][0]
+    assert d["kind"] == "aggregator"
+    assert d["blocks"] == 100 and d["mapped_blocks"] == 1
+
+
+def test_a_multi_clinic_domain_carries_no_single_clinic_label():
+    rows = [block(domain="justdial.com", platform="justdial", mapped_key="a", mapped_clinic="A"),
+            block(domain="justdial.com", platform="justdial", mapped_key="b", mapped_clinic="B")]
+    d = views.serp_ownership(rows)["domains"][0]
+    assert d["clinics"] == 2
+    assert d["clinic"] == "" and d["clinic_key"] == ""
+
+
+def test_an_unambiguous_domain_keeps_its_clinic_label():
+    rows = [block(domain="skinperfect.in", platform="clinic_site", mapped_key="a",
+                  mapped_clinic="Skin Perfect", is_own_site=True) for _ in range(3)]
+    d = views.serp_ownership(rows)["domains"][0]
+    assert d["clinics"] == 1 and d["clinic"] == "Skin Perfect"
+    assert d["kind"] == "own_clinic"
+
+
+def test_mapped_blocks_across_domains_reconcile_with_the_total():
+    """The matrix and the totals band sit in the same panel; they must agree."""
+    rows = [block(domain="a.com", mapped_key="k1"), block(domain="a.com"),
+            block(domain="b.com", mapped_key="k2"), block(domain="c.com")]
+    out = views.serp_ownership(rows)
+    assert sum(d["mapped_blocks"] for d in out["domains"]) == out["totals"]["mapped"]
+    assert sum(d["blocks"] for d in out["domains"]) == out["totals"]["blocks"]
 
 
 def test_domain_case_and_whitespace_are_normalised():
