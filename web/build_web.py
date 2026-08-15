@@ -414,23 +414,26 @@ _V3_JS = ["00-util", "10-palette", "20-store", "30-bus", "40-topbar", "45-picker
           "60-instruments", "70-app", "80-panels-clinic", "85-panels-market"]
 
 
-SUBJECTS = ("dots", "map", "none")
+SUBJECTS = ("none", "map", "dots", "mesh")
 
 
-def _subject_svg(which: str) -> str:
-    """The background subject the cards float over.
+def _subject_block(which: str) -> str:
+    """The background subject the cards float over — the whole element, because
+    the variant has to reach the CSS as a class.
 
-    Rendered from the committed web/guntur-geo.json at build time, so the dist
-    stays offline and self-contained: no tiles, no runtime fetch, no <img>. The
-    geometry carries classes only — every colour reaches it through
-    web/css/16-map.css and therefore through palette.json.
-
-    V4 formally compares the three variants; the default is the dot matrix
-    because it makes the identity's dot motif land at a fourth scale."""
-    if which == "none":
-        return ""
-    geo = maps.load_geo(WEB / "guntur-geo.json")
-    return maps.render_dotmap(geo) if which == "dots" else maps.render_map(geo)
+    Geometry for `map` and `dots` is rendered from the committed
+    web/guntur-geo.json at build time, so the dist stays offline and
+    self-contained: no tiles, no runtime fetch, no <img>. `mesh` is pure CSS.
+    The markup carries classes only; every colour reaches it through
+    web/css/16-map.css and therefore through palette.json."""
+    if which not in SUBJECTS:
+        raise ValueError(f"unknown subject {which!r}; expected one of {SUBJECTS}")
+    inner = ""
+    if which in ("map", "dots"):
+        geo = maps.load_geo(WEB / "guntur-geo.json")
+        inner = maps.render_dotmap(geo) if which == "dots" else maps.render_map(geo)
+    return (f'<div class="subject subject--{which}" id="subject" '
+            f'data-subject="{which}" aria-hidden="true">{inner}</div>')
 
 
 def _vintages() -> dict:
@@ -449,7 +452,7 @@ def _vintages() -> dict:
     }
 
 
-def build(subject: str = "none") -> str:
+def build(subject: str = "dots") -> str:
     """Private dist — the paid report app (v3 'instrument-grade' dashboards)."""
     payload = build_payload()
     payload["contact"] = {"whatsapp": config.WHATSAPP_NUMBER}
@@ -493,7 +496,7 @@ def build(subject: str = "none") -> str:
             .replace("{{ECHARTS}}", echarts_js)
             .replace("{{DATA}}", data_json)
             .replace("{{APP_JS}}", app_js)
-            .replace("{{SUBJECT}}", _subject_svg(subject)))
+            .replace("{{SUBJECT}}", _subject_block(subject)))
 
     out = DIST / "index.html"            # Vercel serves this at /
     out.write_text(html, encoding="utf-8")
@@ -588,13 +591,12 @@ if __name__ == "__main__":
     if "--public" in sys.argv:
         build_public()
     else:
-        # --subject=dots|map|none selects the background the cards float over.
-        # V4 builds all three and compares them; until it does, the default is
-        # `none` — the maps are built, tested and renderable, but WHERE the
-        # subject sits and how far it is held back is V4's call, and a badly
-        # placed one is worse than none.
+        # --subject=none|map|dots|mesh selects the background the cards float
+        # over. V4 built all four and compared them at 1:1; the dot matrix won
+        # and is the default. See docs/redesign/v4/BACKGROUND-DECISION.md — every
+        # variant stays in the tree, so this is one flag, not a one-way door.
         which = next((a.split("=", 1)[1] for a in sys.argv if a.startswith("--subject=")),
-                     "none")
+                     "dots")
         if which not in SUBJECTS:
             raise SystemExit(f"--subject must be one of {SUBJECTS}")
         build(subject=which)
