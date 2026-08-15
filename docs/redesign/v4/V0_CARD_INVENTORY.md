@@ -1,6 +1,9 @@
 # V0 · Card inventory + grid system — the v4 gate document
 
-> **Status: awaiting George's approval. No pixels have been drawn.**
+> **Status: APPROVED by George, 2026-08-15 — the 35 cards as listed, no trims.**
+> Open question 2 (the "AI answers" tile) stays **rejected** as written; open question 3 (the
+> raster amendment) is **deferred to V4**, where it only becomes live if the generated-gradient
+> background actually wins the comparison.
 > Approved plan: `~/.claude/plans/the-current-website-feels-bubbly-gosling.md`. Every data path
 > below exists in the shipped payload (`window.__DATA__`, 192.8 KB, 34 clinics) — 71 paths
 > verified against `web/build_web.py` / `web/views.py` / the live dist; every number below
@@ -43,6 +46,12 @@ exist in the v3 ladder, so V1 extends `palette.json` (the plan permits it) with:
   Glucose reference images (dark-tile field / ink-on-dark anchors) and append a dark section
   to the atlas — the measurement chain (reference → sampler → atlas → palette.json) stays
   unbroken.
+- **Dependency on the V4 background choice (the one assumption this doc carries).** The dark
+  rung exists because the background subject has a dark zone. That holds for the map and
+  dot-map variants; if the generated-gradient variant wins and reads light throughout, the
+  dark cards need a different anchor (a self-carried dark surface rather than a borrowed one).
+  This changes **no card's content, size, or position** — only which primitive some of them
+  wear. Re-validate at V4 before V5 builds the cards.
 
 Every card: quiet sentence-case grey label (no uppercase-tracked eyebrows — banned), one
 numeral in its correct register, one small viz, `↗` in the corner only where a drawer
