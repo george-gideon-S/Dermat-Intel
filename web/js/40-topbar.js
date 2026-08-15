@@ -115,6 +115,7 @@
            "M13.73 21a2 2 0 0 1-3.46 0"],
     account: ["M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2",
               "M12 11a4 4 0 1 0 0-8 4 4 0 0 0 0 8Z"],
+    grid: ["M3 3h7v7H3z", "M14 3h7v7h-7z", "M14 14h7v7h-7z", "M3 14h7v7H3z"],
   };
 
   function icon(name) {
@@ -186,8 +187,15 @@
     });
     lead.append(sw);
 
+    // The way back into the picker. The combobox switches clinic in one click;
+    // this reopens the full browse screen, which is the better surface when you
+    // do not already know the name you are looking for.
+    const browse = utilBtn("grid", "Browse all clinics");
+    browse.addEventListener("click", () => DI.picker && DI.picker.open());
+
     bar.append(lead, h("div.topbar__utility",
       combobox(),
+      browse,
       utilBtn("settings", "Settings"),
       utilBtn("bell", "Notifications"),
       utilBtn("account", "Account")));

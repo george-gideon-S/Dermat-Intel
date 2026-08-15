@@ -158,6 +158,12 @@
                     document.getElementById("shellfoot"));
     mountPage("clinic");
 
+    // The picker gates the dashboard on first visit only. It runs AFTER the
+    // mount so entering is instant and the charts already exist; they are
+    // resized on the way out, because a chart built inside a hidden container
+    // measured 0x0.
+    DI.picker.start();
+
     // Hover: emphasis only. Never a re-render, never a setOption.
     bus.on("hover", ({ key }) => {
       for (const rec of mounted.values()) {

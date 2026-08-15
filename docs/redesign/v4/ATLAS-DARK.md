@@ -211,7 +211,42 @@ subject is already desaturated by design). It lives with the other non-colour to
 - **The v3 sampler, its probe map and its samples are untouched** — `docs/redesign/v3/` is
   byte-identical after this pass, so the v3 atlas remains reproducible.
 
-## 7 · Open dependency
+## 7 · Also measured: Doto's ink coverage, and where the dot register stops working
+
+Not a dark-rung finding, but it came out of the same measure-don't-guess pass and V5 will
+need it when it places 35 cards full of numerals.
+
+The picker's visibility numerals were set in Doto and were barely readable. Sampling the
+rendered page rather than trusting the eye: the ink is exactly `--ink-1` (`#232323`, confirmed
+by reading the darkest pixel in the glyph box) — but **only 3% of the glyph box carries any
+ink at all.** Doto draws a dot grid with the off-dots absent, so it is pale by construction.
+
+Ink coverage of a rendered "13", swept:
+
+| | 300 | 400 | 500 | 600 |
+|---|---|---|---|---|
+| **ROND 100** | 3.2% | 4.6% | 5.7% | 7.4% |
+| **ROND 0** | 3.8% | 5.6% | 7.6% | 9.4% |
+
+Three things fall out:
+
+1. **Coverage tracks weight, not size.** 36px and 44px measure identically — scaling a faint
+   Doto numeral up does not make it darker, only bigger and faint.
+2. **Square dots buy ~25% more ink than round.** We cannot spend it: `ROND 100` is the
+   identity.
+3. **Weight cannot rescue it.** Even 600 — the legal ceiling — tops out near 9%.
+
+> **The rule this gives us: Doto is a LARGE register, and on small type it is a texture, not a
+> numeral.** It earns its keep at hero scale and on the jewels, where it is white on saturated
+> colour. Below roughly the medium register on a light field, a Doto numeral is decoration.
+
+The register rule already pointed here — *"if it counts something countable it is dot-matrix;
+if it spans, it is light"* — and a visibility score is an index on 0–100, not a count of
+countable things, exactly like the rank span that already rides `display-light` on the clinic
+hero. The picker's numerals are display-light for that reason, and it is a correct reading of
+the existing rule rather than an exception to it.
+
+## 8 · Open dependency
 
 The dark rung assumes **the background subject has a dark zone**. That holds for the map and
 dot-matrix variants. If V4's generated-gradient variant wins and reads light throughout, these

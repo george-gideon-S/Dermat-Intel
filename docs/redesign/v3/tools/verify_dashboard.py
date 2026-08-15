@@ -148,7 +148,18 @@ def run() -> int:
 
         page.goto(DIST.as_uri())
         page.wait_for_selector("body[data-di-ready='1']", timeout=30000)
+
+        # ── The picker gates the dashboard on first visit ──────────────────
+        # Every check below inspects the DASHBOARD, and a fresh browser context
+        # has no remembered choice, so the picker is up. Walk through it the way
+        # a user would rather than seeding storage: it needs no knowledge of the
+        # clinic keys, and it exercises the real path on every run. The picker
+        # gets its own dedicated pass at the end, on a second clean context.
+        if page.is_visible("#picker"):
+            page.locator(".pk__card").first.click()
         page.wait_for_timeout(600)
+        rep.check("the dashboard is reachable through the picker",
+                  page.is_hidden("#picker") and page.is_visible("#canvas"))
 
         # ── Pass 1 · design laws, on BOTH pages ────────────────────────────
         # Evaluating once at boot only ever inspected the clinic page, so the
@@ -311,6 +322,68 @@ def run() -> int:
         print("\nruntime")
         rep.check("no console errors", not errors, errors[:4])
         rep.check("no network requests (offline)", not offsite, offsite[:4])
+
+        # ── Pass 6 · the picker, on a context with genuinely empty storage ──
+        # A second context, because the first one has the key seeded and there
+        # is no honest way to un-remember inside it.
+        print("\nfirst run · the clinic picker")
+        fresh = browser.new_context(viewport={"width": 1440, "height": 950})
+        fp = fresh.new_page()
+        pick_errors = []
+        fp.on("pageerror", lambda e: pick_errors.append(str(e)))
+        fp.goto(DIST.as_uri())
+        fp.wait_for_selector("body[data-di-ready='1']", timeout=30000)
+        fp.wait_for_timeout(500)
+
+        rep.check("first run shows the picker, not the dashboard",
+                  fp.is_visible("#picker") and fp.is_hidden("#canvas"))
+        n_cards = fp.locator(".pk__card").count()
+        rep.check("the picker lists every clinic", n_cards == fp.evaluate("DI.CL.length"),
+                  f"{n_cards} cards")
+
+        fp.fill(".pk__search", "keerthi")
+        fp.wait_for_timeout(250)
+        rep.check("search narrows the picker",
+                  fp.locator(".pk__card").count() < n_cards,
+                  f"{fp.locator('.pk__card').count()} match 'keerthi'")
+
+        fp.fill(".pk__search", "zzzznotaclinic")
+        fp.wait_for_timeout(250)
+        rep.check("the picker has an empty state",
+                  fp.is_visible(".pk__empty") and fp.locator(".pk__card").count() == 0)
+
+        fp.fill(".pk__search", "")
+        fp.wait_for_timeout(250)
+        # Shot here, while the picker is actually on screen — after the reload
+        # below it is remembered and gone.
+        fp.screenshot(path=str(OUT / "picker-1440.png"), full_page=False)
+
+        want = fp.evaluate("DI.CL[5].display_name")
+        fp.locator(".pk__card").nth(5).click()
+        fp.wait_for_timeout(700)
+        rep.check("choosing a clinic enters the dashboard",
+                  fp.is_hidden("#picker") and fp.is_visible("#canvas"))
+        rep.check("the chosen clinic becomes the subject",
+                  fp.evaluate("DI.store.view().subject.display_name") == want,
+                  want[:40])
+
+        # The whole point of the screen: it must not ask twice.
+        fp.reload()
+        fp.wait_for_selector("body[data-di-ready='1']", timeout=30000)
+        fp.wait_for_timeout(500)
+        rep.check("the choice is remembered across a reload",
+                  fp.is_hidden("#picker")
+                  and fp.evaluate("DI.store.view().subject.display_name") == want)
+
+        # The key is namespaced because Chromium treats every file:// document
+        # as ONE shared origin — a bare key would collide with any other local
+        # page the user has open, including older builds of this report.
+        rep.check("the storage key is namespaced",
+                  fp.evaluate("Object.keys(localStorage).every(k => k.startsWith('derma-intel.'))"),
+                  fp.evaluate("Object.keys(localStorage).join(',')"))
+
+        rep.check("the picker raises no console errors", not pick_errors, pick_errors[:3])
+        fresh.close()
 
         browser.close()
 
