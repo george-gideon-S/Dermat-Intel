@@ -47,14 +47,24 @@
   --r-row: 16px;
   --r-pill: 999px;
 
-  --rail-w: 250px;
+  --topbar-h: 60px;
   --drawer-w: 420px;
   --canvas-max: 1720px;
   --row-h: 52px;
 
-  /* — Glass blur, per rung. Heavy blur belongs to Float alone. ————————— */
+  /* — The bento (v4). The row unit and gutter the card grid is cut on. ——— */
+  --bento-cols: 12;
+  --bento-gap: 16px;
+  --bento-row: 96px;
+
+  /* — Glass blur, per rung. Heavy blur belongs to Float alone. —————————
+     --blur-dark sits between Card and Float: the dark rung floats over an
+     IMAGE rather than a flat field, so legibility needs more blur than Card,
+     but the heavy Float blur stays reserved for the summary pill. No
+     saturate() — the background subject is desaturated by design. */
   --blur-veil: 8px;
   --blur-card: 14px;
+  --blur-dark: 18px;
   --blur-float: 26px;
 
   /* — Shadow. Nothing hard, nothing black. ——————————————————————————— */
@@ -78,8 +88,9 @@
   --ease-ui: cubic-bezier(.32, .72, 0, 1);
 
   /* — Layer ————————————————————————————————————————————————————————— */
+  --z-subject: 0;
   --z-canvas: 1;
-  --z-rail: 50;
+  --z-topbar: 50;
   --z-drawer: 200;
   --z-tip: 400;
 }

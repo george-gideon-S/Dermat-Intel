@@ -17,27 +17,20 @@
 }
 
 @media (max-width: 860px) {
-  body { grid-template-columns: 1fr; }
-
-  .rail {
-    position: static;
-    height: auto;
-    flex-direction: row;
-    flex-wrap: wrap;
-    align-items: center;
-    gap: var(--sp-3);
-    padding: var(--sp-4) var(--sp-4) var(--sp-2);
-    overflow: visible;
-  }
-  .rail-group { flex-direction: row; flex-wrap: wrap; }
-  .rail-title { display: none; }
-  .switch { flex-direction: row; gap: var(--sp-4); width: 100%; }
-  .combo { flex: 1 1 260px; }
+  /* The top bar wraps onto two rows rather than letting the utility cluster
+     ride over the nav pills. Both halves need min-width:0 or the clinic name —
+     which is a nowrap ellipsis span — refuses to shrink and pushes the cluster
+     back over the switch. The verifier caught exactly that: a real click on
+     the nav pill landed on the combo label instead. */
+  .topbar { flex-wrap: wrap; gap: var(--sp-3) var(--sp-4); padding: var(--sp-3) var(--sp-4); }
+  .topbar__lead { flex: 1 1 100%; gap: var(--sp-4); justify-content: space-between; }
+  .topbar__utility { flex: 1 1 100%; margin-left: 0; min-width: 0; }
+  .combo { flex: 1 1 auto; min-width: 0; }
+  .combo__btn { max-width: none; }
   .combo__pop { width: min(360px, calc(100vw - var(--sp-6))); }
-  .rail-foot { width: 100%; margin-top: 0; padding-top: var(--sp-2); }
-  /* Filter rows become chips in the strip. */
-  .rrow { width: auto; }
-  .rrow .lbl { max-width: 22ch; }
+
+  .titleblock { padding: var(--sp-5) var(--sp-4) var(--sp-2); }
+  .shellfoot { padding: var(--sp-4); }
 
   .canvas { grid-template-columns: 1fr; padding: var(--sp-4) var(--sp-4) var(--sp-8); }
   .panel { grid-column: 1 / -1 !important; grid-row: auto !important; }
@@ -47,15 +40,18 @@
 
 @media (max-width: 480px) {
   .canvas { gap: var(--sp-4); }
-  .panel--card { padding: var(--sp-4); }
+  .panel--card, .panel--dark { padding: var(--sp-4); }
   .strip { gap: var(--sp-4) var(--sp-5); }
+  /* The wordmark's city tag is the first thing to go when the bar is this
+     tight — the pills and the clinic name both outrank it. */
+  .wordmark .city { display: none; }
 }
 
 /* Print: the report is a sales artefact and doctors do print it. Flatten the
    glass (backdrop-filter does not print) and drop the interactive chrome. */
 @media print {
-  body { grid-template-columns: 1fr; }
-  .rail, .drawer, .drawer-scrim, .seg, .skip { display: none !important; }
+  .topbar, .drawer, .drawer-scrim, .seg, .skip, .subject, .expand,
+  .topbar__utility, .probestrip { display: none !important; }
   .panel--card {
     background: var(--sf-flatCard);
     backdrop-filter: none;
@@ -63,6 +59,21 @@
     border: 1px solid var(--ink-hair);
     break-inside: avoid;
   }
+  /* A dark card on paper is a solid block of toner and the light ink on it
+     vanishes. Flatten it to the same bordered white card as everything else. */
+  .panel--dark {
+    background: var(--sf-flatCard);
+    background-image: none;
+    backdrop-filter: none;
+    box-shadow: none;
+    border: 1px solid var(--ink-hair);
+    color: var(--ink-2);
+    break-inside: avoid;
+  }
+  .panel--dark .panel__head h2 { color: var(--ink-1); }
+  .panel--dark .panel__head .sub, .panel--dark .caveat { color: var(--ink-3); }
+  .panel--dark .panel__note { color: var(--ink-2); }
+  .panel--dark .inner { background: var(--sf-flatInner); }
   .canvas { padding: 0; }
 }
 

@@ -64,7 +64,7 @@ LAWS_JS = r"""
     '.canvas:not([hidden]) .jewel').length;
   const limeish = (c) => /rgb\(\s*220,\s*243,\s*6\s*\)/.test(c);
   out.lime = all.filter((el) => {
-    if (!el.closest('.canvas:not([hidden])') && !el.closest('.rail')) return false;
+    if (!el.closest('.canvas:not([hidden])') && !el.closest('.topbar') || el.closest('.shellfoot')) return false;
     if (el.closest('.probestrip')) return false;   // the calibration card is exempt
     const cs = getComputedStyle(el);
     return limeish(cs.backgroundColor);
@@ -186,7 +186,7 @@ def run() -> int:
         }""")
         page.wait_for_timeout(400)
         after = page.inner_text(".combo__btn .who")
-        rep.check("select propagates to the rail", before != after, f"{before!r} -> {after!r}")
+        rep.check("select propagates to the top bar", before != after, f"{before!r} -> {after!r}")
 
         page.click('.switch button[data-page="clinic"]')
         page.wait_for_timeout(700)

@@ -149,3 +149,90 @@
 .stack { display: flex; flex-direction: column; gap: var(--sp-3); }
 .row { display: flex; align-items: center; gap: var(--sp-3); flex-wrap: wrap; }
 .grow { flex: 1 1 auto; min-width: 0; }
+
+/* ══ v4 card primitives ═══════════════════════════════════════════════════════
+   The bento's row unit. `minmax(unit, auto)` rather than a fixed height: it
+   gives the v4 card sizes their 96px module while leaving the v3 panels — which
+   predate the unit and size themselves by content — free to grow. A hard
+   `grid-auto-rows` would clamp and overflow every one of them. */
+.canvas { grid-auto-rows: minmax(var(--bento-row), auto); }
+
+/* ── The dark rung ────────────────────────────────────────────────────────────
+   Measured in docs/redesign/v4/ATLAS-DARK.md. The finding that shapes this rule:
+   a dark card is NOT a new material. Every dark card in the reference is
+   BRIGHTER than the subject under it, and solving step = a*(255-backdrop) over
+   four within-image pairs put the alpha at ~.20 — the same white veil as every
+   other rung, over a dark backdrop instead of a light one.
+
+   Two states, because the subject does not exist yet:
+     · default            — the card carries its own dark ground (V1, and any v4
+                            card that sits on the light field)
+     · [data-subject=dark] — V4 flips the base to transparent so the veil borrows
+                            the background subject, which is the real recipe */
+.panel--dark {
+  --dark-base: var(--sfDark-flatSurface);
+  padding: var(--sp-5);
+  border-radius: var(--r-card);
+  color: var(--inkDark-2);
+  background-color: var(--dark-base);
+  background-image: linear-gradient(var(--sfDark-surface), var(--sfDark-surface));
+  backdrop-filter: blur(var(--blur-dark));
+  -webkit-backdrop-filter: blur(var(--blur-dark));
+  box-shadow: 0 10px 32px var(--sfDark-ring), inset 0 0 0 1px var(--sfDark-border);
+  overflow: hidden;              /* required for the edge-crop rule to clip */
+}
+body[data-subject="dark"] .panel--dark { --dark-base: transparent; }
+
+/* Dark ink is only ever legal on a dark rung, and light ink only on a light one.
+   The pairing is fixed (ATLAS-DARK.md §5.3) — --ink-1 on a dark card is
+   unreadable and --inkDark-1 on a light card is invisible. */
+.panel--dark .panel__head h2 { color: var(--inkDark-1); }
+.panel--dark .panel__head .sub { color: var(--inkDark-3); }
+.panel--dark .panel__note { color: var(--inkDark-2); }
+.panel--dark .panel__note b { color: var(--inkDark-1); }
+.panel--dark .caveat { color: var(--inkDark-3); }
+.panel--dark .irow { border-top-color: var(--inkDark-hair); }
+.panel--dark .irow__k { color: var(--inkDark-2); }
+.panel--dark .irow__k small { color: var(--inkDark-3); }
+.panel--dark .irow__v { color: var(--inkDark-2); }
+
+/* One level of nesting on the dark side too — never two. */
+.panel--dark .inner {
+  background: var(--sfDark-nested);
+  box-shadow: inset 0 0 0 1px var(--sfDark-border);
+}
+
+/* ── The expand affordance ────────────────────────────────────────────────────
+   A card shows the corner mark only when it actually opens a drawer, so the
+   mark means "there is more", never decoration. */
+.expand {
+  position: absolute;
+  top: var(--sp-4);
+  right: var(--sp-4);
+  width: 24px;
+  height: 24px;
+  display: grid;
+  place-items: center;
+  border-radius: var(--r-pill);
+  font-size: var(--fs-small);
+  line-height: 1;
+  color: var(--ink-4);
+  transition: background var(--dur-micro) var(--ease-ui), color var(--dur-micro) var(--ease-ui);
+}
+.expand:hover { background: var(--sf-elev); color: var(--ink-1); }
+.panel--dark .expand { color: var(--inkDark-3); }
+.panel--dark .expand:hover { background: var(--sfDark-nested); color: var(--inkDark-1); }
+
+/* Reduced transparency collapses every rung to its flat equivalent — the dark
+   ones included. */
+@media (prefers-reduced-transparency: reduce) {
+  .panel--card { background: var(--sf-flatCard); backdrop-filter: none; -webkit-backdrop-filter: none; }
+  .panel--dark {
+    background-image: none;
+    background-color: var(--sfDark-flatSurface);
+    backdrop-filter: none;
+    -webkit-backdrop-filter: none;
+  }
+  body[data-subject="dark"] .panel--dark { --dark-base: var(--sfDark-flatSurface); }
+  .panel--dark .inner { background: var(--sfDark-flatNested); }
+}

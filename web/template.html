@@ -11,9 +11,19 @@
 <body>
 <a class="skip" href="#canvas">Skip to the dashboard</a>
 
-<!-- The console rail. Pill rows float directly on the field: no panel background,
-     no dividing line, no darker column. 40-rail.js fills it. -->
-<aside class="rail" id="rail" aria-label="Report controls"></aside>
+<!-- The background subject. Empty at v4/V1 and invisible; V4 fills it with the
+     winning variant (styled map / dot matrix / generated ground). Cards that
+     overlap its dark zone flip to the dark rung of the glass ladder. -->
+<div class="subject" id="subject" aria-hidden="true"></div>
+
+<!-- The top bar. Pill nav on the left, utility cluster on the right. Replaced the
+     250px console rail in v4: names overflowed a narrow column, and the filters
+     belong on the surfaces they filter. 40-topbar.js fills it. -->
+<header class="topbar" id="topbar"></header>
+
+<!-- The editorial title block: big display line + one calm subtitle. Repainted on
+     page and subject change. -->
+<div class="titleblock" id="titleblock"></div>
 
 <!-- Both pages exist simultaneously; switching toggles [hidden] and resizes charts
      rather than re-rendering, so no chart is ever disposed and rebuilt. -->
@@ -21,6 +31,10 @@
   <section class="canvas" data-page="clinic" aria-label="Your clinic"></section>
   <section class="canvas" data-page="market" aria-label="The market" hidden></section>
 </main>
+
+<!-- Three datasets, three dates. Stating one "as of" would imply a freshness the
+     corpus does not have. Survived the rail's deletion by moving here. -->
+<footer class="shellfoot" id="shellfoot"></footer>
 
 <!-- One drawer serves every drill-in, so there is a single overlay system. -->
 <aside class="drawer" id="drawer" hidden aria-label="Details" tabindex="-1"></aside>

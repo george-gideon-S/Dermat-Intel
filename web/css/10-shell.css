@@ -1,30 +1,51 @@
-/* ── The shell: console rail + composed canvas + one drawer ────────────────────
-   The rail has NO panel background. Its rows are pills floating directly on the
-   same field as the canvas — no border, no darker column, no dividing line. That
-   is the single most characteristic thing about the reference's console, and a
-   panel background would undo it. */
+/* ── The shell: background subject + top bar + title block + canvas + drawer ───
+   v4 deleted the 250px console rail. The page is now a single column under a
+   sticky top bar, which is what lets a card grid use the full width and what
+   killed the overflowing clinic names in a 250px column.
+
+   The rail's jobs did not vanish, they relocated: the page switch became pills
+   in the bar, the clinic picker joined the utility cluster, the vintages moved
+   to the shell footer, and the thirteen facet rows were deleted outright —
+   filters belong on the surface they filter. */
 
 body {
-  display: grid;
-  grid-template-columns: var(--rail-w) minmax(0, 1fr);
+  display: flex;
+  flex-direction: column;
   min-height: 100dvh;
 }
 
-/* ── Rail ──────────────────────────────────────────────────────────────────── */
-.rail {
+/* ── The background subject ───────────────────────────────────────────────────
+   Empty and invisible at V1. V4 fills it with the winning variant (a styled
+   Guntur map, a dot matrix, or a generated ground) and the cards that overlap
+   its dark zone flip to the dark rung. Fixed rather than scrolling, so the
+   cards travel across it. */
+.subject {
+  position: fixed;
+  inset: 0;
+  z-index: var(--z-subject);
+  pointer-events: none;
+  background: var(--sf-field);
+}
+
+/* ── Top bar ──────────────────────────────────────────────────────────────────
+   Veil rung, not Card: the bar is chrome and must not read as a panel. It sits
+   on the field the same way the rail's rows did. */
+.topbar {
   position: sticky;
   top: 0;
-  align-self: start;
-  height: 100dvh;
-  overflow-y: auto;
-  overscroll-behavior: contain;
-  padding: var(--sp-5) var(--sp-4) var(--sp-4);
+  z-index: var(--z-topbar);
   display: flex;
-  flex-direction: column;
-  gap: var(--sp-4);
-  z-index: var(--z-rail);
-  scrollbar-width: thin;
+  align-items: center;
+  gap: var(--sp-5);
+  min-height: var(--topbar-h);
+  padding: var(--sp-3) var(--sp-6);
+  background: var(--sf-veil);
+  backdrop-filter: blur(var(--blur-float));
+  -webkit-backdrop-filter: blur(var(--blur-float));
+  box-shadow: 0 1px 0 var(--ink-hair);
 }
+.topbar__lead { display: flex; align-items: center; gap: var(--sp-6); min-width: 0; }
+.topbar__utility { display: flex; align-items: center; gap: var(--sp-2); margin-left: auto; }
 
 .wordmark {
   font: var(--fw-semi) var(--fs-title)/1 var(--sans);
@@ -32,92 +53,157 @@ body {
   display: flex;
   align-items: baseline;
   gap: var(--sp-2);
+  flex: none;
 }
 .wordmark .city { font-weight: var(--fw-body); color: var(--ink-4); font-size: var(--fs-body); }
 
-/* The big-type page switch — the reference's Data/Records pair. Not a tab bar:
-   no pill, no underline, no box. Weight and ink carry the state. */
-.switch { display: flex; flex-direction: column; gap: 2px; }
+/* ── The pill nav ─────────────────────────────────────────────────────────────
+   Same .switch / button[data-page] contract the rail used, restyled from
+   big-type rows into pills: active is a solid dark pill, inactive is quiet ink
+   on the field. Sentence case — an uppercase tracked label is banned. */
+.switch { display: flex; align-items: center; gap: var(--sp-1); }
 .switch button {
-  font: var(--fw-body) var(--fs-switch)/1.25 var(--sans);
-  letter-spacing: var(--ls-tight);
-  color: var(--ink-4);
-  transition: color var(--dur-state) var(--ease-ui);
-}
-.switch button[aria-current="page"] { color: var(--ink-1); font-weight: var(--fw-medium); }
-.switch button:hover { color: var(--ink-2); }
-
-.rail-group { display: flex; flex-direction: column; gap: 3px; }
-.rail-title {
-  font: var(--fw-body) var(--fs-micro)/1 var(--sans);
-  color: var(--ink-4);
-  padding: var(--sp-2) var(--sp-3) var(--sp-1);
-}
-
-/* Filter rows: icon + sentence-case label + right-aligned value pill. */
-.rrow {
-  display: flex;
-  align-items: center;
-  gap: var(--sp-2);
-  padding: 9px var(--sp-3);
+  padding: 7px var(--sp-4);
   border-radius: var(--r-pill);
-  background: var(--sf-veil);
-  backdrop-filter: blur(var(--blur-veil));
-  -webkit-backdrop-filter: blur(var(--blur-veil));
-  color: var(--ink-2);
-  font-size: var(--fs-small);
-  width: 100%;
-  transition: background var(--dur-state) var(--ease-ui), color var(--dur-state) var(--ease-ui);
+  font: var(--fw-body) var(--fs-small)/1.2 var(--sans);
+  color: var(--ink-3);
+  white-space: nowrap;
+  transition: background var(--dur-state) var(--ease-ui),
+              color var(--dur-state) var(--ease-ui);
 }
-.rrow:hover { background: var(--sf-elev); color: var(--ink-1); }
-.rrow[aria-pressed="true"] {
-  background: var(--sf-elev);
+.switch button:hover { color: var(--ink-1); background: var(--sf-veil); }
+.switch button[aria-current="page"] {
+  background: var(--ink-1);
+  color: var(--sf-flatInner);
+  font-weight: var(--fw-medium);
+}
+.switch button[aria-current="page"]:hover { background: var(--ink-1); color: var(--sf-flatInner); }
+
+/* Utility cluster buttons — icon only, 18px at stroke 1.5. */
+.ubtn {
+  display: grid;
+  place-items: center;
+  width: 34px;
+  height: 34px;
+  border-radius: var(--r-pill);
+  color: var(--ink-3);
+  flex: none;
+  transition: background var(--dur-micro) var(--ease-ui), color var(--dur-micro) var(--ease-ui);
+}
+.ubtn:hover { background: var(--sf-elev); color: var(--ink-1); }
+
+/* ── The editorial title block ────────────────────────────────────────────────
+   position/z-index are load-bearing, not decoration: `.subject` is a positioned
+   layer at z-index 0, and a positioned element paints above static content no
+   matter what the DOM order says. Without this the subject covers the title
+   with a field-coloured band and the page reads as blank space. Every content
+   block above the subject needs its own stacking position. */
+.titleblock {
+  position: relative;
+  z-index: var(--z-canvas);
+  padding: var(--sp-7) var(--sp-6) var(--sp-2);
+  max-width: var(--canvas-max);
+}
+.titleblock__display {
+  font: var(--fw-light) var(--fs-display)/var(--lh-tight) var(--sans);
+  letter-spacing: var(--ls-display);
   color: var(--ink-1);
-  box-shadow: var(--shadow-card), var(--rim);
+  text-wrap: balance;
+  max-width: 22ch;
 }
-.rrow .lbl { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
-.rrow .n {
-  margin-left: auto;
-  font: var(--fw-body) var(--fs-micro)/1.5 var(--mono);
+.titleblock__sub {
+  margin-top: var(--sp-3);
+  font-size: var(--fs-lede);
   color: var(--ink-3);
-  background: var(--sf-elev);
-  border-radius: var(--r-pill);
-  padding: 2px 8px;
-  box-shadow: 0 1px 3px var(--sf-ring);
+  line-height: 1.5;
+  max-width: 62ch;
+  text-wrap: pretty;
 }
-.rrow[aria-pressed="true"] .n { background: var(--sf-flatInner); color: var(--ink-2); }
-.rrow .dot { width: 7px; height: 7px; border-radius: 50%; flex: none; }
 
-.rail-clear {
-  align-self: flex-start;
-  font-size: var(--fs-micro);
-  color: var(--ink-3);
-  padding: var(--sp-1) var(--sp-3);
-  border-radius: var(--r-pill);
+/* ── Canvas ─────────────────────────────────────────────────────────────────── */
+.canvas-wrap { min-width: 0; position: relative; z-index: var(--z-canvas); }
+.canvas {
+  display: grid;
+  grid-template-columns: repeat(var(--bento-cols), minmax(0, 1fr));
+  gap: var(--bento-gap);
+  align-content: start;
+  padding: var(--sp-4) var(--sp-6) var(--sp-8);
+  max-width: var(--canvas-max);
 }
-.rail-clear:hover { color: var(--ink-1); background: var(--sf-veil); }
+.canvas[hidden] { display: none; }
 
-.rail-foot {
+/* ── Shell footer ─────────────────────────────────────────────────────────────
+   Three datasets, three dates. The rail stated them rather than implying one
+   "as of" across the whole corpus; that honesty rule survives the move. */
+.shellfoot {
+  position: relative;              /* above .subject — see .titleblock */
+  z-index: var(--z-canvas);
   margin-top: auto;
-  padding-top: var(--sp-4);
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: var(--sp-5);
+  flex-wrap: wrap;
+  padding: var(--sp-5) var(--sp-6) var(--sp-6);
   font-size: var(--fs-micro);
   color: var(--ink-4);
+  border-top: 1px solid var(--ink-hair);
+}
+.vintages {
+  display: grid;
+  grid-template-columns: auto auto;
+  gap: 2px var(--sp-3);
   line-height: 1.6;
 }
-.rail-foot dl { display: none; margin-top: var(--sp-2); }
-.rail-foot:hover dl, .rail-foot:focus-within dl { display: block; }
-.rail-foot dt { color: var(--ink-3); }
+.vintages dt { color: var(--ink-3); }
+
+/* ── Drawer: one overlay system for every drill-in ─────────────────────────── */
+.drawer {
+  position: fixed;
+  top: 0; right: 0;
+  width: min(var(--drawer-w), 92vw);
+  height: 100dvh;
+  z-index: var(--z-drawer);
+  overflow-y: auto;
+  padding: var(--sp-5);
+  background: var(--sf-flatInner);
+  box-shadow: var(--shadow-float);
+  transform: translateX(0);
+  transition: transform var(--dur-state) var(--ease-cine);
+}
+.drawer[hidden] { display: none; }
+.drawer-scrim {
+  position: fixed;
+  inset: 0;
+  z-index: calc(var(--z-drawer) - 1);
+  background: rgba(35, 35, 35, .18);
+  backdrop-filter: blur(2px);
+}
+.drawer-scrim[hidden] { display: none; }
+.drawer__head {
+  display: flex;
+  align-items: baseline;
+  gap: var(--sp-3);
+  margin-bottom: var(--sp-4);
+}
+.drawer__head h2 {
+  font: var(--fw-medium) var(--fs-title)/1.2 var(--sans);
+  letter-spacing: var(--ls-tight);
+}
+.drawer__close { margin-left: auto; color: var(--ink-3); font-size: var(--fs-body); }
+.drawer__close:hover { color: var(--ink-1); }
 
 /* ── The branded clinic selector ──────────────────────────────────────────────
-   A native <select> is banned by the design laws; the verifier counts them. */
+   A native <select> is banned by the design laws; the verifier counts them.
+   Ported from the rail unchanged apart from where the popover hangs. */
 .combo { position: relative; }
 .combo__btn {
-  width: 100%;
   display: flex;
   align-items: center;
   gap: var(--sp-2);
-  padding: 10px var(--sp-3);
-  border-radius: var(--r-row);
+  max-width: 280px;
+  padding: 7px var(--sp-3);
+  border-radius: var(--r-pill);
   background: var(--sf-elev);
   box-shadow: var(--shadow-card), var(--rim);
   font-size: var(--fs-small);
@@ -125,7 +211,6 @@ body {
 }
 .combo__btn .who { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .combo__btn .rank {
-  margin-left: auto;
   font-family: var(--mono);
   font-size: var(--fs-micro);
   color: var(--ink-3);
@@ -137,7 +222,7 @@ body {
   position: absolute;
   z-index: var(--z-tip);
   top: calc(100% + 6px);
-  left: 0;
+  right: 0;
   width: 320px;
   max-height: 60vh;
   display: flex;
@@ -183,53 +268,3 @@ body {
   padding: 1px 7px;
   flex: none;
 }
-
-/* ── Canvas ───────────────────────────────────────────────────────────────────
-   12 columns. Panel spans are deliberately 7/5, 8/4, 12 — never 6/6 or 4/4/4,
-   because even splits are the tell of a generated layout. */
-.canvas-wrap { min-width: 0; }
-.canvas {
-  display: grid;
-  grid-template-columns: repeat(12, minmax(0, 1fr));
-  gap: var(--sp-5);
-  align-content: start;
-  padding: var(--sp-6) var(--sp-6) var(--sp-8);
-  max-width: var(--canvas-max);
-}
-.canvas[hidden] { display: none; }
-
-/* ── Drawer: one overlay system for every drill-in ─────────────────────────── */
-.drawer {
-  position: fixed;
-  top: 0; right: 0;
-  width: min(var(--drawer-w), 92vw);
-  height: 100dvh;
-  z-index: var(--z-drawer);
-  overflow-y: auto;
-  padding: var(--sp-5);
-  background: var(--sf-flatInner);
-  box-shadow: var(--shadow-float);
-  transform: translateX(0);
-  transition: transform var(--dur-state) var(--ease-cine);
-}
-.drawer[hidden] { display: none; }
-.drawer-scrim {
-  position: fixed;
-  inset: 0;
-  z-index: calc(var(--z-drawer) - 1);
-  background: rgba(35, 35, 35, .18);
-  backdrop-filter: blur(2px);
-}
-.drawer-scrim[hidden] { display: none; }
-.drawer__head {
-  display: flex;
-  align-items: baseline;
-  gap: var(--sp-3);
-  margin-bottom: var(--sp-4);
-}
-.drawer__head h2 {
-  font: var(--fw-medium) var(--fs-title)/1.2 var(--sans);
-  letter-spacing: var(--ls-tight);
-}
-.drawer__close { margin-left: auto; color: var(--ink-3); font-size: var(--fs-body); }
-.drawer__close:hover { color: var(--ink-1); }

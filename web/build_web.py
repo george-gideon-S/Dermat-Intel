@@ -410,7 +410,7 @@ _V3_CSS = ["00-reset", "10-shell", "20-panels", "25-clinic", "27-market",
            "30-charts", "40-responsive"]
 # Numeric prefix IS the load order: the panel files call DI.app.register() at parse
 # time, so the app core has to be defined before them.
-_V3_JS = ["00-util", "10-palette", "20-store", "30-bus", "40-rail", "50-charts",
+_V3_JS = ["00-util", "10-palette", "20-store", "30-bus", "40-topbar", "50-charts",
           "60-instruments", "70-app", "80-panels-clinic", "85-panels-market"]
 
 

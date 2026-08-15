@@ -22,12 +22,22 @@
    *   mount(body, ctx)          build DOM/chart ONCE, return an api object
    *   update(api, ctx)          data or filter changed -> patch in place
    *   highlight(api, key)       hover -> emphasis only, never layout
+   *   expand(api, ctx)          optional; presence adds the corner ↗ and wires it
    *   subject   true = also re-render when the selected clinic changes
    */
   function register(def) { registry.push(def); }
 
+  /** Which rung the card sits on. `dark` is the v4 addition: a card that
+   *  overlaps the background subject's dark zone. Chosen by ROLE, never by
+   *  taste — mixing rungs on one ground is the failure ATLAS-DARK.md §5.2
+   *  exists to prevent. */
+  function rungClass(def) {
+    if (def.card === false) return ".panel--naked";
+    return def.rung === "dark" ? ".panel--dark" : ".panel--card";
+  }
+
   function panelShell(def) {
-    const el = h(`section.panel${def.card === false ? ".panel--naked" : ".panel--card"}`, {
+    const el = h(`section.panel${rungClass(def)}`, {
       style: { "--span": def.span || 12, "--rows": def.rows || 1 },
       data: { panel: def.id },
       "aria-label": def.title || def.id,
@@ -39,7 +49,17 @@
     }
     const body = h("div.panel__body.grow");
     el.append(body);
-    return { el, body };
+    // The corner mark appears only where a drawer actually opens, so it always
+    // means "there is more" rather than decorating the card.
+    let expand = null;
+    if (typeof def.expand === "function") {
+      expand = h("button.expand", {
+        type: "button", text: "↗",
+        "aria-label": `Expand ${def.title || def.id}`,
+      });
+      el.append(expand);
+    }
+    return { el, body, expand };
   }
 
   function mountPage(page) {
@@ -47,7 +67,7 @@
     if (!root || root.dataset.mounted === "1") return;
     const ctx = context();
     for (const def of registry.filter((d) => d.page === page)) {
-      const { el, body } = panelShell(def);
+      const { el, body, expand } = panelShell(def);
       root.append(el);
       let api = null;
       try {
@@ -55,6 +75,12 @@
       } catch (err) {
         console.error(`[panel:${def.id}] mount failed`, err);
         body.append(h("div.panel__note", { text: "This panel could not be drawn." }));
+      }
+      // Wired after mount so the handler receives the api the panel returned.
+      if (expand) {
+        expand.addEventListener("click", () => {
+          try { def.expand(api, context()); } catch (err) { console.error(`[panel:${def.id}] expand failed`, err); }
+        });
       }
       mounted.set(def.id, { def, api, host: el, body, version: ctx.version });
     }
@@ -127,7 +153,9 @@
       return;
     }
 
-    DI.rail.build(document.getElementById("rail"));
+    DI.topbar.build(document.getElementById("topbar"),
+                    document.getElementById("titleblock"),
+                    document.getElementById("shellfoot"));
     mountPage("clinic");
 
     // Hover: emphasis only. Never a re-render, never a setOption.
