@@ -170,7 +170,8 @@ def test_echarts_placeholder_keeps_its_exact_byte_sequence():
     assert "<script>{{ECHARTS}}</script>" in TEMPLATE
 
 
-@pytest.mark.parametrize("token", ["{{STYLES}}", "{{ECHARTS}}", "{{DATA}}", "{{APP_JS}}"])
+@pytest.mark.parametrize("token", ["{{STYLES}}", "{{ECHARTS}}", "{{DATA}}", "{{APP_JS}}",
+                                   "{{SUBJECT}}"])
 def test_each_placeholder_appears_exactly_once(token):
     assert TEMPLATE.count(token) == 1
 

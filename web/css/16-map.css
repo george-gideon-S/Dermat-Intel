@@ -1,0 +1,72 @@
+/* ── The Guntur map ───────────────────────────────────────────────────────────
+   Geometry is generated at build time by web/maps.py from the committed
+   web/guntur-geo.json; it carries CLASSES and nothing else. Every colour lives
+   here, against palette tokens, so a build-time-generated SVG still obeys the
+   one-place-for-colour rule.
+
+   Two renderings of the same extract: .map--real is the styled map, .map--dots
+   is the halftone. Both are used as a background subject and as a card surface,
+   so the sizing is done by the host, never here. */
+
+.map {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+/* Areas first, then strokes over them. Water and parks are the only two
+   non-neutral notes, and both are pulled most of the way to grey: this is a
+   ground for cards to sit on, not a map anybody navigates by. */
+.map__water { fill: var(--data-aggregator); opacity: .30; }
+.map__green { fill: var(--data-owned); opacity: .13; }
+
+.map__road {
+  fill: none;
+  stroke: var(--ink-1);
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  vector-effect: non-scaling-stroke;
+}
+/* Class carries weight, exactly as it does in the type system: the hierarchy is
+   width and alpha, never colour. */
+.map__road--trunk     { stroke-width: 2.2; opacity: .26; }
+.map__road--primary   { stroke-width: 1.7; opacity: .21; }
+.map__road--secondary { stroke-width: 1.2; opacity: .15; }
+.map__road--tertiary  { stroke-width: .9;  opacity: .10; }
+
+/* The dot matrix. The path is invisible — it exists only to be filled by the
+   one-dot pattern, which is what keeps thousands of dots free of DOM cost. */
+.map__dotfill { stroke: none; }
+.map__dot { fill: var(--ink-1); }
+
+/* ── As the background subject ────────────────────────────────────────────────
+   Held back hard. The subject is a ground, and the moment it competes with a
+   numeral it has failed — the first draft at .42 put visible grey dots straight
+   through the title.
+
+   `meet`, not `slice`. A cover-scaled map sizes its dots off the viewport's
+   ASPECT, so the same page grew 8px dots in a short window and 15px dots in a
+   tall one. Fitting instead keeps the pitch predictable, which matters more for
+   a texture than filling every corner does.
+
+   V4 decides where the subject actually sits — the Glucose references put it
+   centre-right with the left column of cards on the plain field, not full
+   bleed — so these are a sane starting point, not the final placement. */
+.subject .map { opacity: .16; }
+.subject .map--dots { opacity: .13; }
+
+/* Reduced transparency and print both want the ground gone rather than faint:
+   a halftone under text is the first thing to hurt legibility. */
+@media (prefers-reduced-transparency: reduce) {
+  .subject .map { display: none; }
+}
+@media print {
+  .subject { display: none !important; }
+}
+
+/* The attribution. OpenStreetMap's licence requires credit wherever the map is
+   shown, so it is rendered, not buried in a comment. */
+.map-credit {
+  font-size: var(--fs-micro);
+  color: var(--ink-4);
+}
