@@ -4,7 +4,10 @@
    the field, as the reference does with its KPI strip). */
 
 .panel {
-  grid-column: span var(--span, 12);
+  /* The cap is what every breakpoint moves, so a size never has to be
+     re-declared as a grid-column property. min() with a var works in the
+     shipped engine; the cap defaults to 12 so an un-capped context is a no-op. */
+  grid-column: span min(var(--span, 12), var(--bento-cap, 12));
   grid-row: span var(--rows, 1);
   min-width: 0;
   display: flex;
@@ -157,6 +160,26 @@
    `grid-auto-rows` would clamp and overflow every one of them. */
 .canvas { grid-auto-rows: minmax(var(--bento-row), auto); }
 
+/* The seven sizes, authored ONCE. 70-app.js writes the name as data-size and
+   this is the only place it means anything — which is what lets a media query
+   remap a whole class of card by redefining two variables.
+
+   Heights come out of the row unit: rows*96 + (rows-1)*16 = 208 / 320 / 432,
+   exactly the inventory's figures, so no token changes were needed. */
+.panel[data-size="stat"]  { --span: 3;  --rows: 2; }
+.panel[data-size="wide"]  { --span: 4;  --rows: 2; }
+.panel[data-size="half"]  { --span: 6;  --rows: 2; }
+.panel[data-size="tall"]  { --span: 3;  --rows: 3; }
+.panel[data-size="panel"] { --span: 6;  --rows: 3; }
+.panel[data-size="band"]  { --span: 12; --rows: 3; }
+.panel[data-size="hero"]  { --span: 12; --rows: 4; }
+
+/* Edge-crop container. The verifier's law 7 reads the crop's PARENT computed
+   overflow and fails on `visible` — and .panel__body sets no overflow, so a
+   bare .edge-crop dropped into a body fails the check even though the card
+   itself clips. Wrapping is therefore not a convenience, it is the compliance. */
+.crop { position: relative; overflow: hidden; }
+
 /* ── The dark rung ────────────────────────────────────────────────────────────
    Measured in docs/redesign/v4/ATLAS-DARK.md. The finding that shapes this rule:
    a dark card is NOT a new material. Every dark card in the reference is
@@ -191,6 +214,15 @@ body[data-subject="dark"] .panel--dark { --dark-base: transparent; }
 .panel--dark .panel__note { color: var(--inkDark-2); }
 .panel--dark .panel__note b { color: var(--inkDark-1); }
 .panel--dark .caveat { color: var(--inkDark-3); }
+/* The numerals. 20-panels.css recoloured the head, note and caveat for the dark
+   rung but never these, and both .dot-num and .disp resolve to --ink-1 — which
+   on --sfDark is unreadable. Every dark card in the inventory (YC-03, YC-19,
+   MK-01a) leads with a numeral, so this is a blocker, not a polish item. */
+.panel--dark .dot-num,
+.panel--dark .disp { color: var(--inkDark-1); }
+.panel--dark .unit,
+.panel--dark .metric__c { color: var(--inkDark-3); }
+.panel--dark .metric__c b { color: var(--inkDark-2); }
 .panel--dark .irow { border-top-color: var(--inkDark-hair); }
 .panel--dark .irow__k { color: var(--inkDark-2); }
 .panel--dark .irow__k small { color: var(--inkDark-3); }

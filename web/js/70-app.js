@@ -36,10 +36,37 @@
     return def.rung === "dark" ? ".panel--dark" : ".panel--card";
   }
 
+  /* The seven bento sizes (V0_CARD_INVENTORY.md §1). A v4 card declares the
+     NAME and the stylesheet owns what it means at each breakpoint.
+
+     Two measured reasons it has to work that way rather than writing the
+     numbers inline, as v3 did:
+
+     1. An inline custom property beats every stylesheet rule, and no media
+        query can override it. A card carrying style="--span: 3" keeps --span:3
+        at every width, so the reflow table simply could not be expressed.
+     2. --span cannot even tell the sizes apart. stat and tall are both 3
+        columns, half and panel both 6, band and hero both 12 — and the reflow
+        sends stat to 2 columns while tall goes to 4. The name has to survive
+        into the DOM or that rule is unwriteable.
+
+     Legacy v3 panels keep the inline vars byte-for-byte, so the two systems
+     coexist through a page-by-page cutover. */
+  const SIZES = ["stat", "wide", "half", "tall", "panel", "band", "hero"];
+
   function panelShell(def) {
+    const sized = SIZES.indexOf(def.size) >= 0;
+    if (def.size && !sized) console.warn(`[panel:${def.id}] unknown size ${def.size}`);
     const el = h(`section.panel${rungClass(def)}`, {
-      style: { "--span": def.span || 12, "--rows": def.rows || 1 },
-      data: { panel: def.id },
+      style: sized ? null : { "--span": def.span || 12, "--rows": def.rows || 1 },
+      data: {
+        panel: def.id,
+        size: sized ? def.size : null,
+        // Dense censuses go full-width on a phone so their dot pitch stays
+        // legible. It cannot be derived from the size — two of the three are
+        // `stat` and one is `half` — so it is its own flag.
+        dense: def.dense ? "1" : null,
+      },
       "aria-label": def.title || def.id,
     });
     if (def.title) {
