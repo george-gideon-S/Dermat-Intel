@@ -414,6 +414,44 @@ _V3_JS = ["00-util", "10-palette", "20-store", "30-bus", "40-topbar", "45-picker
           "60-instruments", "70-app", "80-panels-clinic", "85-panels-market"]
 
 
+"""Payload fields no surface reads.
+
+Verified by stripping comments from every file in web/js/ and grepping for each
+name, then cross-checking the v4 card specs — not by trusting a stale list. Two
+that the V0 inventory called prunable turned out to be live and are NOT here:
+`web.in_places` (the examination's local-pack instrument) and `proof.strength`
+(the SERP card's caption). A third, `kpis.unique_clinics`, feeds the market
+title block.
+
+Applied at the PRIVATE dist boundary only. build_public() serialises its own
+anonymised payload through a separate path, and its bytes are sha256-guarded.
+"""
+_PRUNE_CLINIC = ("benchmarks", "place_url", "notes", "address")
+_PRUNE_TOP = ("market", "median_appearances", "generated_at", "city", "contact")
+_PRUNE_KPI = ("avg_rating", "no_website_count", "pct_with_website", "total_appearances")
+_PRUNE_NLP = ("sentiment", "neg")
+
+
+def _prune(payload: dict) -> dict:
+    """Drop unread fields from a COPY. ~20 KB, and the dist has little headroom
+    left under the 1.2 MB cap with a second page of cards still to land."""
+    out = dict(payload)
+    for k in _PRUNE_TOP:
+        out.pop(k, None)
+    if isinstance(out.get("kpis"), dict):
+        out["kpis"] = {k: v for k, v in out["kpis"].items() if k not in _PRUNE_KPI}
+    clinics = []
+    for c in out.get("clinics", []):
+        c = {k: v for k, v in c.items() if k not in _PRUNE_CLINIC}
+        if isinstance(c.get("nlp"), dict):
+            c["nlp"] = {k: v for k, v in c["nlp"].items() if k not in _PRUNE_NLP}
+        if isinstance(c.get("proof"), dict):
+            c["proof"] = {k: v for k, v in c["proof"].items() if k != "screenshot"}
+        clinics.append(c)
+    out["clinics"] = clinics
+    return out
+
+
 SUBJECTS = ("none", "map", "dots", "mesh")
 
 
@@ -489,7 +527,7 @@ def build(subject: str = "dots") -> str:
         else (WEB / "js" / f"{n}.js").read_text(encoding="utf-8")
         for n in _V3_JS
     ])
-    data_json = json.dumps(payload, ensure_ascii=False).replace("</", "<\\/")  # avoid closing the <script>
+    data_json = json.dumps(_prune(payload), ensure_ascii=False).replace("</", "<\\/")  # avoid closing the <script>
 
     html = (template
             .replace("{{STYLES}}", css)
