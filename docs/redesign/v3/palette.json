@@ -1,8 +1,8 @@
 {
-  "$comment": "Derma Intel v3 — THE ONLY FILE IN THE REPO WHERE A COLOUR IS AUTHORED. gen_tokens.py walks this tree once and emits BOTH the CSS custom properties (--a-b-c) and the JS palette object (DI.P.a.b.c) that ECharts reads, because ECharts cannot resolve CSS variables. tests/test_design_laws_source.py fails the build if a raw hex or rgba literal appears anywhere in web/css/** or web/js/**. Values are reconciled from reference-samples.json per ATLAS.md — see the atlas before changing anything here.",
+  "$comment": "Derma Intel — THE ONLY FILE IN THE REPO WHERE A COLOUR IS AUTHORED. gen_tokens.py walks this tree once and emits BOTH the CSS custom properties (--a-b-c) and the JS palette object (DI.P.a.b.c) that ECharts reads, because ECharts cannot resolve CSS variables. tests/test_v3_source_laws.py fails the build if a raw hex or rgba literal appears anywhere in web/css/** or web/js/**. Values are reconciled from reference-samples.json per ATLAS.md (light) and ../v4/ATLAS-DARK.md (the dark rung) — see the atlas before changing anything here.",
   "$provenance": {
-    "measured": "sf.field, sf ladder deltas, ink.*, accent.lime, jewel.clear, jewel.steady, jewel.alarm (frame+core), jewel.index",
-    "derived": "jewel.caution (no butter/coral surface exists in the reference; anchored on the measured index amber #E1A162 and core #F37E1C), jewel.alarm.anchor, sf.sunken",
+    "measured": "sf.field, sf ladder deltas, ink.*, accent.lime, jewel.clear, jewel.steady, jewel.alarm (frame+core), jewel.index, sfDark.surface (4 within-image alpha solves), inkDark.1 (5 maxluma hits), inkDark.2 (single hit)",
+    "derived": "jewel.caution (no butter/coral surface exists in the reference; anchored on the measured index amber #E1A162 and core #F37E1C), jewel.alarm.anchor, sf.sunken, sfDark.nested, sfDark.border, sfDark.ring, sfDark.flat*, inkDark.3, inkDark.hair",
     "visually_read": "data.* chart hues — the reference's scatter dots are 5-8px and cannot be probed reliably. Re-verify against rendered output at P6."
   },
 
@@ -22,6 +22,15 @@
     "flatInner": "#FFFFFF"
   },
 
+  "sfDark": {
+    "surface": "rgba(255,255,255,.20)",
+    "nested": "rgba(255,255,255,.26)",
+    "border": "rgba(255,255,255,.14)",
+    "ring": "rgba(0,0,0,.24)",
+    "flatSurface": "#4B4B4B",
+    "flatNested": "#595959"
+  },
+
   "ink": {
     "1": "#232323",
     "2": "#5A5A5A",
@@ -29,6 +38,13 @@
     "4": "#B0B0B0",
     "hair": "rgba(35,35,35,.09)",
     "onMesh": "#FFFFFF"
+  },
+
+  "inkDark": {
+    "1": "#FFFFFF",
+    "2": "rgba(255,255,255,.80)",
+    "3": "rgba(255,255,255,.58)",
+    "hair": "rgba(255,255,255,.14)"
   },
 
   "accent": {

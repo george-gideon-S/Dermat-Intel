@@ -1,0 +1,79 @@
+{
+  "$comment": "Derma Intel v4 — the DARK-SURFACE probe map. v3 measured a light UI on a hue-neutral field and never needed a dark rung; v4's cards float over a background subject, so the glass ladder grows a dark side. Coordinates are FRACTIONS of image width/height so the map survives any resize. Read with docs/redesign/v4/tools/sample_reference.py, which adds a maxluma mode (light glyphs on a dark ground) and enforces the dark/light luma gates that v3 declared but never checked. Probe coordinates were AIMED, not guessed: a scratch locator scanned each image on a 60x40 grid for flat dark plateaus (p95-p05 < 14) and for light-text-on-dark cells (p50 < 105 and p95 > 175), and the coordinates below are those cells' centres.",
+  "$method": "The v3 reconciliation rule still governs: RELATIVE relationships come from raw deltas within one image; ABSOLUTE values come from cross-image consensus. For the dark rung the load-bearing measurement is the STEP — a card probe paired with a subject probe just outside that same card, in the same image, so the photographic cast cancels. Paired probes share a name stem: <thing>-subject / <thing>-card.",
+  "$honesty": "These references are 3D device renders of a photographed body under warm studio light. Every dark sample therefore carries a warm cast (R > G > B). Our identity is hue-neutral by measurement (ATLAS.md section 1: every v3 neutral probe returned R=G=B exactly), so the cast is an artefact of the reference and is NEUTRALISED downstream — we take the STEP and the ALPHA, never the hue. See ATLAS-DARK.md.",
+  "baseDir": "design/Added Inspiration",
+  "seededFrom": "docs/redesign/v3/reference-probes.json (same schema, same sampler lineage)",
+  "images": [
+    {
+      "file": "Glucose Monitoring Dashboard 3.png",
+      "white": "light-card-face",
+      "$why": "The largest, least foreshortened dark cards in the set: GLUCOSE (centre), SCORE CALCULATION (lower left) and CHOLESTEROL (lower right) all sit over the photographic subject, so this image carries the most card/subject pairs.",
+      "probes": [
+        { "name": "light-card-face", "x": 0.045, "y": 0.46, "mode": "avg", "r": 3, "expect": "neutral", "note": "white anchor candidate - the RANGE card on the light field" },
+        { "name": "field-light", "x": 0.25, "y": 0.03, "mode": "avg", "r": 3, "expect": "neutral", "note": "the light field, to confirm the v3 canvas law still holds here" },
+
+        { "name": "glucose-subject", "x": 0.42, "y": 0.475, "mode": "avg", "r": 4, "note": "PAIR A - bare subject immediately left of the GLUCOSE card" },
+        { "name": "glucose-card", "x": 0.575, "y": 0.412, "mode": "avg", "r": 4, "note": "PAIR A - GLUCOSE card body, located flat plateau" },
+        { "name": "glucose-card-2", "x": 0.575, "y": 0.487, "mode": "avg", "r": 4, "note": "PAIR A - second plateau lower in the same card" },
+
+        { "name": "score-subject", "x": 0.275, "y": 0.312, "mode": "avg", "r": 4, "note": "PAIR B - deep subject above the SCORE CALCULATION card" },
+        { "name": "score-card", "x": 0.175, "y": 0.637, "mode": "avg", "r": 4, "note": "PAIR B - SCORE CALCULATION card body" },
+        { "name": "score-card-2", "x": 0.192, "y": 0.688, "mode": "avg", "r": 4, "note": "PAIR B - second plateau in the same card" },
+
+        { "name": "chol-card", "x": 0.608, "y": 0.713, "mode": "avg", "r": 4, "note": "PAIR C - CHOLESTEROL card body" },
+        { "name": "chol-card-2", "x": 0.642, "y": 0.787, "mode": "avg", "r": 4, "note": "PAIR C - second plateau, nearer the card edge" },
+
+        { "name": "hero-numeral-on-dark", "x": 0.492, "y": 0.338, "mode": "maxluma", "r": 6, "expect": "light", "note": "the 149 - the brightest glyph register on a dark card" },
+        { "name": "hero-numeral-on-dark-2", "x": 0.542, "y": 0.738, "mode": "maxluma", "r": 6, "expect": "light", "note": "the 23 in CHOLESTEROL - cross-check of the same register" },
+        { "name": "label-on-dark", "x": 0.508, "y": 0.338, "mode": "maxluma", "r": 5, "expect": "light", "note": "second sample across the same numeral run" }
+      ]
+    },
+    {
+      "file": "Glucose Monitoring Dashboard 1.png",
+      "white": "light-card-face",
+      "$why": "The tablet render. Same card vocabulary at a different angle and exposure, which is what makes it a cross-image check rather than a repeat.",
+      "probes": [
+        { "name": "light-card-face", "x": 0.30, "y": 0.42, "mode": "avg", "r": 3, "expect": "neutral", "note": "white anchor candidate - METABOLIC SCORE card" },
+        { "name": "field-light", "x": 0.05, "y": 0.04, "mode": "avg", "r": 3, "expect": "neutral", "note": "corner field; the recon pass read #EBEBEB delta 0 here" },
+
+        { "name": "glucose-subject", "x": 0.60, "y": 0.30, "mode": "avg", "r": 4, "note": "PAIR A - bare subject above/left of the GLUCOSE card" },
+        { "name": "glucose-card", "x": 0.692, "y": 0.487, "mode": "avg", "r": 4, "note": "PAIR A - GLUCOSE card body, located flat plateau" },
+        { "name": "glucose-card-2", "x": 0.708, "y": 0.512, "mode": "avg", "r": 4, "note": "PAIR A - second plateau in the same card" },
+
+        { "name": "score-card", "x": 0.775, "y": 0.562, "mode": "avg", "r": 4, "note": "PAIR B - SCORE CALCULATION card body" },
+        { "name": "score-card-2", "x": 0.792, "y": 0.588, "mode": "avg", "r": 4, "note": "PAIR B - second plateau" },
+        { "name": "chol-card", "x": 0.875, "y": 0.787, "mode": "avg", "r": 4, "note": "PAIR C - CHOLESTEROL card body" },
+
+        { "name": "hero-numeral-on-dark", "x": 0.675, "y": 0.438, "mode": "maxluma", "r": 6, "expect": "light", "note": "the 149 on the GLUCOSE card" },
+        { "name": "hero-numeral-on-dark-2", "x": 0.525, "y": 0.713, "mode": "maxluma", "r": 6, "expect": "light", "note": "SCORE CALCULATION figures" },
+        { "name": "muted-on-dark", "x": 0.508, "y": 0.662, "mode": "maxluma", "r": 5, "expect": "light", "note": "smaller/dimmer type on dark - candidate for the secondary dark-ink rung" }
+      ]
+    },
+    {
+      "file": "Glucose Monitoring Dashboard 2.png",
+      "white": "light-card-face",
+      "$why": "Third exposure of the same system. Its dark cards are cropped by the frame, so it contributes ink and step cross-checks rather than new surfaces.",
+      "probes": [
+        { "name": "light-card-face", "x": 0.22, "y": 0.40, "mode": "avg", "r": 3, "expect": "neutral", "note": "white anchor candidate - METABOLIC SCORE card" },
+        { "name": "field-light", "x": 0.05, "y": 0.04, "mode": "avg", "r": 3, "expect": "neutral", "note": "corner field; recon read #EBEBEB delta 0" },
+        { "name": "glucose-subject", "x": 0.75, "y": 0.60, "mode": "avg", "r": 4, "note": "bare subject" },
+        { "name": "glucose-card", "x": 0.90, "y": 0.775, "mode": "avg", "r": 4, "note": "dark card body, right edge" },
+        { "name": "score-card", "x": 0.50, "y": 0.825, "mode": "avg", "r": 4, "note": "SCORE CALCULATION card body" }
+      ]
+    },
+    {
+      "file": "Warm Translucent background dashboard.jpeg",
+      "white": null,
+      "$why": "The purest structural reference for a dark rung: translucent panels over a warm dark ground with a hairline border, which is exactly the primitive v4 needs. Raw only - there is no white surface in this image to anchor a gain, and it is a JPEG, so compression noise inflates sigma. Taken for the STEP and the border, never for hue.",
+      "probes": [
+        { "name": "ground-deep", "x": 0.50, "y": 0.60, "mode": "avg", "r": 4, "note": "the warm dark ground between panels" },
+        { "name": "ground-deep-2", "x": 0.16, "y": 0.72, "mode": "avg", "r": 4, "note": "second ground sample, lower left" },
+        { "name": "panel-face", "x": 0.30, "y": 0.075, "mode": "avg", "r": 4, "note": "Position Tracking panel face - the translucent rung over that ground" },
+        { "name": "panel-face-2", "x": 0.45, "y": 0.05, "mode": "avg", "r": 4, "note": "second sample across the same panel" },
+        { "name": "panel-face-3", "x": 0.70, "y": 0.075, "mode": "avg", "r": 4, "note": "third sample, right end of the same panel" },
+        { "name": "panel-numeral", "x": 0.175, "y": 0.245, "mode": "maxluma", "r": 6, "expect": "light", "note": "the 68% gauge figure - light numeral on the dark panel" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,359 @@
+{
+  "generated": "2026-08-15 12:36 UTC",
+  "note": "raw = as sampled; calibrated = scaled so the image's white anchor maps to #FFFFFF. Neither is the final token value \u2014 see ATLAS-DARK.md for the reconciliation rule.",
+  "images": {
+    "Glucose Monitoring Dashboard 3.png": {
+      "size": "1254x941",
+      "whiteAnchor": "light-card-face",
+      "whiteGain": [
+        1.09,
+        1.09,
+        1.09
+      ],
+      "probes": {
+        "light-card-face": {
+          "raw": "#EAEAEA",
+          "mode": "avg",
+          "sigma": 0.0,
+          "delta": 0,
+          "luma": 234.0,
+          "note": "white anchor candidate - the RANGE card on the light field",
+          "calibrated": "#FFFFFF"
+        },
+        "field-light": {
+          "raw": "#E4E4E4",
+          "mode": "avg",
+          "sigma": 0.0,
+          "delta": 0,
+          "luma": 228.0,
+          "note": "the light field, to confirm the v3 canvas law still holds here",
+          "calibrated": "#F8F8F8"
+        },
+        "glucose-subject": {
+          "raw": "#170F04",
+          "mode": "avg",
+          "sigma": 1.0,
+          "delta": 19,
+          "luma": 16.1,
+          "note": "PAIR A - bare subject immediately left of the GLUCOSE card",
+          "calibrated": "#191004"
+        },
+        "glucose-card": {
+          "raw": "#443F35",
+          "mode": "avg",
+          "sigma": 0.9,
+          "delta": 15,
+          "luma": 63.4,
+          "note": "PAIR A - GLUCOSE card body, located flat plateau",
+          "calibrated": "#4A453A"
+        },
+        "glucose-card-2": {
+          "raw": "#4D4944",
+          "mode": "avg",
+          "sigma": 0.9,
+          "delta": 9,
+          "luma": 73.6,
+          "note": "PAIR A - second plateau lower in the same card",
+          "calibrated": "#54504A"
+        },
+        "score-subject": {
+          "raw": "#343230",
+          "mode": "avg",
+          "sigma": 1.0,
+          "delta": 4,
+          "luma": 50.4,
+          "note": "PAIR B - deep subject above the SCORE CALCULATION card",
+          "calibrated": "#393634"
+        },
+        "score-card": {
+          "raw": "#453F3A",
+          "mode": "avg",
+          "sigma": 0.6,
+          "delta": 11,
+          "luma": 64.2,
+          "note": "PAIR B - SCORE CALCULATION card body",
+          "calibrated": "#4B453F"
+        },
+        "score-card-2": {
+          "raw": "#413D3A",
+          "mode": "avg",
+          "sigma": 0.0,
+          "delta": 7,
+          "luma": 61.9,
+          "note": "PAIR B - second plateau in the same card",
+          "calibrated": "#47423F"
+        },
+        "chol-card": {
+          "raw": "#504A46",
+          "mode": "avg",
+          "sigma": 1.0,
+          "delta": 10,
+          "luma": 75.3,
+          "note": "PAIR C - CHOLESTEROL card body",
+          "calibrated": "#57514C"
+        },
+        "chol-card-2": {
+          "raw": "#57514D",
+          "mode": "avg",
+          "sigma": 0.6,
+          "delta": 10,
+          "luma": 82.3,
+          "note": "PAIR C - second plateau, nearer the card edge",
+          "calibrated": "#5F5854"
+        },
+        "hero-numeral-on-dark": {
+          "raw": "#FFFCF9",
+          "mode": "maxluma",
+          "sigma": 77.7,
+          "delta": 6,
+          "luma": 252.6,
+          "note": "the 149 - the brightest glyph register on a dark card",
+          "calibrated": "#FFFFFF"
+        },
+        "hero-numeral-on-dark-2": {
+          "raw": "#FCFBF8",
+          "mode": "maxluma",
+          "sigma": 67.6,
+          "delta": 4,
+          "luma": 251.0,
+          "note": "the 23 in CHOLESTEROL - cross-check of the same register",
+          "calibrated": "#FFFFFF"
+        },
+        "label-on-dark": {
+          "raw": "#F7F5F1",
+          "mode": "maxluma",
+          "sigma": 68.7,
+          "delta": 6,
+          "luma": 245.1,
+          "note": "second sample across the same numeral run",
+          "calibrated": "#FFFFFF"
+        }
+      }
+    },
+    "Glucose Monitoring Dashboard 1.png": {
+      "size": "1247x928",
+      "whiteAnchor": "light-card-face",
+      "whiteGain": [
+        1.114,
+        1.114,
+        1.114
+      ],
+      "probes": {
+        "light-card-face": {
+          "raw": "#E5E5E5",
+          "mode": "avg",
+          "sigma": 0.0,
+          "delta": 0,
+          "luma": 229.0,
+          "note": "white anchor candidate - METABOLIC SCORE card",
+          "calibrated": "#FFFFFF"
+        },
+        "field-light": {
+          "raw": "#EBEBEB",
+          "mode": "avg",
+          "sigma": 0.8,
+          "delta": 0,
+          "luma": 235.0,
+          "note": "corner field; the recon pass read #EBEBEB delta 0 here",
+          "calibrated": "#FFFFFF"
+        },
+        "glucose-subject": {
+          "raw": "#1B130A",
+          "mode": "avg",
+          "sigma": 0.9,
+          "delta": 17,
+          "luma": 20.4,
+          "note": "PAIR A - bare subject above/left of the GLUCOSE card",
+          "calibrated": "#1E150B"
+        },
+        "glucose-card": {
+          "raw": "#383532",
+          "mode": "avg",
+          "sigma": 1.0,
+          "delta": 6,
+          "luma": 53.6,
+          "note": "PAIR A - GLUCOSE card body, located flat plateau",
+          "calibrated": "#3E3B38"
+        },
+        "glucose-card-2": {
+          "raw": "#3C3934",
+          "mode": "avg",
+          "sigma": 5.9,
+          "delta": 8,
+          "luma": 57.3,
+          "note": "PAIR A - second plateau in the same card",
+          "calibrated": "#433F3A"
+        },
+        "score-card": {
+          "raw": "#4C4842",
+          "mode": "avg",
+          "sigma": 1.0,
+          "delta": 10,
+          "luma": 72.5,
+          "note": "PAIR B - SCORE CALCULATION card body",
+          "calibrated": "#555049"
+        },
+        "score-card-2": {
+          "raw": "#4F4B45",
+          "mode": "avg",
+          "sigma": 0.9,
+          "delta": 10,
+          "luma": 75.5,
+          "note": "PAIR B - second plateau",
+          "calibrated": "#58544D"
+        },
+        "chol-card": {
+          "raw": "#514D49",
+          "mode": "avg",
+          "sigma": 0.7,
+          "delta": 8,
+          "luma": 77.7,
+          "note": "PAIR C - CHOLESTEROL card body",
+          "calibrated": "#5A5651"
+        },
+        "hero-numeral-on-dark": {
+          "raw": "#FDFBF7",
+          "mode": "maxluma",
+          "sigma": 78.2,
+          "delta": 6,
+          "luma": 251.1,
+          "note": "the 149 on the GLUCOSE card",
+          "calibrated": "#FFFFFF"
+        },
+        "hero-numeral-on-dark-2": {
+          "raw": "#F5F4F2",
+          "mode": "maxluma",
+          "sigma": 83.3,
+          "delta": 3,
+          "luma": 244.1,
+          "note": "SCORE CALCULATION figures",
+          "calibrated": "#FFFFFF"
+        },
+        "muted-on-dark": {
+          "raw": "#D4D0CC",
+          "mode": "maxluma",
+          "sigma": 53.1,
+          "delta": 8,
+          "luma": 208.7,
+          "note": "smaller/dimmer type on dark - candidate for the secondary dark-ink rung",
+          "calibrated": "#ECE8E3"
+        }
+      }
+    },
+    "Glucose Monitoring Dashboard 2.png": {
+      "size": "1178x781",
+      "whiteAnchor": "light-card-face",
+      "whiteGain": [
+        1.175,
+        1.175,
+        1.175
+      ],
+      "probes": {
+        "light-card-face": {
+          "raw": "#D9D9D9",
+          "mode": "avg",
+          "sigma": 19.4,
+          "delta": 0,
+          "luma": 217.0,
+          "note": "white anchor candidate - METABOLIC SCORE card",
+          "calibrated": "#FFFFFF"
+        },
+        "field-light": {
+          "raw": "#EBEBEB",
+          "mode": "avg",
+          "sigma": 0.6,
+          "delta": 0,
+          "luma": 235.0,
+          "note": "corner field; recon read #EBEBEB delta 0",
+          "calibrated": "#FFFFFF"
+        },
+        "glucose-subject": {
+          "raw": "#373025",
+          "mode": "avg",
+          "sigma": 17.5,
+          "delta": 18,
+          "luma": 48.8,
+          "note": "bare subject",
+          "calibrated": "#41382B"
+        },
+        "glucose-card": {
+          "raw": "#494540",
+          "mode": "avg",
+          "sigma": 0.0,
+          "delta": 9,
+          "luma": 69.6,
+          "note": "dark card body, right edge",
+          "calibrated": "#56514B"
+        },
+        "score-card": {
+          "raw": "#423E39",
+          "mode": "avg",
+          "sigma": 0.5,
+          "delta": 9,
+          "luma": 62.6,
+          "note": "SCORE CALCULATION card body",
+          "calibrated": "#4E4943"
+        }
+      }
+    },
+    "Warm Translucent background dashboard.jpeg": {
+      "size": "1202x870",
+      "whiteAnchor": null,
+      "whiteGain": null,
+      "probes": {
+        "ground-deep": {
+          "raw": "#3E261F",
+          "mode": "avg",
+          "sigma": 0.6,
+          "delta": 31,
+          "luma": 44.4,
+          "note": "the warm dark ground between panels"
+        },
+        "ground-deep-2": {
+          "raw": "#261512",
+          "mode": "avg",
+          "sigma": 1.8,
+          "delta": 20,
+          "luma": 25.7,
+          "note": "second ground sample, lower left"
+        },
+        "panel-face": {
+          "raw": "#805D59",
+          "mode": "avg",
+          "sigma": 0.8,
+          "delta": 39,
+          "luma": 103.0,
+          "note": "Position Tracking panel face - the translucent rung over that ground"
+        },
+        "panel-face-2": {
+          "raw": "#80615E",
+          "mode": "avg",
+          "sigma": 0.5,
+          "delta": 34,
+          "luma": 105.9,
+          "note": "second sample across the same panel"
+        },
+        "panel-face-3": {
+          "raw": "#765D60",
+          "mode": "avg",
+          "sigma": 0.9,
+          "delta": 25,
+          "luma": 100.8,
+          "note": "third sample, right end of the same panel"
+        },
+        "panel-numeral": {
+          "raw": "#AC846B",
+          "mode": "maxluma",
+          "sigma": 1.3,
+          "delta": 65,
+          "luma": 141.1,
+          "note": "the 68% gauge figure - light numeral on the dark panel"
+        }
+      }
+    }
+  },
+  "warnings": [
+    "Glucose Monitoring Dashboard 2.png/light-card-face: sigma 19.4 > 8.0 \u2014 patch straddles an edge, sample unreliable",
+    "Warm Translucent background dashboard.jpeg/panel-numeral: expected light but luma is 141 (#AC846B) \u2014 probe likely missed the glyph and sampled its card"
+  ]
+}
