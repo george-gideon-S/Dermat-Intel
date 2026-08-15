@@ -240,6 +240,35 @@ Three things fall out:
 > numeral.** It earns its keep at hero scale and on the jewels, where it is white on saturated
 > colour. Below roughly the medium register on a light field, a Doto numeral is decoration.
 
+### The size floor, confirmed a second time on the built page
+
+The rule above was derived on the picker. When the 19 Your Clinic cards landed, the same
+measurement run against the real dashboard put numbers on how far it generalises:
+
+| Register, as rendered on the clinic page | Ink coverage |
+|---|---|
+| Doto 24px, weight 500 (the small stat tier) | **2.1 – 5.5%** |
+| Doto 36px, weight 500 | **5.1%** |
+| display-light (Geist 300) | **69.3%** |
+
+A 13-to-33× difference, on cards whose entire job is to be scanned. Seven cards were affected.
+
+> **So the register rule keeps its logic and gains a FLOOR.** A count still *wants* the dot
+> register — but below the medium step the dot register does not exist, and the numeral takes
+> the light face instead. This is a refinement, not a repeal: nothing about "counts are
+> dot-matrix, spans are light" changes, it simply stops applying at a size where the face
+> cannot deliver ink.
+
+**Where Doto survives:** the jewel heroes, and only there. White on saturated chroma at 54px+
+is the one context in this product where the dot grid has both the scale and the contrast to
+read as a numeral. Exactly one `.dot-num` element now remains on the whole clinic page, and it
+is the visibility jewel's hero.
+
+**Still open for George:** even at 36px on the light field, Doto measures ~5%. If the dot
+register is to appear anywhere outside a jewel, it needs a hero-scale slot of its own. Retiring
+`dot-ink` from light surfaces altogether is the logical end of this measurement, but it is a
+brand call rather than a legibility one, so it has not been taken.
+
 The register rule already pointed here — *"if it counts something countable it is dot-matrix;
 if it spans, it is light"* — and a visibility score is an index on 0–100, not a count of
 countable things, exactly like the rank span that already rides `display-light` on the clinic

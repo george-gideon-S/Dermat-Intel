@@ -19,7 +19,9 @@
    *   card     render on the Card rung (default true); false = naked on the field
    *   title    panel heading
    *   sub      quiet sub-heading
-   *   mount(body, ctx)          build DOM/chart ONCE, return an api object
+   *   aria     accessible name when the card carries no visible title
+   *   tools    true = the head gets a right-aligned slot, handed to mount()
+   *   mount(body, ctx, slots)   build DOM/chart ONCE, return an api object
    *   update(api, ctx)          data or filter changed -> patch in place
    *   highlight(api, key)       hover -> emphasis only, never layout
    *   expand(api, ctx)          optional; presence adds the corner ↗ and wires it
@@ -67,11 +69,18 @@
         // `stat` and one is `half` — so it is its own flag.
         dense: def.dense ? "1" : null,
       },
-      "aria-label": def.title || def.id,
+      // A jewel card carries its own label inside the mesh, so it ships no <h2>
+      // and would otherwise be announced by its panel id.
+      "aria-label": def.title || def.aria || def.id,
     });
+    let tools = null;
     if (def.title) {
       const head = h("div.panel__head", h("h2", { text: def.title }));
       if (def.sub) head.append(h("span.sub", { text: def.sub }));
+      // The shell owns the tools slot. v3's SERP panel reached back out of its
+      // own body to find the head and inject one, which is a panel editing the
+      // shell — the slot is declared here instead and handed to mount().
+      if (def.tools) { tools = h("div.tools"); head.append(tools); }
       el.append(head);
     }
     const body = h("div.panel__body.grow");
@@ -86,7 +95,7 @@
       });
       el.append(expand);
     }
-    return { el, body, expand };
+    return { el, body, expand, tools };
   }
 
   function mountPage(page) {
@@ -94,11 +103,11 @@
     if (!root || root.dataset.mounted === "1") return;
     const ctx = context();
     for (const def of registry.filter((d) => d.page === page)) {
-      const { el, body, expand } = panelShell(def);
+      const { el, body, expand, tools } = panelShell(def);
       root.append(el);
       let api = null;
       try {
-        api = def.mount ? def.mount(body, ctx) : null;
+        api = def.mount ? def.mount(body, ctx, { tools, panel: el }) : null;
       } catch (err) {
         console.error(`[panel:${def.id}] mount failed`, err);
         body.append(h("div.panel__note", { text: "This panel could not be drawn." }));

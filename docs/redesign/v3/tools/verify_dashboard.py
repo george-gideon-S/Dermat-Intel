@@ -203,10 +203,24 @@ def run() -> int:
         page.wait_for_timeout(700)
         # `or bool(hero)` made this unfailable. Assert the hero actually shows the
         # NEW subject's rank, which is a fact only a real propagation produces.
+        #
+        # Resolved against a candidate list and read defensively. page.inner_text
+        # on a missing selector does not fail the check — it RAISES at the 30 s
+        # timeout and takes the whole run down, so every check after it silently
+        # never executes. A verifier that stops reporting the moment one id
+        # changes is worse than one that reports a failure, and the v4 cutover
+        # renames a panel per page.
         want_rank = page.evaluate("DI.store.view().subject.visibility_rank")
-        hero = page.inner_text('[data-panel="twin-jewels"] .j-sub')
+        hero = ""
+        for sel in ('[data-panel="yc01-visibility"] .j-sub',
+                    '[data-panel="twin-jewels"] .j-sub'):
+            loc = page.locator(sel)
+            if loc.count():
+                hero = loc.first.inner_text()
+                break
         rep.check("select propagates to the hero", f"{want_rank} of " in hero,
-                  f"expected rank {want_rank} in {hero[:52]!r}")
+                  f"expected rank {want_rank} in {hero[:52]!r}" if hero
+                  else "no visibility-jewel sub-line found on the clinic page")
 
         # hover: emphasis must reach other panels without a re-render
         page.click('.switch button[data-page="market"]')
