@@ -367,6 +367,12 @@ def build_payload() -> dict:
     payload["funnel"] = [{"step": s, "count": n} for s, n in analytics.presence_funnel(ok)]
     payload["bands"] = views.visibility_bands(clinics)
     payload["facets"] = views.market_facets(clinics)
+    # The map card's projection, and ONLY the projection. MK-01 draws its 34 pins
+    # over the styled SVG cloned from <template id="di-mapcard">, so the browser
+    # needs the same bbox and viewBox maps.project used — but not the geometry
+    # (23.7 KB and a second renderer in JS). VIEW_H is computed here and shipped;
+    # recomputing it in JS would let a rounding disagreement move every pin.
+    payload["geo"] = {"bbox": list(maps.BBOX), "view": [maps.VIEW_W, maps.VIEW_H]}
     payload["web_available"] = bool("web_data" in scored.columns and scored["web_data"].any())
     payload["reviews_available"] = any(c.get("nlp") for c in clinics)
     return payload
@@ -474,6 +480,18 @@ def _subject_block(which: str) -> str:
             f'data-subject="{which}" aria-hidden="true">{inner}</div>')
 
 
+def _map_card() -> str:
+    """The Guntur geometry as CARD content, for MK-01's stage.
+
+    The STYLED variant regardless of which subject the background wears: the dot
+    matrix is the ground, and a second dot matrix as figure would erase the
+    separation the whole layout depends on. ~9 KB, one <path> per road class,
+    and it carries no `id` — so cloning it alongside `render_dotmap`'s
+    `#di-dotgrid` pattern cannot collide.
+    """
+    return maps.render_map(maps.load_geo(WEB / "guntur-geo.json"))
+
+
 def _vintages() -> dict:
     """Three datasets, three dates. Shipping one 'generated_at' across all of them
     implies a freshness the corpus does not have, so the rail states each."""
@@ -534,7 +552,8 @@ def build(subject: str = "dots") -> str:
             .replace("{{ECHARTS}}", echarts_js)
             .replace("{{DATA}}", data_json)
             .replace("{{APP_JS}}", app_js)
-            .replace("{{SUBJECT}}", _subject_block(subject)))
+            .replace("{{SUBJECT}}", _subject_block(subject))
+            .replace("{{MAP_CARD}}", _map_card()))
 
     out = DIST / "index.html"            # Vercel serves this at /
     out.write_text(html, encoding="utf-8")

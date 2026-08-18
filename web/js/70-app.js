@@ -54,7 +54,7 @@
 
      Legacy v3 panels keep the inline vars byte-for-byte, so the two systems
      coexist through a page-by-page cutover. */
-  const SIZES = ["stat", "wide", "half", "tall", "panel", "band", "hero"];
+  const SIZES = ["stat", "wide", "half", "tall", "panel", "square", "band", "hero"];
 
   function panelShell(def) {
     const sized = SIZES.indexOf(def.size) >= 0;

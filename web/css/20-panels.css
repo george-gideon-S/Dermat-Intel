@@ -173,6 +173,13 @@
 .panel[data-size="panel"] { --span: 6;  --rows: 3; }
 .panel[data-size="band"]  { --span: 12; --rows: 3; }
 .panel[data-size="hero"]  { --span: 12; --rows: 4; }
+/* 688x656 — aspect 1.05, which is the Guntur bbox's own 1.041 almost exactly.
+   The map surface and the 34-row cards live here. The inventory drew the map as
+   a full-width hero, but the geometry is PORTRAIT (5.55 km tall by 5.33 wide)
+   and the clinics use nearly all of it: cover-cropping a 1392x432 hero was
+   measured to drop pins at every height tried. Rather than crop the market out
+   of the market map, the card takes the data's shape. */
+.panel[data-size="square"] { --span: 6; --rows: 6; }
 
 /* Edge-crop container. The verifier's law 7 reads the crop's PARENT computed
    overflow and fails on `visible` — and .panel__body sets no overflow, so a

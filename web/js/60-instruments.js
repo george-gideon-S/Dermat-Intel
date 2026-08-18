@@ -185,19 +185,118 @@
   }
 
   /**
+   * Positional dot census — one dot per thing, placed at its own value on a
+   * shared axis. Where dotColumn bins into columns, this puts each mark exactly
+   * where it falls, which is the only way a median can be MARKED rather than
+   * implied. Lane jitter is seeded so the strip reproduces byte for byte.
+   * @param {Array<{key,pos,you,title}>} items  pos is 0..1
+   */
+  function pointStrip(items, opts = {}) {
+    const w = opts.width || 340, height = opts.height || 40;
+    const r = opts.r || 3.2, lanes = opts.lanes || 3, spread = opts.spread || 8;
+    const dots = items.map((it) => s("circle", {
+      cx: (clamp(it.pos, 0, 1) * (w - r * 2) + r).toFixed(1),
+      cy: (height / 2 + (Math.floor(rand(`${it.key}·lane`) * lanes)
+                         - (lanes - 1) / 2) * spread).toFixed(1),
+      r: (it.you ? r * 1.45 : r).toFixed(2),
+      class: "pstrip__d" + (it.you ? " is-you" : ""),
+      // Seeded alpha, so a dense cluster shimmers instead of reading as a blob.
+      opacity: it.you ? 1 : (0.4 + 0.45 * rand(`${it.key}·a`)).toFixed(2),
+      data: { clinic: it.key },
+    }, it.title ? s("title", {}, it.title) : null));
+    return s("svg", {
+      class: "viz pstrip", viewBox: `0 0 ${w} ${height}`, width: w, height,
+      preserveAspectRatio: "xMinYMid meet", "aria-hidden": "true",
+    }, dots);
+  }
+
+  /**
+   * Two labelled segments over one track — "how much of the whole is ours".
+   * Promoted out of 85-panels-market.js's local shareBar and generalised, since
+   * three cards now argue from the same 50/50 shape. `notch` puts one hairline
+   * reference on the track: scale furniture, not a target line (there is no way
+   * to ask this instrument for a full-height marker).
+   */
+  function shareMeter(fraction, opts = {}) {
+    const f = clamp(fraction, 0, 1);
+    const el = h("div.smeter" + (opts.class ? "." + opts.class : ""), { "aria-hidden": "true" },
+      h("i.smeter__seg." + (opts.leftTone || "is-owned"),
+        { style: { width: `${f * 100}%` }, title: opts.leftTitle || null }),
+      h("i.smeter__seg." + (opts.rightTone || "is-outside"),
+        { style: { width: `${(1 - f) * 100}%` }, title: opts.rightTitle || null }));
+    if (opts.notch !== undefined && opts.notch !== null) {
+      el.append(h("i.smeter__notch",
+        { style: { left: `${clamp(opts.notch, 0, 1) * 100}%` } }));
+    }
+    return el;
+  }
+
+  /**
+   * The interactive glass filter pill. `.pill` is a static label chip; this is
+   * the pressable twin, and it is the ONE affordance both of the page's pill-
+   * shaped filter sources use so they read as one system.
+   */
+  function togglePill({ label, count, pressed, onclick, title, ariaLabel }) {
+    return h("button.tpill", {
+      type: "button", "aria-pressed": String(!!pressed),
+      title: title || null, "aria-label": ariaLabel || null, onclick,
+    },
+      h("span.tpill__k", { text: label }),
+      count === null || count === undefined ? null
+        : h("span.tpill__n", { text: String(count) }));
+  }
+
+  /**
+   * A KPI tile on the DARK rung — `metric` has no dark register, no ground of
+   * its own and no click. These sit ON a light card over a light ground, so they
+   * carry their own dark surface rather than borrowing one, and they use the
+   * FLAT dark rung: there is nothing worth refracting behind them and the map
+   * card is already the page's heaviest backdrop-filter surface.
+   */
+  function tile({ value, unit, caption, pill: pillText, lime, onclick, ariaLabel, live }) {
+    const kids = [
+      h("div.tile__top",
+        h("span.disp.disp--sm.tile__v",
+          { text: String(value), "aria-live": live ? "polite" : null }),
+        unit ? h("span.tile__u", { text: unit }) : null,
+        pillText ? h("span.pill" + (lime ? ".pill--lime" : ""), { text: pillText }) : null),
+      caption ? h("div.tile__c", { text: caption }) : null,
+    ];
+    // The affordance and the state appear together: an inert tile is not a
+    // button, so nothing suggests a click that would do nothing.
+    return onclick
+      ? h("button.tile.tile--act", { type: "button", "aria-label": ariaLabel || caption, onclick }, kids)
+      : h("div.tile", { "aria-label": ariaLabel || null }, kids);
+  }
+
+  /**
+   * The two-state mark. Used where a numeral would fake granularity — 28 of the
+   * 34 web scores sit at exactly 0 or 100, so the column is a fact, not a scale.
+   */
+  function twoState(on, opts = {}) {
+    return on
+      ? h("i.tstate.tstate--on", { title: opts.onTitle || null,
+                                   role: "img", "aria-label": opts.onLabel || "yes" })
+      : h("span.tstate.tstate--off", { text: "—", title: opts.offTitle || null,
+                                       role: "img", "aria-label": opts.offLabel || "no" });
+  }
+
+  /**
    * Dumbbell — you against one market comparator on a hairline track, with an
    * optional ghost tick for a second (skewed) comparator.
    * `sqrt` scaling survives the 22 ↔ 2,085 review spread that flattens a linear
-   * track into two dots at the same end.
+   * track into two dots at the same end. `max` pins the track to a stated
+   * denominator instead of the pair's own extent, which is what lets a caller
+   * plot "20 of 34" and "10 of 34" on a track that means 34.
    */
   function dumbbell(you, market, opts = {}) {
     const ghost = opts.ghost;
-    const hi = Math.max(you, market, ghost || 0) * 1.12 || 1;
+    const hi = opts.max || (Math.max(you, market, ghost || 0) * 1.12 || 1);
     const norm = opts.scale === "sqrt"
       ? (v) => Math.sqrt(Math.max(v, 0)) / Math.sqrt(hi)
       : (v) => v / hi;
     const px = (v) => clamp(norm(v), 0, 1) * 100;
-    return h("div.dumb", { "aria-hidden": "true" },
+    return h("div.dumb" + (opts.class ? "." + opts.class : ""), { "aria-hidden": "true" },
       h("i.dumb__track"),
       ghost === undefined || ghost === null ? null
         : h("i.dumb__ghost", { style: { left: `${px(ghost)}%` } }),
@@ -445,7 +544,8 @@
 
   /** Segmented stepper. Not a <select> — the design laws ban those outright. */
   function stepper(items, current, onPick, opts = {}) {
-    const el = h("div.seg.yc-stepper", { role: "group", "aria-label": opts.label || "Choose" });
+    const el = h(`div.seg.${opts.class || "yc-stepper"}`,
+                 { role: "group", "aria-label": opts.label || "Choose" });
     items.forEach((it) => {
       el.append(h("button", {
         type: "button", text: short(it.label, opts.chars || 24), title: it.label,
@@ -506,5 +606,7 @@
     pointRuler, spanRuler, dotCensus, dotMeter, jitterGrid, dumbbell, hairlineBar,
     segmentTrack, doseGauge, polar, miniMap, pill, pillRow, deltaSpan, edgeCrop,
     stepper, platformLabel, displayName,
+    // v4 · The Market.
+    pointStrip, shareMeter, togglePill, tile, twoState,
   };
 })(window.DI);

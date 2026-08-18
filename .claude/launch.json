@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "derma-intel",
+      "runtimeExecutable": "C:\\Users\\SALE PITCHAIAH\\AppData\\Local\\Programs\\Python\\Python310\\python.exe",
+      "runtimeArgs": ["-m", "http.server", "8787", "--directory", "web/dist"],
+      "port": 8787
+    }
+  ]
+}

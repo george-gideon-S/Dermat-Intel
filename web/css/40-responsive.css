@@ -27,6 +27,7 @@
   .panel[data-size="tall"]  { --span: 4; }
   .panel[data-size="half"],
   .panel[data-size="panel"],
+  .panel[data-size="square"],
   .panel[data-size="band"],
   .panel[data-size="hero"]  { --span: 8; }
   /* Legacy v3 panels declare 7/5/8 and were tuned for a 6-column fallback; at
@@ -131,7 +132,8 @@
 
   .shelf__row { grid-template-columns: 110px 1fr 24px; }
   .funnel__row { grid-template-columns: 1fr 64px auto; }
-  .cats__row { grid-template-columns: 1fr 64px 26px; }
+  /* MK-15 gained a fourth column (the depth ruler) in the v4 cutover, so its
+     narrow-width template lives beside the card in 27-market.css. */
 }
 
 @media (max-width: 860px) {

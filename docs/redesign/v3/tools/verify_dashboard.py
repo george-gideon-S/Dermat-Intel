@@ -243,8 +243,12 @@ def run() -> int:
         page.wait_for_timeout(600)
         n_after = page.evaluate("DI.store.view().filtered.length")
         rep.check("filter narrows the market", n_after < n_before, f"{n_before} -> {n_after}")
-        strip = page.inner_text('[data-panel="kpi-strip"]')
-        rep.check("filter reaches a panel", str(n_after) in strip, f"strip shows {n_after}")
+        # v4: the kpi-strip is gone. Its live readout moved onto the map card as
+        # MK-01a's first tile, which becomes a BUTTON only while a filter is
+        # active — so reading `.tile--act` proves both the count and the reset
+        # affordance appeared together.
+        strip = page.inner_text('[data-panel="mk01-map"] .tile--act')
+        rep.check("filter reaches a panel", str(n_after) in strip, f"readout shows {strip!r}")
 
         page.evaluate("() => { DI.store.clearFilters(); DI.bus.emit('filter', {}); }")
         page.wait_for_timeout(400)
@@ -257,7 +261,7 @@ def run() -> int:
         # filter" and dragging did nothing at all.
         page.click('.switch button[data-page="market"]')
         page.wait_for_timeout(1000)
-        chart = page.locator('[data-panel="opportunity"] .chart')
+        chart = page.locator('[data-panel="mk09-opportunity"] .chart')
         chart.scroll_into_view_if_needed()
         page.wait_for_timeout(400)
         box = chart.bounding_box()

@@ -16,6 +16,14 @@
      overlap its dark zone flip to the dark rung of the glass ladder. -->
 {{SUBJECT}}
 
+<!-- The Guntur geometry a SECOND time, as CARD CONTENT rather than as ground.
+     MK-01 clones this into its stage and draws the 34 pins over it in the same
+     viewBox, which is the only way the pins can share the map's projection
+     without a runtime fetch, a raster element, or shipping guntur-geo.json in
+     the payload. The STYLED variant, deliberately: the background is the dot
+     matrix and repeating it here would flatten the figure/ground separation. -->
+<template id="di-mapcard">{{MAP_CARD}}</template>
+
 <!-- The top bar. Pill nav on the left, utility cluster on the right. Replaced the
      250px console rail in v4: names overflowed a narrow column, and the filters
      belong on the surfaces they filter. 40-topbar.js fills it. -->
