@@ -5,8 +5,15 @@ Usage:
     python run_pipeline.py --mock   # instant deterministic sample data
 
 Reads the 50 queries you saved in the app (Tab 1), writes the same outputs the app uses, so opening
-`streamlit run app.py` afterwards shows the results immediately.
+Results are written to data/ and .cache/ for whatever consumes them next.
 """
+# This machine runs the embeddable Python distribution, whose python310._pth
+# forces isolated mode: the script directory is NOT added to sys.path and
+# PYTHONPATH is ignored. Same bootstrap conftest.py uses, so the CLI runs.
+import sys as _sys
+from pathlib import Path as _Path
+_sys.path.insert(0, str(_Path(__file__).resolve().parent))
+
 import sys
 from datetime import datetime
 from pathlib import Path
@@ -58,7 +65,7 @@ def main() -> int:
     uniq = 0 if scored is None or scored.empty else len(scored)
     print(f"\nDONE: {len(rows)} rows ({ok} OK, {len(rows) - ok} failed), "
           f"{uniq} unique clinics, top {len(top)} vulnerable exported.", flush=True)
-    print("Open the app to view:  streamlit run app.py", flush=True)
+    print("Results written to data/ and .cache/", flush=True)
     return 0
 
 

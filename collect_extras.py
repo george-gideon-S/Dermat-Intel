@@ -1,4 +1,4 @@
-"""Collect the optional extra signals, then rebuild the dashboard with `python derma_web.py`.
+"""Collect the optional extra signals on top of the Google Maps scrape.
 
   python collect_extras.py --reviews     # scrape Google Maps reviews for every clinic + run NLP
   python collect_extras.py --web         # scrape Google WEB search (opens a real browser; solve the
@@ -9,6 +9,13 @@ Reviews are reliable and resume-safe (re-run to fill any clinics Google throttle
 requires a headful browser on your desktop; set DERMA_WEB_HEADLESS=1 to force headless (returns nothing
 on a flagged network).
 """
+# This machine runs the embeddable Python distribution, whose python310._pth
+# forces isolated mode: the script directory is NOT added to sys.path and
+# PYTHONPATH is ignored. Same bootstrap conftest.py uses, so the CLI runs.
+import sys as _sys
+from pathlib import Path as _Path
+_sys.path.insert(0, str(_Path(__file__).resolve().parent))
+
 import sys
 from pathlib import Path
 
@@ -46,7 +53,7 @@ def main() -> int:
         got = sum(1 for v in web.values() if v)
         print(f"Google web results captured for {got}/{len(qrows)} queries.")
 
-    print("\nNow rebuild the dashboard:  python derma_web.py")
+    print("\nDone. Extra signals written to .cache/")
     return 0
 
 
