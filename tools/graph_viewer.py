@@ -67,10 +67,15 @@ def load_graph(artifact: Path) -> tuple[list[dict], list[tuple[int, int, str]]]:
                 "label": r["label"],
                 "file": f,
                 "line": int(r["start_line"] or 0),
-                "group": f.split("/")[0] if "/" in f else (f or "root"),
+                # Root-level files share one bucket; otherwise the legend fills with
+                # single-file "folders" named config.py, run_market.py, ...
+                "group": f.split("/")[0] if "/" in f else "root",
                 "cx": int(props.get("complexity") or 0),
                 "lines": int(props.get("lines") or 0),
-                "test": bool(props.get("is_test")),
+                # is_test is not always populated by the indexer, so fall back to the
+                # convention the suite actually follows: tests/ or a test_ prefix.
+                "test": bool(props.get("is_test")) or f.startswith("tests/")
+                        or f.split("/")[-1].startswith("test_"),
                 "route": props.get("route_path") or "",
             }
 
@@ -87,49 +92,62 @@ def load_graph(artifact: Path) -> tuple[list[dict], list[tuple[int, int, str]]]:
     return list(nodes.values()), edges
 
 
-def layout(nodes: list[dict], edges: list[tuple[int, int, str]], iters: int = 260) -> None:
-    """Force-directed layout, computed here so the browser opens to a settled picture.
+def layout(nodes, edges, iters: int = 320) -> None:
+    """Fruchterman-Reingold layout, computed here so the browser opens to a settled map.
 
-    Nodes start clustered by top-level folder, which gives the simulation a sane basin to
-    fall into and keeps subsystems from being shredded across the canvas.
+    Scaling matters more than iteration count: repulsion is k^2/d and attraction d^2/k
+    around an ideal edge length k, with per-step displacement capped by a cooling
+    temperature. Get that ratio wrong and every node drifts to the rim, leaving a hollow
+    ring instead of the module structure you are trying to see.
     """
+    import math
+
     import numpy as np
 
     n = len(nodes)
     idx = {node["id"]: i for i, node in enumerate(nodes)}
     rng = np.random.RandomState(7)
 
+    area = 1_400_000.0
+    k = math.sqrt(area / max(n, 1))          # ideal distance between neighbours
+    temp = 0.10 * math.sqrt(area)
+
+    # Seed each folder in its own sector: a sane basin for the simulation to fall into,
+    # so subsystems land together instead of being shredded across the canvas.
     groups = sorted({node["group"] for node in nodes})
-    ring = {g: k for k, g in enumerate(groups)}
+    ring = {g: i for i, g in enumerate(groups)}
     pos = np.zeros((n, 2), dtype=np.float32)
-    for node in nodes:  # seed each folder in its own sector of a circle
-        i, k = idx[node["id"]], ring[node["group"]]
-        a = 2 * np.pi * k / max(len(groups), 1)
-        pos[i] = [np.cos(a) * 260 + rng.randn() * 55, np.sin(a) * 260 + rng.randn() * 55]
+    for node in nodes:
+        i, gi = idx[node["id"]], ring[node["group"]]
+        a = 2 * math.pi * gi / max(len(groups), 1)
+        pos[i] = [math.cos(a) * k * 4 + rng.randn() * k,
+                  math.sin(a) * k * 4 + rng.randn() * k]
 
     src = np.array([idx[s] for s, _, _ in edges], dtype=np.int32)
     dst = np.array([idx[t] for _, t, _ in edges], dtype=np.int32)
-
     deg = np.ones(n, dtype=np.float32)
     for s, t, _ in edges:
         deg[idx[s]] += 1
         deg[idx[t]] += 1
 
-    k_rep, k_att, temp = 2600.0, 0.0075, 22.0
-    for step in range(iters):
-        diff = pos[:, None, :] - pos[None, :, :]          # pairwise offsets
-        d2 = (diff * diff).sum(-1) + 12.0
-        force = (diff / d2[:, :, None]).sum(1) * k_rep    # everything pushes apart
+    eps = 1e-3
+    for _ in range(iters):
+        diff = pos[:, None, :] - pos[None, :, :]
+        dist = np.sqrt((diff * diff).sum(-1)) + eps
+        force = (diff / dist[:, :, None] * (k * k / dist)[:, :, None]).sum(1)
 
-        if len(src):                                       # edges pull together
+        if len(src):
             ed = pos[src] - pos[dst]
-            np.add.at(force, src, -ed * k_att)
-            np.add.at(force, dst, ed * k_att)
+            ed_d = np.sqrt((ed * ed).sum(-1)) + eps
+            pull = ed / ed_d[:, None] * (ed_d * ed_d / k)[:, None]
+            np.add.at(force, src, -pull)
+            np.add.at(force, dst, pull)
 
-        force -= pos * 0.0055                              # gravity keeps it on screen
-        mag = np.linalg.norm(force, axis=1, keepdims=True) + 1e-6
-        pos += force / mag * np.minimum(mag, temp)
-        temp *= 0.985
+        force -= pos * 0.06 * k              # gentle centring so components stay on screen
+
+        mag = np.sqrt((force * force).sum(-1)) + eps
+        pos += force / mag[:, None] * np.minimum(mag, temp)[:, None]
+        temp = max(temp * 0.97, 0.6)
 
     pos -= pos.mean(0)
     for node in nodes:
@@ -138,7 +156,7 @@ def layout(nodes: list[dict], edges: list[tuple[int, int, str]], iters: int = 26
         node["deg"] = int(deg[i] - 1)
 
 
-PAGE = """<!DOCTYPE html>
+PAGE = r"""<!DOCTYPE html>
 <html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>__PROJECT__ — knowledge graph</title>
@@ -172,7 +190,7 @@ PAGE = """<!DOCTYPE html>
   #tip .m { color:#7d8590; font-size:11px; font-family:ui-monospace, monospace;
     word-break:break-all; }
   #tip .s { color:#58a6ff; font-size:11px; margin-top:5px; }
-  #det { bottom:14px; left:14px; padding:13px; width:400px; display:none; max-height:44vh;
+  #det { bottom:14px; left:318px; padding:13px; width:400px; display:none; max-height:44vh;
     overflow:auto; }
   #det h2 { margin:0 0 3px; font-size:13px; color:#e6edf3; }
   #det .m { color:#7d8590; font-size:11px; font-family:ui-monospace,monospace;
@@ -337,8 +355,9 @@ cv.addEventListener('wheel', e => {
 function showDetail() {
   const d = document.getElementById('det'), c = document.getElementById('detc');
   if (!sel) { d.style.display='none'; return; }
-  const outs = E.filter(e => e[0]===sel.id).map(e => byId.get(e[1])).filter(Boolean);
-  const ins  = E.filter(e => e[1]===sel.id).map(e => byId.get(e[0])).filter(Boolean);
+  const uniq = ids => [...new Set(ids)].map(i => byId.get(i)).filter(Boolean);
+  const outs = uniq(E.filter(e => e[0]===sel.id).map(e => e[1]));
+  const ins  = uniq(E.filter(e => e[1]===sel.id).map(e => e[0]));
   c.replaceChildren();
   const h2 = document.createElement('h2'); h2.textContent = sel.name;
   const m = document.createElement('div'); m.className = 'm';
