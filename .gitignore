@@ -43,3 +43,7 @@ web/.echarts-build/
 .claude/.skill-sources/
 .claude/skills/
 .claude/scheduled_tasks.lock
+
+# codebase-memory index artifact — derived data, ~3 MB binary that fully rewrites on
+# every re-index. Regenerate with index_repository rather than versioning the churn.
+.codebase-memory/

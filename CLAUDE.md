@@ -40,8 +40,8 @@ Python only today. A premium clinic-facing dashboard and report UI is the next p
 
 ## Skills — recommend one before you start
 
-**38 skills and 2 MCPs are installed.** The full catalogue, with every documented command, is
-[`docs/skills-and-mcps.md`](docs/skills-and-mcps.md).
+Skills and MCPs are installed at the account level — list them with the Skill tool's own
+catalogue rather than a checked-in copy, which goes stale the moment one is added.
 
 **The rule: at the start of any design, frontend, animation or UI task — and at each new step
 within one — name the skill that would improve the work and say why, before writing code.**
