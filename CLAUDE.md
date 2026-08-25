@@ -38,35 +38,13 @@ Python only today. A premium clinic-facing dashboard and report UI is the next p
 
 ---
 
-## Skills — recommend one before you start
+## MCPs
 
-Skills and MCPs are installed at the account level — list them with the Skill tool's own
-catalogue rather than a checked-in copy, which goes stale the moment one is added.
+- **Stitch** — declared in [`.mcp.json`](.mcp.json); it reads `${STITCH_API_KEY}` from the
+  gitignored `.env`. Never inline the key.
+- **codebase-memory** — indexes this repo into a queryable graph of files, functions,
+  calls, routes and complexity. Reach for its graph queries instead of grepping when you
+  need to find a definition or trace who calls what. `python tools/graph_viewer.py`
+  rebuilds the browsable map and serves it at <http://127.0.0.1:8765>.
 
-**The rule: at the start of any design, frontend, animation or UI task — and at each new step
-within one — name the skill that would improve the work and say why, before writing code.**
-One line is enough: *"`/hallmark` would fix the structural sameness here — want me to load
-it?"* If nothing genuinely fits, say so instead of forcing one. A skill that does not apply
-costs more than it gives.
-
-### Routing table
-
-| The task | Reach for |
-|---|---|
-| New page or screen, nothing designed yet | `/hallmark` (structure + anti-slop gates), `/taste-skill` |
-| Existing UI feels generic or templated | `/redesign-skill`, `/hallmark audit` |
-| Polish, spacing, hierarchy, a11y, states | `/impeccable` (26 commands — `/impeccable audit` first) |
-| Extract or lock a design language | `/design-dna`, `/stitch-skill` (writes DESIGN.md) |
-| Build one animation | `/animate` — CSS/WAAPI first, no framework needed |
-| Judge or fix existing motion | `/review-animations`, `/improve-animations` |
-| Find where motion is missing | `/find-animation-opportunities` |
-| Gesture, spring, momentum, depth | `/apple-design` |
-| Timing, easing, stagger values | `/motion-design` |
-| GSAP specifically | `/gsap-core`, `/gsap-scrolltrigger`, `/gsap-timeline`, … |
-| Naming an effect you can only describe | `/animation-vocabulary` |
-| About to add a frontend dependency | `/pick-ui-library` — do not hand-roll |
-| Several takes on one component | `/prototype` |
-| Screen comps from a brief | Stitch MCP + `/stitch-skill` |
-| Reference imagery you do not have | Higgsfield MCP, `/imagegen-frontend-web` |
-| Code feels over-engineered | `/ponytail-review` (diff), `/ponytail-audit` (repo) |
-| Output too verbose | `/caveman` |
+Anything else is configured at the account level and is not part of this project.

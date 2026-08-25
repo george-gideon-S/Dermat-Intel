@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "graph",
+      "runtimeExecutable": "C:\\Users\\SALEPI~1\\AppData\\Local\\Programs\\Python\\Python310\\python.exe",
+      "runtimeArgs": ["tools/graph_viewer.py", "--port", "8765"],
+      "port": 8765
+    },
+    {
+      "name": "api",
+      "runtimeExecutable": "C:\\Users\\SALEPI~1\\AppData\\Local\\Programs\\Python\\Python310\\python.exe",
+      "runtimeArgs": ["api/app.py"],
+      "port": 8000
+    }
+  ]
+}

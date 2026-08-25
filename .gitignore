@@ -39,10 +39,10 @@ docs/redesign/v3/verification/after/
 web/.echarts-build/
 .playwright-mcp/
 
-# Installed skill/tooling source cached into the project — not project code.
-.claude/.skill-sources/
-.claude/skills/
-.claude/scheduled_tasks.lock
+# Local agent tooling cached into the project — not project code. launch.json is the
+# exception: it is how the dev servers are started, so it stays versioned.
+.claude/*
+!.claude/launch.json
 
 # codebase-memory index artifact — derived data, ~3 MB binary that fully rewrites on
 # every re-index. Regenerate with index_repository rather than versioning the churn.
