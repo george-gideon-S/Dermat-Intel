@@ -1,0 +1,1033 @@
+{
+  "key": "ChIJRdld_jl1SjoRIr4UpgWNW_k",
+  "tier": "full",
+  "complete": true,
+  "place_url": "https://www.google.com/maps/place/Dr.Keerthi+Sidda%27s+Skin,Hair%26+Laser+clinic%7C+Best+Dermatologist+in+guntur+%7C+Trichologist+%7CAesthetic+dermatologist+%7CPMUartist/data=!4m7!3m6!1s0x3a4a7539fe5dd945:0xf95b8d05a614be22!8m2!3d16.3153513!4d80.426725!16s%2Fg%2F11y3kbz32l!19sChIJRdld_jl1SjoRIr4UpgWNW_k?authuser=0&hl=en&rclk=1",
+  "captured_at": "2026-08-20T23:05:12",
+  "rank": 9,
+  "place_id": "ChIJRdld_jl1SjoRIr4UpgWNW_k",
+  "feature_id": "0x3a4a7539fe5dd945:0xf95b8d05a614be22",
+  "kg_mid": "/g/11y3kbz32l",
+  "lat": 16.3153513,
+  "lng": 80.426725,
+  "dup_of_rank": null,
+  "has_online_booking": false,
+  "booking_url": "",
+  "booking_vendor": "",
+  "service_options": null,
+  "permanently_closed": false,
+  "temporarily_closed": false,
+  "status_text": "Closed · Opens 10 am Fri",
+  "open_now": false,
+  "is_ad": false,
+  "review_snippet": "",
+  "name_raw": "Dr.Keerthi Sidda's Skin,Hair& Laser clinic| Best Dermatologist in guntur | Trichologist |Aesthetic dermatologist |PMUartist",
+  "name_clean": "Dr.Keerthi Sidda's Skin,Hair& Laser clinic",
+  "name_key": "drkeerthisiddasskinhairlaserclinic",
+  "name_dropped": [
+    "Best Dermatologist in guntur",
+    "Trichologist",
+    "Aesthetic dermatologist",
+    "PMUartist"
+  ],
+  "name_was_cleaned": true,
+  "category": "Skin care clinic",
+  "card_category": "Skin care clinic",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "JNR Complex, Ring Rd, opp. Donbosco College, Chandramouli Nagar, Guntur, Andhra Pradesh 522007",
+  "plus_code": "8C8G+4M Guntur, Andhra Pradesh",
+  "phone": "070599 96669",
+  "website": "",
+  "website_domain": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "insecure_http": false,
+  "website_matches_name": null,
+  "rating": 5.0,
+  "reviews_total": 112,
+  "rating_histogram": {
+    "5": 112,
+    "4": 0,
+    "3": 0,
+    "2": 0,
+    "1": 0
+  },
+  "histogram_sum": 112,
+  "histogram_reconciles": true,
+  "topics": {
+    "skin tag removal": 4,
+    "skin whitening treatment": 3,
+    "personalized treatment plan": 4,
+    "infection treatment": 3,
+    "prp treatment": 2,
+    "attentive doctor": 8,
+    "laser sessions": 2,
+    "hair treatment": 8,
+    "active listening": 3,
+    "fast relief": 2
+  },
+  "google_profile_gaps": [
+    "Add website"
+  ],
+  "has_photos": true,
+  "hours": {
+    "Thursday": "10 am to 2 pm, 6 to 8 pm",
+    "Friday": "10 am to 2 pm, 6 to 8 pm",
+    "Saturday": "10 am to 2 pm, 6 to 8 pm",
+    "Sunday": "11 am to 1 pm",
+    "Monday": "10 am to 2 pm, 6 to 8 pm",
+    "Tuesday": "10 am to 2 pm, 6 to 8 pm",
+    "Wednesday": "10 am to 2 pm, 6 to 8 pm"
+  },
+  "about": {
+    "From the business": [
+      " Identifies as women-owned"
+    ],
+    "Service options": [
+      " On-site services"
+    ],
+    "Amenities": [
+      " Restroom"
+    ],
+    "Planning": [
+      " Appointment required",
+      " Appointments recommended"
+    ],
+    "Payments": [
+      " Google Pay",
+      " NFC mobile payments"
+    ],
+    "Map details": [
+      "Transit",
+      "Traffic",
+      "Biking",
+      "Terrain",
+      "Street View",
+      "Wildfires",
+      "Air Quality"
+    ],
+    "Map tools": [
+      "Travel time",
+      "Measure"
+    ],
+    "Map type": [
+      "Default",
+      "Satellite",
+      " Globe view ",
+      " Labels"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psU1JXMVdjVGhITTIxWVQwTkxhakpVU3pScmJVRRAB",
+      "author": "Praveen Paul",
+      "rating": 5,
+      "relative_date": "4 weeks ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t3eFYwazRiV010Tm5CUFRHVlhiME5UTlc1d1ZsRRAB",
+      "author": "SINDHURA REKA",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "Dr. Keerthi sidda is highly knowledgeable and skilled dermatologist. Thanku mam for providing excellent care for all my skin concerns",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGQk1sSXlWR3hQVG5kV2MwaFpjelE1ZEV4eVNHYxAB",
+      "author": "Sudheer Vakati",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCM05sbHdlRXhzYzBKelVWRmFXblpXYUhBNVRWRRAB",
+      "author": "RAOS ENTERPRISES",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "Gud",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCRVRtTlNSV1ZmWWw5RlpGOTBTbVZJTjJaNFpFRRAB",
+      "author": "R srinivasarao R srinivasarao",
+      "rating": 5,
+      "relative_date": "3 months ago",
+      "text": "Skin clinic vellam\n\nKani 5years Ga skin desige tho ebbandi padam\nMarch 2026 lo Keerthi sidda s vellam\nMedam Garu treatment exlent\n2 months lo problem clear\nTQ Medam garu",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201VGExcGxhekkxVEZCc1JIRTNORUZsVTBWUE5FRRAB",
+      "author": "ALISHA SHAIK",
+      "rating": 5,
+      "relative_date": "3 months ago",
+      "text": "I had a wonderful experience at Dr. Keerthi Sidda’s Skin, Hair & Laser Clinic. I underwent treatment here and I’m genuinely very happy with the results. The doctor is extremely knowledgeable, patient, and explains everything clearly before starting the treatment, which made me feel very comfortable and confident.\n\nThe staff is also very friendly and professional, and the clinic is clean and well-maintained. The treatment was effective, and I could see visible improvement in my skin within a short time.\n\nI highly recommend this clinic to anyone looking for safe and reliable skin and hair treatments. Truly one of the best dermatology clinics!",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0UVNrOTZVM0ZoTjJZMlMzZEVYMDlKT0c5bVMyYxAB",
+      "author": "Sameera Sayyed",
+      "rating": 5,
+      "relative_date": "3 months ago",
+      "text": "Good experience overall, given a good treatment for my hair and skin. Very friendly Doctor and staff. They would love to clear each and every doubt that we are stuck with. They always recheck over us after treatments and laser sessions. Very much satisfied with their work.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSNk9FbFdOR1kwVW1kWlFrZFlVamRtVEZKRlIyYxAB",
+      "author": "Pujitha2004 U",
+      "rating": 5,
+      "relative_date": "3 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21JM1kyTjFVbms0ZWpsMlZuaG9kR3BWYzA5V01WRRAB",
+      "author": "K SUNIL KUMAR",
+      "rating": 5,
+      "relative_date": "4 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kSmFIa3lNMGt0V1RobE5XMUJUbkIxZHpGVFZWRRAB",
+      "author": "Sumanth I",
+      "rating": 5,
+      "relative_date": "4 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOMlkyNWtlRGgwVm1ack5uWmZjekpMYTJGeGVrRRAB",
+      "author": "Thirumalasetty Siva",
+      "rating": 5,
+      "relative_date": "4 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkd05uVkhiMnRPYW5ReVJXczVNR0ZHTmxJeU0zYxAB",
+      "author": "Madhu Nani",
+      "rating": 5,
+      "relative_date": "4 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21velNGTlhhR0Z5TXpZNFZFcDBjV1pLUTBVdFRHYxAB",
+      "author": "LokY",
+      "rating": 5,
+      "relative_date": "5 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sTlpGaFRabk5pYVdKU1ZWOVdUV3RrWTNSQlNVRRAB",
+      "author": "kurangi suneel kumar",
+      "rating": 5,
+      "relative_date": "5 months ago",
+      "text": "Patient patiently listens to the problem. Skin rashes, 70% controlled in a week. The problem that was not controlled for almost 25 years is now under control. Thank you madam.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaWFRVMVRSR3BMWnkwMUxVbHpUMVJJUzJwVGEyYxAB",
+      "author": "Dr Phani R S CH",
+      "rating": 5,
+      "relative_date": "5 months ago",
+      "text": "Good. Recommend.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CSFpsTjNlR1JQV1RjemVVTkpTbmswY0d4ZlFsRRAB",
+      "author": "sanam sowjanya",
+      "rating": 5,
+      "relative_date": "5 months ago",
+      "text": "Most suggested & recommended doctor for skin.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SNGRuQjJWVkl6ZUVsVlpETkxkMjVTUm5aUWMwRRAB",
+      "author": "Ravu Swathi",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsTldXbDFPVUpaZURKNFEySmxXRmMxYlc4eFlXYxAB",
+      "author": "Haseena Begum",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ZeFVYQXRNbXQyU1VGNk1WRjNWMFJwWkRodmFYYxAB",
+      "author": "KALYANA CHAKRAVATHI B",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "Very Good response and best talking related disease .Thank you",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaUU5WRTFhRE5CZWpaU2NuUjVOVlJMU0ZaRGEwRRAB",
+      "author": "srikanth dhanasiri",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxS2JFcE5NbTlWYW5kRFZIQXROVXRCVjA1Tk9XYxAB",
+      "author": "Raghu vamsi Avinash",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "Superb Experience,Dr keerthi has very good patience to listen to the patient,and for the problem consulted the doctor, that problem is no more a problem, I saw Very noticeable change in days and and my problem vanished completely in few more...totally superb Experience.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWVFJpMTFlVFpEZVdwemNuSm9UVmQyVm5CV04zYxAB",
+      "author": "52 Hemanth Bolisetty",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "I accompanied my mother for treatment.The doctor took her time to explain things clearly, explaining us what's going on and why it's happening. She also gave us some helpful tips on what to eat and how to manage it, so I can feel better.\nWell deserved treatment and recommendable",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21VdFJXZGpWbmhQTjFwck1UY3hPRXREWW5WVmIxRRAB",
+      "author": "KSA",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "It was a great and awesome gesture by the doctor and the treatment goes well and my mother got fast healing in just 2 weeks of time her skin related infection was healed.. Thank you Keerthi mam No words 🙏🏻 …",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkWFdHNTVTR2hNVFdGSVNXSjNNRzl0V0hvMFkwRRAB",
+      "author": "sambasiva klm",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "Good dermatologist",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkM1UxUm1NalptVUROSU4wMWxhRGR1ZWtjeGNFRRAB",
+      "author": "narra subhash",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toSVkxOW5RbmRwWW1wRFREZDFRVW90UW13elVXYxAB",
+      "author": "Venkatramma oguri",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsSWFYWm1OVTlKTW10a01IUklXRVJQZFhsMWVFRRAB",
+      "author": "JOHNY Janu",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "Best doctor with Active listening to the patients and give best and economical to patients.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURueUpTZWlBRRAB",
+      "author": "Mareddy Gnana Deepika",
+      "rating": 5,
+      "relative_date": "Edited 9 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OMlJqZGhWbFZoVEhCMldDMDNaVE5IYzFsNlFuYxAB",
+      "author": "Obulreddy Borra",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oUFZrSnJRMkppWWxKNlFWWTVSR1pFYUVRMU0zYxAB",
+      "author": "sai ram",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "Good skin care and excellent treatment for every patient. Thank you for your support Dr.Keerthi sidda garu.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsQmNXWXhZMFJUYld4M05VWnlOVkZZVERKNmVVRRAB",
+      "author": "Peddakotla J.F.CHINNI",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsRVgxRmZZMHhIWlRkWGFVaE9XV2g1V0RkaVZuYxAB",
+      "author": "Ganesh Kumar",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25jNFVtSmFlblZTV0VsUFJWaHJSbVJNU1ZVME9YYxAB",
+      "author": "Sirisha Hithu",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "very good Dr",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0Uk5reG5ZVzVYY0ZwTWNFZHNZbEJ5U1ZCb2QzYxAB",
+      "author": "Naga venkata prasad S",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "Best dermatologist doctor in guntur",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toWlgwUndkVEJ3YmtnNE5uRnVVMmczWWpSS1MzYxAB",
+      "author": "Guntur mirchi Boy",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "Best skin hospital, very friendly Dr personally I feel very happy for skin whitening treatment",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoM1NsOVpSMmROTkY5TVNYbEZOMFJuUmxKaVJHYxAB",
+      "author": "Shaik jabeer",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "Best clinic for All type of Skin care in Guntur",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Oc1ZtRlNTa3BvTkhsUE16TjVRVUZwWDFsWU1FRRAB",
+      "author": "chandra sekhar",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "I visited the clinic for some chronic skin infection the way madam treated is very different and she shows very good empathy towards patients and staff also very helpful i recommend this doctor to my near and dears",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21rdE5VdEVOWGQyTUhKcGVYQm5RV3BFVDA1WWNXYxAB",
+      "author": "Sandeep Kumar Bangaru - THERVEA Vizag Aakaar",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "Good Dr\nNice treatment",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5VGF6QlJhMWRUUW1GaFVsSklOVmQwY2pWUldXYxAB",
+      "author": "rajesh rahul",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5SGN6TlJlRjlYWDNkT2VqbE1SSFZuVkdKQ1ZYYxAB",
+      "author": "Nagasai Vemula",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "I",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2trdGVVcHdibEZzV0UwME1ESlFNbkZMY1dRNU1XYxAB",
+      "author": "settineni mallikarjunrao",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKeFIwNDJWVWRNZEV4T2FERjJhRlJMTTFjelluYxAB",
+      "author": "panidepu nirmala",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "I visited Dr. Keerthi Sidda for skin tags and hair fall treatment, and I’m very satisfied. She listens patiently, explains everything clearly, and her prescribed treatment showed visible results in a few weeks. Highly recommend her!",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GblRVWXdZMll5ZEhkblpEZzVMVVpEZDFkYWVGRRAB",
+      "author": "Shaik Sai",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "Best solution for any kind problem",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxV2NGSkRValZUWjNadFZYQkZhRUozZHpaV1pGRRAB",
+      "author": "Swetha Sajja",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KNmRYZHVNbVZIVjA5a2RGQktXV3h4VVV0MmRGRRAB",
+      "author": "Ammu",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "Doctor has been very helpful with my & My Doughter skin conditions . She takes time to address all your questions & all my doubts have been cleared.Really recommend it for any skin related issues.Staff all so gud Receiving",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210cllqUmxkWFZrU2xWbE9HUm1iblpJWDNVd1FYYxAB",
+      "author": "AmaraBhargavi Thota",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Best doctor in gnt for skin issues, all my issues was resolved with in frequent time with unexpected results, I was very happy with that, the way of treating, and approaching her patients was very comfortable",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoYVNYTmlaRkptZFZkZlJWaE9Xa0ZyUlhnMFJVRRAB",
+      "author": "Hunny Shaik",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Doctor have good experience and staff is  well care and maintained.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VONmxzX09NODRMVWFBEAE",
+      "author": "Kaja Naga Anjali",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I am getting dark circles treatment and the treatment process is going smoothly. Here the doctor and her colleges are very friendly treat with care. Iha e always got pumpkin peel 3 days before any function it gives brightness.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZN3F5OVNREAE",
+      "author": "Shoban B S",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I had an excellent experience at Dr.Keerthi Siddas skin clinic with Dr. Keerthi. From the very first consultation, she was incredibly knowledgeable and reassuring about my facial pigmentation concerns. She provided a tailored treatment plan that was both effective and easy to follow. The results have been truly impressive—my skin looks healthier and more even-toned than ever. Dr. Keerthi's professionalism, expertise, and warm approach made the entire process smooth and comfortable. Highly recommend her to anyone looking for top-quality skin treatment!",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZN3NUdXpBRRAB",
+      "author": "Vinaykumar Tejavath",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I had a wonderful experience with Dr.keerthi Sidda and their team. From the moment I walked into the office, I was greeted warmly and felt completely at ease. Dr.Keerthi took the time to listen carefully to my concerns and provided thoughtful, clear explanations about my skin condition and treatment options. Their expertise and gentle approach made me feel confident that I was in the best hands. The treatment plan has already shown great results, and I couldn’t be happier with the care I’ve received. I highly recommend Dr. Keerthi to anyone looking for a knowledgeable, compassionate dermatologist.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3bloyWlh3EAE",
+      "author": "HANUMA AGENCY",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNRcVktQmh3RRAB",
+      "author": "156 Rishwanth Reddy Thumma",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Very satisfied with results of hair treatment over 3 months",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnOVBPQ2lnRRAB",
+      "author": "Rakesh Luther",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnd0puWDRBRRAB",
+      "author": "Yesubabu Yalam",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Actually I'm suffering from infection.when I consult to this clinic ,Dr.keerthi mam give some medicines after using that medicine within a week I observe the change. Thank you",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTURBNWJMLXRnRRAB",
+      "author": "Torso Sirisha",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Best dermatologist doctor in the guntur",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTURBNmVfRkdBEAE",
+      "author": "Jasmin Shaik",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Best Doctor",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTURBcVpXR1JBEAE",
+      "author": "Thirumalasetty Rangamma",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Best doctor in guntur",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTURBcVpXSVZREAE",
+      "author": "Nagu Thirumalasetty",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Great experience nd great service.....",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTURBbm9EVWdnRRAB",
+      "author": "Varammahalakshmi Sivarathri",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTURBbXZlREt3EAE",
+      "author": "Venki M",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTURBaktITXBBRRAB",
+      "author": "Raju Trends",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTURBOU9QNFhBEAE",
+      "author": "Malli Malli",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2aWZTd2xRRRAB",
+      "author": "ranjith Roni",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNQMlBydENBEAE",
+      "author": "Durga bhavani",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQzei1manF3RRAB",
+      "author": "Muralidhar G",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Consulted Dr.Keerthi Sidda for my eczema problem, she listened to my concern very keenly and gave treatment . Now my skin is eczema free, thanks to the Doctor. I strongly suggest you to consult her for all your skin and hair issues. Right now I started my baldness treatment from Dr.Keerthi Sidda, will post the results soon.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQzejRmaUl3EAE",
+      "author": "Dwarakanath Gandhapuneti",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Best Dermatologist in Guntur",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYZzR5MlV3EAE",
+      "author": "Usha Kiran",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYLU9tdGZnEAE",
+      "author": "Rohit Sai",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNudzRHdUxnEAE",
+      "author": "K JEEVAN KUMAR",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNud19TRWxBRRAB",
+      "author": "srikala",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "best clinic for hair treatment",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNudXZlTmVREAE",
+      "author": "sowmya ravela",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Dr Keerthi sidda\nShe is the best dermatologist in town. She  listens to all ur worries and suggests the best treatment. Highly recommend her for all skin hair issues. She has best  skills, and high expertise in her field.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNuMm9PM2VREAE",
+      "author": "satyanarayana munnangi",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Consulted Dr.keerthi sidda for my warts removal .very much satisfied with the results.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNuMnBMV05REAE",
+      "author": "tummala nikhila",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "The doctor is very friendly, I had prp treatment for post Covid hair loss, it controlled my hair fall within first 2 sittings, it  helped with my hair growth a lot",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNuMnJ5X3BBRRAB",
+      "author": "Manish Tummala",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNuOVAyN3BBRRAB",
+      "author": "Uppu Priyanka",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I highly recommend Dr.keetthi sidda. She listens to our skin and hair problems very keenly giving all her time and plans the treatment according to the patients needs. I consulted her for my acne issues ,after following her protocol consistently my skin has completely transformed.Thank alot to the doctor.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURIdTdiMmxnRRAB",
+      "author": "Sai R",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I was having severe hairloss since many days ,visited many clinics but my condition didn't develop. I came to know about Dr.Keerthi Sidda from one of my friends and consulted her. She patiently listened to my problem and performed few tests and diagnosed the root cause and treated as per that. After few months my hairfall stopped and now I regained all my lost hairs. So much happy and satisfied with the treatments  & hair threads and GFC sessions given by the Doctor. Good haircare specialist in guntur. You can consult Dr.Keerthi Sidda for all your skin and hair problems and also for latest advanced techniques. One of the best dermatologists.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURIcFptN3VRRRAB",
+      "author": "Marzia Fathima05",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Thank you so much mam for the procedure which u have done for me to get rid of chronic acne scars.\n\nMy skin looks soo better and my scars have fade in just three sittings.\n\nAnd tq for the great hospitality and good care which u have given during the procedure",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURIdnRPVkJREAE",
+      "author": "Nandishree",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "It's vary good job thank you for forever company ❤️",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURIaHRmQzZBRRAB",
+      "author": "Amar Babu",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I was suffering with urticaria since many days, consulted Dr.Keerthi Sidda .She  investigated for the underlying cause and suggested treatment accordingly ,following that my skin condition got cleared. Till date my urticaria didn't come back. One of the best treatments after consulting many other dermatologists. I strongly recommend to consult Dr.Keerthi Sidda for all your skin and hair concerns.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNIaUx1MGxRRRAB",
+      "author": "Ravi Kiran Nudurupati",
+      "rating": 5,
+      "relative_date": "Edited a year ago",
+      "text": "Best Dermatologist.\nPerfectly Perfect Treatment.\n\nShe is my Hair Doctor.\n\nVery patient, Highly talented, Dedicated & Devoted to her duty.\n\nBTW she is my junior in Medical College & I’m proud of her.\n\nGod Bless You.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ3dl9YMXFnRRAB",
+      "author": "B Brahmaiah",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ3bWR2V2RBEAE",
+      "author": "Aparna",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I was struggling with acne for 5 years or so since high school through college. In that time I tried all of the methods and techniques online that I could find. From different face-washes, exfoliants, cleansing acids, and even quitting whey protein because people said it would help. At the end of the day some worked better than others but my acne was not gone. When I sent pictures of my acne to Keerthi-akka, within the hour she purchased and sent the necessary skin care supplies overseas. I could notice the difference within the week! Since then my acne has gotten better and better, and I’ve gotten so many people asking what I did. Keerthi-akka is truly an amazing dermatologist and I highly recommend 5/5. ~\nThankyou Keerthi Akka ❤️\nMourya & Aarya",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURib2Q3cWx3RRAB",
+      "author": "Sonika Choudary",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNiMklUVUxnEAE",
+      "author": "Divya J",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Doctor has been very helpful with my skin condition . She takes time to address all your questions & all my doubts have been cleared.Really recommend it for any skin related issues.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChRDSUhNMG9nS0VJQ0FnSUNydl94SxAB",
+      "author": "Kavala Vinny",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Excellent and trusted results,thank u mam",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNyM19fWVNREAE",
+      "author": "Sasirekha T",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I would strongly recommend Dr.keerthi for your skin and hair concerns. I visited her for my unwanted hair , she gave best treatment sessions with the most advanced laser…I see a lot of change in my face…& I'm happy with results.the doctor is well experienced & patient friendly",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNyeFlUUTJRRRAB",
+      "author": "alex gladiator",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Here's a review for a dermatologist:\n\n*5/5 stars*\n\n\"I had an exceptional experience with Dr.keerthi From the initial consultation to the follow-up appointment, the care and attention I received were top-notch. She took the time to listen to my concerns, explained my hair condition in a way that was easy to understand, and created a personalized treatment plan that has made a significant difference to my hair. The staff was friendly, professional, and accommodating. I appreciated the modern and clean facilities, and the availability of appointment times that fit my schedule.\n\nDr. Keerthi's expertise, bedside manner, and willingness to answer all my questions made me feel at ease and confident in their care. I highly recommend her to anyone seeking a knowledgeable, compassionate, and effective dermatologist.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNyMGJ1MkNnEAE",
+      "author": "Venkayamma Yarram",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I consulted Dr.Keerthi Sidda for my corns problem, she understood my concern and treated accordingly. She also advised regarding what are the precautions to be taken to avoid getting corns in future. I am very much satisfied with doctor treatment and strongly recommend to consult her any skin or hair related issues.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNyM3RyTENnEAE",
+      "author": "Mohini Sekhar",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNyb3RfYm53RRAB",
+      "author": "Prathyusha Yennisetty",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Nice to have consultation with Dr keerthi ,very humble,kind and treatment is very satisfying",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURMMWN1UFh3EAE",
+      "author": "Raju prathipati",
+      "rating": 5,
+      "relative_date": "Edited 2 years ago",
+      "text": "Dr. Keerthi mdm, developed a personalized treatment plan for me, which has led to significant improvements in my skin condition. I highly recommend her to anyone seeking professional and compassionate dermatological care. The positive reviews from other patients also reflect her dedication and expertise in the field. I recommend the best doctor in Guntur is Dr.keerthi garu.she takes personal care about your skin.I have experienced from teen age.Now my skin is in good condition.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNMcnF2V21BRRAB",
+      "author": "G RAVIKISHORE",
+      "rating": 5,
+      "relative_date": "Edited 2 years ago",
+      "text": "I was very much concerned about my thin scalp. At the right time I have consulted Dr keerti sidda madam. With the accurate timely advice of the doctor my hair has regrown with in four months.Timely advice given both medically and clinically is the best part of Dr keerthi sidda skin clinic.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNMOG9pUDlnRRAB",
+      "author": "Ravi Kiran",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNMM1BPU0dREAE",
+      "author": "srinivasa Reddy Sanikommu",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURUb3BqcnlnRRAB",
+      "author": "Rahul Garikapati",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURqM1lMTjVBRRAB",
+      "author": "Ratnababu Guntur",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Nice treatment and very care... Medicine also Worthful for the price... Fast relief... Thank u so madam...",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURqclBqbHZRRRAB",
+      "author": "anusha deepthi",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I approached Dr. keerthi Sidda for my skin tags and dark spots, she understood my problem and treated accordingly. She removed all the skin tags and gave depigmentation treatment. Now my skin looks so clear and healthy☺️. I am very much satisfied with the results👍. Thank you so much Doctor. I strongly recommend Dr. Keerthi Sidda to address your skin and hair concerns.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURqek9HRXNnRRAB",
+      "author": "saranu ramya",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I would strongly recommend Dr.keerthi.she gave best treatment & I'm happy with results.the doctor is well experienced & patient friendly",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNqc3BDdzlBRRAB",
+      "author": "Ayesha Afreen",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUREd1phM0tnEAE",
+      "author": "Hemanth Ram Reddy Sidda",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUREOXI3NEJnEAE",
+      "author": "Sravani Javangula",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUREdXFpSHVnRRAB",
+      "author": "Angel Sriramula",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUREaE5IcGFnEAE",
+      "author": "Tirupathi Reddy",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURENkoyeWt3RRAB",
+      "author": "indira nakkala",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I got my skin tags removed by Dr.keerthi..It was painless and smooth experience😊 …",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNEdDRtNkd3EAE",
+      "author": "reddydileepkumar. kurnool",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNEdDZpcmFREAE",
+      "author": "Venkat reddy",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "They gave Best treatment with latest equipment..",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNEM2JDd3pBRRAB",
+      "author": "vamsi krish",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Good and nice treatment",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNEbmJMTkVREAE",
+      "author": "Leo Logane",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Highly professional and result oriented\nDr. Keerthi was being very supportive and providing the customized  solutions. Following the prescribed medicines diligently will fetch the right results.\n\nThanks for the support Dr Keerthi & Team\n\nPS : Would recommend to those who are looking for a result oriented PRP hair growth solutions.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNEcGRiN25nRRAB",
+      "author": "V S",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Hi, my name is Teja and I would like to share a review about my experience at Dr. Keerthi Sidda’s Laser Skin clinic. I approached the doctor for my hair fall , skin tags and dull skin. The doctor was very nice and patient in explaining me the steps involved in each of the procedures, so that I am prepared for what was coming. Dr. Keerthi paid utmost attention in listening to all my concerns and responded to all queries explaining various treatment options and told me when to expect results of the procedure as well as the post procedure care and instructions.\n\nThe cost of treatment is very reasonable and  patient centric environment. I have underwent multiple cosmetic procedures with satisfying results at a reasonable price. I highly recommend Dr. Keerthi Sidda’s Laser clinic for most of your cosmetic needs!",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNEeG83QUtBEAE",
+      "author": "pavithra reddy",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I would strongly recommend Dr Keerthi. Best doctor in guntur",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNELXA3emVBEAE",
+      "author": "NASEEMA SHAIK",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNEdXBXdjRRRRAB",
+      "author": "Ragini P",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Consulted Dr Keerthi for laser hair reduction. I'm happy with the results. The doctor is well experienced and patient-friendly. Would recommend her for skin and hair problems. 👍 …",
+      "has_owner_reply": false
+    }
+  ],
+  "reviews_error": "",
+  "sorted_newest": true,
+  "stopped_at_known_review": false,
+  "reviews_captured": 112,
+  "owner_replies": 21,
+  "reviews_coverage": 1.0,
+  "date_anchor": "2026-08-20T23:05:12",
+  "extract_seconds": 52.5,
+  "missing_fields": [
+    "website"
+  ],
+  "page_rendered": true,
+  "error": ""
+}

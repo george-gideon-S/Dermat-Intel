@@ -1,0 +1,170 @@
+{
+  "rank": 28,
+  "query": "book appointment skin doctor Guntur",
+  "at": "2026-08-21T20:56:09",
+  "ai_overview": null,
+  "ai_capture": {
+    "present": false,
+    "available": false,
+    "waited_s": 25.0,
+    "expanded": false,
+    "settled": "timeout",
+    "length": 0
+  },
+  "more_places": {
+    "status": "ok",
+    "names": [
+      {
+        "position": 1,
+        "name": "Kolors Hair & Skin Clinic - Guntur My Ad Centre",
+        "rating": 4.9,
+        "reviews": 163,
+        "snippet": "Sponsored · 4.9 (163) · Skin care clinic · opposite HDFC Bank · Closed · Opens 6 am Sat · Book an appointment today - Kolors is the best hair treatment clinic and hair salon offering the best hair care solutions in Guntur, Andhra Pradesh"
+      },
+      {
+        "position": 2,
+        "name": "Dr. S. Akshay Jain/Dermatologist(skin doctor)in Guntur/Trichologist(Hair specialist)/Cosmetic/SkinClinic/Laser hair reduction",
+        "rating": 4.9,
+        "reviews": 348,
+        "snippet": "4.9 (348) · Dermatologist · SKIN LANE CLINIC, Menakshi Hospital, Besides, Pattabhipuram Rd, opposite Jute Mill · Closed · Opens 6 pm Sat · \"There is lot of improvement in my skin condition with his treatment.\""
+      },
+      {
+        "position": 3,
+        "name": "Skin Perfect Clinic",
+        "rating": 4.9,
+        "reviews": 641,
+        "snippet": "4.9 (641) · Dermatologist · Old Club Rd, beside Yoda diagnostic lab · Closed · Opens 10 am Sat · \"Their is lot of improvement in my skin condition with her treatment .\""
+      },
+      {
+        "position": 4,
+        "name": "SKIN LANE CLINIC-Kothapet /Dr.AKSHAY JAIN /Best Dermatologist in Guntur /Trichologist /Best Skin & Hair doctor in GUNTUR",
+        "rating": 5.0,
+        "reviews": 348,
+        "snippet": "5.0 (348) · Skin care clinic · Skin Lane Clinic, 0pp : Muthoot finance, Somuvari St · Closed · Opens 10 am Sat · \"Most reasonable and affordable skin doctor in guntur with fast results.\""
+      },
+      {
+        "position": 5,
+        "name": "Dr Ragini's Skin & Hair Clinic / Best dermatologist (skin doctor) in Guntur",
+        "rating": 4.9,
+        "reviews": 151,
+        "snippet": "4.9 (151) · Dermatologist · Kanchan towers, D no 2-212, Pattabhipuram Rd, opposite Raghuram children's hospital · Closed · Opens 10 am Sat · On-site services"
+      },
+      {
+        "position": 6,
+        "name": "Chandana Skin Clinic | Dermatologist | Cosmetologist | Laser Scar Treatment, Laser hair reduction",
+        "rating": 4.6,
+        "reviews": 386,
+        "snippet": "4.6 (386) · Skin care clinic · 18/1, Arundelpet, behind Joy Alukkas Jewellery Showroom, opposite siva cinemas · Closed · Opens 10 am Sat · On-site services"
+      },
+      {
+        "position": 7,
+        "name": "Dr.Pooja's B18 Skin Clinic | Best Dermatologist in Guntur | Cosmetology | Trichologist | Anti Aging | Skin Doctor Guntur",
+        "rating": 5.0,
+        "reviews": 82,
+        "snippet": "5.0 (82) · Skin care clinic · Amaravathi Rd, beside BVR Convention, opp. Axis Bank · Closes soon · 9 pm · On-site services"
+      },
+      {
+        "position": 8,
+        "name": "Dr Sowmya Skin clinic - kothapeta",
+        "rating": 4.9,
+        "reviews": 773,
+        "snippet": "4.9 (773) · Dermatologist · Sowmya hospital, Dr, Old Club Rd, beside RK Scan Center · Closed · Opens 10 am Sat · \"My skin issues were resolved quickly and professionally.\""
+      },
+      {
+        "position": 9,
+        "name": "Dr Sowmya Skin Hair Laser Clinic - Chandramouli nagar",
+        "rating": 4.8,
+        "reviews": 528,
+        "snippet": "4.8 (528) · Dermatologist · 1/1, lane, opp. Bakers fun · Closed · Opens 3 pm Sat · \"Madam suggested me in excellent manner for my skin issues.\""
+      },
+      {
+        "position": 10,
+        "name": "Dr Uma's Skin Hair & laser Clinic",
+        "rating": 5.0,
+        "reviews": 134,
+        "snippet": "5.0 (134) · Skin care clinic · D.no 3-1, 194/2B, Main Road, beside SBI bank · Closes soon · 9 pm · \"Very good treatment, my skin problem cleared in 2 sittings.\""
+      },
+      {
+        "position": 11,
+        "name": "Dr. Kavya Chekuru Dermacure Skin & Laser Clinic | Best Skin Clinic & Doctor in Guntur | Top Skin Hospital in Guntur",
+        "rating": 5.0,
+        "reviews": 236,
+        "snippet": "5.0 (236) · Skin care clinic · 1st Floor, Doctors Plaza, Kothapet Main Rd · Closed · Opens 10 am Sat · \"Diagnosed my skin problem and treated me well with in 10 days.\""
+      },
+      {
+        "position": 12,
+        "name": "Skin kare Clinic",
+        "rating": 4.8,
+        "reviews": 383,
+        "snippet": "4.8 (383) · Skin care clinic · Lakshmipuram Main Rd · Closed · Opens 10 am Sat · \"I got clear skin.acne complete cured\""
+      },
+      {
+        "position": 13,
+        "name": "Leelavathi Advanced Skin & Laser Centre | best dermatologist in guntur",
+        "rating": 4.9,
+        "reviews": 251,
+        "snippet": "4.9 (251) · Skin care clinic · Puvada Vari Street Pottur Vari Thota Anna Srinivasa Rao Kalyana Mandapam, Road · Closed · Opens 10:30 am Sat · \"Excellent treatment for skin brightening treatment.\""
+      },
+      {
+        "position": 14,
+        "name": "Manoharam Skin, Laser and Cosmetology Clinic",
+        "rating": 4.8,
+        "reviews": 73,
+        "snippet": "4.8 (73) · Skin care clinic · 1st Floor, 4/2 · Closes soon · 9 pm · \"Highly qualified doctor and best skin care hospital in guntur.\""
+      },
+      {
+        "position": 15,
+        "name": "Dr.Keerthi Sidda's Skin,Hair& Laser clinic| Best Dermatologist in guntur | Trichologist |Aesthetic dermatologist |PMUartist",
+        "rating": 5.0,
+        "reviews": 112,
+        "snippet": "5.0 (112) · Skin care clinic · JNR Complex, Ring Rd, opp. Donbosco College · Closed · Opens 10 am Sat · On-site services"
+      },
+      {
+        "position": 16,
+        "name": "Dr.Aashik Shahid / Dermatologist /Skin Hair and Cosmetic clinic",
+        "rating": 5.0,
+        "reviews": 66,
+        "snippet": "5.0 (66) · Dermatologist · Brundavan Garden's Petrol Bunk, 6, Pattabhipuram Rd, opp. indian oil · Closes soon · 9:30 pm · \"I have been taking treatment for acne and have very positive results.\""
+      },
+      {
+        "position": 17,
+        "name": "Chiranjeevi Skin Care Clinic",
+        "rating": 4.8,
+        "reviews": 99,
+        "snippet": "4.8 (99) · Skin care clinic · 4-3-16, Ramannapet 1st Ln · \"Best skin care\""
+      },
+      {
+        "position": 18,
+        "name": "VIJAYANAND skin, hair & cosmetic care",
+        "rating": 4.9,
+        "reviews": 42,
+        "snippet": "4.9 (42) · Medical clinic · Dr. No - 30, 5/15 · \"I highly recommend this dermatologist for anyone seeking expert care.\""
+      },
+      {
+        "position": 19,
+        "name": "Dr. Sneha Kovi",
+        "rating": 4.8,
+        "reviews": 200,
+        "snippet": "4.8 (200) · Dermatologist · Kugler Hospital Rd · Closed · Opens 9 am Sat · On-site services"
+      },
+      {
+        "position": 20,
+        "name": "Suram Subrahmanyam Clinic",
+        "rating": 4.0,
+        "reviews": 265,
+        "snippet": "4.0 (265) · Dermatologist · Old Club Rd · Closed · Opens 9 am Sat · \"Good doctor for skin related problems.\""
+      },
+      {
+        "position": 21,
+        "name": "Ramesh Skin Clinic",
+        "rating": 4.7,
+        "reviews": 160,
+        "snippet": "4.7 (160) · Dermatologist · Door no: 12, 12-47, Old Club Rd, opp. Amrutha Hospitals · Closed · Opens 9:30 am Sat · \"Excellen treatment Given by the sir...\""
+      }
+    ],
+    "url": "https://www.google.com/search?q=book+appointment+skin+doctor+Guntur&sca_esv=2d9245e2f52acf9d&gl=in&hl=en&pws=0&udm=1&lsack=6W2IavCHNt6ZseMP7ce1iQQ&sa=X&ved=2ahUKEwiwoJj5g7KWAxXeTGwGHe1jLUEQjGp6BAgjEAA",
+    "requests": 1
+  },
+  "google_requests": 2,
+  "reparsed": true
+}

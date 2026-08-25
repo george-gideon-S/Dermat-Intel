@@ -1,0 +1,789 @@
+{
+  "key": "ChIJjU8ZIF6LNToRmQAF-MlMYBQ",
+  "tier": "full",
+  "complete": true,
+  "place_url": "https://www.google.com/maps/place/Dr.Pooja%27s+B18+Skin+Clinic+%7C+Best+Dermatologist+in+Guntur+%7C+Cosmetology+%7C+Trichologist+%7C+Anti+Aging+%7C+Skin+Doctor+Guntur/data=!4m7!3m6!1s0x3a358b5e20194f8d:0x14604cc9f8050099!8m2!3d16.3258487!4d80.4377307!16s%2Fg%2F11x2vlhtkm!19sChIJjU8ZIF6LNToRmQAF-MlMYBQ?authuser=0&hl=en&rclk=1",
+  "captured_at": "2026-08-20T23:04:19",
+  "rank": 8,
+  "place_id": "ChIJjU8ZIF6LNToRmQAF-MlMYBQ",
+  "feature_id": "0x3a358b5e20194f8d:0x14604cc9f8050099",
+  "kg_mid": "/g/11x2vlhtkm",
+  "lat": 16.3258487,
+  "lng": 80.4377307,
+  "dup_of_rank": null,
+  "has_online_booking": false,
+  "booking_url": "",
+  "booking_vendor": "",
+  "service_options": null,
+  "permanently_closed": false,
+  "temporarily_closed": false,
+  "status_text": "Closed · Opens 10 am Fri",
+  "open_now": false,
+  "is_ad": false,
+  "review_snippet": "",
+  "name_raw": "Dr.Pooja's B18 Skin Clinic | Best Dermatologist in Guntur | Cosmetology | Trichologist | Anti Aging | Skin Doctor Guntur",
+  "name_clean": "Dr.Pooja's B18 Skin Clinic",
+  "name_key": "drpoojasb18skinclinic",
+  "name_dropped": [
+    "Best Dermatologist in Guntur",
+    "Cosmetology",
+    "Trichologist",
+    "Anti Aging",
+    "Skin Doctor Guntur"
+  ],
+  "name_was_cleaned": true,
+  "category": "Skin care clinic",
+  "card_category": "Skin care clinic",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "Amaravathi Rd, beside BVR Convention, opp. Axis Bank, Panduranga Nagar, Guntur, Andhra Pradesh 522034",
+  "plus_code": "8CGQ+83 Guntur, Andhra Pradesh",
+  "phone": "094417 89897",
+  "website": "",
+  "website_domain": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "insecure_http": false,
+  "website_matches_name": null,
+  "rating": 5.0,
+  "reviews_total": 82,
+  "rating_histogram": {
+    "5": 81,
+    "4": 1,
+    "3": 0,
+    "2": 0,
+    "1": 0
+  },
+  "histogram_sum": 82,
+  "histogram_reconciles": true,
+  "topics": {
+    "skin allergy treatment": 4,
+    "hair fall treatment": 4,
+    "prp": 4,
+    "tan removal": 2,
+    "melasma treatment": 3,
+    "laser toning": 2,
+    "microneedling": 4,
+    "chemical peel": 2,
+    "hydrafacial": 2,
+    "dermatologist": 8
+  },
+  "google_profile_gaps": [
+    "Add website"
+  ],
+  "has_photos": true,
+  "hours": {
+    "Thursday": "10 am to 1:30 pm, 5 to 9 pm",
+    "Friday": "10 am to 1:30 pm, 5 to 9 pm",
+    "Saturday": "10 am to 1:30 pm, 5 to 9 pm",
+    "Sunday": "10:30 am to 1:30 pm",
+    "Monday": "10 am to 1:30 pm, 5 to 9 pm",
+    "Tuesday": "10 am to 1:30 pm, 5 to 9 pm",
+    "Wednesday": "10 am to 1:30 pm, 5 to 9 pm"
+  },
+  "about": {
+    "Service options": [
+      " On-site services"
+    ],
+    "Amenities": [
+      " Restroom"
+    ],
+    "Planning": [
+      " Appointments recommended"
+    ],
+    "Payments": [
+      " NFC mobile payments"
+    ],
+    "Map details": [
+      "Transit",
+      "Traffic",
+      "Biking",
+      "Terrain",
+      "Street View",
+      "Wildfires",
+      "Air Quality"
+    ],
+    "Map tools": [
+      "Travel time",
+      "Measure"
+    ],
+    "Map type": [
+      "Default",
+      "Satellite",
+      " Globe view ",
+      " Labels"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paSlJ6WkVRMjVWUm1OUlJEZE1jRFpRVEdWWlFrRRAB",
+      "author": "Pramod Mahajan",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "I came here for hairfall.. dr pooja mam treated very well",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WVWMzQnpNMm8xYUhWV1Z6UmtNR1JMZVROc1QzYxAB",
+      "author": "anusha gogula",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tvdFVubGpaMHhrUlc1a05HOVdhMGxXTFhvNFZYYxAB",
+      "author": "Lakshmi Prasanna",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "Highly recommended for anyone with skin Care Procedures & problems. The consultation was thorough and the treatment plan was simple to follow.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25FM1kycHhabXh5T0hKaGNHeFVlVGQ1YzBsamVWRRAB",
+      "author": "Aparna’s Paakashala",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wYU4zRTVYM1YxT1ZCTVZIUlNTeTB5U1VaaWJsRRAB",
+      "author": "Rohan suhas Bandlamudi",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tscllYTmFhbVkzYnpKSWRrNURZekp4TkRoaE5uYxAB",
+      "author": "Nikhila Sweety",
+      "rating": 5,
+      "relative_date": "Edited 2 months ago",
+      "text": "The way they treat patients are amazing ✨",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ReFJrOWpWRkIzYVhWR1lrTkVWSFp3Y0hCcmNHYxAB",
+      "author": "Durga Tellabati",
+      "rating": 5,
+      "relative_date": "2 months ago",
+      "text": "The best dermatologist ever I met .the best explanation and\ngood experience",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pObk1EUnBiV3B2WlVFNFducHhSWFI1UjNoek9YYxAB",
+      "author": "charan sai",
+      "rating": 5,
+      "relative_date": "2 months ago",
+      "text": "I got skin dullness and darkness . I got treatment at B18 skin clinic from Dr Pooja. I have seen very good difference in my skin with in a month . After trying at multiple skin clinics I can say B18 skin clinic is best in Guntur!!",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SRFlXOVdUbUkzUjI0emFFRm1jbXhqVVhwT2VGRRAB",
+      "author": "Laasya",
+      "rating": 5,
+      "relative_date": "2 months ago",
+      "text": "I recently underwent a skin booster treatment at b18 skin clinic, and I'm very happy with the experience. The staff was professional, friendly, and took the time to explain the procedure and answer all my questions. The treatment was comfortable, and the clinic maintained excellent hygiene standards. After the 1st session, my skin felt more hydrated, smoother, and looked noticeably healthier. The follow-up care and guidance were also very helpful. I would highly recommend this clinic to anyone considering skin booster treatments or other skincare procedures.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xSlgySllSSEZ3YURJdFMzRnVXa3BtTlVwSFFWRRAB",
+      "author": "syamala ankireddy",
+      "rating": 4,
+      "relative_date": "3 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGaFVFSlBiR2RoWkhBMmVqVjJWSFYwVW5KMVVXYxAB",
+      "author": "Rocky Koti",
+      "rating": 5,
+      "relative_date": "Edited 6 months ago",
+      "text": "I tried multiple products for hair fall, but nothing worked like this, My hair feels stronger and fuller. i am so happy with the results😊 …",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paUVNIQmxXa3hDU21obFdVTjFSMHBRVnkxaFIzYxAB",
+      "author": "jyothendranath venigalla",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "Had a good experience overall. The dermatologist is knowledgeable and answered all my questions. Treatment seems effective so far. Waiting time was slightly long but worth it. highly recommend.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKd1EzQldUMHd0V2xReWNYTTBaVTVZVFZwMFQxRRAB",
+      "author": "venkata malli",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "Visited the clinic for acne treatment. The dermatologist explained the problem clearly and suggested a personalized plan. Staff was polite and hygiene was well maintained.  Highly recommended.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21RNWNtRXlXVWQ0VkVJeWJWOTRWWGRJZDNVd2VXYxAB",
+      "author": "Deepika Govathoti",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "Best skin doctor i have ever seen, very much friendly and genuine doctor.. satisfied and loved the service❤️❤️❤️ tq Dr.Pooja mam❤️",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WVWJtY3hSVkpOZGpSWFFtVXhObUpRT1ZGdVRXYxAB",
+      "author": "sujeeth_raj Vejendla",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "Madam explained my acne treatment in detail and suggested the perfect routine for my skin. Her guidance was clear and professional. Highly recommend visiting for any skin concerns.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxUE4zTXRjVmMyWld4NWJ6VlJWbVpyY1VKRU4xRRAB",
+      "author": "raghu nandan",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "best dermatologist",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t3eWJXMTBVMVp6YUdNMFRWZEtlbTVFT1dwcE5VRRAB",
+      "author": "Siva Nagalakshmi",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "I recently underwent laser toning treatment at B18 skin clinc, Before the treatment, my skin was uneven tone. After 3sessions, my skin looks like brighter and smoother.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSNU1taEJTamsyYVhsVFZWaHVkVmw2T1RJelZWRRAB",
+      "author": "Bannu Narendra",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "I am suffering with severe acne and I visited the clinc after i got resolved and  thank you to doctor for giving such a nice treatment for me.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tNeVpVeDVVR0p5YldJNWRFeHpWRVpPV2tKaFNGRRAB",
+      "author": "Tejaswini Kotha",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "I recently visited B18 Skin clinic for my Hair growth treatment, and I was thoroughly impressed with the service and results. DR. Pooja mam  was very knowledgeable and explained my treatment options clearly. The GFC was effective. I had  issue with hair growth and after 5 sessions, I saw significant improvement.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WRFRXeG9kWEZqU1Vwd1EzSkVSRmcyZEc5aVZGRRAB",
+      "author": "Pramod Pramod",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "I was hesitant about trying treatments like hydrafacial and laser therapy but the team made me feel comfortable and informed. They carefully explained the benefits, process, and aftercare so I knew exactly what to expect. After completing my sessions, I have seen a remarkable improvement in hydration, glow, and overall skin texture. The results exceeded my expectations and I really appreciate the professional care I received",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWbVNESk9aa2h5Y0RSU1RVVk9XVTlOUjBORE1GRRAB",
+      "author": "Mjsai kumar",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "I have struggled with acne and uneven skin tone for years and tried countless products without much success. Visiting this clinic was a game-changer. The dermatologist took the time to understand my skin concerns and explained a clear step-by-step treatment plan. After a few sessions of medifacial and a personalized skincare routine, my skin looks noticeably clearer, smoother, and healthier. I feel more confident and happy with my skin than ever before",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOS2VFbzVabGxCTVhCeWFEVTFXR3MwWlRsRlJHYxAB",
+      "author": "Aruna Bathula",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKTFQxQTNhRlV0YkZGaVNWaFpiMmhtVWpGblZYYxAB",
+      "author": "mohankrishna. urbanfly",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "After struggling with pigmentation for years, I finally found visible results through their customized treatment plan. My skin tone is now more even and radiant. Highly recommend their services. And the clinic was maintained with good Hygiene",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KclFrbzRTRzQ1Y2t0UlgxOWFaamxtVjNKb1ZYYxAB",
+      "author": "Mahesh Sambarapu",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "“Clean clinic, experienced dermatologists, and great results! I’ve tried many places before but B18 truly stands out in terms of technology and personal care. Worth every penny!”",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25vMFRWbGZNbTQzZW1rMFozUlpWVzB0WldrelgxRRAB",
+      "author": "Racharla Shruthi",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I visited B18 Skin Clinic for hair restoration and couldn’t be happier with the results. The team tailored my treatment plan, and I’ve already seen noticeable improvements in hair thickness and density. The clinic is well-equipped, and the atmosphere is relaxing. Highly recommend for anyone seeking effective hair or skin treatments!",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sQk5HZEtXR3QwZFcxUlZXZE9jbWMxU0hORFRYYxAB",
+      "author": "Arjun Nenavath",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "B18 Skin Clinic is the best place for advanced laser hair removal. The sessions are painless, the staff is friendly, and the hygiene is top-notch. I'm super happy with the results!”",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pORFYzbG1OR1ZpV1d4WVVsaGFSVEJPTlRCNE4zYxAB",
+      "author": "Mohan Krishna",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Had a great consultation and treatment at B18 Skin Clinic. The dermatologist was knowledgeable and listened to all my concerns. The only reason I’m giving 4 stars instead of 5 is because the waiting time was a bit long, but overall the results were fantastic. Will definitely visit again.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT213eFVGVmZVelJxUVZwVVYxSlBWRXBYWVhWdVVWRRAB",
+      "author": "Podishetti Rohith",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "B18 Skin Clinic exceeded my expectations in every way. The staff is extremely professional, and Dr. Pooja took the time to thoroughly explain my treatment options. The clinic is clean, well-maintained, and uses the latest technology. I noticed visible results within a few sessions. Highly recommend for anyone looking for expert skincare solutions",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2trMFpsVnpZakZTVEVjeGVEZFFUSGh3TTNOc2RtYxAB",
+      "author": "Anil kumar Chowdary",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VNeVp5X2VtZ1lTYUFnEAE",
+      "author": "B Sai Datta Karthik",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I’ve tried everything for hair thinning—this is the first time I’ve seen real results. My hair feels thicker and healthier.Thanks for Dr.Pooja",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VNN2twbzIxM3ZYeldREAE",
+      "author": "Doppalapudi Ajay vardhan",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Best place for hair fall treatment. Not just products—they offer genuine, doctor-led solutions that make a difference.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VKYnQwWlRFNS1ma3pnRRAB",
+      "author": "R Krishna Sai",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Had a skin allergy that no one else could diagnose. They figured it out in one visit and gave me a treatment that worked right away. Thanks for Dr.Pooja",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VOS1drS2JHejRfSi1nRRAB",
+      "author": "Rebel Spydyy",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I was worried about sensitive skin, but the doctor customized the treatment perfectly. No irritation, just clear, calm skin",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJbjdfY3lqeVp2dDFnRRAB",
+      "author": "Meesala Mukesh",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "After years of trying creams and home remedies, this clinic finally gave me a solution that worked for my stubborn acne scars",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJZVpwY0wxa29lcy1BRRAB",
+      "author": "Premchand somaiahgari",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Dr.Pooja was Professional, punctual, and very hygienic. The team here genuinely cares about my skin goals. I’m seen great results after my micro Needling sessions.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VLYmRzYkxONzdHSUtBEAE",
+      "author": "M Lakshmi",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "They helped me prep my skin for my wedding day and I couldn’t be more grateful. The glow was unreal!\nI've done multiple treatments here, including skin rejuvenation and PRP. Every visit has been smooth and effective. Thanks for Dr.Pooja",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VMLWZ3ZVcyajRuWU5nEAE",
+      "author": "gorla saikumar",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Dr. Pooja helped me with fine lines and dull skin using advanced anti-aging treatments. The improvement was in just a few sessions. She’s truly a skin expert.I am so happy about my skin.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VQN2c3TldKeGZuak1REAE",
+      "author": "Rasamolla Ganesh",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Dr. Pooja  is amazing! I’ve struggled with acne for years, and after just a few visits, my skin has never looked better. She listens carefully, explains everything, and makes you feel totally at ease. Highly recommend!",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VKeUpyUE8yaFBENEZBEAE",
+      "author": "Siva mani Uppala",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I got hydration shots at B 18 skin clinic for my dull skin. I am happy to see very good difference in my skin. For all advanced skin treatments I suggest this clinic.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VOU2FtZC1LMGFTRzR3RRAB",
+      "author": "mani kanta",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I got glutathione injections in Hyderabad previously. Now the same injection I got it b18 skin clinic with a very reasonable price. Thank u b 18 skin clinic for bringing all advanced procedures to Guntur.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VNVEQ5cDZqbmNtdGx3RRAB",
+      "author": "Vaishnavi Maraka",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VOUzFwZkh6LUllQnhnRRAB",
+      "author": "Praveen Samudrala",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I had dull and dry skin on my face . I got skin booster at B18 skin clinic by Dr Pooja . I can see wonderful results in my skin within 2 weeks of booster injection. Ideal place for all advanced cosmetic treatments in Guntur.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VNMkotODJiaGNPMDdnRRAB",
+      "author": "ISG Yaswanth",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I had pits on my face after pimples.I  got microneddling procedure and threads on my face by  Dr. Pooja .I can see very good difference after 3 sessions of treatment. Thank u b18 skin clinic",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VOZjVycEhUNjhDN1VBEAE",
+      "author": "BADIGe MARUTHI",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I had a wonderful experience for my dark spot problem cured with chemical peel procedure at B 18 skin clinic. I got 3 sessions done and I can see good difference in my skin",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VOMjJ1S1BPaUlEUFRREAE",
+      "author": "Varshitha Ravuri",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VLYTZnZHE3b2JXMTJ3RRAB",
+      "author": "Gandreti Tanuja",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I did a chemical peel and skin looks very fresher and brighter 😊 …",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VKbkQ3dmVQLXNxQllBEAE",
+      "author": "venkata vasu",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "\"I've been visiting Dr. Pooja for skin rejuvenation treatments and the difference in my skin is incredible. She uses modern techniques and takes a personalized approach. Definitely the best skin clinic in Guntur",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZMnAzS1BnEAE",
+      "author": "Sangarthi Lavanya",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Dr. Pooja is amazing! She diagnosed my skin condition accurately and the treatment she prescribed worked wonders. The clinic is clean, well-organized, and the staff is friendly. Highly recommend B18 Skin Clinic for anyone looking for effective skincare solutions",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvbWVDZ0VnEAE",
+      "author": "Chaitrika",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Just got a HydraFacial done at Dr. Pooja’s B18 Skin Clinic and honestly, my skin has never felt better. It was super gentle, no irritation at all, and I walked out glowing. Totally worth it for a quick refresh!",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTURveklxVTBnRRAB",
+      "author": "Saisri pathuri",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "The ambiance of clinic is very good. Doctor is friendly and very much experienced. My skin allergy got solved in a week.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJMllPWXp3RRAB",
+      "author": "vijaydurga gundubilli",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Must visit place for all ur hair problems. Naku white hair raavadam start ayyindi young age lone so check cheyinchukovadaniki B18 skin clinic ki vellanu. Doctor gave me serums and tablets. Avi start chesaka i can find difference. Best place in Guntur for ur skin and hair problem solution",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJdnJHcFdREAE",
+      "author": "Sudheer Kumar",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Nadi oily and pimple skin. B18 skin clinic lo doctor carbon peel suggest chesaru. Treatment cheyinchaka chala Bagundii na skin. Nice place to get skin procedures.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJdnNEQjZRRRAB",
+      "author": "Abdulmunaf Shaik",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I got Mesotherapy treatment for hair loss by dr Pooja at B 18 skin clinic. I got good difference in one session and only I am also using serums given by dr pooja. Very good place for all of ur hair problems",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJbm9QSHRRRRAB",
+      "author": "Pavan Pammi",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Soriyasis valla nenu B18 skin clinic kii velanuu.prathi session kii nenu changes chusanuu,ipudu nenu recover Aayi happy ga vundanuu..... thankyou for B18",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJN3NtVWFBEAE",
+      "author": "raghuram bollineni",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I visited Dr. Poojas B18 skin clinic for hair fall. Dr. Pooja suggested me GFC and PRP combined therapy and expalained the benefits very clearly. I have undergone the procedure n happy with the treatment.\nClinic is very neat and staff are very polite and obedient.\nI suggest every one dr. Poojas B18 skin clinic👍",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJOXJhWGZnEAE",
+      "author": "Vinay Gadiputi",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJdG9lemtnRRAB",
+      "author": "Siri Potluri",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Great place for all things skin and hair! Latest technology with great potential!",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJdHRQQ0p3EAE",
+      "author": "priyanka dulla",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Very much satisfied with Treatment from Dr.Pooja ...Best Recommended Hospital with best Treatment options",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJdHRQQVJREAE",
+      "author": "venkatarao jammula",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJdHIyRTF3RRAB",
+      "author": "Naren Koka",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJdHAyT0RnEAE",
+      "author": "Gokul Lakshman",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Good ambience and treatment",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJdG8yOFJ3EAE",
+      "author": "Abhinand M",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJc3JQS2xnRRAB",
+      "author": "rakesh ponaka",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I cannot thank Dr. Pooja enough for her incredible care and expertise! My mom has been struggling with melasma for a long time, and Dr. Pooja not only addressed her concerns but also suggested the Cosmelan peel. The results have been amazing in such a short time, and my mom is so excited to see the full transformation. Dr.Pooja’s dedication to her patients are truly commendable. Highly recommend her to anyone looking for effective and personalized skincare solutions. Thank you, Dr. Pooja",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJaFBXQnBRRRAB",
+      "author": "Viswanath Mtk",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I had my sister's marriage. I went to B 18 skin clinic for glowing effect on face. Dr Pooja suggested microneedling with GFC face. After procedure I can see super difference on my face. Thank u so much .",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJaEpYUXRRRRAB",
+      "author": "Awez Ali",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I underwent beard shaping laser hair removal at B 18 skin clinic. I am very much happy even after a single session of laser. Doctor is well experienced in all advanced procedures.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJLVBmejBnRRAB",
+      "author": "RAJESH VADTHYA",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I am kabaddi player.I had severe tan on my face. I went to B18 skin clinic for which dr suggested laser toning. I can feel the difference in single session itself. Procedure prices are also reasonable when compared to other places. U can definitely visit this place for ur skin problems.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJX3ZYdmZREAE",
+      "author": "Alekhya malathi Kundla",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Hi I'm Alekhya.Ravila resident of vijaywada...\nI have visited DR.Puja's B18 CLINIC yesterday... For skin GFC with microneedling... And I'm verrryyy much satisfied with results... My skin feels rejuvenated and plumpy after the procedure.. i highly recommend B18clinic for all the residents of guntur and vijaywada also... As Dr.puja is a highly experienced and a very professional dermatologist.. she is a highly qualified demat too .. I also use products recommend by her.. i must say this that she keeps a very few and natural derivate products for our skin concern.... I am very happy that I have choosen a dermat like Dr.puja and will continue going to B18 CLINIC......",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3aGVlOU1nEAE",
+      "author": "Santhisri",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Hospital is too good and clean staff was so friendly highly recommend for skin and hair problems",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3aGFPV3NBRRAB",
+      "author": "Babu Yadla",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Good hospital i recommended for skin and hair problems",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3MGFuTnpBRRAB",
+      "author": "lakshmi kalyani",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "very good treatment thank you so much Dr pooja garu",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3bXNmNG1BRRAB",
+      "author": "M Harsha vardhan",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I started losing hair in my late 20s, and it really hit my confidence. After researching options, I decided to try the PRP and GFC hair restoration treatments at Dr. Pooja's Skin Clinic. Wow, what a game-changer! Dr. Pooja customized the plan for me, combining both PRP and GFC, and after about four sessions, my hair is noticeably thicker and healthier. The process was quick, and there was no downtime—I could get back to my day right after. Dr. Pooja and her team are so professional and caring. I’m thrilled with the results!",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTURRdDZhODVnRRAB",
+      "author": "vikhyath chinnu",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I took one of  my relative for skin rash on her legs. After using medicine prescribed by Dr Pooja  rash subsided within a week . Doctor here is very much experienced. We are very much happy with treatment provided by doctor",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRMThmVEV3EAE",
+      "author": "prakhyath sundaragiri",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I got my skin tag removed which is very big in size here by Dr Pooja at B18 skin clinic. She removed it even without need of stitch. Very happy I recommend all of u for your skin related procedures.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRbTUtR2VBEAE",
+      "author": "yashwanth kandru",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I underwent GFC hair treatment for my hair loss at Dr Pooja s B18 skin clinic. Clinic is well maintained and staff also responded well. Dr Pooja is patient friendly and explained me all causes of hairfall and how to prevent it. Then GFC procedure went on smoothly. I am very much happy with the treatment provided by them",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRc283LVZREAE",
+      "author": "Nokesh Kandru",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I had a very good experience at B18 skin clinic. I am having hair loss since long time. As suggested by Dr Pooja I underwent PRP treatment for hair. Procedure went on very smoothly and I am very much happy with the procedure done. She explained me clearly about hair care tips as well as life style changes.\nI highly recommend this place for your hair concerns.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTURRakk3VG13RRAB",
+      "author": "laasya sri",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I visited B 18 skin clinic for my skin allergy which is there since long time. Dr Pooja is very much experienced dermatologist she explained all possible causes of my allergy and how to prevent it. I  recommend this place for your skin disease and for your skin treatment.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRcV9fbkhnEAE",
+      "author": "Hema latha Druga",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I am very much satisfied with the treatment provided by Dr Pooja at B 18 skin clinic. I took my mother for skin allergy which she is suffering since long time. After starting medication prescribed by doctor within 2 weeks allergy completely subcided. Thanku Dr Pooja and B 18 skin clinic team.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRcTQtMU1nEAE",
+      "author": "Stella Flarance",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Outstanding skin treatment. I had a amazing experience at B18 skin clinic for my skin treatment . Dr Pooja is very much experienced in treating skin and hair diseases. The clinic ambience is really good and staff r also well trained.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRN3FqTmF3EAE",
+      "author": "GARIKIPATI SUMANTH",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "\"Highly recommend B18 Skin Clinic! Dr. Pooja is knowledgeable and caring. The clinic is clean, and the staff is friendly. Guntur's best!\"\n\nand the results are incredible. 5 stars all the way!",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTURnMWJxbHp3RRAB",
+      "author": "Sharmila Kandru",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Wonderful experience with Dr. Pooja .  I got Medifacial done for tan few days back She explained everything in a clear way and instructed about all the precautions to be taken which made me feel that she cares much about her patients. Highly recommended.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTURnZ2NfR2xnRRAB",
+      "author": "HimaBindu Papana",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Highly recommend going to this clinic. Both the doctor and staff are too good and well maintained clinic. I had dark spots because of acne and got hydrafacial  done by Dr Pooja and it showed some instant glow in one single sitting. She also suggested anti pigmentation creams and moisturisers which I have been using since 2weeks and it’s been working wonderful on my skin. Definitely would visit again. Thank you Dr Pooja",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTURndHFiZXlBRRAB",
+      "author": "charan sai",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I consulted Dr.Pooja at B18 skin clinic for my skin concern. She clarified all my doubts patiently and explained my skin disease in detail and my allergy started subsiding within 3 days of starting treatment. Thank you B18 skin clinic.",
+      "has_owner_reply": true
+    }
+  ],
+  "reviews_error": "",
+  "sorted_newest": true,
+  "stopped_at_known_review": false,
+  "reviews_captured": 82,
+  "owner_replies": 59,
+  "reviews_coverage": 1.0,
+  "date_anchor": "2026-08-20T23:04:19",
+  "extract_seconds": 49.8,
+  "missing_fields": [
+    "website"
+  ],
+  "page_rendered": true,
+  "error": ""
+}

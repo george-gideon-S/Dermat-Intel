@@ -1,0 +1,2922 @@
+{
+  "key": "ChIJ95LMSmt1SjoRdT8w_4RHYLA",
+  "tier": "full",
+  "complete": true,
+  "place_url": "https://www.google.com/maps/place/Dr.+S.+Akshay+Jain%2FDermatologist%28skin+doctor%29in+Guntur%2FTrichologist%28Hair+specialist%29%2FCosmetic%2FSkinClinic%2FLaser+hair+reduction/data=!4m7!3m6!1s0x3a4a756b4acc92f7:0xb0604784ff303f75!8m2!3d16.3055799!4d80.4220658!16s%2Fg%2F11mxnsl1p1!19sChIJ95LMSmt1SjoRdT8w_4RHYLA?authuser=0&hl=en&rclk=1",
+  "captured_at": "2026-08-20T22:55:00",
+  "rank": 2,
+  "place_id": "ChIJ95LMSmt1SjoRdT8w_4RHYLA",
+  "feature_id": "0x3a4a756b4acc92f7:0xb0604784ff303f75",
+  "kg_mid": "/g/11mxnsl1p1",
+  "lat": 16.3055799,
+  "lng": 80.4220658,
+  "dup_of_rank": null,
+  "has_online_booking": false,
+  "booking_url": "",
+  "booking_vendor": "",
+  "service_options": null,
+  "permanently_closed": false,
+  "temporarily_closed": false,
+  "status_text": "Closed · Opens 6 pm Fri",
+  "open_now": false,
+  "is_ad": false,
+  "review_snippet": "",
+  "name_raw": "Dr. S. Akshay Jain/Dermatologist(skin doctor)in Guntur/Trichologist(Hair specialist)/Cosmetic/SkinClinic/Laser hair reduction",
+  "name_clean": "Dr. S. Akshay Jain",
+  "name_key": "drsakshayjain",
+  "name_dropped": [
+    "Dermatologist(skin doctor)in Guntur",
+    "Trichologist(Hair specialist)",
+    "Cosmetic",
+    "SkinClinic",
+    "Laser hair reduction"
+  ],
+  "name_was_cleaned": true,
+  "category": "Dermatologist",
+  "card_category": "Dermatologist",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "SKIN LANE CLINIC, Menakshi Hospital, Besides, Pattabhipuram Rd, opposite Jute Mill, Krishna Nagar, Guntur, Andhra Pradesh 522006",
+  "plus_code": "8C4C+6R Guntur, Andhra Pradesh",
+  "phone": "079894 55662",
+  "website": "",
+  "website_domain": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "insecure_http": false,
+  "website_matches_name": null,
+  "rating": 4.9,
+  "reviews_total": 348,
+  "rating_histogram": {
+    "5": 338,
+    "4": 5,
+    "3": 0,
+    "2": 0,
+    "1": 5
+  },
+  "histogram_sum": 348,
+  "histogram_reconciles": true,
+  "topics": {
+    "skin specialist": 14,
+    "friendly doctor": 53,
+    "hair loss treatment": 7,
+    "trichologist": 3,
+    "skin infection treatment": 2,
+    "patient friendly": 10,
+    "patient education": 14,
+    "skin problems": 36,
+    "genuine doctor": 4,
+    "welcoming atmosphere": 6
+  },
+  "google_profile_gaps": [
+    "Add website"
+  ],
+  "has_photos": true,
+  "hours": {
+    "Thursday": "6 to 8:30 pm",
+    "Friday": "6 to 8:30 pm",
+    "Saturday": "6 to 8:30 pm",
+    "Sunday": "Closed",
+    "Monday": "6 to 8:30 pm",
+    "Tuesday": "6 to 8:30 pm",
+    "Wednesday": "6 to 8:30 pm"
+  },
+  "about": {
+    "Accessibility": [
+      " Wheelchair-accessible toilet"
+    ],
+    "Amenities": [
+      " Restroom"
+    ],
+    "Crowd": [
+      " LGBTQ+ friendly"
+    ],
+    "Planning": [
+      " Appointment required",
+      " Appointments recommended"
+    ],
+    "Payments": [
+      " Google Pay",
+      " NFC mobile payments"
+    ],
+    "Map details": [
+      "Transit",
+      "Traffic",
+      "Biking",
+      "Terrain",
+      "Street View",
+      "Wildfires",
+      "Air Quality"
+    ],
+    "Map tools": [
+      "Travel time",
+      "Measure"
+    ],
+    "Map type": [
+      "Default",
+      "Satellite",
+      " Globe view ",
+      " Labels"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCMFpFdHNMVTB4VDNWUGQxQkxNblU1WVdSUmJXYxAB",
+      "author": "sai krishna kolluru",
+      "rating": 5,
+      "relative_date": "3 weeks ago",
+      "text": "He listens patiently and gives best treatment",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OM1VreFlTMkl0WDJOVlVHUnpWRGxZYmpJemRHYxAB",
+      "author": "Divya",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kwMGNEaHlaR2xhYjFOT1JtVXhObk5JUlZKQmEzYxAB",
+      "author": "Arava Surendra",
+      "rating": 5,
+      "relative_date": "2 months ago",
+      "text": "Best treatment and friendly manner of behaviour, finally good experience",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t3eWJITlZaa1Y0V1hNNUxUbHVNRTV6VVdGek9XYxAB",
+      "author": "vamsi Krishna Rachuri",
+      "rating": 5,
+      "relative_date": "2 months ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsYVJqUm1TR3RKY2poUlJFOTVORWhKYTBOcVJYYxAB",
+      "author": "Shaista Zabeen",
+      "rating": 5,
+      "relative_date": "3 months ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aa2RWZDNTbkZJUldndFZXUjJaMHBQVkVWdmRuYxAB",
+      "author": "Maadesh 07",
+      "rating": 5,
+      "relative_date": "3 months ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT200elpIVkxSMVZSWWtFeU9HTjNZemRFWVRBNVRHYxAB",
+      "author": "venu gopal",
+      "rating": 5,
+      "relative_date": "3 months ago",
+      "text": "Dr. Akshay Jain, the best friendly doctor I have ever seen. Well professional and offers treatment at affordable cost and the results are really satisfactory.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wVVpUSkxURVZNTVVkZlRTMTZTM04wUldSc1VVRRAB",
+      "author": "asma sk",
+      "rating": 5,
+      "relative_date": "3 months ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5UVZtcGFUVloyVTFkNlRFOVNlbkEwVDFNM1VVRRAB",
+      "author": "Belindas",
+      "rating": 1,
+      "relative_date": "3 months ago",
+      "text": "Not satisfied.he mentioned 15 years experience.but it's not true.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tFellWVnhSQzAzWjNRM1YxOXRVRFpmTFV0U1puYxAB",
+      "author": "Viaan Jain",
+      "rating": 5,
+      "relative_date": "4 months ago",
+      "text": "Good doctor",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oWU5sRm9lSFpPUzB4a1dEQjNNa3BvTlRaMlpXYxAB",
+      "author": "Ramakrishna Mandapati",
+      "rating": 5,
+      "relative_date": "4 months ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoQlVTMXFkMEZIVFhOeVUyUmZTbGh0V0hrdFVtYxAB",
+      "author": "basa yokesh",
+      "rating": 5,
+      "relative_date": "5 months ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GcFJtOVpjbEJyZDJsYVJVOWFNVEowUm1jMFJWRRAB",
+      "author": "gowri sankar ramisetty",
+      "rating": 5,
+      "relative_date": "5 months ago",
+      "text": "We r satisfied and impressed and good response came from doctor",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSd1dEaDBRMDlGVHpOVFpFeFhjVGd4V0VWeFFVRRAB",
+      "author": "CRDA office Nagaraju sir",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "Just talking to the doctor will cure half of the disease 😊 A doctor who gives treatment to patients with the sincere desire that their disease will get better soon 🙏 …",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25RMlFrUjJTalptVm1kWE0ySk9UbGQyYWpaZlVrRRAB",
+      "author": "Deepali SF",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "Great doctor with great skills.. very professional and honest. Makes the patient understand the process and then treats them.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOV1NtNVdSbTVyZUMxNloyVnpWbWxMV0VKM1kwRRAB",
+      "author": "Yadavalli Srinivas",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURua0l6cURnEAE",
+      "author": "AVR Murthy",
+      "rating": 5,
+      "relative_date": "Edited 8 months ago",
+      "text": "Friendly, cooperative, skilled, professional dermatalogist in the city of guntur. Would defintely recommend.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wQk0xVkdSbk0yYWtONGRsOWlZVkJNWkRFemVWRRAB",
+      "author": "Ravi babu",
+      "rating": 1,
+      "relative_date": "8 months ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5RlZWaDVUWEZsUzNseFoyUk9iR1pTTVRsNVZYYxAB",
+      "author": "jagadeesh indlamuri",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "I recently visited Dr. Akshay jain skincare doctor and had a wonderful experience. He listened attentively to all of my concerns and gave me very helpful suggestions for protecting and resolve my issue. The doctor took plenty of time to understand my issues in detail and explained every step of the treatment plan clearly. The clinic was spotless and very welcoming, and the staff members were polite and respectful throughout my visit. I felt truly cared for and confident by the end of my appointment. I highly recommend Dr. Akshay Jain's SKIN LANE CLINIC to anyone seeking excellent care.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCalQwZGtabWRWYTFOTE9WYzRNMUpKYUZsd1EzYxAB",
+      "author": "Suresh Nadivinti",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "Super",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWc1QyeFZYM2h1YTBWME5WWnJjMGt0ZEZOM1NWRRAB",
+      "author": "Shaik Shareef",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "Good treatmet",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GWFdTMHhkR0Z1Ym1WSldFRjFSV3BvVW1sRmMzYxAB",
+      "author": "Shaik Mohammad Easa",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "\"Dr. Akshay Jain is a very kind and gentle doctor. He listens carefully to every concern and explains the treatment in a clear and simple way. His approach makes patients feel comfortable and confident. The clinic is well-maintained and the staff is also very supportive. I truly appreciate his dedication and highly recommend him for anyone looking for\nthe best sink nd hair care",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tzeWJEWmZlSFJYY0dOa1ZXRjFaVFp2VTNJM2QzYxAB",
+      "author": "Kishore V",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "Doctor is very down to earth person, very friendly and explained the issue in a very clear manner....",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaSGIzZDJYMDVzVWtWM1Z6RTRlalpTZGtvM2JIYxAB",
+      "author": "Likhitha Kanamarlapudi",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "Would highly recommend visiting Dr. Akshay Jain for any skin related conditions. Sir explains everything in detail and precautions to be taken to cure the infection. Thank you so much sir.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKMlZGOVFTMnhVVEhJMmIzVndPRWRIWmtWRVFXYxAB",
+      "author": "Basheer Baig",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "Good treatment",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tvMGJGSTBZbXA2TldGVGFUaG1lbUZSY0VsaFQzYxAB",
+      "author": "G Prasad",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5M05FZGpZbkZHZFVOemFXeEpRa1IzV2s5MU1XYxAB",
+      "author": "Akash Nandu",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "One of the best doctor I have met . He is very caring , professional and supportive.\nHe listens patiently to all concerns",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psTk9FUlVSa2hCVjNaaVFqZE1YMk01TUVWRExWRRAB",
+      "author": "Ashok Chakravarthy Chakravarthy",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Dr Akshay jain is amazing .. very professional, explains everything clearly, and provides practical solutions.he insists on asking questions and doubts.. I highly recommend him for anyone looking for effective and thoughtful care... especially if you're an introvert..this doc is sooo damn good...",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SQlYweEdOMjFJZVVoWWExVTBjRlpVYzFZM2JGRRAB",
+      "author": "Lalith Kaldari",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGTmRrUnFUVXhJTjJ4SVVFUkdia1JQYjFSRlMyYxAB",
+      "author": "N Kartikeya",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VKLXJzS0tkaHQyeklnEAE",
+      "author": "Pasupulet Sivaji",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KbFJEUlRVbFpPUmtOVVNYQnJhMDF0WnpGQlRtYxAB",
+      "author": "shabnum musaddiq",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Dr. Akshay Jain is a very wonderful and excellent dermatologist. I had been to him for my sister's sons consultation. He made the kid so comfortable. He is very knowledgable. He took his time to examine and explained the condition in detail. He prescribed the medications which resolved the condition completely. He is a very ethical doctor.\nI would recommend him for consultations and treatments.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VLaVlvLUdCN2I3N0t3EAE",
+      "author": "Ram Charan",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "One of the best doctors i have seen, will definitely recommend Dr.Akshay gaaru",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VKelJpSXlrOE9Pcld3EAE",
+      "author": "Mohammed Muskan",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Best regards",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURud2RHNHd3RRAB",
+      "author": "Sranik Salecha",
+      "rating": 5,
+      "relative_date": "Edited a year ago",
+      "text": "Had a very beautiful experience , he never writes unnecessary medications have been visiting him since 2yrs.Happy with treatment",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQzcEpyc0p3EAE",
+      "author": "s.naga raju",
+      "rating": 1,
+      "relative_date": "Edited a year ago",
+      "text": "Costly  maintenance\nAverage tritment",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZaXBISXRBRRAB",
+      "author": "Chinta prasad",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Best skin specialist in Guntur",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3cktDRGx3RRAB",
+      "author": "Dalai Sridhar",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Excellent",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTURRNWNXUm5nRRAB",
+      "author": "Yogi 525",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Exceptional Dermatologist\n\nI had been struggling with a skin problem for quite some time, and after trying multiple treatments with no success, I finally visited Dr. S.AkshayJain Sir. From the very first appointment, I was impressed by their professionalism, knowledge, and genuine care for my condition.\n\nDr. S.AkshayJain Sir, took the time to thoroughly examine my skin, explain the root cause of the infection, and suggest a treatment plan that was both effective and easy to follow. Their expertise and reassuring approach gave me confidence, and within a few weeks, I started seeing remarkable improvement. Thanks to their precise diagnosis and treatment, my infection is now completely cured!\n\nI highly recommend Dr.S.AkshayJain Sir to anyone dealing with skin issues. They are not only an expert in their field but also a compassionate and patient-friendly doctor. Truly grateful for their help!",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNBMl9yX3hRRRAB",
+      "author": "navratn katariya",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURfNzdYYXhnRRAB",
+      "author": "Sai Prasanna",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Dr. Akshay Jain Sir was incredibly thorough and professional during my consultation. He took the time to answer all my questions and explained my skin condition clearly.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURfd00yR3BRRRAB",
+      "author": "Malleswari Gorantla",
+      "rating": 1,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2aTY3QmFBEAE",
+      "author": "sk saleem",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Honest doctor",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2OWE2elRBEAE",
+      "author": "Kamakula Vijayaprasad",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I fully satisfied with his treatment\nFor hair other head infections\n\nSo iam greatful and thanx doctor",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURQeU9XSGtRRRAB",
+      "author": "Trading Home",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Excellent medicine and Good Staff",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR5OThqTVp3EAE",
+      "author": "Saroj Devi",
+      "rating": 5,
+      "relative_date": "Edited a year ago",
+      "text": "I visited sir for my pigmentation on face, sir has prescribed me sunscreen and serum and now face is glowing I would recommend sir definitely",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNQeTdLWU9BEAE",
+      "author": "Sudheer Karra",
+      "rating": 1,
+      "relative_date": "a year ago",
+      "text": "No use recently I visit my sister slin problem he don't check skin type and any test give me sunscreem and serum she useing 3 months but no use don't go this hospital",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNQaFlQcTR3RRAB",
+      "author": "BHASKAR GOLLAPALLI",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Doctor is very kind and good dermatologist cases all are available",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQzMU5fTVVREAE",
+      "author": "Munni Menthula",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I am happy with results and they are cost effective as I know sir very well he would not write any unnecessary medication",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYdlBHLXdBRRAB",
+      "author": "abdul imtiaz",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "\"I have visited Dr. Akshay jain for treatment, and I couldn’t be more pleased with the experience. the staff was welcoming, and the clinic had a calm, professional atmosphere. My treatment options, patiently answering my questions, and providing clear information on what to expect.\n\nThroughout the treatment process, I felt I was in great hands. Dr. Akshay jain attention to detail made a huge difference in my comfort and confidence. I noticed improvements right away, and the follow-up care was equally impressive. I highly recommend  for anyone seeking professional, caring, and effective dermatological treatment.\"",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYNUpfNVhBEAE",
+      "author": "Sai chandra Thati",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Very nice and friendly doctor. There is lot of improvement in my skin condition with his treatment. He listened to my problems carefully and explained everything to me. The results are definitely positive.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYaTRUUlNREAE",
+      "author": "Kalyani peripogu",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURuOTdHX1NBEAE",
+      "author": "Ramana Putchakayala",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "He is very nice doctor explained every thing very patiently   the doctor is very polite towards  the patients   I will recommend  his name  to friends and relatives when any one needs skin specialist",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURuMjQtODhnRRAB",
+      "author": "HARSHA VARDHAN",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "All these 5 star ratings are not fake.Cleared all the doubts about the illness.Best Dermatologist.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURua3FQSnRBRRAB",
+      "author": "Palani Poornima",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNiNjVMMi1BRRAB",
+      "author": "kotaru narendrababu c.i.e.t",
+      "rating": 5,
+      "relative_date": "Edited a year ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNIeHBDTkRnEAE",
+      "author": "Abeeda Shaik",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I have been consulting dr Akshay jain sir for hair loss issue sir treatment is so good",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ3MDRQcEJnEAE",
+      "author": "Shaik Reehana",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURiX19UcVZnEAE",
+      "author": "Gajala From Washington DC",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I have been consulting Dr. Akshay Jain for over seven months for my hair loss issue, and his treatment has been incredibly effective. Thanks to his prescription, I have not only stopped losing hair but have also experienced significant regrowth. Dr. Jain is very practical, scientific, and result-oriented in his approach. He is patient, listens attentively, and provides detailed guidelines for treatment. I highly recommend Dr. Akshay Jain to anyone seeking a knowledgeable and effective doctor for hair loss treatment.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURiNHBEaC1RRRAB",
+      "author": "Sai Krishna",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I totally recommend him,he is Very friendly. He listens and cures his patients",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNiNTZpaU1nEAE",
+      "author": "pavan jonnalagadda",
+      "rating": 4,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNiMjZQTTB3RRAB",
+      "author": "Rachakonda Tejesh Varma",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "my hair improved very much with out minoxidil\n🫡🫡 …",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNiNDZ1Y1R3EAE",
+      "author": "Sanjay Palaparthi",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Akshay jain doctor is very genuine and best",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNidWJHVm53RRAB",
+      "author": "rahamtulla sk",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I came to you sir for hair loss treatment.. I got good hair results..\n\nSir also has good results for all types of skin diseases\n\nThank you sir.. Dr. Akshay Jain MD. D. V. L\nAssistant Professor. My recommended.. Please consult Dr Dr. Akshay Jain MD. D. V. L.. Tq sir",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNiNHZlVDVnRRAB",
+      "author": "Ravindra Kumar",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Hi had excellent experience with Dr. Jain",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNiNG83STBBRRAB",
+      "author": "Srinivasarao Yadla",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNibEpxTkNnEAE",
+      "author": "sumanth n",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I highly recommend Dr.Akshay Jain. He is incredibly responsive and always willing to address any concerns, even over the phone. His humble and down-to-earth nature makes every interaction comfortable and reassuring. It's rare to find such a dedicated and caring professional in today's fast-paced world. Thank you, Dr.Akshay Jain, for your outstanding care and attention!",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURycHVlZjRRRRAB",
+      "author": "Nani Shaik",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "You Have a Wonderful Experience sir\nGood Keep Going on\nHearty congratulations To Next step Sir 👍 …",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURyZ3FXZ09nEAE",
+      "author": "Ayan Samdani",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I got treatment for my acne scars with TCA cross Around 3 sittings from sir. I got beautiful results my scars have reduced and sir has suggested me because of it's cost effectiveness and as I could not afford.\n\nI thank Google for showing me the dr. Akshay.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURyX08tYl93RRAB",
+      "author": "Abdul Mannan",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "\"I recently consulted Dr. S. Akshay Jain for hair scalp treatment and I'm really happy with the results. He was very knowledgeable about hair loss and scalp conditions, and took the time to understand my specific concerns. I actually having dry scalp and dandruff issues, Dr. Akshay Jain given me tips to keep the scalp hydrated. Throughout the process, Dr. Akshay Jain was patient and answered all my questions thoroughly. If you're looking for a skilled dermatologist for hair scalp treatment in Guntur, I highly recommend Dr. S. Akshay Jain!\"",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURyX051aVZ3EAE",
+      "author": "Shaik Raheemunnisa",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Dr. S. Akshay Jain is a fantastic dermatologist! I recently visited him for a skin infection, and I was very impressed with his knowledge and  respect towards his patients. He patiently listened to my concerns, explained everything clearly, as I'm a feeding mother and prescribed effective medication that quickly resolved my infection. I highly recommend Dr. S. Akshay Jain to anyone seeking a professional and caring dermatologist.\"",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURya082Z2F3EAE",
+      "author": "Veeranjaneya Cellshoppee",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "The best dermatologist I have ever met in my life. Would suggest sir for any skin, hair issues.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNyM2JXWUdREAE",
+      "author": "Srija Samson",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNyLXQtaWlRRRAB",
+      "author": "Shaik Nagur",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "An humble man of words doctor I have ever came across, top dermatologist   I would definitely recommend him for any skin,hair issues",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURMeDZYRG9RRRAB",
+      "author": "Harsha vardhan Yendluru",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Very good doctor with huge experience and takes good care & helps in getting positive attitude towards getting cured from disease",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURMOGZUNEJREAE",
+      "author": "Moses Thumati",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNMaV9LT29nRRAB",
+      "author": "Kaleshavali Syed",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNMbEtQSzhnRRAB",
+      "author": "Shaik AbidAmmu",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Akshai sir is friendly and supportive doctor.sir explained the things thoroughly and treat the cause accordingly.he doesn't waste money or unnecessary tests,sir always so positive he is best doctor,I wish him all the best for his carrier in dermatology and for future endeavours",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR6d2U3b0h3EAE",
+      "author": "karthik dupati",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I am happy with the results for laser hair removal done  by Dr.Akshay jain sir\n\nI would definitely recommend him for any skin and hair related issues.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR6LW8zd29nRRAB",
+      "author": "Lalitha Salecha",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Are you looking for top dermatologist in guntur - here he is trust me then doctor is first humble human being which many doctors lack these days.\n\nI would recommend Dr. Akshay for any skin and hair issues.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR6eE9LTlNREAE",
+      "author": "Anil Kumar",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURUd09pS0FnEAE",
+      "author": "Sunil Chhajer",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNUX2ZpS3J3RRAB",
+      "author": "VINOD MANCHALA",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I visited Dr. Akshay Jain sir after seeing google reviews for 3rd opinion , after meeting him I found I should not have wasted my money for the other 2 doctors whom I have visited.\n\nI wish him all the best for his carrier in dermatology and for future endeavors.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNUamNfOEV3EAE",
+      "author": "Dinesh Kumar",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "One of the best dermatologist very friendly doctor  he is explaining very well about skin diseases",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNUNmE2aUZBEAE",
+      "author": "Anand Raju Tadigiri",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "First of all Patient will get some positive vibes after seeing Akshay sir smile, my heart full thanks to Akshay sir 🙏🏻 He is not only an Excellent Doctor , he is simple, superb Human being, Sober personality, friendly approach with smiling face.\n\nI was approached him with lots of negative assumptions with my problem but he gave me good counselling along with proper treatment.\n\nStaff is very cooperative and clinic is very hygienic, they are running clinic not only for money but also some professional ethics.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNUNVBpTG93RRAB",
+      "author": "rahaman abdul",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Recently I visited Dr S.Akshay jain skin clinic for myself, and was pleasantly surprised by the attention and time given by Dr.S.Akshay jain in understanding my problem and giving sustainable and Right treatment options for long lasting results. he is quite knowledgeable and explains the conditions in a Good way . The entire clinic staff and the ambience of the clinic are added to good experience. I Highly recommended.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURqaDhtc253RRAB",
+      "author": "Anil Didla",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I didn't believe initially the 5 reviews, taught might be pseudo as many clinics and hospitals are doing.\n\nI asked my engineer friend who has software to find genuinty . He said among all through my software  I've  found him truly genuine you can definitely  visit.\n\nAnd I did accordingly he was exact the person as the reviews are about dermatologist in the guntur.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURqMnB2eUpBEAE",
+      "author": "Devika naidu Pothuraju",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Dr Akshay sir is a skin care nd hair care wizard! Sir’s personalised approach and effective treatment is top notch. Highly recommend!",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURqNU9iZVF3EAE",
+      "author": "Sushila Salecha",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURqMkpMR25nRRAB",
+      "author": "tellakula jalayya",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I would say a top notch dermatologist and trichologist in guntur.\n\nWe have visited for unwanted hair , after the sessions the results are beautiful.\n\nWould suggest if any one is looking for dermatologist.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURqa016MGtnRRAB",
+      "author": "Goli Amar",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNqbU1EZEdBEAE",
+      "author": "Shaik Mukthar",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Humble dermatologist.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUREMV91SzRnRRAB",
+      "author": "nagasriharsha karnati",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUREaV9INFBBEAE",
+      "author": "Kamakshi Jain",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUREX2UyY2ZnEAE",
+      "author": "Namballa Aravind Bharadwaj",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I've been sir's patient for my acne problem, Dr.Akshay jain sir is very friendly , he makes u understand the problem patiently, the treatment nd advice was great.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUREaWIyYlNREAE",
+      "author": "Dipesh patil",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "The best dermatologist i have ever meet\n\nThese review is after experiencing good results.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUREZ2VIbklBEAE",
+      "author": "Bhagya raju Desamala",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "The most humble, ethical combo of dermatologist cum professor I have ever met in the city of guntur. Would recommend if any one has skin and hair issues",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNELWU2QzlnRRAB",
+      "author": "Hemanth Challa",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Dr akshay sir is the the best dermatologist in the guntur town i have got a skin issue where i have consulted dr akshay he is the expert in diagnosing the conditions and providing the best possible treatments for the problem ,im very well satisfied with the treatment he has given me and my issue had resolved completely thank you dr akshay sir",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNEOU9QYThBRRAB",
+      "author": "Sasi priya",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNEMkttbDRRRRAB",
+      "author": "RIAZ SHAIK",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ5cTlHTkVBEAE",
+      "author": "Balaji R S .A",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Hospitality , humbleness , knowledge at  one place ..... Akshay jain sir is one stop solution for sure  from my personal experience ..... Value for treatment",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ5Z2RmYnBRRRAB",
+      "author": "Happy Bagrecha",
+      "rating": 5,
+      "relative_date": "Edited 2 years ago",
+      "text": "Initially I was skeptical that how can one get all the 5 star reviews but believe me after meeting and seeing results I felt  Dr Akshay jain deserves more than it.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ5NmRDYWl3RRAB",
+      "author": "Pachipulusu Bhavani",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "An professor cum excellent dermatologist",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ5OXRlRnR3RRAB",
+      "author": "Sayed Faiz",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ5dHYyT0xBEAE",
+      "author": "Pathan mudassir Khan",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM5eHJ1V2RBEAE",
+      "author": "Inturi Jyostna",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM5OEptVjdRRRAB",
+      "author": "Abdul Razak",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "👌👍 …",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNkbUp1ZUF3EAE",
+      "author": "Bhavana Dasari",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Akshay Sir is Friendly and supportive doctor.My father had infection of skin around fingernail &toenails. Sir explained the things thoroughly & treat the cause accordingly. He doesn't waste money on unnecessary tests.Sir always so positive and uplifting.  He is the best doctor.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNkOFBqc2lnRRAB",
+      "author": "Nupur Mondal",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Dr Jain treatment and behaviour is very nice I'm very happy ☺️ if u search a good skin doctor then visit to Dr Akshay jain's clinic 😊 …",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNkc1BUQ3d3RRAB",
+      "author": "bharat sadineni",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR0NjhmTktnEAE",
+      "author": "Deepthi J",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNOXzluMmFBEAE",
+      "author": "hari krishna",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "good care and good concern with patient",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQxeVk2WWpBRRAB",
+      "author": "Vinay Kumar",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I am very satisfied with your treatment and the way you have discussed with me and counseling about the disease.i will refer to my friend and family also sir",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURWOHRiaGdBRRAB",
+      "author": "Para Rajesh",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Dr garu is very caring and good treatment the best Dr in Guntur for dermatology",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNWeGIzV1hBEAE",
+      "author": "Sudharsan",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Dr. Akshay is an amazing dermatologist. Really lucky to have found him. I'm from chennai, here for a short period.\n\nHe patiently listens to patients and explains our condition and course of treatment in detail.\n\nI'm really happy with the results of my treatment.\n\nIf you are looking for a dermatologist do not hesitate go and give him a visit.\n\nHe is absolutely non judgemental. Really wish the best for him🤗.\n\nPS. Some skeptical people like me will be Skeptic towards the full 5star reviews and no negative or even 4star reviews.I was too lol. The reviews are genuine, I can attest after my vist with him.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURsbF9DMG53RRAB",
+      "author": "Goutham Goutham",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Sir listens our problems very patiently and sir gives the treatment plus sir says how should we take care about our skin to prevent  infections , allergies etc...\nTreatment is very good",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURsMHA2TV93RRAB",
+      "author": "vijay kumar",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Good Doctor patient friendly Doctor",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNsOHR1UWtBRRAB",
+      "author": "Dark Phoenix",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Are u vexed up with multiple consultations from multiple dermatologists?\nDr akshay is one stop solution for all your miseries.\nTrust me, I consulted him for my hair and skin related problems,and he explains cause of the problem so well that u will get 100% satisfaction after his consultation.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNsakpLZDlBRRAB",
+      "author": "R. JayaVardhan",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Patient friendly doctor💗❤ …",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNsOU55ZF93RRAB",
+      "author": "sujay kshatri",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I have been a patient at Dr. Akshay Jain's Dermatology Clinic for a little over 2 months now, and my experience has been exceptional. Dr. Akshay Jain is a highly knowledgeable and skilled dermatologist who takes the time to thoroughly address concerns, explain diagnoses, and discuss treatment options. The friendly front desk staff contributes to the very welcoming atmosphere. What sets this clinic apart is the emphasis on patient education – Dr. Akshay Jain goes above and beyond to empower patients with knowledge about their skin health and preventive measures. Thanks to their expertise, I've seen significant improvements in my skin condition. I highly recommend Dr. Akshay Jain's Dermatology Clinic for anyone seeking top-notch dermatological care.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURGeVBiaHFnRRAB",
+      "author": "Kantamanani Mahendranath",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "At the end of 6months of treatment for hairloss i am posting these review. I am quite happy  and satisfied with the treatment and results.\n\nI would recommend definetly  sir for any kind of skin and hair issues.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ1OGNMbG1BRRAB",
+      "author": "Akhilesh Jain",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ1eXZUQ2JnEAE",
+      "author": "Calvin Paul",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM1OG8ta25RRRAB",
+      "author": "Haneesha Arumalla",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM1d0ktUDJ3RRAB",
+      "author": "Swaroop kumar penugonda",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Really very good results here. And more finest thing is that, Dr. Akshay is having very good patience level. He will listen each points from us and will provide treatment accordingly.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURaMl9peDZ3RRAB",
+      "author": "Santosh Kumar",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Very good Doctor. Explanation on concern problem is very nice...",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURaLWFiM0NnEAE",
+      "author": "Shekinah Emmanuel",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I visited Dr.Akshay Jain sir regarding my own skin problems and my mom’s skin issues… Sir has been incredibly sweet and caring. He’s a smart man with sweetest heart. He listens very patiently with a smile on his face and gives us the best treatment available. Thank you so much sir.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURaLXNTQkpBEAE",
+      "author": "Shaik Abdul salman",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURaa3REbFJ3EAE",
+      "author": "Monisha",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURaNktIM2V3EAE",
+      "author": "Khasimvali Shaik",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "An living soul dermatologist in the guntur with clinical excellence.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNadDRuaFpREAE",
+      "author": "jagadish ponnekanti",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Great experience with dr Akshay sir he explains everything in a way patient understands and his patience levels which lot of doctors lack now a days.Results are amazing I highly recommend this clinic…",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNacHFMRGdnRRAB",
+      "author": "munazeer Shaik",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Thank you akshay sir for providing me the best results and I would say once any one visits him would never forget him ! I recommend sir for any hair and skin issues in the city of guntur.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNaNEtLUFlREAE",
+      "author": "Azzu Basha",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Satisfactory treatment, I will definitely recommend to all my friends and family members",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURwNi1uaEdBEAE",
+      "author": "Mrudula Sanaga",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "One of the most polite,patient and friendly doctor",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURwLXZDQUd3EAE",
+      "author": "Salecha Kamalesh",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "I would say a passionate dermatologist in the city of guntur.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURwMnNlOFV3EAE",
+      "author": "Salauddin Syed",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "I recommend For all who are having skin and hair problems please consult This Doctor, you will surely satisfy with the treatment and results.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwbjUzWnlnRRAB",
+      "author": "Phani Manam",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Akshay sir was so patience towards listening to concerns. Kind gesture of a person, Always greets his patients with smile. Initially he will educate the patients about the issue  instead of directly treating. Provides better suggestions and solutions.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwcy1PNGxnRRAB",
+      "author": "TECHNICAL GAMING",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "He suggested best skin care products suitable for my skin .. he was kind and so friendly too and I had got best results for my skin..so I highly recommend people to visit Dr.S.Akshay jain",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwd0txOVB3EAE",
+      "author": "Teja Sasank Pagolu",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Apart from possessing impeccable knowledge in Dermatology, Dr.S.Akshay Jain is the most patient, transparent and caring person that I have come across so far. He has patiently listened to all my issues and suggested me a wide array of treatment procedures and explained the pros and cons of each of those procedures, so that I can make sensible decision for myself.\nI have recently got GFC (Growth Factor Concentrate) procedure done to me for my hair fall Issue. The way he handled me before, during and even after the procedure by calling me up the next day to know my status is definitely appreciable.\nI am more than happy to have known him and I also do recommend others to visit him for any kind of dermatological ailments.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKMVp2NHFnRRAB",
+      "author": "SAITEJA M",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKeWRQYnh3RRAB",
+      "author": "Naga venkata prasad S",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Best dermatologist in gnt. Friendly nd economical treatment. Personally so happy the way to treat sir.🤗🤗❤️❤️ …",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKbnZhd19nRRAB",
+      "author": "Shiva Rao",
+      "rating": 4,
+      "relative_date": "3 years ago",
+      "text": "I have consulted Dr Akshay Jain for my skin problem.\n\nHis approach to the problem has impressed me a lot in which he spends time understanding the case and takes time to process and explain us whats the cause of it and gives us the proper treatment.\n\nI totally recommend him and wish him good success.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURKenJqaGF3EAE",
+      "author": "chandu cherry",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Posting with this a very gunine and happy feedback that I had acne issue from 4+ years..I had tired multiple products and no use even I visited skin care clinics to... Knowing about the the Dr. Akshay sir book the time and visted to him.. literally as a elder brother he treated me and listen in very patience mode about my concern and stated the course. I had seen the difference in a week. He is the only person who understand my acne situation and help me alot for clearing. Happy to connect with him. Wishing him a grander success in his career and thankyou so much for your support sir.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURKMk5fMkRBEAE",
+      "author": "Praveen Kumar",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "After visiting many dermatologist in guntur and by asking local people and seeing Google reviews i have visited Dr. Akshay Jain\n\nI had a supsicion how can one dermatologist get all 5 star\n\nBut believe me he truly deserves it and you can go without  second opinion and  thank you sir",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURKNk1QM1FBEAE",
+      "author": "Sree Kaavya",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "I have consulted with Dr Akshay Jain for my grandmother's skin complaints.\n\nShe has been suffering with dermatitis for about 2 months despite using medication advised by another dermatologist. We were really worried because it was not reducing in severity and there were multiple flare ups\n\nDr Akshay Jain was quick to assure us. He was very courteous and listened to my grandmother's complaints attentively. She has used the prescribed medicines and is now happy and complaint free. My grandmother is really happy now and she says  \"A doctor can only cure his patient if he listens to properly\" I completely agree.\n\nThank you Dr Akshay Jain for helping us!",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKaTQ3TlpREAE",
+      "author": "Ishrath sultana Syed",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKNlo2c29RRRAB",
+      "author": "vinay somesh",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKLUlpYmFREAE",
+      "author": "Siva Makutam",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Doctor Akshay is very friendly and cordial, and indeed very patient. He is also available for any guidance post consultation.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKa0tYN0F3EAE",
+      "author": "Talapa Reddy",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "A good and friendly doctor who cleared all my doubts with patience I would highly recommend DR.Akshay Jain garu for any kind of skin problems .Thank you doctor",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4ei1qR0NBEAE",
+      "author": "Hema Katam",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "One of the finest doctors,very friendly who takes good care,gives sufficient time and  gives a detailed explanation(pathogenesis).very happy to get treated here",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4ai1uYVlnEAE",
+      "author": "Bolla Pavankumar",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Very good in recieving patient, explained very well about lab tests and treatment",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4bFlXMEFREAE",
+      "author": "Yerramsetty sravanthi",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4a1piaElREAE",
+      "author": "Arshi Shaik",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "I recently visited Dr Akshay jain for acne and pimple treatment. I have seen visible results within 10 days. My experience with Dr Akshay jain is great till now. He is a very patient, listened to all my concerns. He explained causes of acne and treatment in a well defined manner. I had a great visit and the doctor's demeanor has really put me at ease so I highly recommend this clinic.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4Z1lQWUdnEAE",
+      "author": "RaghuRam Reddy",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Dr.Akshay Sir is very professional & experienced,will not put into expensive treatments unless the patients opts for....very calm & patient,felt very comfortable to discuss about my issue....very thankful to get know about Sir.\nI will  surely  recommend you to my family and friends with skin & hair related issues....",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR4cHFyVmtBRRAB",
+      "author": "Vaniaparna Alapati",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Haven’t seen someone being so kind and  considerate. Dr Akshay garu had given me enough time to eloborate my concerns and simultaneously came up with best possible solutions elaborating  pros and cons associated with it . Such a highly respectful , friendly and compassionate doctor . He doesn’t overburden patients with extra charges and unnecessary treatment.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR4eHFxM2dRRRAB",
+      "author": "srilakshmi boyapati",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR4a3FMa3FRRRAB",
+      "author": "srikanth reddy",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "He is very good doctor, he understands patience problem and explain very clearly.\nHe is the one of the best skin specialist,with out second thought we can go to this hospital",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4eC1YakZnEAE",
+      "author": "venki reddy",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "He is very good doctor, he understands patience problem and explain very clearly\nThese type of doctors need for the society\n\nHe is the one of the best skin specialist,with out second thought we can go to this hospital\n\nIn one work doctor with kind heart",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN4cTZiZzV3RRAB",
+      "author": "Gopala Krishna Vusa",
+      "rating": 5,
+      "relative_date": "Edited 3 years ago",
+      "text": "Dr.Akshay garu talks to me nearly 30-45 minutes on every consultation & made me very comfortable to share all my skin problems.\n\nHe is very Generous. He explains both pros & cons with the treatment and suggests the best method with less side effects, he takes care about our health.\n\nI am getting better results, my skin has improved a lot.\n\nIf you have any skin/hair issues don't hesitate, I would recommend you to consult Dr.Akshay garu.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN4bS1xX3RRRRAB",
+      "author": "Arpit Jain",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Best Doctor with Best Treatment 😄 …",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4dmF5UEtnEAE",
+      "author": "hemanth garikapati",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "I recently had the pleasure of visiting Dr. Akshay Jain for a GFC (Hair Growth Factor Complex) procedure, and I am extremely impressed with the results. From start to finish, my experience with Dr. Akshay Jain was exceptional, and I highly recommend their services to anyone seeking hair rejuvenation treatments.\n\nFirst and foremost, I was pleasantly surprised by the painless nature of the procedure. Dr. Akshay Jain displayed a remarkable level of skill and expertise, ensuring that I felt comfortable throughout the entire process. Their gentle approach and attention to detail made a significant difference in my overall comfort, which is especially important when undergoing any cosmetic treatment.\n\nWhat truly set Dr. Akshay Jain apart was their exceptional listening skills. From the moment I walked into the clinic, I felt heard and understood. Dr. Akshay Jain patiently listened to my concerns, thoroughly explaining the procedure and addressing any questions or doubts I had. This level of attentiveness and genuine care made me feel confident in their abilities and reassured me that I was in capable hands.\n\nIn conclusion, I would highly recommend you to visit here for any hair/skin care related problem.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4d2FuektREAE",
+      "author": "Dr Bheemisetti Manideep Sai",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "I recently had the privilege of visiting Dr S. Akshay Jain, one of the top dermatologists in the Guntur-Vijayawada belt, and I must say that my experience was nothing short of outstanding. Dr Jain's expertise, professionalism, and genuine commitment to his patients truly set him apart.\n\nFrom the moment I stepped into his clinic, I was impressed by the welcoming atmosphere and the friendly staff. The clinic was clean, well-organized, and equipped with state-of-the-art facilities, creating a comfortable environment for every age group and gender.\n\nDuring my consultation with Dr Jain, I immediately felt at ease. He took the time to attentively listen to my concerns and patiently addressed each one. His deep knowledge of dermatology was evident as he explained the underlying causes of my skin condition and outlined a personalized treatment plan. I greatly appreciated his ability to communicate complex medical information in a clear and understandable manner.\n\nDr Jain's expertise shone through during the treatment process. His skilful hands and attention to detail were remarkable. He explained every step of the procedure, ensuring that I was comfortable and well-informed throughout. It was evident that he had a profound understanding of the latest advancements in dermatology and utilized cutting-edge techniques to deliver the best possible results.\n\nWhat truly impressed me about Dr Jain was his genuine care and compassion for his patients. He went above and beyond to ensure my comfort and well-being. He took the time to address any additional questions or concerns I had and provided valuable guidance for post-treatment care. His friendly demeanour and willingness to listen made me feel valued as a patient, and I left the clinic with a sense of confidence and trust in his expertise.\n\nI am thrilled with the results of my treatment under Dr Jain's care. My skin has significantly improved, and I am grateful for his skilful intervention. I would highly recommend Dr S. Akshay Jain to anyone seeking a top-notch dermatologist. His professionalism, expertise, and compassionate approach make him an exceptional choice for all your dermatological needs. Trust me, you won't be disappointed! The epitome of EBM.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4dE12U0NnEAE",
+      "author": "Abhishek Rathod",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Good doctor best treatment",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN4LU0tbHd3RRAB",
+      "author": "Phani M",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Very happy to show our happiness here we have been treated well under his medication& good service",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN4MExDcjVBRRAB",
+      "author": "Kalpana P",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Hi , Recently my daughter had corn on her toe. It was removed by Akshay sir with great patience. He treated well . He is very cool in nature and talked well with kid as well. We really thank you sir . We recommend treatment at this clinic for everyone.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN4b0xQMTl3RRAB",
+      "author": "ajinkya more",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSOGJhODZ3RRAB",
+      "author": "Omesh Chandra Chilukoti",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSaXEyaFpBEAE",
+      "author": "151 . Lavanya Pothireddy",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSMk5uZzh3RRAB",
+      "author": "Kavya",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "The best dermatologist",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNSbDVELVBBEAE",
+      "author": "Srikanth K",
+      "rating": 4,
+      "relative_date": "3 years ago",
+      "text": "Dr. Akshay Jain is a very professional and experienced doctor, and he shows a lot of care towards each of his patients. Unless it's truly necessary, he never puts his patients through expensive treatment. Doctor, I highly recommend you to all my family and friends who have skin or hair issues.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNSMHBTSUpnEAE",
+      "author": "Harika Gorrepati",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Sir is very patient and welcoming.Explaining clearly about do’s and don’t’s about the condition. Diagnosing very efficiently.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNSclA3UDVRRRAB",
+      "author": "96 Ganesh Kolakaluri",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Sir is giving best treatment for the needy n very empathetic.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChRDSUhNMG9nS0VJQ0FnSUNSaExKQxAB",
+      "author": "Shahanaaz Shaik",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "I was having hairfall and went to Dr Akshay, he was very friendly and explained about the cause and treatment very patiently and treatment was painless, I definitely recommend him.. he is the best doctor in the town.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURobDQtMGtBRRAB",
+      "author": "Jitu Jain",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Spending quality time with clients is the key of the doctors concern.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURoMDl2V2FREAE",
+      "author": "CK komali Vinayak",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Dr was so good and best products the best treatment 💚\nFrdly so cool  in Guntur 💚 …",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURoOGFmaC13RRAB",
+      "author": "SEKHARA BABU KURETI",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Super doctor",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURod2JHU1NnEAE",
+      "author": "Sharon Dasari",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURoaHEtM2l3RRAB",
+      "author": "Kondeti Sowmya",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Best doctor in guntur I have visited so many doctors but this doctor is different from others he is very gentleman and he gives respect not only for the elders even for the youngers I didn't see any skin doctor like him and he explains everything about the disease or treatment and he never gets angry to tell once again and I visited for the skin allergy on face after his treatment and medicines it reduced. He is very humble person and great human...\nTq u Google for suggesting best doctor",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURoaHZ2N3FnRRAB",
+      "author": "Madhulatha Matta",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "V.Nice Doctor... talking with patients friendly, taking care personally       Good treatment...\nK.Dora Babu",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURoaHZ2bVd3EAE",
+      "author": "Anuhya Vaka",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNoZ0k2alRnEAE",
+      "author": "Shaik shafi",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "A complete solution for all skin diorders and hair growth\nI had a great experience and good recovery after the consultation with Dr. Akshay garu.\nSuch a friendly doctor to take care for every individual patients.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURCd2UybW1RRRAB",
+      "author": "vinay babu",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURCeHBfRzVRRRAB",
+      "author": "Rajeev Kumar",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Recently I am facing Acne problem then I hv approch Dr Akshay Jain then suggested. After I got result within few days.Thanks to Dr.Akshay Jain Sir",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCdk9QS0JnEAE",
+      "author": "Sridhar Bhimanakone",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Dr Akshay is an excellent  Doctor, he is simple,superb human being, approachable with smiling face with his self less service",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURCdE5pTTh3RRAB",
+      "author": "harika veluri",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "the best place for all types of skin trearments",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCd1BtbWR3EAE",
+      "author": "Gopala Krishna",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Excellent Dermotalogist in Guntur City. Very cooperative to patients.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNCX1kzNmdBRRAB",
+      "author": "jayasai V",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNCcWVXc2ZREAE",
+      "author": "Roshan Shaik",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNCa2JQdnhRRRAB",
+      "author": "Raju Ch",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "The way Akshay is treating the patients are excellent. One of the Best skin doctor in guntur..",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNCa1pPQlVnEAE",
+      "author": "Prafful Solanki",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNCcXZQUDJ3RRAB",
+      "author": "Sai Venkatesh",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNCdEltb2p3RRAB",
+      "author": "Balamurugan Duraipandi",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Very nice and caring doc!!",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNCb09PUjNBRRAB",
+      "author": "gopikrishna uppu",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "The way Akshay treats the patients is impeccable. such a generous doctor who always listens to all the queries from patients and provides the adequate treatment. In my opinion he is not at all money minded. Definitely you can visit for all your skin problems with out any second thoughts.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQtdDhuQWhBRRAB",
+      "author": "Basha Shaik",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "I would like to thank heartfully dr. Akshay jai sir,\nDue to urticaria I unable to do my daily routine works since 12 years used meny medications like Ayurvedic , Allopatic, siddha, unani , homeopathy, etc….\nWent to Kerala for 15 days for oil therapy no use , spend much time effort more money but no use ,\nNow I’m free from urticaria (itching) when I met dr.Akshay Jain sir I wondered that he simply diagnosed my disease what I said to him .\n-The way of treating with patient\n-More knowledge\n-Right treatment to the right disease\n-Patience to listen of patient problems\nAbove All mentioned characteristics\nObserved from dr. Akshay Jain sir dermatologist.\n\nREGARDS",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQteDlUOEN3EAE",
+      "author": "Salecha Darshan",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Holistic and friendly dermatologist and trichologist in the city of guntur.\nHad a wonderful experience and i highly recommend.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtb2ZpVlN3EAE",
+      "author": "Bandaru Suresh",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Treated to my father very well",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtMXJYVUJ3EAE",
+      "author": "Syed Izhar hazari",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Best dermatologist in gnt. Friendly nd economical treatment. Personally so happy the way to treat sir.🤗🤗❤️❤️ …",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtek1hemZBEAE",
+      "author": "Jeevan",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "It is very hard to find a doctor who comes across as honest and patient in these dark times for the medical industry. Dr. Akshay is a rare gem in this muddy medical field which is plaguing Andhra Pradesh.\n\nWe visited Dr. Akshay on two separate occasions, one was for my wife's foot blister problem. This problem was explained and provided options for, eventually it was suppressed and we are happy that all it took was five tablets and moisturiser. We then went to visit again for my father for a skin condition and we were advised promptly on possible solutions.\n\nThe OP fee is Rs. 300 which I find very reasonable for his expert views on issues. I was due to visit tp plan for my hair issues but did not have the time to as I had to travel. Next time I arrive, we will certainly visit Dr. Akshay.\n\nOn both the occasions, we visited at 6pm and had minimal waiting time. We are pleased to have come across Dr. Akshay on Google Maps and his clinic is only 600 meters from my place.\n\nFor anyone with skin conditions in Guntur or around Guntur, please do visit Dr. Akshay Jain. It is not normal for me to recommend someone so strongly but it is your loss if you go to any other dermatologist.\n\nKeep up the good work doctor, see you soon.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQtaExpYjBnRRAB",
+      "author": "Koushik Muddapolu",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "He is the best doctor i have ever met.he is so patient and open (which is very important for a doctor) and cost effective too.I would 100% recommend to consult him if you have any skin and hair problems especially",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtc09tOU1REAE",
+      "author": "Monty jain",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Truly amazing experience ,\nGenuine solutions fr any skin problems\n\nWould like to recommend strongly to anyone reading this",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtZ00za1RREAE",
+      "author": "Afzal Razaak",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtdDZ1MzFnRRAB",
+      "author": "Hajarath Hajarath",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Good doctor",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtdDdHYWdRRRAB",
+      "author": "ram prasad",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtbTl5dmxnRRAB",
+      "author": "Jammula Naresh",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtazVxWS1RRRAB",
+      "author": "Priyanka N",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "After seeing online reviews, and asking locals I visited Dr. Akshay Jain believe me sir is the best dermatologist i have ever visited.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMtNDZPNmJREAE",
+      "author": "Nemshith Raghava Sai",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMtbGVqZ0F3EAE",
+      "author": "rajendra kumar",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMtMllfU0xBEAE",
+      "author": "Lanka Bhimesh",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Dr. Akshay Jain sir having tremendous skills for treating skin diseases one of my friend had preferred him resulting excellent cure within short period thank you sir the way he speaks to the patients was the first cure for the patient thats the way he talks to us thank u sir with ur treating all good",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMtMmRlYkt3EAE",
+      "author": "Raja Sekhar",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "The Best Skin Doctor with Best treatment for skin, at Pattabhipuram, Guntur..",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMteWQ2TG1BRRAB",
+      "author": "dasari thirumaleswararao",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMta2FyQVdnEAE",
+      "author": "tarun puli",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Akshay Sir's diagnosis is right on to the bulls-eye👌👌👌👌.\nHe explains why you need to use the medication and why it is prescribed, which every doctor needs to do. …",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtNFo3MzBBRRAB",
+      "author": "venkatesh pattem",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "In this clinic Dr Akshay Jain skin specialist having excellent experience in treating of skin disease... treatment & patient caring is very well on good.Thank you sir",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMtX3BiSGZ3EAE",
+      "author": "settineni mallikarjunrao",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtLXNLaThRRRAB",
+      "author": "sk shabbeer",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Dr Akshay jain was given very good treatment for us.\nMy brother completely recover chronic urticaria.\n\nThank you sir.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtcXYzX3JRRRAB",
+      "author": "RAMIJA FAIZ",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Dr Akshay Jain sir spends ample time with patients and explains everything in understandable manner. Treatment is so satisfactory.\n\nThank you soo much sir...",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMtcW9TTE9nEAE",
+      "author": "chaitanya sai",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "VERY GOOD DOCTOR,GIVEN MORE TIME TO PATIENT'S AND CLEARLY EXPLAIN THE TREATMENT AND QUERIES.I AM VERY HAPPY TO MET THE DOCTOR .",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlcDRxRUdnEAE",
+      "author": "gopi chand",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Friendly treatment and good medication thank you 😊 …",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlLTVuVFlBEAE",
+      "author": "surendra gangawane",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Dr Akshay is  patient oriented,  listens to patient complaints  and gives best advice .\nNice experience with Dr Akshay.!",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURleTlqblVBEAE",
+      "author": "koti dhanasiri",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Good dermatologist doctor nd very friendly doctor",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlNDRfcG5BRRAB",
+      "author": "Kumar B",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlMWN5QkF3EAE",
+      "author": "sekhar somu",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlbFpHR0JnEAE",
+      "author": "Moulali Shaik",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Good doctor",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlbWZPR3RRRRAB",
+      "author": "Venkatesh Reddy",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlMGZEb19BRRAB",
+      "author": "bharath Sabbineni",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "I had visited Dr Akshay Jain after going through the good online reviews. I am quite surprised that my suffering with Fungal Infection for the past 1.5 years has been suppressed within 15 days. Although I have to continue the medication for 1 more months to not let it recurrent, I am fully satisfied with the improvement and received good treatment. Consulation with Dr Akshay Jain sometimes goes for more than 30 minutes. Very patient and informative.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlenFlbkZ3EAE",
+      "author": "Hyd Chakri",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "I would say a passoniate dermatologist and trichologist in the city of guntur, highly recommended.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlanRTNDlRRRAB",
+      "author": "Mubina Shaik737",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlOXJ5aGdRRRAB",
+      "author": "hakeem hero abdul",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlOXR6YjNRRRAB",
+      "author": "Abdul Wadood",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURleXZpQTFRRRAB",
+      "author": "Rose Music",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Best dermatologist in guntur area...highly appreciate his enthusiasm in treating the patients",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURldU5qUWhBRRAB",
+      "author": "Shaik Parveen",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "It's said doctor is next to God my dermatologist  Dr.Akshay Jain is a classical example of it.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlMkpIMmtRRRAB",
+      "author": "Srinivas",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNlcl9HQmpRRRAB",
+      "author": "Natasha Bagrecha",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Very good doctor and kind at heart. Gives maximum time to hear patient views. His clinical diagnosis is very sharp. He answered all my queries..so i'm very happy with my treatment.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNlbS0zQ3dRRRAB",
+      "author": "K Vijaya kumari",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Dermatologist in the city of guntur with ethics, patient -friendly, and first time seeing an doctor sending home without medications and asking to do lifestyle modifications and it helped me out with good staff.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNlODdmdnN3RRAB",
+      "author": "sreenivasa reddy Venna",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "One of the best and genuine dermatologist in the city of guntur I have ever visited.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNlZ1lhMzFRRRAB",
+      "author": "shaik nizamuddin",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNldk9DbW5BRRAB",
+      "author": "Akhil Rvn",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "The doctor is very concerned about the patient's problem and in getting all the details and then clearly explains the treatment options. I'm really glad I met him. Made me feel very comfortable the whole time. I would highly recommend Dr. Akshay.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNhMDlHSlpBEAE",
+      "author": "Sravya Reddy Gangarapu",
+      "rating": 5,
+      "relative_date": "Edited 3 years ago",
+      "text": "Akshai sir is patient friendly and best dermatologist ever",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNlb0tTdFNBEAE",
+      "author": "Bharathi Tribloo",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Gentle doctor with good clinical acumen...",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNld0xLdTd3RRAB",
+      "author": "Anjani Sodisetti",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Services are soo good\nAnd doc is soo friendly and he tries to listen more and to respond\n\nWhich is the best quality we expect from doc\nThank you once again",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1ajZPN2ZBEAE",
+      "author": "Karthik Rao",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Excellent",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1dGFLZkpREAE",
+      "author": "g. monikag",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Sir is very determined and particular in his treatment, sir is very nice.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR1eXVPdTJnRRAB",
+      "author": "asish sasidhar",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR1Z3YtNnVnRRAB",
+      "author": "Gowtham pR",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Dr Akshay Jain is one of the best dermatologist in Guntur , I genuinely recommend to visit his clinic for any skin and hair problems",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1djQyWF9RRRAB",
+      "author": "IBS AMARAVATI",
+      "rating": 4,
+      "relative_date": "4 years ago",
+      "text": "I am Happy the way Akshay Garu speak with patients and his treatment to problems is worth taking and satisfying....",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1NV9Pb19nRRAB",
+      "author": "monika Lunawat",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Best dermatologist in town.. Understands your problems in a patient way..n treat accordingly..Must visit him for any kind of skin n hair problem. Best thing he doesn't prescribe unnecessary medicine unless required.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN1NTRxMUd3EAE",
+      "author": "Allamsetti Sivaramakrishna",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Very nice response by our doctor and he gives best treatment with avg cost of medicine with effective response",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1MDlHLXJnRRAB",
+      "author": "Venkata Ashok Kumar Perla",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Excellent doctor.. Had a very good Experience.. Got results with in 15 days.. Clarify all your questions.. Clearly explain your problem. Finally very friendly nature... :)",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN1MDZpQVNnEAE",
+      "author": "sanjeev kashyap",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Friendly/ Understanding and best dermatologist in Guntur. He understands patients much better and guide them perfectly and treatment is very good. Impressed with his treatment.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN1OVlPSUZnEAE",
+      "author": "Srikanth K",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Dr Akshay is one of the best dermatologist in Guntur , I genuinely recommend to visit his clinic for any skin and hair problems",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN1d1BIWEpREAE",
+      "author": "Rishabh Jain",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "V good knowledge, he goes into the root cause of the patients problem and explains very nicely and his treatment is very effective with quick results..",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURPNDdQTUhnEAE",
+      "author": "Kunchapu Venkatesh",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChRDSUhNMG9nS0VJQ0FnSUNPemVJWBAB",
+      "author": "shivi sharma",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Dr Akshay Jain is well skilled doctor and we got solved all the skin problems at a go ….. I highly recommend to people who suffer from hair,nails and skin problems .",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNPZ2NtdGN3EAE",
+      "author": "hilarious Incredible",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Had a great experience interacting with Dr.Akshay recently!",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNPMnR5WUF3EAE",
+      "author": "Aditya Ajjarapu",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Very helpful and knowledgeable",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNPbUtYRWNnEAE",
+      "author": "darshak chowdary",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQyei1QMGhnRRAB",
+      "author": "raghav882",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQydGFfSkJnEAE",
+      "author": "Rajesh Kayala",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQycGN6OWRBEAE",
+      "author": "mark",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Dr Akshay was the one of the finest dermatologist in the town. I genuinely recommend to visit his hospital for any skin and hair problems. He is patient friendly and doesn't prescribe any unnecessary medicines unless if required.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQydktqTG9BRRAB",
+      "author": "Dhanavath suman",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQyc0xDMnBBRRAB",
+      "author": "Ashish Reddy",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Dr.Akshay sir is very talented ,patient and doesn’t prescribe any unnecessary procedures or medications unless if Required ,rather than treating the disease he mainly makes the patient understand the etiology and tries to treat them from the roots .Mainly he doesn’t force u to get the treatment and explains clearly about all the pros and cons of the procedure .Follow up is also very good .Finally a very good experience💯",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMyeTR2NUhREAE",
+      "author": "hello world",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Akshay sir is very easy going with patients.he discuss everything related to the issue & always very welcoming to queries from patient.He suggest medication only which is required.He give treatment with utmost care.I really had great experience getting treatment from sir... Thankyou soo much Akshay sir.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMya2VMWThnRRAB",
+      "author": "khaja shaik",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Dr Akshay is amazing and I would recommend him to anyone looking for a dermatologist.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMybkx1Vk5nEAE",
+      "author": "Mounika Lukka",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Such a nice and caring doctor, very friendly, the hospital environment is very nice and very good.\n100% recommended for all skin problems",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMyZ09IUGJnEAE",
+      "author": "007- kavya Allu",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Sir is very polite and listen to all our problems with lot of patience and try his best to solve them accordingly 😊 …",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURXM3FEeDhRRRAB",
+      "author": "Subba Reddy Mettu",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURXX0xTZTZBRRAB",
+      "author": "Goutam T Bhatt",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURXdkxfV0tnEAE",
+      "author": "rekapalli lekha",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Dr Akshay was the best dermatologist in the town .. I genuinely recommend to visit his clinic for any skin and hair problems…he is patient friendly and listens to patients problems and give the appropriate treatment …",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNXNTV6NFRBEAE",
+      "author": "Bhanu Prakash",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "The best doctor I have ever met and interacted. I would suggest to visit the clinic without a second thought.  Doctors like him are very rare.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNXaDdLTzdBRRAB",
+      "author": "Balaji Nallapati",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNXc2F1cUl3EAE",
+      "author": "Zinka Mahoday",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Happy to share that the doctor is very warm and kindhearted .....being a dctr is difficult task but convincing a patient's mind is  much more difficult these days ....iam sure evry patient attending him won't have a doubt regarding treatment and results ....i have experienced it personally ......Iam sure that he is one of the best dermatologists in town",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNXM3MzNFZnEAE",
+      "author": "Ssh",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNXaXZ6UDdBRRAB",
+      "author": "Dr.Girish Dusanapudi",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Dr.Akshay jain salecha is an efficient,ethical ,genuine and patient -friendly Dermatologist. He treats  with sound knowledge on the subject and doesn't prescribe unnecessary medications.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURtczVIaDJnRRAB",
+      "author": "prathipati srikanth",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURtay1MZVB3EAE",
+      "author": "Sree Tilak Pasupuleti",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Sir is very professional and gets to the root of the problem and solves it very effectively. Very happy with the results. Thank you doctor.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURtNlllX01BEAE",
+      "author": "Venkata Naveen Amaraneni",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURta2YtYU5BEAE",
+      "author": "Priyanka Jain",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURtaXBpenVBRRAB",
+      "author": "Vishnu vardhan Goud",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Thank you sir...",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURtc3FhZER3EAE",
+      "author": "Dr. Vartika chauhan",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "If you are looking for a doctor who will listen to your problems calmly and solve them with a smile on his face , then you should go for Dr. Akshay Jain's consultation.\nWell satisfied 😌. …",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNtLWR2MndnRRAB",
+      "author": "bharat kumar 16",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNtaXVDNlNREAE",
+      "author": "vijay bhaskar",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Akshay sir is very good reciving doctor and a kind doctor and good treatment, timely decision to diagnose and cure.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNtOE5uc0F3EAE",
+      "author": "Lingamsetty Vardhan",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "dynamic and a very polite dermatologist with very good knowledge in all fields of skin care.... Highly recommended for skin and hair related issues",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURHajdlQmNREAE",
+      "author": "Jagdtiger Mk. XII",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURHX2Rhd2tBRRAB",
+      "author": "Sunil Jain",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "One Of The Best Skin Care Doctor..Very Much Satisfied With The Treatment...",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURHdmNpS29RRRAB",
+      "author": "pokala pawan",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Akshay sir is very knowledgeable and patient friendly.Provides prompt and best treatment.Responds very well at any time you contact",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURHOWMzTm1BRRAB",
+      "author": "Kiran Kumar",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "He suggested best skin care products suitable for my skin ..thanq doctor",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURHLXBpSmp3RRAB",
+      "author": "Ankit Jain",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "👌👌 …",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNHbzZ2ckJnEAE",
+      "author": "rakesh polisetti",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Sir is very knowledgeable, I felt confident in my receiving skin care\nHighly recommended",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNHalpiLVl3EAE",
+      "author": "Prabhat Yeddu",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNHMGNlUnB3RRAB",
+      "author": "7 Arpan Choudhary",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Akshay sir is a gem with immense and accurate knowledge with an absolute friendly behaviour..",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNHcm95d1J3EAE",
+      "author": "Yuvraj B",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNHOXBXOEpREAE",
+      "author": "GOVIND RAM",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNHeG8yNE13EAE",
+      "author": "Sai Venkat",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Hi friends, I recommend you to visit hospital once. I'm sure you will be happy after the treatment. for all kinds of skin related problems and The Akshay sir explains about the problem clearly and gives better treatment to us.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNLb015czd3RRAB",
+      "author": "shaik SOHAIL ALI",
+      "rating": 5,
+      "relative_date": "Edited 4 years ago",
+      "text": "Very Good Receiving & interaction with Doctor and with very politely speaking Doctor and Excellent Diagnostic Skills .Thank You Akshay Sir",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ2cHVyZ1BREAE",
+      "author": "prem sagar",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM2XzZqM2RnEAE",
+      "author": "pavan kumar ycha",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM2NzR1S0VBEAE",
+      "author": "Navya Rao",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "He is very humble and good to the patients and answers every question patiently . He is very efficient doctor and is easily available on phone also.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM2enBIQ1d3EAE",
+      "author": "rajesh raichu",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "A very good receiving doctor and a kind doctor  best in treatment. Answers every query patiently.Plz do visit for many number of skin issues and any procedures over skin.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURhbWZlQmJ3EAE",
+      "author": "Gogineni Jagadeesh",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "One of the most Genuine Doctors in the town",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNhLThMcUdBEAE",
+      "author": "venkat ram",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNhemZuY2N3EAE",
+      "author": "Vjy. Babu21",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "I can say best hospital in Andhra..for all kind of skin and hair problems ..with obedient staff and experienced doctors..growing to be top notch derma clinic in less time...for sure",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNhMHEyUjJ3RRAB",
+      "author": "Narasimha Murthy Vedantham",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "One of the most Genuine Doctors in the towns!!!\nTotally worth the price and Trustworthy. 👍🏼👍🏼 …",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNhMG8zLUx3EAE",
+      "author": "# SAi",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "A very Professional and Diligent Dermatologist...\nIt was a Great Experience Akshay sir.\nHe explained everything to me in a very clear manner. He was also kind and friendly. All of the staff was great – they were helpful, patient and helped with my Issues.\nWould Recommend others!! 😄👍🏼.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNhN05iUlB3EAE",
+      "author": "Bhavya Nandina",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "Excellent and very good treatment by Dr Akshay Jain..Most preferable dermatologist..",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNhOUxfX1BnEAE",
+      "author": "ramsatya teja",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNhdExLdVVnEAE",
+      "author": "piyush jain",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNhOE9mMVVREAE",
+      "author": "satish kommineni",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "Excellent interaction with patients and highly skilled in diagnosis and procedures",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURxaDctanpnRRAB",
+      "author": "Arham Hundia",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "Dr. Akshay Jain has really good diagnostic skills and is very resourceful. Following his advice has really helped my skin become much healthier. I highly recommend him.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURxMlluOXRBRRAB",
+      "author": "Ammu",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURxbWRQbjNRRRAB",
+      "author": "satish thammineedi",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURxdHJHR0xREAE",
+      "author": "ravindra reddy sangu",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURxeEwtYmR3EAE",
+      "author": "DR.SRIRAM REDDY KARRI",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "Dr. Akshay is best dermatologist, very patient friendly and have excellent diagnostic skills .",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNLeGFpNnlnRRAB",
+      "author": "Sai Prasanth R",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "Dr.Akshay is a good dermatologist with holistic approach and has immense  knowledge.He listens and responds in a very polite and patient manner.\nHighly recommended for your skin problems.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNLcm92U0dnEAE",
+      "author": "ankitha bandaru",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNLcHV1Vlh3EAE",
+      "author": "Shreyas Mehta",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNLa3VHUlJBEAE",
+      "author": "ankit jain",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNLM0xtbzZRRRAB",
+      "author": "Dr. Avinash",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "Talented and patient friendly doc.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNLbE1YYTFBRRAB",
+      "author": "Pallapu Shivaiah",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNLNUwtOGhnRRAB",
+      "author": "khayum sk",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNLaE1DYWdnRRAB",
+      "author": "Muni Sahith",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "Doctor in excellence, very patient friendly, loved it",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNLMkxTRDJ3RRAB",
+      "author": "Shaik Shabbir",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "He is very talented and good doctor.His treatment is very good .i will prefer Dr akshay jain for any derma related problems.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNLbU92TEh3EAE",
+      "author": "nirav shah",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "Most genuine doctor !!",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNLeVAtRDFRRRAB",
+      "author": "Sk Yasmin",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNLeU5fZGNBEAE",
+      "author": "Divvela shanmukha",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNLMEtTWU1nEAE",
+      "author": "Sejal Kankariya",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "Best and most Genuine dermatologist!!I would highly recommend!!",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNLd0l5d0x3EAE",
+      "author": "Nathiya",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR5MzdfQXJnRRAB",
+      "author": "Sai Teja Gudivada",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR5MzhHODhnRRAB",
+      "author": "Black Luck",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR5NzZPWVZBEAE",
+      "author": "Dr DineshK",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "Dr. Akshay salecha  is my go to choice for  dermatology consultation as my personal experience with  him is he empathizes  with the patient well and listens to every detail carefully and examines the patient thoroughly and the best thing is  he does write the medication only when it's totally needed and recommended for the patient he  explains the patient about  how to use the medication at the right time and right place do visit him if u have any skin hair or nail related problems I do personally recommed him💉💊🩹♀️♂️🏥🧑‍⚕️✨💯💢⚓📢🎉🎊⛑️🧬📍🛡️⏲️",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR5NzZYaG53RRAB",
+      "author": "Arun solanki",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR5ejlxajR3RRAB",
+      "author": "Ashwin Chopra",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR5OS11aHJRRRAB",
+      "author": "CA Vikas Jain",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR5OTRYZ2VBEAE",
+      "author": "vimal mehta",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "Best Dermatologist in the town",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR5OTltdnFRRRAB",
+      "author": "Rahul Jain",
+      "rating": 4,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR5OV9LYXd3RRAB",
+      "author": "hitendar jain",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR5OTlMSWJnEAE",
+      "author": "DIKSHIT JAIN",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR5OTd5cnZRRRAB",
+      "author": "Lokesh Valluri",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR5OS16LVFnEAE",
+      "author": "maligireddy anandreddy",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "Dr. Jain was very patient and listen to all my complaints. He explained cause my problems and gave some advice and medication and they worked perfectly fine.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR5OV9TbXhBRRAB",
+      "author": "Krishna Sagar",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "State of the art treatment",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR5OTdUQmlBRRAB",
+      "author": "MONTU BALAR JAIN",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR5OTVUVTdnRRAB",
+      "author": "shaik mabbul",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR5OS1TZnF3RRAB",
+      "author": "deepak sanghvi",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "Best genuine suggestion",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR5OS1TTHBRRRAB",
+      "author": "Khushbu Salecha",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR5OS1TdDRBRRAB",
+      "author": "Bupesh Parasa",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "Young, dynamic and a very polite dermatologist with very good knowledge in all fields of skin care.... Highly recommended for skin and hair related issues",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR5OS1US3JnRRAB",
+      "author": "Sai Raghavendran",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR5OTZTdm9RRRAB",
+      "author": "Akash Sanghavi",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR5OTZUMU1REAE",
+      "author": "Anusha Jakkampudi",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR5OThTeFNnEAE",
+      "author": "Prasanth Reddy",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR5OTZpZ1BREAE",
+      "author": "Nirali Jain",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": false
+    }
+  ],
+  "reviews_error": "",
+  "sorted_newest": true,
+  "stopped_at_known_review": false,
+  "reviews_captured": 348,
+  "owner_replies": 317,
+  "reviews_coverage": 1.0,
+  "date_anchor": "2026-08-20T22:55:00",
+  "extract_seconds": 77.8,
+  "missing_fields": [
+    "website"
+  ],
+  "page_rendered": true,
+  "error": ""
+}

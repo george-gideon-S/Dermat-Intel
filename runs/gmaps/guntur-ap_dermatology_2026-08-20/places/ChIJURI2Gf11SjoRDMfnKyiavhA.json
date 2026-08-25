@@ -1,0 +1,597 @@
+{
+  "key": "ChIJURI2Gf11SjoRDMfnKyiavhA",
+  "tier": "full",
+  "complete": true,
+  "place_url": "https://www.google.com/maps/place/Dr+KK%27s+Mana+clinic/data=!4m7!3m6!1s0x3a4a75fd19361251:0x10be9a282be7c70c!8m2!3d16.3008583!4d80.4215216!16s%2Fg%2F11lgdsr7mg!19sChIJURI2Gf11SjoRDMfnKyiavhA?authuser=0&hl=en&rclk=1",
+  "captured_at": "2026-08-20T23:54:46",
+  "rank": 53,
+  "place_id": "ChIJURI2Gf11SjoRDMfnKyiavhA",
+  "feature_id": "0x3a4a75fd19361251:0x10be9a282be7c70c",
+  "kg_mid": "/g/11lgdsr7mg",
+  "lat": 16.3008583,
+  "lng": 80.4215216,
+  "dup_of_rank": null,
+  "has_online_booking": false,
+  "booking_url": "",
+  "booking_vendor": "",
+  "service_options": null,
+  "permanently_closed": false,
+  "temporarily_closed": false,
+  "status_text": "Closed · Opens 7 am Fri",
+  "open_now": false,
+  "is_ad": false,
+  "review_snippet": "\"He will identify its root cause and gives the most effective treatment.\"",
+  "name_raw": "Dr KK's Mana clinic",
+  "name_clean": "Dr KK's Mana clinic",
+  "name_key": "drkksmanaclinic",
+  "name_dropped": [],
+  "name_was_cleaned": false,
+  "category": "Medical clinic",
+  "card_category": "Medical clinic",
+  "category_mismatch": false,
+  "relevance": "adjacent",
+  "basis": "base_generic_medical",
+  "address": "4th Ln, near Bose Bomma, Sri Ram Nagar, Ananda Theertha Agraharam, Guntur, Andhra Pradesh 522004",
+  "plus_code": "8C2C+8J Guntur, Andhra Pradesh",
+  "phone": "096583 23323",
+  "website": "",
+  "website_domain": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "insecure_http": false,
+  "website_matches_name": null,
+  "rating": 4.8,
+  "reviews_total": 59,
+  "rating_histogram": {
+    "5": 51,
+    "4": 6,
+    "3": 0,
+    "2": 0,
+    "1": 2
+  },
+  "histogram_sum": 59,
+  "histogram_reconciles": true,
+  "topics": {
+    "accurate diagnosis": 4,
+    "caring doctors": 8,
+    "homely treatment": 2,
+    "homely atmosphere": 3,
+    "blood tests": 2,
+    "surgery": 6,
+    "experienced doctors": 3,
+    "empathetic": 2,
+    "timely treatment": 2,
+    "kind staff": 4
+  },
+  "google_profile_gaps": [
+    "Add website"
+  ],
+  "has_photos": true,
+  "hours": {
+    "Thursday": "7 am to 10 pm",
+    "Friday": "7 am to 10 pm",
+    "Saturday": "7 am to 10 pm",
+    "Sunday": "7 am to 10 pm",
+    "Monday": "7 am to 10 pm",
+    "Tuesday": "7 am to 10 pm",
+    "Wednesday": "7 am to 10 pm"
+  },
+  "about": {
+    "Accessibility": [
+      " Wheelchair-accessible car park",
+      " Wheelchair-accessible entrance"
+    ],
+    "Amenities": [
+      " Restroom"
+    ],
+    "Payments": [
+      " NFC mobile payments"
+    ],
+    "Map details": [
+      "Transit",
+      "Traffic",
+      "Biking",
+      "Terrain",
+      "Street View",
+      "Wildfires",
+      "Air Quality"
+    ],
+    "Map tools": [
+      "Travel time",
+      "Measure"
+    ],
+    "Map type": [
+      "Default",
+      "Satellite",
+      " Globe view ",
+      " Labels"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkbFVqbHZkR2h4UTI5cGJrRmxiRGh2YlVnd04yYxAB",
+      "author": "Ramu Meesala",
+      "rating": 5,
+      "relative_date": "3 weeks ago",
+      "text": "Excellent service\nExperience Doctor\nTreatment no1,",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paa09IVXpORzVrZDNONmRXTnZWRFEyYVVoRU0wRRAB",
+      "author": "Sreemathy Mudigonda",
+      "rating": 5,
+      "relative_date": "3 weeks ago",
+      "text": "Good Doctor good team",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t3MWEwOHhiVFpGVFhaV1kyaGpRWGxDUm5KSmVXYxAB",
+      "author": "Ramarao Kasarabada",
+      "rating": 5,
+      "relative_date": "3 weeks ago",
+      "text": "Dr k santosh is very kind and understanding the patient symptoms follow up of recovery\nGood clinic at affordable prices and best quality medicine in AT agraharam",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tvdGJHVjFjMmR6ZW5oUVptaGZYMGxtVEdsamQxRRAB",
+      "author": "Sk Asslam",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "I visited Dr Santosh for moms diabetic foot non healing wound he treated very well and she is able to walk well\nBest health center to visit for all health problems",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxaGRtRjBMV0pXY2xveFNuSmpXakJqVm1SQ2VsRRAB",
+      "author": "Jaswanth Sai",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "Experienced doctor",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xBd1QwbDNaVnAyTlZOdVkxSldXVFJwTUMxQlJsRRAB",
+      "author": "Kareti Chandu",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "Best services",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oVWJUazRTVTlhWjNKbVNVcEhSRXRKUjJSdFpFRRAB",
+      "author": "Bubu Dudu",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KSlVIZFNWamhJUm05YU5HNVBSME50YnpOb09HYxAB",
+      "author": "Pawan Kalyan naidu",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "“‘’Dr.Santosh””sir was very professional, listened carefully to my concerns, explained the treatment clearly, and provided excellent care. The staff was courteous, and the overall experience was very positive. I highly recommend this doctor.\nThe doctor was knowledgeable and treated me well. The consultation was helpful, and my condition improved with the prescribed treatment. Overall, I had a good experience.”",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKb1dFeHpkSGhQVURKb1psSmZSbkpNTWpRNVdXYxAB",
+      "author": "rayapati ravindar",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "Treatment is good, doctor is very good, staff is very responsive, my choice is very good hospital",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURKcTRfQWV3EAE",
+      "author": "HARIBABU DONDAPATI",
+      "rating": 5,
+      "relative_date": "Edited a month ago",
+      "text": "Excellent treatment \"mana clinic\"\nHospital dr nagasontosh kumar garu",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sS2VYQXdTVmM1U3pRMFVtbFRhMFo1U1dwdVJrRRAB",
+      "author": "T R R PRASAD",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "Services are satisfactory",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5bk1FNUVkbXc0TFVwelJ6aDVOSFJhUlRGR2RHYxAB",
+      "author": "Murthy Sanagavarapu",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "Good advice, best treatment, early recovery,Dr. and staff also very polite",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tvd2EzWlNOWEIwYzA4NWQyZzBiVkZsZEdVMWMxRRAB",
+      "author": "sandy p",
+      "rating": 5,
+      "relative_date": "4 months ago",
+      "text": "The treatment done by doctor and staff was good and friendly.good patience and we'll treated. Highly recommended",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2podGR5MW9NVk5GYlV4b09FeE9OMlZGU20xTVNHYxAB",
+      "author": "prudhvi pragada",
+      "rating": 5,
+      "relative_date": "5 months ago",
+      "text": "The best clinic i have visited in guntur till now with best equipment and excellent staff. DR.Santosh &Dr.Suresh are best in taking care of the patient,in all the critical surgical cases and non surgical cases.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psSmJuUnRUV3A0VERGNVJGQklkbkZJU0RJM1dIYxAB",
+      "author": "Yasmin Shaik",
+      "rating": 5,
+      "relative_date": "5 months ago",
+      "text": "“The hospital staff are very caring and professional. The doctor explained everything clearly and treated patients with great kindness. Thank you for the excellent care.”\n\n“I had a very good experience at this hospital. The doctor is highly knowledgeable and the staff are supportive and polite. I truly appreciate their dedication.”\n\n“Excellent service and treatment. The doctor is very patient and listens carefully to every concern. The hospital environment is clean and well maintained.”\n\n“Thank you to the doctor and the entire hospital team for the wonderful care. Their professionalism and compassion made us feel safe and comfortable.”\n\n“Very satisfied with the treatment. The doctor is skilled and caring, and the hospital staff are friendly and helpful. Highly recommended.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCTk9XeExaVmQxZURrMVdtcGZaSEI0Y1hNMVFtYxAB",
+      "author": "Neelima Bolem",
+      "rating": 5,
+      "relative_date": "5 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taRlUxbDVPRGxoYjBOUE5sZDJiM0JxT1VWRUxXYxAB",
+      "author": "Nagaratnam Thota",
+      "rating": 4,
+      "relative_date": "5 months ago",
+      "text": "Dr.santosh is great doctor .... my foot  treatment process went very well....",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xseVR6QmFka0pVY0ZaMlNIVlViWEZRWVZwaGEwRRAB",
+      "author": "yasin shaikh",
+      "rating": 4,
+      "relative_date": "5 months ago",
+      "text": "My mother received excellent care for her diabetic ulcer here The staff were kind, professional, and very supportive throughout her treatment.......",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tONlR6ZHFUMm8yTjJWaFRYRm5XR2hvY0dSaFIwRRAB",
+      "author": "Bhargava Sistla",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "Dr. Santosh Garu is one of the best Doctor I have ever met. He is empathetic and a great listener.He listens to the problems attentively and gives the best medication.If any one facing medical issues which are not yet diagnosed please meet him. He will identify its root cause and gives the most effective treatment.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toSE9HNUtlVU5RYlcxZlJXTlhRbUpWUldKbE0zYxAB",
+      "author": "Mahammad Aslam Usmani",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Nice hospital and timely treatment provided by Dr. with homely atmosphere",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Kc0xUUTJlSGRVWkRZM1kwcE9ha2szT1U1VlpuYxAB",
+      "author": "ajitha marjori",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "This is the one of the best clinics near to our area. My leg treatment completely under process by Dr. Santhosh kumar sir. Medicines that prescribed by Doctor are healed very fast. The faculty also very caring. I surely prescribe this clinic for further treatment. Tq🙏 …",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJM3RiYl9nRRAB",
+      "author": "Eshu Lovely",
+      "rating": 4,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTURncE56TFRBEAE",
+      "author": "Nagaraju Thalluri",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Very good service, Doctors really do care for patients and listen to them genuinely. I am pleased.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTURBc09MbDBRRRAB",
+      "author": "52 Hemanth Bolisetty",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2b1lXUUp3EAE",
+      "author": "suresh medisetti",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2cnZDcHpnRRAB",
+      "author": "Srinu Kantati",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Dr. Naga Santosh Kumar provides very good treatment. He performed surgery on my leg. The price is also very reasonable.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2aXNid0xREAE",
+      "author": "A.A.BHASKARA REDDY",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Excellent Hospital., Thanks a lot to Dr.Santosh Kumar garu.  sir advise are so good, excellent diagnosis and focused treatment.Very well mannered staff and good coordination with patients. Fully satisfied with the service rendered.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNIbzlmaUxnEAE",
+      "author": "Setha Ram",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Excellent treatment and staff services are very good.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNIelliQ1h3EAE",
+      "author": "KRISHNA VENI",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I have been visiting this hospital from a while, doctors diagnosis skills are accurate. Hospital is also very clean and Nursing staff are available 24/7.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNIMmJyM3hBRRAB",
+      "author": "Krishna Chaitanya",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Good treatment and fast response with good staff.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR6emRfbzJRRRAB",
+      "author": "G P Madhavi",
+      "rating": 4,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwaEpHRHNBRRAB",
+      "author": "Venkata Kiran",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "One of the best Doctor I have met in Guntur. i.e. Mr.K.K.Santosh Kumar. He treatment is good for patients. The best thing is the Medicine he prescribed was very best. The clinic staff takes good caring for the patients.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURweUxxSVZBEAE",
+      "author": "Aparna Yallapragada",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Very good service sir also gave us homely treatment",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwajRtX0JBEAE",
+      "author": "Geethikabhanu2015",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Homely environment in this hospital and doctor sir also gave treatment very patientntly and he don't priscribe any un nessasary tests and sisters and compunders also gave very good service",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwMTZIQW5RRRAB",
+      "author": "Kalyani Mothadaka",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Excellent experience",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChRDSUhNMG9nS0VJQ0FnSUNwMTRaVhAB",
+      "author": "ahmed rasool pasha.shaik",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURKODktLUV3EAE",
+      "author": "vikash talari",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Excellence service",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKODViZ29nRRAB",
+      "author": "siva battula",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "My wife struggleing with thyroid gland before 4years ..we visited many ENT doctors  for surgery.. but nothing is there .. one of ur family friend referred  for Dr.KKs Mana clinic , . In first visit we observed Dr.santosh Kumar caring patents very careful. In these days I never seen this type of open mind secear doctor .. who treats patents like family members , friends .. .. my self he god for me... Thanks you very much Dr.kks Mana clinic &dr.santhous Kumar garu....\nI wish to people  who are struggling with health issues once visit  Dr.KK's Mana Clinic.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURKc2Ffa093EAE",
+      "author": "koushik avalon",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKZ1pDQ3pnRRAB",
+      "author": "Vasu Kothuri",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKNXJEMzVnRRAB",
+      "author": "sailaja thutupalli",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Apt teatment is given after properly diagnosing the  problem.  Thankful to\nDr Naga Santosh Kumar garu and the whole team for timely treatment.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNodFpqSXJ3RRAB",
+      "author": "Akhil G",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Excellent Clinic Experienced Doctors available Treatment available for any Specialty The Doctors diagnosis the problem easily and give apt treatment My father used Surgery and ENT treatment Good hospitality Experienced nursing services Pharmacy and Lab facility available Especially emergency services We availed 3 times Thanks to KK's Mana clinic",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNodGNqVTlBRRAB",
+      "author": "praveen chinna",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Both Dr. KVV Naga Santosh Kumar sir and K Suresh Kumar are very simple and gentle. Both are spend quality time with each patient.\nBoth are closely study the patient and the disease. Both are always smiling and very approachable, we can freely interact with Dr. KVV Naga Santosh Kumar anytime. Sir prefers surgery only when absolutely necessary",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNoMWZtTVZBEAE",
+      "author": "Lakshmi Narayana",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Good service",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNoeWRlbk5BEAE",
+      "author": "Madhavi Latha",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNoc2V5b0tREAE",
+      "author": "Devalla Kalyan",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Good hospital",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNoLW9USlVREAE",
+      "author": "Akhil Ittadi",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Dedicated doctors, especially for children and general. Simple and complete treatment. Providing low-cost services as well as\n2D echo, ECG, X-Ray at very low cost. The patient who calls the doctors is sent home safely without any hassle\nAnd\nBlood sample is taken at home without extra charge and treatment is provided at home\nWhen it comes to my case, I liked the treatment given by the doctors and the way the staff received me\n\nThank you\n\nDr kka mana clinic team\n\nDr. K v v Naga Santosh Kumar Garu\nDr. Katikala Suresh Garu",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNoLXBDbDVBRRAB",
+      "author": "Ittadi Ramya",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "In AT Agraharam, medical services are provided without expecting any money in advance, but patients who come for blood tests are treated as if they are their own and treated and sent away in time.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNoNnM2TjVnRRAB",
+      "author": "gangadhar v",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNoNm82YkNREAE",
+      "author": "Vani Subhadra Kalluri",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Dr Santhosh Kumar is a very dedicated and amicable surgeon.He pays utmost attention to listen to patients and address each and every problem mentioned.Its very rare to have such doctors during these days who spends time with patients.Consulted him for my mom's surgery and also for my Acidity issues which has been addressed by him with utmost care and we are very happy with the outcome.Very happy to strongly recommend him for all the ailments and I am very happy to refer him.Afforfable and friendly doctor.Thanks in ton for all the support.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNoNnVLSjd3RRAB",
+      "author": "Notu.sudhakar reddy",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCcG9hekNREAE",
+      "author": "chatti vlks",
+      "rating": 1,
+      "relative_date": "3 years ago",
+      "text": "Very cost. Unnecessary blood test will be given. Middle class people can't afford.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURPMV9tNVhBEAE",
+      "author": "CHINTAPALLI HANUMATHA RAO",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Good service",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQyN19fbUl3EAE",
+      "author": "Sadhana Nagabattula",
+      "rating": 1,
+      "relative_date": "4 years ago",
+      "text": "Very commercial hospitality",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChRDSUhNMG9nS0VJQ0FnSURTeHV0NxAB",
+      "author": "Inumukkala Madhuri",
+      "rating": 5,
+      "relative_date": "Edited 4 years ago",
+      "text": "Dedicated and friendly Doctors.fantastic care and Good communication.kind and caring staff.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM2MDdMcndBRRAB",
+      "author": "ROHINI KUMAR Tatambhatla",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Dr. Santosh is committed soul for wellness of people visited him.  Affordable and empathetic.  Consulted for my Friend’s mother case, we have received genuine & trustful suggestion.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNpd2FQUWd3RRAB",
+      "author": "Satish J",
+      "rating": 4,
+      "relative_date": "Edited 5 years ago",
+      "text": "Well qualified and experienced friendly Doctors",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNpNmQ3ZzZ3RRAB",
+      "author": "Radha Rani",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNpdnBYMlJBEAE",
+      "author": "Siva Kumar Dronadula",
+      "rating": 4,
+      "relative_date": "5 years ago",
+      "text": "Very affordable",
+      "has_owner_reply": false
+    }
+  ],
+  "reviews_error": "",
+  "sorted_newest": true,
+  "stopped_at_known_review": false,
+  "reviews_captured": 59,
+  "owner_replies": 0,
+  "reviews_coverage": 1.0,
+  "date_anchor": "2026-08-20T23:54:46",
+  "extract_seconds": 45.7,
+  "missing_fields": [
+    "website"
+  ],
+  "page_rendered": true,
+  "error": ""
+}

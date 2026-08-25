@@ -1,0 +1,983 @@
+{
+  "place_url": "https://www.google.com/maps/place/Dr+Seetharam+K+A/data=!4m7!3m6!1s0x3a4a754bd961ae69:0x28c6d8bae0e5d47!8m2!3d16.2984506!4d80.449656!16s%2Fg%2F126071lhd!19sChIJaa5h2Ut1SjoRR10OrottjAI?authuser=0&hl=en&rclk=1",
+  "captured_at": "2026-08-20T19:38:03",
+  "feature_id": "0x3a4a754bd961ae69:0x28c6d8bae0e5d47",
+  "place_id": "ChIJaa5h2Ut1SjoRR10OrottjAI",
+  "kg_mid": "/g/126071lhd",
+  "lat": 16.2984506,
+  "lng": 80.449656,
+  "name_raw": "Dr Seetharam K A",
+  "name_clean": "Dr Seetharam K A",
+  "name_key": "drseetharamka",
+  "name_dropped": [],
+  "name_was_cleaned": false,
+  "category": "Dermatologist",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "1st Floor, Doctors Plaza, Kothapeta, Guntur, Andhra Pradesh 522001",
+  "plus_code": "7CXX+9V Guntur, Andhra Pradesh",
+  "phone": "0863 222 0512",
+  "website": "",
+  "website_domain": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "insecure_http": false,
+  "website_matches_name": null,
+  "rating": 3.9,
+  "reviews_total": 98,
+  "rating_histogram": {
+    "5": 59,
+    "4": 13,
+    "3": 5,
+    "2": 0,
+    "1": 21
+  },
+  "histogram_sum": 98,
+  "histogram_reconciles": true,
+  "topics": {
+    "experience doctor": 2,
+    "behaviour": 5,
+    "treatment": 4,
+    "receptionist": 2,
+    "hospital": 5,
+    "itching": 2,
+    "phone": 3,
+    "doctor": 7,
+    "skin doctor": 2
+  },
+  "google_profile_gaps": [
+    "Add hours",
+    "Add website"
+  ],
+  "has_photos": true,
+  "hours": null,
+  "about": {
+    "Amenities": [
+      " Restroom"
+    ],
+    "Planning": [
+      " Appointment required"
+    ],
+    "Map details": [
+      "Transit",
+      "Traffic",
+      "Biking",
+      "Terrain",
+      "Street View",
+      "Wildfires",
+      "Air Quality"
+    ],
+    "Map tools": [
+      "Travel time",
+      "Measure"
+    ],
+    "Map type": [
+      "Default",
+      "Satellite",
+      " Globe view ",
+      " Labels"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsVVVsaFVVVEZTV0hKSmNUTkxUMU5OTm5sa01HYxAB",
+      "author": "Qadri Sk",
+      "rating": 3,
+      "relative_date": "2 weeks ago",
+      "text": "Got to know from receptionist that phone number provided ij google will be functional only from morning 9 Am to 10 Am",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aS1ZsUlhkWEY1VmpGT1EyVkRWMU00VjFJM1JWRRAB",
+      "author": "YEPURI DEBORAH",
+      "rating": 1,
+      "relative_date": "3 weeks ago",
+      "text": "I can face worst experience..\nIf you go and say that hair will fall, not only will you be billed 5000/-....\nThey gave you shampoo and serum,\n40 percent of your hair fell out within a week of using them...\nPlease be careful 🙏🙏",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25od2RUbFdiRlJvWW1Nd2R6WkhkVWROYlZaalVXYxAB",
+      "author": "Aruna Reddy",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSSk1tVjZWMEpsT1VJMlZsZEdXRk00YWw5ak0wRRAB",
+      "author": "Kamala Pokuri",
+      "rating": 5,
+      "relative_date": "3 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poclVUUnBSV2hUYUROcFQzVlFOV0pQU2pacFdXYxAB",
+      "author": "Ravibabu Jujigiri",
+      "rating": 1,
+      "relative_date": "5 months ago",
+      "text": "Worst experience I had here. Doctor won't be available atleast 20+ days in a month. Don't waste your valuable time which is more than time n cure. Zindagi lo ilanti chetha clinic dekhaledu Guntur vasulara. Ee okka star kuda ivvadam ishtam ledu. Worst staff behaviour.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CM1EyczBPSGh4Vm5aTlNFSnJSVGgzTjNCYWVtYxAB",
+      "author": "yesuraju",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsd00wUjVVMmRIVkhWRGRURm5kSEk0WjA5aWRIYxAB",
+      "author": "Lalitha Official",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210Nk4wcGtVMFJ6ZDNadk5tZFVZMU4xY25adlkyYxAB",
+      "author": "siva nageswara rao Challa",
+      "rating": 3,
+      "relative_date": "8 months ago",
+      "text": "Doctor has good knowledge and service is good.\nGetting appointment is difficult and staff behaviour is not yet all good.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twdU5uSmphbHBsU3pCdVVsaHBWazUyVlZKc1dVRRAB",
+      "author": "Aravind 1999 Sugguna",
+      "rating": 5,
+      "relative_date": "Edited 10 months ago",
+      "text": "Dactor is excellent but more time to waite do not excuse staff",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kSlZuZGhVMkozVVZaUWFsaFplV2N4ZUVoWk9GRRAB",
+      "author": "Saru Saru",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "Super.. Excellent doctor garu.. Dr. Seetha ram doctor garu..... Treatment very well",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25rM1pFMU9UblZ4TUdNMFNqZHFRMUpvYTNwMVMyYxAB",
+      "author": "Anusha anu",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VOVGJoYmllbU83blN3EAE",
+      "author": "Deepthi Ch",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNBcW9XQ1Z3EAE",
+      "author": "Suresh Klio",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfaWVLRDNnRRAB",
+      "author": "Khasim Shaik",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURQdGMybmxnRRAB",
+      "author": "Dr.SADDAM HUSSAIN SHAIK",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Best dermatology dr.seetharam garu.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURQbXR1N3FRRRAB",
+      "author": "Narendra ontipuli",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURQbE9qNnBRRRAB",
+      "author": "PHANI YALAVARTHI",
+      "rating": 3,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQzd08yLS1RRRAB",
+      "author": "amaravatiopen",
+      "rating": 1,
+      "relative_date": "a year ago",
+      "text": "Very good doctor but service staff is a not a correct",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYM0pxTGFnEAE",
+      "author": "srinivas naidu",
+      "rating": 1,
+      "relative_date": "a year ago",
+      "text": "It's very negligence and not at all customers support....how the doctor was maintaining this worst staff ....not lifting phone...and sending any message while doctor was not there....so this is very very bad.... hospital....",
+      "maybe_truncated": true,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURudlpibWRBEAE",
+      "author": "Raja Sekhar (Chief Minister office)",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURIeXRTQ2ZnEAE",
+      "author": "Venkata Sivaiah Kurra",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNILThpWjlnRRAB",
+      "author": "Digital subhani",
+      "rating": 1,
+      "relative_date": "a year ago",
+      "text": "Opika ke Daare",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURMdDVxeENREAE",
+      "author": "Purna Chandravathi",
+      "rating": 1,
+      "relative_date": "2 years ago",
+      "text": "I am surprised after seeing this reviews, I think doctor is not looking at his reviews on google about his staff , they are very rude behaviour towards patients, if they urgent treatment also management is not giving appointment. How the patient can survive with itching or burning sensation with hole day, is that possible to bare the day . I don’t think so to visit like this hospital, with bad experiences.1 star rating also waste.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUREdE1PSEJREAE",
+      "author": "BME III ECE",
+      "rating": 4,
+      "relative_date": "2 years ago",
+      "text": "Good doctor",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURkeE1PSkZ3EAE",
+      "author": "Syed Suhale Ahmed",
+      "rating": 1,
+      "relative_date": "2 years ago",
+      "text": "Receptionist behaviour is too worst",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR0aWIyN3pnRRAB",
+      "author": "Havalyalakshmisai Inumula",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Excellent",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR0Z3V5Rm5nRRAB",
+      "author": "Karthikeya Rayala",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNOdjhEcmh3RRAB",
+      "author": "Chitta Srinivasa Rao",
+      "rating": 3,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURWMTVuNVFBEAE",
+      "author": "SHAIK JOHNBASHA",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNsNVlMUmZnEAE",
+      "author": "Chowdary Gorantla4èpi7uluyyuuyuu",
+      "rating": 1,
+      "relative_date": "2 years ago",
+      "text": "STAFF BEHAVIOUR VERY WAREEST TAKING HEVY TREATMENT IS BEST",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ1MGFTSXR3RRAB",
+      "author": "Anusha Inampudi",
+      "rating": 1,
+      "relative_date": "2 years ago",
+      "text": "My 7 years old son had severe itching, so we went to hospital with out appointment in urgency, the staff told that Dr. Won't see you because you don't have appointment, I requested them we will wait and we consult the doctor after all patients who has taken appointment, even though they didn't listen, and keep on repeating doctor is busy. Why doctor profession, when not useful to patient  in urgency? I heard in a movie that doctor should  wait for patient but patient should not.\nWe don't find these type of doctors. All are money minded.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURab0ktZjh3RRAB",
+      "author": "Harikishan korampalli",
+      "rating": 1,
+      "relative_date": "2 years ago",
+      "text": "We had the worst experience from the receptionist. We had been calling them for an appointment. They would not pick up the phone for hours . Most of the time, they just put the receiver to the side so that it gives a busy message. At last when they picked up the phone, they said the slots are over. When we said that this is an emergency, they said that nobody had that kind of emergency. Just pathetic service",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwaXJmWjJRRRAB",
+      "author": "Lakshmi Harika",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Gud doctor he listens our problem and treats well",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKaU0yWWVBEAE",
+      "author": "Heam HD",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN4LTVfeHJBRRAB",
+      "author": "Guntupalli Sambaiah",
+      "rating": 4,
+      "relative_date": "3 years ago",
+      "text": "Nice questions sir.have a nice day.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNSbVBDV0p3EAE",
+      "author": "AYUSH AUTOMOBILES",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Very rush takes so much time",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNCcHRfRmtRRRAB",
+      "author": "nani 935",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "(Just one word ) top 1 In ap",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtd09peXBRRRAB",
+      "author": "Pega Training",
+      "rating": 1,
+      "relative_date": "3 years ago",
+      "text": "Hospital staff , attender black fellow with specs is worst guy... He does not know how to deal with patients...",
+      "maybe_truncated": true,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURla0pUT2J3EAE",
+      "author": "Mallikharjun Kukutla",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNleGRfWkNBEAE",
+      "author": "Mahesh Gaali",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Best skin specialist ever visited.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURXMi1yWGFBEAE",
+      "author": "Gutta Leela sai krishna",
+      "rating": 4,
+      "relative_date": "Edited 4 years ago",
+      "text": "I'm go to there because my friend havea algitic problem ,the doctor was most experienced and good in treating there patients in the hospital,and without appointment you will  not get any treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNHM3YtVEZ3EAE",
+      "author": "smabasivarao elika",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM2a0wzbXJBRRAB",
+      "author": "Ram",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNhMnJXbm5RRRAB",
+      "author": "Vamsi",
+      "rating": 1,
+      "relative_date": "5 years ago",
+      "text": "Staff in the clinic are very rude, especially the guy who manages appointments. Please show common decency and respect to the people who come to treatment for your clinic.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURxb0pyQnlnRRAB",
+      "author": "Secretary BIE AP",
+      "rating": 1,
+      "relative_date": "5 years ago",
+      "text": "STAFF IN THE CLINIC ARE VERY RUDE AND HARSH THEY ARE VERY CARELESS IN REPLYING. VERY NEGLIGENCE IN ANSWERING TEMPER PERSONS STAFF WORKING IN THE HOSPITAL.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNLa1BtMlh3EAE",
+      "author": "vi jay reedy",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR5em9EcWh3RRAB",
+      "author": "Gayaz Talkz",
+      "rating": 1,
+      "relative_date": "5 years ago",
+      "text": "Doctor is very gud but the attenders and compounders are worst people,\nthey don't have humanity and they feel like they were the doctors",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN5aGNHczdRRRAB",
+      "author": "Dr.K.S Ram",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURpb3ZDRk9BEAE",
+      "author": "MALLIKARJUN RALLAPALLI",
+      "rating": 1,
+      "relative_date": "5 years ago",
+      "text": "worst in providing op facility.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURpM0k2dkpnEAE",
+      "author": "Sunil Gudavalli",
+      "rating": 1,
+      "relative_date": "5 years ago",
+      "text": "Undergoing treatment for fungal infection from one year but no use",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURpb1BfOGV3EAE",
+      "author": "abduls",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "One of the great doctor",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNpci1PVG5nRRAB",
+      "author": "Balaji Nalam",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNpMWRYaEV3EAE",
+      "author": "krishna mohan",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "One of the best skin doctor in Guntur",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNpd2ZXejBRRRAB",
+      "author": "Nirmala Bannaravuri",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURDbXB6dXlnRRAB",
+      "author": "CHANDRA VARDHAN",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "Best senior doctor highly genuine to solve our problems..\nPlease provide good drinking water.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNDLTR5SHh3RRAB",
+      "author": "gujjaru Phanindra",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNDLUxyaFZREAE",
+      "author": "varun chowdary",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "Good doctor",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ4MmJDaWNnEAE",
+      "author": "B.S.R Krishna",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM4OElDWVdBEAE",
+      "author": "Devaki Yaramalla",
+      "rating": 4,
+      "relative_date": "6 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURjMHJ6S0RREAE",
+      "author": "rajesh viraaj",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNzbXJXOXZnRRAB",
+      "author": "AMEER BASHA SHAIK",
+      "rating": 4,
+      "relative_date": "6 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNzaXVMWnNnRRAB",
+      "author": "Kyalvin Boodala",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURNellqMTJRRRAB",
+      "author": "Ratna Shakina Katam",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURNc3BPcmJREAE",
+      "author": "Sreehari pallapothu",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMwLWJ6R2R3EAE",
+      "author": "Mohan Kumar",
+      "rating": 1,
+      "relative_date": "6 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURBbllYdVFBEAE",
+      "author": "yarraguntla prathyusha",
+      "rating": 1,
+      "relative_date": "Edited 6 years ago",
+      "text": "Compounder is too rude..please change him.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMwaVpQT0pBEAE",
+      "author": "chikkulla pavankumar",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "Good and experience doctor for skin deceases",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMwM3VfS09nEAE",
+      "author": "Venkatesh kurra",
+      "rating": 4,
+      "relative_date": "6 years ago",
+      "text": "Specialist doctor",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMweHNqRVBREAE",
+      "author": "rajendra govindaraju",
+      "rating": 4,
+      "relative_date": "6 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURFa3NYVURnEAE",
+      "author": "Ram Sharma",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Very good doctor super specialist top no 1",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM0X19IdHN3RRAB",
+      "author": "KONDA BHASKAR REDDY",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNZNGYzZ3NnRRAB",
+      "author": "SRIMANIKANTA V",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "well doctor. ..in..guntur",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURJbGU3TE53EAE",
+      "author": "Bindhu Ashika",
+      "rating": 4,
+      "relative_date": "7 years ago",
+      "text": "Doctor is more experienced but for taking appointment, no one lifts the phone call.poor response of staff.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNJOWFQTGVnEAE",
+      "author": "Hemanth Ayilavarapu",
+      "rating": 3,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNJcXVpZVpBEAE",
+      "author": "Mohan Chandra Sekhar",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR3cU1LNXpnRRAB",
+      "author": "Samuel varun",
+      "rating": 4,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURBcEstS1NnEAE",
+      "author": "Kolla Padmavathi",
+      "rating": 5,
+      "relative_date": "8 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURnM01hVkZ3EAE",
+      "author": "Khaja Shaik (Khaja)",
+      "rating": 5,
+      "relative_date": "8 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURBMkpEN1FBEAE",
+      "author": "satyanarayana vasantha",
+      "rating": 4,
+      "relative_date": "8 years ago",
+      "text": "treats skin diseases and vd.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURnMWQ2WHZBRRAB",
+      "author": "Bhavesh Malviya",
+      "rating": 1,
+      "relative_date": "8 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNBazhlVmdBRRAB",
+      "author": "Thahassin Sulthana",
+      "rating": 4,
+      "relative_date": "8 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN3dGZyVjJBRRAB",
+      "author": "Gopi Krishna",
+      "rating": 5,
+      "relative_date": "8 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChRDSUhNMG9nS0VJQ0FnSURBa3VGehAB",
+      "author": "Takkellapati Saikrishna",
+      "rating": 4,
+      "relative_date": "8 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN3bjREbllREAE",
+      "author": "RAJU K",
+      "rating": 5,
+      "relative_date": "8 years ago",
+      "text": "Nice",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN3Mi1TNzdnRRAB",
+      "author": "K Aravind",
+      "rating": 5,
+      "relative_date": "8 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNBdV9uY0NBEAE",
+      "author": "Chintha Naresh Kumar",
+      "rating": 5,
+      "relative_date": "8 years ago",
+      "text": "good goooood doctor. very experienced dr.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNnaFBuNVdREAE",
+      "author": "Pradeep Muvvala",
+      "rating": 5,
+      "relative_date": "8 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURRLUx6SURREAE",
+      "author": "Sai Ganesh",
+      "rating": 1,
+      "relative_date": "8 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN3NmNmZHNRRRAB",
+      "author": "karunakar tirumala",
+      "rating": 5,
+      "relative_date": "9 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURBaF96MUVBEAE",
+      "author": "prabhakararao sathuluri",
+      "rating": 4,
+      "relative_date": "9 years ago",
+      "text": "Skin specialist",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURRa183cTlnRRAB",
+      "author": "Naga Mallika Kalangi",
+      "rating": 5,
+      "relative_date": "9 years ago",
+      "text": "Really best Doctor in GUNTUR, if u have any Skin problems u can contact Dr. Seetharam garu",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURnaEpMZk53EAE",
+      "author": "M Dasu",
+      "rating": 5,
+      "relative_date": "9 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURBamZEVDd3RRAB",
+      "author": "sumanth chowdary",
+      "rating": 5,
+      "relative_date": "9 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNRc043OEF3EAE",
+      "author": "Chandra Rao",
+      "rating": 5,
+      "relative_date": "9 years ago",
+      "text": "Best In Guntur best medicine.perfect Doctor..",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNBLUkzOUNREAE",
+      "author": "sankar rathamsetty",
+      "rating": 5,
+      "relative_date": "9 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNRdy03b2t3RRAB",
+      "author": "Vara Dev",
+      "rating": 5,
+      "relative_date": "10 years ago",
+      "text": "Good doctor",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURRbmQ3SVNnEAE",
+      "author": "bangaru papak",
+      "rating": 5,
+      "relative_date": "10 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURncG96WGd3RRAB",
+      "author": "Chandrasekhar Karamsetty",
+      "rating": 1,
+      "relative_date": "11 years ago",
+      "text": "The Reception Attendees are really rude.\nI don't know how to administrate the clinic. I can't rate his expertise until my head burns are cleared with out any black marks. However, skin doctors are also taking 200 rupess of visiting charge for 15 days. They don't accommodate the request to talk to doctor for 15 mins. This worst scenario of all Guntur doctors. Even after requesting Reception attendee twice to accommodate for 5 mins of quick check with doctor also they are not accommodating.  Just think of it. If doctor suggest for any dosage it would they normally give for 2 weeks . By that time your 1st visit ammount would already cross the next appointment date. This is purely to earn money of 200 rupess for 1 visit by doctor. This is the way the doctors in india earning huge money.\n\nPlease kind stop it & help your patient.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    }
+  ],
+  "reviews_error": "",
+  "sorted_newest": true,
+  "stopped_at_known_review": false,
+  "reviews_captured": 98,
+  "owner_replies": 0,
+  "truncated_reviews": 2,
+  "reviews_coverage": 1.0,
+  "date_anchor": "2026-08-20T19:38:03",
+  "extract_seconds": 50.4,
+  "missing_fields": [
+    "website",
+    "hours"
+  ],
+  "listing_position": 84,
+  "source_query": "dermatologists in Guntur",
+  "listing_name": "Dr Seetharam K A"
+}

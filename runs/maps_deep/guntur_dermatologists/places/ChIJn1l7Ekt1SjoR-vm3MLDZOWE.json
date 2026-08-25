@@ -1,0 +1,149 @@
+{
+  "place_url": "https://www.google.com/maps/place/Care+32+Dental+Center/data=!4m7!3m6!1s0x3a4a754b127b599f:0x6139d9b030b7f9fa!8m2!3d16.2988841!4d80.4528888!16s%2Fg%2F11c4nxzl78!19sChIJn1l7Ekt1SjoR-vm3MLDZOWE?authuser=0&hl=en&rclk=1",
+  "captured_at": "2026-08-20T19:42:28",
+  "feature_id": "0x3a4a754b127b599f:0x6139d9b030b7f9fa",
+  "place_id": "ChIJn1l7Ekt1SjoR-vm3MLDZOWE",
+  "kg_mid": "/g/11c4nxzl78",
+  "lat": 16.2988841,
+  "lng": 80.4528888,
+  "name_raw": "Care 32 Dental Center",
+  "name_clean": "Care 32 Dental Center",
+  "name_key": "care32dentalcenter",
+  "name_dropped": [],
+  "name_was_cleaned": false,
+  "category": "Dental clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "irrelevant",
+  "basis": "name_veto:dental",
+  "address": "7FX3+H52, Old Club Rd, opposite Dr.agarwal eye Hospital, Coastal Andhra Region, Kothapeta, Guntur, Andhra Pradesh 522001",
+  "plus_code": "",
+  "phone": "0863 221 9843",
+  "website": "",
+  "website_domain": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "insecure_http": false,
+  "website_matches_name": null,
+  "rating": 5.0,
+  "reviews_total": 6,
+  "rating_histogram": {
+    "5": 6,
+    "4": 0,
+    "3": 0,
+    "2": 0,
+    "1": 0
+  },
+  "histogram_sum": 6,
+  "histogram_reconciles": true,
+  "topics": null,
+  "google_profile_gaps": [
+    "Add website"
+  ],
+  "has_photos": true,
+  "hours": {
+    "Thursday": "10 am to 9 pm",
+    "Friday": "10 am to 9 pm",
+    "Saturday": "10 am to 9 pm",
+    "Sunday": "Closed",
+    "Monday": "10 am to 9 pm",
+    "Tuesday": "10 am to 9 pm",
+    "Wednesday": "10 am to 9 pm"
+  },
+  "about": {
+    "Planning": [
+      " Appointments recommended"
+    ],
+    "Map details": [
+      "Transit",
+      "Traffic",
+      "Biking",
+      "Terrain",
+      "Street View",
+      "Wildfires",
+      "Air Quality"
+    ],
+    "Map tools": [
+      "Travel time",
+      "Measure"
+    ],
+    "Map type": [
+      "Default",
+      "Satellite",
+      " Globe view ",
+      " Labels"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWYVRtNWpNbDlCWjJFd0xUSktkWFF4YVd4UU1IYxAB",
+      "author": "Pasha Shaik",
+      "rating": 5,
+      "relative_date": "3 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOemJHRnpRbUpJVDFOSWQzaEhlWFpzYkhaUlRWRRAB",
+      "author": "Mohammad Jeelani",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CMVFUaE1abkZYY21odVpFNXNjV2RDVWxCSU4wRRAB",
+      "author": "Surya Narayan",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2MWJLV053EAE",
+      "author": "sudheer kopparapu",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Doctor has explained me the possible and economical options. Treatment was very smooth and completed on time. I don’t feel like I have a crown. Amazing",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURuNzY2d3pnRRAB",
+      "author": "Sandeep Reddy",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "It was a great experience with the doctor. Sir was so kind and humble, treats the patient with good care and makes sure no mistakes are performed during the procedure. In case of any dental related issues I highly recommend consulting this clinic for better solutions for your dental problems.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQtcWVPbDJRRRAB",
+      "author": "sridhar abburi",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Excellent",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    }
+  ],
+  "reviews_error": "",
+  "sorted_newest": true,
+  "stopped_at_known_review": false,
+  "reviews_captured": 6,
+  "owner_replies": 0,
+  "truncated_reviews": 0,
+  "reviews_coverage": 1.0,
+  "date_anchor": "2026-08-20T19:42:28",
+  "extract_seconds": 55.5,
+  "missing_fields": [
+    "plus_code",
+    "website"
+  ],
+  "listing_position": 88,
+  "source_query": "dermatologists in Guntur",
+  "listing_name": "Care 32 Dental Center"
+}

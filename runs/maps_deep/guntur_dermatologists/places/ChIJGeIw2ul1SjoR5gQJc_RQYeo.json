@@ -1,0 +1,730 @@
+{
+  "place_url": "https://www.google.com/maps/place/Dr.Swapna%27s+Skin,+Laser+%26+Hair+transplant+centre/data=!4m7!3m6!1s0x3a4a75e9da30e219:0xea6150f4730904e6!8m2!3d16.3114371!4d80.4325101!16s%2Fg%2F11lhhq6bp4!19sChIJGeIw2ul1SjoR5gQJc_RQYeo?authuser=0&hl=en&rclk=1",
+  "captured_at": "2026-08-20T18:30:40",
+  "feature_id": "0x3a4a75e9da30e219:0xea6150f4730904e6",
+  "place_id": "ChIJGeIw2ul1SjoR5gQJc_RQYeo",
+  "kg_mid": "/g/11lhhq6bp4",
+  "lat": 16.3114371,
+  "lng": 80.4325101,
+  "name_raw": "Dr.Swapna's Skin, Laser & Hair transplant centre",
+  "name_clean": "Dr.Swapna's Skin, Laser & Hair transplant centre",
+  "name_key": "drswapnasskinlaserhairtransplantcentre",
+  "name_dropped": [],
+  "name_was_cleaned": false,
+  "category": "Skin care clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "4-2-5/6; 1/2, Lakshmipuram, Ramannapet, Guntur, Andhra Pradesh 522007",
+  "plus_code": "8C6M+H2 Guntur, Andhra Pradesh",
+  "phone": "089194 64220",
+  "website": "https://www.drswapnaskinclinic.com/aboutus",
+  "website_domain": "drswapnaskinclinic.com",
+  "website_type": "own_domain",
+  "has_own_website": true,
+  "insecure_http": false,
+  "website_matches_name": true,
+  "rating": 4.6,
+  "reviews_total": 69,
+  "rating_histogram": {
+    "5": 60,
+    "4": 1,
+    "3": 1,
+    "2": 0,
+    "1": 7
+  },
+  "histogram_sum": 69,
+  "histogram_reconciles": true,
+  "topics": {
+    "chemical peel": 2,
+    "cosmetic procedures": 4,
+    "acne scars": 3,
+    "friendly doctor": 4,
+    "friendly nature": 2,
+    "skin and hair problems": 2,
+    "treatment results": 3,
+    "brilliant doctor": 2,
+    "doctor interaction": 2,
+    "answering doubts": 2
+  },
+  "google_profile_gaps": null,
+  "has_photos": true,
+  "hours": {
+    "Thursday": "5:30 to 8:30 pm",
+    "Friday": "5:30 to 8:30 pm",
+    "Saturday": "5:30 to 8:30 pm",
+    "Sunday": "Closed",
+    "Monday": "5:30 to 8:30 pm",
+    "Tuesday": "5:30 to 8:30 pm",
+    "Wednesday": "5:30 to 8:30 pm"
+  },
+  "about": {
+    "Amenities": [
+      " Restroom"
+    ],
+    "Planning": [
+      " Appointments recommended"
+    ],
+    "Payments": [
+      " Credit cards",
+      " Debit cards",
+      " NFC mobile payments"
+    ],
+    "Map details": [
+      "Transit",
+      "Traffic",
+      "Biking",
+      "Terrain",
+      "Street View",
+      "Wildfires",
+      "Air Quality"
+    ],
+    "Map tools": [
+      "Travel time",
+      "Measure"
+    ],
+    "Map type": [
+      "Default",
+      "Satellite",
+      " Globe view ",
+      " Labels"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsYVRGQnVWVmszYUhWNGMwaGFSVUozY21zNWRrRRAB",
+      "author": "VENKATA NARASAMMA BELLAMKONDA",
+      "rating": 1,
+      "relative_date": "2 months ago",
+      "text": "Koritapadu Staff is very bad.\nMy skin condition is very bad. I need urgent treatment and when I call and look for the address, they say that there is no doctor there.\n\nAt least when I call, they don't have the minimum common sense that if we tell them this, it will save us a lot of trouble. Both of them are scrolling through the phone and talking about rice and curry.\n\nIf they say no, they will come tomorrow, so they will know the address tomorrow. They replied so carelessly.\n\nMoreover, everyone who goes to the surgery, madam, if you want, you can see them on a video call.\n\nHow do people in the surgery see the video call treatment, they should be free to tell us their problem, they say that they will see us on whatever it is.\n\nIf there is a personal problem, will they treat it like this?",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xodU9FbzViakZmVkROek5VTlFUWEZLYldOemJIYxAB",
+      "author": "Bharathi Yenugula",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "Hair patch problem i came\nMy problem solved super  response",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2trMFltMHlVREZVZUU4eWRrWktPVFJzVlRZMFZXYxAB",
+      "author": "Yaswanth Reddy",
+      "rating": 1,
+      "relative_date": "7 months ago",
+      "text": "After taking my wife there I regret I will never visit there again",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WcFJIaGFPV1F6UmpWUk9IRXRVWGh6VmpCV2NYYxAB",
+      "author": "Yamala Sreenivas",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "The way she explained the problem and gave the solution is very nice..highly recommended",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tZeVVXMUhSa0pMZFZOMVIyRTJSeTFYV2pNdFVrRRAB",
+      "author": "PADMAVATHI Namburu",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "I am fully satisfied Dr swapna's treatment very friendly doctor",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toMU1XaGhXVUpPUmxGYWNVeGpRMGxCV25SR1NXYxAB",
+      "author": "Deva Madasu",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "Skin allergy totally gone in 1week super response\nBest clinic in guntur",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tFNU9WOHpVRFE0VGw5VGRubzVhRmhCUVRGMVNYYxAB",
+      "author": "neelima nagabhyru",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "I am suffering from kidney problem at an early age.Dialysis is a long-term treatment for my condition\nDr.Swapna gari daggara treatment teesukuntunte my condition is improving my condition.\nMadam cheppina advice as it is ga follow ayithae chalu. Super happpy ayipotham.\nDr.Swapna is very good suggestion for all types of skin treatment. 😁👌👯‍♀️💃🏼💃🏼",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tZNGIyeDBTblJIYTNCck1FSnpMWEJ5UzJwTFVWRRAB",
+      "author": "Srinivasarao Kalahasti",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "Within 5 days my problem totally solved\nImprovement is there exactly like how doctor said\nTrustworthly daughter\n100% I will recommended\nDr swapnas\" skin laser hair transplant centre",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKYWMxQTVTVVZ4UVRkV1NEaERhV04wTW1STk5YYxAB",
+      "author": "Muthahar Shaik",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Any skin problem result will come in very short time I came with 3 skin hair problems 15 days back. All resolved\n#Best skin clinic in Guntur",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKMFltNHROVWRUZGxOUE4wUkhTa0Z1VmpWUWQwRRAB",
+      "author": "Kaka Vishnu",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Good atmosphere to go and friendly staff and good treatment by dr.sowmy garu",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSdVlDa3BRRRAB",
+      "author": "SINDHURA REKA",
+      "rating": 5,
+      "relative_date": "Edited a year ago",
+      "text": "I got my daughters ear pierced here, had best experience . Thank you mam for your patience.  Wonderful team. Mam is very kind🙂. …",
+      "maybe_truncated": true,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNRMHBPSnVBRRAB",
+      "author": "Sonali Buyekar Sonali",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Thank u Dr Swapna Madam. You r an excellent cosmetologist who has guided me with the best solution.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNRMUpMSHZBRRAB",
+      "author": "Goutam Raj Kanne",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Thank you Dr Swapna Garu . Your services are unforgettable in our lives. We are so happy and I highly recommend this place for Skin problems and Cosmetology related issues. 👍🙂🙏 …",
+      "maybe_truncated": true,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRNEppdkZBEAE",
+      "author": "Sowjanya Chunduri",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Highly professional.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnMGJlTnhRRRAB",
+      "author": "Venky Avala",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Exleng treat ment",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTURBdnZiQ0tBEAE",
+      "author": "Ramarao Bathula",
+      "rating": 1,
+      "relative_date": "a year ago",
+      "text": "MRP prices all medicines this medicine outside not available. Main importantly doctor is commercial minded and attitude\nPerson as well.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURmM2ZyRGFREAE",
+      "author": "prashanth reddy",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I recently went through hair transplantation (dec 7 2024) .\nFully satisfied, doctors are experienced and had a good interaction with them through out the procedure(never get bored during the procedure😂)\nGood follow up after the procedure,”. …",
+      "maybe_truncated": true,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURmcmMzd3l3RRAB",
+      "author": "ABDUL SALEEM",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURQci16VHZ3RRAB",
+      "author": "Nissey Hadassah",
+      "rating": 4,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURQMS1YcVJ3EAE",
+      "author": "Vattem Srinivasa Rao",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Good treatment\nexcellent rapport with patient\ngot results.with in one month",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNMa2E2NDVnRRAB",
+      "author": "Jhony Mabu",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN6MlBXNHNRRRAB",
+      "author": "vineela J",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Dr. Swapna gives best treatment. Results were amazing.She had safest Laser treatment. Received finest treatment for Acne.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNEczRMMHlBRRAB",
+      "author": "G Kiran Kumar",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "My wife consulted Dr. Swapna garu for the treatment of hair fall and improving face smoothness and brightness, and the results were tremendous within a few months. Dr. Swapna garu has a lot of patience and eagerly engages with customers to understand their problems, suggesting various possibilities, remedies, and available treatments to meet their needs. She is very supportive and explains products and equipment thoroughly to address any clarifications or doubts customers may have. I highly recommend contacting Dr. Swapna Lingamallu garu will give you a solution for any hair & cosmetic medical needs.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURkdllPMG1nRRAB",
+      "author": "Amandeep Singh",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURObFplSmNnEAE",
+      "author": "Supriya Eye Hospital",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I really appreciate your help in curing my son's skin problem. I can't thank you enough for the special, excellent care you have provided and for the unique gift you are to your patients. I am blessed that you are my doc!",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURKel9yWmJBEAE",
+      "author": "Somu Somu",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "I have visited Dr swapna's clinic with of pimples on off my face. With  just one consultation my face is clear .with no pimples right now .I am very happy with my results I wound definitely recommend Dr.swwpna's clinic for skin and hair problems tight now.Thank you Madem",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4MnNiRlJBEAE",
+      "author": "kothasatya narayana",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Dr Swapna is a very patient and brilliant doctor. She’s the only one I have met so far who doesn’t load treatments and products on you. She takes time to understand the issue and prescribes only what is needed and it has worked very well for me. 100% recommend",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR4MnZycXFBRRAB",
+      "author": "kotha sivasatyanarayan",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Doctor Swapna garu is comfort...and well treatment..i am completely satisfied..",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURoanI3enJnRRAB",
+      "author": "Indio Kala",
+      "rating": 1,
+      "relative_date": "3 years ago",
+      "text": "Overly priced",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURoMXFQcS1nRRAB",
+      "author": "Anwar Basha",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNoOU5Mb3FBRRAB",
+      "author": "Uday Teja",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Currently receiving acne scar treatment from Dr. Swapna. Very happy with the treatment and results so far. Dr. Swapna was very patient and answered every single doubt I had. Would  definitely recommend to anyone with skin and hair problems.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNoNE5ybDJ3RRAB",
+      "author": "arun kumar",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Dr swapna garu very good  doctor and treatment is very satisfied, and i hope all my family members recamended in dr swapnas clinics.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNob0xlNzRBRRAB",
+      "author": "d sravani",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "I visited Dr Swapna's clinic for chemical peel and laser treatment\nSwapna ma'am explained the process and all the details with utmost patience and listened to my skin concerns and suggested the chemical peel\nGuys trust me the results are amazing and you don't need salons and beauty parlours\nIt's a one stop destination for all the hair and skin concerns.......\nI am completely satisfied with the treatment sessions",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNob0tYaVBREAE",
+      "author": "Mylavarapu Venkata Jagannadha Rao",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCNjhHSUh3EAE",
+      "author": "Angelina",
+      "rating": 1,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURCbFl1eWpRRRAB",
+      "author": "Ughjh Hhky",
+      "rating": 1,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURldmNTa0JBEAE",
+      "author": "BODI CHIRANJEEVI",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "I came with hair problem and I got shocking results within 1 month. I am very happy with Dr. Swapna's treatment.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURldWFQTWZBEAE",
+      "author": "Venkat Chowdary",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "I got wonderful results with treatment at Dr. Swapna’s Skin laser hair transplant centre.  Doctor is very friendly & caring. I will recommend to all people in Guntur for all cosmetic treatments and all skin problems.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlanRESFpREAE",
+      "author": "mounika kancherla",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "My aunty referred me to this hospital. Dr.Swapna garu listened to my hair and skin problems. The way she interacted with me was awesome. Hospital's ambience is very nice. Im well satisfied with the hospitality and treatment.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlaHVLVy13RRAB",
+      "author": "Vivo V20",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNlbjlLMXV3RRAB",
+      "author": "Chinta Akhil Naidu",
+      "rating": 3,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNldmNDQ1lREAE",
+      "author": "Koppuravuri Syamkumari",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "My face got clear in just 4 months. Before treatment i used to have uneven face with lot of acne scars. I am very happy with Dr Swapna garu & her MNRF treatment. I will definitely recommend mam for anyone with acne scars/facial resurfacing/ facial rejuvenation/ any cosmetic procedures",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNld3E3R1ZnEAE",
+      "author": "Sreeram Vijaya",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1alpuU0dREAE",
+      "author": "deepthi ch",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Good clinic for all skin problems.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR1eGNUZjRnRRAB",
+      "author": "Vemavarapu Ganesh",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1eGJpTFdREAE",
+      "author": "Yuvaraja Sadhu",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "I came to know about this hospital thru a friend. The treatment was spot on. Dr Swapna way of handling the patients and treatment is awesome.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1eFppSFpBEAE",
+      "author": "Sateesh Raja",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Loved the treatment. Dr Swapna was very patient in listening to my hair problems and suggested all available solutions. Hospital location is good. I would definitely recommend Swapna's skin clinic for my friends and family.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR1dU1QOTJBRRAB",
+      "author": "RAJI ammu",
+      "rating": 1,
+      "relative_date": "4 years ago",
+      "text": "I consulted Swapna madam she repeatedly suggests same medicine to all which we should take from her on MRP prices including change like 1 rupee 2 rupees she asks like the way local market vegetable sellers where It has a zero results. If we want to ask anything we should take OP again whether it is 7 days or 15 days old op she won't consider as an existing patient and finally fed up with this clinic and left with zero results.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN1cmZ1QU1BEAE",
+      "author": "Saaket Kota",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "I got a chemical peel in my shoulder and upper back area, as well as micro needling done to my face. The results have been fantastic, as almost everyone that I know, family and friends, has pointed out that my face and skin are a lot clearer now that I did these procedures. Dr. Lingamallu clearly knows what she’s doing, and she proved to us that she’s the best doctor around for your skin.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN1cllHX093EAE",
+      "author": "yamini majety",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNPNjZ2VjhRRRAB",
+      "author": "Durgamnandini06 Nandhu",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMyNktiMUNnEAE",
+      "author": "Susmitha Kanapala",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Having tried many other skin clinics i can say for sure that this was the only place that could offer a permanent solution to acne scars and pigmentation. Treatment definitely is worth every penny.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURXMkluNjR3RRAB",
+      "author": "Nikitha reddy Katta",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Best dermatologist in town.\nGuides very well regarding regular skin care and pre and post procedure care.\nBudget friendly.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM2XzRxQ3dRRRAB",
+      "author": "harika kilaru",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM2Nzh2Q1lBEAE",
+      "author": "Raghuveer Boina",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURpNHJUYmpnRRAB",
+      "author": "Kv Narayana",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "I am Dr k.v.narayana undergone two sittings of chemical peel treatment on face in Dr swapna's skin care center and observed very good improvement.i really appreciate her efficiency as skin care doctor and thank her heartfully.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNpaEpUam5BRRAB",
+      "author": "hemanth kumar",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURDbk9hdFZ3EAE",
+      "author": "usha karnika",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURDcklPSW1RRRAB",
+      "author": "Sindhu",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "Friendly nature\nSpends enough time while consultation\nWon't hesitate to clarify even silly doubts\nGot good results using her prescription",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURDck5uWmNBEAE",
+      "author": "divya leela",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURDek9UM2lBRRAB",
+      "author": "Ramadevi birudala",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURDek1TeVlREAE",
+      "author": "vamsikrishna vurimi",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURDeklpVHRnRRAB",
+      "author": "LakshmiPrasad Veeravatnam",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "Professional in treatment yet very friendly behaviour.\nI recommend Dr. Swapna to everyone for skin problems and cosmetic procedures.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURDek9DZGxBRRAB",
+      "author": "Raja Gopal",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "I know Dr. Swapna from the last 5 years and her treatment is very remarkable. Even during the lock down, she worked for her patients and even through audio visual means all her advises are really working.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURDek9DamdRRRAB",
+      "author": "rajeev sangeeth",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURDek1ESzZRRRAB",
+      "author": "vamsi gopu",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURDalBfYkd3EAE",
+      "author": "Shri Suhas",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "Very good treatment  for skin and hair referrals to all",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURDalBfLWRREAE",
+      "author": "sasi manoj Kumar",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURDak5fVnR3RRAB",
+      "author": "Addagalla Saranya",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "Have consulted her virtually in heavy summer due to rash. Almost my skin layer has damaged. Dr.swapna suggested me some lotion nd tablets. I hv recovered within 2 days. Almost, my dandruff problem also reduced by consulting her.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    }
+  ],
+  "reviews_error": "",
+  "sorted_newest": true,
+  "stopped_at_known_review": false,
+  "reviews_captured": 69,
+  "owner_replies": 59,
+  "truncated_reviews": 3,
+  "reviews_coverage": 1.0,
+  "date_anchor": "2026-08-20T18:30:40",
+  "extract_seconds": 32.0,
+  "missing_fields": [],
+  "listing_position": 28,
+  "source_query": "dermatologists in Guntur",
+  "listing_name": "Dr.Swapna's Skin, Laser & Hair transplant centre"
+}

@@ -1,0 +1,355 @@
+{
+  "key": "ChIJm2DWMRZ1SjoRDUePwSBFf8s",
+  "tier": "full",
+  "complete": true,
+  "place_url": "https://www.google.com/maps/place/Sapphire+Clinics/data=!4m7!3m6!1s0x3a4a751631d6609b:0xcb7f4520c18f470d!8m2!3d16.3104023!4d80.4327178!16s%2Fg%2F11lnmwk899!19sChIJm2DWMRZ1SjoRDUePwSBFf8s?authuser=0&hl=en&rclk=1",
+  "captured_at": "2026-08-20T23:30:36",
+  "rank": 33,
+  "place_id": "ChIJm2DWMRZ1SjoRDUePwSBFf8s",
+  "feature_id": "0x3a4a751631d6609b:0xcb7f4520c18f470d",
+  "kg_mid": "/g/11lnmwk899",
+  "lat": 16.3104023,
+  "lng": 80.4327178,
+  "dup_of_rank": null,
+  "has_online_booking": false,
+  "booking_url": "",
+  "booking_vendor": "",
+  "service_options": [
+    "On-site services"
+  ],
+  "permanently_closed": false,
+  "temporarily_closed": false,
+  "status_text": "Closed · Opens 10 am Fri",
+  "open_now": false,
+  "is_ad": false,
+  "review_snippet": "On-site services",
+  "name_raw": "Sapphire Clinics",
+  "name_clean": "Sapphire Clinics",
+  "name_key": "sapphireclinics",
+  "name_dropped": [],
+  "name_was_cleaned": false,
+  "category": "Skin care clinic",
+  "card_category": "Skin care clinic",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "4th Ln, opp. Montessori School, near Sanjivi Hospitals, Lakshmipuram, Guntur, Andhra Pradesh 522007",
+  "plus_code": "8C6M+53 Guntur, Andhra Pradesh",
+  "phone": "095054 66669",
+  "website": "https://www.sapphireclinics.in/",
+  "website_domain": "sapphireclinics.in",
+  "website_type": "own_domain",
+  "insecure_http": false,
+  "has_own_website": true,
+  "website_matches_name": true,
+  "rating": 5.0,
+  "reviews_total": 26,
+  "rating_histogram": {
+    "5": 26,
+    "4": 0,
+    "3": 0,
+    "2": 0,
+    "1": 0
+  },
+  "histogram_sum": 26,
+  "histogram_reconciles": true,
+  "topics": {
+    "hair transplant": 3,
+    "painless treatment": 2,
+    "friendly doctor": 4,
+    "procedure explanation": 3,
+    "clear explanations": 5,
+    "aftercare": 2,
+    "efficient staff": 2,
+    "kind staff": 5,
+    "smooth process": 2,
+    "clean clinic": 2
+  },
+  "google_profile_gaps": null,
+  "has_photos": true,
+  "hours": {
+    "Thursday": "10 am to 8 pm",
+    "Friday": "10 am to 8 pm",
+    "Saturday": "10 am to 8 pm",
+    "Sunday": "10:30 am to 12 am",
+    "Monday": "12 to 8 am, 10 am to 8 pm",
+    "Tuesday": "10 am to 8 pm",
+    "Wednesday": "10 am to 8 pm"
+  },
+  "about": {
+    "Accessibility": [
+      " Assistive hearing loop",
+      " Wheelchair-accessible seating"
+    ],
+    "From the business": [
+      " Identifies as women-owned"
+    ],
+    "Service options": [
+      " On-site services"
+    ],
+    "Amenities": [
+      " Restroom"
+    ],
+    "Crowd": [
+      " LGBTQ+ friendly"
+    ],
+    "Planning": [
+      " Appointment required",
+      " Appointments recommended"
+    ],
+    "Payments": [
+      " Credit cards",
+      " Debit cards",
+      " Google Pay"
+    ],
+    "Children": [
+      " Nursing room"
+    ],
+    "Parking": [
+      " Free parking garage",
+      " Free parking lot",
+      " Free street parking",
+      " On-site parking"
+    ],
+    "Map details": [
+      "Transit",
+      "Traffic",
+      "Biking",
+      "Terrain",
+      "Street View",
+      "Wildfires",
+      "Air Quality"
+    ],
+    "Map tools": [
+      "Travel time",
+      "Measure"
+    ],
+    "Map type": [
+      "Default",
+      "Satellite",
+      " Globe view ",
+      " Labels"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GNlNIWkpaMnR3UVdreWQwOVBia2xmWWtGUFZsRRAB",
+      "author": "BHANU PRAKASH PRUDHIVI",
+      "rating": 5,
+      "relative_date": "4 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxVVZURkpSMjQwZVc1UVpGQXdXV05EV0ZSbU0xRRAB",
+      "author": "T Prithvi",
+      "rating": 5,
+      "relative_date": "5 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SdFlteHFhMlpYVFZObFYzVmxjakYxTVhCWWRGRRAB",
+      "author": "Chandrika Patcha",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "Excellent service and hygienic setup! The staff were professional, explained procedures clearly, and ensured comfort. Noticeable results after a few sessions, highly recommend this clinic for safe and effective cosmetology treatments.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sSmVHeENXR0ZTUmt0NGJtVkhiMUJ2Y2xoVFgxRRAB",
+      "author": "Naga vijayasree Maddu",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "I came here for Acne treatment , Doctor Naveena garu explained me about the different types of treatment and suggested best facial for my skin type and the results were too Good .I strongly Recommend the clinic for best treatments and outcome.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOTGEzWmhOakkwVms1WloyTldUVWhMT0VJMVNsRRAB",
+      "author": "Srikanth Yaramala",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaMFdFWlFjRGN4Y201a09WbEJWVzVTWjJkU04xRRAB",
+      "author": "Jaya Rami Reddy S",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "I recently visited sapphire clinics for hair loss treatment, they guided me well through out the treatment. They suggested me aftercare which helped me for better results",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xNemJGOURRM1k1V1hKRVZqVk1kSFF5Y0ZRdGVIYxAB",
+      "author": "kranthi reddy",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "I had an excellent experience at this clinic. The doctor was very attentive, took time to listen to all my concerns, and explained everything clearly in simple language. The treatment was accurate and I started feeling better within a short time. The staff were also polite and efficient, and the clinic was clean and well-organised.\n\nOverall, I am very satisfied with the care I received. Highly recommended.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGT1NIaEJhWHB4VDJ4bFJuTjNkbHBXWnpSb2FtYxAB",
+      "author": "Vamsi Krishna Paturi",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pNd1RETlhPV1ZvWVd0SmFqRjRkMWxyVDBKQ2FGRRAB",
+      "author": "Vijay Nallamothu",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "I visited sapphire clinics for a third molar extraction and had an excellent experience. I was bit nervous at first but the dentist  was highly knowledgeable and made me feel completely comfortable throughout the procedures. The clinic is equipped with the latest technology and everything is super clean and well-organized. The staff were kind and attentive, and the whole process was smooth and painless. I truly appreciate the care and professionalism. I highly recommend this clinic to anyone looking for quality dental treatment in a clean, modern environment.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KVVQzbHZkMFIzUzBORlJVeGlWRUoxY2w5U1JYYxAB",
+      "author": "SRS Gogineni",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "Great explanation for the procedures. Good follow-up. Happy to be here!",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Wek56SnhhMHN5ZUdkU09ETlZTRW81ZHpSemRrRRAB",
+      "author": "Ravipati Kiran",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taRFRsTlFNbWs0VW5sbFRHRlBRMmg2VkhWR1drRRAB",
+      "author": "mahesh kumar 999",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "Sapphire clinics is the best cosmetic clinic in guntur. I got korean facial, gfc along with hair transplant. Explained the procedures very well and suggested the required best treatment. It is definitely worth, thank you sapphire clinics",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xMU1uTlRWbEpWWTBWVWFtaFVRMEZtTkRad1JFRRAB",
+      "author": "Sudharshan Reddy",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "I recently had my hair transplant at Sapphire Clinics 💇‍♂️.\nThe procedure was done using the sapphire technique ✨.\nThe overall care and treatment were excellent 👍.\nThe doctors and staff were very kind and supportive 🤝.\nThey explained everything clearly before and after surgery 📝.\nWhat impressed me most was their continuous follow-up 📞.\nThey guided me on how to take my medication properly 💊.\nStep by step, they supported me throughout the recovery 🛡️.\nThis care made me feel confident and comfortable 😊.\nI truly recommend Sapphire Clinics for anyone considering a hair transplant 🌟.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1dmFscEdWMHRYYmpGdFJsZG1PV1U1WXpGRFMwRRAB",
+      "author": "Parveen Shaik",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSUVRqTkpkbkpRZWxsMFdVbG5WMkp2WTJSWVIyYxAB",
+      "author": "subhani shaik",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKS2JHeE1kbGRFV0ZoTlRYWXphRFpLVmtwb2FsRRAB",
+      "author": "sandeep sandy",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWRVEyMXJOa1pzVUMweFRYQnZUblJFUWs1MFJIYxAB",
+      "author": "abdul kareem",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I recently underwent hair treatment at Sapphire clinics, Guntur. The doctors were extremely professional, knowledgeable, and supportive. They clearly explained the treatment process and answered all my questions with patience and care. The procedure was smooth and well-handled, and the staff made sure that I was comfortable at every step. What impressed me the most was the follow-up and attention to detail during the recovery period.\n\nNow, after completing the treatment, I can confidently say that the results too good and I’ve seen noticeable improvement in my hair growth and overall appearance. I truly appreciate the effort and expertise of the entire Sapphire clinic’s team. Highly recommended for anyone considering hair treatment. Thank you to the doctors and staff.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GYVozVjZTRUpDZVhsSVRWTm9jblpTUldsUFFsRRAB",
+      "author": "Triven Kumar",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "My hair transplant done at Sapphire Clinic and I’m very happy with the results. The doctor was friendly and explained everything clearly.\n\nThe clinic is clean and well-maintained. The treatment was painless, and I started seeing good hair growth within a few months. They also gave me proper guidance for aftercare.\n\nI highly recommend Sapphire Clinic to anyone looking for a safe and effective hair transplant. Thank you to the entire team!",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tzek9YUndXWGh3T1ZGMlZXaE5ZMHhvT0VsNVUyYxAB",
+      "author": "Offers for me",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I recently consulted Dr. Aparna Maramreddy in Guntur, and I’m truly grateful for the care and support I received. She is not only a knowledgeable psychiatrist but also incredibly compassionate and attentive. She took the time to listen patiently, understand my concerns in detail, and offered thoughtful, practical guidance tailored to my situation.\n\nHer calm demeanor and empathetic approach made it very easy to open up. The treatment plan she recommended has already had a positive impact on my mental well-being. I would highly recommend Dr. Aparna to anyone looking for professional and genuine mental health support.\n\nThank you, Doctor, for making a real difference.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VPNzNxWUhTdWVQdHJBRRAB",
+      "author": "Accura Overseas",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VQT281SUQ1a3BYSVVnEAE",
+      "author": "Prashanthi Angati",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VPZjBqTlBZdE9PNnhnRRAB",
+      "author": "sudheer kumar",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "We’ve been consulting Dr. Nanda Gopal Reddy (MD – General Medicine) at Sapphire Clinic for my father’s BP and sugar treatment. He is very knowledgeable, patient, and explains everything clearly. Thanks to his care, my father’s condition is well under control. The facilities at Sapphire Clinic are well-maintained, and the staff is courteous and efficient. We’ve never faced any delays, and the follow-up process is smooth and organized.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvX3VxTkRREAE",
+      "author": "Chigurupati Nikhita",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTURveG96elpREAE",
+      "author": "Hari Harika hari",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURmeXZlQktBEAE",
+      "author": "DHARMA TEJA",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Had an amazing experience visiting Sapphire Clinics, done with my dental scaling procedure, Felt safe throughout the session.I appreciate their hospitality.I would love to recommend Sapphire Clinics to my family and friends.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNIOG8teURnEAE",
+      "author": "ramya sree",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Very good experience..nice ambiance",
+      "has_owner_reply": false
+    }
+  ],
+  "reviews_error": "",
+  "sorted_newest": true,
+  "stopped_at_known_review": false,
+  "reviews_captured": 26,
+  "owner_replies": 0,
+  "reviews_coverage": 1.0,
+  "date_anchor": "2026-08-20T23:30:36",
+  "extract_seconds": 29.9,
+  "missing_fields": [],
+  "page_rendered": true,
+  "error": ""
+}

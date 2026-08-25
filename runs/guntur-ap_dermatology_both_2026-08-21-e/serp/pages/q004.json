@@ -1,0 +1,143 @@
+{
+  "index": 4,
+  "screenshot": "q004.png",
+  "rank": 4,
+  "search_query": "acne treatment in Guntur",
+  "search_box_text": "acne treatment in Guntur",
+  "match_confidence": "exact",
+  "readable": true,
+  "blocks": [
+    {
+      "position": 1,
+      "block_type": "local_pack_top",
+      "platform": "clinic_site",
+      "title": "Skin Perfect Clinic",
+      "domain": "",
+      "url": "",
+      "rating": 4.9,
+      "reviews": 641,
+      "snippet": "4.9 (641) · Skin care clinic · Old Club Rd, beside Yoda diagnostic lab · Closed · Opens 10 am Sat · \"Im very happy that my skin got completely cleared from acne .\""
+    },
+    {
+      "position": 2,
+      "block_type": "local_pack_top",
+      "platform": "clinic_site",
+      "title": "Dr Sowmya Skin Hair Laser Clinic - Chandramouli nagar",
+      "domain": "",
+      "url": "",
+      "rating": 4.8,
+      "reviews": 528,
+      "snippet": "4.8 (528) · Skin care clinic · 1/1, lane, opp. Bakers fun · Closed · Opens 3 pm Sat · \"Nice for my acne treatment thank u mam\""
+    },
+    {
+      "position": 3,
+      "block_type": "local_pack_top",
+      "platform": "clinic_site",
+      "title": "Dr Sowmya Skin clinic - kothapeta",
+      "domain": "",
+      "url": "",
+      "rating": 4.9,
+      "reviews": 773,
+      "snippet": "4.9 (773) · Dermatologist · Sowmya hospital, Dr, Old Club Rd, beside RK Scan Center · Closed · Opens 10 am Sat · \"Best treatment for my acne problem thank u mam\""
+    },
+    {
+      "position": 4,
+      "block_type": "organic",
+      "platform": "practo",
+      "title": "15 Best Acne Pimples Treatment Doctors In Guntur",
+      "domain": "practo.com",
+      "url": "https://www.practo.com/guntur/doctors-for-acne-pimples-treatment",
+      "rating": null,
+      "reviews": null,
+      "snippet": "Dr. Srikanth Reddy Konda . Ayurveda20 years experience. Chinakakani • Sri Krishna Ayurvedic Hospital. ~ ₹200 Consultation Fees. Provides Acne / Pimples ... Read more"
+    },
+    {
+      "position": 5,
+      "block_type": "organic",
+      "platform": "clinic_site",
+      "title": "Acne & Pimple Treatment in Guntur",
+      "domain": "leelavathiadvancedskinandlasercentre.in",
+      "url": "https://www.leelavathiadvancedskinandlasercentre.in/acne-treatment-in-guntur/",
+      "rating": null,
+      "reviews": null,
+      "snippet": "Get the best acne treatment in Guntur at Leelavathi Skin & Laser Centre . Dr. Kavya Chennamsetty treats pimples, acne scars & hormonal acne with advanced ..."
+    },
+    {
+      "position": 6,
+      "block_type": "organic",
+      "platform": "justdial",
+      "title": "Top Treatments For Acne in Guntur near me",
+      "domain": "justdial.com",
+      "url": "https://www.justdial.com/Guntur/Treatments-For-Acne/nct-10840181",
+      "rating": null,
+      "reviews": null,
+      "snippet": "Popular Treatments For Acne in Guntur · Dr RAGINI Skin & Hair Clinic · Ruhi Beauty Clinic · SHE n SHINE HERBAL BEAUTY CLINIC · Naturals Salon · Evoke Glam ... Read more"
+    },
+    {
+      "position": 7,
+      "block_type": "organic",
+      "platform": "clinic_site",
+      "title": "Dr Sowmya Skin,Hair,Laser Clinic | Guntur",
+      "domain": "drsowmyaskinclinics.com",
+      "url": "https://drsowmyaskinclinics.com/",
+      "rating": null,
+      "reviews": null,
+      "snippet": "Dr Sowmya's Skin Hair & Laser clinic is a world-class centre for providing laser and aesthetic skin care treatments.Dr Sowmya makes use of \"Gold Standard\" ... Read more"
+    },
+    {
+      "position": 8,
+      "block_type": "organic",
+      "platform": "apollo247",
+      "title": "Best acne pimples treatment doctors in etukuru roadguntur ...",
+      "domain": "apollo247.com",
+      "url": "https://www.apollo247.com/conditions/acne-pimples-treatment-treatment-doctors-in-etukuru-roadguntur-guntur",
+      "rating": null,
+      "reviews": null,
+      "snippet": "Best acne pimples treatment doctors in etukuru roadguntur guntur (2 doctors) · Dr. Neelakanta Babu Rasineni · Dr. Himabindu Gottapu. Read more"
+    },
+    {
+      "position": 9,
+      "block_type": "organic",
+      "platform": "clinic_site",
+      "title": "Expert Skin Treatments in Guntur - Acne, Pigmentation, ...",
+      "domain": "leelavathiadvancedskinandlasercentre.in",
+      "url": "https://www.leelavathiadvancedskinandlasercentre.in/skin-treatments-in-guntur/",
+      "rating": null,
+      "reviews": null,
+      "snippet": "Get expert skin treatments in Guntur at Leelavathi Advanced Skin & Laser Centre . Dr. Kavya Chennamsetty treats acne, melasma, vitiligo, ..."
+    },
+    {
+      "position": 10,
+      "block_type": "organic",
+      "platform": "practo",
+      "title": "Best Laser Treatment For Acne Scars Doctors In Guntur",
+      "domain": "practo.com",
+      "url": "https://www.practo.com/guntur/doctors-for-acne-pimple-scars-treatment",
+      "rating": null,
+      "reviews": null,
+      "snippet": "Dr. Sowmya. Dermatologist 10 years experience. College Road • Dr sowmya skin clinic. ~ ₹300 Consultation Fees. Provides Acne/ Pimple Scars Treatment. Choose ... Read more"
+    },
+    {
+      "position": 11,
+      "block_type": "organic",
+      "platform": "clinic_site",
+      "title": "Advanced Acne Treatment in Guntur for Clear Skin",
+      "domain": "drsnehakovi.com",
+      "url": "https://drsnehakovi.com/clear-skin-acne-treatment-guntur/",
+      "rating": null,
+      "reviews": null,
+      "snippet": "Get effective acne treatment in Guntur with expert care. Among the treatments we offer are: Topical medications: Benzoyl peroxide, retinoids, and antibiotic- ..."
+    },
+    {
+      "position": 12,
+      "block_type": "organic",
+      "platform": "justdial",
+      "title": "Doctors For Acne Treatment - Guntur",
+      "domain": "justdial.com",
+      "url": "https://www.justdial.com/Guntur/Doctors-For-Acne-Treatment-in-Guntur-HO",
+      "rating": null,
+      "reviews": null,
+      "snippet": "Looking for acne treatment near Hotel Geetha Regency Arundalpet Guntur, Guntur? Explore qualified dermatologists for pimples, acne scars, and skincare ..."
+    }
+  ]
+}

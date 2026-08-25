@@ -1,0 +1,8415 @@
+[
+ {
+  "listing_position": 1,
+  "name_clean": "Skin Perfect Clinic",
+  "name_raw": "Skin Perfect Clinic",
+  "category": "Dermatologist",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "Old Club Rd, beside Yoda diagnostic lab, Kothapeta, Guntur, Andhra Pradesh 522001",
+  "plus_code": "7FX2+MP Guntur, Andhra Pradesh",
+  "phone": "094909 03999",
+  "website": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "rating": 4.9,
+  "reviews_total": 639,
+  "reviews_captured": 639,
+  "reviews_coverage": 1.0,
+  "owner_replies": 101,
+  "truncated_reviews": 49,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "10 am to 7 pm",
+   "Friday": "10 am to 5 pm",
+   "Saturday": "10 am to 6 pm",
+   "Sunday": "10 am to 1 pm",
+   "Monday": "10 am to 7 pm",
+   "Tuesday": "10 am to 7 pm",
+   "Wednesday": "10 am to 7 pm"
+  },
+  "topics": {
+   "pigmentation treatment": 24,
+   "laser toning": 14,
+   "pimple treatment": 10,
+   "laser hair removal": 11,
+   "skin allergy treatment": 10,
+   "psoriasis treatment": 10,
+   "skin tag removal": 7,
+   "supportive staff": 34,
+   "unwanted hair removal": 4,
+   "fungal infection treatment": 4
+  },
+  "about": {
+   "Accessibility": [
+    " Wheelchair-accessible seating",
+    " Wheelchair-accessible toilet"
+   ],
+   "Amenities": [
+    " Restroom"
+   ],
+   "Planning": [
+    " Appointments recommended"
+   ],
+   "Payments": [
+    " Credit cards",
+    " Debit cards",
+    " Google Pay",
+    " NFC mobile payments"
+   ],
+   "Children": [
+    " Nursing room"
+   ],
+   "Parking": [
+    " Free parking lot"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 607,
+   "4": 10,
+   "3": 4,
+   "2": 3,
+   "1": 15
+  },
+  "google_profile_gaps": [
+   "Add website"
+  ],
+  "place_id": "ChIJCfMja_F1SjoRTfRlLzq-oFA",
+  "feature_id": "0x3a4a75f16b23f309:0x50a0be3a2f65f44d",
+  "missing_fields": [
+   "website"
+  ],
+  "sorted_newest": true,
+  "extract_seconds": 136.1,
+  "error": null,
+  "listing_name": "Skin Perfect Clinic"
+ },
+ {
+  "listing_position": 2,
+  "name_clean": "SKIN LANE CLINIC-Kothapet",
+  "name_raw": "SKIN LANE CLINIC-Kothapet /Dr.AKSHAY JAIN /Best Dermatologist in Guntur /Trichologist /Best Skin & Hair doctor in GUNTUR",
+  "category": "Skin care clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "Skin Lane Clinic, 0pp : Muthoot finance, Somuvari St, Kothapeta, Guntur, Andhra Pradesh 522001",
+  "plus_code": "7CXX+QG Guntur, Andhra Pradesh",
+  "phone": "079894 55662",
+  "website": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "rating": 5.0,
+  "reviews_total": 347,
+  "reviews_captured": 347,
+  "reviews_coverage": 1.0,
+  "owner_replies": 346,
+  "truncated_reviews": 27,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "10 am to 4 pm",
+   "Friday": "10 am to 4 pm",
+   "Saturday": "10 am to 4 pm",
+   "Sunday": "Closed",
+   "Monday": "10 am to 4 pm",
+   "Tuesday": "10 am to 4 pm",
+   "Wednesday": "10 am to 4 pm"
+  },
+  "topics": {
+   "friendly doctor": 21,
+   "no unnecessary tests": 6,
+   "pigmentation treatment": 4,
+   "allergy treatment": 8,
+   "hairfall treatment": 3,
+   "laser treatment": 6,
+   "chemical peel": 3,
+   "dandruff treatment": 3,
+   "psoriasis treatment": 2,
+   "hair issues": 18
+  },
+  "about": {
+   "Amenities": [
+    " Gender-neutral toilets",
+    " Restroom"
+   ],
+   "Planning": [
+    " Appointment required",
+    " Appointments recommended"
+   ],
+   "Payments": [
+    " NFC mobile payments"
+   ],
+   "Parking": [
+    " Free parking lot",
+    " On-site parking"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 341,
+   "4": 4,
+   "3": 0,
+   "2": 0,
+   "1": 2
+  },
+  "google_profile_gaps": [
+   "Add website"
+  ],
+  "place_id": "ChIJ4SxuUBl1SjoRbIGHs1HtyDU",
+  "feature_id": "0x3a4a7519506e2ce1:0x35c8ed51b387816c",
+  "missing_fields": [
+   "website"
+  ],
+  "sorted_newest": true,
+  "extract_seconds": 78.0,
+  "error": null,
+  "listing_name": "SKIN LANE CLINIC-Kothapet /Dr.AKSHAY JAIN /Best Dermatologist in Guntur /Trichologist /Best Skin & Hair doctor in GUNTUR"
+ },
+ {
+  "listing_position": 3,
+  "name_clean": "Dr. S. Akshay Jain",
+  "name_raw": "Dr. S. Akshay Jain/Dermatologist(skin doctor)in Guntur/Trichologist(Hair specialist)/Cosmetic/SkinClinic/Laser hair reduction",
+  "category": "Dermatologist",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "SKIN LANE CLINIC, Menakshi Hospital, Besides, Pattabhipuram Rd, opposite Jute Mill, Krishna Nagar, Guntur, Andhra Pradesh 522006",
+  "plus_code": "8C4C+6R Guntur, Andhra Pradesh",
+  "phone": "079894 55662",
+  "website": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "rating": 4.9,
+  "reviews_total": 348,
+  "reviews_captured": 348,
+  "reviews_coverage": 1.0,
+  "owner_replies": 317,
+  "truncated_reviews": 27,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "6 to 8:30 pm",
+   "Friday": "6 to 8:30 pm",
+   "Saturday": "6 to 8:30 pm",
+   "Sunday": "Closed",
+   "Monday": "6 to 8:30 pm",
+   "Tuesday": "6 to 8:30 pm",
+   "Wednesday": "6 to 8:30 pm"
+  },
+  "topics": {
+   "skin specialist": 14,
+   "friendly doctor": 53,
+   "hair loss treatment": 7,
+   "trichologist": 3,
+   "skin infection treatment": 2,
+   "patient friendly": 10,
+   "patient education": 14,
+   "skin problems": 36,
+   "genuine doctor": 4,
+   "welcoming atmosphere": 6
+  },
+  "about": {
+   "Accessibility": [
+    " Wheelchair-accessible toilet"
+   ],
+   "Amenities": [
+    " Restroom"
+   ],
+   "Crowd": [
+    " LGBTQ+ friendly"
+   ],
+   "Planning": [
+    " Appointment required",
+    " Appointments recommended"
+   ],
+   "Payments": [
+    " Google Pay",
+    " NFC mobile payments"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 338,
+   "4": 5,
+   "3": 0,
+   "2": 0,
+   "1": 5
+  },
+  "google_profile_gaps": [
+   "Add website"
+  ],
+  "place_id": "ChIJ95LMSmt1SjoRdT8w_4RHYLA",
+  "feature_id": "0x3a4a756b4acc92f7:0xb0604784ff303f75",
+  "missing_fields": [
+   "website"
+  ],
+  "sorted_newest": true,
+  "extract_seconds": 77.0,
+  "error": null,
+  "listing_name": "Dr. S. Akshay Jain/Dermatologist(skin doctor)in Guntur/Trichologist(Hair specialist)/Cosmetic/SkinClinic/Laser hair reduction"
+ },
+ {
+  "listing_position": 4,
+  "name_clean": "Dr Sowmya Skin Hair Laser Clinic - Chandramouli nagar",
+  "name_raw": "Dr Sowmya Skin Hair Laser Clinic - Chandramouli nagar",
+  "category": "Dermatologist",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "1/1, lane, opp. Bakers fun, Lakshmipuram, Chandramouli Nagar, Guntur, Andhra Pradesh 522002",
+  "plus_code": "8C6H+VM Guntur, Andhra Pradesh",
+  "phone": "089789 99677",
+  "website": "http://drsowmyaskinclinics.com/",
+  "website_type": "own_domain",
+  "has_own_website": true,
+  "rating": 4.8,
+  "reviews_total": 528,
+  "reviews_captured": 528,
+  "reviews_coverage": 1.0,
+  "owner_replies": 114,
+  "truncated_reviews": 36,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "3 to 7:30 pm",
+   "Friday": "3 to 7:30 pm",
+   "Saturday": "3 to 7:30 pm",
+   "Sunday": "Closed",
+   "Monday": "3 to 7:30 pm",
+   "Tuesday": "3 to 7:30 pm",
+   "Wednesday": "3 to 7:30 pm"
+  },
+  "topics": {
+   "friendly doctor": 53,
+   "pigmentation treatment": 7,
+   "chemical peels": 7,
+   "acne treatment": 19,
+   "laser treatment": 6,
+   "dark spot treatment": 2,
+   "laser hair removal": 5,
+   "polite staff": 18,
+   "allergy treatment": 5,
+   "quick results": 7
+  },
+  "about": {
+   "Accessibility": [
+    " Wheelchair-accessible entrance",
+    " Assistive hearing loop",
+    " Wheelchair-accessible seating"
+   ],
+   "From the business": [
+    " Identifies as women-owned"
+   ],
+   "Amenities": [
+    " Restroom"
+   ],
+   "Crowd": [
+    " LGBTQ+ friendly"
+   ],
+   "Planning": [
+    " Appointments recommended"
+   ],
+   "Payments": [
+    " Credit cards",
+    " Debit cards",
+    " Google Pay",
+    " NFC mobile payments"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 487,
+   "4": 21,
+   "3": 4,
+   "2": 2,
+   "1": 14
+  },
+  "google_profile_gaps": null,
+  "place_id": "ChIJJ28ogiF1SjoRSMvDGODclhU",
+  "feature_id": "0x3a4a752182286f27:0x1596dce018c3cb48",
+  "missing_fields": [],
+  "sorted_newest": true,
+  "extract_seconds": 88.8,
+  "error": null,
+  "listing_name": "Dr Sowmya Skin Hair Laser Clinic - Chandramouli nagar"
+ },
+ {
+  "listing_position": 5,
+  "name_clean": "Dr Ragini's Skin & Hair Clinic",
+  "name_raw": "Dr Ragini's Skin & Hair Clinic / Best dermatologist (skin doctor) in Guntur",
+  "category": "Dermatologist",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "Kanchan towers, D no 2-212, Pattabhipuram Rd, opposite Raghuram children's hospital, Rajarajeswaripuram, Pattabhipuram, Guntur, Andhra Pradesh 522006",
+  "plus_code": "8C4C+Q3 Guntur, Andhra Pradesh",
+  "phone": "074162 14545",
+  "website": "https://drraginipuvvala.getmy.clinic/?utm_source=gmb&utm_medium=web&utm_campaign=tu",
+  "website_type": "google_business_site",
+  "has_own_website": true,
+  "rating": 4.9,
+  "reviews_total": 151,
+  "reviews_captured": 152,
+  "reviews_coverage": 1.007,
+  "owner_replies": 149,
+  "truncated_reviews": 10,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "10 am to 1 pm, 6 to 8 pm",
+   "Friday": "10 am to 2 pm, 6 to 8 pm",
+   "Saturday": "10 am to 2 pm, 6 to 8 pm",
+   "Sunday": "11 am to 1 pm",
+   "Monday": "10 am to 2 pm, 6 to 8 pm",
+   "Tuesday": "10 am to 2 pm, 6 to 8 pm",
+   "Wednesday": "10 am to 2 pm, 6 to 8 pm"
+  },
+  "topics": {
+   "skin treatment": 25,
+   "hair fall treatment": 3,
+   "clear treatment plan": 3,
+   "accurate diagnosis": 6,
+   "friendly doctor": 20,
+   "affordable treatment": 4,
+   "latest equipment": 3,
+   "painless treatment": 2,
+   "welcoming staff": 7,
+   "proper treatment": 4
+  },
+  "about": {
+   "Accessibility": [
+    " Wheelchair-accessible entrance",
+    " Wheelchair-accessible seating",
+    " Wheelchair-accessible toilet"
+   ],
+   "From the business": [
+    " Identifies as women-owned"
+   ],
+   "Service options": [
+    " On-site services"
+   ],
+   "Amenities": [
+    " Gender-neutral toilets",
+    " Restroom"
+   ],
+   "Crowd": [
+    " LGBTQ+ friendly"
+   ],
+   "Planning": [
+    " Appointment required",
+    " Appointments recommended"
+   ],
+   "Payments": [
+    " Credit cards",
+    " Debit cards",
+    " Google Pay",
+    " NFC mobile payments"
+   ],
+   "Children": [
+    " Nursing room"
+   ],
+   "Parking": [
+    " Free parking lot",
+    " On-site parking",
+    " Paid parking garage"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 145,
+   "4": 4,
+   "3": 0,
+   "2": 0,
+   "1": 2
+  },
+  "google_profile_gaps": null,
+  "place_id": "ChIJpSkvDnd1SjoRby5In092tmE",
+  "feature_id": "0x3a4a75770e2f29a5:0x61b6764f9f482e6f",
+  "missing_fields": [],
+  "sorted_newest": true,
+  "extract_seconds": 41.7,
+  "error": null,
+  "listing_name": "Dr Ragini's Skin & Hair Clinic / Best dermatologist (skin doctor) in Guntur"
+ },
+ {
+  "listing_position": 6,
+  "name_clean": "Chandana Skin Clinic",
+  "name_raw": "Chandana Skin Clinic | Dermatologist | Cosmetologist | Laser Scar Treatment, Laser hair reduction",
+  "category": "Skin care clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "18/1, Arundelpet, behind Joy Alukkas Jewellery Showroom, opposite siva cinemas, Guntur, Andhra Pradesh 522002",
+  "plus_code": "8C5P+4V Guntur, Andhra Pradesh",
+  "phone": "063034 53939",
+  "website": "https://chandanaskinclinic.com/",
+  "website_type": "own_domain",
+  "has_own_website": true,
+  "rating": 4.6,
+  "reviews_total": 385,
+  "reviews_captured": 386,
+  "reviews_coverage": 1.003,
+  "owner_replies": 280,
+  "truncated_reviews": 27,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "10 am to 1:30 pm",
+   "Friday": "10 am to 1:30 pm, 5 to 7:30 pm",
+   "Saturday": "10 am to 1:30 pm",
+   "Sunday": "Closed",
+   "Monday": "10 am to 1:30 pm",
+   "Tuesday": "10 am to 1:30 pm, 5 to 7 pm",
+   "Wednesday": "10 am to 1:30 pm"
+  },
+  "topics": {
+   "psoriasis treatment": 3,
+   "pimple treatment": 3,
+   "laser toning": 2,
+   "hair treatment": 14,
+   "dull skin treatment": 2,
+   "polite staff": 17,
+   "calm doctor": 3,
+   "doctor explanation": 3,
+   "talented doctor": 6,
+   "clear explanations": 9
+  },
+  "about": {
+   "Accessibility": [
+    " Wheelchair-accessible car park",
+    " Wheelchair-accessible entrance",
+    " Wheelchair-accessible toilet"
+   ],
+   "From the business": [
+    " Identifies as women-owned"
+   ],
+   "Service options": [
+    " On-site services"
+   ],
+   "Amenities": [
+    " Restroom"
+   ],
+   "Planning": [
+    " Appointments recommended"
+   ],
+   "Payments": [
+    " Credit cards",
+    " Debit cards",
+    " Google Pay",
+    " NFC mobile payments"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 330,
+   "4": 22,
+   "3": 3,
+   "2": 8,
+   "1": 22
+  },
+  "google_profile_gaps": null,
+  "place_id": "ChIJV8JIZnB1SjoRWgj10zS5pM0",
+  "feature_id": "0x3a4a75706648c257:0xcda4b934d3f5085a",
+  "missing_fields": [],
+  "sorted_newest": true,
+  "extract_seconds": 66.2,
+  "error": null,
+  "listing_name": "Chandana Skin Clinic | Dermatologist | Cosmetologist | Laser Scar Treatment, Laser hair reduction"
+ },
+ {
+  "listing_position": 7,
+  "name_clean": "Dr Sowmya Skin clinic - kothapeta",
+  "name_raw": "Dr Sowmya Skin clinic - kothapeta",
+  "category": "Dermatologist",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "Sowmya hospital, Dr, Old Club Rd, beside RK Scan Center, Kothapeta, Guntur, Andhra Pradesh 522001",
+  "plus_code": "7FX2+M5 Guntur, Andhra Pradesh",
+  "phone": "089789 99677",
+  "website": "http://drsowmyaskinclinics.com/",
+  "website_type": "own_domain",
+  "has_own_website": true,
+  "rating": 4.9,
+  "reviews_total": 773,
+  "reviews_captured": 773,
+  "reviews_coverage": 1.0,
+  "owner_replies": 60,
+  "truncated_reviews": 22,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "10 am to 2:30 pm",
+   "Friday": "10 am to 2:30 pm",
+   "Saturday": "10 am to 2:30 pm",
+   "Sunday": "Closed",
+   "Monday": "10 am to 2:30 pm",
+   "Tuesday": "10 am to 2:30 pm",
+   "Wednesday": "10 am to 2:30 pm"
+  },
+  "topics": {
+   "pimple treatment": 12,
+   "psoriasis treatment": 9,
+   "skin allergy treatment": 8,
+   "hair fall treatment": 7,
+   "infection problem": 9,
+   "fungal infection treatment": 3,
+   "urticaria treatment": 2,
+   "vitiligo treatment": 2,
+   "listening doctor": 2,
+   "fast recovery": 3
+  },
+  "about": {
+   "From the business": [
+    " Identifies as women-owned"
+   ],
+   "Amenities": [
+    " Restroom"
+   ],
+   "Planning": [
+    " Appointments recommended"
+   ],
+   "Payments": [
+    " Google Pay",
+    " NFC mobile payments"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 753,
+   "4": 11,
+   "3": 1,
+   "2": 0,
+   "1": 8
+  },
+  "google_profile_gaps": null,
+  "place_id": "ChIJI-ELBHN1SjoRU_HfvGdmDWA",
+  "feature_id": "0x3a4a7573040be123:0x600d6667bcdff153",
+  "missing_fields": [],
+  "sorted_newest": true,
+  "extract_seconds": 146.1,
+  "error": null,
+  "listing_name": "Dr Sowmya Skin clinic - kothapeta"
+ },
+ {
+  "listing_position": 8,
+  "name_clean": "Leelavathi Advanced Skin & Laser Centre",
+  "name_raw": "Leelavathi Advanced Skin & Laser Centre | best dermatologist in guntur",
+  "category": "Skin care clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "Puvada Vari Street Pottur Vari Thota Anna Srinivasa Rao Kalyana Mandapam, Road, Guntur, Andhra Pradesh 522001",
+  "plus_code": "7CWX+PX Guntur, Andhra Pradesh",
+  "phone": "093929 30422",
+  "website": "http://leelavathiadvancedskinandlasercentre.in/",
+  "website_type": "own_domain",
+  "has_own_website": true,
+  "rating": 4.9,
+  "reviews_total": 251,
+  "reviews_captured": 251,
+  "reviews_coverage": 1.0,
+  "owner_replies": 200,
+  "truncated_reviews": 8,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "10:30 am to 5:30 pm",
+   "Friday": "10:30 am to 5:30 pm",
+   "Saturday": "10:30 am to 5:30 pm",
+   "Sunday": "Closed",
+   "Monday": "10:30 am to 5:30 pm",
+   "Tuesday": "10:30 am to 5:30 pm",
+   "Wednesday": "10:30 am to 5:30 pm"
+  },
+  "topics": {
+   "hair loss treatment": 5,
+   "dermatologist": 14,
+   "clear explanations": 24,
+   "mole removal": 2,
+   "patient listening": 8,
+   "interactive doctor": 2,
+   "disease explanation": 2,
+   "safe treatments": 3,
+   "laser hair removal": 2,
+   "listening to problems": 2
+  },
+  "about": {
+   "From the business": [
+    " Identifies as women-owned"
+   ],
+   "Amenities": [
+    " Gender-neutral toilets",
+    " Restroom"
+   ],
+   "Crowd": [
+    " LGBTQ+ friendly"
+   ],
+   "Planning": [
+    " Appointments recommended"
+   ],
+   "Payments": [
+    " Credit cards",
+    " Debit cards",
+    " NFC mobile payments"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 225,
+   "4": 22,
+   "3": 1,
+   "2": 0,
+   "1": 3
+  },
+  "google_profile_gaps": null,
+  "place_id": "ChIJzccML0p1SjoRolc90_yTUqo",
+  "feature_id": "0x3a4a754a2f0cc7cd:0xaa5293fcd33d57a2",
+  "missing_fields": [],
+  "sorted_newest": true,
+  "extract_seconds": 52.3,
+  "error": null,
+  "listing_name": "Leelavathi Advanced Skin & Laser Centre | best dermatologist in guntur"
+ },
+ {
+  "listing_position": 9,
+  "name_clean": "Dr.Pooja's B18 Skin Clinic",
+  "name_raw": "Dr.Pooja's B18 Skin Clinic | Best Dermatologist in Guntur | Cosmetology | Trichologist | Anti Aging | Skin Doctor Guntur",
+  "category": "Skin care clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "Amaravathi Rd, beside BVR Convention, opp. Axis Bank, Panduranga Nagar, Guntur, Andhra Pradesh 522034",
+  "plus_code": "8CGQ+83 Guntur, Andhra Pradesh",
+  "phone": "094417 89897",
+  "website": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "rating": 5.0,
+  "reviews_total": 82,
+  "reviews_captured": 82,
+  "reviews_coverage": 1.0,
+  "owner_replies": 59,
+  "truncated_reviews": 3,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "10 am to 1:30 pm, 5 to 9 pm",
+   "Friday": "10 am to 1:30 pm, 5 to 9 pm",
+   "Saturday": "10 am to 1:30 pm, 5 to 9 pm",
+   "Sunday": "10:30 am to 1:30 pm",
+   "Monday": "10 am to 1:30 pm, 5 to 9 pm",
+   "Tuesday": "10 am to 1:30 pm, 5 to 9 pm",
+   "Wednesday": "10 am to 1:30 pm, 5 to 9 pm"
+  },
+  "topics": {
+   "skin allergy treatment": 4,
+   "hair fall treatment": 4,
+   "prp": 4,
+   "tan removal": 2,
+   "melasma treatment": 3,
+   "laser toning": 2,
+   "microneedling": 4,
+   "chemical peel": 2,
+   "hydrafacial": 2,
+   "dermatologist": 8
+  },
+  "about": {
+   "Service options": [
+    " On-site services"
+   ],
+   "Amenities": [
+    " Restroom"
+   ],
+   "Planning": [
+    " Appointments recommended"
+   ],
+   "Payments": [
+    " NFC mobile payments"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 81,
+   "4": 1,
+   "3": 0,
+   "2": 0,
+   "1": 0
+  },
+  "google_profile_gaps": [
+   "Add website"
+  ],
+  "place_id": "ChIJjU8ZIF6LNToRmQAF-MlMYBQ",
+  "feature_id": "0x3a358b5e20194f8d:0x14604cc9f8050099",
+  "missing_fields": [
+   "website"
+  ],
+  "sorted_newest": true,
+  "extract_seconds": 49.2,
+  "error": null,
+  "listing_name": "Dr.Pooja's B18 Skin Clinic | Best Dermatologist in Guntur | Cosmetology | Trichologist | Anti Aging | Skin Doctor Guntur"
+ },
+ {
+  "listing_position": 10,
+  "name_clean": "Dr.Keerthi Sidda's Skin,Hair& Laser clinic",
+  "name_raw": "Dr.Keerthi Sidda's Skin,Hair& Laser clinic| Best Dermatologist in guntur | Trichologist |Aesthetic dermatologist |PMUartist",
+  "category": "Skin care clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "JNR Complex, Ring Rd, opp. Donbosco College, Chandramouli Nagar, Guntur, Andhra Pradesh 522007",
+  "plus_code": "8C8G+4M Guntur, Andhra Pradesh",
+  "phone": "070599 96669",
+  "website": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "rating": 5.0,
+  "reviews_total": 112,
+  "reviews_captured": 112,
+  "reviews_coverage": 1.0,
+  "owner_replies": 21,
+  "truncated_reviews": 5,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "10 am to 2 pm, 6 to 8 pm",
+   "Friday": "10 am to 2 pm, 6 to 8 pm",
+   "Saturday": "10 am to 2 pm, 6 to 8 pm",
+   "Sunday": "11 am to 1 pm",
+   "Monday": "10 am to 2 pm, 6 to 8 pm",
+   "Tuesday": "10 am to 2 pm, 6 to 8 pm",
+   "Wednesday": "10 am to 2 pm, 6 to 8 pm"
+  },
+  "topics": {
+   "skin tag removal": 4,
+   "skin whitening treatment": 3,
+   "personalized treatment plan": 4,
+   "infection treatment": 3,
+   "prp treatment": 2,
+   "attentive doctor": 8,
+   "laser sessions": 2,
+   "hair treatment": 8,
+   "active listening": 3,
+   "fast relief": 2
+  },
+  "about": {
+   "From the business": [
+    " Identifies as women-owned"
+   ],
+   "Service options": [
+    " On-site services"
+   ],
+   "Amenities": [
+    " Restroom"
+   ],
+   "Planning": [
+    " Appointment required",
+    " Appointments recommended"
+   ],
+   "Payments": [
+    " Google Pay",
+    " NFC mobile payments"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 112,
+   "4": 0,
+   "3": 0,
+   "2": 0,
+   "1": 0
+  },
+  "google_profile_gaps": [
+   "Add website"
+  ],
+  "place_id": "ChIJRdld_jl1SjoRIr4UpgWNW_k",
+  "feature_id": "0x3a4a7539fe5dd945:0xf95b8d05a614be22",
+  "missing_fields": [
+   "website"
+  ],
+  "sorted_newest": true,
+  "extract_seconds": 52.3,
+  "error": null,
+  "listing_name": "Dr.Keerthi Sidda's Skin,Hair& Laser clinic| Best Dermatologist in guntur | Trichologist |Aesthetic dermatologist |PMUartist"
+ },
+ {
+  "listing_position": 11,
+  "name_clean": "Dr. Kavya Chekuru Dermacure Skin & Laser Clinic",
+  "name_raw": "Dr. Kavya Chekuru Dermacure Skin & Laser Clinic | Best Skin Clinic & Doctor in Guntur | Top Skin Hospital in Guntur",
+  "category": "Skin care clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "1st Floor, Doctors Plaza, Kothapet Main Rd, Kothapeta, Guntur, Andhra Pradesh 522001",
+  "plus_code": "7CXX+9V Guntur, Andhra Pradesh",
+  "phone": "073968 37979",
+  "website": "https://drkavyadermacure.com/",
+  "website_type": "own_domain",
+  "has_own_website": true,
+  "rating": 5.0,
+  "reviews_total": 236,
+  "reviews_captured": 236,
+  "reviews_coverage": 1.0,
+  "owner_replies": 0,
+  "truncated_reviews": 22,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "10 am to 8 pm",
+   "Friday": "10 am to 8 pm",
+   "Saturday": "10 am to 8 pm",
+   "Sunday": "10 am to 2 pm",
+   "Monday": "10 am to 8 pm",
+   "Tuesday": "10 am to 8 pm",
+   "Wednesday": "10 am to 8 pm"
+  },
+  "topics": {
+   "hair fall treatment": 10,
+   "skin allergy treatment": 3,
+   "laser hair removal": 7,
+   "chin hair removal": 2,
+   "fast cure": 4,
+   "dandruff treatment": 2,
+   "melasma treatment": 2,
+   "dermatologist": 6,
+   "rash treatment": 3,
+   "online consultation": 2
+  },
+  "about": {
+   "Planning": [
+    " Appointments recommended"
+   ],
+   "Payments": [
+    " NFC mobile payments"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 232,
+   "4": 3,
+   "3": 1,
+   "2": 0,
+   "1": 0
+  },
+  "google_profile_gaps": null,
+  "place_id": "ChIJWazt6nR1SjoRwolsVwQ30zU",
+  "feature_id": "0x3a4a7574eaedac59:0x35d33704576c89c2",
+  "missing_fields": [],
+  "sorted_newest": true,
+  "extract_seconds": 50.2,
+  "error": null,
+  "listing_name": "Dr. Kavya Chekuru Dermacure Skin & Laser Clinic | Best Skin Clinic & Doctor in Guntur | Top Skin Hospital in Guntur"
+ },
+ {
+  "listing_position": 12,
+  "name_clean": "Ramesh Skin Clinic",
+  "name_raw": "Ramesh Skin Clinic",
+  "category": "Dermatologist",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "Door no: 12, 12-47, Old Club Rd, opp. Amrutha Hospitals, 1, Kothapeta, Guntur, Andhra Pradesh 522001",
+  "plus_code": "7FX2+PF Guntur, Andhra Pradesh",
+  "phone": "0863 355 8831",
+  "website": "https://drrameshskin.in/",
+  "website_type": "own_domain",
+  "has_own_website": true,
+  "rating": 4.7,
+  "reviews_total": 160,
+  "reviews_captured": 160,
+  "reviews_coverage": 1.0,
+  "owner_replies": 0,
+  "truncated_reviews": 6,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "9:30 am to 8:30 pm",
+   "Friday": "9:30 am to 8:30 pm",
+   "Saturday": "9:30 am to 8:30 pm",
+   "Sunday": "9:30 am to 12:30 pm",
+   "Monday": "9:30 am to 8:30 pm",
+   "Tuesday": "9:30 am to 8:30 pm",
+   "Wednesday": "9:30 am to 8:30 pm"
+  },
+  "topics": {
+   "fast recovery": 5,
+   "quick response": 2,
+   "skin allergies": 2,
+   "effective treatment": 3,
+   "clear explanations": 4,
+   "skin problems": 5,
+   "caring doctor": 2,
+   "good atmosphere": 2,
+   "consultancy": 2,
+   "communication": 2
+  },
+  "about": {
+   "Planning": [
+    " Appointments recommended"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 139,
+   "4": 13,
+   "3": 0,
+   "2": 1,
+   "1": 7
+  },
+  "google_profile_gaps": null,
+  "place_id": "ChIJb0jByo91SjoRLSMTW998Bpw",
+  "feature_id": "0x3a4a758fcac1486f:0x9c067cdf5b13232d",
+  "missing_fields": [],
+  "sorted_newest": true,
+  "extract_seconds": 41.6,
+  "error": null,
+  "listing_name": "Ramesh Skin Clinic"
+ },
+ {
+  "listing_position": 13,
+  "name_clean": "Manoharam Skin, Laser and Cosmetology Clinic",
+  "name_raw": "Manoharam Skin, Laser and Cosmetology Clinic",
+  "category": "Skin care clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "1st Floor, 4/2, Lakshmipuram, Guntur, Andhra Pradesh 522007",
+  "plus_code": "8C6J+CH Guntur, Andhra Pradesh",
+  "phone": "098481 57838",
+  "website": "https://manoharamskinclinic.com/",
+  "website_type": "own_domain",
+  "has_own_website": true,
+  "rating": 4.8,
+  "reviews_total": 73,
+  "reviews_captured": 73,
+  "reviews_coverage": 1.0,
+  "owner_replies": 16,
+  "truncated_reviews": 5,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "11 am to 9 pm",
+   "Friday": "11 am to 9 pm",
+   "Saturday": "11 am to 9 pm",
+   "Sunday": "11 am to 2 pm",
+   "Monday": "11 am to 9 pm",
+   "Tuesday": "11 am to 9 pm",
+   "Wednesday": "11 am to 9 pm"
+  },
+  "topics": {
+   "pigmentation treatment": 8,
+   "chemical peel": 4,
+   "knowledgeable doctor": 8,
+   "laser hair removal": 4,
+   "acne treatment": 9,
+   "clear treatment explanation": 2,
+   "scar treatment": 2,
+   "skin toning": 3,
+   "precise technique": 2,
+   "dull skin": 2
+  },
+  "about": {
+   "Accessibility": [
+    " Wheelchair-accessible car park",
+    " Wheelchair-accessible toilet"
+   ],
+   "From the business": [
+    " Identifies as women-owned"
+   ],
+   "Amenities": [
+    " Restroom"
+   ],
+   "Planning": [
+    " Appointments recommended"
+   ],
+   "Payments": [
+    " Google Pay",
+    " NFC mobile payments"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 67,
+   "4": 4,
+   "3": 0,
+   "2": 0,
+   "1": 2
+  },
+  "google_profile_gaps": null,
+  "place_id": "ChIJ8ddLiY11SjoRNTzJNpYWFm4",
+  "feature_id": "0x3a4a758d894bd7f1:0x6e16169636c93c35",
+  "missing_fields": [],
+  "sorted_newest": true,
+  "extract_seconds": 33.0,
+  "error": null,
+  "listing_name": "Manoharam Skin, Laser and Cosmetology Clinic"
+ },
+ {
+  "listing_position": 14,
+  "name_clean": "Dr.Aashik Shahid",
+  "name_raw": "Dr.Aashik Shahid / Dermatologist /Skin Hair and Cosmetic clinic",
+  "category": "Dermatologist",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "Brundavan Garden's Petrol Bunk, 6, Pattabhipuram Rd, opp. indian oil, Krishna Nagar, Guntur, Andhra Pradesh 522006",
+  "plus_code": "8C59+M7 Guntur, Andhra Pradesh",
+  "phone": "094908 71277",
+  "website": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "rating": 5.0,
+  "reviews_total": 65,
+  "reviews_captured": 65,
+  "reviews_coverage": 1.0,
+  "owner_replies": 7,
+  "truncated_reviews": 1,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "10 am to 9:30 pm",
+   "Friday": "10 am to 9:30 pm",
+   "Saturday": "10 am to 9:30 pm",
+   "Sunday": "Closed",
+   "Monday": "10 am to 9:30 pm",
+   "Tuesday": "10 am to 9:30 pm",
+   "Wednesday": "10 am to 9:30 pm"
+  },
+  "topics": {
+   "dandruff treatment": 3,
+   "hairfall issue": 3,
+   "fast results": 2,
+   "caring approach": 2,
+   "treatment plan": 3,
+   "attention to progress": 2,
+   "acne treatment": 4,
+   "clear explanations": 8,
+   "softer skin": 2,
+   "pleasant doctor": 2
+  },
+  "about": {
+   "Planning": [
+    " Appointments recommended"
+   ],
+   "Payments": [
+    " NFC mobile payments"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 65,
+   "4": 0,
+   "3": 0,
+   "2": 0,
+   "1": 0
+  },
+  "google_profile_gaps": [
+   "Add website"
+  ],
+  "place_id": "ChIJv2wXMMx1SjoRAnmNSNHpGyo",
+  "feature_id": "0x3a4a75cc30176cbf:0x2a1be9d1488d7902",
+  "missing_fields": [
+   "website"
+  ],
+  "sorted_newest": true,
+  "extract_seconds": 47.0,
+  "error": null,
+  "listing_name": "Dr.Aashik Shahid / Dermatologist /Skin Hair and Cosmetic clinic"
+ },
+ {
+  "listing_position": 15,
+  "name_clean": "Dr. Sneha Kovi",
+  "name_raw": "Dr. Sneha Kovi",
+  "category": "Dermatologist",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "Kugler Hospital Rd, Kothapeta, Guntur, Andhra Pradesh 522001",
+  "plus_code": "7FX2+QG Guntur, Andhra Pradesh",
+  "phone": "079817 81187",
+  "website": "http://www.drsnehakovi.com/",
+  "website_type": "own_domain",
+  "has_own_website": true,
+  "rating": 4.8,
+  "reviews_total": 200,
+  "reviews_captured": 200,
+  "reviews_coverage": 1.0,
+  "owner_replies": 199,
+  "truncated_reviews": 10,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "9 am to 1 pm, 5 to 8 pm",
+   "Friday": "9 am to 1 pm, 5 to 8 pm",
+   "Saturday": "9 am to 1 pm, 5 to 8 pm",
+   "Sunday": "10:30 am to 12:30 pm",
+   "Monday": "9 am to 1 pm, 5 to 8 pm",
+   "Tuesday": "9 am to 1 pm, 5 to 8 pm",
+   "Wednesday": "9 am to 1 pm, 5 to 8 pm"
+  },
+  "topics": {
+   "hair transplantation": 2,
+   "hair fall problem": 8,
+   "melasma treatment": 2,
+   "fast results": 5,
+   "PRP": 4,
+   "acne treatment": 11,
+   "talented doctor": 7,
+   "chemical peels": 2,
+   "attentive listener": 3,
+   "no side effects": 2
+  },
+  "about": {
+   "Accessibility": [
+    " Wheelchair-accessible seating"
+   ],
+   "Service options": [
+    " On-site services"
+   ],
+   "Amenities": [
+    " Restroom"
+   ],
+   "Planning": [
+    " Appointments recommended"
+   ],
+   "Payments": [
+    " Debit cards",
+    " NFC mobile payments"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 190,
+   "4": 1,
+   "3": 0,
+   "2": 1,
+   "1": 8
+  },
+  "google_profile_gaps": null,
+  "place_id": "ChIJ-z3-q_N1SjoRGYwKfTiaFiI",
+  "feature_id": "0x3a4a75f3abfe3dfb:0x22169a387d0a8c19",
+  "missing_fields": [],
+  "sorted_newest": true,
+  "extract_seconds": 45.9,
+  "error": null,
+  "listing_name": "Dr. Sneha Kovi"
+ },
+ {
+  "listing_position": 16,
+  "name_clean": "Skin kare Clinic",
+  "name_raw": "Skin kare Clinic",
+  "category": "Skin care clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "Lakshmipuram Main Rd, Lakshmipuram, Ashok Nagar, Guntur, Andhra Pradesh 522007",
+  "plus_code": "8C6J+28 Guntur, Andhra Pradesh",
+  "phone": "078933 33555",
+  "website": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "rating": 4.8,
+  "reviews_total": 379,
+  "reviews_captured": 379,
+  "reviews_coverage": 1.0,
+  "owner_replies": 0,
+  "truncated_reviews": 10,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "10 am to 2 pm, 5 to 8 pm",
+   "Friday": "10 am to 2 pm, 5 to 8 pm",
+   "Saturday": "10 am to 2 pm, 5 to 8 pm",
+   "Sunday": "10 am to 2 pm",
+   "Monday": "10 am to 2 pm, 5 to 8 pm",
+   "Tuesday": "10 am to 2 pm, 5 to 8 pm",
+   "Wednesday": "10 am to 2 pm, 5 to 8 pm"
+  },
+  "topics": {
+   "psoriasis treatment": 10,
+   "treatment for fungal infection": 7,
+   "allergy treatment": 4,
+   "skin hospital": 13,
+   "lasers": 3,
+   "acne treatment": 2,
+   "skin doctor": 6,
+   "prescription": 3,
+   "cured": 6,
+   "medicines": 4
+  },
+  "about": {
+   "Amenities": [
+    " Restroom"
+   ],
+   "Payments": [
+    " NFC mobile payments"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 349,
+   "4": 7,
+   "3": 7,
+   "2": 2,
+   "1": 14
+  },
+  "google_profile_gaps": [
+   "Add website"
+  ],
+  "place_id": "ChIJwxUEPGd1SjoR6XSikWt5neQ",
+  "feature_id": "0x3a4a75673c0415c3:0xe49d796b91a274e9",
+  "missing_fields": [
+   "website"
+  ],
+  "sorted_newest": true,
+  "extract_seconds": 80.1,
+  "error": null,
+  "listing_name": "Skin kare Clinic"
+ },
+ {
+  "listing_position": 17,
+  "name_clean": "Dr Uma's Skin Hair & laser Clinic",
+  "name_raw": "Dr Uma's Skin Hair & laser Clinic",
+  "category": "Skin care clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "D.no 3-1, 194/2B, Main Road, beside SBI bank, Pattabhipuram, Guntur, Andhra Pradesh 522006",
+  "plus_code": "8C59+R7 Guntur, Andhra Pradesh",
+  "phone": "093981 83960",
+  "website": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "rating": 5.0,
+  "reviews_total": 134,
+  "reviews_captured": 135,
+  "reviews_coverage": 1.007,
+  "owner_replies": 55,
+  "truncated_reviews": 7,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "10:30 am to 2:30 pm, 6 to 9 pm",
+   "Friday": "10:30 am to 2:30 pm, 6 to 9 pm",
+   "Saturday": "10:30 am to 2:30 pm, 6 to 9 pm",
+   "Sunday": "Closed",
+   "Monday": "10:30 am to 2:30 pm, 6 to 9 pm",
+   "Tuesday": "10:30 am to 2:30 pm, 6 to 9 pm",
+   "Wednesday": "10:30 am to 2:30 pm, 6 to 9 pm"
+  },
+  "topics": {
+   "laser hair removal": 6,
+   "skin problem treatment": 17,
+   "dermatologist": 12,
+   "patient listening": 7,
+   "no waiting period": 2,
+   "chemical peels": 2,
+   "accurate diagnosis": 2,
+   "effective treatment": 7,
+   "patient education": 6,
+   "experienced doctor": 5
+  },
+  "about": {
+   "Accessibility": [
+    " Wheelchair-accessible seating",
+    " Wheelchair-accessible toilet"
+   ],
+   "From the business": [
+    " Identifies as women-owned"
+   ],
+   "Amenities": [
+    " Gender-neutral toilets",
+    " Restroom"
+   ],
+   "Crowd": [
+    " LGBTQ+ friendly"
+   ],
+   "Planning": [
+    " Appointment required",
+    " Appointments recommended"
+   ],
+   "Payments": [
+    " Google Pay",
+    " NFC mobile payments"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 131,
+   "4": 2,
+   "3": 0,
+   "2": 0,
+   "1": 1
+  },
+  "google_profile_gaps": [
+   "Add website"
+  ],
+  "place_id": "ChIJE4PZwtB1SjoRTbZnuH_KuJE",
+  "feature_id": "0x3a4a75d0c2d98313:0x91b8ca7fb867b64d",
+  "missing_fields": [
+   "website"
+  ],
+  "sorted_newest": true,
+  "extract_seconds": 54.6,
+  "error": null,
+  "listing_name": "Dr Uma's Skin Hair & laser Clinic"
+ },
+ {
+  "listing_position": 18,
+  "name_clean": "Chiranjeevi Skin Care Clinic",
+  "name_raw": "Chiranjeevi Skin Care Clinic",
+  "category": "Skin care clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "4-3-16, Ramannapet 1st Ln, Lakshmipuram, Ashok Nagar, Guntur, Andhra Pradesh 522007",
+  "plus_code": "8C6M+GF Guntur, Andhra Pradesh",
+  "phone": "099857 96666",
+  "website": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "rating": 4.8,
+  "reviews_total": 99,
+  "reviews_captured": 99,
+  "reviews_coverage": 1.0,
+  "owner_replies": 0,
+  "truncated_reviews": 12,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "10 am to 10 pm",
+   "Friday": "10 am to 10 pm",
+   "Saturday": "10 am to 10 pm",
+   "Sunday": "10 am to 10 pm",
+   "Monday": "10 am to 10 pm",
+   "Tuesday": "10 am to 10 pm",
+   "Wednesday": "10 am to 10 pm"
+  },
+  "topics": {
+   "guntur skin treatment": 2,
+   "reasonable fee": 2,
+   "friendly nature": 2,
+   "caring staff": 2,
+   "skin problems": 5,
+   "cured": 2,
+   "patient care": 3,
+   "hair care": 2,
+   "end result": 7,
+   "skin care center": 4
+  },
+  "about": {
+   "Payments": [
+    " NFC mobile payments"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 94,
+   "4": 0,
+   "3": 1,
+   "2": 0,
+   "1": 4
+  },
+  "google_profile_gaps": [
+   "Add website"
+  ],
+  "place_id": "ChIJ0amjynR1SjoRrgxMDtDB40g",
+  "feature_id": "0x3a4a7574caa3a9d1:0x48e3c1d00e4c0cae",
+  "missing_fields": [
+   "website"
+  ],
+  "sorted_newest": true,
+  "extract_seconds": 50.1,
+  "error": null,
+  "listing_name": "Chiranjeevi Skin Care Clinic"
+ },
+ {
+  "listing_position": 19,
+  "name_clean": "Dr.INDIRA'S SKIN & HAIR CLINIC",
+  "name_raw": "Dr.INDIRA'S SKIN & HAIR CLINIC",
+  "category": "Dermatologist",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "6th Ln, Nallacheruvu, Guntur, Andhra Pradesh 522004",
+  "plus_code": "7CPR+68 Guntur, Andhra Pradesh",
+  "phone": "079955 11344",
+  "website": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "rating": 4.9,
+  "reviews_total": 67,
+  "reviews_captured": 67,
+  "reviews_coverage": 1.0,
+  "owner_replies": 67,
+  "truncated_reviews": 4,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "10:30 am to 2 pm, 5:30 to 8:30 pm",
+   "Friday": "10:30 am to 2 pm, 5:30 to 8:30 pm",
+   "Saturday": "10:30 am to 2 pm, 5:30 to 8:30 pm",
+   "Sunday": "Closed",
+   "Monday": "10:30 am to 2 pm, 5:30 to 8:30 pm",
+   "Tuesday": "10:30 am to 2 pm, 5:30 to 8:30 pm",
+   "Wednesday": "10:30 am to 2 pm, 5:30 to 8:30 pm"
+  },
+  "topics": {
+   "hairfall treatment": 2,
+   "skin allergy treatment": 2,
+   "polite doctor": 6,
+   "explains treatment": 2,
+   "spot on diagnostic": 2,
+   "quick response": 2,
+   "patient listener": 3,
+   "friendly doctor": 8,
+   "good medication": 2,
+   "relevant treatment": 2
+  },
+  "about": {
+   "Accessibility": [
+    " Wheelchair-accessible car park"
+   ],
+   "Payments": [
+    " NFC mobile payments"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 65,
+   "4": 1,
+   "3": 0,
+   "2": 0,
+   "1": 1
+  },
+  "google_profile_gaps": [
+   "Add website"
+  ],
+  "place_id": "ChIJc6Fevh11SjoR7b0Q1ISIVLI",
+  "feature_id": "0x3a4a751dbe5ea173:0xb2548884d410bded",
+  "missing_fields": [
+   "website"
+  ],
+  "sorted_newest": true,
+  "extract_seconds": 47.0,
+  "error": null,
+  "listing_name": "Dr.INDIRA'S SKIN & HAIR CLINIC"
+ },
+ {
+  "listing_position": 20,
+  "name_clean": "SITARA SKIN AND LASER",
+  "name_raw": "SITARA SKIN AND LASER",
+  "category": "Dermatologist",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "Old Club Rd, Kothapeta, Guntur, Andhra Pradesh 522001",
+  "plus_code": "7FX2+PG Guntur, Andhra Pradesh",
+  "phone": "087902 53388",
+  "website": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "rating": 5.0,
+  "reviews_total": 28,
+  "reviews_captured": 28,
+  "reviews_coverage": 1.0,
+  "owner_replies": 17,
+  "truncated_reviews": 0,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "10 am to 7 pm",
+   "Friday": "10 am to 7 pm",
+   "Saturday": "10 am to 7 pm",
+   "Sunday": "Closed",
+   "Monday": "10 am to 7 pm",
+   "Tuesday": "10 am to 7 pm",
+   "Wednesday": "10 am to 7 pm"
+  },
+  "topics": {
+   "pigmentation treatment": 2,
+   "care": 2,
+   "doctor": 3,
+   "pigmentation": 2,
+   "treatment": 5
+  },
+  "about": {
+   "Amenities": [
+    " Restroom"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 28,
+   "4": 0,
+   "3": 0,
+   "2": 0,
+   "1": 0
+  },
+  "google_profile_gaps": [
+   "Add website"
+  ],
+  "place_id": "ChIJV8Iz2e51SjoR7QlTuD6VwQk",
+  "feature_id": "0x3a4a75eed933c257:0x9c1953eb85309ed",
+  "missing_fields": [
+   "website"
+  ],
+  "sorted_newest": true,
+  "extract_seconds": 41.5,
+  "error": null,
+  "listing_name": "SITARA SKIN AND LASER"
+ },
+ {
+  "listing_position": 21,
+  "name_clean": "Suram Subrahmanyam Clinic",
+  "name_raw": "Suram Subrahmanyam Clinic",
+  "category": "Dermatologist",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "Old Club Rd, Kothapeta, Guntur, Andhra Pradesh 522001",
+  "plus_code": "7FX2+FH Guntur, Andhra Pradesh",
+  "phone": "",
+  "website": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "rating": 4.0,
+  "reviews_total": 265,
+  "reviews_captured": 265,
+  "reviews_coverage": 1.0,
+  "owner_replies": 0,
+  "truncated_reviews": 11,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "6 pm to 12 am",
+   "Friday": "12 am to 8 pm",
+   "Saturday": "9 am to 8 pm",
+   "Sunday": "Open 24 hours",
+   "Monday": "9 am to 8 pm",
+   "Tuesday": "9 am to 8 pm",
+   "Wednesday": "9 am to 8 pm"
+  },
+  "topics": {
+   "skin specialist": 3,
+   "blood test": 2,
+   "skin problems": 5,
+   "experienced doctor": 3,
+   "problem solving": 3,
+   "honesty": 2,
+   "behaviour": 8,
+   "clinic": 3,
+   "patience": 4,
+   "treatment": 19
+  },
+  "about": {
+   "Accessibility": [
+    " Wheelchair-accessible toilet"
+   ],
+   "Amenities": [
+    " Restroom"
+   ],
+   "Planning": [
+    " Appointment required",
+    " Appointments recommended"
+   ],
+   "Payments": [
+    " NFC mobile payments"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 159,
+   "4": 40,
+   "3": 10,
+   "2": 10,
+   "1": 46
+  },
+  "google_profile_gaps": [
+   "Add place's phone number",
+   "Add website"
+  ],
+  "place_id": "ChIJYQvLl0t1SjoRmM7BMUn5hfk",
+  "feature_id": "0x3a4a754b97cb0b61:0xf985f94931c1ce98",
+  "missing_fields": [
+   "phone",
+   "website"
+  ],
+  "sorted_newest": true,
+  "extract_seconds": 83.2,
+  "error": null,
+  "listing_name": "Suram Subrahmanyam Clinic"
+ },
+ {
+  "listing_position": 23,
+  "name_clean": "Aditya Skin & Laser Center",
+  "name_raw": "Aditya Skin & Laser Center",
+  "category": "Dermatologist",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "Old Club Rd, opp. हीरो मोटरकॉर्प शोरूम, Kothapeta, Guntur, Andhra Pradesh 522001",
+  "plus_code": "7FX2+MV Guntur, Andhra Pradesh",
+  "phone": "088011 13322",
+  "website": "https://adityaskincare.com/",
+  "website_type": "own_domain",
+  "has_own_website": true,
+  "rating": 4.6,
+  "reviews_total": 101,
+  "reviews_captured": 101,
+  "reviews_coverage": 1.0,
+  "owner_replies": 50,
+  "truncated_reviews": 3,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "11 am to 3 pm, 6 to 8:30 pm",
+   "Friday": "11 am to 3 pm, 6 to 8:30 pm",
+   "Saturday": "Open 24 hours",
+   "Sunday": "11 am to 1:30 pm",
+   "Monday": "11 am to 3 pm, 6 to 8:30 pm",
+   "Tuesday": "11 am to 3 pm, 6 to 8:30 pm",
+   "Wednesday": "11 am to 3 pm, 6 to 8:30 pm"
+  },
+  "topics": {
+   "hair fall treatment": 7,
+   "co2 laser": 4,
+   "unwanted hair removal": 3,
+   "psoriasis treatment": 4,
+   "chemical peels": 5,
+   "microneedling": 2,
+   "fungal infection treatment": 2,
+   "pigmentation problem": 4,
+   "skin problem treatment": 9,
+   "doctor explanation": 5
+  },
+  "about": {
+   "Accessibility": [
+    " Wheelchair-accessible entrance",
+    " Wheelchair-accessible toilet"
+   ],
+   "From the business": [
+    " Identifies as women-owned"
+   ],
+   "Service options": [
+    " On-site services"
+   ],
+   "Amenities": [
+    " Gender-neutral toilets",
+    " Restroom"
+   ],
+   "Crowd": [
+    " LGBTQ+ friendly"
+   ],
+   "Planning": [
+    " Appointments recommended"
+   ],
+   "Payments": [
+    " Google Pay"
+   ],
+   "Parking": [
+    " Free street parking",
+    " On-site parking"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 90,
+   "4": 1,
+   "3": 2,
+   "2": 0,
+   "1": 8
+  },
+  "google_profile_gaps": null,
+  "place_id": "ChIJDUJTGGN1SjoRMAJt68oNAKE",
+  "feature_id": "0x3a4a75631853420d:0xa1000dcaeb6d0230",
+  "missing_fields": [],
+  "sorted_newest": true,
+  "extract_seconds": 36.3,
+  "error": null,
+  "listing_name": "Aditya Skin & Laser Center"
+ },
+ {
+  "listing_position": 24,
+  "name_clean": "Dr. Usha Rani Perali Skin Clinic",
+  "name_raw": "Dr. Usha Rani Perali Skin Clinic",
+  "category": "Dermatologist",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "Sankar Medicals & General Stores, Opp. Apollo Pharmacy, beside Mee-Seva, Pattabhipuram, Guntur, Andhra Pradesh 522006",
+  "plus_code": "8C59+F3 Guntur, Andhra Pradesh",
+  "phone": "",
+  "website": "http://docon.co.in/doctor/usharaniperali",
+  "website_type": "aggregator_profile",
+  "has_own_website": false,
+  "rating": 4.8,
+  "reviews_total": 23,
+  "reviews_captured": 0,
+  "reviews_coverage": 0.0,
+  "owner_replies": 0,
+  "truncated_reviews": 0,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "10 am to 2 pm, 4:30 to 5:30 pm, 8 to 9 pm",
+   "Friday": "10 am to 2 pm, 4:30 to 5:30 pm, 8 to 9 pm",
+   "Saturday": "10 am to 2 pm, 4:30 to 5:30 pm, 8 to 9 pm",
+   "Sunday": "10 am to 1 pm",
+   "Monday": "10 am to 2 pm, 4:30 to 5:30 pm, 8 to 9 pm",
+   "Tuesday": "10 am to 2 pm, 4:30 to 5:30 pm, 8 to 9 pm",
+   "Wednesday": "10 am to 2 pm, 4:30 to 5:30 pm, 8 to 9 pm"
+  },
+  "topics": {
+   "urticaria treatment": 2,
+   "diagnosis": 2,
+   "treatment": 2,
+   "doctor": 2
+  },
+  "about": {
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 21,
+   "4": 1,
+   "3": 0,
+   "2": 0,
+   "1": 1
+  },
+  "google_profile_gaps": [
+   "Add place's phone number"
+  ],
+  "place_id": "ChIJi42E9i11SjoRuAvj84ozG74",
+  "feature_id": "0x3a4a752df6848d8b:0xbe1b338af3e30bb8",
+  "missing_fields": [
+   "phone",
+   "reviews"
+  ],
+  "sorted_newest": false,
+  "extract_seconds": 55.8,
+  "error": null,
+  "listing_name": "Dr. Usha Rani Perali Skin Clinic"
+ },
+ {
+  "listing_position": 25,
+  "name_clean": "Dr Saranya's skin care laser hair clinic",
+  "name_raw": "Dr Saranya's skin care laser hair clinic",
+  "category": "Dermatologist",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "1st Line, Lakshmipuram, Chandramouli Nagar, Guntur, Andhra Pradesh 522007",
+  "plus_code": "8C6H+QM Guntur, Andhra Pradesh",
+  "phone": "083282 34097",
+  "website": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "rating": 4.9,
+  "reviews_total": 54,
+  "reviews_captured": 54,
+  "reviews_coverage": 1.0,
+  "owner_replies": 0,
+  "truncated_reviews": 2,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "10 am to 2 pm, 5 to 8 pm",
+   "Friday": "10 am to 2 pm, 5 to 8 pm",
+   "Saturday": "10 am to 2 pm, 5 to 8 pm",
+   "Sunday": "Closed",
+   "Monday": "10 am to 2 pm, 5 to 8 pm",
+   "Tuesday": "10 am to 2 pm, 5 to 8 pm",
+   "Wednesday": "10 am to 2 pm, 5 to 8 pm"
+  },
+  "topics": {
+   "affordable fee": 2,
+   "skincare": 8,
+   "patient explanation": 2,
+   "skin treatment": 2,
+   "skin issues": 2,
+   "skin clinic": 5,
+   "skin doctor": 3,
+   "skillful": 2,
+   "friendly": 3,
+   "caring doctor": 3
+  },
+  "about": {
+   "Amenities": [
+    " Restroom"
+   ],
+   "Payments": [
+    " NFC mobile payments"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 51,
+   "4": 3,
+   "3": 0,
+   "2": 0,
+   "1": 0
+  },
+  "google_profile_gaps": [
+   "Add website"
+  ],
+  "place_id": "ChIJYWoz98qLNToR6p5xkRzndLE",
+  "feature_id": "0x3a358bcaf7336a61:0xb174e71c91719eea",
+  "missing_fields": [
+   "website"
+  ],
+  "sorted_newest": true,
+  "extract_seconds": 45.9,
+  "error": null,
+  "listing_name": "Dr Saranya's skin care laser hair clinic"
+ },
+ {
+  "listing_position": 26,
+  "name_clean": "Kesavam Dermacare",
+  "name_raw": "Kesavam Dermacare",
+  "category": "Dermatologist",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "1st Line, behind saraswati theater, Sambasiva Pet, Guntur, Andhra Pradesh 522001",
+  "plus_code": "7CXV+8V Guntur, Andhra Pradesh",
+  "phone": "063019 71891",
+  "website": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "rating": 5.0,
+  "reviews_total": 133,
+  "reviews_captured": 133,
+  "reviews_coverage": 1.0,
+  "owner_replies": 0,
+  "truncated_reviews": 9,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "10 am to 2 pm, 6 to 8:30 pm",
+   "Friday": "10 am to 2 pm, 6 to 8:30 pm",
+   "Saturday": "10 am to 2 pm, 6 to 8:30 pm",
+   "Sunday": "10 am to 1 pm",
+   "Monday": "10 am to 2 pm, 6 to 8:30 pm",
+   "Tuesday": "10 am to 2 pm, 6 to 8:30 pm",
+   "Wednesday": "10 am to 2 pm, 6 to 8:30 pm"
+  },
+  "topics": {
+   "hair transplantation": 8,
+   "hair growth treatment": 3,
+   "laser treatments": 3,
+   "prp": 2,
+   "pimples problem": 2,
+   "experienced doctors": 3,
+   "skin problems": 11,
+   "staff support": 2,
+   "hair loss": 9,
+   "allergy": 2
+  },
+  "about": {
+   "Amenities": [
+    " Restroom"
+   ],
+   "Planning": [
+    " Appointments recommended"
+   ],
+   "Payments": [
+    " NFC mobile payments"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 132,
+   "4": 1,
+   "3": 0,
+   "2": 0,
+   "1": 0
+  },
+  "google_profile_gaps": [
+   "Add website"
+  ],
+  "place_id": "ChIJK7KjQb91SjoRukwCN2Gdec0",
+  "feature_id": "0x3a4a75bf41a3b22b:0xcd799d6137024cba",
+  "missing_fields": [
+   "website"
+  ],
+  "sorted_newest": true,
+  "extract_seconds": 54.3,
+  "error": null,
+  "listing_name": "Kesavam Dermacare"
+ },
+ {
+  "listing_position": 27,
+  "name_clean": "VIJAYANAND skin, hair & cosmetic care",
+  "name_raw": "VIJAYANAND skin, hair & cosmetic care",
+  "category": "Medical clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "name_strong_over_category:skin",
+  "address": "Dr. No - 30, 5/15, Brodipet, Guntur, Andhra Pradesh 522002",
+  "plus_code": "8C3J+HF Guntur, Andhra Pradesh",
+  "phone": "089771 23887",
+  "website": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "rating": 4.9,
+  "reviews_total": 42,
+  "reviews_captured": 42,
+  "reviews_coverage": 1.0,
+  "owner_replies": 0,
+  "truncated_reviews": 1,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "7 to 10 pm",
+   "Friday": "7 to 10 pm",
+   "Saturday": "7 to 10 pm",
+   "Sunday": "7 to 10 pm",
+   "Monday": "7 to 10 pm",
+   "Tuesday": "7 to 10 pm",
+   "Wednesday": "7 to 10 pm"
+  },
+  "topics": {
+   "dermatology expert": 2,
+   "clear explanations": 2,
+   "treatment": 6,
+   "sir": 2
+  },
+  "about": {
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 41,
+   "4": 0,
+   "3": 0,
+   "2": 0,
+   "1": 1
+  },
+  "google_profile_gaps": [
+   "Add website"
+  ],
+  "place_id": "ChIJ1QOlcgB1SjoRAYU0AR8eRrI",
+  "feature_id": "0x3a4a750072a503d5:0xb2461e1f01348501",
+  "missing_fields": [
+   "website"
+  ],
+  "sorted_newest": true,
+  "extract_seconds": 59.9,
+  "error": null,
+  "listing_name": "VIJAYANAND skin, hair & cosmetic care"
+ },
+ {
+  "listing_position": 28,
+  "name_clean": "Dr.Swapna's Skin, Laser & Hair transplant centre",
+  "name_raw": "Dr.Swapna's Skin, Laser & Hair transplant centre",
+  "category": "Skin care clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "4-2-5/6; 1/2, Lakshmipuram, Ramannapet, Guntur, Andhra Pradesh 522007",
+  "plus_code": "8C6M+H2 Guntur, Andhra Pradesh",
+  "phone": "089194 64220",
+  "website": "https://www.drswapnaskinclinic.com/aboutus",
+  "website_type": "own_domain",
+  "has_own_website": true,
+  "rating": 4.6,
+  "reviews_total": 69,
+  "reviews_captured": 69,
+  "reviews_coverage": 1.0,
+  "owner_replies": 59,
+  "truncated_reviews": 3,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "5:30 to 8:30 pm",
+   "Friday": "5:30 to 8:30 pm",
+   "Saturday": "5:30 to 8:30 pm",
+   "Sunday": "Closed",
+   "Monday": "5:30 to 8:30 pm",
+   "Tuesday": "5:30 to 8:30 pm",
+   "Wednesday": "5:30 to 8:30 pm"
+  },
+  "topics": {
+   "chemical peel": 2,
+   "cosmetic procedures": 4,
+   "acne scars": 3,
+   "friendly doctor": 4,
+   "friendly nature": 2,
+   "skin and hair problems": 2,
+   "treatment results": 3,
+   "brilliant doctor": 2,
+   "doctor interaction": 2,
+   "answering doubts": 2
+  },
+  "about": {
+   "Amenities": [
+    " Restroom"
+   ],
+   "Planning": [
+    " Appointments recommended"
+   ],
+   "Payments": [
+    " Credit cards",
+    " Debit cards",
+    " NFC mobile payments"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 60,
+   "4": 1,
+   "3": 1,
+   "2": 0,
+   "1": 7
+  },
+  "google_profile_gaps": null,
+  "place_id": "ChIJGeIw2ul1SjoR5gQJc_RQYeo",
+  "feature_id": "0x3a4a75e9da30e219:0xea6150f4730904e6",
+  "missing_fields": [],
+  "sorted_newest": true,
+  "extract_seconds": 32.0,
+  "error": null,
+  "listing_name": "Dr.Swapna's Skin, Laser & Hair transplant centre"
+ },
+ {
+  "listing_position": 29,
+  "name_clean": "sri akhila skin & hair clinic",
+  "name_raw": "sri akhila skin & hair clinic",
+  "category": "Skin care clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "Amaravathi Rd, Bharathpet, Naidupet, Guntur, Andhra Pradesh 522007",
+  "plus_code": "8C6P+5P Guntur, Andhra Pradesh",
+  "phone": "099891 28715",
+  "website": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "rating": 4.6,
+  "reviews_total": 17,
+  "reviews_captured": 17,
+  "reviews_coverage": 1.0,
+  "owner_replies": 0,
+  "truncated_reviews": 1,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "9 am to 9 pm",
+   "Friday": "9 am to 9 pm",
+   "Saturday": "9 am to 9 pm",
+   "Sunday": "9 am to 9 pm",
+   "Monday": "9 am to 9 pm",
+   "Tuesday": "9 am to 9 pm",
+   "Wednesday": "9 am to 9 pm"
+  },
+  "topics": {
+   "treatment": 2
+  },
+  "about": {
+   "Payments": [
+    " NFC mobile payments"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 13,
+   "4": 2,
+   "3": 2,
+   "2": 0,
+   "1": 0
+  },
+  "google_profile_gaps": [
+   "Add website"
+  ],
+  "place_id": "ChIJDbfabNd1SjoRkELp7mN675Q",
+  "feature_id": "0x3a4a75d76cdab70d:0x94ef7a63eee94290",
+  "missing_fields": [
+   "website"
+  ],
+  "sorted_newest": true,
+  "extract_seconds": 40.4,
+  "error": null,
+  "listing_name": "sri akhila skin & hair clinic"
+ },
+ {
+  "listing_position": 30,
+  "name_clean": "Sapphire Clinics",
+  "name_raw": "Sapphire Clinics",
+  "category": "Skin care clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "4th Ln, opp. Montessori School, near Sanjivi Hospitals, Lakshmipuram, Guntur, Andhra Pradesh 522007",
+  "plus_code": "8C6M+53 Guntur, Andhra Pradesh",
+  "phone": "095054 66669",
+  "website": "https://www.sapphireclinics.in/",
+  "website_type": "own_domain",
+  "has_own_website": true,
+  "rating": 5.0,
+  "reviews_total": 26,
+  "reviews_captured": 26,
+  "reviews_coverage": 1.0,
+  "owner_replies": 0,
+  "truncated_reviews": 0,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "10 am to 8 pm",
+   "Friday": "10 am to 8 pm",
+   "Saturday": "10 am to 8 pm",
+   "Sunday": "10:30 am to 12 am",
+   "Monday": "12 to 8 am, 10 am to 8 pm",
+   "Tuesday": "10 am to 8 pm",
+   "Wednesday": "10 am to 8 pm"
+  },
+  "topics": {
+   "hair transplant": 3,
+   "painless treatment": 2,
+   "friendly doctor": 4,
+   "procedure explanation": 3,
+   "clear explanations": 5,
+   "aftercare": 2,
+   "efficient staff": 2,
+   "kind staff": 5,
+   "smooth process": 2,
+   "clean clinic": 2
+  },
+  "about": {
+   "Accessibility": [
+    " Assistive hearing loop",
+    " Wheelchair-accessible seating"
+   ],
+   "From the business": [
+    " Identifies as women-owned"
+   ],
+   "Service options": [
+    " On-site services"
+   ],
+   "Amenities": [
+    " Restroom"
+   ],
+   "Crowd": [
+    " LGBTQ+ friendly"
+   ],
+   "Planning": [
+    " Appointment required",
+    " Appointments recommended"
+   ],
+   "Payments": [
+    " Credit cards",
+    " Debit cards",
+    " Google Pay"
+   ],
+   "Children": [
+    " Nursing room"
+   ],
+   "Parking": [
+    " Free parking garage",
+    " Free parking lot",
+    " Free street parking",
+    " On-site parking"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 26,
+   "4": 0,
+   "3": 0,
+   "2": 0,
+   "1": 0
+  },
+  "google_profile_gaps": null,
+  "place_id": "ChIJm2DWMRZ1SjoRDUePwSBFf8s",
+  "feature_id": "0x3a4a751631d6609b:0xcb7f4520c18f470d",
+  "missing_fields": [],
+  "sorted_newest": true,
+  "extract_seconds": 27.7,
+  "error": null,
+  "listing_name": "Sapphire Clinics"
+ },
+ {
+  "listing_position": 31,
+  "name_clean": "Dr Aruna Skin and Hair Clinic",
+  "name_raw": "Dr Aruna Skin and Hair Clinic",
+  "category": "Skin care clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "8C59+F3W, Syamala Nagar Main Rd, Pattabhipuram, Guntur, Andhra Pradesh 522006",
+  "plus_code": "",
+  "phone": "098498 42228",
+  "website": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "rating": 5.0,
+  "reviews_total": 22,
+  "reviews_captured": 22,
+  "reviews_coverage": 1.0,
+  "owner_replies": 0,
+  "truncated_reviews": 0,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "6 to 8 pm",
+   "Friday": "10 am to 1 pm, 6 to 8 pm",
+   "Saturday": "10 am to 1 pm, 6 to 8 pm",
+   "Sunday": "Closed",
+   "Monday": "10 am to 1 pm, 6 to 8 pm",
+   "Tuesday": "10 am to 1 pm, 6 to 8 pm",
+   "Wednesday": "10 am to 1 pm, 6 to 8 pm"
+  },
+  "topics": {
+   "personalized treatment plan": 2,
+   "accurate diagnosis": 3,
+   "dermatologist": 6,
+   "patient listening": 3,
+   "knowledgeable doctor": 3,
+   "clean clinic": 2,
+   "excellent treatment plan": 2,
+   "perfect results": 2,
+   "friendly staff": 2,
+   "guidance": 2
+  },
+  "about": {
+   "Planning": [
+    " Appointments recommended"
+   ],
+   "Payments": [
+    " NFC mobile payments"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 21,
+   "4": 1,
+   "3": 0,
+   "2": 0,
+   "1": 0
+  },
+  "google_profile_gaps": [
+   "Add website"
+  ],
+  "place_id": "ChIJF8BpR7Z1SjoRhTS19dXg16I",
+  "feature_id": "0x3a4a75b64769c017:0xa2d7e0d5f5b53485",
+  "missing_fields": [
+   "plus_code",
+   "website"
+  ],
+  "sorted_newest": true,
+  "extract_seconds": 57.8,
+  "error": null,
+  "listing_name": "Dr Aruna Skin and Hair Clinic"
+ },
+ {
+  "listing_position": 32,
+  "name_clean": "Sandhya skin clinic",
+  "name_raw": "Sandhya skin clinic",
+  "category": "Dermatologist",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "Urban Bank building, Old, Kothapeta, Guntur, Andhra Pradesh 522001",
+  "plus_code": "7FX2+P2 Guntur, Andhra Pradesh",
+  "phone": "0863 224 1100",
+  "website": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "rating": 3.8,
+  "reviews_total": 16,
+  "reviews_captured": 16,
+  "reviews_coverage": 1.0,
+  "owner_replies": 0,
+  "truncated_reviews": 0,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "11 am to 2 pm, 6 to 8 pm",
+   "Friday": "11:15 am to 2 pm, 6 to 8 pm",
+   "Saturday": "11 am to 2 pm, 6 to 8 pm",
+   "Sunday": "Closed",
+   "Monday": "11 am to 2 pm, 6 to 8 pm",
+   "Tuesday": "11 am to 2 pm, 6 to 8 pm",
+   "Wednesday": "11 am to 2 pm, 6 to 8 pm"
+  },
+  "topics": {
+   "treatment": 2
+  },
+  "about": {
+   "Planning": [
+    " Appointments recommended"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 9,
+   "4": 3,
+   "3": 0,
+   "2": 0,
+   "1": 4
+  },
+  "google_profile_gaps": [
+   "Add website"
+  ],
+  "place_id": "ChIJkbH950t1SjoRvWVtC_u6Vvk",
+  "feature_id": "0x3a4a754be7fdb191:0xf956bafb0b6d65bd",
+  "missing_fields": [
+   "website"
+  ],
+  "sorted_newest": true,
+  "extract_seconds": 40.4,
+  "error": null,
+  "listing_name": "Sandhya skin clinic"
+ },
+ {
+  "listing_position": 33,
+  "name_clean": "Athota Kavitha & Mallik G Hospital",
+  "name_raw": "Athota Kavitha(Dermatologist) & Mallik G (Ortho) Hospital",
+  "category": "Hospital",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "adjacent",
+  "basis": "category",
+  "address": "Kothapeta, Guntur, Andhra Pradesh 522001",
+  "plus_code": "7FX2+QG Guntur, Andhra Pradesh",
+  "phone": "0863 221 0555",
+  "website": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "rating": 2.8,
+  "reviews_total": 154,
+  "reviews_captured": 154,
+  "reviews_coverage": 1.0,
+  "owner_replies": 0,
+  "truncated_reviews": 3,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "10 am to 5 pm",
+   "Friday": "10 am to 5 pm",
+   "Saturday": "10 am to 5 pm",
+   "Sunday": "Closed",
+   "Monday": "10 am to 5 pm",
+   "Tuesday": "10 am to 5 pm",
+   "Wednesday": "10 am to 5 pm"
+  },
+  "topics": {
+   "rude receptionist": 5,
+   "soft spoken doctor": 2,
+   "skin care": 3,
+   "rude behavior": 8,
+   "token system": 4,
+   "digital payments": 2,
+   "laser": 3,
+   "treatment": 25,
+   "nuisance": 2,
+   "behaviour": 18
+  },
+  "about": {
+   "Accessibility": [
+    " Wheelchair-accessible car park",
+    " Wheelchair-accessible entrance"
+   ],
+   "Service options": [
+    " On-site services"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 45,
+   "4": 23,
+   "3": 12,
+   "2": 5,
+   "1": 69
+  },
+  "google_profile_gaps": [
+   "Add website"
+  ],
+  "place_id": "ChIJV4R0l0t1SjoRd7TQ94ftf4c",
+  "feature_id": "0x3a4a754b97748457:0x877fed87f7d0b477",
+  "missing_fields": [
+   "website"
+  ],
+  "sorted_newest": true,
+  "extract_seconds": 56.6,
+  "error": null,
+  "listing_name": "Athota Kavitha(Dermatologist) & Mallik G (Ortho) Hospital"
+ },
+ {
+  "listing_position": 34,
+  "name_clean": "Dr. J. Sowjanya Laser Skin clinic",
+  "name_raw": "Dr. J. Sowjanya Laser Skin clinic",
+  "category": "Skin care clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "4th lane, Off, Lakshmipuram Main Rd, Lakshmipuram, Guntur, Andhra Pradesh 522007",
+  "plus_code": "8C6J+M5 Guntur, Andhra Pradesh",
+  "phone": "0863 223 6952",
+  "website": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "rating": 4.4,
+  "reviews_total": 40,
+  "reviews_captured": 40,
+  "reviews_coverage": 1.0,
+  "owner_replies": 0,
+  "truncated_reviews": 3,
+  "has_photos": true,
+  "hours": null,
+  "topics": {
+   "patient care": 2,
+   "treatment": 3
+  },
+  "about": {
+   "Amenities": [
+    " Restroom"
+   ],
+   "Planning": [
+    " Appointments recommended"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 32,
+   "4": 2,
+   "3": 1,
+   "2": 1,
+   "1": 4
+  },
+  "google_profile_gaps": [
+   "Add hours",
+   "Add website"
+  ],
+  "place_id": "ChIJeYpdkc91SjoRwd6uyP9mZlY",
+  "feature_id": "0x3a4a75cf915d8a79:0x566666ffc8aedec1",
+  "missing_fields": [
+   "website",
+   "hours"
+  ],
+  "sorted_newest": true,
+  "extract_seconds": 50.1,
+  "error": null,
+  "listing_name": "Dr. J. Sowjanya Laser Skin clinic"
+ },
+ {
+  "listing_position": 35,
+  "name_clean": "Guntur Skin Centre",
+  "name_raw": "Guntur Skin Centre",
+  "category": "Dermatologist",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "1st, Tiruveedhula krishnamurthy,srinikhethan ,door no:6-8-29 ,8th line, cross, road, Arundelpet, Guntur, Andhra Pradesh 522002",
+  "plus_code": "8C3Q+PW Guntur, Andhra Pradesh",
+  "phone": "0863 222 1608",
+  "website": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "rating": 3.7,
+  "reviews_total": 28,
+  "reviews_captured": 28,
+  "reviews_coverage": 1.0,
+  "owner_replies": 0,
+  "truncated_reviews": 0,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "10 am to 1 pm, 6 to 8:30 pm",
+   "Friday": "10 am to 1 pm, 6 to 8:30 pm",
+   "Saturday": "10 am to 1 pm, 6 to 8:30 pm",
+   "Sunday": "Closed",
+   "Monday": "10 am to 1 pm, 6 to 8:30 pm",
+   "Tuesday": "Closed",
+   "Wednesday": "10 am to 1 pm, 6 to 8:30 pm"
+  },
+  "topics": {
+   "clinic": 2,
+   "treatment": 4,
+   "sunday": 2
+  },
+  "about": {
+   "Amenities": [
+    " Restroom"
+   ],
+   "Planning": [
+    " Appointments recommended"
+   ],
+   "Payments": [
+    " NFC mobile payments"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 11,
+   "4": 9,
+   "3": 1,
+   "2": 3,
+   "1": 4
+  },
+  "google_profile_gaps": [
+   "Add website"
+  ],
+  "place_id": "ChIJT2QrwER1SjoRBugfcxwCWCw",
+  "feature_id": "0x3a4a7544c02b644f:0x2c58021c731fe806",
+  "missing_fields": [
+   "website"
+  ],
+  "sorted_newest": true,
+  "extract_seconds": 42.6,
+  "error": null,
+  "listing_name": "Guntur Skin Centre"
+ },
+ {
+  "listing_position": 36,
+  "name_clean": "Ravi SkinCare Clinic",
+  "name_raw": "Ravi SkinCare Clinic | Dermatologist | Cosmetologist | Sexologist",
+  "category": "Skin care clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "Dental Clinic, Doctors Plaza, Kothapet Main Rd, Backside of, Kothapeta, Namburu, Guntur, Andhra Pradesh 522001",
+  "plus_code": "7CXX+9V Namburu, Andhra Pradesh",
+  "phone": "",
+  "website": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "rating": 3.5,
+  "reviews_total": 14,
+  "reviews_captured": 14,
+  "reviews_coverage": 1.0,
+  "owner_replies": 0,
+  "truncated_reviews": 2,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "10 am to 2 pm, 4 to 9 pm",
+   "Friday": "10 am to 2 pm, 4 to 9 pm",
+   "Saturday": "10 am to 2 pm, 4 to 9 pm",
+   "Sunday": "10 am to 2 pm, 4 to 9 pm",
+   "Monday": "10 am to 2 pm, 4 to 9 pm",
+   "Tuesday": "10 am to 2 pm, 4 to 9 pm",
+   "Wednesday": "10 am to 2 pm, 4 to 9 pm"
+  },
+  "topics": null,
+  "about": {
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 8,
+   "4": 1,
+   "3": 0,
+   "2": 0,
+   "1": 5
+  },
+  "google_profile_gaps": [
+   "Add place's phone number",
+   "Add website"
+  ],
+  "place_id": "ChIJo4h7_bl1SjoR_jbq2_BLgi4",
+  "feature_id": "0x3a4a75b9fd7b88a3:0x2e824bf0dbea36fe",
+  "missing_fields": [
+   "phone",
+   "website"
+  ],
+  "sorted_newest": true,
+  "extract_seconds": 70.4,
+  "error": null,
+  "listing_name": "Ravi SkinCare Clinic | Dermatologist | Cosmetologist | Sexologist"
+ },
+ {
+  "listing_position": 37,
+  "name_clean": "Sanjivi Slim Clinic",
+  "name_raw": "Sanjivi Slim Clinic",
+  "category": "Hospital",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "adjacent",
+  "basis": "category",
+  "address": "8C7C+6RH, Brindavan Gardens Main Rd, beside Bharat Petrol Pump, Brindavan Gardens, Guntur, Andhra Pradesh 522006",
+  "plus_code": "",
+  "phone": "076618 44477",
+  "website": "https://sanjivislimclinic.com/",
+  "website_type": "own_domain",
+  "has_own_website": true,
+  "rating": 4.7,
+  "reviews_total": 863,
+  "reviews_captured": 863,
+  "reviews_coverage": 1.0,
+  "owner_replies": 0,
+  "truncated_reviews": 50,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "6 am to 9 pm",
+   "Friday": "6 am to 9 pm",
+   "Saturday": "6 am to 9 pm",
+   "Sunday": "6 am to 9 pm",
+   "Monday": "6 am to 9 pm",
+   "Tuesday": "6 am to 9 pm",
+   "Wednesday": "6 am to 9 pm"
+  },
+  "topics": {
+   "weight loss": 170,
+   "sanjivi slim clinic": 13,
+   "no side effects": 46,
+   "skin treatment": 13,
+   "inch loss treatment": 6,
+   "hair treatment": 9,
+   "physiotherapy": 6,
+   "diet plan": 5,
+   "cool sculpting": 5,
+   "clinic in guntur": 3
+  },
+  "about": {
+   "సంజీవి స్లిమ్ క్లినిక్": [
+    "6 am–9 pm"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 790,
+   "4": 9,
+   "3": 7,
+   "2": 4,
+   "1": 53
+  },
+  "google_profile_gaps": null,
+  "place_id": "ChIJOcW_vl11SjoRvN_Zki66hGY",
+  "feature_id": "0x3a4a755dbebfc539:0x6684ba2e92d9dfbc",
+  "missing_fields": [
+   "plus_code"
+  ],
+  "sorted_newest": true,
+  "extract_seconds": 198.9,
+  "error": null,
+  "listing_name": "Sanjivi Slim Clinic"
+ },
+ {
+  "listing_position": 38,
+  "name_clean": "Image Poly Clinic",
+  "name_raw": "Image Poly Clinic",
+  "category": "Medical clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "adjacent",
+  "basis": "category",
+  "address": "Pattabhipuram Rd, opp. Indian Oil Petrol Bunk, Krishna Nagar, Guntur, Andhra Pradesh 522006",
+  "plus_code": "8C59+J7 Guntur, Andhra Pradesh",
+  "phone": "",
+  "website": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "rating": 4.5,
+  "reviews_total": 27,
+  "reviews_captured": 27,
+  "reviews_coverage": 1.0,
+  "owner_replies": 0,
+  "truncated_reviews": 3,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "9 am to 8 pm",
+   "Friday": "9 am to 8 pm",
+   "Saturday": "9 am to 8 pm",
+   "Sunday": "10:30 am to 1 pm",
+   "Monday": "9 am to 8 pm",
+   "Tuesday": "9 am to 8 pm",
+   "Wednesday": "9 am to 8 pm"
+  },
+  "topics": {
+   "skin specialist": 2,
+   "treatment": 6,
+   "patient care": 3,
+   "sir": 3,
+   "doctors": 3,
+   "skin": 2,
+   "hospital": 2
+  },
+  "about": {
+   "Service options": [
+    " On-site services"
+   ],
+   "Amenities": [
+    " Restroom"
+   ],
+   "Planning": [
+    " Appointments recommended"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 23,
+   "4": 1,
+   "3": 0,
+   "2": 0,
+   "1": 3
+  },
+  "google_profile_gaps": [
+   "Add place's phone number",
+   "Add website"
+  ],
+  "place_id": "ChIJn1hWmHt1SjoRcrS4nAAYaCE",
+  "feature_id": "0x3a4a757b9856589f:0x216818009cb8b472",
+  "missing_fields": [
+   "phone",
+   "website"
+  ],
+  "sorted_newest": true,
+  "extract_seconds": 56.7,
+  "error": null,
+  "listing_name": "Image Poly Clinic"
+ },
+ {
+  "listing_position": 39,
+  "name_clean": "Amaravathi Family Clinic",
+  "name_raw": "Amaravathi Family Clinic",
+  "category": "Medical clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "adjacent",
+  "basis": "category",
+  "address": "Anjaneya peta 1 st line, Amaravathi Rd, near Rama Building, Guntur, Andhra Pradesh 522007",
+  "plus_code": "8C7P+RR Guntur, Andhra Pradesh",
+  "phone": "",
+  "website": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "rating": 4.9,
+  "reviews_total": 65,
+  "reviews_captured": 65,
+  "reviews_coverage": 1.0,
+  "owner_replies": 0,
+  "truncated_reviews": 3,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "8 am to 9 pm",
+   "Friday": "8 am to 9 pm",
+   "Saturday": "9 am to 9 pm",
+   "Sunday": "10 am to 1 pm",
+   "Monday": "8 am to 9 pm",
+   "Tuesday": "8 am to 9 pm",
+   "Wednesday": "8 am to 9:30 pm"
+  },
+  "topics": {
+   "patient listener": 2,
+   "treating doctor": 2,
+   "diagnosis": 2,
+   "advice": 2,
+   "care": 2,
+   "health": 2,
+   "success": 2,
+   "doctor": 7,
+   "treatment": 6
+  },
+  "about": {
+   "Amenities": [
+    " Restroom"
+   ],
+   "Planning": [
+    " Appointments recommended"
+   ],
+   "Payments": [
+    " NFC mobile payments"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 62,
+   "4": 1,
+   "3": 2,
+   "2": 0,
+   "1": 0
+  },
+  "google_profile_gaps": [
+   "Add place's phone number",
+   "Add website"
+  ],
+  "place_id": "ChIJFSc3ILR1SjoRz-StDmLWMGc",
+  "feature_id": "0x3a4a75b420372715:0x6730d6620eade4cf",
+  "missing_fields": [
+   "phone",
+   "website"
+  ],
+  "sorted_newest": true,
+  "extract_seconds": 62.1,
+  "error": null,
+  "listing_name": "Amaravathi Family Clinic"
+ },
+ {
+  "listing_position": 40,
+  "name_clean": "Lakshmi Skin Care hospital",
+  "name_raw": "Lakshmi Skin Care hospital",
+  "category": "Hospital",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "name_strong_over_category:skin",
+  "address": "7FX3+FM9, Old Club Rd, Gunturvari Thota, GV Thota, Guntur, Andhra Pradesh 522001",
+  "plus_code": "",
+  "phone": "094915 82215",
+  "website": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "rating": 3.8,
+  "reviews_total": 13,
+  "reviews_captured": 13,
+  "reviews_coverage": 1.0,
+  "owner_replies": 0,
+  "truncated_reviews": 0,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "10 am to 9 pm",
+   "Friday": "10 am to 9 pm",
+   "Saturday": "10 am to 9 pm",
+   "Sunday": "Closed",
+   "Monday": "10 am to 9 pm",
+   "Tuesday": "10 am to 9 pm",
+   "Wednesday": "10 am to 9 pm"
+  },
+  "topics": {
+   "diagnosis": 2,
+   "sell": 3
+  },
+  "about": {
+   "Payments": [
+    " NFC mobile payments"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 9,
+   "4": 0,
+   "3": 0,
+   "2": 0,
+   "1": 4
+  },
+  "google_profile_gaps": [
+   "Add website"
+  ],
+  "place_id": "ChIJKYAsHoN1SjoRgzl_NBpEAVs",
+  "feature_id": "0x3a4a75831e2c8029:0x5b01441a347f3983",
+  "missing_fields": [
+   "plus_code",
+   "website"
+  ],
+  "sorted_newest": true,
+  "extract_seconds": 55.4,
+  "error": null,
+  "listing_name": "Lakshmi Skin Care hospital"
+ },
+ {
+  "listing_position": 41,
+  "name_clean": "Dr. Thiruveedhula Krishna Murthy",
+  "name_raw": "Dr. Thiruveedhula Krishna Murthy",
+  "category": "Hospital",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "adjacent",
+  "basis": "category",
+  "address": "8/2, Arundelpet, Guntur, Andhra Pradesh 522002",
+  "plus_code": "8C3Q+PW Guntur, Andhra Pradesh",
+  "phone": "",
+  "website": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "rating": 5.0,
+  "reviews_total": 10,
+  "reviews_captured": 10,
+  "reviews_coverage": 1.0,
+  "owner_replies": 0,
+  "truncated_reviews": 0,
+  "has_photos": true,
+  "hours": null,
+  "topics": null,
+  "about": {
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 10,
+   "4": 0,
+   "3": 0,
+   "2": 0,
+   "1": 0
+  },
+  "google_profile_gaps": [
+   "Add place's phone number",
+   "Add hours",
+   "Add website"
+  ],
+  "place_id": "ChIJz7oEjWl1SjoR9bARkHURjso",
+  "feature_id": "0x3a4a75698d04bacf:0xca8e11759011b0f5",
+  "missing_fields": [
+   "phone",
+   "website",
+   "hours"
+  ],
+  "sorted_newest": false,
+  "extract_seconds": 93.8,
+  "error": null,
+  "listing_name": "Dr. Thiruveedhula Krishna Murthy"
+ },
+ {
+  "listing_position": 42,
+  "name_clean": "Dr Vijay's Skin and Dental Clinic",
+  "name_raw": "Dr Vijay's Skin and Dental Clinic",
+  "category": "Dermatologist",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "Gajulawari St, Ankamma Nagar, R and B Quaters, Guntur, Andhra Pradesh 522004",
+  "plus_code": "8C2H+96 Guntur, Andhra Pradesh",
+  "phone": "079815 46939",
+  "website": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "rating": 5.0,
+  "reviews_total": 1,
+  "reviews_captured": 1,
+  "reviews_coverage": 1.0,
+  "owner_replies": 0,
+  "truncated_reviews": 0,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "10 am to 9:30 pm",
+   "Friday": "10 am to 9:30 pm",
+   "Saturday": "10 am to 9:30 pm",
+   "Sunday": "10 am to 9:30 pm",
+   "Monday": "10 am to 9:30 pm",
+   "Tuesday": "10 am to 9:30 pm",
+   "Wednesday": "10 am to 9:30 pm"
+  },
+  "topics": null,
+  "about": {
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 1,
+   "4": 0,
+   "3": 0,
+   "2": 0,
+   "1": 0
+  },
+  "google_profile_gaps": [
+   "Add website"
+  ],
+  "place_id": "ChIJv37_Be11SjoRH8rhy6w8nKM",
+  "feature_id": "0x3a4a75ed05ff7ebf:0xa39c3caccbe1ca1f",
+  "missing_fields": [
+   "website"
+  ],
+  "sorted_newest": true,
+  "extract_seconds": 55.3,
+  "error": null,
+  "listing_name": "Dr Vijay's Skin and Dental Clinic"
+ },
+ {
+  "listing_position": 43,
+  "name_clean": "DNR hospital (Dr. DVSB Ram Murthy)",
+  "name_raw": "DNR hospital (Dr. DVSB Ram Murthy)",
+  "category": "Skin care clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "8C2X+6C7, Ganeshrao Peta, Kothapeta, Guntur, Andhra Pradesh 522001",
+  "plus_code": "",
+  "phone": "0863 232 2236",
+  "website": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "rating": 3.9,
+  "reviews_total": 40,
+  "reviews_captured": 40,
+  "reviews_coverage": 1.0,
+  "owner_replies": 0,
+  "truncated_reviews": 1,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "12 to 5 pm",
+   "Friday": "12 to 5 pm",
+   "Saturday": "12 to 5 pm",
+   "Sunday": "12 am to 4 pm",
+   "Monday": "12 to 5 pm",
+   "Tuesday": "12 to 5 pm",
+   "Wednesday": "12 to 5 pm"
+  },
+  "topics": {
+   "skin disease treatment": 3,
+   "patient care": 3,
+   "doctor": 3,
+   "treatment": 5
+  },
+  "about": {
+   "Accessibility": [
+    " Wheelchair-accessible toilet"
+   ],
+   "Amenities": [
+    " Restroom"
+   ],
+   "Planning": [
+    " Appointment required",
+    " Appointments recommended"
+   ],
+   "Payments": [
+    " NFC mobile payments"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 24,
+   "4": 5,
+   "3": 2,
+   "2": 1,
+   "1": 8
+  },
+  "google_profile_gaps": [
+   "Add website"
+  ],
+  "place_id": "ChIJQYRKy8h1SjoRYY1ZrI5yd9k",
+  "feature_id": "0x3a4a75c8cb4a8441:0xd977728eac598d61",
+  "missing_fields": [
+   "plus_code",
+   "website"
+  ],
+  "sorted_newest": true,
+  "extract_seconds": 58.7,
+  "error": null,
+  "listing_name": "DNR hospital (Dr. DVSB Ram Murthy)"
+ },
+ {
+  "listing_position": 44,
+  "name_clean": "Dr.Krishna Murthy Skin Clinic",
+  "name_raw": "Dr.Krishna Murthy Skin Clinic",
+  "category": "Skin care clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "7CXX+MX5, Old Club Rd, Kothapeta, Hyderabad, Guntur, Andhra Pradesh 522001",
+  "plus_code": "",
+  "phone": "",
+  "website": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "rating": 4.0,
+  "reviews_total": 10,
+  "reviews_captured": 10,
+  "reviews_coverage": 1.0,
+  "owner_replies": 0,
+  "truncated_reviews": 0,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "10:30 am to 2 pm, 6:30 to 9 pm",
+   "Friday": "10:30 am to 2 pm, 6:30 to 9 pm",
+   "Saturday": "10:30 am to 2 pm, 6:30 to 9 pm",
+   "Sunday": "Closed",
+   "Monday": "10:30 am to 2 pm, 6:30 to 9 pm",
+   "Tuesday": "10:30 am to 2 pm, 6:30 to 9 pm",
+   "Wednesday": "10:30 am to 2 pm, 6:30 to 9 pm"
+  },
+  "topics": null,
+  "about": {
+   "Accessibility": [
+    " Wheelchair-accessible entrance"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 6,
+   "4": 2,
+   "3": 0,
+   "2": 0,
+   "1": 2
+  },
+  "google_profile_gaps": [
+   "Add place's phone number",
+   "Add website"
+  ],
+  "place_id": "ChIJ_x_d50t1SjoRFaavNGIjdjA",
+  "feature_id": "0x3a4a754be7dd1fff:0x3076236234afa615",
+  "missing_fields": [
+   "plus_code",
+   "phone",
+   "website"
+  ],
+  "sorted_newest": true,
+  "extract_seconds": 70.4,
+  "error": null,
+  "listing_name": "Dr.Krishna Murthy Skin Clinic"
+ },
+ {
+  "listing_position": 45,
+  "name_clean": "Dr Paruchuri Rajaram Memorial Skin Clinic",
+  "name_raw": "Dr Paruchuri Rajaram Memorial Skin Clinic",
+  "category": "Dermatologist",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "Old Club Rd, Kothapeta, Guntur, Andhra Pradesh 522001",
+  "plus_code": "7FX2+PG Guntur, Andhra Pradesh",
+  "phone": "0863 221 0555",
+  "website": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "rating": 3.5,
+  "reviews_total": 20,
+  "reviews_captured": 20,
+  "reviews_coverage": 1.0,
+  "owner_replies": 0,
+  "truncated_reviews": 0,
+  "has_photos": true,
+  "hours": null,
+  "topics": {
+   "experienced doctors": 2
+  },
+  "about": {
+   "Planning": [
+    " Appointments recommended"
+   ],
+   "Payments": [
+    " NFC mobile payments"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 11,
+   "4": 1,
+   "3": 1,
+   "2": 1,
+   "1": 6
+  },
+  "google_profile_gaps": [
+   "Add hours",
+   "Add website"
+  ],
+  "place_id": "ChIJ33Mvn0t1SjoRBsu655V5VFY",
+  "feature_id": "0x3a4a754b9f2f73df:0x56547995e7bacb06",
+  "missing_fields": [
+   "website",
+   "hours"
+  ],
+  "sorted_newest": true,
+  "extract_seconds": 48.0,
+  "error": null,
+  "listing_name": "Dr Paruchuri Rajaram Memorial Skin Clinic"
+ },
+ {
+  "listing_position": 46,
+  "name_clean": "RK CLINIC",
+  "name_raw": "RK CLINIC",
+  "category": "Medical clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "adjacent",
+  "basis": "category",
+  "address": "Nehrunagar, 3rd Line, Nehru Nagar, Guntur, Andhra Pradesh 522001",
+  "plus_code": "8F33+FP Guntur, Andhra Pradesh",
+  "phone": "099858 82479",
+  "website": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "rating": 4.9,
+  "reviews_total": 63,
+  "reviews_captured": 63,
+  "reviews_coverage": 1.0,
+  "owner_replies": 0,
+  "truncated_reviews": 0,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "8 am to 9:30 pm",
+   "Friday": "8 am to 9:30 pm",
+   "Saturday": "8 am to 9:30 pm",
+   "Sunday": "8 am to 9:30 pm",
+   "Monday": "8 am to 9:30 pm",
+   "Tuesday": "8 am to 9:30 pm",
+   "Wednesday": "8 am to 9:30 pm"
+  },
+  "topics": null,
+  "about": {
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 59,
+   "4": 4,
+   "3": 0,
+   "2": 0,
+   "1": 0
+  },
+  "google_profile_gaps": [
+   "Add website"
+  ],
+  "place_id": "ChIJnZtrKE11SjoRtMtRYHublqc",
+  "feature_id": "0x3a4a754d286b9b9d:0xa7969b7b6051cbb4",
+  "missing_fields": [
+   "website"
+  ],
+  "sorted_newest": true,
+  "extract_seconds": 60.6,
+  "error": null,
+  "listing_name": "RK CLINIC"
+ },
+ {
+  "listing_position": 47,
+  "name_clean": "Lotus Dental and Cosmetic Clinic",
+  "name_raw": "Lotus Dental and Cosmetic Clinic || Best Dental Clinic in Guntur",
+  "category": "Dental clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "irrelevant",
+  "basis": "name_veto:dental",
+  "address": "Naidupet 2nd lane, Amaravathi Rd, Guntur, Andhra Pradesh 522007",
+  "plus_code": "8C6P+88 Guntur, Andhra Pradesh",
+  "phone": "097014 90546",
+  "website": "https://lotusdentalskinandhair.com/",
+  "website_type": "own_domain",
+  "has_own_website": true,
+  "rating": 5.0,
+  "reviews_total": 298,
+  "reviews_captured": 298,
+  "reviews_coverage": 1.0,
+  "owner_replies": 22,
+  "truncated_reviews": 32,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "9 am to 9 pm",
+   "Friday": "9 am to 9 pm",
+   "Saturday": "9 am to 9 pm",
+   "Sunday": "9 am to 9 pm",
+   "Monday": "9 am to 9 pm",
+   "Tuesday": "9 am to 9 pm",
+   "Wednesday": "9 am to 9 pm"
+  },
+  "topics": {
+   "zirconium crowns": 15,
+   "root canal treatment": 38,
+   "lower anterior teeth": 7,
+   "tooth pain treatment": 17,
+   "hydra facial": 4,
+   "friendly environment": 24,
+   "filling compostie treatment": 2,
+   "full mouth rehabilitation": 2,
+   "wisdom teeth removal": 2,
+   "dental clinic in guntur": 2
+  },
+  "about": {
+   "Accessibility": [
+    " Wheelchair-accessible car park",
+    " Wheelchair-accessible entrance"
+   ],
+   "Amenities": [
+    " Restroom"
+   ],
+   "Planning": [
+    " Appointments recommended"
+   ],
+   "Payments": [
+    " Debit cards",
+    " NFC mobile payments",
+    " Credit cards"
+   ],
+   "Parking": [
+    " On-site parking"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 294,
+   "4": 2,
+   "3": 1,
+   "2": 1,
+   "1": 0
+  },
+  "google_profile_gaps": null,
+  "place_id": "ChIJuRpB9vuLNToRlMCfzzCJBHs",
+  "feature_id": "0x3a358bfbf6411ab9:0x7b048930cf9fc094",
+  "missing_fields": [],
+  "sorted_newest": true,
+  "extract_seconds": 56.5,
+  "error": null,
+  "listing_name": "Lotus Dental and Cosmetic Clinic || Best Dental Clinic in Guntur"
+ },
+ {
+  "listing_position": 48,
+  "name_clean": "Dr KK's Mana clinic",
+  "name_raw": "Dr KK's Mana clinic",
+  "category": "Medical clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "adjacent",
+  "basis": "category",
+  "address": "4th Ln, near Bose Bomma, Sri Ram Nagar, Ananda Theertha Agraharam, Guntur, Andhra Pradesh 522004",
+  "plus_code": "8C2C+8J Guntur, Andhra Pradesh",
+  "phone": "096583 23323",
+  "website": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "rating": 4.8,
+  "reviews_total": 59,
+  "reviews_captured": 59,
+  "reviews_coverage": 1.0,
+  "owner_replies": 0,
+  "truncated_reviews": 3,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "7 am to 10 pm",
+   "Friday": "7 am to 10 pm",
+   "Saturday": "7 am to 10 pm",
+   "Sunday": "7 am to 10 pm",
+   "Monday": "7 am to 10 pm",
+   "Tuesday": "7 am to 10 pm",
+   "Wednesday": "7 am to 10 pm"
+  },
+  "topics": {
+   "accurate diagnosis": 4,
+   "caring doctors": 8,
+   "homely treatment": 2,
+   "homely atmosphere": 3,
+   "blood tests": 2,
+   "surgery": 6,
+   "experienced doctors": 3,
+   "empathetic": 2,
+   "timely treatment": 2,
+   "kind staff": 4
+  },
+  "about": {
+   "Accessibility": [
+    " Wheelchair-accessible car park",
+    " Wheelchair-accessible entrance"
+   ],
+   "Amenities": [
+    " Restroom"
+   ],
+   "Payments": [
+    " NFC mobile payments"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 51,
+   "4": 6,
+   "3": 0,
+   "2": 0,
+   "1": 2
+  },
+  "google_profile_gaps": [
+   "Add website"
+  ],
+  "place_id": "ChIJURI2Gf11SjoRDMfnKyiavhA",
+  "feature_id": "0x3a4a75fd19361251:0x10be9a282be7c70c",
+  "missing_fields": [
+   "website"
+  ],
+  "sorted_newest": true,
+  "extract_seconds": 45.9,
+  "error": null,
+  "listing_name": "Dr KK's Mana clinic"
+ },
+ {
+  "listing_position": 49,
+  "name_clean": "Skin Clinic By Dr M Vijay Reddy",
+  "name_raw": "Skin Clinic By Dr M Vijay Reddy",
+  "category": "Skin care clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "7CWX+MHQ, Kothapeta, Guntur, Andhra Pradesh 522001",
+  "plus_code": "",
+  "phone": "092469 01870",
+  "website": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "rating": 5.0,
+  "reviews_total": 3,
+  "reviews_captured": 3,
+  "reviews_coverage": 1.0,
+  "owner_replies": 0,
+  "truncated_reviews": 0,
+  "has_photos": true,
+  "hours": null,
+  "topics": null,
+  "about": {
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 3,
+   "4": 0,
+   "3": 0,
+   "2": 0,
+   "1": 0
+  },
+  "google_profile_gaps": [
+   "Add hours",
+   "Add website"
+  ],
+  "place_id": "ChIJi_w1j0l1SjoRrsHHTueVQuY",
+  "feature_id": "0x3a4a75498f35fc8b:0xe64295e74ec7c1ae",
+  "missing_fields": [
+   "plus_code",
+   "website",
+   "hours"
+  ],
+  "sorted_newest": true,
+  "extract_seconds": 65.7,
+  "error": null,
+  "listing_name": "Skin Clinic By Dr M Vijay Reddy"
+ },
+ {
+  "listing_position": 50,
+  "name_clean": "Hanuma Skin Center",
+  "name_raw": "Hanuma Skin Center",
+  "category": "Skin care clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "Doctors Plaza, Kothapet Main Rd, Kothapeta, Guntur, Andhra Pradesh 522001",
+  "plus_code": "7CXX+CV Guntur, Andhra Pradesh",
+  "phone": "090322 20512",
+  "website": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "rating": 4.1,
+  "reviews_total": 32,
+  "reviews_captured": 32,
+  "reviews_coverage": 1.0,
+  "owner_replies": 0,
+  "truncated_reviews": 3,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "8:30 am to 4 pm",
+   "Friday": "8:30 am to 4 pm",
+   "Saturday": "8:30 am to 4 pm",
+   "Sunday": "Closed",
+   "Monday": "8:30 am to 4 pm",
+   "Tuesday": "Closed",
+   "Wednesday": "8:30 am to 4 pm"
+  },
+  "topics": {
+   "hospital": 2,
+   "doctor": 3
+  },
+  "about": {
+   "Planning": [
+    " Appointment required",
+    " Appointments recommended"
+   ],
+   "Payments": [
+    " NFC mobile payments"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 22,
+   "4": 3,
+   "3": 1,
+   "2": 1,
+   "1": 5
+  },
+  "google_profile_gaps": [
+   "Add website"
+  ],
+  "place_id": "ChIJm4Zm2Ut1SjoRt6W4biNiN-A",
+  "feature_id": "0x3a4a754bd966869b:0xe03762236eb8a5b7",
+  "missing_fields": [
+   "website"
+  ],
+  "sorted_newest": true,
+  "extract_seconds": 42.5,
+  "error": null,
+  "listing_name": "Hanuma Skin Center"
+ },
+ {
+  "listing_position": 51,
+  "name_clean": "GUNTUR CLINIC T.KRISHNAMURTHY",
+  "name_raw": "GUNTUR CLINIC T.KRISHNAMURTHY",
+  "category": "Hospital",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "adjacent",
+  "basis": "category",
+  "address": "8C3Q+PRQ, Arundelpet, Guntur, Andhra Pradesh 522002",
+  "plus_code": "",
+  "phone": "86332221608",
+  "website": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "rating": 3.5,
+  "reviews_total": 8,
+  "reviews_captured": 8,
+  "reviews_coverage": 1.0,
+  "owner_replies": 0,
+  "truncated_reviews": 0,
+  "has_photos": true,
+  "hours": null,
+  "topics": null,
+  "about": {
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 2,
+   "4": 3,
+   "3": 1,
+   "2": 1,
+   "1": 1
+  },
+  "google_profile_gaps": [
+   "Add hours",
+   "Add website"
+  ],
+  "place_id": "ChIJqeSy6kR1SjoRKhH-4rAH6OI",
+  "feature_id": "0x3a4a7544eab2e4a9:0xe2e807b0e2fe112a",
+  "missing_fields": [
+   "plus_code",
+   "website",
+   "hours"
+  ],
+  "sorted_newest": true,
+  "extract_seconds": 65.6,
+  "error": null,
+  "listing_name": "GUNTUR CLINIC T.KRISHNAMURTHY"
+ },
+ {
+  "listing_position": 52,
+  "name_clean": "PILES CLINIC",
+  "name_raw": "PILES CLINIC",
+  "category": "Medical clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "irrelevant",
+  "basis": "name_veto:piles",
+  "address": "7CRV+C6J Hindu College back side, Grand Trunk Rd, near vegetable market, near Karnataka Bank, Adapa Bazar, R Agraharam, Guntur, Andhra Pradesh 522003",
+  "plus_code": "",
+  "phone": "094419 78750",
+  "website": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "rating": 4.9,
+  "reviews_total": 204,
+  "reviews_captured": 204,
+  "reviews_coverage": 1.0,
+  "owner_replies": 202,
+  "truncated_reviews": 32,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "9:30 am to 1 am",
+   "Friday": "9:30 am to 1 pm, 5 to 8 pm",
+   "Saturday": "9:30 am to 2 pm, 5 to 8 pm",
+   "Sunday": "9:30 am to 12 pm",
+   "Monday": "9:30 am to 1 pm, 5 to 8 pm",
+   "Tuesday": "9:30 am to 1 pm, 5 to 8 pm",
+   "Wednesday": "9:30 am to 1 pm, 5 to 8 pm"
+  },
+  "topics": {
+   "fistula treatment": 34,
+   "ayurvedic treatment": 5,
+   "low cost treatment": 9,
+   "fast recovery": 9,
+   "short time pain relief": 5,
+   "family doctor": 3,
+   "trusted doctor": 6,
+   "painless treatment": 2,
+   "no operation": 2,
+   "no side effects": 3
+  },
+  "about": {
+   "Accessibility": [
+    " Wheelchair-accessible car park",
+    " Wheelchair-accessible toilet"
+   ],
+   "Payments": [
+    " Google Pay"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 200,
+   "4": 1,
+   "3": 0,
+   "2": 0,
+   "1": 3
+  },
+  "google_profile_gaps": [
+   "Add website"
+  ],
+  "place_id": "ChIJzcgE0jl1SjoRs1_cob36yD0",
+  "feature_id": "0x3a4a7539d204c8cd:0x3dc8fabda1dc5fb3",
+  "missing_fields": [
+   "plus_code",
+   "website"
+  ],
+  "sorted_newest": true,
+  "extract_seconds": 77.1,
+  "error": null,
+  "listing_name": "PILES CLINIC"
+ },
+ {
+  "listing_position": 53,
+  "name_clean": "Kommineni Dental and Cosmetic Clinic",
+  "name_raw": "Kommineni Dental and Cosmetic Clinic - Best Dental Hospital in Guntur",
+  "category": "Dental clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "irrelevant",
+  "basis": "name_veto:dental",
+  "address": "Koritepadu Rd, opposite alapati venkata ramaiah park, Lakshmipuram, Guntur, Andhra Pradesh 522007",
+  "plus_code": "8C7M+62 Guntur, Andhra Pradesh",
+  "phone": "099665 85847",
+  "website": "https://drkommineniclinics.com/",
+  "website_type": "own_domain",
+  "has_own_website": true,
+  "rating": 4.9,
+  "reviews_total": 243,
+  "reviews_captured": 243,
+  "reviews_coverage": 1.0,
+  "owner_replies": 140,
+  "truncated_reviews": 14,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "9 am to 9 pm",
+   "Friday": "9 am to 9 pm",
+   "Saturday": "9 am to 9 pm",
+   "Sunday": "9 am to 9 pm",
+   "Monday": "9 am to 9 pm",
+   "Tuesday": "9 am to 9 pm",
+   "Wednesday": "9 am to 9 pm"
+  },
+  "topics": {
+   "wisdom tooth removal": 5,
+   "broken front tooth": 4,
+   "root canal treatment": 9,
+   "friendly staff": 32,
+   "gentle dentist": 6,
+   "painless treatment": 12,
+   "dental filling": 3,
+   "implant treatment": 2,
+   "friendly doctor": 15,
+   "cooperative staff": 10
+  },
+  "about": {
+   "Amenities": [
+    " Restroom"
+   ],
+   "Planning": [
+    " Appointments recommended"
+   ],
+   "Payments": [
+    " NFC mobile payments"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 229,
+   "4": 12,
+   "3": 1,
+   "2": 0,
+   "1": 1
+  },
+  "google_profile_gaps": null,
+  "place_id": "ChIJ7VhGkGp1SjoRkOQ6DRocmjI",
+  "feature_id": "0x3a4a756a904658ed:0x329a1c1a0d3ae490",
+  "missing_fields": [],
+  "sorted_newest": true,
+  "extract_seconds": 51.2,
+  "error": null,
+  "listing_name": "Kommineni Dental and Cosmetic Clinic - Best Dental Hospital in Guntur"
+ },
+ {
+  "listing_position": 54,
+  "name_clean": "Renuuka Hospital",
+  "name_raw": "Renuuka Hospital",
+  "category": "Hospital",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "adjacent",
+  "basis": "category",
+  "address": "#4-13-64, Amaravathi Rd, beside kasturi Hospital, Bharathpet, Koritepadu, Guntur, Andhra Pradesh 522007",
+  "plus_code": "8C6P+5J Guntur, Andhra Pradesh",
+  "phone": "0863 226 9666",
+  "website": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "rating": 4.5,
+  "reviews_total": 290,
+  "reviews_captured": 290,
+  "reviews_coverage": 1.0,
+  "owner_replies": 48,
+  "truncated_reviews": 15,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "Open 24 hours",
+   "Friday": "Open 24 hours",
+   "Saturday": "Open 24 hours",
+   "Sunday": "Open 24 hours",
+   "Monday": "Open 24 hours",
+   "Tuesday": "Open 24 hours",
+   "Wednesday": "Open 24 hours"
+  },
+  "topics": {
+   "dr chiranjeevi": 52,
+   "neurosurgeon": 2,
+   "dengue treatment": 2,
+   "compassionate doctor": 5,
+   "surgery": 13,
+   "nursing staff": 12,
+   "fast response": 2,
+   "counseling": 3,
+   "low cost": 3,
+   "hygiene": 5
+  },
+  "about": {
+   "Accessibility": [
+    " Wheelchair-accessible car park",
+    " Wheelchair-accessible entrance"
+   ],
+   "Payments": [
+    " Credit cards",
+    " Debit cards",
+    " NFC mobile payments"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 240,
+   "4": 16,
+   "3": 6,
+   "2": 0,
+   "1": 28
+  },
+  "google_profile_gaps": [
+   "Add website"
+  ],
+  "place_id": "ChIJiSY_PVN1SjoRm0HXvu7whjw",
+  "feature_id": "0x3a4a75533d3f2689:0x3c86f0eebed7419b",
+  "missing_fields": [
+   "website"
+  ],
+  "sorted_newest": true,
+  "extract_seconds": 70.5,
+  "error": null,
+  "listing_name": "Renuuka Hospital"
+ },
+ {
+  "listing_position": 55,
+  "name_clean": "Tejaswi chest clinic",
+  "name_raw": "Tejaswi chest clinic",
+  "category": "Medical clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "adjacent",
+  "basis": "category",
+  "address": "BUS STAND, 7, 1st Line, near GUTUR RTC, Gunturvari Thota, Kothapeta, Guntur, Andhra Pradesh 522001",
+  "plus_code": "7FW3+RW Guntur, Andhra Pradesh",
+  "phone": "092914 14340",
+  "website": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "rating": 4.7,
+  "reviews_total": 13,
+  "reviews_captured": 13,
+  "reviews_coverage": 1.0,
+  "owner_replies": 0,
+  "truncated_reviews": 0,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "4 to 9 pm",
+   "Friday": "4 to 9 pm",
+   "Saturday": "4 to 9 pm",
+   "Sunday": "9 am to 12 pm",
+   "Monday": "4 to 9 pm",
+   "Tuesday": "4 to 9 pm",
+   "Wednesday": "4 to 9 pm"
+  },
+  "topics": null,
+  "about": {
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 11,
+   "4": 1,
+   "3": 0,
+   "2": 1,
+   "1": 0
+  },
+  "google_profile_gaps": [
+   "Add website"
+  ],
+  "place_id": "ChIJlaSif7N1SjoRFToDLJkqIr0",
+  "feature_id": "0x3a4a75b37fa2a495:0xbd222a992c033a15",
+  "missing_fields": [
+   "website"
+  ],
+  "sorted_newest": true,
+  "extract_seconds": 55.2,
+  "error": null,
+  "listing_name": "Tejaswi chest clinic"
+ },
+ {
+  "listing_position": 56,
+  "name_clean": "Shefa Chest Clinic",
+  "name_raw": "Shefa Chest Clinic",
+  "category": "Medical clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "adjacent",
+  "basis": "category",
+  "address": "7FV3+RH8, Gunturvari Thota, Kothapeta, Guntur, Andhra Pradesh 522001",
+  "plus_code": "",
+  "phone": "0863 222 8486",
+  "website": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "rating": 4.5,
+  "reviews_total": 28,
+  "reviews_captured": 28,
+  "reviews_coverage": 1.0,
+  "owner_replies": 0,
+  "truncated_reviews": 1,
+  "has_photos": true,
+  "hours": null,
+  "topics": {
+   "cough treatment": 2,
+   "cough": 2,
+   "doctor": 2,
+   "treatment": 2
+  },
+  "about": {
+   "Accessibility": [
+    " Wheelchair-accessible car park",
+    " Wheelchair-accessible entrance",
+    " Wheelchair-accessible toilet"
+   ],
+   "Amenities": [
+    " Restroom"
+   ],
+   "Planning": [
+    " Appointments recommended"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 20,
+   "4": 5,
+   "3": 1,
+   "2": 0,
+   "1": 2
+  },
+  "google_profile_gaps": [
+   "Add hours",
+   "Add website"
+  ],
+  "place_id": "ChIJtW8WCkt1SjoRQFxV7PP-AoY",
+  "feature_id": "0x3a4a754b0a166fb5:0x8602fef3ec555c40",
+  "missing_fields": [
+   "plus_code",
+   "website",
+   "hours"
+  ],
+  "sorted_newest": true,
+  "extract_seconds": 64.1,
+  "error": null,
+  "listing_name": "Shefa Chest Clinic"
+ },
+ {
+  "listing_position": 57,
+  "name_clean": "SRI SAHASRA CLINICS",
+  "name_raw": "SRI SAHASRA CLINICS",
+  "category": "Medical clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "adjacent",
+  "basis": "category",
+  "address": "D No: 5-89, 11/5/A, 3rd Ln, behind Annapurna Complex, Lakshmipuram, Guntur, Andhra Pradesh 522002",
+  "plus_code": "8C3V+M2 Guntur, Andhra Pradesh",
+  "phone": "094904 20233",
+  "website": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "rating": 5.0,
+  "reviews_total": 1,
+  "reviews_captured": 1,
+  "reviews_coverage": 1.0,
+  "owner_replies": 0,
+  "truncated_reviews": 0,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "8 am to 8 pm",
+   "Friday": "8 am to 8 pm",
+   "Saturday": "8 am to 8 pm",
+   "Sunday": "8 am to 8 pm",
+   "Monday": "8 am to 8 pm",
+   "Tuesday": "8 am to 8 pm",
+   "Wednesday": "8 am to 8 pm"
+  },
+  "topics": null,
+  "about": {
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 1,
+   "4": 0,
+   "3": 0,
+   "2": 0,
+   "1": 0
+  },
+  "google_profile_gaps": [
+   "Add website"
+  ],
+  "place_id": "ChIJQRaRa0V1SjoRG75ux4YydXY",
+  "feature_id": "0x3a4a75456b911641:0x76753286c76ebe1b",
+  "missing_fields": [
+   "website"
+  ],
+  "sorted_newest": true,
+  "extract_seconds": 55.3,
+  "error": null,
+  "listing_name": "SRI SAHASRA CLINICS"
+ },
+ {
+  "listing_position": 58,
+  "name_clean": "Dr. D. KOTI REDDY",
+  "name_raw": "Dr. D. KOTI REDDY, M.B.B.S",
+  "category": "Hospital",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "adjacent",
+  "basis": "category",
+  "address": "7FX3+5R5, 6th Ln, Gunturvari Thota, Kothapeta, Guntur, Andhra Pradesh 522001",
+  "plus_code": "",
+  "phone": "090301 04577",
+  "website": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "rating": 4.1,
+  "reviews_total": 15,
+  "reviews_captured": 15,
+  "reviews_coverage": 1.0,
+  "owner_replies": 0,
+  "truncated_reviews": 0,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "10 am to 10:30 pm",
+   "Friday": "10 am to 10:30 pm",
+   "Saturday": "10 am to 10:30 pm",
+   "Sunday": "10 am to 10:30 pm",
+   "Monday": "10 am to 10:30 pm",
+   "Tuesday": "10 am to 10:30 pm",
+   "Wednesday": "10 am to 10:30 pm"
+  },
+  "topics": {
+   "treatment": 3
+  },
+  "about": {
+   "Accessibility": [
+    " Wheelchair-accessible car park",
+    " Wheelchair-accessible entrance"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 10,
+   "4": 1,
+   "3": 1,
+   "2": 1,
+   "1": 2
+  },
+  "google_profile_gaps": [
+   "Add website"
+  ],
+  "place_id": "ChIJ6YITx0p1SjoRIY1z5BpUQL0",
+  "feature_id": "0x3a4a754ac71382e9:0xbd40541ae4738d21",
+  "missing_fields": [
+   "plus_code",
+   "website"
+  ],
+  "sorted_newest": true,
+  "extract_seconds": 55.3,
+  "error": null,
+  "listing_name": "Dr. D. KOTI REDDY, M.B.B.S"
+ },
+ {
+  "listing_position": 59,
+  "name_clean": "Harsha Clinic",
+  "name_raw": "Harsha Clinic",
+  "category": "Medical clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "adjacent",
+  "basis": "category",
+  "address": "Main road, 6th Ln, near Sri Venkateswara Swamy Temple, SVN Colony, Guntur, Andhra Pradesh 522006",
+  "plus_code": "8CG8+R3 Guntur, Andhra Pradesh",
+  "phone": "093938 84757",
+  "website": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "rating": 5.0,
+  "reviews_total": 1,
+  "reviews_captured": 1,
+  "reviews_coverage": 1.0,
+  "owner_replies": 0,
+  "truncated_reviews": 0,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "6:30 am to 10:30 pm",
+   "Friday": "6:30 am to 10:30 pm",
+   "Saturday": "6:30 am to 10:30 pm",
+   "Sunday": "6:30 am to 10:30 pm",
+   "Monday": "6:30 am to 10:30 pm",
+   "Tuesday": "6:30 am to 10:30 pm",
+   "Wednesday": "6:30 am to 10:30 pm"
+  },
+  "topics": null,
+  "about": {
+   "Accessibility": [
+    " Wheelchair-accessible entrance",
+    " Wheelchair-accessible seating",
+    " Wheelchair-accessible toilet"
+   ],
+   "Amenities": [
+    " Restroom"
+   ],
+   "Crowd": [
+    " LGBTQ+ friendly"
+   ],
+   "Payments": [
+    " Google Pay"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 1,
+   "4": 0,
+   "3": 0,
+   "2": 0,
+   "1": 0
+  },
+  "google_profile_gaps": [
+   "Add website"
+  ],
+  "place_id": "ChIJBVYMTJ2LNToRJcWO4dEIXI0",
+  "feature_id": "0x3a358b9d4c0c5605:0x8d5c08d1e18ec525",
+  "missing_fields": [
+   "website"
+  ],
+  "sorted_newest": true,
+  "extract_seconds": 40.4,
+  "error": null,
+  "listing_name": "Harsha Clinic"
+ },
+ {
+  "listing_position": 60,
+  "name_clean": "SS Clinic, Dr.C.Koteswara Rao",
+  "name_raw": "SS Clinic, Dr.C.Koteswara Rao",
+  "category": "Doctor",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "adjacent",
+  "basis": "category",
+  "address": "10 / 3, Old Pichikala Gunta, Arundelpet, Guntur, Andhra Pradesh 522002",
+  "plus_code": "8C4R+64 Guntur, Andhra Pradesh",
+  "phone": "090598 97766",
+  "website": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "rating": 4.9,
+  "reviews_total": 16,
+  "reviews_captured": 16,
+  "reviews_coverage": 1.0,
+  "owner_replies": 7,
+  "truncated_reviews": 0,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "7 am to 1 pm",
+   "Friday": "7 am to 1 pm",
+   "Saturday": "7 am to 1 pm",
+   "Sunday": "Closed",
+   "Monday": "7 am to 1 pm",
+   "Tuesday": "7 am to 1 pm",
+   "Wednesday": "7 am to 1 pm"
+  },
+  "topics": {
+   "hygiene": 2
+  },
+  "about": {
+   "స్ క్లినిక్, డా.సి.కోటేశ్వర రావ్": [
+    "7 am–1 pm",
+    "Closed"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 15,
+   "4": 0,
+   "3": 1,
+   "2": 0,
+   "1": 0
+  },
+  "google_profile_gaps": [
+   "Add website"
+  ],
+  "place_id": "ChIJF9jo90N1SjoRC6f-Aygbigc",
+  "feature_id": "0x3a4a7543f7e8d817:0x78a1b2803fea70b",
+  "missing_fields": [
+   "website"
+  ],
+  "sorted_newest": true,
+  "extract_seconds": 55.2,
+  "error": null,
+  "listing_name": "SS Clinic, Dr.C.Koteswara Rao"
+ },
+ {
+  "listing_position": 61,
+  "name_clean": "Dr. Karan's Skin and Hair Clinic",
+  "name_raw": "Dr. Karan's Skin and Hair Clinic",
+  "category": "Dermatologist",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "3rd Floor, Jaya Prime, 12-162, above First cry, Tadepalle, Andhra Pradesh 522501",
+  "plus_code": "FJG8+36 Tadepalle, Andhra Pradesh",
+  "phone": "091825 23832",
+  "website": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "rating": 4.6,
+  "reviews_total": 30,
+  "reviews_captured": 30,
+  "reviews_coverage": 1.0,
+  "owner_replies": 21,
+  "truncated_reviews": 2,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "11 am to 8:30 pm",
+   "Friday": "11 am to 8:30 pm",
+   "Saturday": "11 am to 8:30 pm",
+   "Sunday": "Closed",
+   "Monday": "11 am to 8:30 pm",
+   "Tuesday": "11 am to 8:30 pm",
+   "Wednesday": "11 am to 8:30 pm"
+  },
+  "topics": {
+   "lazer hair removal": 2,
+   "acne treatment": 5,
+   "laser": 4,
+   "clear explanations": 2,
+   "skin problems": 2,
+   "overall experience": 2,
+   "treatment": 5,
+   "patient doctor": 4,
+   "results": 5,
+   "clinic": 5
+  },
+  "about": {
+   "Service options": [
+    " On-site services"
+   ],
+   "Amenities": [
+    " Gender-neutral toilets",
+    " Restroom"
+   ],
+   "Planning": [
+    " Appointment required",
+    " Appointments recommended"
+   ],
+   "Payments": [
+    " Google Pay"
+   ],
+   "Parking": [
+    " Free street parking",
+    " On-site parking"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 25,
+   "4": 3,
+   "3": 0,
+   "2": 0,
+   "1": 2
+  },
+  "google_profile_gaps": [
+   "Add website"
+  ],
+  "place_id": "ChIJ61ACo4vxNToRCjbQmUUR7U4",
+  "feature_id": "0x3a35f18ba30250eb:0x4eed114599d0360a",
+  "missing_fields": [
+   "website"
+  ],
+  "sorted_newest": true,
+  "extract_seconds": 42.7,
+  "error": null,
+  "listing_name": "Dr. Karan's Skin and Hair Clinic"
+ },
+ {
+  "listing_position": 62,
+  "name_clean": "Dr Umamaheswara rao clinic",
+  "name_raw": "Dr Umamaheswara rao clinic",
+  "category": "Hospital",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "adjacent",
+  "basis": "category",
+  "address": "8C7M+6V8, Koritepadu, Guntur, Andhra Pradesh 522007",
+  "plus_code": "",
+  "phone": "",
+  "website": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "rating": 5.0,
+  "reviews_total": 9,
+  "reviews_captured": 9,
+  "reviews_coverage": 1.0,
+  "owner_replies": 0,
+  "truncated_reviews": 0,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "Open 24 hours",
+   "Friday": "Open 24 hours",
+   "Saturday": "Open 24 hours",
+   "Sunday": "Open 24 hours",
+   "Monday": "Open 24 hours",
+   "Tuesday": "Open 24 hours",
+   "Wednesday": "Open 24 hours"
+  },
+  "topics": null,
+  "about": {
+   "ద్ర ఉమామహేశ్వర రావు క్లినిక్": [
+    "Open 24 hours"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 9,
+   "4": 0,
+   "3": 0,
+   "2": 0,
+   "1": 0
+  },
+  "google_profile_gaps": [
+   "Add place's phone number",
+   "Add website"
+  ],
+  "place_id": "ChIJpYI1t5B1SjoRtqbuaq2TPBg",
+  "feature_id": "0x3a4a7590b73582a5:0x183c93ad6aeea6b6",
+  "missing_fields": [
+   "plus_code",
+   "phone",
+   "website"
+  ],
+  "sorted_newest": true,
+  "extract_seconds": 74.4,
+  "error": null,
+  "listing_name": "Dr Umamaheswara rao clinic"
+ },
+ {
+  "listing_position": 63,
+  "name_clean": "Sathvika Clinic",
+  "name_raw": "Sathvika Clinic",
+  "category": "Hospital",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "adjacent",
+  "basis": "category",
+  "address": "Sambasiva Pet, Guntur, Andhra Pradesh 522001",
+  "plus_code": "7CWW+X4 Guntur, Andhra Pradesh",
+  "phone": "",
+  "website": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "rating": 4.6,
+  "reviews_total": 14,
+  "reviews_captured": 14,
+  "reviews_coverage": 1.0,
+  "owner_replies": 5,
+  "truncated_reviews": 0,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "11 am to 8:30 pm",
+   "Friday": "11 am to 8:30 pm",
+   "Saturday": "11 am to 8:30 pm",
+   "Sunday": "11:30 am to 3 pm",
+   "Monday": "11 am to 8:30 pm",
+   "Tuesday": "11 am to 8:30 pm",
+   "Wednesday": "11 am to 8:30 pm"
+  },
+  "topics": {
+   "baby": 3,
+   "doctor": 2,
+   "treatment": 4,
+   "PREGNANCY": 3
+  },
+  "about": {
+   "సాత్విక క్లినిక్": [
+    "11 am–8:30 pm",
+    "11:30 am–3 pm"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 12,
+   "4": 1,
+   "3": 0,
+   "2": 0,
+   "1": 1
+  },
+  "google_profile_gaps": [
+   "Add place's phone number",
+   "Add website"
+  ],
+  "place_id": "ChIJZ77GhUB1SjoRi5NU6WjpulI",
+  "feature_id": "0x3a4a754085c6be67:0x52bae968e954938b",
+  "missing_fields": [
+   "phone",
+   "website"
+  ],
+  "sorted_newest": true,
+  "extract_seconds": 71.7,
+  "error": null,
+  "listing_name": "Sathvika Clinic"
+ },
+ {
+  "listing_position": 64,
+  "name_clean": "Aster Ramesh Hospital",
+  "name_raw": "Aster Ramesh Hospital - Best Multispeciality Hospital in Guntur",
+  "category": "General hospital",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "adjacent",
+  "basis": "category",
+  "address": "Collector Office Rd, Beside Hindu College Grounds, Nagarampalem, Guntur, Andhra Pradesh 522004",
+  "plus_code": "7CVV+72 Guntur, Andhra Pradesh",
+  "phone": "0863 237 7777",
+  "website": "https://www.asterhospitals.in/aster-ramesh-hospitals",
+  "website_type": "own_domain",
+  "has_own_website": true,
+  "rating": 4.8,
+  "reviews_total": 25883,
+  "reviews_captured": 1210,
+  "reviews_coverage": 0.047,
+  "owner_replies": 27,
+  "truncated_reviews": 145,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "Open 24 hours",
+   "Friday": "Open 24 hours",
+   "Saturday": "Open 24 hours",
+   "Sunday": "Open 24 hours",
+   "Monday": "Open 24 hours",
+   "Tuesday": "Open 24 hours",
+   "Wednesday": "Open 24 hours"
+  },
+  "topics": {
+   "cardiologist": 806,
+   "neurologist": 263,
+   "nursing staff": 2061,
+   "angiogram": 173,
+   "crm desk": 222,
+   "pediatrician": 145,
+   "stroke unit": 94,
+   "gynecologist": 152,
+   "fever treatment": 135,
+   "caring staff": 640
+  },
+  "about": {
+   "Accessibility": [
+    " Wheelchair-accessible car park",
+    " Wheelchair-accessible entrance",
+    " Wheelchair-accessible seating",
+    " Wheelchair-accessible toilet"
+   ],
+   "Service options": [
+    " On-site services"
+   ],
+   "Offerings": [
+    " Medication disposal"
+   ],
+   "Amenities": [
+    " Restroom"
+   ],
+   "Payments": [
+    " Credit cards",
+    " Debit cards",
+    " NFC mobile payments"
+   ],
+   "Parking": [
+    " Free parking lot",
+    " Paid parking lot"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 23599,
+   "4": 1494,
+   "3": 216,
+   "2": 80,
+   "1": 494
+  },
+  "google_profile_gaps": null,
+  "place_id": "ChIJ48G330F1SjoRuNfXahbSwX4",
+  "feature_id": "0x3a4a7541dfb7c1e3:0x7ec1d2166ad7d7b8",
+  "missing_fields": [],
+  "sorted_newest": true,
+  "extract_seconds": 456.8,
+  "error": null,
+  "listing_name": "Aster Ramesh Hospital - Best Multispeciality Hospital in Guntur"
+ },
+ {
+  "listing_position": 65,
+  "name_clean": "Ashuma Polyclinic",
+  "name_raw": "Ashuma Polyclinic",
+  "category": "Hospital department",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "adjacent",
+  "basis": "category_unlisted",
+  "address": "Imam Panja Street, No - 18-19-30 Bara, Ponnur Rd, Lalapet, Guntur, Andhra Pradesh 522003",
+  "plus_code": "7FQ2+5W Guntur, Andhra Pradesh",
+  "phone": "0863 222 4400",
+  "website": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "rating": 4.3,
+  "reviews_total": 72,
+  "reviews_captured": 72,
+  "reviews_coverage": 1.0,
+  "owner_replies": 0,
+  "truncated_reviews": 1,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "9 am to 2 pm, 4 to 10:30 pm",
+   "Friday": "9 am to 2 pm, 4 to 10:30 pm",
+   "Saturday": "9 am to 2 pm, 4 to 10:30 pm",
+   "Sunday": "Closed",
+   "Monday": "9 am to 2 pm, 4 to 10:30 pm",
+   "Tuesday": "9 am to 2 pm, 4 to 10:30 pm",
+   "Wednesday": "9 am to 2 pm, 4 to 10:30 pm"
+  },
+  "topics": {
+   "medical shop": 6,
+   "medical": 3
+  },
+  "about": {
+   "Accessibility": [
+    " Wheelchair-accessible car park",
+    " Wheelchair-accessible entrance"
+   ],
+   "Service options": [
+    " On-site services"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 42,
+   "4": 16,
+   "3": 9,
+   "2": 2,
+   "1": 3
+  },
+  "google_profile_gaps": [
+   "Add website"
+  ],
+  "place_id": "ChIJv8e7djN1SjoRDs5kFNhlCFA",
+  "feature_id": "0x3a4a753376bbc7bf:0x500865d81464ce0e",
+  "missing_fields": [
+   "website"
+  ],
+  "sorted_newest": true,
+  "extract_seconds": 47.2,
+  "error": null,
+  "listing_name": "Ashuma Polyclinic"
+ },
+ {
+  "listing_position": 66,
+  "name_clean": "Conquer Hospital",
+  "name_raw": "Conquer Hospital",
+  "category": "Dental clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "irrelevant",
+  "basis": "category",
+  "address": "DNO: 12-9-23/A, D.N.R hospital, Sivalayam St, Kothapeta, Guntur, Andhra Pradesh 522001",
+  "plus_code": "8C2X+6C Guntur, Andhra Pradesh",
+  "phone": "",
+  "website": "https://conquerhospital.com/",
+  "website_type": "own_domain",
+  "has_own_website": true,
+  "rating": 4.9,
+  "reviews_total": 165,
+  "reviews_captured": 164,
+  "reviews_coverage": 0.994,
+  "owner_replies": 0,
+  "truncated_reviews": 6,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "10 am to 8 pm",
+   "Friday": "10 am to 8 pm",
+   "Saturday": "10 am to 8 pm",
+   "Sunday": "Closed",
+   "Monday": "10 am to 8 pm",
+   "Tuesday": "10 am to 8 pm",
+   "Wednesday": "10 am to 8 pm"
+  },
+  "topics": {
+   "teeth whitening": 4,
+   "hair restoration": 2,
+   "friendly staff": 10,
+   "dental treatment": 5,
+   "equipment": 7,
+   "rakhi": 11,
+   "confident": 3,
+   "doctor": 2,
+   "feel": 7,
+   "skilled": 5
+  },
+  "about": {
+   "Amenities": [
+    " Restroom"
+   ],
+   "Planning": [
+    " Appointments recommended"
+   ],
+   "Payments": [
+    " Debit cards",
+    " NFC mobile payments"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 160,
+   "4": 0,
+   "3": 0,
+   "2": 0,
+   "1": 5
+  },
+  "google_profile_gaps": [
+   "Add place's phone number"
+  ],
+  "place_id": "ChIJofRBVwB1SjoRZzXGz_R-avQ",
+  "feature_id": "0x3a4a75005741f4a1:0xf46a7ef4cfc63567",
+  "missing_fields": [
+   "phone"
+  ],
+  "sorted_newest": true,
+  "extract_seconds": 79.2,
+  "error": null,
+  "listing_name": "Conquer Hospital"
+ },
+ {
+  "listing_position": 67,
+  "name_clean": "Dr. N.V. Ramana Rao",
+  "name_raw": "Dr. N.V. Ramana Rao M.D D.P.M",
+  "category": "Medical clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "adjacent",
+  "basis": "category",
+  "address": "8C3H+844, 18th Cross Rd, 2nd Line, Brodipet, Guntur, Andhra Pradesh 522002",
+  "plus_code": "",
+  "phone": "0863 235 4053",
+  "website": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "rating": 5.0,
+  "reviews_total": 22,
+  "reviews_captured": 22,
+  "reviews_coverage": 1.0,
+  "owner_replies": 0,
+  "truncated_reviews": 0,
+  "has_photos": true,
+  "hours": null,
+  "topics": {
+   "doctor": 2
+  },
+  "about": {
+   "Accessibility": [
+    " Wheelchair-accessible toilet"
+   ],
+   "Amenities": [
+    " Restroom"
+   ],
+   "Planning": [
+    " Appointments recommended"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 21,
+   "4": 1,
+   "3": 0,
+   "2": 0,
+   "1": 0
+  },
+  "google_profile_gaps": [
+   "Add hours",
+   "Add website"
+  ],
+  "place_id": "ChIJ_QR_xWh1SjoRgMUOWTSHruU",
+  "feature_id": "0x3a4a7568c57f04fd:0xe5ae8734590ec580",
+  "missing_fields": [
+   "plus_code",
+   "website",
+   "hours"
+  ],
+  "sorted_newest": true,
+  "extract_seconds": 64.4,
+  "error": null,
+  "listing_name": "Dr. N.V. Ramana Rao M.D D.P.M"
+ },
+ {
+  "listing_position": 68,
+  "name_clean": "AIRA IMAGING & DIAGNOSTIC CENTER LLP",
+  "name_raw": "AIRA IMAGING & DIAGNOSTIC CENTER LLP",
+  "category": "Dermatologist",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "irrelevant",
+  "basis": "name_veto:diagnostic",
+  "address": "D.No, 13-1-3, Old Bank St, Kothapeta, Guntur, Andhra Pradesh 522001",
+  "plus_code": "7FW2+JC Guntur, Andhra Pradesh",
+  "phone": "079972 22277",
+  "website": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "rating": 3.4,
+  "reviews_total": 11,
+  "reviews_captured": 11,
+  "reviews_coverage": 1.0,
+  "owner_replies": 0,
+  "truncated_reviews": 0,
+  "has_photos": true,
+  "hours": null,
+  "topics": {
+   "lab": 3
+  },
+  "about": {
+   "Accessibility": [
+    " Wheelchair-accessible car park",
+    " Wheelchair-accessible entrance",
+    " Wheelchair-accessible toilet"
+   ],
+   "Amenities": [
+    " Restroom"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 5,
+   "4": 2,
+   "3": 0,
+   "2": 0,
+   "1": 4
+  },
+  "google_profile_gaps": [
+   "Add hours",
+   "Add website"
+  ],
+  "place_id": "ChIJCc9_FvV1SjoRTanaLHr5kkU",
+  "feature_id": "0x3a4a75f5167fcf09:0x4592f97a2cdaa94d",
+  "missing_fields": [
+   "website",
+   "hours"
+  ],
+  "sorted_newest": true,
+  "extract_seconds": 47.1,
+  "error": null,
+  "listing_name": "AIRA IMAGING & DIAGNOSTIC CENTER LLP"
+ },
+ {
+  "listing_position": 69,
+  "name_clean": "Sasank Clinic",
+  "name_raw": "Sasank Clinic",
+  "category": "Medical clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "adjacent",
+  "basis": "category",
+  "address": "Anjaneya Pet, 3rd Line, Amravathi Road, Guntur, Andhra Pradesh 522007",
+  "plus_code": "8C8P+GQ Guntur, Andhra Pradesh",
+  "phone": "0863 225 3557",
+  "website": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "rating": 5.0,
+  "reviews_total": 4,
+  "reviews_captured": 4,
+  "reviews_coverage": 1.0,
+  "owner_replies": 0,
+  "truncated_reviews": 0,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "9 am to 10 pm",
+   "Friday": "9 am to 10 pm",
+   "Saturday": "9 am to 10 pm",
+   "Sunday": "9 am to 10 pm",
+   "Monday": "9 am to 10 pm",
+   "Tuesday": "9 am to 10 pm",
+   "Wednesday": "9 am to 10 pm"
+  },
+  "topics": null,
+  "about": {
+   "శశాంక్ క్లినిక్": [
+    "9 am–10 pm"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 4,
+   "4": 0,
+   "3": 0,
+   "2": 0,
+   "1": 0
+  },
+  "google_profile_gaps": [
+   "Add website"
+  ],
+  "place_id": "ChIJ38k5Ql91SjoR1JguXUsbH3k",
+  "feature_id": "0x3a4a755f4239c9df:0x791f1b4b5d2e98d4",
+  "missing_fields": [
+   "website"
+  ],
+  "sorted_newest": true,
+  "extract_seconds": 55.5,
+  "error": null,
+  "listing_name": "Sasank Clinic"
+ },
+ {
+  "listing_position": 70,
+  "name_clean": "Swamy skin clinic",
+  "name_raw": "Swamy skin clinic",
+  "category": "Skin care clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "1st Ln, Nagarampalem, Guntur, Andhra Pradesh 522004",
+  "plus_code": "7CVP+MR Guntur, Andhra Pradesh",
+  "phone": "",
+  "website": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "rating": null,
+  "reviews_total": null,
+  "reviews_captured": 0,
+  "reviews_coverage": null,
+  "owner_replies": 0,
+  "truncated_reviews": 0,
+  "has_photos": false,
+  "hours": null,
+  "topics": null,
+  "about": {
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": null,
+  "google_profile_gaps": [
+   "Add place's phone number",
+   "Add hours",
+   "Add website",
+   "Add a photo"
+  ],
+  "place_id": "ChIJ0SpXTsF1SjoRiRCrQD0I_C4",
+  "feature_id": "0x3a4a75c14e572ad1:0x2efc083d40ab1089",
+  "missing_fields": [
+   "phone",
+   "website",
+   "rating",
+   "reviews_total",
+   "hours",
+   "photos",
+   "reviews"
+  ],
+  "sorted_newest": false,
+  "extract_seconds": 74.3,
+  "error": null,
+  "listing_name": "Swamy skin clinic"
+ },
+ {
+  "listing_position": 71,
+  "name_clean": "Siva Sakthi Vascular & Rheumatology Center",
+  "name_raw": "Siva Sakthi Vascular & Rheumatology Center",
+  "category": "Hospital",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "adjacent",
+  "basis": "category",
+  "address": "12-25-11, 60 Feet Road, near Indian Springs School, opp. to Kugler Hospital Road, Kothapeta, Guntur, Andhra Pradesh 522001",
+  "plus_code": "8F22+J5 Guntur, Andhra Pradesh",
+  "phone": "0863 222 0722",
+  "website": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "rating": 5.0,
+  "reviews_total": 9,
+  "reviews_captured": 9,
+  "reviews_coverage": 1.0,
+  "owner_replies": 9,
+  "truncated_reviews": 0,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "10 am to 6 pm",
+   "Friday": "10 am to 6 pm",
+   "Saturday": "10 am to 6 pm",
+   "Sunday": "Closed",
+   "Monday": "10 am to 6 pm",
+   "Tuesday": "10 am to 6 pm",
+   "Wednesday": "10 am to 6 pm"
+  },
+  "topics": {
+   "patient listening": 2,
+   "friendly": 2,
+   "patient care": 3,
+   "support": 2,
+   "questions": 2,
+   "care": 2
+  },
+  "about": {
+   "Accessibility": [
+    " Wheelchair-accessible car park",
+    " Wheelchair-accessible entrance",
+    " Wheelchair-accessible toilet"
+   ],
+   "Payments": [
+    " NFC mobile payments"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 9,
+   "4": 0,
+   "3": 0,
+   "2": 0,
+   "1": 0
+  },
+  "google_profile_gaps": [
+   "Add website"
+  ],
+  "place_id": "ChIJF0yLXQB1SjoRgGoeY5NAm7w",
+  "feature_id": "0x3a4a75005d8b4c17:0xbc9b4093631e6a80",
+  "missing_fields": [
+   "website"
+  ],
+  "sorted_newest": true,
+  "extract_seconds": 42.4,
+  "error": null,
+  "listing_name": "Siva Sakthi Vascular & Rheumatology Center"
+ },
+ {
+  "listing_position": 72,
+  "name_clean": "Chandsi Clinic",
+  "name_raw": "Chandsi Clinic",
+  "category": "Hospital",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "adjacent",
+  "basis": "category",
+  "address": "VASAN EYE CARE, opposite 4th Lane, beside ABHILASA sweets, Kothapeta, Guntur, Andhra Pradesh 522001",
+  "plus_code": "7CXX+RM Guntur, Andhra Pradesh",
+  "phone": "099660 02007",
+  "website": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "rating": 5.0,
+  "reviews_total": 5,
+  "reviews_captured": 5,
+  "reviews_coverage": 1.0,
+  "owner_replies": 0,
+  "truncated_reviews": 0,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "8:30 am to 12:30 pm, 5 to 8 pm",
+   "Friday": "8:30 am to 12:30 pm, 5 to 8 pm",
+   "Saturday": "8:30 am to 12:30 pm, 5 to 7:30 pm",
+   "Sunday": "8:30 am to 12:30 am",
+   "Monday": "8:30 am to 12:30 pm, 5 to 8 pm",
+   "Tuesday": "8:30 am to 12:30 pm, 5 to 8 pm",
+   "Wednesday": "8:30 am to 12:30 pm, 5 to 8 pm"
+  },
+  "topics": {
+   "piles treatment": 2,
+   "patience": 2,
+   "piles": 2
+  },
+  "about": {
+   "చంద్సి క్లినిక్": [
+    "8:30 am–12:30 pm",
+    "5–8 pm",
+    "5–7:30 pm",
+    "8:30 am–12:30 am"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 5,
+   "4": 0,
+   "3": 0,
+   "2": 0,
+   "1": 0
+  },
+  "google_profile_gaps": [
+   "Add website"
+  ],
+  "place_id": "ChIJXVXw-kt1SjoRZ_KB3Tisews",
+  "feature_id": "0x3a4a754bfaf0555d:0xb7bac38dd81f267",
+  "missing_fields": [
+   "website"
+  ],
+  "sorted_newest": true,
+  "extract_seconds": 56.8,
+  "error": null,
+  "listing_name": "Chandsi Clinic"
+ },
+ {
+  "listing_position": 73,
+  "name_clean": "Mounica Clinic",
+  "name_raw": "Mounica Clinic",
+  "category": "Fertility clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "adjacent",
+  "basis": "category_unlisted",
+  "address": "GYNECOLOGIST AND OBSTERITRICIAN, K.Swarupa rani, Kanna Vari Thota, Guntur, Andhra Pradesh 522004",
+  "plus_code": "7CVP+XV Guntur, Andhra Pradesh",
+  "phone": "0863 224 1387",
+  "website": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "rating": 5.0,
+  "reviews_total": 13,
+  "reviews_captured": 13,
+  "reviews_coverage": 1.0,
+  "owner_replies": 0,
+  "truncated_reviews": 1,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "Open 24 hours",
+   "Friday": "Open 24 hours",
+   "Saturday": "Open 24 hours",
+   "Sunday": "Open 24 hours",
+   "Monday": "Open 24 hours",
+   "Tuesday": "Open 24 hours",
+   "Wednesday": "Open 24 hours"
+  },
+  "topics": null,
+  "about": {
+   "Service options": [
+    " On-site services"
+   ],
+   "Amenities": [
+    " Restroom"
+   ],
+   "Payments": [
+    " NFC mobile payments"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 13,
+   "4": 0,
+   "3": 0,
+   "2": 0,
+   "1": 0
+  },
+  "google_profile_gaps": [
+   "Add website"
+  ],
+  "place_id": "ChIJW4iDvEB1SjoRSKG_yfLQ4JA",
+  "feature_id": "0x3a4a7540bc83885b:0x90e0d0f2c9bfa148",
+  "missing_fields": [
+   "website"
+  ],
+  "sorted_newest": true,
+  "extract_seconds": 40.6,
+  "error": null,
+  "listing_name": "Mounica Clinic"
+ },
+ {
+  "listing_position": 74,
+  "name_clean": "KRUPA DENTAL CLINIC(Digital Implantology Centre)",
+  "name_raw": "KRUPA DENTAL CLINIC(Digital Implantology Centre)",
+  "category": "Dental clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "irrelevant",
+  "basis": "name_veto:dental",
+  "address": "Arch and Bus Stop Medical Hostel centre, Amaravathi Rd, opposite Velangini nagar, Gauthami Nagar, Guntur, Andhra Pradesh 522007",
+  "plus_code": "8CCP+HX Guntur, Andhra Pradesh",
+  "phone": "099499 29477",
+  "website": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "rating": 4.9,
+  "reviews_total": 43,
+  "reviews_captured": 43,
+  "reviews_coverage": 1.0,
+  "owner_replies": 34,
+  "truncated_reviews": 1,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "9:30 am to 9:30 pm",
+   "Friday": "9:30 am to 9:30 pm",
+   "Saturday": "9:30 am to 9:30 pm",
+   "Sunday": "Closed",
+   "Monday": "9:30 am to 9:30 pm",
+   "Tuesday": "9:30 am to 9:30 pm",
+   "Wednesday": "9:30 am to 9:30 pm"
+  },
+  "topics": {
+   "low cost": 3,
+   "experienced dentist": 5,
+   "kind and polite staff": 2,
+   "post treatment care": 2,
+   "friendly doctor": 5,
+   "painless treatment": 3,
+   "comfortable environment": 3,
+   "root canal treatment": 3,
+   "skilled doctor": 3,
+   "clear explanations": 2
+  },
+  "about": {
+   "కృపా డెంటల్ క్లినిక్": [
+    "9:30 am–9:30 pm",
+    "Closed"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 40,
+   "4": 1,
+   "3": 1,
+   "2": 1,
+   "1": 0
+  },
+  "google_profile_gaps": [
+   "Add website"
+  ],
+  "place_id": "ChIJkUnz-aOKNToRWhPSQZ8aGdE",
+  "feature_id": "0x3a358aa3f9f34991:0xd1191a9f41d2135a",
+  "missing_fields": [
+   "website"
+  ],
+  "sorted_newest": true,
+  "extract_seconds": 60.5,
+  "error": null,
+  "listing_name": "KRUPA DENTAL CLINIC(Digital Implantology Centre)"
+ },
+ {
+  "listing_position": 75,
+  "name_clean": "Giridhar Dental Clinic",
+  "name_raw": "Giridhar Dental Clinic",
+  "category": "Dental clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "irrelevant",
+  "basis": "name_veto:dental",
+  "address": "Door no.20, Chowtra center, 1-8, Seelam Vari St, near Ramalayam, Nuka, Lalapet, Guntur, Andhra Pradesh 522003",
+  "plus_code": "7CQX+7G Guntur, Andhra Pradesh",
+  "phone": "096032 29899",
+  "website": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "rating": 4.9,
+  "reviews_total": 28,
+  "reviews_captured": 28,
+  "reviews_coverage": 1.0,
+  "owner_replies": 17,
+  "truncated_reviews": 3,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "10 am to 2 pm, 4 to 9 pm",
+   "Friday": "10 am to 2 pm, 4 to 9 pm",
+   "Saturday": "10 am to 2 pm, 4 to 9 pm",
+   "Sunday": "10 am to 2 pm",
+   "Monday": "10 am to 2 pm, 4 to 9 pm",
+   "Tuesday": "10 am to 2 pm, 4 to 9 pm",
+   "Wednesday": "10 am to 2 pm, 4 to 9 pm"
+  },
+  "topics": {
+   "painless treatment": 2,
+   "dental care": 5,
+   "treatment": 5
+  },
+  "about": {
+   "Planning": [
+    " Appointments recommended"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 27,
+   "4": 0,
+   "3": 1,
+   "2": 0,
+   "1": 0
+  },
+  "google_profile_gaps": [
+   "Add website"
+  ],
+  "place_id": "ChIJ457DfMJ1SjoRz8CBCNwP_fs",
+  "feature_id": "0x3a4a75c27cc39ee3:0xfbfd0fdc0881c0cf",
+  "missing_fields": [
+   "website"
+  ],
+  "sorted_newest": true,
+  "extract_seconds": 43.0,
+  "error": null,
+  "listing_name": "Giridhar Dental Clinic"
+ },
+ {
+  "listing_position": 76,
+  "name_clean": "Sunrise dental care",
+  "name_raw": "Sunrise dental care",
+  "category": "Dentist",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "irrelevant",
+  "basis": "name_veto:dental",
+  "address": "6 th line, JKC College Rd, Vijayapuri Colony, Guntur, Andhra Pradesh 522006",
+  "plus_code": "8CG9+V8 Guntur, Andhra Pradesh",
+  "phone": "093927 53531",
+  "website": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "rating": 5.0,
+  "reviews_total": 145,
+  "reviews_captured": 145,
+  "reviews_coverage": 1.0,
+  "owner_replies": 4,
+  "truncated_reviews": 10,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "10 am to 9 pm",
+   "Friday": "10 am to 9 pm",
+   "Saturday": "10 am to 9 pm",
+   "Sunday": "10 am to 9 pm",
+   "Monday": "10 am to 9 pm",
+   "Tuesday": "10 am to 9 pm",
+   "Wednesday": "10 am to 9 pm"
+  },
+  "topics": {
+   "dental implant": 7,
+   "root canal treatment": 10,
+   "wisdom tooth removal": 6,
+   "painless procedure": 12,
+   "smooth procedure": 7,
+   "smile designing": 2,
+   "PRP": 3,
+   "hygiene": 13,
+   "dental extraction": 6,
+   "compassionate approach": 3
+  },
+  "about": {
+   "Amenities": [
+    " Restroom"
+   ],
+   "Planning": [
+    " Appointment required",
+    " Appointments recommended"
+   ],
+   "Payments": [
+    " NFC mobile payments"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 143,
+   "4": 1,
+   "3": 0,
+   "2": 0,
+   "1": 1
+  },
+  "google_profile_gaps": [
+   "Add website"
+  ],
+  "place_id": "ChIJPbEPUbGLNToRG_FmYlEd_0A",
+  "feature_id": "0x3a358bb1510fb13d:0x40ff1d516266f11b",
+  "missing_fields": [
+   "website"
+  ],
+  "sorted_newest": true,
+  "extract_seconds": 55.9,
+  "error": null,
+  "listing_name": "Sunrise dental care"
+ },
+ {
+  "listing_position": 77,
+  "name_clean": "NDC Nagarjuna Dental Clinic",
+  "name_raw": "NDC Nagarjuna Dental Clinic",
+  "category": "Dental clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "irrelevant",
+  "basis": "name_veto:dental",
+  "address": "upstairs, Nayar Hotel Center, Lakshmipuram , airtel store, opposite Ande Silks, Guntur, Andhra Pradesh 522007",
+  "plus_code": "8C6G+MP Guntur, Andhra Pradesh",
+  "phone": "081858 88882",
+  "website": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "rating": 5.0,
+  "reviews_total": 48,
+  "reviews_captured": 48,
+  "reviews_coverage": 1.0,
+  "owner_replies": 14,
+  "truncated_reviews": 2,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "10 am to 9 pm",
+   "Friday": "10 am to 9 pm",
+   "Saturday": "10 am to 9 pm",
+   "Sunday": "10 am to 2 pm",
+   "Monday": "10 am to 9 pm",
+   "Tuesday": "10 am to 9 pm",
+   "Wednesday": "10 am to 9 pm"
+  },
+  "topics": {
+   "root canal treatment": 2,
+   "doctor care": 5,
+   "hospitality": 2,
+   "friendly staff": 4,
+   "treatment": 8
+  },
+  "about": {
+   "Accessibility": [
+    " Wheelchair-accessible seating",
+    " Wheelchair-accessible toilet"
+   ],
+   "Service options": [
+    " On-site services"
+   ],
+   "Amenities": [
+    " Restroom"
+   ],
+   "Crowd": [
+    " LGBTQ+ friendly"
+   ],
+   "Planning": [
+    " Appointments recommended"
+   ],
+   "Payments": [
+    " Google Pay",
+    " NFC mobile payments"
+   ],
+   "Children": [
+    " Nursing room"
+   ],
+   "Parking": [
+    " Free parking garage",
+    " Free parking lot",
+    " Free street parking"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 47,
+   "4": 1,
+   "3": 0,
+   "2": 0,
+   "1": 0
+  },
+  "google_profile_gaps": [
+   "Add website"
+  ],
+  "place_id": "ChIJCWvyea51SjoRXYMh-s9Nn4Y",
+  "feature_id": "0x3a4a75ae79f26b09:0x869f4dcffa21835d",
+  "missing_fields": [
+   "website"
+  ],
+  "sorted_newest": true,
+  "extract_seconds": 43.8,
+  "error": null,
+  "listing_name": "NDC Nagarjuna Dental Clinic"
+ },
+ {
+  "listing_position": 78,
+  "name_clean": "JBR Health Clinic",
+  "name_raw": "JBR Health Clinic",
+  "category": "Hospital",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "adjacent",
+  "basis": "category",
+  "address": "Anandapet, 6, th, Guntur, Andhra Pradesh 522003",
+  "plus_code": "7FP3+F4 Guntur, Andhra Pradesh",
+  "phone": "088862 95566",
+  "website": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "rating": 3.2,
+  "reviews_total": 13,
+  "reviews_captured": 13,
+  "reviews_coverage": 1.0,
+  "owner_replies": 1,
+  "truncated_reviews": 0,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "9 am to 9 pm",
+   "Friday": "9 am to 9 pm",
+   "Saturday": "9 am to 9 pm",
+   "Sunday": "Closed",
+   "Monday": "9 am to 9 pm",
+   "Tuesday": "9 am to 9 pm",
+   "Wednesday": "9 am to 9 pm"
+  },
+  "topics": null,
+  "about": {
+   "Accessibility": [
+    " Wheelchair-accessible car park"
+   ],
+   "Amenities": [
+    " Gender-neutral toilets"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 6,
+   "4": 1,
+   "3": 0,
+   "2": 1,
+   "1": 5
+  },
+  "google_profile_gaps": [
+   "Add website"
+  ],
+  "place_id": "ChIJPRkaia51SjoR3GD6sMZLy-8",
+  "feature_id": "0x3a4a75ae891a193d:0xefcb4bc6b0fa60dc",
+  "missing_fields": [
+   "website"
+  ],
+  "sorted_newest": true,
+  "extract_seconds": 41.6,
+  "error": null,
+  "listing_name": "JBR Health Clinic"
+ },
+ {
+  "listing_position": 79,
+  "name_clean": "Kiran Poly Clinic",
+  "name_raw": "Kiran Poly Clinic",
+  "category": "Women's health clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "adjacent",
+  "basis": "category_unlisted",
+  "address": "Sri Ram Nagar Main Rd, Sri Ram Nagar, Ananda Theertha Agraharam, Guntur, Andhra Pradesh 522004",
+  "plus_code": "8C2C+63 Guntur, Andhra Pradesh",
+  "phone": "0863 235 2078",
+  "website": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "rating": 4.3,
+  "reviews_total": 15,
+  "reviews_captured": 15,
+  "reviews_coverage": 1.0,
+  "owner_replies": 0,
+  "truncated_reviews": 1,
+  "has_photos": true,
+  "hours": null,
+  "topics": null,
+  "about": {
+   "Accessibility": [
+    " Wheelchair-accessible car park",
+    " Wheelchair-accessible entrance",
+    " Wheelchair-accessible toilet"
+   ],
+   "Amenities": [
+    " Restroom"
+   ],
+   "Planning": [
+    " Appointments recommended"
+   ],
+   "Payments": [
+    " NFC mobile payments"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 11,
+   "4": 1,
+   "3": 1,
+   "2": 0,
+   "1": 2
+  },
+  "google_profile_gaps": [
+   "Add hours",
+   "Add website"
+  ],
+  "place_id": "ChIJDa2slHF1SjoRIK6SbS4qJeA",
+  "feature_id": "0x3a4a757194acad0d:0xe0252a2e6d92ae20",
+  "missing_fields": [
+   "website",
+   "hours"
+  ],
+  "sorted_newest": true,
+  "extract_seconds": 46.9,
+  "error": null,
+  "listing_name": "Kiran Poly Clinic"
+ },
+ {
+  "listing_position": 80,
+  "name_clean": "St. Joseph General Hospital",
+  "name_raw": "St. Joseph General Hospital",
+  "category": "General hospital",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "adjacent",
+  "basis": "category",
+  "address": "OPPOSITE, AC College Rd, Opp. AC College, Kanna Vari Thota, Guntur, Andhra Pradesh 522004",
+  "plus_code": "7CXR+2F Guntur, Andhra Pradesh",
+  "phone": "0863 232 2700",
+  "website": "https://www.stjosephhospitalgnt.com/",
+  "website_type": "own_domain",
+  "has_own_website": true,
+  "rating": 4.3,
+  "reviews_total": 808,
+  "reviews_captured": 808,
+  "reviews_coverage": 1.0,
+  "owner_replies": 0,
+  "truncated_reviews": 72,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "Open 24 hours",
+   "Friday": "Open 24 hours",
+   "Saturday": "Open 24 hours",
+   "Sunday": "Open 24 hours",
+   "Monday": "Open 24 hours",
+   "Tuesday": "Open 24 hours",
+   "Wednesday": "Open 24 hours"
+  },
+  "topics": {
+   "maternity care": 16,
+   "dialysis": 8,
+   "c section": 15,
+   "caring staff": 36,
+   "discharge advice": 4,
+   "family atmosphere": 14,
+   "cleanliness": 37,
+   "junior doctors": 5,
+   "diet education": 6,
+   "general ward": 8
+  },
+  "about": {
+   "Accessibility": [
+    " Wheelchair-accessible car park",
+    " Wheelchair-accessible entrance",
+    " Wheelchair-accessible toilet"
+   ],
+   "Amenities": [
+    " Restroom"
+   ],
+   "Payments": [
+    " Credit cards",
+    " Debit cards",
+    " NFC mobile payments"
+   ],
+   "Parking": [
+    " Free parking lot",
+    " Paid parking lot"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 616,
+   "4": 56,
+   "3": 20,
+   "2": 14,
+   "1": 102
+  },
+  "google_profile_gaps": null,
+  "place_id": "ChIJye-W_kZ1SjoRK0olciz4Sj0",
+  "feature_id": "0x3a4a7546fe96efc9:0x3d4af82c72254a2b",
+  "missing_fields": [],
+  "sorted_newest": true,
+  "extract_seconds": 179.0,
+  "error": null,
+  "listing_name": "St. Joseph General Hospital"
+ },
+ {
+  "listing_position": 81,
+  "name_clean": "Dr Vamsi Multispeciality Homeopathic Hospitals",
+  "name_raw": "Dr Vamsi Multispeciality Homeopathic Hospitals",
+  "category": "Homeopath",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "adjacent",
+  "basis": "category",
+  "address": "SHOP NO.7, FIRST FLOOR, Doctors Plaza, YEDAVALLI, Seelam Vari St, opposite ADARSHA HOSPITALS, Kothapeta, Guntur, Andhra Pradesh 522001",
+  "plus_code": "7CXX+CW Guntur, Andhra Pradesh",
+  "phone": "088266 68133",
+  "website": "https://sites.google.com/view/vamsihomeopathy/home",
+  "website_type": "google_business_site",
+  "has_own_website": true,
+  "rating": 5.0,
+  "reviews_total": 24,
+  "reviews_captured": 0,
+  "reviews_coverage": 0.0,
+  "owner_replies": 0,
+  "truncated_reviews": 0,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "2 to 2:30 pm",
+   "Friday": "2 to 2:30 pm",
+   "Saturday": "2 to 2:30 pm",
+   "Sunday": "2 to 2:30 pm",
+   "Monday": "2 to 2:30 pm",
+   "Tuesday": "2 to 2:30 pm",
+   "Wednesday": "2 to 2:30 pm"
+  },
+  "topics": {
+   "advanced homeopathy treatment": 5,
+   "skin allergy": 2,
+   "experienced doctor": 4,
+   "chronic": 2,
+   "effective medicine": 2,
+   "nature": 2,
+   "suffering": 2,
+   "doctor": 5,
+   "arthritis": 2,
+   "sir": 10
+  },
+  "about": {
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 24,
+   "4": 0,
+   "3": 0,
+   "2": 0,
+   "1": 0
+  },
+  "google_profile_gaps": null,
+  "place_id": "ChIJq-3suZp1SjoR2HsAGrTtOIs",
+  "feature_id": "0x3a4a759ab9ecedab:0x8b38edb41a007bd8",
+  "missing_fields": [
+   "reviews"
+  ],
+  "sorted_newest": false,
+  "extract_seconds": 40.9,
+  "error": null,
+  "listing_name": "Dr Vamsi Multispeciality Homeopathic Hospitals"
+ },
+ {
+  "listing_position": 82,
+  "name_clean": "ADITRI Dental Clinic",
+  "name_raw": "ADITRI Dental Clinic",
+  "category": "Dental clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "irrelevant",
+  "basis": "name_veto:dental",
+  "address": "First floor, Sree plaza, Brindavan Gardens Main Rd, above SBI PBB branch, Brindavan Gardens, Guntur, Andhra Pradesh 522006",
+  "plus_code": "8C7C+C4 Guntur, Andhra Pradesh",
+  "phone": "093903 82852",
+  "website": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "rating": 4.9,
+  "reviews_total": 17,
+  "reviews_captured": 17,
+  "reviews_coverage": 1.0,
+  "owner_replies": 14,
+  "truncated_reviews": 0,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "9:30 am to 9 pm",
+   "Friday": "9:30 am to 9 pm",
+   "Saturday": "9:30 am to 9 pm",
+   "Sunday": "9:30 am to 9 pm",
+   "Monday": "9:30 am to 9 pm",
+   "Tuesday": "9:30 am to 9 pm",
+   "Wednesday": "9:30 am to 9 pm"
+  },
+  "topics": {
+   "caring doctors": 5,
+   "problem explanation": 2,
+   "treatment": 5,
+   "dental care": 2
+  },
+  "about": {
+   "Accessibility": [
+    " Wheelchair-accessible entrance",
+    " Wheelchair-accessible seating",
+    " Wheelchair-accessible toilet"
+   ],
+   "Amenities": [
+    " Gender-neutral toilets",
+    " Restroom"
+   ],
+   "Planning": [
+    " Appointment required",
+    " Appointments recommended"
+   ],
+   "Payments": [
+    " Google Pay",
+    " NFC mobile payments"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 16,
+   "4": 1,
+   "3": 0,
+   "2": 0,
+   "1": 0
+  },
+  "google_profile_gaps": [
+   "Add website"
+  ],
+  "place_id": "ChIJVY0ObZJ1SjoRrifbGzAl2fQ",
+  "feature_id": "0x3a4a75926d0e8d55:0xf4d925301bdb27ae",
+  "missing_fields": [
+   "website"
+  ],
+  "sorted_newest": true,
+  "extract_seconds": 42.0,
+  "error": null,
+  "listing_name": "ADITRI Dental Clinic"
+ },
+ {
+  "listing_position": 83,
+  "name_clean": "Sri Sai Hospitals",
+  "name_raw": "Sri Sai Hospitals",
+  "category": "Hospital",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "adjacent",
+  "basis": "category",
+  "address": "5/2, Ankamma Nagar, Sali Pet, Arundelpet, Guntur, Andhra Pradesh 522002",
+  "plus_code": "8C3R+GH Guntur, Andhra Pradesh",
+  "phone": "0863 223 4963",
+  "website": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "rating": 2.8,
+  "reviews_total": 34,
+  "reviews_captured": 34,
+  "reviews_coverage": 1.0,
+  "owner_replies": 0,
+  "truncated_reviews": 0,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "Open 24 hours",
+   "Friday": "Open 24 hours",
+   "Saturday": "Open 24 hours",
+   "Sunday": "Open 24 hours",
+   "Monday": "Open 24 hours",
+   "Tuesday": "Open 24 hours",
+   "Wednesday": "Open 24 hours"
+  },
+  "topics": {
+   "money": 3,
+   "treatment": 3
+  },
+  "about": {
+   "Accessibility": [
+    " Wheelchair-accessible car park",
+    " Wheelchair-accessible entrance"
+   ],
+   "Payments": [
+    " Debit cards",
+    " NFC mobile payments"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 10,
+   "4": 5,
+   "3": 2,
+   "2": 1,
+   "1": 16
+  },
+  "google_profile_gaps": [
+   "Add website"
+  ],
+  "place_id": "ChIJXzRfZkN1SjoR5pJjyIeCZ1g",
+  "feature_id": "0x3a4a7543665f345f:0x58678287c86392e6",
+  "missing_fields": [
+   "website"
+  ],
+  "sorted_newest": true,
+  "extract_seconds": 43.9,
+  "error": null,
+  "listing_name": "Sri Sai Hospitals"
+ },
+ {
+  "listing_position": 84,
+  "name_clean": "Dr Seetharam K A",
+  "name_raw": "Dr Seetharam K A",
+  "category": "Dermatologist",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "1st Floor, Doctors Plaza, Kothapeta, Guntur, Andhra Pradesh 522001",
+  "plus_code": "7CXX+9V Guntur, Andhra Pradesh",
+  "phone": "0863 222 0512",
+  "website": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "rating": 3.9,
+  "reviews_total": 98,
+  "reviews_captured": 98,
+  "reviews_coverage": 1.0,
+  "owner_replies": 0,
+  "truncated_reviews": 2,
+  "has_photos": true,
+  "hours": null,
+  "topics": {
+   "experience doctor": 2,
+   "behaviour": 5,
+   "treatment": 4,
+   "receptionist": 2,
+   "hospital": 5,
+   "itching": 2,
+   "phone": 3,
+   "doctor": 7,
+   "skin doctor": 2
+  },
+  "about": {
+   "Amenities": [
+    " Restroom"
+   ],
+   "Planning": [
+    " Appointment required"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 59,
+   "4": 13,
+   "3": 5,
+   "2": 0,
+   "1": 21
+  },
+  "google_profile_gaps": [
+   "Add hours",
+   "Add website"
+  ],
+  "place_id": "ChIJaa5h2Ut1SjoRR10OrottjAI",
+  "feature_id": "0x3a4a754bd961ae69:0x28c6d8bae0e5d47",
+  "missing_fields": [
+   "website",
+   "hours"
+  ],
+  "sorted_newest": true,
+  "extract_seconds": 50.4,
+  "error": null,
+  "listing_name": "Dr Seetharam K A"
+ },
+ {
+  "listing_position": 85,
+  "name_clean": "cure&care polyclinic",
+  "name_raw": "cure&care polyclinic",
+  "category": "Medical clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "adjacent",
+  "basis": "category",
+  "address": "5-35-12, 3/18, Brodipet, Guntur, Andhra Pradesh 522002",
+  "plus_code": "8C3H+GC Guntur, Andhra Pradesh",
+  "phone": "099498 81367",
+  "website": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "rating": 2.3,
+  "reviews_total": 3,
+  "reviews_captured": 3,
+  "reviews_coverage": 1.0,
+  "owner_replies": 0,
+  "truncated_reviews": 0,
+  "has_photos": true,
+  "hours": null,
+  "topics": null,
+  "about": {
+   "Accessibility": [
+    " Wheelchair-accessible car park"
+   ],
+   "Amenities": [
+    " Restroom"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 1,
+   "4": 0,
+   "3": 0,
+   "2": 0,
+   "1": 2
+  },
+  "google_profile_gaps": [
+   "Add hours",
+   "Add website"
+  ],
+  "place_id": "ChIJ6Tuy6mh1SjoRV0-Gb-WapAE",
+  "feature_id": "0x3a4a7568eab23be9:0x1a49ae56f864f57",
+  "missing_fields": [
+   "website",
+   "hours"
+  ],
+  "sorted_newest": true,
+  "extract_seconds": 46.8,
+  "error": null,
+  "listing_name": "cure&care polyclinic"
+ },
+ {
+  "listing_position": 86,
+  "name_clean": "Dermo Care The Complete Skin Clinic",
+  "name_raw": "Dermo Care The Complete Skin Clinic",
+  "category": "Dermatologist",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "33-25-34B, Puspha Hotel Rd, New Giri Puram, Suryaraopeta, Vijayawada, Andhra Pradesh 520002",
+  "plus_code": "GJ6Q+RF Vijayawada, Andhra Pradesh",
+  "phone": "095022 50555",
+  "website": "http://www.dermocareskinclinic.com/",
+  "website_type": "own_domain",
+  "has_own_website": true,
+  "rating": 4.3,
+  "reviews_total": 137,
+  "reviews_captured": 0,
+  "reviews_coverage": 0.0,
+  "owner_replies": 0,
+  "truncated_reviews": 0,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "9 am to 9 pm",
+   "Friday": "9 am to 9 pm",
+   "Saturday": "9 am to 9 pm",
+   "Sunday": "Closed",
+   "Monday": "9 am to 9 pm",
+   "Tuesday": "9 am to 9 pm",
+   "Wednesday": "9 am to 9 pm"
+  },
+  "topics": {
+   "hairloss treatment": 4,
+   "pigmentation treatment": 3,
+   "scalp problem treatment": 2,
+   "prp": 3,
+   "dermo care": 4,
+   "acne treatment": 9,
+   "fast results": 2,
+   "confidence building": 2,
+   "experienced staff": 2,
+   "hair problems": 7
+  },
+  "about": {
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 108,
+   "4": 7,
+   "3": 1,
+   "2": 0,
+   "1": 21
+  },
+  "google_profile_gaps": null,
+  "place_id": "ChIJQbNrpKz6NToRIZdyzkkI6ec",
+  "feature_id": "0x3a35faaca46bb341:0xe7e90849ce729721",
+  "missing_fields": [
+   "reviews"
+  ],
+  "sorted_newest": false,
+  "extract_seconds": 40.9,
+  "error": null,
+  "listing_name": "Dermo Care The Complete Skin Clinic"
+ },
+ {
+  "listing_position": 87,
+  "name_clean": "Dr Ushma Skin and Hair Clinic",
+  "name_raw": "Dr Ushma Skin and Hair Clinic",
+  "category": "Skin care clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "Pushpa Hotel Center, 33-25-33B, Bellapu Sobhanadri St, beside Orange Diagnostics, New Giri Puram, Suryaraopeta, Vijayawada, Andhra Pradesh 520002",
+  "plus_code": "GJ6Q+MC Vijayawada, Andhra Pradesh",
+  "phone": "090103 46677",
+  "website": "https://drushmaskinhair.com/",
+  "website_type": "own_domain",
+  "has_own_website": true,
+  "rating": 4.7,
+  "reviews_total": 619,
+  "reviews_captured": 619,
+  "reviews_coverage": 1.0,
+  "owner_replies": 93,
+  "truncated_reviews": 43,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "Open 24 hours",
+   "Friday": "Open 24 hours",
+   "Saturday": "Open 24 hours",
+   "Sunday": "Open 24 hours",
+   "Monday": "Open 24 hours",
+   "Tuesday": "Open 24 hours",
+   "Wednesday": "Open 24 hours"
+  },
+  "topics": {
+   "hair loss treatment": 30,
+   "prp treatment": 13,
+   "dermatologist": 29,
+   "hair transplantation": 5,
+   "allergy treatment": 13,
+   "pigmentation treatment": 6,
+   "ear lobe surgery": 2,
+   "dandruff treatment": 3,
+   "acne treatment": 14,
+   "fungal infection treatment": 2
+  },
+  "about": {
+   "Accessibility": [
+    " Wheelchair-accessible car park",
+    " Wheelchair-accessible entrance",
+    " Wheelchair-accessible seating"
+   ],
+   "Amenities": [
+    " Restroom"
+   ],
+   "Planning": [
+    " Appointment required",
+    " Appointments recommended"
+   ],
+   "Payments": [
+    " Google Pay",
+    " NFC mobile payments"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 545,
+   "4": 27,
+   "3": 1,
+   "2": 3,
+   "1": 43
+  },
+  "google_profile_gaps": null,
+  "place_id": "ChIJibWw5VP7NToRb9LdcRfpwUA",
+  "feature_id": "0x3a35fb53e5b0b589:0x40c1e91771ddd26f",
+  "missing_fields": [],
+  "sorted_newest": true,
+  "extract_seconds": 114.4,
+  "error": null,
+  "listing_name": "Dr Ushma Skin and Hair Clinic"
+ },
+ {
+  "listing_position": 88,
+  "name_clean": "Care 32 Dental Center",
+  "name_raw": "Care 32 Dental Center",
+  "category": "Dental clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "irrelevant",
+  "basis": "name_veto:dental",
+  "address": "7FX3+H52, Old Club Rd, opposite Dr.agarwal eye Hospital, Coastal Andhra Region, Kothapeta, Guntur, Andhra Pradesh 522001",
+  "plus_code": "",
+  "phone": "0863 221 9843",
+  "website": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "rating": 5.0,
+  "reviews_total": 6,
+  "reviews_captured": 6,
+  "reviews_coverage": 1.0,
+  "owner_replies": 0,
+  "truncated_reviews": 0,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "10 am to 9 pm",
+   "Friday": "10 am to 9 pm",
+   "Saturday": "10 am to 9 pm",
+   "Sunday": "Closed",
+   "Monday": "10 am to 9 pm",
+   "Tuesday": "10 am to 9 pm",
+   "Wednesday": "10 am to 9 pm"
+  },
+  "topics": null,
+  "about": {
+   "Planning": [
+    " Appointments recommended"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 6,
+   "4": 0,
+   "3": 0,
+   "2": 0,
+   "1": 0
+  },
+  "google_profile_gaps": [
+   "Add website"
+  ],
+  "place_id": "ChIJn1l7Ekt1SjoR-vm3MLDZOWE",
+  "feature_id": "0x3a4a754b127b599f:0x6139d9b030b7f9fa",
+  "missing_fields": [
+   "plus_code",
+   "website"
+  ],
+  "sorted_newest": true,
+  "extract_seconds": 55.5,
+  "error": null,
+  "listing_name": "Care 32 Dental Center"
+ },
+ {
+  "listing_position": 89,
+  "name_clean": "Vasavi skin hair laser clinic",
+  "name_raw": "Vasavi skin hair laser clinic",
+  "category": "Skin care clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "Lakshmi theatre line, Prakasam Rd, opp. Dr vangga sambhi Reddy hospital Devi hospital, opp. Tenali, Ganganamma Peta, Ramalingeswara Pet, Tenali, Andhra Pradesh 522201",
+  "plus_code": "6JVW+6V Tenali, Andhra Pradesh",
+  "phone": "063092 46666",
+  "website": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "rating": 4.8,
+  "reviews_total": 471,
+  "reviews_captured": 471,
+  "reviews_coverage": 1.0,
+  "owner_replies": 84,
+  "truncated_reviews": 17,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "8 am to 9 pm",
+   "Friday": "8 am to 9 pm",
+   "Saturday": "8 am to 9 pm",
+   "Sunday": "8 am to 1:30 pm",
+   "Monday": "8 am to 9 pm",
+   "Tuesday": "8 am to 9 pm",
+   "Wednesday": "8 am to 9 pm"
+  },
+  "topics": {
+   "hair treatment": 34,
+   "fungal infection treatment": 5,
+   "dandruff treatment": 4,
+   "hair fall treatment": 4,
+   "prp treatment": 2,
+   "psoriasis treatment": 2,
+   "keloid treatment": 2,
+   "hair results": 10,
+   "hair restoration": 3,
+   "laser treatment": 3
+  },
+  "about": {
+   "Accessibility": [
+    " Wheelchair-accessible seating",
+    " Wheelchair-accessible toilet"
+   ],
+   "From the business": [
+    " Identifies as women-owned"
+   ],
+   "Amenities": [
+    " Gender-neutral toilets",
+    " Restroom"
+   ],
+   "Crowd": [
+    " LGBTQ+ friendly"
+   ],
+   "Planning": [
+    " Appointments recommended"
+   ],
+   "Payments": [
+    " Google Pay",
+    " NFC mobile payments"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 431,
+   "4": 20,
+   "3": 4,
+   "2": 3,
+   "1": 13
+  },
+  "google_profile_gaps": [
+   "Add website"
+  ],
+  "place_id": "ChIJoUH2fT4HSjoRPgheKL8Mzvk",
+  "feature_id": "0x3a4a073e7df641a1:0xf9ce0cbf285e083e",
+  "missing_fields": [
+   "website"
+  ],
+  "sorted_newest": true,
+  "extract_seconds": 95.9,
+  "error": null,
+  "listing_name": "Vasavi skin hair laser clinic"
+ },
+ {
+  "listing_position": 90,
+  "name_clean": "Haritha Skin Clinic",
+  "name_raw": "Haritha Skin Clinic",
+  "category": "Skin care clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "29-22-5, Narasimharao Naidu St, Suryaraopeta, Governor Peta, Vijayawada, Andhra Pradesh 520002",
+  "plus_code": "GJ6M+WR Vijayawada, Andhra Pradesh",
+  "phone": "090529 88666",
+  "website": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "rating": 4.9,
+  "reviews_total": 108,
+  "reviews_captured": 108,
+  "reviews_coverage": 1.0,
+  "owner_replies": 38,
+  "truncated_reviews": 9,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "10 am to 2 pm, 6 to 9 pm",
+   "Friday": "10 am to 2 pm, 6 to 9 pm",
+   "Saturday": "10 am to 2 pm, 6 to 9 pm",
+   "Sunday": "Closed",
+   "Monday": "10 am to 2 pm, 6 to 9 pm",
+   "Tuesday": "10 am to 2 pm, 6 to 9 pm",
+   "Wednesday": "6 to 9 pm"
+  },
+  "topics": {
+   "derma issues": 5,
+   "pimples treatment": 3,
+   "laser mole removal": 2,
+   "dermatologist": 7,
+   "dark spot treatment": 2,
+   "skin whitening": 2,
+   "chemical peel": 2,
+   "hair loss treatment": 2,
+   "quick results": 2,
+   "clear explanations": 2
+  },
+  "about": {
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 105,
+   "4": 1,
+   "3": 0,
+   "2": 0,
+   "1": 2
+  },
+  "google_profile_gaps": [
+   "Add website"
+  ],
+  "place_id": "ChIJkUvLw-v7NToReUpeQQGglL0",
+  "feature_id": "0x3a35fbebc3cb4b91:0xbd94a001415e4a79",
+  "missing_fields": [
+   "website"
+  ],
+  "sorted_newest": true,
+  "extract_seconds": 66.5,
+  "error": null,
+  "listing_name": "Haritha Skin Clinic"
+ },
+ {
+  "listing_position": 91,
+  "name_clean": "WellCare Ortho & Skin Clinic",
+  "name_raw": "WellCare Ortho & Skin Clinic",
+  "category": "Hospital",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "name_strong_over_category:skin",
+  "address": "Hospital Rd, opp. New Bus Stand, near girls high school, Mangalagiri, Andhra Pradesh 522503",
+  "plus_code": "CHM9+C2 Mangalagiri, Andhra Pradesh",
+  "phone": "099496 43403",
+  "website": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "rating": 4.7,
+  "reviews_total": 95,
+  "reviews_captured": 95,
+  "reviews_coverage": 1.0,
+  "owner_replies": 0,
+  "truncated_reviews": 6,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "9:30 to 11 am, 6 to 9 pm",
+   "Friday": "9:30 to 11 am, 6 to 9 pm",
+   "Saturday": "9:30 to 11 am, 6 to 9 pm",
+   "Sunday": "Closed",
+   "Monday": "9:30 to 11 am, 6 to 9 pm",
+   "Tuesday": "9:30 to 11 am, 6 to 9 pm",
+   "Wednesday": "9:30 to 11 am, 6 to 9 pm"
+  },
+  "topics": {
+   "ortho care": 15,
+   "knee replacement surgery": 3,
+   "acne treatment": 2,
+   "successful surgery": 3,
+   "hair treatment": 3,
+   "low cost medicine": 2,
+   "knowledgeable doctor": 4,
+   "PRP": 2,
+   "effective treatment": 3,
+   "clear explanations": 2
+  },
+  "about": {
+   "Accessibility": [
+    " Wheelchair-accessible car park",
+    " Wheelchair-accessible entrance"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 79,
+   "4": 10,
+   "3": 0,
+   "2": 1,
+   "1": 5
+  },
+  "google_profile_gaps": [
+   "Add website"
+  ],
+  "place_id": "ChIJadlLZInxNToRKJQJn5GOUj8",
+  "feature_id": "0x3a35f189644bd969:0x3f528e919f099428",
+  "missing_fields": [
+   "website"
+  ],
+  "sorted_newest": true,
+  "extract_seconds": 50.5,
+  "error": null,
+  "listing_name": "WellCare Ortho & Skin Clinic"
+ },
+ {
+  "listing_position": 92,
+  "name_clean": "G O R MEDICAL & FANCY",
+  "name_raw": "G O R MEDICAL & FANCY",
+  "category": "Medical group",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "adjacent",
+  "basis": "category_unlisted",
+  "address": "1st lane, Chuttugunta Cir, Hanuman Nagar, Ananda Theertha Agraharam, Nallapadu Rural, Guntur, Andhra Pradesh 522004",
+  "plus_code": "7CVF+24 Nallapadu Rural, Andhra Pradesh",
+  "phone": "075693 88389",
+  "website": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "rating": 4.7,
+  "reviews_total": 3,
+  "reviews_captured": 3,
+  "reviews_coverage": 1.0,
+  "owner_replies": 0,
+  "truncated_reviews": 0,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "7:30 am to 10:30 pm",
+   "Friday": "7:30 am to 10:30 pm",
+   "Saturday": "7:30 am to 10:30 pm",
+   "Sunday": "9 am to 10 pm",
+   "Monday": "7:30 am to 10:30 pm",
+   "Tuesday": "7:30 am to 10:30 pm",
+   "Wednesday": "7:30 am to 10:30 pm"
+  },
+  "topics": null,
+  "about": {
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 2,
+   "4": 1,
+   "3": 0,
+   "2": 0,
+   "1": 0
+  },
+  "google_profile_gaps": [
+   "Add website"
+  ],
+  "place_id": "ChIJN9pZGjN1SjoR4RpYlgXkrVY",
+  "feature_id": "0x3a4a75331a59da37:0x56ade40596581ae1",
+  "missing_fields": [
+   "website"
+  ],
+  "sorted_newest": true,
+  "extract_seconds": 55.5,
+  "error": null,
+  "listing_name": "G O R MEDICAL & FANCY"
+ },
+ {
+  "listing_position": 93,
+  "name_clean": "Aster Women & Child Centre - Top Pediatric, Maternity & Pregnancy Hospital in Guntur",
+  "name_raw": "Aster Women & Child Centre - Top Pediatric, Maternity & Pregnancy Hospital in Guntur",
+  "category": "Maternity Centre",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "adjacent",
+  "basis": "category_unlisted",
+  "address": "Collector Office Rd, beside Hindu College Road, Grounds, Nagarampalem, Guntur, Andhra Pradesh 522004",
+  "plus_code": "7CVV+62 Guntur, Andhra Pradesh",
+  "phone": "079 4281 0182",
+  "website": "https://www.asterhospitals.in/hospitals/aster-ramesh-guntur",
+  "website_type": "own_domain",
+  "has_own_website": true,
+  "rating": null,
+  "reviews_total": null,
+  "reviews_captured": 0,
+  "reviews_coverage": null,
+  "owner_replies": 0,
+  "truncated_reviews": 0,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "Open 24 hours",
+   "Friday": "Open 24 hours",
+   "Saturday": "Open 24 hours",
+   "Sunday": "Open 24 hours",
+   "Monday": "Open 24 hours",
+   "Tuesday": "Open 24 hours",
+   "Wednesday": "Open 24 hours"
+  },
+  "topics": null,
+  "about": {
+   "Payments": [
+    " Credit cards",
+    " Debit cards",
+    " NFC mobile payments"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": null,
+  "google_profile_gaps": null,
+  "place_id": "ChIJh15S3n91SjoRWavjmE7N-XM",
+  "feature_id": "0x3a4a757fde525e87:0x73f9cd4e98e3ab59",
+  "missing_fields": [
+   "rating",
+   "reviews_total",
+   "reviews"
+  ],
+  "sorted_newest": false,
+  "extract_seconds": 33.3,
+  "error": null,
+  "listing_name": "Aster Women & Child Centre - Top Pediatric, Maternity & Pregnancy Hospital in Guntur"
+ },
+ {
+  "listing_position": 94,
+  "name_clean": "Dr.Sailaja Skin Care Clinic",
+  "name_raw": "Dr.Sailaja Skin Care Clinic",
+  "category": "Skin care clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "1st Floor, Eluru Rd, beside Vins Complex, Vijayatakies Centre, Governor Peta, Vijayawada, Andhra Pradesh 520002",
+  "plus_code": "GJ7M+M4 Vijayawada, Andhra Pradesh",
+  "phone": "081869 94444",
+  "website": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "rating": 4.1,
+  "reviews_total": 292,
+  "reviews_captured": 292,
+  "reviews_coverage": 1.0,
+  "owner_replies": 0,
+  "truncated_reviews": 17,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "9 am to 1 pm, 6 to 9 pm",
+   "Friday": "9 am to 1 pm, 6 to 9 pm",
+   "Saturday": "9 am to 1 pm, 6 to 9 pm",
+   "Sunday": "Closed",
+   "Monday": "9 am to 1 pm, 6 to 9 pm",
+   "Tuesday": "9 am to 1 pm, 6 to 9 pm",
+   "Wednesday": "9 am to 1 pm, 6 to 9 pm"
+  },
+  "topics": {
+   "pimple treatment": 3,
+   "consultation fee": 7,
+   "infections treatment": 2,
+   "microdermabrasion": 2,
+   "dandruff treatment": 2,
+   "personalized treatment plan": 2,
+   "laser treatment": 3,
+   "dermatologist": 6,
+   "effective treatment": 9,
+   "fast results": 3
+  },
+  "about": {
+   "Accessibility": [
+    " Wheelchair-accessible car park",
+    " Wheelchair-accessible entrance"
+   ],
+   "Amenities": [
+    " Restroom"
+   ],
+   "Planning": [
+    " Appointment required",
+    " Appointments recommended"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 205,
+   "4": 21,
+   "3": 6,
+   "2": 5,
+   "1": 55
+  },
+  "google_profile_gaps": [
+   "Add website"
+  ],
+  "place_id": "ChIJ4f37Z1XlNToRZJC4CSrn06c",
+  "feature_id": "0x3a35e55567fbfde1:0xa7d3e72a09b89064",
+  "missing_fields": [
+   "website"
+  ],
+  "sorted_newest": true,
+  "extract_seconds": 72.0,
+  "error": null,
+  "listing_name": "Dr.Sailaja Skin Care Clinic"
+ },
+ {
+  "listing_position": 95,
+  "name_clean": "Dr. Nilofer Banu Shaik, Treated 11K+ Patients",
+  "name_raw": "Dr. Nilofer Banu Shaik, Treated 11K+ Patients | Best Dermatologist in Guntur | Skin & Hair Specialist",
+  "category": "Dermatologist",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "Amaravathi Skin Care, Malapalle, Navabharath Nagar, Guntur, Yanamadala, Andhra Pradesh 522019",
+  "plus_code": "689W+22 Guntur, Andhra Pradesh",
+  "phone": "080 4696 1837",
+  "website": "https://www.apollo247.com/doctors/dr-Nilofer-Shaik-a8f1a617-5461-40b3-b6bb-1ede1c06aba6",
+  "website_type": "aggregator_profile",
+  "has_own_website": false,
+  "rating": null,
+  "reviews_total": null,
+  "reviews_captured": 0,
+  "reviews_coverage": null,
+  "owner_replies": 0,
+  "truncated_reviews": 0,
+  "has_photos": true,
+  "hours": {
+   "Thursday": "10 am to 6 pm",
+   "Friday": "10 am to 6 pm",
+   "Saturday": "10 am to 6 pm",
+   "Sunday": "Closed",
+   "Monday": "10 am to 6 pm",
+   "Tuesday": "10 am to 6 pm",
+   "Wednesday": "10 am to 6 pm"
+  },
+  "topics": null,
+  "about": {
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": null,
+  "google_profile_gaps": null,
+  "place_id": "ChIJp6w-p5BxSjoRvcxvOygGl68",
+  "feature_id": "0x3a4a7190a73eaca7:0xaf9706283b6fccbd",
+  "missing_fields": [
+   "rating",
+   "reviews_total",
+   "reviews"
+  ],
+  "sorted_newest": false,
+  "extract_seconds": 40.7,
+  "error": null,
+  "listing_name": "Dr. Nilofer Banu Shaik, Treated 11K+ Patients | Best Dermatologist in Guntur | Skin & Hair Specialist"
+ },
+ {
+  "listing_position": 96,
+  "name_clean": "Dr.vijay's skin Dental & Ent clinic",
+  "name_raw": "Dr.vijay's skin Dental & Ent clinic",
+  "category": "Dermatologist",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "1) c/o Dr.vijay's cosmetology clinic, beside communist office, Kothapeta, Guntur, Andhra Pradesh 522001",
+  "plus_code": "7FX2+J7 Guntur, Andhra Pradesh",
+  "phone": "",
+  "website": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "rating": 3.7,
+  "reviews_total": 3,
+  "reviews_captured": 3,
+  "reviews_coverage": 1.0,
+  "owner_replies": 0,
+  "truncated_reviews": 0,
+  "has_photos": true,
+  "hours": null,
+  "topics": null,
+  "about": {
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 2,
+   "4": 0,
+   "3": 0,
+   "2": 0,
+   "1": 1
+  },
+  "google_profile_gaps": [
+   "Add place's phone number",
+   "Add hours",
+   "Add website"
+  ],
+  "place_id": "ChIJK-qVwfd1SjoROeM7AbUfHaI",
+  "feature_id": "0x3a4a75f7c195ea2b:0xa21d1fb5013be339",
+  "missing_fields": [
+   "phone",
+   "website",
+   "hours"
+  ],
+  "sorted_newest": true,
+  "extract_seconds": 70.5,
+  "error": null,
+  "listing_name": "Dr.vijay's skin Dental & Ent clinic"
+ },
+ {
+  "listing_position": 97,
+  "name_clean": "Padmavathi Poly Clinic",
+  "name_raw": "Padmavathi Poly Clinic",
+  "category": "Private hospital",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "adjacent",
+  "basis": "category",
+  "address": "9-299, JKC College Rd, Tarakarama Nagar, Srinivasa Nagar Colony, Guntur, Andhra Pradesh 522006",
+  "plus_code": "8CH9+54 Guntur, Andhra Pradesh",
+  "phone": "",
+  "website": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "rating": 5.0,
+  "reviews_total": 1,
+  "reviews_captured": 1,
+  "reviews_coverage": 1.0,
+  "owner_replies": 0,
+  "truncated_reviews": 0,
+  "has_photos": true,
+  "hours": null,
+  "topics": null,
+  "about": {
+   "From the business": [
+    " Identifies as women-owned"
+   ],
+   "Crowd": [
+    " LGBTQ+ friendly"
+   ],
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": {
+   "5": 1,
+   "4": 0,
+   "3": 0,
+   "2": 0,
+   "1": 0
+  },
+  "google_profile_gaps": [
+   "Add place's phone number",
+   "Add hours",
+   "Add website"
+  ],
+  "place_id": "ChIJdWXr9tWLNToRT4QG1Ehet8U",
+  "feature_id": "0x3a358bd5f6eb6575:0xc5b75e48d406844f",
+  "missing_fields": [
+   "phone",
+   "website",
+   "hours"
+  ],
+  "sorted_newest": true,
+  "extract_seconds": 55.6,
+  "error": null,
+  "listing_name": "Padmavathi Poly Clinic"
+ },
+ {
+  "listing_position": 98,
+  "name_clean": "Cure & Care Poly Clinic",
+  "name_raw": "Cure & Care Poly Clinic",
+  "category": "Medical clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "adjacent",
+  "basis": "category",
+  "address": "3/18, Rajiv Nagar, Guntur, Andhra Pradesh 522002",
+  "plus_code": "8F63+5M Guntur, Andhra Pradesh",
+  "phone": "",
+  "website": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "rating": null,
+  "reviews_total": null,
+  "reviews_captured": 0,
+  "reviews_coverage": null,
+  "owner_replies": 0,
+  "truncated_reviews": 0,
+  "has_photos": true,
+  "hours": null,
+  "topics": null,
+  "about": {
+   "Map details": [
+    "Transit",
+    "Traffic",
+    "Biking",
+    "Terrain",
+    "Street View",
+    "Wildfires",
+    "Air Quality"
+   ],
+   "Map tools": [
+    "Travel time",
+    "Measure"
+   ],
+   "Map type": [
+    "Default",
+    "Satellite",
+    " Globe view ",
+    " Labels"
+   ]
+  },
+  "rating_histogram": null,
+  "google_profile_gaps": [
+   "Add place's phone number",
+   "Add hours",
+   "Add website"
+  ],
+  "place_id": "ChIJ__9DQEJ1SjoR9UBeS0c_jIk",
+  "feature_id": "0x3a4a75424043ffff:0x898c3f474b5e40f5",
+  "missing_fields": [
+   "phone",
+   "website",
+   "rating",
+   "reviews_total",
+   "hours",
+   "reviews"
+  ],
+  "sorted_newest": false,
+  "extract_seconds": 67.1,
+  "error": null,
+  "listing_name": "Cure & Care Poly Clinic"
+ }
+]

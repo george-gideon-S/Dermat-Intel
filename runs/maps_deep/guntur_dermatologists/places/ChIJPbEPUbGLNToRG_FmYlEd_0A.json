@@ -1,0 +1,1417 @@
+{
+  "place_url": "https://www.google.com/maps/place/Sunrise+dental+care/data=!4m7!3m6!1s0x3a358bb1510fb13d:0x40ff1d516266f11b!8m2!3d16.3271338!4d80.418334!16s%2Fg%2F11l5cg55yd!19sChIJPbEPUbGLNToRG_FmYlEd_0A?authuser=0&hl=en&rclk=1",
+  "captured_at": "2026-08-20T19:29:16",
+  "feature_id": "0x3a358bb1510fb13d:0x40ff1d516266f11b",
+  "place_id": "ChIJPbEPUbGLNToRG_FmYlEd_0A",
+  "kg_mid": "/g/11l5cg55yd",
+  "lat": 16.3271338,
+  "lng": 80.418334,
+  "name_raw": "Sunrise dental care",
+  "name_clean": "Sunrise dental care",
+  "name_key": "sunrisedentalcare",
+  "name_dropped": [],
+  "name_was_cleaned": false,
+  "category": "Dentist",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "irrelevant",
+  "basis": "name_veto:dental",
+  "address": "6 th line, JKC College Rd, Vijayapuri Colony, Guntur, Andhra Pradesh 522006",
+  "plus_code": "8CG9+V8 Guntur, Andhra Pradesh",
+  "phone": "093927 53531",
+  "website": "",
+  "website_domain": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "insecure_http": false,
+  "website_matches_name": null,
+  "rating": 5.0,
+  "reviews_total": 145,
+  "rating_histogram": {
+    "5": 143,
+    "4": 1,
+    "3": 0,
+    "2": 0,
+    "1": 1
+  },
+  "histogram_sum": 145,
+  "histogram_reconciles": true,
+  "topics": {
+    "dental implant": 7,
+    "root canal treatment": 10,
+    "wisdom tooth removal": 6,
+    "painless procedure": 12,
+    "smooth procedure": 7,
+    "smile designing": 2,
+    "PRP": 3,
+    "hygiene": 13,
+    "dental extraction": 6,
+    "compassionate approach": 3
+  },
+  "google_profile_gaps": [
+    "Add website"
+  ],
+  "has_photos": true,
+  "hours": {
+    "Thursday": "10 am to 9 pm",
+    "Friday": "10 am to 9 pm",
+    "Saturday": "10 am to 9 pm",
+    "Sunday": "10 am to 9 pm",
+    "Monday": "10 am to 9 pm",
+    "Tuesday": "10 am to 9 pm",
+    "Wednesday": "10 am to 9 pm"
+  },
+  "about": {
+    "Amenities": [
+      " Restroom"
+    ],
+    "Planning": [
+      " Appointment required",
+      " Appointments recommended"
+    ],
+    "Payments": [
+      " NFC mobile payments"
+    ],
+    "Map details": [
+      "Transit",
+      "Traffic",
+      "Biking",
+      "Terrain",
+      "Street View",
+      "Wildfires",
+      "Air Quality"
+    ],
+    "Map tools": [
+      "Travel time",
+      "Measure"
+    ],
+    "Map type": [
+      "Default",
+      "Satellite",
+      " Globe view ",
+      " Labels"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kV1FXTkJiV2QzWW5GMVdXOXVjRUpxU1RRdGFFRRAB",
+      "author": "PRANATHI DITTAKAVI",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "Recently I visited sunrise dental clinic for my 3rd molar extraction, Initially I was very anxious and tensed about the procedure and then I was ensured regarding the treatment . The whole procedure went well and they made sure I was comfortable without any pain , I truly felt the utmost care and compassion of the team. I would say sunrise dental clinic is the best spot for any dental ailments while you are in safe and gentle hands.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkQ2JsUkJiRFoyUkZGNmFGcFlWbk5QTUU5TmJHYxAB",
+      "author": "Anusha Kanna",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21zelpVMDVlRVk0WXpKbGRuQTBWR3Q1VVZsWFNrRRAB",
+      "author": "Kosana Manikanta",
+      "rating": 5,
+      "relative_date": "2 months ago",
+      "text": "Excellent place to get all dental problems cleared. Best in guntur town. Staff is good in receiving. Dr jagadish is professional",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSYVpuSndTMUJaTWs1NlNGRjZZakpPZVV4R04yYxAB",
+      "author": "Jatavath shaker naik Jatavath shaker naik",
+      "rating": 4,
+      "relative_date": "5 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21NNE5tTjZTR3hVY1VoUGFXUm9TVWRMYmpjMWJXYxAB",
+      "author": "anusha chejarla",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "I recently underwent impaction surgery and tooth extraction at Sunrise Dental Clinic, and I am extremely happy with the treatment. The doctor was very professional, gentle, and explained the entire procedure clearly, which made me feel calm and confident. The clinic is clean, well-maintained, and the staff is very supportive. The procedure was smooth and recovery guidance was excellent. I highly recommend Sunrise Dental Clinic to anyone looking for quality dental care.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4MVdXczNlWG8wY2xKaWVXcGhjMWxSYm5sTGRFRRAB",
+      "author": "Mohith Y18CS113",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oRFZYcFJiVkp1WjNaWVJURkhZVnBNVWtOcVZrRRAB",
+      "author": "sai madhav",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "The staff greeted me with a smile that reminded me of my home, instantly making the whole experience feel less clinical and more personal.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25vNVZXVXljR2R1V2xsMkxYb3hXVjk0WWpsR1RuYxAB",
+      "author": "rahulchowdary kolla",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "Best hospital with excellent service and highly professional staff. The doctors are very caring, knowledgeable, and make you feel comfortable throughout the treatment. The clinic is clean, well-organized, and uses modern equipment. I had a great experience and highly recommend Sunrise Dental Care as one of the best places for dental treatment.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wRk0ySmFSMmR1WmpRNGVHRk1WVkZYVDNoQlRXYxAB",
+      "author": "Lokesh Reddy",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "I recently visited here after staying in the United States for a few years,\nand I observed that they are using technologically advanced methods on par with what I experienced abroad. It was a wonderful experience with less wait time. The doctor is fantastic-very calm and listens carefully to everything you have to say.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xZemVFZEhkMUpIVDJrMWVFSkdTa2RXVVdWdVdWRRAB",
+      "author": "MVC HUB",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "Perfect place to your dental treatment !!",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwWWEzWnNXRjlhWjNCQ2VDMURhWEp5VjJ4T05XYxAB",
+      "author": "Manideep Podila",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "Had my dental implant done here and the entire experience was smooth and stress-free Dr.Jagadish explained every step clearly, and the procedure was much more comfortable than I expected. My new tooth looks completely natural! Highly recommended!!",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxSFkxSTRaSEJ3VUhablZXb3lUUzFrUTJOS2RGRRAB",
+      "author": "Psrk Prasad",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOb2NUaGlkWEZXZUdGcWVsSjJkMVZXZFd4Rk4zYxAB",
+      "author": "Parameswari Yadla",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "Chala baga chustharu good 👍 dr jagadish chala bagundhi …",
+      "maybe_truncated": true,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1TGN6Y3hiVkpRZVhKd2NXMWpabVk0TUdweVRuYxAB",
+      "author": "Srinu Naik",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "Had an amazing experience here!\nThe staff were very welcoming and friendly. I had got two root canals and aslo had my wisdom tooths removed and trust me the entire treatment was completely painless\nThe doctors are professional explain comfortable throughout 🤍 nd \"I had a wonderful experience with Dr jagadish\nI'm extremely satisfied with the overall experience and would definitely recommend Dr jagadish and his clinic to everyone seeking quality dental care !",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WRVZHbEZjSEJoYVZkd2NrTmtVMGR1TWxkQ1ZIYxAB",
+      "author": "AR LAKSHMANA",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "Chala Bagundi",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xSlpHSnROWEF5UXpkSWFGTmFZblZ3UmpOVVUyYxAB",
+      "author": "Shaik Ayesha",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkcVEyTmFWR1ZMTkdVdGVrdHVjMGh3T0Y5Wk0zYxAB",
+      "author": "sai pavan kalyan",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWS1ZYbExXbWhKVlhSNlFWTXdRMTlyTlVnMmJYYxAB",
+      "author": "Guest Account",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGUGFHZzVSVlJLWmsxamJXcEdUMjVIUkRoWVpHYxAB",
+      "author": "loukya k",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wc1FqVlFaRFV6Y1RsYVMxOWtSak52ZUcxb2IyYxAB",
+      "author": "Krishnaveni Kolluru",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCaVJVaHNSVE5TT1RSbU0zTmpURlpHTTAxRWJIYxAB",
+      "author": "Malakondaiah Kolluru",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toU1dEWTBOR2gwUkdad1JWbHZXR1Z5YjFWbGJXYxAB",
+      "author": "hari krishna jarugula",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSTE9XWjJRekEzY1RoZk5qaEZWMTl5YTJ3Mk5WRRAB",
+      "author": "Srija Singu",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "For the first time i didn't had any discomfort pain in my dental treatment. Dr. Jagadish is very good at what he does. Besides, clinic is very near to my home. Will definitely be my go to clinic now.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJX0xlX2xRRRAB",
+      "author": "Manideep reddy kalli",
+      "rating": 1,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTURRbXZmZi13RRAB",
+      "author": "dhanu krosuri",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I tried so many clincs for invisible braces like aligners but i didn't get it.Finally I got the solution from sunrise dental care",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRbW9mbWFREAE",
+      "author": "naveen amara",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I have never been to a hospital which gives best dental advices like jagadish sir dental hospital does would recommend sun rise dental care everyone who needs dental treatment...",
+      "maybe_truncated": true,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRbXFHTGNREAE",
+      "author": "Devi. Jayanthi",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I had been planning to get the alignment  of my teeth . I had visited  many dental clinics  they were prohibitively expensive . Someone told me about sunrise dental care and I booked an appointment . Dr Jagadish was quite , confident and capable to help me.Everything was top notch and professionally handled.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTURnamRTQnl3RRAB",
+      "author": "janaki rama",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnMWI3UzZBRRAB",
+      "author": "Sathish reddy Y",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Quality treatment, taking care by doctor is good. treatment is not too expensive.overall good . doctor was so comfortable.staff was polite.maintaining hygiene",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnNWMtTHpBRRAB",
+      "author": "Y prasanth",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNBMjhIT2pnRRAB",
+      "author": "kurra koteswararao",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Excellent",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNBMjk3RHlBRRAB",
+      "author": "Nagireddy Madireddy",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNBbTZfQ0R3EAE",
+      "author": "Vamsi Nuthalapati",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Had a great experience with Dr.Jagadish ponnekanti Anna.The hospital itself will give us a feel good experience and the staff were incredibly friendly. From the moment I walked in I have seen the most polite, humble person who is very cool, calm and composed & he discusses the treatment options and answers all the queries.The procedure goes smoothly, and the hospital ambience is good, modern and well-maintained. Pricing was very transparent.Feeling blessed for having a doctor like Anna.I would strongly recommend everyone who have any dental issue to visit SUNRISE DENTAL HOSPITAL .....",
+      "maybe_truncated": true,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNBbTZMODRRRRAB",
+      "author": "B. vikram simha",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Dr. P Jagadeesh and the entire team were incredibly professional, patient, and thorough. They took the time to explain everything clearly and ensured I was comfortable throughout the treatment. I truly appreciate their gentle approach and attention to detail",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNBbTlpcU53EAE",
+      "author": "Navya Kommineni",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Dr. Jagadish does an amazing job , he explains every single detail and made me feel very comfortable. As his patient I’m very much happy with the treatment , procedure as well as the results . I can confidently recommend sunrise dental care to everyone.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfdm9qQzBRRRAB",
+      "author": "niree k",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Thank you doctor garu",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfN29xUXl3RRAB",
+      "author": "V Y",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Dr.Jagadish is experienced  patient and cooperative .They invest in their clients  to give their best experience  of the  dental procedures. They are timely in attending  to the clients  for initial visits  and follow ups.Definetly recommend this clinic",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURuNFpxSVFBEAE",
+      "author": "ravipati sravani",
+      "rating": 5,
+      "relative_date": "Edited a year ago",
+      "text": "I recently visited a dentist Dr Jagadish. He was very professional, intelligent and honest. His office staff and reception were gracious and helpful . The rooms were clean and hygenic. Dr Jagadish was prompt and timely with the scans and follow up. Well done!I would recommend everyone to visit here\nonce",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmdnNIWjRBRRAB",
+      "author": "naga malli",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Trusted and good dental clinic in guntur.My dental implant procedure was done in less time with great care by Dr.Jagadish I would highly recommend this doctor for all dental needs",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmeHVISWRBEAE",
+      "author": "Venu Rayala",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I went to this clinic for root canal procedure doctor listened to issue politely  and explained process,Also treatment was done at reasonable price .Highly recommend this clinic for dental needs",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2ckt5VGFBEAE",
+      "author": "Manikanta Gudela",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "My self , my wife and my mother had dental issues.Dr. Jagdish patiently listened  to the problem and identified  the cause. And the problem has now resolved after  treatment. I highly recommend Sun rise dental care",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2dU1yYV9BRRAB",
+      "author": "vamsi krishna",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Doctor is friendly, skilled, explains all the doubts with good patience and does the treatment with ease. All the staff are friendly.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2amVHdXl3RRAB",
+      "author": "Jaisai Srinivas",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Good at treating people and providing best services and good assistance including hair related services (GFC/PRP) and even providing further assistance.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2MWI2OUpBEAE",
+      "author": "P. N. Subramanyam P. N. Subramanyam",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Having a  tooth gap caused many problems for me, especially when chewing food,it also led to increase  in cavities and tooth pain. After searching for best dental clinic in guntur . I found sun rise dental care and I immediately visited. From the movement I walked in , I felt a positive vibe. Ambiance was welcoming and staff were also so helpful. The result were incredible  satisfying . And  I experienced no pain. Tq to dr. Jagadish",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChRDSUhNMG9nS0VJQ0FnSUN2eWI5YRAB",
+      "author": "Jaya Rama Rao Yarlagadda",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I havent started  my treatment yet, but I’m already  giving them a 5 star review. Their approach is good, from actively listening to patients to offering well considered  solutions.This is a great place for dental care",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2eWVfM0hBEAE",
+      "author": "Manduri Surendra",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Experts in Invisalign  Aligners, smile designing, full mouth rehabilitation  and having common services  too such as implants, root canal , scaling etc. Also have an aesthetic ambiance  giving soothing vibe",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURQN2FfYWl3RRAB",
+      "author": "tejaswi gannamaneni",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Going to the dentist isn’t usually something people look forward to, but my experience at [Sunrise dental care] completely changed my perspective. From the moment I walked through the door, I felt like I was in a sanctuary of care and professionalism.\nThe staff greeted me like an old friend, instantly making the whole experience feel less clinical and more personal. The waiting area wasn’t just clean—it was inviting, almost like a boutique spa. Even the little details, like the calming music and subtle aroma, felt thoughtfully curated.\nWhen it came time for my appointment, “Sunrise dental care” didn’t just treat my teeth—they treated me as a whole person. They explained everything with clarity, treated me with genuine kindness, and made sure I was comfortable at every step. It’s rare to meet someone who’s not only technically skilled but also so compassionate and engaging.\nI walked out not just with cleaner teeth but with a renewed appreciation for what excellent dental care can look like. If you’re looking for a dentist who goes above and beyond, [Sunrise dental care] is the place to be. They don’t just fix smiles—they create them!\"",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNQck9pQ1ZREAE",
+      "author": "vamsi krishna",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "It was a good experience in the clinic, treatment was done good. Doctor is talented, friendly, well trained and has more patience.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQzeDhtVU9nEAE",
+      "author": "SHABBER NAIK",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I recently visited Sunrise Dental Clinic in Guntur and was thoroughly impressed with the experience. The staff was incredibly welcoming, courteous, and professional, offering insightful tips on maintaining dental hygiene, which made the visit both pleasant and educational. From the moment I entered, the team ensured a smooth and hassle-free process, demonstrating their commitment to patient care.\n\nDr. Jagadeesh stood out as an exceptional professional, combining expertise with a genuinely compassionate approach. His patience and gentle demeanor during my root canal procedure were remarkable, making it entirely pain-free and easing all my initial nervousness. He explained each step of the procedure clearly, which enhanced my trust and comfort.\n\nThe clinic itself was immaculate, with a clean, serene, and inviting ambiance that added to the overall sense of safety and relaxation. Modern equipment and state-of-the-art technology were evident, reflecting the clinic's commitment to delivering high-quality dental care.\n\nAltogether, the combination of a dedicated team, advanced facilities, and a tranquil atmosphere made my visit extraordinary. I wholeheartedly recommend Sunrise Dental Clinic to anyone seeking reliable, compassionate, and top-notch dental services in Guntur.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQzX3FyQUNREAE",
+      "author": "Gopesh Murthy123",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Dear Dr. Jagadeesh,\n\nThank you for the excellent care during my root canal treatment. Your expertise and reassuring approach made the procedure smooth and comfortable. I truly appreciate your dedication and professionalism.\n\nBest regards,\nGopesh murthy",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQzanJHajN3RRAB",
+      "author": "Archana Ermala",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Very polite, humble.....with sophisticated equipment...",
+      "maybe_truncated": true,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzZy1xb3BRRRAB",
+      "author": "geethika padma sai",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I had my wisdom tooth removal,Surgeon Dr jagadeesh was very professional,very polite staff..I would highly recommend",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzZzhxVU13EAE",
+      "author": "anji podili",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzNVpXSXlBRRAB",
+      "author": "Y Dhanush Mohan",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzdVllWGFnEAE",
+      "author": "srinath chandra",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I had my dental implantation at sunrise dental care, DR jagadish is very professional and explained everything in ease .the overall process was so simply structured and highly effective. Highly recommend 👌 . …",
+      "maybe_truncated": true,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzbWVPaFhnEAE",
+      "author": "Chandraneel Ponnamaneni",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzc2NtSi1BRRAB",
+      "author": "Purna Byrapuneni",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Dr. Jagadish of sunrise dental care did a fantastic job removing my wisdom tooth. The procedure was quick, painless, and the recovery was smooth. The staff was friendly, and Dr. Jagadish explained everything clearly. Highly recommend!",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzdE1tQy1nRRAB",
+      "author": "sai nani",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Very professional doctor.... High end treatments with right expertise",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzdE5INU93EAE",
+      "author": "kolla hemanth",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Excellent hygiene well sterilised instruments underwent implant procedure which is pain less and successful",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzeU5Lc0FnEAE",
+      "author": "harshitha mangamuri",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYanJpUmN3EAE",
+      "author": "Priyanka J",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Excellent",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYanJqdWxBRRAB",
+      "author": "Kishore Tanniru",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Very good treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYanJqNHNBRRAB",
+      "author": "Mounika Jakki",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Very good treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYeHZTUk1BEAE",
+      "author": "Swathi soujanya Mahanthi",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYeHVUbEt3EAE",
+      "author": "K Jyothsna",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYcU1TUC1nRRAB",
+      "author": "Afreen kamal",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYZ00telNREAE",
+      "author": "penumala nirmalarani",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Very good experience  in this dental clinic...very comfortable... doctors and staff are very friendly 😊 …",
+      "maybe_truncated": true,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYd0xqT0hBEAE",
+      "author": "Sankati Keerthana s",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Good at treating the people and providing  quality services  at reasonable prices.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYZ1B2U253RRAB",
+      "author": "Dasari Daivakrupa",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Nice hospitality",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYdi11WmN3EAE",
+      "author": "Sujan Sekhar",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "\"I recently had a wonderful experience at Sunrise Dental Clinic The staff was incredibly friendly and welcoming, putting me at ease immediately. Dr. Jagadish was very knowledgeable and took the time to explain my treatment options in detail. The procedure was painless and efficient, and I'm thrilled with the results. The ambience is very calming. I highly recommend this dental clinic for anyone seeking quality dental care.\"\nThanks a lot to Dr.Jagadish Sir.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYbmZTUWxBRRAB",
+      "author": "SreeramPreetham Sreeram",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "The doctor’s friendliness puts patients at ease, while their exceptional treatment skills inspire confidence. Patients feel heard throughout the process, leading to positive health outcomes and satisfaction with their experience. They leave feeling confident in their continued well-being.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYN2Y2WlVnEAE",
+      "author": "ravindra nath korlakunta",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYcGNpXzdnRRAB",
+      "author": "Meghana Reddy",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I had fantastic experience at sunrise dental care. The clinic was spotless and had very calming atmosphere, which helped to ease my dental anxiety. Staff were extremely friendly . I felt comfortable through out the procedure . They also used latest technology including digital x ray, which made whole process efficient. Prices were fair . I highly recommend this clinic",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYbVkydDZ3RRAB",
+      "author": "Swarna Kumar Sankati",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Excellent clinic\nVery professional and friendly doctors\nVery satisfied with the treatment received\nCost of treatment is very reasonable",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYX3Z6eWx3RRAB",
+      "author": "jangala sravani",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "A really very good clinic and staff was well trained and dr.jagadish explained well about treatments and clinic is very clean and hygiene I highly recommend sunrise dental for all dental treatments",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYLXNQa1pnEAE",
+      "author": "Sk Aaseef",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "\"Sunrise Dental Care\" is the one of the best care in world and Dr.jagadish  sir is the best nd politely. it's an wonderful experience to me. I came inside a dental care with pain but I went out with smile. So visit it nd get u r smile back.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYZ0wyMGdRRRAB",
+      "author": "Akhila Gundimeda",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Sunrise dental care is best dental hospital in Guntur. Dr Jagdish is friendly, polite, experienced and explains treatment well with patience. Staff are welcoming and trained. Clinic is clean and hygienic with good sterilisation protocol. I had my wisdom tooth removal at this hospital which was painless, quick. Dr Jagdish done treatment with great skill, care. I highly recommend sunrise dental care to anyone seeking dental care in Guntur.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURucjlXWU13EAE",
+      "author": "SAI PRAKA",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "The experience we get through this Dental clinic is remarkable. The way the receiving the patient and the way the treatment procedure is excellent and we will definitely get a best ever outcome of each and every treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURuazRfalR3EAE",
+      "author": "Varchaswi Vellanki",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURuazhlZWFBEAE",
+      "author": "maanasa vasantham",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURuazdxS2NnEAE",
+      "author": "Jayalakshmi Mettu",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Here is a review regarding sunrise dental care !! I recently visited this for the extraction of my impacted molar . The way of explaining the procedure and the level of patience he had to clear all queries  is next level . He make sure that the patient should feel comfortable . SO I strongly recommend you people to visit sunrise dental care and get an amazing experience and also you people can clear all your queries or doubts regarding your dental health !!!",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURuazhyOF93RRAB",
+      "author": "pooja sree",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "My grandmother recently underwent implant treatment for her missing teeth.Dr Jagadish is very patient and he explained the procedure in detail and clarified all the doubts.I Highly recommend this clinic for implants and all other dental procedures",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURudWMtcFRnEAE",
+      "author": "Sowrav Prasad",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "As of my experience, the implant was so good and perfect.The maintanance of clinic is also very hygienic...!!\nMoreover, the way Dr.Jagadeesh used to deal with a person either during treatment or in clarifying any doubts is really nice...!!\n#Worth it and seems good..😊",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURudWFER1ZnEAE",
+      "author": "Ravali J",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Amazing hospitality by Dr.Jagadish...\nHas experience in various treatment options !\nLoved the clinic ambience and hygiene!\nHighly recommending!!",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURuMXFpLVF3EAE",
+      "author": "priya bharathi",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNucC1pdGZ3EAE",
+      "author": "Venkateswararao Ponnekanti",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Best dental clinic with reasonable prices and good treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNIamRmb1ZBEAE",
+      "author": "VENKATESWARULU TC",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURicGN6RDhBRRAB",
+      "author": "Kota Sri",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "A really good dental clinic. Dentist are really experienced and patient with people. The staff is also really good. Their work is really up to mark.also the entire clinic is very hygienic. Appointments are also in a good way.Really happy with this clinic.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNieVpHLUhnEAE",
+      "author": "sajid Roshan",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I had sensitivity  and  Gum Issues One of my friend suggested me this clinic.Dr.jagadish  explained very well.  And his staff  are very friendly  and ambiance is very good . I highly recommend sunrise dental care",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChRDSUhNMG9nS0VJQ0FnSUNiLU9kTRAB",
+      "author": "Mounika Douluri",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Sunrise dental clinic is one of best clinic in Guntur\nDr. Jagadish had explained every treatment so kindly and with all the patience he answered all my doubts\nI’d definitely suggest this clinic",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNidVB1czZRRRAB",
+      "author": "sunshine 9999",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNidU51bDZBRRAB",
+      "author": "Jagarlamudi Bangaru babu",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURybjlYeXpnRRAB",
+      "author": "Aruna Ponnekanti",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Dr Jagadish is someone who I is very patient in explaining all the treatments which are only required.I underwent implant placement which is painless and follow-up is very good I highly recommend this clinic for your dental problems",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURyOXZQS1RnEAE",
+      "author": "Kshetra challapalli",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Dr. Jagadish has patiently addressed all my concerns. I do recommend him 👍 …",
+      "maybe_truncated": true,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURyLUlIYldnEAE",
+      "author": "Bharath Nani",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNydl9UYTdBRRAB",
+      "author": "vinay kumar jampani",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I recently underwent implants for my missing tooth my experience is great and treatment is painless dr Jagadish is very patient in addressing and explaining my problem.Highly recommend this clinic for dental implants",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNyMi0zdmZREAE",
+      "author": "harsha kodali",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Dr. Jagadish was friendly and very good communicating with patient and with affordable prices and also very hygiene. I am very happy after treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNseWFIbndnRRAB",
+      "author": "Balaji Nallapati",
+      "rating": 5,
+      "relative_date": "Edited 2 years ago",
+      "text": "Interestingly nobody referred us to sunrise dental care. We saw the profile on the Internet and have been very much impressed by dr.jagadish professional qualification and experience.The premises are neat and hygienic. After treatment they recall and ask for feedback . I highly suggest this clinic.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNyZzgybXp3RRAB",
+      "author": "Nst Nst",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I recently received dental treatment at sunrise dental care and my experience was good.From the movement I walked in, I was greeted with warmth and professionalism by entire staff.\nOverall sunrise dental care stands for it's dental and cosmetology treatments with supportive doctor's and caring staff.\nI highly recommend this clinic to anyone with out a doubt.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNycU1pcTJnRRAB",
+      "author": "Prathyusha J",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "The best dental clinic with neat and pleasant environment.Personally I had a good experience .One solution to all dental problems:)",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURMbi1lWDJ3RRAB",
+      "author": "Madhuri Kolli",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURMbl83Sk93EAE",
+      "author": "Lakshmi Macha",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Dr. Jagadish  is great with kids and made the whole visit fun and stress-free. The office is clean and kid-friendly. We’ll be coming here from now on!\"",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURMbl82a0NBEAE",
+      "author": "Nikhila B",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Dr. Jagadish performed my dental extraction with such expertise. I was worried about pain, but the procedure was surprisingly painless and quick. The recovery tips they provided were very helpful, and I healed up perfectly.\"",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURMbjY3YzBRRRAB",
+      "author": "macha soniya",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I had a great experience at sunrise dental clinic. The staff is friendly and efficient, and Dr. Jagadish is an excellent dentist. He is knowledgeable, patient, and takes the time to answer all your questions. My recent filling was quick and painless, and I felt completely at ease. Highly recommend!\"",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURMNzZfNWlRRRAB",
+      "author": "Tejaswi Nalamala",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURMNzVlaERBEAE",
+      "author": "nikhila nalamala",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Best dental clinic in guntur.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURMel9MYXNRRRAB",
+      "author": "jamsheed baji shaik",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Great facilities in the clinic .very humble doctor .highly recommended .",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURMdDl1N2JnEAE",
+      "author": "Karasani Harikapetsy",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURMdC1hWDZBRRAB",
+      "author": "Ravi Teja",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Good dental care hospital in an around the city..",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURMdF9yUWh3RRAB",
+      "author": "Divya Korlakunta",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURMdDRxS25nRRAB",
+      "author": "sam sunny",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "V Good",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURMdDZLNTVnRRAB",
+      "author": "prudhvi raj",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I highly recommend this dental clinic for its excellent service, professional staff",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURMdDVTQ3pnRRAB",
+      "author": "sandeep thattala",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "The doctor has got good experience.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURMdF9DREdREAE",
+      "author": "Gali Lokesh Kiran",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "This is one of the best dental clinic in Guntur. Highly recommend this clinic and Dr. Jagadish for his friendly assistance and the services.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURMdF9EWXhRRRAB",
+      "author": "Dr.Tanneeru Niharika",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I recently visited Sunrise Dental Care for some fillings and an overall checkup, and I couldn’t be more pleased with the experience. From the moment I walked in, the staff was welcoming and professional. The dentist took the time to explain the procedures and made sure I was comfortable throughout. The fillings were done with great care, and I felt no discomfort. Additionally, the thorough checkup provided me with valuable insights on maintaining my oral health and preventing future issues. I highly recommend Sunrise Dental Care for anyone looking for top-notch dental care in a friendly and professional environment.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURMMTktZU53EAE",
+      "author": "Pranav Tej",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Dr.Jagadish is friendly, professional, and really go the extra mile to make sure you’re comfortable. My crown fitting was perfect, and it feels like my natural tooth. Highly recommend!\"",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURMMTVlb3VRRRAB",
+      "author": "Narasimha Macha",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Sunrise Dental Care offers exceptional service with a friendly and professional staff. The clinic is clean and modern, making each visit comfortable. Treatments are thorough and efficient, with great attention to patient care. Highly recommended for all dental needs…",
+      "maybe_truncated": true,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURMMTd1Z3R3RRAB",
+      "author": "Gayathri Bollina",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I would highly recommend this clinic for root canal treatment. Doctor is considerate and prioritises the patient's health and comfort",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURMMTkyeXlnRRAB",
+      "author": "Ritik Palod",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Dr.Jagadish is really gentle and I got dental implants here, and they look and feel fantastic.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURMMTdYR05nEAE",
+      "author": "KARTHIK KUMAR REDDY B",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Dr. Jagadish is fantastic! From the moment I walked in, I felt welcomed and comfortable. They took the time to explain everything and made sure I was at ease. My teeth have never looked better!\"",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURMMS1YWDFRRRAB",
+      "author": "Nitin",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I had an amazing experience at Sunrise dental care. The staff is friendly, professional, and efficient. Dr. Jagadish is very knowledgeable and truly cares about his patients. He performed my root canal with such precision that I felt no pain. Highly recommend!\"",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN6XzZlcWxnRRAB",
+      "author": "ARAVAPALLI VAMSI",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Good treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ5MDZmZWVnEAE",
+      "author": "Subash reddy",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "\"I recently underwent PRP (Platelet-Rich Plasma) treatment, and I must say, it was a fantastic experience. The procedure was painless, and the results were impressive. Dr.jagadish is incredibly experienced and professional, which immediately put me at ease. Not only did the treatment go smoothly, but the cost was also very reasonable. I highly recommend this clinic for anyone considering PRP treatment. Thank you, Dr.jagadish , for your excellent care!\"",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM5eEx1NTJBRRAB",
+      "author": "Jaya Saran",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "My experience with Dr jagadish is very satisfactory after having prp sittings my hair fall reduced very well...",
+      "maybe_truncated": true,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNkel9xMmJREAE",
+      "author": "Venkatesh Potlacheruvu",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "visited sunrise dental care. I got my implants placed for missing teeth Dr.jagadish sir  clearly explained me of this issue and I was taken good care. I felt like i was in safe hands..",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNkdWRhczhBRRAB",
+      "author": "Sushank Vijay",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I went to this clinic for cavities in my nephew teeth, doctor has suggested for RCT under general anaesthesia, initially we were doubted but after the procedure my nephew was doing good. I highly recommend sunrise dental care.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNOOWZ6SGdRRRAB",
+      "author": "Sarath chand",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURsbXYtd21BRRAB",
+      "author": "gopi bellamkonda",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I highly recommed  sunrise dental care for teeth braces. The braces  treatment I received  was exceptional and results was amazing. Ensuring a comfortable and effective braces experience. Tq to Sunrise dental care and I highly recommend",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURsbXByRE93EAE",
+      "author": "Venkat polisetti",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I had lost my upper teeth due to accident,  I knew dr jagadish through my elder brother , had immediately  rushed to him , tooth was badly fractured  and it needed removal, I was concerned  about the replacement  of missing tooth. Dr jagadish had managed it so good with dental implant and a crown over it, my family is still doubtful whether it is natural tooth or artifical. It looks natural.best place to visit  for any dental issues . Tq sunrise dental care",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURsMUxTbmZ3EAE",
+      "author": "Mareedu Devi Prasad",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I recently underwnet teeth replacement with dental implant. I’m very happy with painless procedure.dr jagadish listens patiently and address them . This is the best dental clinic in Guntur . Highly recommend  this place especially for dental implants",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNsNy0zS2dBRRAB",
+      "author": "G.rajesh Lakshmi",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "exceptional dental treatment experience i recently had the pleasure of visting sunrise dental care in guntur, the entire team provided exceptional care the results exceeded my expectations i highly recommend sunrise dental care for all dental and cosmtology treatments",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNsMThDM0JnEAE",
+      "author": "Ram Chaitanya Gollapudi",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Honestly one of the best dental clinic in guntur, I had problem with my 3rd molar.  I got to know about this dentist  from one of my friend. I visited  the doctor who is very polite and cool, solved my problem  without even causing any sort  of pain. And they do really follow up very well after  the procedure.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNsNTZ2UlRREAE",
+      "author": "Sirisha P",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "One of the highly skilled and qualified dentist .I had underwent smile designing and got beautiful results as dr jagadish promised me .  With great infrastructure and affordable prices\n100% painless treatment . Tq dr jagadish",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNscDdyY0V3EAE",
+      "author": "Venkatesh V",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Best in the market.\n\nI visited the Suncare Dental Hospital for a routine check-up and cleaning. I was very impressed by the professionalism and care of the staff. The receptionist was friendly and helpful, the hygienist was gentle and thorough, and the dentist was knowledgeable and informative. The facilities were clean and modern, and the equipment was up-to-date. I felt comfortable and relaxed throughout the process. I would highly recommend this Hospital to anyone looking for quality dental care.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNscDVxX0dREAE",
+      "author": "RaviKiran Vallabhaneni",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I had a root canal treatment and extraction .and I must tell u it’s absolutely painless. And dr jagadish is the best!  It’s must visit  clinic for any dental problems",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNsX3ZuMDlRRRAB",
+      "author": "Sravanthi chowdary",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I had a very pleasant experience with dr jagadish  . I was very anxious  about my appointment and procedure . I’m usually apprehensive  about needles and I got 3rd molar impaction done by dr jagadish. The whole process was smooth. I suggest my friends to visit sunrise dental care for  dental problems.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNsM3J5aG9RRRAB",
+      "author": "Tejaswini G",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Laser scaling at its best  in sun rise dental care. My teeth feels so clean and refreshed. I am happy with their service😊 …",
+      "maybe_truncated": true,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNsbnMtSFVREAE",
+      "author": "Suvarna Aravapalli",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "My mother got teeth  replaced with bridge. Dr jagadish took utmost care during procedure made sure she was comfortable . I am very impressed . I highly recommend sunrise dental care",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNsbm82WFdREAE",
+      "author": "bhavya",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "The problems were attended too professionally and efficiently  in a friendly and caring atmosphere. Best dental clinic I have seen in Guntur in recent times.overall a great experience  and recommend to visit  place for solving dental health problems . Thanks to sun rise dental care",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNsbnFielFREAE",
+      "author": "swarupa kollisetty",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "With excellent knowledge , immediate problem and identification  and smooth analysis and welcoming by their staff with pleasing smile . U can feel that ur dealing with friend not a doctor and the way explains the issue and giving the best suggestions with amicable fee.DR JAGADISH is one of the best doctor in guntur.can refer SUN RISE DENTAL CARE and suggest 100%",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNsanAtVkt3EAE",
+      "author": "subbu bolla",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I have taken my mother for root canal treatment.DR JAGADISH is polite  and skilled tried to complete  entire treatment  in few settings with less expenditure.very good ambiance and hygiene, I recommend  to everyone to visit  for advanced and high class dental treatment.Tq DR JAGADISH",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNscHEzeWZ3EAE",
+      "author": "sreevidya Mukkamala",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "The doctor and staff are so friendly, and provide the best care for  my dental issues. I highly recommend  this clinic.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNscG9XWFp3EAE",
+      "author": "Devi. Jayanthi 21",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I am very happy with the treatment done by Dr.Jagadish, I suggest for every one who is searching for good dental surgeon",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNseHNxY0pBEAE",
+      "author": "Uktha Akshaya",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Doctor is very skillful. He patiently addressed all my doubts and apprehensions about my dental issues.im very happy and satisfied,I highly recommend this doctor",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNseHRqYkZBEAE",
+      "author": "Smiley Gayatri",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I had a great experience with dr. Jagadish . He makes patient very comfortable while treating . A place where your dental care is on top priority.I would rate it for cleanliness and hygiene as well.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    }
+  ],
+  "reviews_error": "",
+  "sorted_newest": true,
+  "stopped_at_known_review": false,
+  "reviews_captured": 145,
+  "owner_replies": 4,
+  "truncated_reviews": 10,
+  "reviews_coverage": 1.0,
+  "date_anchor": "2026-08-20T19:29:16",
+  "extract_seconds": 55.9,
+  "missing_fields": [
+    "website"
+  ],
+  "listing_position": 76,
+  "source_query": "dermatologists in Guntur",
+  "listing_name": "Sunrise dental care"
+}

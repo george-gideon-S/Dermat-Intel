@@ -1,0 +1,712 @@
+{
+  "key": "ChIJ8ddLiY11SjoRNTzJNpYWFm4",
+  "tier": "full",
+  "complete": true,
+  "place_url": "https://www.google.com/maps/place/Manoharam+Skin,+Laser+and+Cosmetology+Clinic/data=!4m7!3m6!1s0x3a4a758d894bd7f1:0x6e16169636c93c35!8m2!3d16.3110435!4d80.4314055!16s%2Fg%2F11j4w63qm0!19sChIJ8ddLiY11SjoRNTzJNpYWFm4?authuser=0&hl=en&rclk=1",
+  "captured_at": "2026-08-20T23:15:12",
+  "rank": 19,
+  "place_id": "ChIJ8ddLiY11SjoRNTzJNpYWFm4",
+  "feature_id": "0x3a4a758d894bd7f1:0x6e16169636c93c35",
+  "kg_mid": "/g/11j4w63qm0",
+  "lat": 16.3110435,
+  "lng": 80.4314055,
+  "dup_of_rank": null,
+  "has_online_booking": false,
+  "booking_url": "",
+  "booking_vendor": "",
+  "service_options": null,
+  "permanently_closed": false,
+  "temporarily_closed": false,
+  "status_text": "Closed · Opens 11 am Fri",
+  "open_now": false,
+  "is_ad": false,
+  "review_snippet": "",
+  "name_raw": "Manoharam Skin, Laser and Cosmetology Clinic",
+  "name_clean": "Manoharam Skin, Laser and Cosmetology Clinic",
+  "name_key": "manoharamskinlaserandcosmetologyclinic",
+  "name_dropped": [],
+  "name_was_cleaned": false,
+  "category": "Skin care clinic",
+  "card_category": "Dermatologist",
+  "category_mismatch": true,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "1st Floor, 4/2, Lakshmipuram, Guntur, Andhra Pradesh 522007",
+  "plus_code": "8C6J+CH Guntur, Andhra Pradesh",
+  "phone": "098481 57838",
+  "website": "https://manoharamskinclinic.com/",
+  "website_domain": "manoharamskinclinic.com",
+  "website_type": "own_domain",
+  "insecure_http": false,
+  "has_own_website": true,
+  "website_matches_name": true,
+  "rating": 4.8,
+  "reviews_total": 73,
+  "rating_histogram": {
+    "5": 67,
+    "4": 4,
+    "3": 0,
+    "2": 0,
+    "1": 2
+  },
+  "histogram_sum": 73,
+  "histogram_reconciles": true,
+  "topics": {
+    "pigmentation treatment": 8,
+    "chemical peel": 4,
+    "knowledgeable doctor": 8,
+    "laser hair removal": 4,
+    "acne treatment": 9,
+    "clear treatment explanation": 2,
+    "scar treatment": 2,
+    "skin toning": 3,
+    "precise technique": 2,
+    "dull skin": 2
+  },
+  "google_profile_gaps": null,
+  "has_photos": true,
+  "hours": {
+    "Thursday": "11 am to 9 pm",
+    "Friday": "11 am to 9 pm",
+    "Saturday": "11 am to 9 pm",
+    "Sunday": "11 am to 2 pm",
+    "Monday": "11 am to 9 pm",
+    "Tuesday": "11 am to 9 pm",
+    "Wednesday": "11 am to 9 pm"
+  },
+  "about": {
+    "Accessibility": [
+      " Wheelchair-accessible car park",
+      " Wheelchair-accessible toilet"
+    ],
+    "From the business": [
+      " Identifies as women-owned"
+    ],
+    "Amenities": [
+      " Restroom"
+    ],
+    "Planning": [
+      " Appointments recommended"
+    ],
+    "Payments": [
+      " Google Pay",
+      " NFC mobile payments"
+    ],
+    "Map details": [
+      "Transit",
+      "Traffic",
+      "Biking",
+      "Terrain",
+      "Street View",
+      "Wildfires",
+      "Air Quality"
+    ],
+    "Map tools": [
+      "Travel time",
+      "Measure"
+    ],
+    "Map type": [
+      "Default",
+      "Satellite",
+      " Globe view ",
+      " Labels"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2prMlpXWnFVbGxvUzNCRVJqWTNZbDlIYlc1SFlYYxAB",
+      "author": "Madira Geetha",
+      "rating": 4,
+      "relative_date": "3 weeks ago",
+      "text": "I visited Manoharam skin and hair clinic for pigmentation.\nDr neelima Devi mam suggest for chemical peeling treatment this my 3rd sitting I found good results\nI'm so happy to share this review..",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoaFJrMUtRVlk1YjJ0NFl6aGpTbGRWUld4clNFRRAB",
+      "author": "BHANU PRAKASH PRUDHIVI",
+      "rating": 5,
+      "relative_date": "4 months ago",
+      "text": "We got laser hair removal treatment done for my friend at Dr. Neelima Devi madam’s, Manoharam Skin and Laser & Cosmetology Center, and the experience was really good 👍\n\nMadam is very professional and explained the entire treatment clearly, making my friend feel comfortable. The staff are also friendly, and hygiene is well maintained.\n\nThe sessions were smooth, and the pain was minimal. The results are gradually improving, with a noticeable reduction in hair growth.\n\nOverall, we are very satisfied 😊\nHighly recommend this place for laser hair removal 👍",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21VMVdWZGFTbEI1VVRnMU1UUlBZalZIYVU1TlpGRRAB",
+      "author": "Teja Tejesh",
+      "rating": 5,
+      "relative_date": "4 months ago",
+      "text": "Very keen  on patient care by treating and counseling and one of senior dermatologist",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214dU1tMXlabmN3YW5WTmNtVndZbXR3TTI5UlIwRRAB",
+      "author": "Enumurthy Mahendra Raj",
+      "rating": 5,
+      "relative_date": "5 months ago",
+      "text": "Had a wonderful experience at Dr Neelima Devi Manoharam Skin Clinic. The doctor is very patient, knowledgeable, and explains the treatment clearly. The staff are extremely friendly, caring, and make you feel comfortable throughout the visit. Highly recommended for anyone looking for effective and professional skin care treatment! ✨",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSR00yUlVNRVpHYmpSMFRUWTNjMWhUY0dvMGMxRRAB",
+      "author": "DEEPU SUNDEEP",
+      "rating": 5,
+      "relative_date": "5 months ago",
+      "text": "Excellent experience. The doctor is calm, knowledgeable, and explains everything clearly. Treatment was effective and well-planned. Staff and clinic atmosphere were also good. Highly recommended.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1ek5rUjZhV1pyZGt4V1ExOVlZa04zYVhBNVdVRRAB",
+      "author": "NAGA SAI",
+      "rating": 5,
+      "relative_date": "5 months ago",
+      "text": "I had a very good experience with Dr CH NEELIMA DEVI . The doctor is well qualified and excel l ent, listened patiently and explained my skin condition clearly. The staff was polite and\nthe hospital was clean. I am satisfied with the Fairness treatment. Thank you for the good care.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OMWFYUnZUSFJ4U0hveGF6UlpOVXRxWW5wV1pYYxAB",
+      "author": "haasitha vommena",
+      "rating": 1,
+      "relative_date": "6 months ago",
+      "text": "Too pricy my pckge was 32000 for 6 sittings 3 lasers nd 2 peels nd 1 hydra facial  i paid 16000 and i took 2 sittings 1 laser peel they told they will do carbon peel nd did a chemical  peel my skin didnt even peel nd didnt observe atleast 1% result nd i enquired many clinics here she is charging double or triple the prices but still no results atleast 1%  i have tried chemical peel in many other clinics from the last 3 years im getting gud result here 0 results ...this hospital is only for ultra rich people nd dctr is also available only 4 hrs a day dat too odd timings ....i totally never recommend this clinic u better search other options as there are many  nd the staff after paying money they wont even call or followup even for years....literally money looting",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KMVRWQnFhV05oUW5OUVZFdEhkRWxLTFdsemFrRRAB",
+      "author": "Dr Sai",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "Dr.Neelima is too good, she looks into the problem to the point and gives the treatment that causes a significant improvement in the condition, glad to have such a doctor for my acne and pigmentation, Thank you Manoharam clinic🙌🙌 …",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOdE5Ia3lOemQwZFRBelprUnphRE5DY21JMFYzYxAB",
+      "author": "Priscilla",
+      "rating": 4,
+      "relative_date": "9 months ago",
+      "text": "I was advised 8 sittings of CO₂ laser treatment, costing ₹44,000. Out of kindness, the dermatologist reduced it to ₹39,000 — how thoughtful! Paid ₹10,000 before the first session and, in the next visit, was asked to pay the remaining ₹29,000 “so that patients feel motivated to attend all sessions.” Very motivational indeed!\n\nEach sitting came with new prescriptions worth ₹3,000–₹4,000 — and interestingly, the creams changed every time, even though the ones from the first session could easily last 1–2 months. If you’re going to keep changing them every sitting, maybe prescribe smaller quantities instead of large tubes?\n\nThen came the medicine part — generic antibiotics, but charged at full MRP. When I questioned this, I was told they “do it because most patients are poor.” Touching logic! Because, as we all know, nothing says helping the poor like selling generics at branded prices.\n\nI pointed this out politely, and from then on, let’s just say the warmth in their hospitality dropped a few degrees. I was made to wait over 2 hours before treatment during the next visit, and the assistant (the BDS doctor) had to handle it.\n\nTo be fair, the laser results were good — no complaints there. But the medicine pricing and changing prescriptions every session could definitely be more transparent and patient-friendly.\n\nIf the clinic truly wants to help poor patients, maybe they could stop charging branded prices for generic drugs and avoid wasting patients’ money on extra-large ointment tubes every week. Just a thought!",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ka1N6RjFVeko2VXpCQmFIWm1OemxCZGtsNlpWRRAB",
+      "author": "bhavani bhavanasi",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Best dermatologist in the town\nI’m very much satisfied with the treatment\nThank you so much",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xMlNIZEJPVEpoY1dwd1JtMHpWamMzYkdGSGRGRRAB",
+      "author": "Kommarulu Madhavi",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I am visit for manoharam skin clinic.\nMy face full acne. Then was my skin clean acne.thank u dr. Neelima madam",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxdFdrWlFVV1l6UmxwVFkyOXBRVmwxVEZReFJWRRAB",
+      "author": "saidabisk786",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I am saidabi. My skin very rashes and fully etching. Consultant in manoharam skin clinic then my skin was clear.thank u manoharam",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21odFNXRlNOamRrTmxaSFNETXlOMGxmTFVodU9HYxAB",
+      "author": "Sravani naidu Sravani naidu",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I am sravani. Acne scars treatment was very difference in manoharam skin clinic.thanks dr.neelima mam",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psMU9XTnNWR2xoYVV0d00wNW9lbkJvWm1OaGFsRRAB",
+      "author": "Durgaprasad Ujjana",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Hair prp treatment good only one season growth is good",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oaFJsWXdTVXByVkVWaFprdDFPVVZDV1RSZlpsRRAB",
+      "author": "Venkata Ramana",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "very good treatment doctor was friendly .i am very happy.thank you manoharam thanks dr neelima mam",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Ga2QzQlhZVTVGWnkxdFgyTnhhV3RzTkU5WWJIYxAB",
+      "author": "Poka venkatesh",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGcFlUUlVjbk5RVDFOWFUyOXJZbWhQVFhsM04zYxAB",
+      "author": "Deviraju Gopi Siddartha",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Good",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfbllYTDJBRRAB",
+      "author": "Hanuma Kumar",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I came here with a skin problem and really I was very thankful to manohar skin care . doctor mam was very good at knowing the problem and giving a solution to the problem.thankyou manohar skin and laser clinic",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfcWIybjN3RRAB",
+      "author": "pokuri madhu",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I MADHUSUDHAN reddy came with c/o scabies to manoharam Clinic, to b honest Dr.Neelima mam dhagara treatment theskunna 15days ke maku Manchin results vachindhi v r very happy with the treatment.Thanq to manoharam skin Clinic n thanq to Dr.NEELIMA MAM",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzdzREbUlREAE",
+      "author": "uv.jagadeeswar",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Treatment was so good and best",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURyNXJtcmd3RRAB",
+      "author": "Joy ankam (Jyothirmai)",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNqd3NLbjRBRRAB",
+      "author": "Sunitha Madala",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Service and treatment is excellent\nGreat results",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR0Nk15a3BnRRAB",
+      "author": "Sri Gouri",
+      "rating": 1,
+      "relative_date": "2 years ago",
+      "text": "Treatment Tooo much expensive. We are not satisfied 😭 …",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMxa0tESmlRRRAB",
+      "author": "Sucharitha Janjarlai",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Best skin doctor I have ever seen, thank you mam",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURWdnZldWtnRRAB",
+      "author": "sita dev",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Friendly clean atmosphere.\nRecommend without any doubt for any treatment.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURWLXBQXzNRRRAB",
+      "author": "brahma reddy",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "It been nice and i have cured pimples have gone💫 …",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNWNk9QZkFREAE",
+      "author": "Koteswararao Kurra",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I visited Manoharam skin clinic for skin issues\nThis my second visit  I found the result\nThank you\nDr Neelima Devi garu..",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNsXzdqZzFBRRAB",
+      "author": "hema latha",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I visited Manoharam skin clinic for pigmentation\nDr will sgt by treatment\nThis my 3rd sitting\nI found results I'm so happy to share this review 😊\nThank you\nDr. Neelima Devi Mam",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURGcnRtNk5BEAE",
+      "author": "Manasa Veena Chandrapati",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "A nice, approachable place for skin issues.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ1dElmUDhBRRAB",
+      "author": "siri chandana",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Service and treatment is excellent\nGreat results",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM1c2N6QTRRRRAB",
+      "author": "amith priyansu jonnalagadda",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I was having trouble with acne and scars and had consulted many doctors previously but could not get satisfactory results, but once I consulted Dr. Neelima mam at Manoharam skin clinic and just with one chemical peel and add on skin care routine as advised by mam I had drastic improvements in my skin tone. I am very much satisfied and would highly recommend Dr Neelima mam and Manoharam skin clinic as your first priority for Dermatologist consultation.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM1d1ppNG9BRRAB",
+      "author": "Rupa Challapalli",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Good treatment and effective for extra hair removal on face",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM1a3FiNHdBRRAB",
+      "author": "SARADHI KONDEPATI",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM1LVBtUm1RRRAB",
+      "author": "TATIKONDA RAMACARi",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I had received better treatment in this hospital the way they are  receiving patients is well and good you can consult the hospital",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURaazRLSUh3EAE",
+      "author": "Ambati Aswitha",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I visited Manoharam skin and hair clinic for dull skin and pigmentation  issues\nDr suggested  Me skin therapy this my fourth sitting I found very good results\nI’m so happy to share my review\nThank you ☺️",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURaNDhuRVBBEAE",
+      "author": "Oleti Renuka",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I visited Manoham skin and hair clinic for pigmentation.mam suggested lasar treatment, this my second session I found good results thankyou Dr.neelimadevi",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURab2Nicm5BRRAB",
+      "author": "pavanisai kakumanu",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I’ve went through MNRF acne scars  treatment after 4 sittings results are very good and I’m totally satisfied with this ☺️. Thanks to Dr.Neelima Devi garu",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURabG9LV3p3RRAB",
+      "author": "bhagiradhi thimmapuram",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Good treatment related to acne",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURaM0lPNFJ3EAE",
+      "author": "Haritha M",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I visited Manoharam skin and hair clinic for pigmentation\nDr neelima Devi mam suggest for laser peels  treatment  this my 4th sitting  I found good results\nI'm so happy to share this review.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURaN0x5Zi13RRAB",
+      "author": "Posa Sai Ram",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I suffered with melasma but I go there and come back with good results.\n\nThankyou Doctor",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURaN0x6OUR3EAE",
+      "author": "Salauddin Syed",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I recently visited Dr. Ch. Neelima Devi for a skin issue and I am extremely satisfied with her treatment. She is highly skilled, knowledgeable, and professional, making me feel comfortable and confident in her abilities from the moment I walked into her office.\n\nDuring my consultation, Dr. Ch. Neelima Devi  took the time to thoroughly examine my skin and listen to my concerns. She patiently answered all my questions and explained the possible causes and treatment options in a clear and concise manner. Her expertise and attention to detail immediately put me at ease.\n\nThe treatment recommended by Dr. Ch. Neelima Devi  was effective and tailored specifically to my condition. She carefully explained the steps involved, any potential side effects, and what I should expect during the healing process. I appreciate her honesty and transparency, as it helped me manage my expectations and feel confident in the treatment plan.\n\nThroughout the procedure, Dr. Ch. Neelima Devi  maintained a calm and gentle demeanor, ensuring my comfort and well-being at all times. Her skilled hands and precise technique minimized any discomfort, and I felt reassured knowing I was in capable hands.\n\nAfter following Dr. Ch. Neelima Devi 's prescribed treatment plan, I have seen significant improvement in my skin condition. Not only did she address the initial issue, but she also provided helpful tips and guidance on how to prevent future flare-ups and maintain a healthy skin routine.\n\nIn addition to her exceptional medical skills, Dr. Ch. Neelima Devi  is also attentive and empathetic towards her patients. She genuinely cares about their well-being and takes the time to build a trusting relationship. I greatly appreciate her bedside manner and the personal attention she provides.\n\nI would highly recommend Dr. Ch. Neelima Devi to anyone seeking dermatological care. Her expertise, professionalism, and compassionate approach make her an outstanding dermatologist. I am grateful for her excellent treatment and am confident in her ability to deliver exceptional care to all her patients.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURaN0p5a3p3RRAB",
+      "author": "Azzu Basha",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I recently underwent PRP treatment with Dr. CH Neelima Devi and I am truly impressed with the results. Dr. Neelima Devi is not only highly skilled and knowledgeable but also genuinely cares about the well-being of patients. The treatment was conducted with precision, and the results have exceeded my expectations. I highly recommend Dr. Neelima Devi mam for PRP therapy – you can trust in their expertise for outstanding care.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURaOUt6cm5RRRAB",
+      "author": "Pavithra Katta",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I had got micro blading and scar treatment (MNRF) done over here.Dr. Neelima garu has been wonderful and took personal care of me . Really good ambience and highly recommended for all kind of skin and permanent make up treatments.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURaMUliQ1lnEAE",
+      "author": "Nirosha Ram",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "This is the best clinic in guntur\nDr neelima devi I visited for Ance treatment  it's a good result Tq",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURaMVBLVDZBRRAB",
+      "author": "anusha Deepika",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I came hear for my skin acne problem my problem rectified hear tq manoharam team",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURaMUtLaWFnEAE",
+      "author": "choppakrishna Murthy",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Visited Manoharam Skin ,Laser and Hair Clinic got Exllent treatment for Skin and Hair.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURaMUtMQWJ3EAE",
+      "author": "Safik Khan",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I visited manoharam hospital for hair problem and after treatment I am very satisfied with positive results .",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNaOWNLa2pBRRAB",
+      "author": "Brundhavanam Nithin Bharatwaj (Nani)",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Nice treatment...",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNaNWU3bExnEAE",
+      "author": "Sunanda Pusuluri",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I have took treat for face at manoharam skin clinic and I have a very good result",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNaektpMHBBRRAB",
+      "author": "Shaik Nasarvali",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Manoharam skin and hair clinic lo ma babu ki skin issue ki Dr neelima Devi Madam ne visit chesam  epudu ma babu skin issue tegindi  thank you 😊\nPlease visit your skin and hair problems …",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNacEpXN2ZnEAE",
+      "author": "Subbu Raavi",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Manoharam skin and hair clinic lo nen skin rashes vaste Dr neelima Devi Garini visit chesanu madam 3months cores echaru epudu na skin issues cure ayindi\nThank you so much Dr neelima Devi Garini",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNacE9uSXB3RRAB",
+      "author": "sailu m",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Manoharam skin and hair clinic lo nen skin therapy tisukuna first lo na face paina Challa pigment vundi nen Oka 6sitting tisukunna na face lo pegment taggi face kuda challa glow vachindi thank you Dr Neelima Devi garu",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKeDQzU3F3RRAB",
+      "author": "Bhargavi",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Great experience.\nMost recommended for laser hair removal.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSbjZfWFhBEAE",
+      "author": "Atluri Srinivasa Rao",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Very happy with services provided at Manoharam skin clinic for dark spot reductions on fore head and face all spots are reduced in two sittings of laser treatment and skin colour has become natural and fair.The clinic has all latest equipments and services provided at veryresonable prices.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSbjhPN3F3RRAB",
+      "author": "Srinija Kosaraju",
+      "rating": 4,
+      "relative_date": "3 years ago",
+      "text": "I had a Laser Facial treatment from Dr.Neelima at Manoharam Clinic and the results were amazing. With in the first sitting itself I have noticed 40-50% variation in skin toning, brightness and acne reduction. Packages offered at Manoharam Clinic are reasonably priced and many of my friends had a satisfactory experience too.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSbjcyblFREAE",
+      "author": "omprakash om",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "I was troubled with psoriasis since 20 years. I’m suffered with scalp psoriasis as well as skin psoriasis at different parts on my body.\n\nNow, It was cured, and no traces were present.\n\nDr. Neelima advised me, there is a possibility of reoccurrence and precautions to be taken. I am fallowing the tips provided by her.\n\nDuring treatment she is very punctual and time to time she given good treatment and I am very happy with the outcome.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSX0tEYWpnRRAB",
+      "author": "Dr Mounika",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "had very great experience with this clinic...the staff, the equipment, the ambience n finally the pillar, Dr. Neelima mam ...very supportive, frndly..explains about treatment options, pros n cons...thnq so much Mam.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNSbXNYdi13RRAB",
+      "author": "monika desireddy",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "This is my fifth sitting here in Manoharam. The staff here is very cooperative and friendly. I visited this place for laser hair removal treatment. I had observed tremendous change in the hair growth. It has reduced to a greater extent. All thanks to Manoharam .",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURoMzQ3TnVRRRAB",
+      "author": "Meghana Choudary",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURoMzhxbndBRRAB",
+      "author": "Anjali devi chennupalli",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Excellent skin and hair care solutions",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURoMzRLU1ZnEAE",
+      "author": "Akshith Maddali",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "One of the best treatments in the town",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURCOVpQYzVRRRAB",
+      "author": "S Sravanthiii",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURCaUwyV3B3RRAB",
+      "author": "Yerra Raviteja",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Dr.Neelima madam is exceptional at skin care solutions. This is been my goto place for all kinds of skin issues.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNCdGRTQ3ZRRRAB",
+      "author": "Siva Brahmam",
+      "rating": 5,
+      "relative_date": "Edited 3 years ago",
+      "text": "Very Good and Satisfied with the way they Do Treatment.. Highly Recommended",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNCLTU3SjZnRRAB",
+      "author": "bhanu kunu",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Got a treatment for acne scars, Had a Great Service and Hospitality, Treatment had Gone well a d Result was Great, I Strongly Recommend for Skin Related Issues.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNCLTVUV1B3EAE",
+      "author": "Babji Malladi",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Excellent skin care solutions\nGood mannered people\nDr.Neelima madam have excellent knowledge regarding skin issues",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNCLTVUQ1RnEAE",
+      "author": "Dr Krishna Prabha",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Excellent skin care solution....\nDr Neelima mam helped with my skin dullness with her care and treatment",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNCLThpRzB3RRAB",
+      "author": "Ananda Pavani",
+      "rating": 4,
+      "relative_date": "3 years ago",
+      "text": "Good ambience , friendly staff and very experienced doctor . Treatments with high efficient technology . I had good experience in Manoharam . Thank u doctor and staff",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNCbGQtSDFnRRAB",
+      "author": "charan gangisetti",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Highly qualified doctor and best skin care hospital in guntur.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNCdGRTZmtRRRAB",
+      "author": "Chaitanya PVSS",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtal9EUzZRRRAB",
+      "author": "kalukuri Suneetha",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "very good",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNXZ0tLMV9BRRAB",
+      "author": "Ramesh Adari",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURtNGRyX2FBEAE",
+      "author": "Sharief Shaik",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    }
+  ],
+  "reviews_error": "",
+  "sorted_newest": true,
+  "stopped_at_known_review": false,
+  "reviews_captured": 73,
+  "owner_replies": 16,
+  "reviews_coverage": 1.0,
+  "date_anchor": "2026-08-20T23:15:12",
+  "extract_seconds": 33.9,
+  "missing_fields": [],
+  "page_rendered": true,
+  "error": ""
+}

@@ -1,0 +1,1727 @@
+{
+  "key": "ChIJ-z3-q_N1SjoRGYwKfTiaFiI",
+  "tier": "full",
+  "complete": true,
+  "place_url": "https://www.google.com/maps/place/Dr.+Sneha+Kovi/data=!4m7!3m6!1s0x3a4a75f3abfe3dfb:0x22169a387d0a8c19!8m2!3d16.2994162!4d80.4513166!16s%2Fg%2F11r9bdrk76!19sChIJ-z3-q_N1SjoRGYwKfTiaFiI?authuser=0&hl=en&rclk=1",
+  "captured_at": "2026-08-20T23:07:12",
+  "rank": 11,
+  "place_id": "ChIJ-z3-q_N1SjoRGYwKfTiaFiI",
+  "feature_id": "0x3a4a75f3abfe3dfb:0x22169a387d0a8c19",
+  "kg_mid": "/g/11r9bdrk76",
+  "lat": 16.2994162,
+  "lng": 80.4513166,
+  "dup_of_rank": null,
+  "has_online_booking": false,
+  "booking_url": "",
+  "booking_vendor": "",
+  "service_options": null,
+  "permanently_closed": false,
+  "temporarily_closed": false,
+  "status_text": "Closed · Opens 9 am Fri",
+  "open_now": false,
+  "is_ad": false,
+  "review_snippet": "",
+  "name_raw": "Dr. Sneha Kovi",
+  "name_clean": "Dr. Sneha Kovi",
+  "name_key": "drsnehakovi",
+  "name_dropped": [],
+  "name_was_cleaned": false,
+  "category": "Dermatologist",
+  "card_category": "Dermatologist",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "Kugler Hospital Rd, Kothapeta, Guntur, Andhra Pradesh 522001",
+  "plus_code": "7FX2+QG Guntur, Andhra Pradesh",
+  "phone": "079817 81187",
+  "website": "http://www.drsnehakovi.com/",
+  "website_domain": "drsnehakovi.com",
+  "website_type": "own_domain",
+  "insecure_http": true,
+  "has_own_website": true,
+  "website_matches_name": true,
+  "rating": 4.8,
+  "reviews_total": 200,
+  "rating_histogram": {
+    "5": 190,
+    "4": 1,
+    "3": 0,
+    "2": 1,
+    "1": 8
+  },
+  "histogram_sum": 200,
+  "histogram_reconciles": true,
+  "topics": {
+    "hair transplantation": 2,
+    "hair fall problem": 8,
+    "melasma treatment": 2,
+    "fast results": 5,
+    "PRP": 4,
+    "acne treatment": 11,
+    "talented doctor": 7,
+    "chemical peels": 2,
+    "attentive listener": 3,
+    "no side effects": 2
+  },
+  "google_profile_gaps": null,
+  "has_photos": true,
+  "hours": {
+    "Thursday": "9 am to 1 pm, 5 to 8 pm",
+    "Friday": "9 am to 1 pm, 5 to 8 pm",
+    "Saturday": "9 am to 1 pm, 5 to 8 pm",
+    "Sunday": "10:30 am to 12:30 pm",
+    "Monday": "9 am to 1 pm, 5 to 8 pm",
+    "Tuesday": "9 am to 1 pm, 5 to 8 pm",
+    "Wednesday": "9 am to 1 pm, 5 to 8 pm"
+  },
+  "about": {
+    "Accessibility": [
+      " Wheelchair-accessible seating"
+    ],
+    "Service options": [
+      " On-site services"
+    ],
+    "Amenities": [
+      " Restroom"
+    ],
+    "Planning": [
+      " Appointments recommended"
+    ],
+    "Payments": [
+      " Debit cards",
+      " NFC mobile payments"
+    ],
+    "Map details": [
+      "Transit",
+      "Traffic",
+      "Biking",
+      "Terrain",
+      "Street View",
+      "Wildfires",
+      "Air Quality"
+    ],
+    "Map tools": [
+      "Travel time",
+      "Measure"
+    ],
+    "Map type": [
+      "Default",
+      "Satellite",
+      " Globe view ",
+      " Labels"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkU01reDZRWGMxTWxabmVXbFdOVE5GVWt3d1RsRRAB",
+      "author": "Venkat KRC",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "If you are looking for a dermatologist who combines knowledge , professionalism and genuine care for patients , i highly recommend dr sneha kovi",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pod1dsRlpaa3hrV2pSZkxXUldjRE5YVFZWM1FYYxAB",
+      "author": "Roshan KRC",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "I especially appreciate her expertise in hair treatments and hair care tips  ..overall experience was smooth and comfortable",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OR2JqSjJUMHhqYWtvM09HTkxiMmhtVEc5bFQwRRAB",
+      "author": "MOHITH RAM",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "Doctor is very patient in explaining the procedure ..saw best results for my hair",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wblNHMW9SMHA1VTNwWmVXeGhlRTVFTUdjNWNuYxAB",
+      "author": "Arkhas Techa Academy",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "Best dermatologist in guntur , very happy with the treatment .thankyou madam",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psbFJucDBkVEZLTTA0d1gwRkdkVm96WmpBMmMwRRAB",
+      "author": "Preran Sai",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "I had a fantastic experience here. They were incredibly knowledgeable and took the time to accurately diagnose my skin issue after months of me trying to figure it out on my own. The treatment plan they prescribed worked wonders, and my skin has never looked better. Highly recommend!",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aU1FubHViRWxoWlhKMVIwaFdhM1UzTmpKUGNsRRAB",
+      "author": "Ishwarya Reddy",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "I consulted the doctor in February for the first time. Today, I am writing this review because I got a massive improvement for my cystic acne. I used to get a lot of cystic acne. Doctor Sneha has targeted the issue gradually. She never recommended the stronger dosages to avoid the side effects. She gradually brought the improvement to my skin. She did carbon laser which helped me to get rid of the acne and it helped me with the skin texture. Overall she has what she is supposed to do aa a dermatologist.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wNWRWRjJWVzFZWmt4MldXSlJYemRFTFhrNWIxRRAB",
+      "author": "vineeth chintu",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "\"I went in very worried about a skin problem. The doctor understood the problem and suggested the right treatment. Now I see good improvement.\"",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KSE5EWkhUSEpTVFdVMVRIWTBhbEV4WlhoVlExRRAB",
+      "author": "Suri Suresh",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "Very good doctor. He speaks politely to patients and provides treatment tailored to the problem.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kS2JDMWtjMlJwTWtWVVVsTlhXRTFvVERodGNGRRAB",
+      "author": "Harshini Suri",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "They provided the right treatment for my skin problem. They answered all my doubts. I am satisfied.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xjelRraDZNMXBCVEhkUVZIVXlVbkUzTkV0RE5HYxAB",
+      "author": "Suri Suresh",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "I consulted for the first time. I liked the doctor's approach. He examined me very carefully and prescribed treatment.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsZmRFVmxNMWM0YVRFeWFVa3RZV2QxYWtWb1JHYxAB",
+      "author": "viran muttamsetty",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "I really  love the results . My sincere  thanks  for dr.sneha garu for the results I expected :)",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twR2RVZDZPSEJpT0ZKS05rUlFUVmxsVkdabVIwRRAB",
+      "author": "Sriram Chintapalli",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "My face has improved\nAnd decreased acne\nSpots have also been faded\nGood doctor\nGood treatment\nGood experience",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s4dGJGaExYMHd3ZFRVM2FEbGxhbUpZZFUxVU5tYxAB",
+      "author": "MOHAMMED AZHARUDDIN PATAN",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "Good experience with good hospitality",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taeVJEUjBVWGhyVUdWMVIycFBNV1p2TkhKQ1owRRAB",
+      "author": "Pranita Kommareddy",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "I have been visiting Dr. Sneha mam since 4 years and very satisfied with the treatment and suggestions by mam. I underwent Botox and Q- switched laser, the results are very satisfying. I underwent the treatment and maintained well so the results lasted longer.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wUGQzZHNXazF6U21Wd1VsQTFPVXcwTTFGZk9HYxAB",
+      "author": "shania kingham",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "I consulted Dr. Sneha Kovi for my skin concerns, and I had a great experience. She explained everything clearly and suggested the right treatment. I am happy with the results and highly recommend her.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGRGREWlRjbmxsWTJFMldWZHJaMUExWm10YWMzYxAB",
+      "author": "alone lover",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "I underwent the MCT procedure for hair fall, and I could clearly see noticeable results within just one month. Dr. Sneha explained the entire procedure in detail, addressed all my concerns with patience, and gave me confidence throughout the treatment. Her expertise, professionalism, and reassuring approach made the whole experience very comfortable. I highly recommend Dr. Sneha to anyone looking for effective hair fall treatment.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWb2RtRlRWRVIzUzNONE5XcHNla28zUkVsWGJuYxAB",
+      "author": "Rakesh Raj",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "I've had a great experience with Dr sneha .the dedication ,attention to detail ,and genuine passion for both hair and skin are truly impressive .I noticed a significant reduction in my hair fall and a much faster recovery than I expected .the treatment was evidence based ,and every step was explained clearly .highly recommended to anyone looking for expert hair and skin care",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkM1dFUTRjRFZYUm5oMmF6Vm9jMlZHT1ZSS2NsRRAB",
+      "author": "TRIVENI POLAKI",
+      "rating": 5,
+      "relative_date": "2 months ago",
+      "text": "Super super doctor,\nTank you soomuch madam",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psTlVXazNWbXAzUlhacmRubG5ibWh1YTJSaGQyYxAB",
+      "author": "Ravula keerthi",
+      "rating": 5,
+      "relative_date": "2 months ago",
+      "text": "Good  service best doctor for skin problems",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1a1luWTFjVXBCT1hOVlduTkZOV3Q1TldObE5IYxAB",
+      "author": "Sujatha Hindu",
+      "rating": 1,
+      "relative_date": "4 months ago",
+      "text": "Waste of time and money",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21RNVVuSktWRk52VFVwUldUSjZVRjlaVTBwemVFRRAB",
+      "author": "Karthik",
+      "rating": 5,
+      "relative_date": "5 months ago",
+      "text": "I consulted Dr. Snehe, one of the best skin specialists in Guntur, for tan removal treatment. Her advice on diet and medication really helped, and I’m happy with the results now",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOd1JUWnZRVlF3YldKRmIzRnhWVTUyWW10RU9FRRAB",
+      "author": "Karthik Arjun",
+      "rating": 5,
+      "relative_date": "5 months ago",
+      "text": "I’m Karthik, Doctor Sneha garu treated my hair fall problem with PRP sessions. I can see good hair growth now. Very satisfied with the treatment and care.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wQmFETXhjRkJpWVhOc1NEaHlRakZCZURNd0xXYxAB",
+      "author": "sai krushna",
+      "rating": 5,
+      "relative_date": "5 months ago",
+      "text": "Dr. Sneha Kovi is one of the best dermatologists in Guntur. I consulted her for acne treatment and saw visible improvement within a few weeks. She explains everything clearly and gives the right treatment.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfbTV5N2tBRRAB",
+      "author": "kadanagdla pranay",
+      "rating": 5,
+      "relative_date": "Edited 5 months ago",
+      "text": "Excellent skin and hair clinic. I got treatment for dandruff and hair thinning. Results are very good. Thank you Dr. Sneha.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSTlkwWklXUzAxWW01d1RUQlVTRUZzWDBsSlpWRRAB",
+      "author": "Gopi Gopi",
+      "rating": 1,
+      "relative_date": "5 months ago",
+      "text": "I consulted Dr. Sneha Korivi regarding hair fall. Unfortunately, I was disappointed with the consultation. I felt that my concerns were not fully listened to before recommending blood tests, including thyroid tests, without clear explanation.\n\nEven after receiving the results, my condition and next steps were not properly explained. I hope the doctor can improve communication and provide more detailed guidance to patients in future.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toeExYWnhXSEJYV2pJd2VYVkhWRXBHTUd4bWFFRRAB",
+      "author": "MOUNIKA SINDHU",
+      "rating": 5,
+      "relative_date": "5 months ago",
+      "text": "I am from Hyderabad and recently visited Guntur to stay at my cousin’s house. I had been facing heavy hair fall for the past 3 months, and my cousin suggested that I consult Dr. Sneha.\n\nAfter following her guidance, using the prescribed shampoo, and taking proper care as advised, I slowly started noticing improvement. Now my hair fall is under control, and I can also see new hair growth.\n\nI’m very happy with the results. She is truly the best dermatologist in Guntur.\nThank you Doctor...",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SUkxVWlhRM3BwYW5wWlkwVmZTVkUxTm1ocFlVRRAB",
+      "author": "LAKSHMI NARAYANA CHALLA",
+      "rating": 1,
+      "relative_date": "7 months ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ob1JFZEdXVUpNVW1WaFpFZHNVbEpCVVhsS2MyYxAB",
+      "author": "vaibhavi yarlagadda",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "Dr. Sneha Kovi provides excellent care and delivers fantastic results. I saw her for hair and skin treatments and am completely happy with the outcome.\nShe is highly attentive and available, always responding whenever needed. Dr. Kovi clearly guides you through every process and future step. Highly recommend for anyone seeking a caring and effective dermatologist!",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oTFJGOUNNWEZxVWtkSFgwMXZla3hDVDFZMU5GRRAB",
+      "author": "silpa kodali",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "Dr. Sneha is an exceptional physician who has provided me with treatments for hair loss and acne, resulting in remarkable outcomes. She consistently offers valuable guidance and support. Very happy with my skin now. I Highly recommended her services.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOQlEyOXphWGhrWXpCVU5FaDVVRGxHYW1sRVgxRRAB",
+      "author": "Sankeerthan Goud",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "I was suffering from acne, and Dr. Sneha suggested chemical peels. After a few sessions, my skin is clear. Thank you, doctor garu. Truly the best cosmetologist in Guntur.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205RGFHSXRkRzU0Y1RWUVVEWlZXVWMxZEcwNFNrRRAB",
+      "author": "Tulasi Krishna",
+      "rating": 2,
+      "relative_date": "9 months ago",
+      "text": "expensive medicines  only  2 out of 10 are useful and treatments are slow process and sometimes no results also ...prp is of no use and hair transplantation and hair tablets which are labelled as sample use tablets label in the medicine is purely waste of money as it gives no results for hair growth ... Melasama medicine also not useful...It is better to choose dr kavya madam ( leelavati hospital)she treats skin problems fastly even though medicine is little expensive but  gives you satisfaction for the money you paid and she listens to the problem nicely and explain you the reasons and the treatment process and no need to visit the hospital for the problem multiple times* is the happiest thing for anyone in my opinion",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xrMk1GazFTV3hLVG14eFprbE9UbFUwYzB4NGFGRRAB",
+      "author": "Rushal Chakravarthy",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "I was suffering from pigmentation and acne, which caused me a lot of pain. I visited Dr. Sneha, and she suggested Hydra Facial treatment along with a proper food diet. After following her treatment and advice, my skin improved a lot and those problems reduced greatly. Truly, she is the best cosmetologist in Guntur. Thank you Dr. Sneha for your care and guidance.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21odFRXZHdiRlpJZVdaa1MzaGpSRWc1WHpGaFdFRRAB",
+      "author": "Neelima gudikandula",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "This is Neelima. I had chemical peel sessions with Dr. Sneha Kovi, the best skin specialist in Guntur. Just in 3 sittings, my face has improved a lot. I can see visible glow and better texture in my skin.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25jemRESmFSRU4yVFRoMVQyRjRVa05MUTB0T00xRRAB",
+      "author": "Soni Medicover",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "I was struggling with acne for a long time. Dr. Sneha Kovi is truly the best skin doctor in Guntur. She carefully examined my skin and explained the treatment in a way that was easy to understand. After following her advice and completing the treatment, my skin has cleared up beautifully. I feel so much happier now. I am very thankful to Dr. Sneha Kovi for her excellent care.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VLNjQ5ZWUwb2RUVWxRRRAB",
+      "author": "sriya yarlagadda",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZaE9MNk9BEAE",
+      "author": "Venkata Sai Krishna Bandaru",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Dr. Sneha is very professional and friendly—helped me with my skin issues and the results were better than expected",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZaEtMVGFBEAE",
+      "author": "BALAJI GOKUL",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Good",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZaE56UW5BRRAB",
+      "author": "Mokshu MokSHu",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Highly experienced in treating acne and best service offered here",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZaElTRGNnEAE",
+      "author": "karthikeya pavan",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "She is a good doctor and nicely taking care of every issue what we are having..",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChRDSUhNMG9nS0VJQ0FnTUNZLUlkbRAB",
+      "author": "NUKALA VENKATA VISHNU MURTHY",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Grate experience",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZLUllRUxnEAE",
+      "author": "Satya phaneendra Billa",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZOExuV0tnEAE",
+      "author": "nsr Chowdary",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Dr. Sneha Kovi stands out in Guntur for her expert and personal approach to dermatology, ensuring every patient feels valued",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZOE1uTnJ3RRAB",
+      "author": "Neela Shashank",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "One of the great doctors available is Dr. Sneha Kovi! Very professional, friendly, and the treatment results were better than I expected. Definitely a 5-star dermatologist!",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNfaUs2MlpBEAE",
+      "author": "sai krishna",
+      "rating": 1,
+      "relative_date": "Edited a year ago",
+      "text": "Visited here today and overall experience is horrible...\n\nUnclear Billing: Despite paying thousands, they provide handwritten bills that are impossible to understand. This lack of transparency in billing is unacceptable.\n\nNo Digital Bills: Refusing to provide digital bills adds to the overall lack of professionalism and transperancy...\n\nPrescription Issues: If you want to purchase medicines outside due to their high prices, they won’t disclose the names of the medicines, essentially forcing you to buy from them.\n\nLack of Concern for Patients: Once the consultation fee is paid, staff shows no interest in addressing patient concerns...\n\nThis facility lacks basic transparency and professionalism. I would not recommend it unless significant improvements are made.\n\nResponse to owner comment:\n\nI appreciate your prompt response, but I must express my disappointment with the way my concerns have been addressed.\n\nPrescription & Billing Transparency: While you claim the prescriptions and handwritten bills are legible and standard, this was not my experience. The lack of clarity in the billing process and refusal to provide digital bills hinder transparency and professionalism. In today's digital age, providing a clear, itemized digital bill should be standard practice, ensuring patients fully understand their expenses.\n\nMedication Purchase Policy: The assertion that prescriptions are legible does not align with my experience. Furthermore, the insinuation that I would easily find medications elsewhere if I hadn’t purchased from your dispensary is misleading. Patients should have the freedom to choose where they buy their medications without facing unnecessary obstacles or feeling pressured to purchase from your clinic.\n\nStaff Interaction: Your defense of the staff’s behavior, based on camera reviews, dismisses my firsthand experience. Regardless of my demeanor, as a paying patient, I expected courteous and professional service. Holding me accountable for seeking clarity on my prescription and billing during my visit is unacceptable. The expectation of empathy and support from the staff was unmet, adding to my dissatisfaction.\n\nCost of Treatment: While I understand the cost of medications is not within your control, the lack of transparency and the manner in which costs were communicated left much to be desired. Patients have a right to clear, upfront information about their treatment options and associated costs.\n\nI shared my experience not as slander but as honest feedback in the hope that it would be taken constructively. Dismissing it as slander undermines the genuine concerns of patients who expect better service. I hope you take this feedback seriously and work towards improving transparency, communication, and patient care at your clinic.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfMjVTNW5BRRAB",
+      "author": "CHINTAREDDY PAVAN SAINNADH REDDY",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Dr. Sneha Ma'am is excellent at her work. I visited the clinic for a hair problem, and the results were amazing. If you have any skin or hair problems, don’t hesitate to consult her. She listens carefully to your concerns and recommends the best treatment with advanced technology.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfdmZmZjV3RRAB",
+      "author": "Beulah Gondi",
+      "rating": 1,
+      "relative_date": "a year ago",
+      "text": "Worst staff experience ever worst experience in my whole life",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmazdELVF3EAE",
+      "author": "suneel kumar",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I cannot thank Dr. Sneha enough for her incredible care and expertise! My mom has been struggling with melasma for a long time, and Dr. Sneha not only addressed her concerns with compassion but also suggested the Cosmelan peel. The results have been amazing in such a short time, and my mom is so excited to see the full transformation. Dr. Sneha’s attention to detail and dedication to her patients are truly commendable. Highly recommend her to anyone looking for effective and personalized skincare solutions. Thank you, Dr. Sneha!",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ3djhIQjNRRRAB",
+      "author": "Ravi Polireddy",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Excellent to take treatment here for any skin problems",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM3bXVtUnB3RRAB",
+      "author": "andela nagaraju",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I am suffering from allergy problem and after consulting Dr.Sneha Kovi garu my problem is completely reduced.Thank you soooomuch mam.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwOE1DM1p3EAE",
+      "author": "Preetham Pallikonda",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "The best treatment....\n100 percent cure",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwOElENEt3EAE",
+      "author": "Vamsi Krishna",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Best dermatologist and guntur\nNice hospitality by staff and dr sneha madam",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKcTVHbjFRRRAB",
+      "author": "Sd Rameez",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "I have searched many doctors in guntur and finally I have treated with dr.sneha kovi for my acne and melasma problem I am totally happy with result.\nExperiences doctor I have never seen",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKOFByNTF3RRAB",
+      "author": "Avanthi Chimakurthi",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Helped like a charm",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNSazV1Ykt3EAE",
+      "author": "Devendra Bandaru",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Good",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNSb19QZDNnRRAB",
+      "author": "prabhu kumar",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Nice risiving",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURoME1QT2pnRRAB",
+      "author": "Rohith Pedamallu",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "I’m very glad I found Dr. Sneha kovi for my hair treatment, one of the finest dermatologist’s I’ve ever seen. Takes good care of the patients, educates them and makes us believe you. Thank you so much I’m overwhelmed with the results and would recommend you any time.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURoME82ZEh3EAE",
+      "author": "gautam sunkara",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURoMFBxbFdBEAE",
+      "author": "SRIHARSHA SANA",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Where there is a will, there's a way! This is the one quoted by Dr. Sneha Kovi on my hairfall reduction treatment. I've travelled many cities for the treatment  and which cost me my valuable time and wasting money and around that time I heard about Dr. Sneha Kovi at her own clinic at Guntur and consulted her. After about 4 months of treatments, I was literally surprised to see that hair fall has gradually stopped and I was so happy that a lot of reduction in my hair fall all thanks to her. She had taken a lot of care at very personalized level and treated me with care, observation and follow-ups until I get rid of the issue at pretty much affordable fees. She treated very naturally with no side effects of the medicine she had prescribed.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURoMEliWXlRRRAB",
+      "author": "Suman Allamneni",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURoa0ozbWpRRRAB",
+      "author": "B Ram Dutha Naik",
+      "rating": 4,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNCMjdTTUh3EAE",
+      "author": "Reshma Rusumdar",
+      "rating": 1,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNCdzhmSmxBRRAB",
+      "author": "Doctor",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "I have taken  PRP session by Dr. Sneha in which I found very good result in first session itself.. M very happy to continue my further sessions by her and expecting to get great results n experience…",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtOXVIa0F3EAE",
+      "author": "Why you Need my name",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQtbHBQal9BRRAB",
+      "author": "Ch Kondareddy",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtMXNqNkJBEAE",
+      "author": "Killada Sirisha",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtbHN2b0hnEAE",
+      "author": "Nagabharathi Pasam",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQtbHZuempRRRAB",
+      "author": "Divya Ch",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtbHRtdlVBEAE",
+      "author": "Vamsi Thota",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQtcHJLN2hRRRAB",
+      "author": "Sri Vidya Abburi",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQtcHBTazVBRRAB",
+      "author": "prasanna",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtcHBpLVN3EAE",
+      "author": "Hyndavi Ainampudi",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "💫 …",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQtcHFqeXV3RRAB",
+      "author": "VINEELA KANTAMNENI",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQteHBfdWR3EAE",
+      "author": "Jagarlamudi Manikanta",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQteHBfOFJnEAE",
+      "author": "Namala Sathvika Reddy",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQteHYzU3B3RRAB",
+      "author": "Lakku aswini",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQteHU2UVF3EAE",
+      "author": "Marri Alekhya",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQteHZhOXFBRRAB",
+      "author": "Pavanteja Ravipati",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQteHZMaTJBRRAB",
+      "author": "Maganti Veeraiah",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQtaHEyRzBBRRAB",
+      "author": "komalatha bandlamudi",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQtaHZYa3BRRRAB",
+      "author": "Pravallika Valiveti",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtaHU3U0NREAE",
+      "author": "Perla Srilekha",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQtaHFyTjBRRRAB",
+      "author": "Anusha Ponamala",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtaG9LSEdnEAE",
+      "author": "Arlagadda Prasad",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQtNnYzemxBRRAB",
+      "author": "haritha Paladugu",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtNnNhQWRREAE",
+      "author": "Krishna Hari",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQtNm9hYTFRRRAB",
+      "author": "Manikanta Naidu",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtNnRpYWNREAE",
+      "author": "Kuna Sravani",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQtNnVpQ2p3RRAB",
+      "author": "venkata ramana",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQtNm9pcHJRRRAB",
+      "author": "Saritha Devineni",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQteXJtVXd3RRAB",
+      "author": "Venky Pachipala",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQteXRuQ29RRRAB",
+      "author": "GOKUL MARUTHI KOLA",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Super and nice.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQteW9tUmhBRRAB",
+      "author": "Ragini gowri Pathuri",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQteXVHb29RRRAB",
+      "author": "Dhana Lakshmi",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQteXQ2Si1nRRAB",
+      "author": "Hyma sravya Nulu",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQteXA2cjJ3RRAB",
+      "author": "Suneeta Tunga",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQteXM3QTNnRRAB",
+      "author": "ammu kakumanu",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQteXBibGdRRRAB",
+      "author": "Bulla Nireekshana",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Dr.sneha kovi did a great job she explained everything to me in very clear manner.she takes time with patient to listen your concerns! I highly recommend her to any one looking for dermatologist",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQteXNhOEZREAE",
+      "author": "Sasikala Boddu",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQteW9hRTJRRRAB",
+      "author": "Bhavanapriya Kolli",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQteW9hZ2dRRRAB",
+      "author": "pallavi sri",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Really very nice",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQteXZydFdBEAE",
+      "author": "Lavanya Alla",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQteXFxaHFnRRAB",
+      "author": "meenakshi dhulipalla",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "She is very proficient, good treatment and fastly response in that field,TQ mam I very convenient and safety in your treatment",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMtdWFicld3EAE",
+      "author": "ajay mehar",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Best Dermatologist in guntur\nBest laser treatment\nFast results with less sittings\nHighly recomended",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMtdVliRExREAE",
+      "author": "Chandra lekha Kolisetty",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Best dermatologist in guntur ..\nExplained very nicely and good hospitality",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlb05TRUJ3EAE",
+      "author": "Kalpana G",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Very nice and very well explanation good suggestions for my son thank you Dr. Sneha mam",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNlbnVuSTJRRRAB",
+      "author": "girish parimala",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Hii mom.your very ,very talented person.in guntur.miru patient tho chala baga mataldtharu ardham avuthundhi.ma sis peel cheysaru skin normal stage ki vachindi.tq mom . God bless you mom",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1d2VfNVJREAE",
+      "author": "Ganesh Naidu Polisetti",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Best dermatologist, been here for spots on my face. Almost instant results with her treatment. Highly recommend her.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURPcGVYWE53EAE",
+      "author": "Pingali Kalyani",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Super talented.. doctor dr sneha kovi",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURPcGFXTjhBRRAB",
+      "author": "K Padhmavati",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Best doctor.. Dr. Sneha Kovi",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURPcGJtQUlBEAE",
+      "author": "Pingali Sasibhushan",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "The best dermatologist i have ever met Dr sneha",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURPcFpueVlREAE",
+      "author": "jahnavi pingali",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "The best doctor.  most talented doctor",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURPcGU2Q253RRAB",
+      "author": "Karthik Muppera",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURPd1pmVXFBRRAB",
+      "author": "omvenkatateja sakineni",
+      "rating": 1,
+      "relative_date": "4 years ago",
+      "text": "Worst experience.\nI had undergone MNRF treatment along with PRp session . Not even a single percent change. The receptionist is terrible. She charged extra money for numbing cream which should be included in the treatment as its decently costly treatment. And for PRP session, blood is taken by the Receptionist not nurse. The receptionist who had little experience first pumped the empty air from the syringe. I was horrified . I would not recommend this particular hospital for cosmetology. Dermatologist is good though.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNPeWYtWEx3EAE",
+      "author": "Akhila Patibandla",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "I visited for treatment of acne but to my surprise not only my acne but my skin improved a lot..thanks a lot mam",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURXN05mNF9nRRAB",
+      "author": "Sreeapoorva Puttagunta",
+      "rating": 5,
+      "relative_date": "Edited 4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNPM0p5SVlBEAE",
+      "author": "Mrudula Krishna",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "I think the best treatment for skin and hair is done by snehakovi in guntur",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNPM096QU5REAE",
+      "author": "Tejaswini K",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Best dermatologist in guntur ...",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNPM0t5aEJBEAE",
+      "author": "dheeraj vanama",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Very good",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNPbk1hNTBBRRAB",
+      "author": "Balaji R S .A",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Mostly value for money ,best hospitality nd qualified treatment by certified doctor",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNPbklhQmlnRRAB",
+      "author": "Ajay k",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNPbklibzdnRRAB",
+      "author": "Maheswari T",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Wonderful treatment done  by Dr sneha kovi",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNPLUpUbWJnEAE",
+      "author": "Anukrithi Mikkilineni",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "I visited this hospital with acne and I'm glad I did . My skin improved a lot. Very good service.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNPLUppMU9BEAE",
+      "author": "Nikitha Sweni",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Best Dermatologist in Guntur .",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNXdGRDOUJREAE",
+      "author": "Sai Meghana Madala",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Dr.Sneha is an excellent dermatologist, She’s very helpful and understands our condition. And gives us best treatment.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURhc3ZpX0l3EAE",
+      "author": "anusha rani atluri",
+      "rating": 1,
+      "relative_date": "Edited 4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNXNU5TUF9BRRAB",
+      "author": "Peddaboina Keerthi",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNXcEtlUTZnRRAB",
+      "author": "SARVANI PANGULURI",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNXcE51ZnhnRRAB",
+      "author": "Aasritha Chowdary",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURHX3VTbXd3RRAB",
+      "author": "Rohit",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURHX29TRnFBRRAB",
+      "author": "Mallika Mahalakshmi",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNHcjlyQmlBRRAB",
+      "author": "sasi pingali",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "💯 recommended 👏 …",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNHOF91Q1F3EAE",
+      "author": "Srinadh Iyer",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNHODd1NU9REAE",
+      "author": "Namballa Aravind Bharadwaj",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Excellent care every doubt was very dealt with treatment showed results very eary thanks fir such a wonderful care morw doctirs needed like this",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNHODl1eVFBEAE",
+      "author": "Dheeraj Sai",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNHcmJpMk9REAE",
+      "author": "Hasitha T",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNHcmVpZ053EAE",
+      "author": "swap",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Best dermatologist in Guntur .",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNHMmZmb0N3EAE",
+      "author": "Purushotham GV",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Excellent treatment!.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNHMmRmVC1nRRAB",
+      "author": "vamsi Kishore",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNHMlplX1p3EAE",
+      "author": "Kottagunda Sai Amruth",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Best dermatologist in guntur.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNHZ2NqQmF3EAE",
+      "author": "Navya sri msr",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNHbnBUYUhREAE",
+      "author": "Shriram Jampani",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Dr. Sneha garu is very kind to explain all problems regarding my condition. Her way of treatment is very different. Her treatment is very affective and the results are visible within ten days. I strongly recommend Dr. Sneha garu .",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNHcXVUVFBREAE",
+      "author": "Venkatesh Reddy Thammaneni",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Good and assisted Treatment by sneha kovi",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNHcXJqVXNRRRAB",
+      "author": "Jay",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Good results are guaranteed",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNHX04tM3dRRRAB",
+      "author": "Uc 88",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Visited Dr. Sneha Garu few days back regarding my acne scars. Talking to her gave me immense confidence and hope that my skin condition would get better very soon.  Ps: my skin condition is severe from past years.\n\nAfter few visits i have seen a noticeable difference which i did not experience with any other doctor.\n\nI would totally recommend Dr. Sneha garu. She simply talented. Her way of treatment is different from others. I highly recommend Dr. Sneha garu in Andhrapradesh.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNHM0xmU0VBEAE",
+      "author": "Bhavani Moparthi",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNHM0xmWVlREAE",
+      "author": "022 Hari chandana Bolla",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNHM05manlRRRAB",
+      "author": "Sadiya Samreen",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNHM05ldFRBEAE",
+      "author": "Samyuktha Gadamsetty",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNHM05mWktBEAE",
+      "author": "Sarasija Mannava",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNHNUpfeE9BEAE",
+      "author": "Shobha Darmarajula",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNHNUtfZkpBEAE",
+      "author": "Hima Teja",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Had a wonderful experience here and recommend this for any kind of dermatological issues.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNHNUstaWZREAE",
+      "author": "Raj Muppala",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Finest skin treatment in guntur. Personally experienced good results after treatment.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNHNUxmWXZRRRAB",
+      "author": "Hemanth Kumar",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNHNU5laUtREAE",
+      "author": "Manikanteshwar rao Bankapalli",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNHLUtHOWlRRRAB",
+      "author": "Solomon Kanneboyina",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Superb treatment.Nice hospitality . I got very good results after consulting snehakovi .",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNHLUlITmxBRRAB",
+      "author": "manoj dhammu",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNHLUk3NFh3EAE",
+      "author": "Shaik Riyaz",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Excellent service",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ2bGZIbzZRRRAB",
+      "author": "Harshvardhan Gollamudi",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Very good care never seen such positive and affordable care vreaf doctor",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ2NWNfZTVnRRAB",
+      "author": "Krishna Chaitanya",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Very well looked after already seeing positive results we need more doctors like her",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ2NVkteEpnEAE",
+      "author": "109 LOKESH RAPARTI",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Nice hospitality !!",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ2NHVhN0h3EAE",
+      "author": "Sahithi Sandeep",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Dr. Sneha is wonderful. She is the best in Hair transplantation! She is very professional, well informed and up to date with latest technology and treatments. She gives you all the details before and lets you take a well informed decision, she is definitely not pushy which we see in many Aesthetic doctors these days. For a genuine and affordable treatments you can definitely approach Dr. Sneha. Thank you Dr.Sneha!!",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ2a0xuMW13RRAB",
+      "author": "Ravinuthala vss Varenya",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Sneha doctor is very talented and best place for hair treatment",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURhNm9HdFlnEAE",
+      "author": "T.Deepak Naik",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "Best dermatologist and nice hospitality",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURhNnY3S25RRRAB",
+      "author": "Akash Gummadavally",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURhc3JTcThnRRAB",
+      "author": "vinay thanagala",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "The best !!",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNhczZlcXFBRRAB",
+      "author": "supriya jetti",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "Dr Sneha is best dermatologist for all the skin related issues.Doctor suggests permanent,quick and best solutions for all the skin problems.She is very friendly and understands the issue exactly and treats the patients to the best😊 …",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNhbnI3dC13RRAB",
+      "author": "Aakash",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "Best dermatologist in the town.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNhZ3RpRTd3RRAB",
+      "author": "abhiram gopalam",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNhZ3BqbW5nRRAB",
+      "author": "abhiram Gopalam",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNhdk9lMXNnRRAB",
+      "author": "sunny 1102",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNhdk9mSjNRRRAB",
+      "author": "lokesh bathini",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNhbktYUXZnRRAB",
+      "author": "Lokesh Bathini",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURxdjVmd0d3EAE",
+      "author": "Raj Teja",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "Dr. Sneha Kovi, is an extremely knowledgeable and skilled doctor. She maintains her professionalism in every consultation but at the same time make sure the environment is as friendly and comfortable as possible. Her treatment works wonders, as I witnessed the changes to the skin of a couple of my first cousins. Both of them were extremely happy, and all of us would strongly recommend in getting a consultation with her.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURxNy11YjZRRRAB",
+      "author": "Manasa",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURxMTlianh3RRAB",
+      "author": "Yagna Damineni",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "She is very compassionate and skilled professional.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURxMV9xNml3RRAB",
+      "author": "Nitish Nandu",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNxNzVLdjRBRRAB",
+      "author": "navya muppera",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "Best dermatologist.Excellent treatment and care.\nAcne treatment is worth taking here. Improvements are definite and outcomes are great and worthy👍. …",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNxcTh5ZjBRRRAB",
+      "author": "NAVYA TEJA Malla",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "I can confidently say, blindly go to her & get solutions to all your dermatological problems. She is very dedicated & always tries to give the best to her patients.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNxczluQzVnRRAB",
+      "author": "Akhila Pingali",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "Best doctor in dermatology🤩highly recommended 💯 …",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNxczVtS0lnEAE",
+      "author": "Jahnavi Pingali",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "The best I've ever seen in dermatology",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNxdmZhb3VBRRAB",
+      "author": "kotidurgaprasad munagala",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "Best dermatologist in guntur 👌 …",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNxM2JmQkpBEAE",
+      "author": "Dhathri",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "She is very friendly and professional.She takes her time to explain her thoughts and walks us through the treatment options very patiently.Thank you.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNxdFlQQ2tnRRAB",
+      "author": "Srujan Reddy",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "I was worried about my hair fall and after a long research I came to know that only advanced treatment would help me out and with the work pressure I have ,I can’t leave the city. I consulted many doctors but there were no results. At that time I came to know about Dr.Sneha and I consulted her , her way of treatment is just amazing and I found results within 2weeks",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNxdFk2RURBEAE",
+      "author": "Yogesh Reddy Sanikommu",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNxc2M3WVNREAE",
+      "author": "Sravya Naru",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNxX3NHUjV3RRAB",
+      "author": "psivateja pemmasani",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "I've never encountered a better dermatologist. Dr. Sneha has a great rapport with her patients. She is a consummate professional. Her problem-solving approach and solutions are incredibly effective and yield speedy results.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNxdnY2QmVBEAE",
+      "author": "Supraja Mamillapalli",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "Highly recommend",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNxN3Z1TGd3RRAB",
+      "author": "RISHIT KAMIREDDY",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNxcHIzdndBRRAB",
+      "author": "kolagani himaja",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNxcHIzbTRnRRAB",
+      "author": "Meghana Reddy",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURLajdLc2l3RRAB",
+      "author": "priyanka chimakurthi",
+      "rating": 5,
+      "relative_date": "Edited 5 years ago",
+      "text": "I was suffering with acne on my face. So i meeted Dr.sneha garu really she is amazing and friendly with people first time when i went to her she told me what to do explained.....in seconed setting i totally fall in love with my face😊......thank u sneha garuu. …",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURLdi1PQjhnRRAB",
+      "author": "shanmukh reddy",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "The best Dermatologist I have ever met. Dr. Sneha is very friendly with her patients. She is very professional. Her treatment and solutions for the problems are extremely effective and gives quick results.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURLNzdPaGxBRRAB",
+      "author": "pradeep kumar",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "One of the very few doctors who showed immense hospitality and explained each and everything in detail . Skilful and knowledgeable doctor. Dr. Sneha Kovi.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURLNzhPSDF3RRAB",
+      "author": "sajith reddy",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "Very reasonable prices , good hospitality and the doctor is very skilful in whatever she does.\nHighly recommend .",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURLei1xcFR3EAE",
+      "author": "prathyusha ivvala",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "i was worried due to hairfall issues but Dr Sneha was the only person who could have treated me so well, she followed up on serial visits with the same care and gave me extraordinary results. i will recommend her any day as she is well trained in the most advanced dermatology treatments and updated with latest concepts.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURLcDlETXh3RRAB",
+      "author": "Bala Subrrahmanya",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "Finest dermatologist in guntur!!",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURLbmFDRkZnEAE",
+      "author": "Dr.Madhukar Jaine",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "Been here for a couple of times and the result speaks for itself. Would highly recommend Dr.Sneha Kovi if you're suffering from skin issues.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURLN2JfZFZnEAE",
+      "author": "Rakesh Kovi",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURLemFxd3VBRRAB",
+      "author": "Jagadeesh Pamulapati",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "I was suffering with acne on my face, and was suggested to meet  Dr.Sneha kovi , she told me about the instructions to be taken and I was told that it would take  time to get cured.  Within a month or so, I found a lot of improvement and I am completely satisfied with the treatment. I would highly recommend her if you have any dermatology needs.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURLM3ZxblpBEAE",
+      "author": "sivani pamulapati",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "Wonderful experience with Dr. Sneha Kovi, She explained everything in a clear way and instructed about all the precautions to be taken which made me feel that she cares much about her patients. Highly recommended.",
+      "has_owner_reply": true
+    }
+  ],
+  "reviews_error": "",
+  "sorted_newest": true,
+  "stopped_at_known_review": false,
+  "reviews_captured": 200,
+  "owner_replies": 199,
+  "reviews_coverage": 1.0,
+  "date_anchor": "2026-08-20T23:07:12",
+  "extract_seconds": 45.9,
+  "missing_fields": [],
+  "page_rendered": true,
+  "error": ""
+}

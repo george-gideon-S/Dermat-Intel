@@ -1,0 +1,223 @@
+{
+  "place_url": "https://www.google.com/maps/place/Ravi+SkinCare+Clinic+%7C+Dermatologist+%7C+Cosmetologist+%7C+Sexologist/data=!4m7!3m6!1s0x3a4a75b9fd7b88a3:0x2e824bf0dbea36fe!8m2!3d16.2984958!4d80.4497487!16s%2Fg%2F11qrklpl7c!19sChIJo4h7_bl1SjoR_jbq2_BLgi4?authuser=0&hl=en&rclk=1",
+  "captured_at": "2026-08-20T18:37:01",
+  "feature_id": "0x3a4a75b9fd7b88a3:0x2e824bf0dbea36fe",
+  "place_id": "ChIJo4h7_bl1SjoR_jbq2_BLgi4",
+  "kg_mid": "/g/11qrklpl7c",
+  "lat": 16.2984958,
+  "lng": 80.4497487,
+  "name_raw": "Ravi SkinCare Clinic | Dermatologist | Cosmetologist | Sexologist",
+  "name_clean": "Ravi SkinCare Clinic",
+  "name_key": "raviskincareclinic",
+  "name_dropped": [
+    "Dermatologist",
+    "Cosmetologist",
+    "Sexologist"
+  ],
+  "name_was_cleaned": true,
+  "category": "Skin care clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "Dental Clinic, Doctors Plaza, Kothapet Main Rd, Backside of, Kothapeta, Namburu, Guntur, Andhra Pradesh 522001",
+  "plus_code": "7CXX+9V Namburu, Andhra Pradesh",
+  "phone": "",
+  "website": "",
+  "website_domain": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "insecure_http": false,
+  "website_matches_name": null,
+  "rating": 3.5,
+  "reviews_total": 14,
+  "rating_histogram": {
+    "5": 8,
+    "4": 1,
+    "3": 0,
+    "2": 0,
+    "1": 5
+  },
+  "histogram_sum": 14,
+  "histogram_reconciles": true,
+  "topics": null,
+  "google_profile_gaps": [
+    "Add place's phone number",
+    "Add website"
+  ],
+  "has_photos": true,
+  "hours": {
+    "Thursday": "10 am to 2 pm, 4 to 9 pm",
+    "Friday": "10 am to 2 pm, 4 to 9 pm",
+    "Saturday": "10 am to 2 pm, 4 to 9 pm",
+    "Sunday": "10 am to 2 pm, 4 to 9 pm",
+    "Monday": "10 am to 2 pm, 4 to 9 pm",
+    "Tuesday": "10 am to 2 pm, 4 to 9 pm",
+    "Wednesday": "10 am to 2 pm, 4 to 9 pm"
+  },
+  "about": {
+    "Map details": [
+      "Transit",
+      "Traffic",
+      "Biking",
+      "Terrain",
+      "Street View",
+      "Wildfires",
+      "Air Quality"
+    ],
+    "Map tools": [
+      "Travel time",
+      "Measure"
+    ],
+    "Map type": [
+      "Default",
+      "Satellite",
+      " Globe view ",
+      " Labels"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toVGRFSjNlbkZDYnpKMldrbEZZamgyVVZkUGFFRRAB",
+      "author": "Rishitha Peddi",
+      "rating": 1,
+      "relative_date": "2 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM1N29MU3ZnRRAB",
+      "author": "deepak choudhary",
+      "rating": 1,
+      "relative_date": "Edited 7 months ago",
+      "text": "Worst Hospital, Worst Receptionist, Worst Doctor. Doctor Wrote Prescription only he and his rude 😡Receptionist could understand. Highly Disappointed from their Behaviour. Forcing me to buy their over priced medicine. Can you understand this. This was written by my sir …",
+      "maybe_truncated": true,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pab2NrOXhVRGxGV0U5bGQwTm1NMXBPZVMxQlNsRRAB",
+      "author": "Saidesh S",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJNlk2TWJREAE",
+      "author": "Business Anyone",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNndHQ2dVN3EAE",
+      "author": "M.keerthi Reddy",
+      "rating": 1,
+      "relative_date": "a year ago",
+      "text": "Don't ever visit this hospital ..very worst..plss don't ruin your face...because of the doctor i had to take a treatment cost of 1 lakh...plss don't visit",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM3aHNxQzNRRRAB",
+      "author": "Bhanu 25",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM3dUxmTmhnRRAB",
+      "author": "girish pharmacy",
+      "rating": 1,
+      "relative_date": "2 years ago",
+      "text": "It's Very worst experience.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ5MWItU19BRRAB",
+      "author": "Jay Shree",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I really want to visit several times.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMycU4tcHZnRRAB",
+      "author": "Moulabi Sk",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "I highly recommend  for dandruff hair problem treatment. I will give 100% result.thankbu doctor uncle",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMyb0tXSG1RRRAB",
+      "author": "Krishna Krishna",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Doctor treatment is like..\nYour skin is 99% of your selfie.... It's💯 …",
+      "maybe_truncated": true,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURXLV9QR0l3EAE",
+      "author": "Nandhana Nandhu",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Iam suffering  a lots of pimple disease, I used so many medicine for cure of pimples in 5 hospitals  in guntur,but no result.but I n ravi skin care cline cure my pimples problem  in a short  period.i really thanks a lot to doctor ravi sir",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURXLS1QS2R3EAE",
+      "author": "minnu reddy",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Best treatment ,best quality medicine with reasonable price,and also attitude in of Doctor is behave like a humanitarian, ethical, moral values, not like a commercial business magnet",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNtcWZQYmdRRRAB",
+      "author": "muni kumar",
+      "rating": 4,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNhakoyTUFREAE",
+      "author": "Shah Alam Warsi",
+      "rating": 1,
+      "relative_date": "5 years ago",
+      "text": "They ordered prp tubes and dermarollers from me 4 months ago\nThey neither make my payment nor they responded after the order has been completed",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    }
+  ],
+  "reviews_error": "",
+  "sorted_newest": true,
+  "stopped_at_known_review": false,
+  "reviews_captured": 14,
+  "owner_replies": 0,
+  "truncated_reviews": 2,
+  "reviews_coverage": 1.0,
+  "date_anchor": "2026-08-20T18:37:01",
+  "extract_seconds": 70.4,
+  "missing_fields": [
+    "phone",
+    "website"
+  ],
+  "listing_position": 36,
+  "source_query": "dermatologists in Guntur",
+  "listing_name": "Ravi SkinCare Clinic | Dermatologist | Cosmetologist | Sexologist"
+}

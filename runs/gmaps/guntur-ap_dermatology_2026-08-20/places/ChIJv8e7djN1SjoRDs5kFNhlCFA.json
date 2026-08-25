@@ -1,0 +1,692 @@
+{
+  "key": "ChIJv8e7djN1SjoRDs5kFNhlCFA",
+  "tier": "full",
+  "complete": true,
+  "place_url": "https://www.google.com/maps/place/Ashuma+Polyclinic/data=!4m7!3m6!1s0x3a4a753376bbc7bf:0x500865d81464ce0e!8m2!3d16.2879047!4d80.4523663!16s%2Fg%2F11c52yjncv!19sChIJv8e7djN1SjoRDs5kFNhlCFA?authuser=0&hl=en&rclk=1",
+  "captured_at": "2026-08-21T00:21:24",
+  "rank": 72,
+  "place_id": "ChIJv8e7djN1SjoRDs5kFNhlCFA",
+  "feature_id": "0x3a4a753376bbc7bf:0x500865d81464ce0e",
+  "kg_mid": "/g/11c52yjncv",
+  "lat": 16.2879047,
+  "lng": 80.4523663,
+  "dup_of_rank": null,
+  "has_online_booking": false,
+  "booking_url": "",
+  "booking_vendor": "",
+  "service_options": [
+    "On-site services"
+  ],
+  "permanently_closed": false,
+  "temporarily_closed": false,
+  "status_text": "Closed · Opens 9 am Fri",
+  "open_now": false,
+  "is_ad": false,
+  "review_snippet": "On-site services",
+  "name_raw": "Ashuma Polyclinic",
+  "name_clean": "Ashuma Polyclinic",
+  "name_key": "ashumapolyclinic",
+  "name_dropped": [],
+  "name_was_cleaned": false,
+  "category": "Hospital department",
+  "card_category": "Medical clinic",
+  "category_mismatch": true,
+  "relevance": "adjacent",
+  "basis": "base_generic_medical",
+  "address": "Imam Panja Street, No - 18-19-30 Bara, Ponnur Rd, Lalapet, Guntur, Andhra Pradesh 522003",
+  "plus_code": "7FQ2+5W Guntur, Andhra Pradesh",
+  "phone": "0863 222 4400",
+  "website": "",
+  "website_domain": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "insecure_http": false,
+  "website_matches_name": null,
+  "rating": 4.3,
+  "reviews_total": 72,
+  "rating_histogram": {
+    "5": 42,
+    "4": 16,
+    "3": 9,
+    "2": 2,
+    "1": 3
+  },
+  "histogram_sum": 72,
+  "histogram_reconciles": true,
+  "topics": {
+    "medical shop": 6,
+    "medical": 3
+  },
+  "google_profile_gaps": [
+    "Add website"
+  ],
+  "has_photos": true,
+  "hours": {
+    "Friday": "9 am to 2 pm, 4 to 10:30 pm",
+    "Saturday": "9 am to 2 pm, 4 to 10:30 pm",
+    "Sunday": "Closed",
+    "Monday": "9 am to 2 pm, 4 to 10:30 pm",
+    "Tuesday": "9 am to 2 pm, 4 to 10:30 pm",
+    "Wednesday": "9 am to 2 pm, 4 to 10:30 pm",
+    "Thursday": "9 am to 2 pm, 4 to 10:30 pm"
+  },
+  "about": {
+    "Accessibility": [
+      " Wheelchair-accessible car park",
+      " Wheelchair-accessible entrance"
+    ],
+    "Service options": [
+      " On-site services"
+    ],
+    "Map details": [
+      "Transit",
+      "Traffic",
+      "Biking",
+      "Terrain",
+      "Street View",
+      "Wildfires",
+      "Air Quality"
+    ],
+    "Map tools": [
+      "Travel time",
+      "Measure"
+    ],
+    "Map type": [
+      "Default",
+      "Satellite",
+      " Globe view ",
+      " Labels"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SV1QxQkJZbXRpUTNjeE4wdDRZMHAzUVRsSk5WRRAB",
+      "author": "Hafiz Fazal",
+      "rating": 4,
+      "relative_date": "3 months ago",
+      "text": "Good clinic",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OSWNVbE5ZekJMYjB4MVRVOW5PWFJDTVMxbE9GRRAB",
+      "author": "Nessy Supreeth",
+      "rating": 4,
+      "relative_date": "6 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pjMVpVMVlkVFUyU2pOU1QwcEtRVVpXYmtKUlZVRRAB",
+      "author": "Chinna",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKMGRXZFRWakZYU0dsbVZVNUxhSGxrVm05aFRtYxAB",
+      "author": "tahaseen syed",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkU01VUlRVSGhqTUZST1NVbHpPRGRoWDJGYVUyYxAB",
+      "author": "P Harendra",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWUk0yeERNa2R3ZG1sVUxUTktZbGROUzNSck1IYxAB",
+      "author": "shaik hafeez",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURTd2NYWE5nEAE",
+      "author": "Shaik Yaseenking",
+      "rating": 5,
+      "relative_date": "Edited a year ago",
+      "text": "Best care center 👩‍⚕️ …",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5UlZrbFdVM050Y0c5SFQzWklha2xZYzB3MFZWRRAB",
+      "author": "Sandeep Katakam",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VKVzk5cjZBODZpOHhRRRAB",
+      "author": "Saniya Sports and Fashions",
+      "rating": 4,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYd2N1dWJ3EAE",
+      "author": "SHAMEEM lucky",
+      "rating": 3,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURuay1Xc09BEAE",
+      "author": "syed sadiq",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Best experience in medical shop guntur",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURUeS1xdk9BEAE",
+      "author": "Gowrisankar B",
+      "rating": 3,
+      "relative_date": "2 years ago",
+      "text": "Experienced doctors available for our treatment. General physician, gynecologist, and ortho doctors available.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM5Mk15YWR3EAE",
+      "author": "Vijaya Bondili",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ1MHRpNWhBRRAB",
+      "author": "Gopi Krishna kankanala",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR4aXVxVTNBRRAB",
+      "author": "abdul md",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4LTUtQWVBEAE",
+      "author": "shareef sk",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Best service",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChRDSUhNMG9nS0VJQ0FnSURCdi1vcxAB",
+      "author": "Arun Kumar Pradhan",
+      "rating": 1,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNCOTdQcXlBRRAB",
+      "author": "SARZ, The Abdullah",
+      "rating": 3,
+      "relative_date": "3 years ago",
+      "text": "From the moment when dr.prasanamba left, this hospital became total waste",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR1cGZ1OHdBRRAB",
+      "author": "panakala sri rama chandra murthy",
+      "rating": 3,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQyOTgybnVRRRAB",
+      "author": "Gafoor Shaik",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQyNTVfcHhRRRAB",
+      "author": "Haroon",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMyOXEzZWhnRRAB",
+      "author": "Shaik Shaik subhani",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Very very very good",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNXa3VEVkpBEAE",
+      "author": "Ayaz Basha Shaik",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Good Hospital and Medical Stores. Good Gesture with Patient's.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURtNVotLXhRRRAB",
+      "author": "Prasad Gontla",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNHb0tmS1NBEAE",
+      "author": "Shaik Ziawartsila",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ2cWJPckR3EAE",
+      "author": "B P S Raja",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Nice medicals shop with expert knowledge pharmacist and experience ethical Doctor",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM2bl8zUTZRRRAB",
+      "author": "Kolisetty Raghavendra rao",
+      "rating": 4,
+      "relative_date": "4 years ago",
+      "text": "Good Medical shop",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM2MG82UkJREAE",
+      "author": "shafi shaik",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Good",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURhbnRtbWp3RRAB",
+      "author": "ashraf mohammed",
+      "rating": 4,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURhc3ZYcDhRRRAB",
+      "author": "Jafer Sadiq Mohammad",
+      "rating": 4,
+      "relative_date": "5 years ago",
+      "text": "Very good",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURhd3EtVEdBEAE",
+      "author": "pasam brahmareddy",
+      "rating": 1,
+      "relative_date": "5 years ago",
+      "text": "Worst place",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURhbEtYckNREAE",
+      "author": "Pagidipala Saikumar",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURxMFllTmRREAE",
+      "author": "Pathan Galisha",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNxcTlhOHh3RRAB",
+      "author": "VENKATA SURYA NARAYANA TULAM",
+      "rating": 3,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURLM0lmaDJBRRAB",
+      "author": "mani adusumalli",
+      "rating": 2,
+      "relative_date": "5 years ago",
+      "text": "Not bad",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNLaGE3ZTF3RRAB",
+      "author": "jaikalyan muthyala",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNLMm9yTWJBEAE",
+      "author": "Shaik Ajas",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNLMUlmXzdRRRAB",
+      "author": "VK Kaparouthu",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "Ladies and children hospital",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR5LVpHNHRBRRAB",
+      "author": "Sk basha",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "Best hospital",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR5eHFuNThRRRAB",
+      "author": "Meera Meera",
+      "rating": 4,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURDeXVIclpBEAE",
+      "author": "Praveen Prakash Bejjam",
+      "rating": 5,
+      "relative_date": "Edited 5 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN5X3VEeFdREAE",
+      "author": "anilkumar k",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN5aUtyeDNnRRAB",
+      "author": "Anitha kota",
+      "rating": 4,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN5NFB1RXBRRRAB",
+      "author": "Charan Kumar Singh",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURTejVmYjdBRRAB",
+      "author": "Sdirfanlovelyif Irfanif",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURTZ19uT1J3EAE",
+      "author": "HANUMAN ELECTRONICS",
+      "rating": 4,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURTbHM3ZnhBRRAB",
+      "author": "syed ajas",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "Best Medical facility",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURpc2V6bVl3EAE",
+      "author": "Venkatesh T",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURpcUtlRjZ3RRAB",
+      "author": "slsali mohammed",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "Good expirence very very good",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNpNGVuSDlBRRAB",
+      "author": "Ameen S",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "Affordable, low-cost treatment at a well managed hospital with clean premises.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNpOHU3Z3BRRRAB",
+      "author": "shaik syedha",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "Very neat",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNpN01uLTlnRRAB",
+      "author": "Basha Sk",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNpeVBtcFVREAE",
+      "author": "Badrulhaq Rahamansayed (Rahamansayed)",
+      "rating": 3,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNpa0xYc1lBEAE",
+      "author": "NAGARAJU GRANDHI",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNpd0pESlNREAE",
+      "author": "Md.saleem",
+      "rating": 4,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURDdC1TV3RBRRAB",
+      "author": "Santhosh Polimera",
+      "rating": 4,
+      "relative_date": "5 years ago",
+      "text": "Consultation fee is only 70/-",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNDdnFxRkVBEAE",
+      "author": "Sandeep TAVIDISHETTY",
+      "rating": 4,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNDb3NuQnd3RRAB",
+      "author": "K G V R Mohan",
+      "rating": 4,
+      "relative_date": "6 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ4eGZqV09nEAE",
+      "author": "sai kumar",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURzNU5pT2ZBEAE",
+      "author": "Sibgqhatullah Sharief",
+      "rating": 4,
+      "relative_date": "6 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURVNXByLUxnEAE",
+      "author": "SHAIK MUNEER AHMAD",
+      "rating": 3,
+      "relative_date": "6 years ago",
+      "text": "Ok",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNFdThpcHRRRRAB",
+      "author": "Lakshmi Manasa",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZMTZpOUVREAE",
+      "author": "Sk Shafiya",
+      "rating": 1,
+      "relative_date": "7 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNvOV9QMXF3RRAB",
+      "author": "VEERENDRA KONETI",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNJOTd1V05REAE",
+      "author": "venkateswalu vangala",
+      "rating": 2,
+      "relative_date": "7 years ago",
+      "text": "Dr is good",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNJeTlucTNRRRAB",
+      "author": "Inthiaz Gundlapalli",
+      "rating": 4,
+      "relative_date": "7 years ago",
+      "text": "As she got Old, little precautions to remind over your previous health issues.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNJeTRLM2VnEAE",
+      "author": "Bala Kiran",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURRd2ZMUW13RRAB",
+      "author": "Shireen Tabassum",
+      "rating": 5,
+      "relative_date": "8 years ago",
+      "text": "It's nice experience and all medical staff are available and all type of medicine's are available nice experience",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNRcnI3Z2tRRRAB",
+      "author": "Mohiseen Sk",
+      "rating": 3,
+      "relative_date": "8 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURRbVpDWnl3RRAB",
+      "author": "Kamaal Khan",
+      "rating": 5,
+      "relative_date": "8 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURBbnJLT2lRRRAB",
+      "author": "Atheeq Khan",
+      "rating": 3,
+      "relative_date": "8 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNBOS0zTzFRRRAB",
+      "author": "Naga Srinivasa Rao Avvaru",
+      "rating": 4,
+      "relative_date": "8 years ago",
+      "text": "",
+      "has_owner_reply": false
+    }
+  ],
+  "reviews_error": "",
+  "sorted_newest": true,
+  "stopped_at_known_review": false,
+  "reviews_captured": 72,
+  "owner_replies": 0,
+  "reviews_coverage": 1.0,
+  "date_anchor": "2026-08-21T00:21:24",
+  "extract_seconds": 47.3,
+  "missing_fields": [
+    "website"
+  ],
+  "page_rendered": true,
+  "error": ""
+}

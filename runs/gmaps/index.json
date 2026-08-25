@@ -1,0 +1,21 @@
+{
+  "runs": [
+    {
+      "run_dir": "runs\\gmaps\\guntur-ap_dermatology_2026-08-20",
+      "geography": "guntur-ap",
+      "specialty": "dermatology",
+      "city": "Guntur",
+      "query": "dermatologists in Guntur",
+      "started_at": "2026-08-20T22:51:56",
+      "finished_at": "2026-08-21T00:35:01",
+      "status": "complete",
+      "places": 92,
+      "run_health": "partial",
+      "feed_end_reason": "end_of_list_sentinel",
+      "pack_fingerprint": {
+        "specialty_pack": "c4a933ba033f",
+        "geography_pack": "5a0399d1975b"
+      }
+    }
+  ]
+}

@@ -1,0 +1,696 @@
+{
+  "place_url": "https://www.google.com/maps/place/Dr.Aashik+Shahid+%2F+Dermatologist+%2FSkin+Hair+and+Cosmetic+clinic/data=!4m7!3m6!1s0x3a4a75cc30176cbf:0x2a1be9d1488d7902!8m2!3d16.309198!4d80.4182481!16s%2Fg%2F11yk50bz1_!19sChIJv2wXMMx1SjoRAnmNSNHpGyo?authuser=0&hl=en&rclk=1",
+  "captured_at": "2026-08-20T18:18:10",
+  "feature_id": "0x3a4a75cc30176cbf:0x2a1be9d1488d7902",
+  "place_id": "ChIJv2wXMMx1SjoRAnmNSNHpGyo",
+  "kg_mid": "/g/11yk50bz1",
+  "lat": 16.309198,
+  "lng": 80.4182481,
+  "name_raw": "Dr.Aashik Shahid / Dermatologist /Skin Hair and Cosmetic clinic",
+  "name_clean": "Dr.Aashik Shahid",
+  "name_key": "draashikshahid",
+  "name_dropped": [
+    "Dermatologist",
+    "Skin Hair and Cosmetic clinic"
+  ],
+  "name_was_cleaned": true,
+  "category": "Dermatologist",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "Brundavan Garden's Petrol Bunk, 6, Pattabhipuram Rd, opp. indian oil, Krishna Nagar, Guntur, Andhra Pradesh 522006",
+  "plus_code": "8C59+M7 Guntur, Andhra Pradesh",
+  "phone": "094908 71277",
+  "website": "",
+  "website_domain": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "insecure_http": false,
+  "website_matches_name": null,
+  "rating": 5.0,
+  "reviews_total": 65,
+  "rating_histogram": {
+    "5": 65,
+    "4": 0,
+    "3": 0,
+    "2": 0,
+    "1": 0
+  },
+  "histogram_sum": 65,
+  "histogram_reconciles": true,
+  "topics": {
+    "dandruff treatment": 3,
+    "hairfall issue": 3,
+    "fast results": 2,
+    "caring approach": 2,
+    "treatment plan": 3,
+    "attention to progress": 2,
+    "acne treatment": 4,
+    "clear explanations": 8,
+    "softer skin": 2,
+    "pleasant doctor": 2
+  },
+  "google_profile_gaps": [
+    "Add website"
+  ],
+  "has_photos": true,
+  "hours": {
+    "Thursday": "10 am to 9:30 pm",
+    "Friday": "10 am to 9:30 pm",
+    "Saturday": "10 am to 9:30 pm",
+    "Sunday": "Closed",
+    "Monday": "10 am to 9:30 pm",
+    "Tuesday": "10 am to 9:30 pm",
+    "Wednesday": "10 am to 9:30 pm"
+  },
+  "about": {
+    "Planning": [
+      " Appointments recommended"
+    ],
+    "Payments": [
+      " NFC mobile payments"
+    ],
+    "Map details": [
+      "Transit",
+      "Traffic",
+      "Biking",
+      "Terrain",
+      "Street View",
+      "Wildfires",
+      "Air Quality"
+    ],
+    "Map tools": [
+      "Travel time",
+      "Measure"
+    ],
+    "Map type": [
+      "Default",
+      "Satellite",
+      " Globe view ",
+      " Labels"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKMVNtUnVYMHhVYVRCSmFXb3pZVVl4TVdaVmNIYxAB",
+      "author": "Khasimvali Shaik",
+      "rating": 5,
+      "relative_date": "a week ago",
+      "text": "Thankyou doctor for the visible results in few days, for melasma and as per your suggestion my daily routine got better.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5NExUTklXakZvVkhKWmVEUllabEpQTkdzNVowRRAB",
+      "author": "Sk Ali",
+      "rating": 5,
+      "relative_date": "2 weeks ago",
+      "text": "Good experience",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGYWMzVk9XRmxJYVZOSlZISkNjWEo1VW5VNGVXYxAB",
+      "author": "Shaik Rahamathullah",
+      "rating": 5,
+      "relative_date": "2 weeks ago",
+      "text": "Excellent",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twWlRuVm9aVVV4ZFVKUFVuWmhTekJUYzNCdFkwRRAB",
+      "author": "surendra ramineni",
+      "rating": 5,
+      "relative_date": "3 weeks ago",
+      "text": "Good",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Gc01qWTJibFJWWWxsS1dITmZiRXhYV2xSd09HYxAB",
+      "author": "Shaik chintapalli Zubedha",
+      "rating": 5,
+      "relative_date": "3 weeks ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KcGRuWmFSbFZRYmtsNFgybEZjVUpEY2tremFtYxAB",
+      "author": "Sk Khaja vali",
+      "rating": 5,
+      "relative_date": "3 weeks ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5M2MxTnhTRm94UkdoUFdGVlJaRjlMVlVjeVltYxAB",
+      "author": "Sabiha Shaik",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "Best skin care clinic",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGQlMwRTRVREpOYW1SVE5qVTBOVk5WUWtwdmVuYxAB",
+      "author": "samuel ratanprakash",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "Excellent....",
+      "maybe_truncated": true,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKRlFXWlFabW81VDFBMk1qUXRUbXREU0RsbGExRRAB",
+      "author": "Shaik Vali",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "The best skin care clinic",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tac1pDMXhURkV0Tm5oU1pUaG1NVjlrZFY5dlRsRRAB",
+      "author": "sampath desu",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "Thank you, Doctor, for the exceptional care and treatment. Your expertise, patience, and clear guidance made me feel confident throughout my treatment. I am extremely happy with the results and truly appreciate your dedication. I would gladly recommend you to anyone looking for the best dermatological care.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WcFFuUlRiRTlwUnpKR1UxWk1iVkZIUkZaVFlVRRAB",
+      "author": "Ch Naveen",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "Best skin care clinic in guntur",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4WlQxSnVNRGhJTUVaNFdqSkpNRXBtYUZKVFQwRRAB",
+      "author": "Bhargav Reddy",
+      "rating": 5,
+      "relative_date": "2 months ago",
+      "text": "Good skin care",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWSFRVVm5lR0p4Ym1OMGEyMXNPRWx3Vm5KcmVVRRAB",
+      "author": "Chirra Krishnaveni",
+      "rating": 5,
+      "relative_date": "2 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GMlptZFdabFpEYVY5SWEwcFVkbXRNYlVoeGFYYxAB",
+      "author": "Dogiparty Mastani",
+      "rating": 5,
+      "relative_date": "2 months ago",
+      "text": "Went with the problem of dandruff i got complete solution to cure it in less price thank you sir",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoWmNGUmpORXBDVjJ0dGIwTjVOMFEyUlhVdFZGRRAB",
+      "author": "J suresh J suresh",
+      "rating": 5,
+      "relative_date": "2 months ago",
+      "text": "Best young dermatologist in guntur",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25weFFXWnNaVk4yUWtZdFJUYzNkVTVNT1ZGVlVuYxAB",
+      "author": "battula ganeshbabu",
+      "rating": 5,
+      "relative_date": "2 months ago",
+      "text": "Went to Aashik sir treatment for melasma. Treatment\nReally very pleasant doctor explained problem and current stage and treatment in affordable cost\nthank you sir",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201MGIzUXpibkJ0Tm5FMWNWWmFXVEp4VlRkYWExRRAB",
+      "author": "Karishma shaik",
+      "rating": 5,
+      "relative_date": "2 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SUWFqVktaRTl3WkVKWGFHTjNiakpOUTNGME1HYxAB",
+      "author": "Bontha mariyadasu Mariyadasu",
+      "rating": 5,
+      "relative_date": "2 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poMldWUXdjV0pXZEVWT1VWSTJaak5RT0d4Q1FVRRAB",
+      "author": "RAJ KUMAR",
+      "rating": 5,
+      "relative_date": "2 months ago",
+      "text": "I had darkening of neck since 3 years , I went to Dr aashik has given me topical ointments and advised chemical peeling ..I got excellent results within 3 sessions .,he's the best dermatologist for me\nThank you doc",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WU09XdGpVbFZmUmtGYVVHUm1lbHBYZGsxRmJVRRAB",
+      "author": "Naziya Parveen",
+      "rating": 5,
+      "relative_date": "3 months ago",
+      "text": "Best asthetic clinic",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWbmVubHVSemczWTNSQ1VtRXRjVXQ0VW5GMFJrRRAB",
+      "author": "KONDURU SRIDEVI",
+      "rating": 5,
+      "relative_date": "4 months ago",
+      "text": "Best aesthetic physician",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkdGMyMUpVRkpRT0VrelFuSXRhVkl6ZG01MVNuYxAB",
+      "author": "Farheen mustafa",
+      "rating": 5,
+      "relative_date": "Edited 4 months ago",
+      "text": "He’s very good at procedures",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GTk1sUnpaa2hTV2tWS2JuRmxhRFJKZFVSdGFHYxAB",
+      "author": "Deepti Akshaya",
+      "rating": 5,
+      "relative_date": "5 months ago",
+      "text": "Great experience,very professional Doctor,I can say THE BEST",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCRVkzVlNSR1UxUzBSTGRYZzRRVnBOYlhWMlpIYxAB",
+      "author": "Panchakshari Vedula",
+      "rating": 5,
+      "relative_date": "5 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OeGFHeFNkVEpFTW1OcVpteDRhMEoyT1ZveWFIYxAB",
+      "author": "lakshmi nujeti",
+      "rating": 5,
+      "relative_date": "5 months ago",
+      "text": "Good treatment. Good hospital.very experience doctor.thankyou so much sir.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOeVh6UnVhR3BGVkU5aE4yOUNjR1k1UkVKNk1WRRAB",
+      "author": "Hancy Sunaina",
+      "rating": 5,
+      "relative_date": "5 months ago",
+      "text": "Dr. Aashik is an absolute gem! From my first consultation, he took the time to thoroughly understand my skin concerns, explained everything in simple terms, and created a personalized plan that actually worked. My acne scars cleared up in just weeks, and my skin feels healthier than ever. He's professional, caring, and uses the latest treatments without pushing unnecessary products. Highly recommend—I've already referred friends!\nThank you doc!",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201VlNFaHZRbEJQT1U1SE4zZ3llVGRDWkdwYVRIYxAB",
+      "author": "Srinivasan Thiruvengadam",
+      "rating": 5,
+      "relative_date": "5 months ago",
+      "text": "Very attentive and friendly with the patients",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGaFFXTTNjRU5YZEdSaE9UQlNVMkpwWmsweVJGRRAB",
+      "author": "Rithvik Koppuravuri",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oSk1XOUlhbFZIWkRGMlJXUTBjakpsY0hwWVIyYxAB",
+      "author": "Bhargav Baru",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "Best dermatologist",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sVWVHTmpkQzFrUjFjeGRGRndRVGxtWldGMmFuYxAB",
+      "author": "Villain Vital",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "Must visit this place . Doctors friendly nature makes u open every problem that u have...so must visit the doctor if u have any problem. Coming to the treatment,he gave me medicine so I'll use it and after 1 month I'll come back..",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOc2IzTnlkVFZ1VDJGWFExUm9SRU5mYW5CNFptYxAB",
+      "author": "MOHAMMAD ZUBER",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "Best for skin",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT213MVRIVTFia3gxZDJKeE1HRXpaVGx5WVVKdWNYYxAB",
+      "author": "shaik riyaz",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "Best dermatologist",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGaFFVRjROa2hSVnkwdGMzQjRUVzV3TlVaeWMxRRAB",
+      "author": "Shaik Saifulla",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wMVJUaDBOWHBGTFhsaFdVWjNSMTh3TFZoa09GRRAB",
+      "author": "M.charan pradhyumna",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "Best dermatologist for hair and skin",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KTVJGSmhaMHR1T1ZSbllsbEpZV2RxY0RSUkxWRRAB",
+      "author": "fazurulla shaik",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "Best treatment for hair",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toQ00ycHNZM1pIWjA1SFJXbG1kekV6TWtKb1lWRRAB",
+      "author": "Vasikarla Sambasivarao",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "Best Dermatologist for skin and hair",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25RMmF6ZEJRVlV0ZUdVMU9FZG5iRU5vY2s1bVlVRRAB",
+      "author": "Sb Rizwana",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "Best dermatologist for skin and hair",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KUWRsSnVSbU5JVGtKNVRraHlVMlI2Tlc5RlRFRRAB",
+      "author": "Govindu Balaji",
+      "rating": 5,
+      "relative_date": "Edited 8 months ago",
+      "text": "My dandruff was reduced in 15 Days and I am satisfied with Dr.Aashik sir treatment..",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205RWVVSkdNMkpqZDJ4NFRqZ3diV1J4YlVzMmVVRRAB",
+      "author": "Shaik Deelip",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "Best dermatologist for skin and hair.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsMk5HcG9TSGxvY0RoTmJYaEhRMk5mTkZScllWRRAB",
+      "author": "Srinivas Gunuru",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xreVpVMUplRFV5TW5VM1RIRjVORGxVY1d4RmRGRRAB",
+      "author": "Abhila Namburu",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GSFFtMVpWRTFZWjFOTFVEbERPSHAzWmw5emRVRRAB",
+      "author": "Shaik Rihan shafi",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Fek9UQmtWRFZwWlVwM1FYcHhPR0k1WWxwdWJWRRAB",
+      "author": "Dr Hemanth Molabanti",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "Dr. Aashik Shahid is truly an exceptional dermatologist who stands out for both his medical expertise and his compassionate approach to patient care. From the very first interaction, he makes patients feel heard and supported, taking time to understand their concerns in detail rather than rushing through appointments. His polite and professional manner immediately puts patients at ease, which is especially important when dealing with skin issues that can affect confidence and quality of life.\n\nWhat makes Dr. Aashik Shahid particularly remarkable is his genuine dedication to his patients. He explains diagnoses and treatment options clearly, ensuring that patients fully understand their condition and feel comfortable with the plan. He prioritises patient safety and comfort, never recommending unnecessary procedures or medications. His follow-ups and attention to progress show that he truly cares beyond the consultation room.\n\nMany patients have expressed gratitude for the improvements they’ve experienced under his treatment, whether for chronic skin conditions, cosmetic dermatology, or acute concerns. His ability to combine deep medical knowledge with empathy and patience makes him highly respected and trusted.\n\nIn short, Dr. Aashik Shahid is a rare blend of professional excellence and heartfelt care — a dermatologist who genuinely makes a difference in his patients’ lives.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25JMFRqTlNTRU5tY0VwWVJTMTBSMFI0VjBWbWNXYxAB",
+      "author": "M.Sravya Pranathi",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "Best place if your are looking for a dermatologist.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKdU9HVk1SWHBwVDBsRmJFSlVaRVppU1VkdmMxRRAB",
+      "author": "samatha chintu",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "Dr. Aashik is an excellent dermatologist who effectively treated my acne problems and gave me smooth, even‑toned skin. he explained the condition clearly, suggested a simple routine, and monitored my progress closely. I am very happy with the results and highly recommend his for anyone struggling with similar skin concerns.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25weldraDFOMWR1WVZONlJsaHBUMDEzZFdSaFJVRRAB",
+      "author": "Khateeja Phatan",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201RFVrWnhVak5zTkRVeVpYRTVSR0pmUlRaTllrRRAB",
+      "author": "Shaik Naseema",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "Thankyou doctor for giving valuable insights for my hair and by talking to doctor itself boost my confidence, his keen observation for my hair fall helps me a lot and micro needling sessions going pretty good and now I'm able to see the results.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wcGFFTndRbFpaWlVaaWFHWlpVR1pDY1dodWVIYxAB",
+      "author": "sunilbabu nuthakki",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "Hairfall issue was there since 2 years., I have undergone gfc treatments and got great change in 3 sessions",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOVVNuQXdjSE5MY2xGaGNVTTVabWR1YzFwd1RYYxAB",
+      "author": "Sabira Shaik",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "I visit Dr.Aashik sir clinic for a skin issue and I was impressed by accurate diagnosis provided by the doctor. The attention to detail and through examination made me feel confident in the treatment plan and excellent service.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aUFNsaFdVV1ZLTjFoeFdYQkNWamRRZW5KTU5rRRAB",
+      "author": "Venkateswara Rao",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "Had great experience with Dr.Aashik  garu regarding my acne scars treatment. results were good",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tvdGVWOHdXRUYxTFhaS1kwTnNNblE1ZGpCSmQxRRAB",
+      "author": "LAKSHMI RAVI SANKAR NIDAMANURI",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxSmNYSnpXRkpoTTB0bVprSXpkVmRqWDNGQk1uYxAB",
+      "author": "vandana B",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "The experience here is very great unlike any regular clinic ,Dr.Aashik has taken his time out and explained regarding my skin and suggested a good skin care routine instead of  suggesting random procedures...\nIf you want to get specialized care and treatment for your skin this is the best place",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Kd2ExcHlXRFJuYXpWWWMzZ3hWMEprUlVveUxWRRAB",
+      "author": "Smruthi Ponnekanti",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "I went to see Dr. Aashik Shahid for my hair fall and dandruff issues. After just a few days on their recommended treatment plan, I saw a massive improvement. My hair fall has reduced drastically and my scalp got cleared of dandruff. Dr. Aashik sir was very professional and was with utmost patience, I had many doubts regarding my issues but Sir clearly explained everything .Highly recommended!!",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGWk5tb3pRbXB1TTFkMVgyUnpVWEpTWnpscWJXYxAB",
+      "author": "isaac kalyanram",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "I had a wonderful experience with this doctor. He was very analytical in understanding my long-standing health issue and explained everything with great clarity. His approach made me feel heard and informed throughout the process. Thanks to his guidance and treatment, I am now in much better health. I deeply appreciate his expertise and clear communication, and I highly recommend him to anyone looking for a thoughtful and skilled doctor.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GUk5USTFYMEl6WlRoNVQyNWFWM2xLVFRRMFdFRRAB",
+      "author": "JyostnaSri Mogili",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "Dr. Aashik took the time to listen carefully to my concerns, explained the treatment options clearly, and made sure I felt comfortable throughout. The care and attention I received were exceptional, and the results have been very positive. I have been taking treatment for acne and have very positive results. I truly appreciate the personalized approach and the genuine concern. Highly recommend this clinic to anyone looking for excellent dermatology care!",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25FMWNGUlFhSFZIVFZvNWJsZGZUVlpJWmt0dmFrRRAB",
+      "author": "vijaya kishore",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "Had treatment for stretch marks and I good results..Sir had performed procedural treatment along with prescribed medical treatment...I am very happy with the outcome",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kR1IwVklTRlpEWkMxWGEwdGxSRzFtYW1aV1luYxAB",
+      "author": "shaik fazal",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkSGFrcEZjVkpMTUdGbU9IVTFNRVY2UWxwUFJFRRAB",
+      "author": "Shaik Abdulsha",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "Sir has suggests good treatment and explained me in a very understanding way.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxdWJFSnVTelJ4WHpVd2FtRXhhRjkxTUhoRFltYxAB",
+      "author": "meghana Upputuri",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aMVIxWktkV3BxY1cwNWFraGtObFZRY0U1TWFsRRAB",
+      "author": "Aravind B",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pjM2RFNXpNM3BtYVY5b1JYVkJNelJvZUZsa1FtYxAB",
+      "author": "mohan krishna",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psTGJIWnNibnBmVUdodFNWRnVWVTFpVGxKdlkwRRAB",
+      "author": "Shaik Meher",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwT01Xa3dSbFpsUjFVMlZqaFVNbVZNUWtWMWRHYxAB",
+      "author": "Lakshmi Doddakula",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "A very careful, clear explanation about skin and what went wrong in my case and I have taken treatment for dark circles and blackness around eye which showed instant results and by using the creams prescribed made it even more better now I have normal skintone as my face around eyes too and the equipment used is sooo good and topnotch, quite comfortable treatments and service",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25NeE1HNU9MWHA1UldJd1JXbGllV2R3YW1vME5IYxAB",
+      "author": "Hansika Kambala",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "A very detailed explanation of things whar went wrong , why and how should we take care of it . In using the prescribed course Given i saw change in 4 days only and in no time of a month my face has completely changed and skin has become softer that I could never imagine also .",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210M2FtZFRkR1Z3Um04eE9IbERlRE13VmxkelgyYxAB",
+      "author": "Shakira Parveen",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    }
+  ],
+  "reviews_error": "",
+  "sorted_newest": true,
+  "stopped_at_known_review": false,
+  "reviews_captured": 65,
+  "owner_replies": 7,
+  "truncated_reviews": 1,
+  "reviews_coverage": 1.0,
+  "date_anchor": "2026-08-20T18:18:10",
+  "extract_seconds": 47.0,
+  "missing_fields": [
+    "website"
+  ],
+  "listing_position": 14,
+  "source_query": "dermatologists in Guntur",
+  "listing_name": "Dr.Aashik Shahid / Dermatologist /Skin Hair and Cosmetic clinic"
+}

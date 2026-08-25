@@ -1,0 +1,821 @@
+{
+  "1": {
+    "status": "parsed",
+    "detail": null,
+    "query": "dermatologist in Guntur",
+    "final_url": "https://www.google.com/search?q=dermatologist+in+Guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 12,
+    "screenshot": true,
+    "at": "2026-08-19T17:13:06"
+  },
+  "2": {
+    "status": "parsed",
+    "detail": null,
+    "query": "skin doctor in Guntur",
+    "final_url": "https://www.google.com/search?q=skin+doctor+in+Guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 11,
+    "screenshot": true,
+    "at": "2026-08-19T17:13:29"
+  },
+  "3": {
+    "status": "parsed",
+    "detail": null,
+    "query": "skin specialist in Guntur",
+    "final_url": "https://www.google.com/search?q=skin+specialist+in+Guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 11,
+    "screenshot": true,
+    "at": "2026-08-19T17:13:46"
+  },
+  "4": {
+    "status": "parsed",
+    "detail": null,
+    "query": "acne treatment in Guntur",
+    "final_url": "https://www.google.com/search?q=acne+treatment+in+Guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 12,
+    "screenshot": true,
+    "at": "2026-08-19T17:14:05"
+  },
+  "5": {
+    "status": "parsed",
+    "detail": null,
+    "query": "hair fall treatment in Guntur",
+    "final_url": "https://www.google.com/search?q=hair+fall+treatment+in+Guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 16,
+    "screenshot": true,
+    "at": "2026-08-19T17:14:19"
+  },
+  "6": {
+    "status": "parsed",
+    "detail": null,
+    "query": "dandruff treatment in Guntur",
+    "final_url": "https://www.google.com/search?q=dandruff+treatment+in+Guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 13,
+    "screenshot": true,
+    "at": "2026-08-19T17:14:33"
+  },
+  "7": {
+    "status": "parsed",
+    "detail": null,
+    "query": "psoriasis treatment in Guntur",
+    "final_url": "https://www.google.com/search?q=psoriasis+treatment+in+Guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 13,
+    "screenshot": true,
+    "at": "2026-08-19T17:14:56"
+  },
+  "8": {
+    "status": "parsed",
+    "detail": null,
+    "query": "eczema treatment in Guntur",
+    "final_url": "https://www.google.com/search?q=eczema+treatment+in+Guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 9,
+    "screenshot": true,
+    "at": "2026-08-19T17:15:14"
+  },
+  "9": {
+    "status": "parsed",
+    "detail": null,
+    "query": "fungal infection treatment in Guntur",
+    "final_url": "https://www.google.com/search?q=fungal+infection+treatment+in+Guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 9,
+    "screenshot": true,
+    "at": "2026-08-19T17:15:37"
+  },
+  "10": {
+    "status": "parsed",
+    "detail": null,
+    "query": "skin allergy treatment in Guntur",
+    "final_url": "https://www.google.com/search?q=skin+allergy+treatment+in+Guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 11,
+    "screenshot": true,
+    "at": "2026-08-19T17:15:56"
+  },
+  "11": {
+    "status": "parsed",
+    "detail": null,
+    "query": "pigmentation treatment in Guntur",
+    "final_url": "https://www.google.com/search?q=pigmentation+treatment+in+Guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 11,
+    "screenshot": true,
+    "at": "2026-08-19T17:17:30"
+  },
+  "12": {
+    "status": "parsed",
+    "detail": null,
+    "query": "vitiligo treatment in Guntur",
+    "final_url": "https://www.google.com/search?q=vitiligo+treatment+in+Guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 12,
+    "screenshot": true,
+    "at": "2026-08-19T17:17:46"
+  },
+  "13": {
+    "status": "parsed",
+    "detail": null,
+    "query": "wart removal in Guntur",
+    "final_url": "https://www.google.com/search?q=wart+removal+in+Guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 13,
+    "screenshot": true,
+    "at": "2026-08-19T17:18:08"
+  },
+  "14": {
+    "status": "parsed",
+    "detail": null,
+    "query": "scar removal treatment in Guntur",
+    "final_url": "https://www.google.com/search?q=scar+removal+treatment+in+Guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 13,
+    "screenshot": true,
+    "at": "2026-08-19T17:18:27"
+  },
+  "15": {
+    "status": "parsed",
+    "detail": null,
+    "query": "excessive sweating treatment in Guntur",
+    "final_url": "https://www.google.com/search?q=excessive+sweating+treatment+in+Guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 9,
+    "screenshot": true,
+    "at": "2026-08-19T17:18:44"
+  },
+  "16": {
+    "status": "parsed",
+    "detail": null,
+    "query": "nail infection treatment in Guntur",
+    "final_url": "https://www.google.com/search?q=nail+infection+treatment+in+Guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 9,
+    "screenshot": true,
+    "at": "2026-08-19T17:19:04"
+  },
+  "17": {
+    "status": "parsed",
+    "detail": null,
+    "query": "skin infection doctor in Guntur",
+    "final_url": "https://www.google.com/search?q=skin+infection+doctor+in+Guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 12,
+    "screenshot": true,
+    "at": "2026-08-19T17:19:21"
+  },
+  "18": {
+    "status": "parsed",
+    "detail": null,
+    "query": "laser hair removal in Guntur",
+    "final_url": "https://www.google.com/search?q=laser+hair+removal+in+Guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 14,
+    "screenshot": true,
+    "at": "2026-08-19T17:19:42"
+  },
+  "19": {
+    "status": "parsed",
+    "detail": null,
+    "query": "hair transplant in Guntur",
+    "final_url": "https://www.google.com/search?q=hair+transplant+in+Guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 15,
+    "screenshot": true,
+    "at": "2026-08-19T17:20:03"
+  },
+  "20": {
+    "status": "parsed",
+    "detail": null,
+    "query": "prp treatment for hair in Guntur",
+    "final_url": "https://www.google.com/search?q=prp+treatment+for+hair+in+Guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 12,
+    "screenshot": true,
+    "at": "2026-08-19T17:20:21"
+  },
+  "21": {
+    "status": "parsed",
+    "detail": null,
+    "query": "chemical peel in Guntur",
+    "final_url": "https://www.google.com/search?q=chemical+peel+in+Guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 11,
+    "screenshot": true,
+    "at": "2026-08-19T17:21:54"
+  },
+  "22": {
+    "status": "parsed",
+    "detail": null,
+    "query": "botox treatment in Guntur",
+    "final_url": "https://www.google.com/search?q=botox+treatment+in+Guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 10,
+    "screenshot": true,
+    "at": "2026-08-19T17:22:16"
+  },
+  "23": {
+    "status": "parsed",
+    "detail": null,
+    "query": "skin whitening treatment in Guntur",
+    "final_url": "https://www.google.com/search?q=skin+whitening+treatment+in+Guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 11,
+    "screenshot": true,
+    "at": "2026-08-19T17:22:32"
+  },
+  "24": {
+    "status": "parsed",
+    "detail": null,
+    "query": "microdermabrasion in Guntur",
+    "final_url": "https://www.google.com/search?q=microdermabrasion+in+Guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 12,
+    "screenshot": true,
+    "at": "2026-08-19T17:22:47"
+  },
+  "25": {
+    "status": "parsed",
+    "detail": null,
+    "query": "laser hair removal cost in Guntur",
+    "final_url": "https://www.google.com/search?q=laser+hair+removal+cost+in+Guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 1,
+    "screenshot": true,
+    "at": "2026-08-19T17:23:04"
+  },
+  "26": {
+    "status": "parsed",
+    "detail": null,
+    "query": "dermatologist consultation fees Guntur",
+    "final_url": "https://www.google.com/search?q=dermatologist+consultation+fees+Guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 10,
+    "screenshot": true,
+    "at": "2026-08-19T17:23:28"
+  },
+  "27": {
+    "status": "parsed",
+    "detail": null,
+    "query": "best rated dermatologist in Guntur",
+    "final_url": "https://www.google.com/search?q=best+rated+dermatologist+in+Guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 10,
+    "screenshot": true,
+    "at": "2026-08-19T17:23:44"
+  },
+  "28": {
+    "status": "parsed",
+    "detail": null,
+    "query": "best rated skin doctor in Guntur",
+    "final_url": "https://www.google.com/search?q=best+rated+skin+doctor+in+Guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 11,
+    "screenshot": true,
+    "at": "2026-08-19T17:24:03"
+  },
+  "29": {
+    "status": "parsed",
+    "detail": null,
+    "query": "book appointment dermatologist Guntur",
+    "final_url": "https://www.google.com/search?q=book+appointment+dermatologist+Guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 16,
+    "screenshot": true,
+    "at": "2026-08-19T17:24:27"
+  },
+  "30": {
+    "status": "parsed",
+    "detail": null,
+    "query": "book appointment skin doctor Guntur",
+    "final_url": "https://www.google.com/search?q=book+appointment+skin+doctor+Guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 12,
+    "screenshot": true,
+    "at": "2026-08-19T17:24:42"
+  },
+  "31": {
+    "status": "parsed",
+    "detail": null,
+    "query": "best skin clinic or dermatologist in Guntur",
+    "final_url": "https://www.google.com/search?q=best+skin+clinic+or+dermatologist+in+Guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 11,
+    "screenshot": true,
+    "at": "2026-08-19T17:26:16"
+  },
+  "32": {
+    "status": "parsed",
+    "detail": null,
+    "query": "best skin clinic or skin doctor in Guntur",
+    "final_url": "https://www.google.com/search?q=best+skin+clinic+or+skin+doctor+in+Guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 11,
+    "screenshot": true,
+    "at": "2026-08-19T17:26:30"
+  },
+  "33": {
+    "status": "parsed",
+    "detail": null,
+    "query": "dermatologist in guntur lakshmipuram",
+    "final_url": "https://www.google.com/search?q=dermatologist+in+guntur+lakshmipuram&gl=in&hl=en&num=20&pws=0",
+    "blocks": 11,
+    "screenshot": true,
+    "at": "2026-08-19T17:26:51"
+  },
+  "34": {
+    "status": "parsed",
+    "detail": null,
+    "query": "dermatologist in guntur city",
+    "final_url": "https://www.google.com/search?q=dermatologist+in+guntur+city&gl=in&hl=en&num=20&pws=0",
+    "blocks": 11,
+    "screenshot": true,
+    "at": "2026-08-19T17:27:08"
+  },
+  "35": {
+    "status": "parsed",
+    "detail": null,
+    "query": "dermatologist in guntur kothapet",
+    "final_url": "https://www.google.com/search?q=dermatologist+in+guntur+kothapet&gl=in&hl=en&num=20&pws=0",
+    "blocks": 11,
+    "screenshot": true,
+    "at": "2026-08-19T17:27:29"
+  },
+  "36": {
+    "status": "parsed",
+    "detail": null,
+    "query": "dermatologist in guntur open now",
+    "final_url": "https://www.google.com/search?q=dermatologist+in+guntur+open+now&gl=in&hl=en&num=20&pws=0",
+    "blocks": 12,
+    "screenshot": true,
+    "at": "2026-08-19T17:27:46"
+  },
+  "37": {
+    "status": "parsed",
+    "detail": null,
+    "query": "best dermatologist in guntur",
+    "final_url": "https://www.google.com/search?q=best+dermatologist+in+guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 10,
+    "screenshot": true,
+    "at": "2026-08-19T17:28:08"
+  },
+  "38": {
+    "status": "parsed",
+    "detail": null,
+    "query": "famous dermatologist in guntur",
+    "final_url": "https://www.google.com/search?q=famous+dermatologist+in+guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 11,
+    "screenshot": true,
+    "at": "2026-08-19T17:28:24"
+  },
+  "39": {
+    "status": "parsed",
+    "detail": null,
+    "query": "top dermatologist in guntur",
+    "final_url": "https://www.google.com/search?q=top+dermatologist+in+guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 11,
+    "screenshot": true,
+    "at": "2026-08-19T17:28:44"
+  },
+  "40": {
+    "status": "parsed",
+    "detail": null,
+    "query": "dermatologist hospitals in guntur",
+    "final_url": "https://www.google.com/search?q=dermatologist+hospitals+in+guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 11,
+    "screenshot": true,
+    "at": "2026-08-19T17:29:06"
+  },
+  "41": {
+    "status": "parsed",
+    "detail": null,
+    "query": "pediatric dermatologist in guntur",
+    "final_url": "https://www.google.com/search?q=pediatric+dermatologist+in+guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 10,
+    "screenshot": true,
+    "at": "2026-08-19T19:18:59"
+  },
+  "42": {
+    "status": "parsed",
+    "detail": null,
+    "query": "skin specialist in guntur lakshmipuram",
+    "final_url": "https://www.google.com/search?q=skin+specialist+in+guntur+lakshmipuram&gl=in&hl=en&num=20&pws=0",
+    "blocks": 11,
+    "screenshot": true,
+    "at": "2026-08-19T19:19:20"
+  },
+  "43": {
+    "status": "parsed",
+    "detail": null,
+    "query": "skin clinic in guntur",
+    "final_url": "https://www.google.com/search?q=skin+clinic+in+guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 11,
+    "screenshot": true,
+    "at": "2026-08-19T19:19:43"
+  },
+  "44": {
+    "status": "parsed",
+    "detail": null,
+    "query": "skin dermatologist in guntur",
+    "final_url": "https://www.google.com/search?q=skin+dermatologist+in+guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 11,
+    "screenshot": true,
+    "at": "2026-08-19T19:20:06"
+  },
+  "45": {
+    "status": "parsed",
+    "detail": null,
+    "query": "best skin doctor in guntur",
+    "final_url": "https://www.google.com/search?q=best+skin+doctor+in+guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 11,
+    "screenshot": true,
+    "at": "2026-08-19T19:20:31"
+  },
+  "46": {
+    "status": "parsed",
+    "detail": null,
+    "query": "kavitha skin doctor in guntur",
+    "final_url": "https://www.google.com/search?q=kavitha+skin+doctor+in+guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 10,
+    "screenshot": true,
+    "at": "2026-08-19T19:20:49"
+  },
+  "47": {
+    "status": "parsed",
+    "detail": null,
+    "query": "famous skin doctor in guntur",
+    "final_url": "https://www.google.com/search?q=famous+skin+doctor+in+guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 11,
+    "screenshot": true,
+    "at": "2026-08-19T19:21:07"
+  },
+  "48": {
+    "status": "parsed",
+    "detail": null,
+    "query": "skin specialist doctor in guntur",
+    "final_url": "https://www.google.com/search?q=skin+specialist+doctor+in+guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 11,
+    "screenshot": true,
+    "at": "2026-08-19T19:21:24"
+  },
+  "49": {
+    "status": "parsed",
+    "detail": null,
+    "query": "lady skin doctor in guntur",
+    "final_url": "https://www.google.com/search?q=lady+skin+doctor+in+guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 12,
+    "screenshot": true,
+    "at": "2026-08-19T19:21:39"
+  },
+  "50": {
+    "status": "parsed",
+    "detail": null,
+    "query": "top skin specialist in guntur",
+    "final_url": "https://www.google.com/search?q=top+skin+specialist+in+guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 11,
+    "screenshot": true,
+    "at": "2026-08-19T19:22:00"
+  },
+  "51": {
+    "status": "parsed",
+    "detail": null,
+    "query": "lady skin specialist in guntur",
+    "final_url": "https://www.google.com/search?q=lady+skin+specialist+in+guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 12,
+    "screenshot": true,
+    "at": "2026-08-19T19:23:40"
+  },
+  "52": {
+    "status": "parsed",
+    "detail": null,
+    "query": "krishnamurthy skin specialist in guntur",
+    "final_url": "https://www.google.com/search?q=krishnamurthy+skin+specialist+in+guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 11,
+    "screenshot": true,
+    "at": "2026-08-19T19:24:04"
+  },
+  "53": {
+    "status": "parsed",
+    "detail": null,
+    "query": "famous skin specialist in guntur",
+    "final_url": "https://www.google.com/search?q=famous+skin+specialist+in+guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 11,
+    "screenshot": true,
+    "at": "2026-08-19T19:24:30"
+  },
+  "54": {
+    "status": "parsed",
+    "detail": null,
+    "query": "cosmetologist in guntur",
+    "final_url": "https://www.google.com/search?q=cosmetologist+in+guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 12,
+    "screenshot": true,
+    "at": "2026-08-19T19:24:45"
+  },
+  "55": {
+    "status": "parsed",
+    "detail": null,
+    "query": "best cosmetologist in guntur",
+    "final_url": "https://www.google.com/search?q=best+cosmetologist+in+guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 11,
+    "screenshot": true,
+    "at": "2026-08-19T19:25:09"
+  },
+  "56": {
+    "status": "parsed",
+    "detail": null,
+    "query": "trichologist in guntur",
+    "final_url": "https://www.google.com/search?q=trichologist+in+guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 17,
+    "screenshot": true,
+    "at": "2026-08-19T19:25:32"
+  },
+  "57": {
+    "status": "parsed",
+    "detail": null,
+    "query": "best trichologist in guntur",
+    "final_url": "https://www.google.com/search?q=best+trichologist+in+guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 19,
+    "screenshot": true,
+    "at": "2026-08-19T19:25:48"
+  },
+  "58": {
+    "status": "parsed",
+    "detail": null,
+    "query": "pimples treatment in Guntur",
+    "final_url": "https://www.google.com/search?q=pimples+treatment+in+Guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 12,
+    "screenshot": true,
+    "at": "2026-08-19T19:26:08"
+  },
+  "59": {
+    "status": "parsed",
+    "detail": null,
+    "query": "hair loss treatment in Guntur",
+    "final_url": "https://www.google.com/search?q=hair+loss+treatment+in+Guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 18,
+    "screenshot": true,
+    "at": "2026-08-19T19:26:23"
+  },
+  "60": {
+    "status": "parsed",
+    "detail": null,
+    "query": "scalp treatment in Guntur",
+    "final_url": "https://www.google.com/search?q=scalp+treatment+in+Guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 16,
+    "screenshot": true,
+    "at": "2026-08-19T19:26:43"
+  },
+  "61": {
+    "status": "parsed",
+    "detail": null,
+    "query": "psoriasis specialist in Guntur",
+    "final_url": "https://www.google.com/search?q=psoriasis+specialist+in+Guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 13,
+    "screenshot": true,
+    "at": "2026-08-19T19:28:17"
+  },
+  "62": {
+    "status": "parsed",
+    "detail": null,
+    "query": "atopic dermatitis treatment in Guntur",
+    "final_url": "https://www.google.com/search?q=atopic+dermatitis+treatment+in+Guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 10,
+    "screenshot": true,
+    "at": "2026-08-19T19:28:37"
+  },
+  "63": {
+    "status": "parsed",
+    "detail": null,
+    "query": "ringworm treatment in Guntur",
+    "final_url": "https://www.google.com/search?q=ringworm+treatment+in+Guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 10,
+    "screenshot": true,
+    "at": "2026-08-19T19:28:54"
+  },
+  "64": {
+    "status": "parsed",
+    "detail": null,
+    "query": "skin rash doctor in Guntur",
+    "final_url": "https://www.google.com/search?q=skin+rash+doctor+in+Guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 11,
+    "screenshot": true,
+    "at": "2026-08-19T19:29:11"
+  },
+  "65": {
+    "status": "parsed",
+    "detail": null,
+    "query": "dark spots treatment in Guntur",
+    "final_url": "https://www.google.com/search?q=dark+spots+treatment+in+Guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 13,
+    "screenshot": true,
+    "at": "2026-08-19T19:29:28"
+  },
+  "66": {
+    "status": "parsed",
+    "detail": null,
+    "query": "white patches treatment in Guntur",
+    "final_url": "https://www.google.com/search?q=white+patches+treatment+in+Guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 10,
+    "screenshot": true,
+    "at": "2026-08-19T19:29:43"
+  },
+  "67": {
+    "status": "parsed",
+    "detail": null,
+    "query": "mole removal in Guntur",
+    "final_url": "https://www.google.com/search?q=mole+removal+in+Guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 13,
+    "screenshot": true,
+    "at": "2026-08-19T19:29:58"
+  },
+  "68": {
+    "status": "parsed",
+    "detail": null,
+    "query": "keloid treatment in Guntur",
+    "final_url": "https://www.google.com/search?q=keloid+treatment+in+Guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 11,
+    "screenshot": true,
+    "at": "2026-08-19T19:30:23"
+  },
+  "69": {
+    "status": "parsed",
+    "detail": null,
+    "query": "hyperhidrosis treatment in Guntur",
+    "final_url": "https://www.google.com/search?q=hyperhidrosis+treatment+in+Guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 10,
+    "screenshot": true,
+    "at": "2026-08-19T19:30:39"
+  },
+  "70": {
+    "status": "parsed",
+    "detail": null,
+    "query": "nail fungus doctor in Guntur",
+    "final_url": "https://www.google.com/search?q=nail+fungus+doctor+in+Guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 11,
+    "screenshot": true,
+    "at": "2026-08-19T19:30:56"
+  },
+  "71": {
+    "status": "parsed",
+    "detail": null,
+    "query": "boils treatment in Guntur",
+    "final_url": "https://www.google.com/search?q=boils+treatment+in+Guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 10,
+    "screenshot": true,
+    "at": "2026-08-19T19:32:33"
+  },
+  "72": {
+    "status": "parsed",
+    "detail": null,
+    "query": "hair transplant cost in Guntur",
+    "final_url": "https://www.google.com/search?q=hair+transplant+cost+in+Guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 13,
+    "screenshot": true,
+    "at": "2026-08-19T19:32:54"
+  },
+  "73": {
+    "status": "parsed",
+    "detail": null,
+    "query": "prp hair treatment cost in Guntur",
+    "final_url": "https://www.google.com/search?q=prp+hair+treatment+cost+in+Guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 10,
+    "screenshot": true,
+    "at": "2026-08-19T19:33:12"
+  },
+  "74": {
+    "status": "parsed",
+    "detail": null,
+    "query": "chemical peel cost in Guntur",
+    "final_url": "https://www.google.com/search?q=chemical+peel+cost+in+Guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 10,
+    "screenshot": true,
+    "at": "2026-08-19T19:33:34"
+  },
+  "75": {
+    "status": "parsed",
+    "detail": null,
+    "query": "dermal fillers in Guntur",
+    "final_url": "https://www.google.com/search?q=dermal+fillers+in+Guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 11,
+    "screenshot": true,
+    "at": "2026-08-19T19:33:59"
+  },
+  "76": {
+    "status": "parsed",
+    "detail": null,
+    "query": "skin brightening treatment in Guntur",
+    "final_url": "https://www.google.com/search?q=skin+brightening+treatment+in+Guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 12,
+    "screenshot": true,
+    "at": "2026-08-19T19:34:23"
+  },
+  "77": {
+    "status": "parsed",
+    "detail": null,
+    "query": "skin polishing treatment in Guntur",
+    "final_url": "https://www.google.com/search?q=skin+polishing+treatment+in+Guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 12,
+    "screenshot": true,
+    "at": "2026-08-19T19:34:39"
+  },
+  "78": {
+    "status": "parsed",
+    "detail": null,
+    "query": "acne scars treatment in Guntur",
+    "final_url": "https://www.google.com/search?q=acne+scars+treatment+in+Guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 11,
+    "screenshot": true,
+    "at": "2026-08-19T19:34:58"
+  },
+  "79": {
+    "status": "parsed",
+    "detail": null,
+    "query": "acne doctor in Guntur",
+    "final_url": "https://www.google.com/search?q=acne+doctor+in+Guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 11,
+    "screenshot": true,
+    "at": "2026-08-19T19:35:21"
+  },
+  "80": {
+    "status": "parsed",
+    "detail": null,
+    "query": "acne treatment Guntur",
+    "final_url": "https://www.google.com/search?q=acne+treatment+Guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 12,
+    "screenshot": true,
+    "at": "2026-08-19T19:35:37"
+  },
+  "81": {
+    "status": "parsed",
+    "detail": null,
+    "query": "pimples treatment Guntur",
+    "final_url": "https://www.google.com/search?q=pimples+treatment+Guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 10,
+    "screenshot": true,
+    "at": "2026-08-19T19:37:14"
+  },
+  "82": {
+    "status": "parsed",
+    "detail": null,
+    "query": "acne scars treatment Guntur",
+    "final_url": "https://www.google.com/search?q=acne+scars+treatment+Guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 12,
+    "screenshot": true,
+    "at": "2026-08-19T19:37:30"
+  },
+  "83": {
+    "status": "parsed",
+    "detail": null,
+    "query": "acne doctor Guntur",
+    "final_url": "https://www.google.com/search?q=acne+doctor+Guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 12,
+    "screenshot": true,
+    "at": "2026-08-21T14:51:15"
+  },
+  "84": {
+    "status": "parsed",
+    "detail": null,
+    "query": "best acne treatment in Guntur",
+    "final_url": "https://www.google.com/search?q=best+acne+treatment+in+Guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 11,
+    "screenshot": true,
+    "at": "2026-08-21T14:51:36"
+  },
+  "85": {
+    "status": "parsed",
+    "detail": null,
+    "query": "best pimples treatment in Guntur",
+    "final_url": "https://www.google.com/search?q=best+pimples+treatment+in+Guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 10,
+    "screenshot": true,
+    "at": "2026-08-21T14:51:57"
+  },
+  "86": {
+    "status": "parsed",
+    "detail": null,
+    "query": "best acne scars treatment in Guntur",
+    "final_url": "https://www.google.com/search?q=best+acne+scars+treatment+in+Guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 12,
+    "screenshot": true,
+    "at": "2026-08-21T14:53:31"
+  },
+  "87": {
+    "status": "parsed",
+    "detail": null,
+    "query": "best acne doctor in Guntur",
+    "final_url": "https://www.google.com/search?q=best+acne+doctor+in+Guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 11,
+    "screenshot": true,
+    "at": "2026-08-21T14:53:54"
+  },
+  "88": {
+    "status": "parsed",
+    "detail": null,
+    "query": "baldness treatment in Guntur",
+    "final_url": "https://www.google.com/search?q=baldness+treatment+in+Guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 12,
+    "screenshot": true,
+    "at": "2026-08-21T14:54:12"
+  },
+  "89": {
+    "status": "parsed",
+    "detail": null,
+    "query": "hair fall doctor in Guntur",
+    "final_url": "https://www.google.com/search?q=hair+fall+doctor+in+Guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 17,
+    "screenshot": true,
+    "at": "2026-08-21T14:54:35"
+  },
+  "90": {
+    "status": "parsed",
+    "detail": null,
+    "query": "hair fall treatment Guntur",
+    "final_url": "https://www.google.com/search?q=hair+fall+treatment+Guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 15,
+    "screenshot": true,
+    "at": "2026-08-21T14:54:52"
+  },
+  "91": {
+    "status": "parsed",
+    "detail": null,
+    "query": "hair loss treatment Guntur",
+    "final_url": "https://www.google.com/search?q=hair+loss+treatment+Guntur&gl=in&hl=en&num=20&pws=0",
+    "blocks": 12,
+    "screenshot": true,
+    "at": "2026-08-21T14:55:14"
+  }
+}

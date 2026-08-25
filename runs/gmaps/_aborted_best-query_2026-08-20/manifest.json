@@ -1,0 +1,23 @@
+{
+  "geography": "guntur-ap",
+  "specialty": "dermatology",
+  "city": "Guntur",
+  "country": "India",
+  "gl": "in",
+  "extract_hl": "en",
+  "timezone": "Asia/Kolkata",
+  "query": "best dermatologists in Guntur, Andhra Pradesh",
+  "run_dir": "runs\\gmaps\\guntur-ap_dermatology_2026-08-20",
+  "started_at": "2026-08-20T22:47:31",
+  "last_run_at": "2026-08-20T22:47:31",
+  "resumed": false,
+  "status": "running",
+  "incremental": false,
+  "limit": null,
+  "partial_survey": false,
+  "pack_fingerprint": {
+    "specialty_pack": "c4a933ba033f",
+    "geography_pack": "fd3ace0f0978"
+  },
+  "gmaps_version": "2.0"
+}

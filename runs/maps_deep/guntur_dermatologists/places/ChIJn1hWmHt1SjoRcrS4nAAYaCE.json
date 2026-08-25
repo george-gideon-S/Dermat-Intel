@@ -1,0 +1,353 @@
+{
+  "place_url": "https://www.google.com/maps/place/Image+Poly+Clinic/data=!4m7!3m6!1s0x3a4a757b9856589f:0x216818009cb8b472!8m2!3d16.3090988!4d80.4182413!16s%2Fg%2F11c5ztsg11!19sChIJn1hWmHt1SjoRcrS4nAAYaCE?authuser=0&hl=en&rclk=1",
+  "captured_at": "2026-08-20T18:41:37",
+  "feature_id": "0x3a4a757b9856589f:0x216818009cb8b472",
+  "place_id": "ChIJn1hWmHt1SjoRcrS4nAAYaCE",
+  "kg_mid": "/g/11c5ztsg11",
+  "lat": 16.3090988,
+  "lng": 80.4182413,
+  "name_raw": "Image Poly Clinic",
+  "name_clean": "Image Poly Clinic",
+  "name_key": "imagepolyclinic",
+  "name_dropped": [],
+  "name_was_cleaned": false,
+  "category": "Medical clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "adjacent",
+  "basis": "category",
+  "address": "Pattabhipuram Rd, opp. Indian Oil Petrol Bunk, Krishna Nagar, Guntur, Andhra Pradesh 522006",
+  "plus_code": "8C59+J7 Guntur, Andhra Pradesh",
+  "phone": "",
+  "website": "",
+  "website_domain": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "insecure_http": false,
+  "website_matches_name": null,
+  "rating": 4.5,
+  "reviews_total": 27,
+  "rating_histogram": {
+    "5": 23,
+    "4": 1,
+    "3": 0,
+    "2": 0,
+    "1": 3
+  },
+  "histogram_sum": 27,
+  "histogram_reconciles": true,
+  "topics": {
+    "skin specialist": 2,
+    "treatment": 6,
+    "patient care": 3,
+    "sir": 3,
+    "doctors": 3,
+    "skin": 2,
+    "hospital": 2
+  },
+  "google_profile_gaps": [
+    "Add place's phone number",
+    "Add website"
+  ],
+  "has_photos": true,
+  "hours": {
+    "Thursday": "9 am to 8 pm",
+    "Friday": "9 am to 8 pm",
+    "Saturday": "9 am to 8 pm",
+    "Sunday": "10:30 am to 1 pm",
+    "Monday": "9 am to 8 pm",
+    "Tuesday": "9 am to 8 pm",
+    "Wednesday": "9 am to 8 pm"
+  },
+  "about": {
+    "Service options": [
+      " On-site services"
+    ],
+    "Amenities": [
+      " Restroom"
+    ],
+    "Planning": [
+      " Appointments recommended"
+    ],
+    "Map details": [
+      "Transit",
+      "Traffic",
+      "Biking",
+      "Terrain",
+      "Street View",
+      "Wildfires",
+      "Air Quality"
+    ],
+    "Map tools": [
+      "Travel time",
+      "Measure"
+    ],
+    "Map type": [
+      "Default",
+      "Satellite",
+      " Globe view ",
+      " Labels"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTURBN08tRDZnRRAB",
+      "author": "Shaik Mukthar",
+      "rating": 5,
+      "relative_date": "Edited 2 weeks ago",
+      "text": "Best doctors and Best hospital 🏥 …",
+      "maybe_truncated": true,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sM2JqSjRjRWR1ZUVSblFrUkxNSEZqZVhRemNFRRAB",
+      "author": "Monika Yemineni",
+      "rating": 1,
+      "relative_date": "2 weeks ago",
+      "text": "Not responding call left chayatledu",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxSVIwTmxVVVJwUlVoZloxaDVaVEkzVkhCRVZrRRAB",
+      "author": "Veda Anudeep",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xreU0zUnFhVlZxU2kxeFpuUnVOakZHU1RsNGIxRRAB",
+      "author": "Vamsidhar Pothula",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Amazing, friendly and understanding doctors - most humane and patient-friendly with good treatment and right diagnosis.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25neVYxVlNOMWM1YkU1cWNqbDFXalpOUVY5WGVtYxAB",
+      "author": "Krishnavamsi Gudla",
+      "rating": 4,
+      "relative_date": "a year ago",
+      "text": "My mother had frozen shoulder issue, Yamini was the physiotherapist, who was very friendly and always there to answer all her questions. Now we could see there is 80% movement in her hand. Deserves 4.5 ⭐",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTURBbDRmbkpBEAE",
+      "author": "Dr. Smruthi",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNfeXVXNElREAE",
+      "author": "Sayed Afrin",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNWMjg3bU9REAE",
+      "author": "Kosana Manikanta",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Kusuma gayathri garu is one of the top most practitioner in guntur. Her down to earth personality and listening to patients is remarkable. She prescribes medicines only if it is very necessary. Patient care and hospital staff are very humble. Responds very quickly. I highly recommend this place to friends and family.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSdzgtaDJ3RRAB",
+      "author": "Shabbeer Ahamed",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSOGJiZ2pnRRAB",
+      "author": "Omesh Chandra Chilukoti",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNoeVphck9nEAE",
+      "author": "Keerthi M",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Best Doctors and Best Hospital i have ever seen in my life . I'm not sure I'll meet such type of Great Doctor in my coming years. Thanks for best hospitality to Dr. Mustafa Garu. Dr.Mustafa Garu addresses patients with great humanity and suggests best treatment that can be bearable by poor people too.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtMXQtTzdRRRAB",
+      "author": "Bhudhati Ravi",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Dr AKSHYA JAIN sir treatment is very well and Care on patient",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtMXVfbTRBRRAB",
+      "author": "Lanka Bhimesh",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "In this clinic Dr. Akshay Jain sir skin specialist having excellent experience in treating skin diseases I preferred him within short time I got my good results thank u sir",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtMXUtU3dnRRAB",
+      "author": "Venkatesh Daggu",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Dr. Akashy jain  sir caring about patient and treatment is good",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMtMXVfd0NBEAE",
+      "author": "venkatesh pattem",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Dr.Akshay Jain skin clinic treatment is very well on good.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNxaHNTTnB3RRAB",
+      "author": "SRINIVAS PEDAMALLU",
+      "rating": 1,
+      "relative_date": "5 years ago",
+      "text": "Should a Poly clinic not have a phone number on google??\nIts just making patients to suffer more ......",
+      "maybe_truncated": true,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNDb2RqTmN3EAE",
+      "author": "Venkat aka",
+      "rating": 1,
+      "relative_date": "5 years ago",
+      "text": "Hospital is gud but staff doesn't respond for patients properly...Receptionists doesn't proper information and doesn't maintain punchuality.....Doctors gud as well.....",
+      "maybe_truncated": true,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNDekxmQWh3RRAB",
+      "author": "transcend skills",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNzbDhmcWpBRRAB",
+      "author": "Sabara Shaik",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "Dr mustafa good  doctor",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNzak52Z2pBRRAB",
+      "author": "VENKATA SRIDEVI GANJAM",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "Nice hospitality",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURNczQ3bVVREAE",
+      "author": "Syed Karimulla",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "I went for eye checkup at Dr Ramadevi, she's very friendly and thorough professional, but don't go to the Roxy opticals inside this polyclinic. High rates and less choice.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURNb1llemFREAE",
+      "author": "Rsp Sumanth kumar",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNNMC1MMHBnRRAB",
+      "author": "Hema Aishwarya Tanniru",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMwaG9lWVFREAE",
+      "author": "sivareddy satti",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNvNTducjhRRRAB",
+      "author": "Farhaan Shaik",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURJb19TVFR3EAE",
+      "author": "Rahul Sharma",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Best hospital friendly treatment provided by doctors",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURBMzhPdXZ3RRAB",
+      "author": "Dr. Mrs. S.D. Sasi Kiran",
+      "rating": 5,
+      "relative_date": "8 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    }
+  ],
+  "reviews_error": "",
+  "sorted_newest": true,
+  "stopped_at_known_review": false,
+  "reviews_captured": 27,
+  "owner_replies": 0,
+  "truncated_reviews": 3,
+  "reviews_coverage": 1.0,
+  "date_anchor": "2026-08-20T18:41:37",
+  "extract_seconds": 56.7,
+  "missing_fields": [
+    "phone",
+    "website"
+  ],
+  "listing_position": 38,
+  "source_query": "dermatologists in Guntur",
+  "listing_name": "Image Poly Clinic"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "guntur-ap",
+  "city": "Guntur",
+  "state": "Andhra Pradesh",
+  "country": "India",
+  "display_name": "Guntur, Andhra Pradesh",
+  "latlng": [
+    16.3067,
+    80.4365
+  ],
+  "gl": "in",
+  "hl": "en",
+  "locale": "en-IN",
+  "timezone": "Asia/Kolkata",
+  "radius_m": 15000,
+  "city_tokens": [
+    "guntur"
+  ],
+  "localities": [
+    "Lakshmipuram",
+    "Brodipet",
+    "Kothapet",
+    "Arundelpet",
+    "Pattabhipuram",
+    "Chandramouli Nagar",
+    "Gorantla",
+    "Nallapadu",
+    "Amaravati Road"
+  ],
+  "nearby_markets": [
+    "Vijayawada",
+    "Tenali",
+    "Narasaraopet",
+    "Mangalagiri"
+  ],
+  "geo_note": "Google ignores the uule parameter (measured 2026-08-18: pinning to Mumbai, to Guntur, and sending no parameter all returned identical Vijayawada-weighted SERPs). This machine's egress IP geolocates to Vijayawada, ~30 km away, so an unqualified query silently returns the wrong market. Geography therefore comes from the city name inside the query text, which is also how the June 2026 baseline was captured.",
+  "requires_city_in_query": true,
+  "allow_locality_queries": false,
+  "locality_note": "Guntur is a small city: patients search the city, not the neighbourhood. localities[] is kept for address matching only — see 'query writing.md'."
+}

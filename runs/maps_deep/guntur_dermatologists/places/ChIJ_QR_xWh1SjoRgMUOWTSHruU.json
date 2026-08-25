@@ -1,0 +1,298 @@
+{
+  "place_url": "https://www.google.com/maps/place/Dr.+N.V.+Ramana+Rao+M.D+D.P.M/data=!4m7!3m6!1s0x3a4a7568c57f04fd:0xe5ae8734590ec580!8m2!3d16.3032578!4d80.4278194!16s%2Fg%2F11c3157cqy!19sChIJ_QR_xWh1SjoRgMUOWTSHruU?authuser=0&hl=en&rclk=1",
+  "captured_at": "2026-08-20T19:19:06",
+  "feature_id": "0x3a4a7568c57f04fd:0xe5ae8734590ec580",
+  "place_id": "ChIJ_QR_xWh1SjoRgMUOWTSHruU",
+  "kg_mid": "/g/11c3157cqy",
+  "lat": 16.3032578,
+  "lng": 80.4278194,
+  "name_raw": "Dr. N.V. Ramana Rao M.D D.P.M",
+  "name_clean": "Dr. N.V. Ramana Rao",
+  "name_key": "drnvramanarao",
+  "name_dropped": [
+    "D.P.M",
+    "M.D"
+  ],
+  "name_was_cleaned": true,
+  "category": "Medical clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "adjacent",
+  "basis": "category",
+  "address": "8C3H+844, 18th Cross Rd, 2nd Line, Brodipet, Guntur, Andhra Pradesh 522002",
+  "plus_code": "",
+  "phone": "0863 235 4053",
+  "website": "",
+  "website_domain": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "insecure_http": false,
+  "website_matches_name": null,
+  "rating": 5.0,
+  "reviews_total": 22,
+  "rating_histogram": {
+    "5": 21,
+    "4": 1,
+    "3": 0,
+    "2": 0,
+    "1": 0
+  },
+  "histogram_sum": 22,
+  "histogram_reconciles": true,
+  "topics": {
+    "doctor": 2
+  },
+  "google_profile_gaps": [
+    "Add hours",
+    "Add website"
+  ],
+  "has_photos": true,
+  "hours": null,
+  "about": {
+    "Accessibility": [
+      " Wheelchair-accessible toilet"
+    ],
+    "Amenities": [
+      " Restroom"
+    ],
+    "Planning": [
+      " Appointments recommended"
+    ],
+    "Map details": [
+      "Transit",
+      "Traffic",
+      "Biking",
+      "Terrain",
+      "Street View",
+      "Wildfires",
+      "Air Quality"
+    ],
+    "Map tools": [
+      "Travel time",
+      "Measure"
+    ],
+    "Map type": [
+      "Default",
+      "Satellite",
+      " Globe view ",
+      " Labels"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkYVUzQkJTbEpXZDJWU1IyVTFjMkZDVDBFdE1tYxAB",
+      "author": "Shaik Bademiya",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURfLUxycTRnRRAB",
+      "author": "Hima Madhavarao",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmLXNtdi1BRRAB",
+      "author": "Bala Subrahmanyam",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Excellent Doctor. He treats the patient very carefully, gives very low safe drugs, keeping in view of future, in particular, Fir girls. When U took my daughter to him, she had counseling to us all, and separately to my daughter (16 years) later to me and to my wife jointly, he told he us going to treat with low and safe drugh, he is having about 20 students from a corporate college where my daughter was studied. He advised us to stop sending to that college immediy, though she may loose one academic year, we done, next year we joinedbin a Govt. College where no stress, she gained many medals to that college. She got Univery rank in her B.Tech. selected for a MNC, Pine worked, later resigned for her Marriage, after her children's grownup now she joined Job.\nDoctor sir told an important point, some other doctors used to give high dose unnecessarily, which leads obedity, gynec issues in future.\nAfter a long period, to sugest him to my known perons, it happed to me to write. Once again my sincere Namaskarsms to Him.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYcVkzSkRnEAE",
+      "author": "Farjana Shaik",
+      "rating": 4,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURiNU56Wi1BRRAB",
+      "author": "Viddu P",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Very nice doctor... Doesnt give unnecessary meds",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNyLXFtZG1nRRAB",
+      "author": "cfcbza",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM5OGV6di13RRAB",
+      "author": "Sambasiva Rao T",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR4Nk1YNWxnRRAB",
+      "author": "study help",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNCa1k2dUxnEAE",
+      "author": "Eswar anand Attuluri",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "100%  perfect doctor",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNPaThxbkl3EAE",
+      "author": "Ravi Kumar Indukuri",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Highly experienced and genius doctor",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURtMTYtTnh3RRAB",
+      "author": "Chandra Sekhar K",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "My father is facing some sleep issues since 5 years, we have consulted most of the best hospitals in Hyderabad and spend lot of money but not cured. We found and consulted Dr.Ramana Rao sir through one of our family members. After treatment, we clearly noticed major changes. Doctor is very kind and consultancy fee is nominal compare to other hospitals.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN5M09uczN3RRAB",
+      "author": "shaik zubeda",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "Good doctor",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURpaHAyeHlnRRAB",
+      "author": "nagini kongara",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNDelB6RTR3RRAB",
+      "author": "Yadlapalli Venkatesh",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ4aTR5RkJBEAE",
+      "author": "ravi nagulavancha",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM4aHZ6YkJ3EAE",
+      "author": "Yarraguntla Maheswararao",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNzdXFmVnFRRRAB",
+      "author": "siram ramesh",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "Best doctor",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURNbnBldDFnRRAB",
+      "author": "Mano Cool",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNNallUZGNnEAE",
+      "author": "INNTTIAZ KHAN",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQwd09DaVNBEAE",
+      "author": "Nagsandta11 Sandhya",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURJX2U3UmFBEAE",
+      "author": "nageswararao sure",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURJa0l6ajNBRRAB",
+      "author": "Sambasivarao Akula",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    }
+  ],
+  "reviews_error": "",
+  "sorted_newest": true,
+  "stopped_at_known_review": false,
+  "reviews_captured": 22,
+  "owner_replies": 0,
+  "truncated_reviews": 0,
+  "reviews_coverage": 1.0,
+  "date_anchor": "2026-08-20T19:19:06",
+  "extract_seconds": 64.4,
+  "missing_fields": [
+    "plus_code",
+    "website",
+    "hours"
+  ],
+  "listing_position": 67,
+  "source_query": "dermatologists in Guntur",
+  "listing_name": "Dr. N.V. Ramana Rao M.D D.P.M"
+}

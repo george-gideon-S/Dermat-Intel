@@ -1,0 +1,1541 @@
+{
+  "place_url": "https://www.google.com/maps/place/Ramesh+Skin+Clinic/data=!4m7!3m6!1s0x3a4a758fcac1486f:0x9c067cdf5b13232d!8m2!3d16.2993019!4d80.4511437!16s%2Fg%2F11qq55bldr!19sChIJb0jByo91SjoRLSMTW998Bpw?authuser=0&hl=en&rclk=1",
+  "captured_at": "2026-08-20T18:16:50",
+  "feature_id": "0x3a4a758fcac1486f:0x9c067cdf5b13232d",
+  "place_id": "ChIJb0jByo91SjoRLSMTW998Bpw",
+  "kg_mid": "/g/11qq55bldr",
+  "lat": 16.2993019,
+  "lng": 80.4511437,
+  "name_raw": "Ramesh Skin Clinic",
+  "name_clean": "Ramesh Skin Clinic",
+  "name_key": "rameshskinclinic",
+  "name_dropped": [],
+  "name_was_cleaned": false,
+  "category": "Dermatologist",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "Door no: 12, 12-47, Old Club Rd, opp. Amrutha Hospitals, 1, Kothapeta, Guntur, Andhra Pradesh 522001",
+  "plus_code": "7FX2+PF Guntur, Andhra Pradesh",
+  "phone": "0863 355 8831",
+  "website": "https://drrameshskin.in/",
+  "website_domain": "drrameshskin.in",
+  "website_type": "own_domain",
+  "has_own_website": true,
+  "insecure_http": false,
+  "website_matches_name": true,
+  "rating": 4.7,
+  "reviews_total": 160,
+  "rating_histogram": {
+    "5": 139,
+    "4": 13,
+    "3": 0,
+    "2": 1,
+    "1": 7
+  },
+  "histogram_sum": 160,
+  "histogram_reconciles": true,
+  "topics": {
+    "fast recovery": 5,
+    "quick response": 2,
+    "skin allergies": 2,
+    "effective treatment": 3,
+    "clear explanations": 4,
+    "skin problems": 5,
+    "caring doctor": 2,
+    "good atmosphere": 2,
+    "consultancy": 2,
+    "communication": 2
+  },
+  "google_profile_gaps": null,
+  "has_photos": true,
+  "hours": {
+    "Thursday": "9:30 am to 8:30 pm",
+    "Friday": "9:30 am to 8:30 pm",
+    "Saturday": "9:30 am to 8:30 pm",
+    "Sunday": "9:30 am to 12:30 pm",
+    "Monday": "9:30 am to 8:30 pm",
+    "Tuesday": "9:30 am to 8:30 pm",
+    "Wednesday": "9:30 am to 8:30 pm"
+  },
+  "about": {
+    "Planning": [
+      " Appointments recommended"
+    ],
+    "Map details": [
+      "Transit",
+      "Traffic",
+      "Biking",
+      "Terrain",
+      "Street View",
+      "Wildfires",
+      "Air Quality"
+    ],
+    "Map tools": [
+      "Travel time",
+      "Measure"
+    ],
+    "Map type": [
+      "Default",
+      "Satellite",
+      " Globe view ",
+      " Labels"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tReFVDMXlhbmxVYkcxVGFFdERPR0pyYUVJM1lsRRAB",
+      "author": "Elisha Buradagunta",
+      "rating": 5,
+      "relative_date": "3 days ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sSFRrNTNiMDFwZVhndFkxUTVabnBuWmpZek1YYxAB",
+      "author": "Ruthwik",
+      "rating": 1,
+      "relative_date": "2 months ago",
+      "text": "When I went to them 1st time they half treated my facial skin\nBut when 2nd time I went there to complete my treatment, they haven't treated me well",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xrMFgyczVVM2t4YzNjM1IyRkZNR3BtWlUwMGVHYxAB",
+      "author": "Ominipotent",
+      "rating": 1,
+      "relative_date": "4 months ago",
+      "text": "🙏... …",
+      "maybe_truncated": true,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ZeWFXNW1RbEpQZDJreGN6UnRlVzlIWkU1TFkwRRAB",
+      "author": "Varshitha R",
+      "rating": 5,
+      "relative_date": "4 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xMGMyTnRWemh3T0d4WlpVYzJZbWxXU0VoVVZYYxAB",
+      "author": "Dragon World",
+      "rating": 1,
+      "relative_date": "5 months ago",
+      "text": "🙏he sees how to write tests unnecessarily, in my case hands lifted even not recommended. …",
+      "maybe_truncated": true,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214RUxYRXdjVFZ2YVV3dFlqTllaaTB5YldaVGNrRRAB",
+      "author": "Suni meeniga",
+      "rating": 5,
+      "relative_date": "5 months ago",
+      "text": "Nice treatment,cured very fast",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GbVZYWlpSVXAxY201T1lubGhZbmxLTjJKaFZFRRAB",
+      "author": "lenin babu",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOb1kyRllNbTlvWVdkbk5VMTZMVVptUkVkNlEyYxAB",
+      "author": "1144 - Navya Charitha",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGWVZYcGxkemgxV0Y5SFlraFZibE01VERaTlQwRRAB",
+      "author": "Ansari Mohammad",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I visited Dr. Ramesh for a personal skin problem, and from the very first consultation, I felt completely at ease. He listened with genuine patience, never rushed me, and explained everything so clearly that I understood exactly what was happening and how we would treat it. His friendly and reassuring nature made the whole experience stress-free.\n\nWhat impressed me most was the quick improvement I saw after starting his treatment — it felt like a weight had been lifted off my shoulders. I’m truly grateful for his expertise, kindness, and the confidence he helped me regain. If you’re looking for a dermatologist who genuinely cares about his patients and delivers results, Dr. Ramesh is the one to see.\nGod Bless You Sir!!",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xZlNIVjNia0l5Y25ab2RtTm9ObHBEU1RsUVNrRRAB",
+      "author": "Purna Kondeddula",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twblIySjJWbXhtU2tsRVJESlZZa2x2ZWxvNFNVRRAB",
+      "author": "voonadi amarnathreedy",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOcVoxWXpURTAzTlVGRlRHbFVXVlZvWlRGd2RrRRAB",
+      "author": "Avinash Thummapudi",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCVk9FZEpiSFJ1YlhoWFdWZHdjblZYYlRoRFNXYxAB",
+      "author": "Phani 1998",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Dr. Ramesh Ranganadthula is an excellent dermatologist! I was impressed by their knowledge and how well they explained my condition and the treatment plan. They took the time to listen to my concerns and answered all my questions patiently. The treatment was effective, and I saw a significant improvement.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VORDA5dHVPMHQzWnh3RRAB",
+      "author": "Rao Bollapalli",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRMU1uY0pnEAE",
+      "author": "rupesh Inagadupu",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I know this clinic from a  family friend, after taking once consultation i saw the results.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNROHRpZHJRRRAB",
+      "author": "Dattatreya Perumalla",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRbE5HTmN3EAE",
+      "author": "Nangineni Nagaraju",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTURncjR6SUVREAE",
+      "author": "Benna Lakshman",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Nicely clear my problem",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNncVptZTlnRRAB",
+      "author": "subhani shaik",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Best treatment. doctor sir is very friendly explain clarity",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTURBeGVhR0tnEAE",
+      "author": "Santosh Kumar Kagga",
+      "rating": 4,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2NXJqRktnEAE",
+      "author": "J Rambabu",
+      "rating": 1,
+      "relative_date": "a year ago",
+      "text": "It's worst hospital\nWaste of money and time",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYdHZhZ3pRRRAB",
+      "author": "Bollipalli Sridevi",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Good",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYZ3FidElBEAE",
+      "author": "Kusuma Koyalamudi",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Good speed recovery 🙂\nI m happy …",
+      "maybe_truncated": true,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYM0o3Rm1nRRAB",
+      "author": "Mounika Gatla",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURubDlDMHFnRRAB",
+      "author": "Vanisri Ganji",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNuZ19YLWdBRRAB",
+      "author": "A.nageswararao A.nageswararao",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURIb0xLaG9BRRAB",
+      "author": "Ganesh Sujit",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNINk1mbU9BEAE",
+      "author": "Mahesh Babu",
+      "rating": 1,
+      "relative_date": "a year ago",
+      "text": "**Review for Doctor Ramesh**\n\nI had an extremely disappointing and alarming experience with Dr. Ramesh. I initially visited him for an itching issue, and he immediately suggested a barrage of tests, which I later realized were unnecessary and likely a way for him to earn a commission. To my shock, he diagnosed me with psoriasis without any proper examination or evidence.\n\nWhen I showed him a corn on my foot, he quickly blamed it on psoriasis as well. However, the corn was easily treated with a simple ₹50 Corn Cap. It became clear that his go-to diagnosis for any issue is psoriasis, and he prescribed a lot of expensive tests and medicines, undoubtedly for his own financial gain.\n\nAfter fleeing from his clinic, I consulted another reputable doctor in Guntur, who correctly identified my issue as a simple fungal infection, which was treated quickly and effectively. Had I followed Dr. Ramesh’s advice, I could have ended up taking unnecessary and potentially harmful psoriasis medication, causing undue stress and mental anguish.\n\nIn my opinion, Dr. Ramesh is more interested in profit than in the well-being of his patients. His reckless and baseless diagnoses could easily ruin lives. I strongly advise against visiting this doctor. Even a roadside herbal vendor would provide better and more honest care.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ3NUx6cGdnRRAB",
+      "author": "Shafi Shaik",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "good service",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNieF82ZUNREAE",
+      "author": "ayyeswara rao pagadala",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNidXBhdklnEAE",
+      "author": "Ronanki Uma",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNieElMMVNnEAE",
+      "author": "saiganesh manepalli",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Nice Experience Doctor",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNiLVBmOWZ3EAE",
+      "author": "sajjala anilkumar",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Best skin doctor in guntur",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURyNHRqdXZ3RRAB",
+      "author": "Vikram Chintalapati",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURyeU5lZmFnEAE",
+      "author": "D Subhateja",
+      "rating": 1,
+      "relative_date": "2 years ago",
+      "text": "I recently had an extremely disappointing experience at the medical shop owned by [RAMESH CLINIC]. particularly THE MEDICAL SHOP OWNER,, exhibited an alarming lack of professionalism and respect towards customers.\n\nDuring my visit, I inquired about a specific medicine and asked for a product from a particular company. Instead of addressing my query politely, the SHOP ONWER responded with an inflated ego, arguing dismissively. To make matters worse, he decided to raise the price of another item that I had previously purchased below MRP, insisting that he would now sell it only at MRP. This arbitrary price hike felt like a retaliatory move driven by his bruised ego rather than any legitimate pricing policy.\n\nIt is disheartening to see that someone with so many years of experience lacks basic customer service skills and respect. I urge Dr. RAMESH  to address this issue and ensure that all customers are treated with the courtesy and respect they deserve.\n\nOverall, my experience was far from satisfactory, and I hope necessary actions are taken to prevent such unpleasant encounters in the future.\n\nLearn how to respect people first. In this competitive world, if you show respect and a friendly nature to customers, they will visit again and give positive word-of-mouth publicity.\n\nSure, here's the corrected version:\n\nNote:- I am giving this review so that the doctor will take proper action and try to stop such a harsh environment.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNydWZxVUx3EAE",
+      "author": "Sai Satya",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNyc016bXR3RRAB",
+      "author": "anand kakumanu",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Good treatment,I will be happy 😊 for a treat …",
+      "maybe_truncated": true,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURMejZEY2dBRRAB",
+      "author": "Nivaas Saravan",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURMNjdLaTNRRRAB",
+      "author": "Radhika Bandaru",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURMZzc2NTVBRRAB",
+      "author": "Santosh Kumar",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURMamJTa29nRRAB",
+      "author": "Vemuri Rama krishna",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURMMWNiRlZ3EAE",
+      "author": "Chandu Sobhanadri",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR6M1BIQklREAE",
+      "author": "nagasaritha gudipalli",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN6OE9YWVB3EAE",
+      "author": "NUTAKKI RAMAKRISHNA",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNUOTV5cnFBRRAB",
+      "author": "Shaik Hajaru",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Good treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNUNWRTQXJRRRAB",
+      "author": "Adamvali Shaik",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Super superb i feeling well",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNUeGUyeGxnRRAB",
+      "author": "Sri Durga",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUREX2NPTExREAE",
+      "author": "Jyothiprasad Tummalacharla",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "What a doctor , he will ensure that u will feel comfortable and discuss all your problems openly with him.Very impressive and seriously recommend his service. Good treatment Problem solved\n\n*CJP*",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ5bmItSkZBEAE",
+      "author": "amar reddy",
+      "rating": 4,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM5bHJiSGx3RRAB",
+      "author": "udayakumar chennupalli",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURON19LU0FnEAE",
+      "author": "SRINIVAS RAO",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Good response and I really had a good recovery..",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUROb19yUDhnRRAB",
+      "author": "Uma shankar Pathakamuri",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMxd3BDdmxnRRAB",
+      "author": "GOWTHAM K P",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Best hospital for skin(dermatology) expecially doctor Ramesh sir is very polite and caring genuine treatment he is saying each and everything clearly(politely) so everyone must visit this skin hospital thanks a lot Ramesh Sir @Ramesh Clin &Clinic🙏🙏🙏🙏👏👏👏👌👌 …",
+      "maybe_truncated": true,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNWb3RUdVBBEAE",
+      "author": "S kakumanu",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Well and good",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURsNV83SHhBRRAB",
+      "author": "Mohammad Shamoinuddin",
+      "rating": 4,
+      "relative_date": "2 years ago",
+      "text": "Nice doctor, staff and has good response... treatment is also very effectively working.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURGMy1xQ21nRRAB",
+      "author": "Bhimavarapu Shivanarayana",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNGX3Z2cVl3EAE",
+      "author": "Ch Naga",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ1d1lfalpnEAE",
+      "author": "Udaya Rekha",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ1c3FtdkJREAE",
+      "author": "Prince “SWEET BABY” Prince",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "It was very good",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ1NHNTbG1RRRAB",
+      "author": "ravi chandra",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Every thing was good, treatment was nice.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM1MzlteVFBEAE",
+      "author": "Srinivasa Rao Velagapudi",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Nice clinic",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM1cTZQUDh3RRAB",
+      "author": "David Buradagunta",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Excellent diagnosis and treatment!",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM1b2RiLUlBEAE",
+      "author": "Dablu Rock",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM1NHB6RDhnRRAB",
+      "author": "Srinvasuvasu srinvasuVasu",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Good triment",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURaaXBmZXdBRRAB",
+      "author": "Basha Shaik",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Best",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURaaXNHS0JBEAE",
+      "author": "Stylish Veera",
+      "rating": 4,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNaaHVmNW1BRRAB",
+      "author": "Anitha Narayana",
+      "rating": 4,
+      "relative_date": "2 years ago",
+      "text": "Good",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwcnZIRmx3RRAB",
+      "author": "sravanireddy macharla",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Super",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwcG9QMzVRRRAB",
+      "author": "Nagi Reddy Jakki Reddy",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Doctor & Staff was very friendly & good atmosphere .",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwNnVlcWtnRRAB",
+      "author": "Shaik Asad",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Expert doctors",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwcXVpaGpnRRAB",
+      "author": "Gudapati Srinivasa Rao",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Good",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKcVlpR3ZnRRAB",
+      "author": "Anjum Begum",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "I feel good",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKaWRlUXdnRRAB",
+      "author": "Venu Vuyyuru",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Nice my energy has been reduced",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKX00zRnZ3RRAB",
+      "author": "Suresh Thumuluri",
+      "rating": 2,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKZ1BpNHR3RRAB",
+      "author": "DL432 channel.",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Very good experience tq sir",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKaFota21RRRAB",
+      "author": "Siri Sivamma",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKMFlQMTZ3RRAB",
+      "author": "Anil Kumar Korrapati",
+      "rating": 4,
+      "relative_date": "3 years ago",
+      "text": "Good Doctor.. Good treatment & Medicine...",
+      "maybe_truncated": true,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKa2FybEN3EAE",
+      "author": "Vamsi Krishna 2008",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Very very impressive treatment Excellent DOCTOR",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKenRHZkJREAE",
+      "author": "Sai Akhil Chand Divvela",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKOHJMVkp3EAE",
+      "author": "Neel Summu",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Very good and awesome treatment.\nSo nice . .\nThanks alot to Dr. Ramesh sir",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKNlBid0lnEAE",
+      "author": "Rameshchandra Paladugu",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "I am happy to share my experience. I got cured  with in 5 days with the medicines doctor suggested. I was suffored a lot but got cured vary fast.thanks to doctor.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4bDlLTmVREAE",
+      "author": "jeevan Innovatives",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Medicine is prescribed as per your problem rather than in a hurry to make you spend money on unnecessary things. Visit the clinic for a permanent solution for your skin problems",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSaGU2bVJREAE",
+      "author": "Durgaa good",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Good Tritetment  doctor is very good",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSaWZ1cmpRRRAB",
+      "author": "MUNAGALA SRINIVASA RAO",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Very good treatment and good response to the patients",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSNE15anl3RRAB",
+      "author": "Ashok Gaddala",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNSOS1yNWdRRRAB",
+      "author": "Sulochana Immadi",
+      "rating": 4,
+      "relative_date": "3 years ago",
+      "text": "Doctor treatment is good",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNSN2J5ZHp3RRAB",
+      "author": "prasanna kumar",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNSdHV6Q3lnRRAB",
+      "author": "Kolluru Srinivas",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Good treatment and quick response.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNSaHZ2SWRnEAE",
+      "author": "Mohammad Ali",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Excellent treatment n friendly nature doctor trement,\nMust visit once for health changes",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNSOHItUVV3EAE",
+      "author": "Annapurna",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "I experienced  so relief after taking the treatment of Ramesh skin hospital",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNSaEszZnJBRRAB",
+      "author": "Sai Likitha",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNSOE5mV2dRRRAB",
+      "author": "sivabhargav goviriboyana",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Excellen treatment Given by the sir...and I quickly recvory my disease. Good communication..",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURoMXJudkxBEAE",
+      "author": "sudhakar padmanabhuni",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Good treatment and quick response",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURoNHVPSFF3EAE",
+      "author": "ANUSHA SRIKANTH",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURobFB5azdRRRAB",
+      "author": "Venkatesh Ketavath",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Very good hospital in 15days I have my problem is all clear TQ doctor and hospital management also very good",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNoNjhpS3RRRRAB",
+      "author": "Sravankumar Gudavalli",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNoamFfOHZRRRAB",
+      "author": "Hari Krishna Gopidesi",
+      "rating": 4,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNoOHFYclhBEAE",
+      "author": "HARI RENUKA CHOWDARY BOPPUDI",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURCeGR1cC1nRRAB",
+      "author": "Sai Lakshmi 16",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "I recently visited the hospital for tanned skin...the treatment was excellent and products are good",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURCeGV2aWxnRRAB",
+      "author": "Pallapothu Sai Lakshmi",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Trustworthy",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCcWVldFF3EAE",
+      "author": "pikkili ravi",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCb2JlRktBEAE",
+      "author": "Nirmal Ganesh",
+      "rating": 4,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURCektmYnFRRRAB",
+      "author": "Satya sujatha Dandamudi",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Good communication with patient. And good treatment.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNCbjVfY2F3EAE",
+      "author": "Macheswararao A",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNCdTZYa09REAE",
+      "author": "S Susi S S BABY S BOBBY",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNCbTlmejZRRRAB",
+      "author": "NDK channel",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "I am happy for treatment and medicine usage.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNCbzRTamhnRRAB",
+      "author": "Ette Edukondalu",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNCamZtb2VnEAE",
+      "author": "satwik siriguppa",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "I had very good treatment in this hospital in very short time I got a positive results 100% trusted hospital",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNCeWFYWERREAE",
+      "author": "Muvva Koteswararao",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNCN3IyVG1BRRAB",
+      "author": "Sasi Kumar",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNCcnFYZjJRRRAB",
+      "author": "Vijay",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNCdHZ2TmlnRRAB",
+      "author": "solo lokesh gaming",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNCNnBiVU53EAE",
+      "author": "Jatavath Raja",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNCeXJudmdRRRAB",
+      "author": "Jitendra Andhe",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNCN0tXcnFnRRAB",
+      "author": "dilip kumar",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNCeFBPMEpBEAE",
+      "author": "Anil Vejandla",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNCc0lIaUVREAE",
+      "author": "Eerla Chinna",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQtMjYtQnp3RRAB",
+      "author": "bharath teendra",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Excellent",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQteVlMODBBRRAB",
+      "author": "Sudheer Athmakuri",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtZ2R2cmJREAE",
+      "author": "sasi bhushan",
+      "rating": 1,
+      "relative_date": "3 years ago",
+      "text": "Sorry nothing much",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtdG83UVZ3EAE",
+      "author": "Prakashrao G",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQteHRIekhnEAE",
+      "author": "Pedakondaiah Godugu",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtaE5lSWNBEAE",
+      "author": "srinivas rao",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQtd083RzZnRRAB",
+      "author": "basha shaik",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtZ01IbVBnEAE",
+      "author": "ajit varma",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtdWRibTRnRRAB",
+      "author": "Ramesh Ranganadhula",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Xcellent",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtaEx2RzN3RRAB",
+      "author": "Saimpu Narahari",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURldTk2NUR3EAE",
+      "author": "KALLURI NAGESWARA RAO",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlM3NESVh3EAE",
+      "author": "suneel Kumar Bhimavarapu",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "My sister and niece both got effected with skin allergies, they both suffered badly due to that allergy. When we reach out to Ramesh Clinic, Guntur...\nThe way the doctor explained the cause and also how it cures is simply amazing. It worked well and cured good enough.\nI would suggest this to anyone.....\n\"TOUCH THIS CLINIC ONCE and YOU DON'T NEED TO RUB YOURS\".",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlMHZxdW1RRRAB",
+      "author": "HOW TO BE A NOOB",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "I been having allergies for a couple of years now but I was unable to know the reason what causing it, consulting here helped me decrease my allergies (don't know what caused it though), definitely recommend this place.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlNHViYWhnRRAB",
+      "author": "Bala Durga rao",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNlbF9UMWdRRRAB",
+      "author": "Sivakrishna Vemula",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNlcV8zWU9nEAE",
+      "author": "RAMESH ELECTRICIAN",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNldXF1Yjh3RRAB",
+      "author": "Muddula Krishna",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNleXJ2SDB3RRAB",
+      "author": "Pavuluri Bachi",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Happy with the treatment. Very effective treatment.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNlLUt2enVnRRAB",
+      "author": "Basha Khan",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNlMk9qMlZBEAE",
+      "author": "SHAIK SAIDU MASTAN",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNlcUxmdXlBRRAB",
+      "author": "P V Siva Rama Krishna Reddy (Siva Ram)",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1OGRQb0t3EAE",
+      "author": "Venkateswaramma pagadam",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1MXNyZEpBEAE",
+      "author": "Siva Pinnika",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR1MXBENTV3RRAB",
+      "author": "Gouse Shaik",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR1c3BHSWd3RRAB",
+      "author": "naga Phani",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Best dermatologist in guntur",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1Z3E2cEZ3EAE",
+      "author": "Kuldeep Singh",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "It is very nice after seeing th doctor I find very good results within 15 days",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR1dk0tNXRnRRAB",
+      "author": "shaik nagoormeera",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1akktNkx3EAE",
+      "author": "Mouna Karumanchi",
+      "rating": 4,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1NUlXdERREAE",
+      "author": "Dr Ramaiah Maddi",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Dr. Ramesh garu having very vast experience in treating Dermatology related problems. Best hospital for skin.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN1dlk3RlJREAE",
+      "author": "nageswararao arumbaka",
+      "rating": 5,
+      "relative_date": "Edited 4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR1a0k3QWtnRRAB",
+      "author": "joji hotel",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN1Nzl5cFpnEAE",
+      "author": "Jkrishna Juturi",
+      "rating": 4,
+      "relative_date": "4 years ago",
+      "text": "He is very good doctor and treatment also good.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN1NDlEUkdnEAE",
+      "author": "Venkat Cc",
+      "rating": 4,
+      "relative_date": "4 years ago",
+      "text": "Very good treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQycXREYm1BRRAB",
+      "author": "lakshmitulasi malepati",
+      "rating": 5,
+      "relative_date": "Edited 4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1dllPcDBBRRAB",
+      "author": "Karra Mariyarani",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1dmU2dGtnRRAB",
+      "author": "parameswarao rmp",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1dmU3Y3dnRRAB",
+      "author": "psudhakar p",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1M2M2YzF3RRAB",
+      "author": "rk",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Excellent",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN1MmVyZ01REAE",
+      "author": "Immaneni Harika",
+      "rating": 4,
+      "relative_date": "4 years ago",
+      "text": "Speed recovery to treetment",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN1X3ZhYUl3EAE",
+      "author": "saptha rishi",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Good respose with the staff and doctor. Got my skin relief with 2 months",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN1OXU3WlFnEAE",
+      "author": "Jaladi Srinivasa rao",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "It has reduced a lot. Once upon a time, there was also less medicine with consultancy. I have been suffering since last year. Now it has reduced a lot.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN1akpla0JnEAE",
+      "author": "Vamsi Krishna Mallela",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURPNS1XLUtnEAE",
+      "author": "SAIBHARGAV JINKA",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    }
+  ],
+  "reviews_error": "",
+  "sorted_newest": true,
+  "stopped_at_known_review": false,
+  "reviews_captured": 160,
+  "owner_replies": 0,
+  "truncated_reviews": 6,
+  "reviews_coverage": 1.0,
+  "date_anchor": "2026-08-20T18:16:50",
+  "extract_seconds": 41.6,
+  "missing_fields": [],
+  "listing_position": 12,
+  "source_query": "dermatologists in Guntur",
+  "listing_name": "Ramesh Skin Clinic"
+}

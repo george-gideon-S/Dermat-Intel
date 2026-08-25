@@ -1,0 +1,356 @@
+{
+  "place_url": "https://www.google.com/maps/place/Guntur+Skin+Centre/data=!4m7!3m6!1s0x3a4a7544c02b644f:0x2c58021c731fe806!8m2!3d16.3043652!4d80.4397558!16s%2Fg%2F11g9f20jhh!19sChIJT2QrwER1SjoRBugfcxwCWCw?authuser=0&hl=en&rclk=1",
+  "captured_at": "2026-08-20T18:36:16",
+  "feature_id": "0x3a4a7544c02b644f:0x2c58021c731fe806",
+  "place_id": "ChIJT2QrwER1SjoRBugfcxwCWCw",
+  "kg_mid": "/g/11g9f20jhh",
+  "lat": 16.3043652,
+  "lng": 80.4397558,
+  "name_raw": "Guntur Skin Centre",
+  "name_clean": "Guntur Skin Centre",
+  "name_key": "gunturskincentre",
+  "name_dropped": [],
+  "name_was_cleaned": false,
+  "category": "Dermatologist",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "1st, Tiruveedhula krishnamurthy,srinikhethan ,door no:6-8-29 ,8th line, cross, road, Arundelpet, Guntur, Andhra Pradesh 522002",
+  "plus_code": "8C3Q+PW Guntur, Andhra Pradesh",
+  "phone": "0863 222 1608",
+  "website": "",
+  "website_domain": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "insecure_http": false,
+  "website_matches_name": null,
+  "rating": 3.7,
+  "reviews_total": 28,
+  "rating_histogram": {
+    "5": 11,
+    "4": 9,
+    "3": 1,
+    "2": 3,
+    "1": 4
+  },
+  "histogram_sum": 28,
+  "histogram_reconciles": true,
+  "topics": {
+    "clinic": 2,
+    "treatment": 4,
+    "sunday": 2
+  },
+  "google_profile_gaps": [
+    "Add website"
+  ],
+  "has_photos": true,
+  "hours": {
+    "Thursday": "10 am to 1 pm, 6 to 8:30 pm",
+    "Friday": "10 am to 1 pm, 6 to 8:30 pm",
+    "Saturday": "10 am to 1 pm, 6 to 8:30 pm",
+    "Sunday": "Closed",
+    "Monday": "10 am to 1 pm, 6 to 8:30 pm",
+    "Tuesday": "Closed",
+    "Wednesday": "10 am to 1 pm, 6 to 8:30 pm"
+  },
+  "about": {
+    "Amenities": [
+      " Restroom"
+    ],
+    "Planning": [
+      " Appointments recommended"
+    ],
+    "Payments": [
+      " NFC mobile payments"
+    ],
+    "Map details": [
+      "Transit",
+      "Traffic",
+      "Biking",
+      "Terrain",
+      "Street View",
+      "Wildfires",
+      "Air Quality"
+    ],
+    "Map tools": [
+      "Travel time",
+      "Measure"
+    ],
+    "Map type": [
+      "Default",
+      "Satellite",
+      " Globe view ",
+      " Labels"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pnMWJHZG5aazlaYW5CWU5IbDNORjgxUWt0dmQzYxAB",
+      "author": "Amarnath Akurathi",
+      "rating": 5,
+      "relative_date": "3 months ago",
+      "text": "He is a wonderful doctor, now in his late 80s, who has been serving tirelessly as a skin specialist for more than five decades. Hailing from Chirala town, he continues his noble profession with the same dedication and commitment even at this age. Despite advancing years, he has maintained the admirable practice of visiting his clinic in Chirala every Sunday to attend to his patients.\n\nAs I too belong to Chirala, I first took treatment from him nearly 50 years ago. Since then, whenever any skin-related problem arises, I still prefer to consult him with the same confidence and trust. His experience, humble nature, caring attitude, and devotion to the medical profession have earned him immense respect and affection from generations of patients. Doctors like him are truly rare and inspirational.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOT01WTldWVVl5YTB4WFJFNVpaRTQwU2xSMFdrRRAB",
+      "author": "Sahit",
+      "rating": 2,
+      "relative_date": "5 months ago",
+      "text": "His compounder is telling tablets rather than doctor",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxRVZrdDNkV05hTUVSblNrRkthMXBaWTJOQlQxRRAB",
+      "author": "Kotireddy P",
+      "rating": 1,
+      "relative_date": "a year ago",
+      "text": "To bad",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvZ19HNjNRRRAB",
+      "author": "Mokhamatam Prasadbabu",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJMHVpU2hRRRAB",
+      "author": "Aannu I",
+      "rating": 4,
+      "relative_date": "a year ago",
+      "text": "I got some marks on my face , I consulted Doctor in one month i have recovered with the issue\nThank you",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNUNTkzZFl3EAE",
+      "author": "ABDUL KALAM",
+      "rating": 1,
+      "relative_date": "2 years ago",
+      "text": "There is no proper que even I tell my father was 88 years old and suffering from Parkinson even I had told him before take appointment about this situation of uncontrolled of urine he had make us for long waiting about of 4 hours he did not consult my father and postponed afternoon session such cruel thinking I have face in this hospital.there is no humanity only mechanical treatment.so I never consult such type of doctor. may God Grace my father after I consult Dr suram subrahmanyam",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUREMThYOHVnRRAB",
+      "author": "Thiruveedhula Haritha",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Loved it",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChRDSUhNMG9nS0VJQ0FnSURaZ3M4ahAB",
+      "author": "Bhuvaneswari",
+      "rating": 2,
+      "relative_date": "2 years ago",
+      "text": "Not at all worth the hype. Treating the disease is secondary part he couldn't even find the reason for the problem.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSNjlyeVV3EAE",
+      "author": "Anjaneyulu Vankadaru",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Great treatment,",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURVaVBMM2d3RRAB",
+      "author": "Aditya Chunduru",
+      "rating": 1,
+      "relative_date": "Edited 3 years ago",
+      "text": "Time taking it took me 6 hours just to meet the doctor and the medicine rates are double over MRP.\nI just don't to go to this useless clinic.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURCdHUyMjJnRRAB",
+      "author": "Vijay Gadepalli",
+      "rating": 2,
+      "relative_date": "3 years ago",
+      "text": "well experienced doctor. every tuesday & sunday is a holiday. no appointment facility. no proper queue system. staff is not friendly.  slightly crowded. time will be eaten for the treatment.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlczdxNlBBEAE",
+      "author": "Johnny Sayyad",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1MDdXVXBnRRAB",
+      "author": "santhi bolisetty",
+      "rating": 4,
+      "relative_date": "4 years ago",
+      "text": "Good treatment for skin problem",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURteEstRmtBRRAB",
+      "author": "Mahesh Katakam",
+      "rating": 4,
+      "relative_date": "Edited 4 years ago",
+      "text": "Very well experienced senior dermatologist in guntur and i can say \"one stop solution\" for all ur skin related problems. If you want to go then visit early if not have to wait for long time to consult doctor. But medicines a bit costly. Every Sunday he comes to chirala and available for consultation and here in chirala one have to go very early for appointment.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNpMGZ6Vk9nEAE",
+      "author": "Manikantaappe Manikanta",
+      "rating": 4,
+      "relative_date": "5 years ago",
+      "text": "Good treatment and correct medicine",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURNdU03YjVBRRAB",
+      "author": "Aamir md",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "Good doctor treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURNOExuQkVREAE",
+      "author": "Praveen Kukkapalli",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMwdTQtWHB3RRAB",
+      "author": "Ambati Venkatreddy",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMwdk55cF93RRAB",
+      "author": "Sharief Shaik",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "Excellent",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURVdlBXclZREAE",
+      "author": "vamsi konakanchi",
+      "rating": 4,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURVOEplWEdREAE",
+      "author": "Hari prasadaraju",
+      "rating": 4,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZLXV5cTV3RRAB",
+      "author": "mani prasad",
+      "rating": 1,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNvanJtb2hRRRAB",
+      "author": "Shaik Jakir",
+      "rating": 4,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNJczVudG1nRRAB",
+      "author": "konda srikanth",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Skin specialist",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURnNy1fRjJBRRAB",
+      "author": "SHAIK ARIF BASHA",
+      "rating": 4,
+      "relative_date": "8 years ago",
+      "text": "Good & best doctor",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURRaUxtT2xnRRAB",
+      "author": "pavan kumar",
+      "rating": 4,
+      "relative_date": "8 years ago",
+      "text": "Well maintained and print service. Very well known for skin problems.\n\nConsultation fees from 1.1.2018 is 300/-",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNRNE16VF9RRRAB",
+      "author": "Munna Aashiq",
+      "rating": 3,
+      "relative_date": "8 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNBNnMyVG5nRRAB",
+      "author": "GUTTI SRINADH",
+      "rating": 5,
+      "relative_date": "8 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    }
+  ],
+  "reviews_error": "",
+  "sorted_newest": true,
+  "stopped_at_known_review": false,
+  "reviews_captured": 28,
+  "owner_replies": 0,
+  "truncated_reviews": 0,
+  "reviews_coverage": 1.0,
+  "date_anchor": "2026-08-20T18:36:16",
+  "extract_seconds": 42.6,
+  "missing_fields": [
+    "website"
+  ],
+  "listing_position": 35,
+  "source_query": "dermatologists in Guntur",
+  "listing_name": "Guntur Skin Centre"
+}

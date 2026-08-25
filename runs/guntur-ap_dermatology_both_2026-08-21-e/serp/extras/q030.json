@@ -1,0 +1,135 @@
+{
+  "rank": 30,
+  "query": "dermatologist in guntur open now",
+  "at": "2026-08-21T20:57:51",
+  "ai_overview": null,
+  "ai_capture": {
+    "present": false,
+    "available": false,
+    "waited_s": 25.0,
+    "expanded": false,
+    "settled": "timeout",
+    "length": 0
+  },
+  "more_places": {
+    "status": "ok",
+    "names": [
+      {
+        "position": 1,
+        "name": "Dr.Pooja's B18 Skin Clinic | Best Dermatologist in Guntur | Cosmetology | Trichologist | Anti Aging | Skin Doctor Guntur",
+        "rating": 5.0,
+        "reviews": 82,
+        "snippet": "5.0 (82) · Skin care clinic · Amaravathi Rd, beside BVR Convention, opp. Axis Bank · 094417 89897 · 10 am–1:30 pm, 5 pm–9 pm · On-site services"
+      },
+      {
+        "position": 2,
+        "name": "Dr.Aashik Shahid / Dermatologist /Skin Hair and Cosmetic clinic",
+        "rating": 5.0,
+        "reviews": 66,
+        "snippet": "5.0 (66) · Dermatologist · Brundavan Garden's Petrol Bunk, 6, Pattabhipuram Rd, opp. indian oil · 094908 71277 · 10 am–9:30 pm · \"His approach made me feel heard and informed throughout the process.\""
+      },
+      {
+        "position": 3,
+        "name": "Dr Uma's Skin Hair & laser Clinic",
+        "rating": 5.0,
+        "reviews": 134,
+        "snippet": "5.0 (134) · Skin care clinic · D.no 3-1, 194/2B, Main Road, beside SBI bank · 093981 83960 · 10:30 am–2:30 pm, 6 pm–9 pm · \"Very good treatment, my skin problem cleared in 2 sittings.\""
+      },
+      {
+        "position": 4,
+        "name": "Manoharam Skin, Laser and Cosmetology Clinic",
+        "rating": 4.8,
+        "reviews": 73,
+        "snippet": "4.8 (73) · Dermatologist · 1st Floor, 4/2 · 098481 57838 · 11 am–9 pm · \"The doctor is calm, knowledgeable, and explains everything clearly.\""
+      },
+      {
+        "position": 5,
+        "name": "VIJAYANAND skin, hair & cosmetic care",
+        "rating": 4.9,
+        "reviews": 42,
+        "snippet": "4.9 (42) · Medical clinic · Dr. No - 30, 5/15 · 089771 23887 · 7 pm–10 pm · \"I highly recommend this dermatologist for anyone seeking expert care.\""
+      },
+      {
+        "position": 6,
+        "name": "Dr. Usha Rani Perali Skin Clinic",
+        "rating": 4.8,
+        "reviews": 23,
+        "snippet": "4.8 (23) · Dermatologist · Sankar Medicals & General Stores, Opp. Apollo Pharmacy, beside Mee-Seva · 6 pm–9 pm · \"My ringworm problem was solved.\""
+      },
+      {
+        "position": 7,
+        "name": "Chiranjeevi Skin Care Clinic",
+        "rating": 4.8,
+        "reviews": 99,
+        "snippet": "4.8 (99) · Skin care clinic · 4-3-16, Ramannapet 1st Ln · 099857 96666 · 10 am–10 pm · \"Best skin care\""
+      },
+      {
+        "position": 8,
+        "name": "Dhanvin Academy | Dhanvin Academy of Cosmetology | Dhanvin Aesthetic Institute",
+        "rating": 5.0,
+        "reviews": 41,
+        "snippet": "5.0 (41) · Cosmetic surgeon · Kiran dental hospital, opposite Donbosco · 098852 12111 · 9 am–8:30 am · \"I went to get my warts removed and results was very good .\""
+      },
+      {
+        "position": 9,
+        "name": "sri akhila skin & hair clinic",
+        "rating": 4.6,
+        "reviews": 17,
+        "snippet": "4.6 (17) · Skin care clinic · Amaravathi Rd · 099891 28715 · 9 am–9 pm · \"Excellent dermatologist mam, good caring for patients\""
+      },
+      {
+        "position": 10,
+        "name": "Anoos Guntur: Laser Hair Removal, Skin & Hair Treatments",
+        "rating": 4.8,
+        "reviews": null,
+        "snippet": "4.8 (1.2K) · Skin care clinic · 2nd floor, Lakshmipuram Main Rd, above Croma Showroom · 093331 63333 · 9 am–9 pm · On-site services"
+      },
+      {
+        "position": 11,
+        "name": "Aster Ramesh Hospital - Best Multispeciality Hospital in Guntur",
+        "rating": 4.8,
+        "reviews": null,
+        "snippet": "4.8 (26K) · General hospital · Collector Office Rd, Beside Hindu College Grounds · 0863 237 7777 · Open 24 hours · On-site services"
+      },
+      {
+        "position": 12,
+        "name": "Haritha hospital (Pediatric, Dermatology, Gynecology, General surgery, Plastic surgery, Pediatric surgery and Orthopedics )",
+        "rating": 4.3,
+        "reviews": 229,
+        "snippet": "4.3 (229) · Hospital · 522004 Santhi nagar 2nd Lane AT Agraharam main road, 15th, 16th Ln, near Poleramma temple · 095027 12754 · 10 am–10 pm · On-site services"
+      },
+      {
+        "position": 13,
+        "name": "Lakshmi Skin Care hospital",
+        "rating": 3.8,
+        "reviews": 13,
+        "snippet": "3.8 (13) · Hospital · 7FX3+FM9, Old Club Rd · 094915 82215 · 10 am–9 pm"
+      },
+      {
+        "position": 14,
+        "name": "Dr. J. Sowjanya Laser Skin clinic",
+        "rating": 4.4,
+        "reviews": 40,
+        "snippet": "4.4 (40) · Skin care clinic · 4th lane, Off, Lakshmipuram Main Rd · 0863 223 6952 · \"She is calm, non-commercial, and cautious in her treatment.\""
+      },
+      {
+        "position": 15,
+        "name": "Dr. Thiruveedhula Krishna Murthy",
+        "rating": 5.0,
+        "reviews": 10,
+        "snippet": "5.0 (10) · Hospital · 8/2"
+      },
+      {
+        "position": 16,
+        "name": "Skin Clinic By Dr M Vijay Reddy",
+        "rating": 5.0,
+        "reviews": 3,
+        "snippet": "5.0 (3) · Skin care clinic · 7CWX+MHQ · 092469 01870"
+      }
+    ],
+    "url": "https://www.google.com/search?q=dermatologist+in+guntur+open+now&sca_esv=2d9245e2f52acf9d&gl=in&hl=en&pws=0&udm=1&lsack=T26IavC9HIqj4-EPl5mK0Qk&sa=X&ved=2ahUKEwiwodCphLKWAxWK0TgGHZeMIpoQjGp6BAgnEAA",
+    "requests": 1
+  },
+  "google_requests": 2,
+  "reparsed": true
+}

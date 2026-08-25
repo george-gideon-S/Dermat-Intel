@@ -1,0 +1,2139 @@
+{
+  "key": "ChIJzccML0p1SjoRolc90_yTUqo",
+  "tier": "full",
+  "complete": true,
+  "place_url": "https://www.google.com/maps/place/Leelavathi+Advanced+Skin+%26+Laser+Centre+%7C+best+dermatologist+in+guntur/data=!4m7!3m6!1s0x3a4a754a2f0cc7cd:0xaa5293fcd33d57a2!8m2!3d16.2968491!4d80.4499988!16s%2Fg%2F11clyct835!19sChIJzccML0p1SjoRolc90_yTUqo?authuser=0&hl=en&rclk=1",
+  "captured_at": "2026-08-20T23:06:07",
+  "rank": 10,
+  "place_id": "ChIJzccML0p1SjoRolc90_yTUqo",
+  "feature_id": "0x3a4a754a2f0cc7cd:0xaa5293fcd33d57a2",
+  "kg_mid": "/g/11clyct835",
+  "lat": 16.2968491,
+  "lng": 80.4499988,
+  "dup_of_rank": null,
+  "has_online_booking": false,
+  "booking_url": "",
+  "booking_vendor": "",
+  "service_options": null,
+  "permanently_closed": false,
+  "temporarily_closed": false,
+  "status_text": "Closed · Opens 10:30 am Fri",
+  "open_now": false,
+  "is_ad": false,
+  "review_snippet": "",
+  "name_raw": "Leelavathi Advanced Skin & Laser Centre | best dermatologist in guntur",
+  "name_clean": "Leelavathi Advanced Skin & Laser Centre",
+  "name_key": "leelavathiadvancedskinlasercentre",
+  "name_dropped": [
+    "best dermatologist in guntur"
+  ],
+  "name_was_cleaned": true,
+  "category": "Skin care clinic",
+  "card_category": "Skin care clinic",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "Puvada Vari Street Pottur Vari Thota Anna Srinivasa Rao Kalyana Mandapam, Road, Guntur, Andhra Pradesh 522001",
+  "plus_code": "7CWX+PX Guntur, Andhra Pradesh",
+  "phone": "093929 30422",
+  "website": "http://leelavathiadvancedskinandlasercentre.in/",
+  "website_domain": "leelavathiadvancedskinandlasercentre.in",
+  "website_type": "own_domain",
+  "insecure_http": true,
+  "has_own_website": true,
+  "website_matches_name": true,
+  "rating": 4.9,
+  "reviews_total": 251,
+  "rating_histogram": {
+    "5": 225,
+    "4": 22,
+    "3": 1,
+    "2": 0,
+    "1": 3
+  },
+  "histogram_sum": 251,
+  "histogram_reconciles": true,
+  "topics": {
+    "hair loss treatment": 5,
+    "dermatologist": 14,
+    "clear explanations": 24,
+    "mole removal": 2,
+    "patient listening": 8,
+    "interactive doctor": 2,
+    "disease explanation": 2,
+    "safe treatments": 3,
+    "laser hair removal": 2,
+    "listening to problems": 2
+  },
+  "google_profile_gaps": null,
+  "has_photos": true,
+  "hours": {
+    "Thursday": "10:30 am to 5:30 pm",
+    "Friday": "10:30 am to 5:30 pm",
+    "Saturday": "10:30 am to 5:30 pm",
+    "Sunday": "Closed",
+    "Monday": "10:30 am to 5:30 pm",
+    "Tuesday": "10:30 am to 5:30 pm",
+    "Wednesday": "10:30 am to 5:30 pm"
+  },
+  "about": {
+    "From the business": [
+      " Identifies as women-owned"
+    ],
+    "Amenities": [
+      " Gender-neutral toilets",
+      " Restroom"
+    ],
+    "Crowd": [
+      " LGBTQ+ friendly"
+    ],
+    "Planning": [
+      " Appointments recommended"
+    ],
+    "Payments": [
+      " Credit cards",
+      " Debit cards",
+      " NFC mobile payments"
+    ],
+    "Map details": [
+      "Transit",
+      "Traffic",
+      "Biking",
+      "Terrain",
+      "Street View",
+      "Wildfires",
+      "Air Quality"
+    ],
+    "Map tools": [
+      "Travel time",
+      "Measure"
+    ],
+    "Map type": [
+      "Default",
+      "Satellite",
+      " Globe view ",
+      " Labels"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Ka1JGUlBUbVZKZW1GbVRWZEtPVWhJV25KQ00xRRAB",
+      "author": "Sada Reddy",
+      "rating": 5,
+      "relative_date": "4 weeks ago",
+      "text": "Based on someone reference I approached her for my wife’s skin problem issue. She leisurely listens to the  Patient what she says. She avoids unnecessary medication.Her way of  dealing with the  patient is appreciable.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxMGJHdzVRekpVWTFoelpFZzVhelZNZG5SUGNVRRAB",
+      "author": "sekhar neelam",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOV2NqZHRjRWMzVldacFREbHNOMkpGWDA0elJWRRAB",
+      "author": "ravindrababu grandhe",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Wb1JWbEhiQzEyV1c1QlJXdzBMV2cyYWs1dGQxRRAB",
+      "author": "satish babu",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "Excellent Treatment",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aWFpsY3RhVzlwYVRkS1lsbGhUREZ4TkVkNlNIYxAB",
+      "author": "Vivek",
+      "rating": 5,
+      "relative_date": "5 months ago",
+      "text": "I had a very positive experience with the doctor and the entire team. The doctor explained my condition very clearly and made sure I understood everything before proceeding. The staff was also very friendly and supportive throughout my visits.\n\nI have been dealing with segmental vitiligo for the past few years and had consulted many doctors, but unfortunately, I did not see good results. However, Dr. Kavya suggested blister grafting and melanocyte surgery at a reasonable cost, which gave me new hope.\n\nAfter the surgery, I noticed a fast and encouraging recovery, which made a huge difference in my confidence. I am truly grateful for the care and treatment I received and would highly recommend this clinic to anyone facing similar issues.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205aVRUVlpXRzkxYTBaTFEwUTNORFpLZFdaa01tYxAB",
+      "author": "Manogna",
+      "rating": 4,
+      "relative_date": "5 months ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twNllVaGpXbkpxYW1SRldFNXhhMHQ2UmxaVmExRRAB",
+      "author": "gorantla venubabu",
+      "rating": 3,
+      "relative_date": "5 months ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GYVYyaHBOalJ3VFhCbFJXcHFTbnBYTm0xd1JtYxAB",
+      "author": "Jahnvi Bhashyam",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "I had an amazing experience at this skin clinic. Dr. Kavya mam is extremely knowledgeable the depth of her understanding is truly impressive. The way she explains every single detail about the skin condition and treatment plan is so clear and thorough.She treats patients with so much patience, politeness, and kindness. She makes you feel comfortable and heard, which is very rare these days.I have consulted many dermatologists before  even celebrity dermatologists  but honestly, she stands out the best among all. This is not an exaggeration at all. Her expertise, approach, and results speak for themselves.\nHighly, highly recommended. She is truly the best. ✨",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OSmNtdHZUMjVTTjNkSFRVRlBiVGg1YVhoNVZGRRAB",
+      "author": "Pusuluri Pujitha",
+      "rating": 4,
+      "relative_date": "7 months ago",
+      "text": "Leelavathi Advanced Skin Clinic offers outstanding care with modern facilities for skin and hair treatments. The clinic maintains a professional, clean, and welcoming environment, making every visit comfortable and reassuring.\n\nI have taken around 10 sessions of laser hair removal along with freckle and mole removal treatments, and I am extremely satisfied with the results. The treatments are effective, safe, and very affordable compared to many other clinics.\n\nMs. Swathi, one of the staff members, is very caring, polite, and responsive. She explains everything clearly and makes sure patients feel comfortable throughout the treatment process.\n\nA special thanks to Dr. Leelavathi Ma’am, whose expertise, patience, and dedication truly stand out. Her careful evaluation and treatment approach give great confidence and trust to every patient.\n\nWhether it is a routine skin check or an advanced cosmetic procedure, Leelavathi Advanced Skin Clinic delivers high-quality care and excellent results. I highly recommend this clinic to anyone looking for professional and reliable skin and hair treatments.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGU1pXTnRkRXhGUzFkdmRWTXlVMlp4ZGtOR2FuYxAB",
+      "author": "Siva parvathi Gajula",
+      "rating": 4,
+      "relative_date": "7 months ago",
+      "text": "Last week I happened to visit Dr.Kavya Madam with a skin problem with which I suffered for more than two years.She is very much concerned about patient's problem.She explained very pleasantly the cause of my problem.I feel better now after a week.I am thankful to you Madam.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSRGNrcE9hWGxRYkhGeWNGOTVkMngzY1haWVluYxAB",
+      "author": "Lokesh Gangavarapu",
+      "rating": 4,
+      "relative_date": "7 months ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwbFExazFYMnBwUlU5T0xWTkpjMlkwU0RCclpGRRAB",
+      "author": "Bablu Bottu",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "THE BEST ⭐️⭐️⭐️",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1b04wOVpZbEpYT1VVeE0xOVFNRUYwU1RWS1ExRRAB",
+      "author": "Vishnu Pavan",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "Kavya Madam is extremely good, humble, and a very patient listener. I have completed 6 sittings of Fractional CO₂ + PRP + Subcision for acne scars, and I genuinely feel very good about the results. I have been consistently visiting madam for the last 2 years, and I feel very proud to be under her treatment. She always suggests the right treatment and performs it with great care. The best part is that she provides treatment at a very reasonable and affordable price compared to other hospitals, without compromising on quality. I highly recommend her for anyone looking for honest guidance and effective treatment.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0VFoxZElVSGN3Y214aVZYSkdjMHBQVkRkNlJGRRAB",
+      "author": "Siva Parvathi",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "Good treatment survives in leelavathi advanced skin and laser center thankyou kavya mam",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCdFdFSkdZMjlsTURSeFJYVnhOVTAyYVZCRVFrRRAB",
+      "author": "Durga Bhavani",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "Very good",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205SlJrVldlVXRIU25aS2RFc3dNVVUwT1dsd2NIYxAB",
+      "author": "Nasreen Md",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "Good explanation",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSaWJqZEhUbTl4UldSTmFEUjJNbU5wYW1ZMFNVRRAB",
+      "author": "Chandini tedla",
+      "rating": 4,
+      "relative_date": "8 months ago",
+      "text": "Very great explanation about medication and approachability of doctor is good",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWd2NURmZPRjl3VGw5dWQxQTRNVnBPTUd4Q2JWRRAB",
+      "author": "Sri Ram",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tvd1IyRkRTR2R0WVhNNFUxZzVlSEZQUW5saGMwRRAB",
+      "author": "Srinidhi Reddy",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "I had an excellent experience at Leelavathi Advanced Skin & Laser Centre with Dr. Kavya mam— truly one of the best dermatologists in Guntur!  Dr. Kavya  mam is extremely knowledgeable, attentive, and friendly, and she takes the time to listen carefully and explain every step of the treatment with patience and clarity. Her expertise in skin and laser treatments helped me see noticeable improvements, and the results exceeded my expectations.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSMFYzVlJWRzEyTUdZeE5YWlhYMlJCZFdSMldrRRAB",
+      "author": "Srilakshmi Kesari",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "Dr. Ch kavya medam garu 0ne of the best dermatologist in guntur .I prefer in this hospital leelavthi advanced skin and laser .",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkeWFFWkxXRFJIUWxGNlJuWk1NV2hFZUdSVGNYYxAB",
+      "author": "Beulah Rani",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kaVpISlFYMWd6TUZGZlpEVjFha3hWYkcwelNHYxAB",
+      "author": "Alapati Pradeep",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "Dr Kavya madam is one of the best dermatologists in the entire Andhra Pradesh offering clinical dermatology services.. I got some infection which is very painful with one consultation madam prescribed a very little medicine and it solved within 3 days … thanks a lot Kavya garu",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CemJXOTVUMU5PTFRReWFtMVVOSGR4T0VGQ1MzYxAB",
+      "author": "Tulasi Krishna",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "Dr kavya garu has a sound knowledge in every skin problem and any type of disease her medicine is very effective and little bit expensive but highly satisfied with her treatment. She is very generous and guinene person listens to the problem carefully and gives you good suggestions The biggest happiest thing is visiting the hospital once or twice for the problem.. better than any other doctor in the Guntur",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxNE5WUTVhakZ1TmpoM1VuVm9YME5EYzBWaFduYxAB",
+      "author": "Komalkumar Jonnadula",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaVGJtOVBjVWhxV2xscFFuTlRla1ZqWVZOak5GRRAB",
+      "author": "Satyanarayana Aleti",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "Today Mole remove to me by lazer by Doctor Kavya Medam she was excellant doctor, no pain to me and Hospital was neet staff also good responce totally super",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kUGFuQnlZM2t3VlVWaFpVMXVNemxtZDNweFQxRRAB",
+      "author": "Rajani Ganta",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4aU1tOXNNemRyYzFRMWJXdHJjVUZKY0hOTWJuYxAB",
+      "author": "koteswararao malleboyina",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Excellent  treatment",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN1M3RiMklREAE",
+      "author": "nelapati gopikrishna",
+      "rating": 5,
+      "relative_date": "Edited a year ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkdVJFUkdYMmRzYUhSTlozWnFWa05pUzBFd05FRRAB",
+      "author": "Advi Jextra",
+      "rating": 1,
+      "relative_date": "a year ago",
+      "text": "Yes , that's true Very Bad response from Doctor and staff",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VNLVYydnk2cUpxaHFRRRAB",
+      "author": "Nagalakshmi M",
+      "rating": 1,
+      "relative_date": "a year ago",
+      "text": "Response not good for  staff and Doctor , Dr.kavya she is not giving contact number to patients after any procedure, we should cal to clinic even though no use because Dr.kavya she will not talk on phones any queries and complications,even you are old patient she will not talk.Doctor money minded, if any queries we should visit all ways to clinic , she will not talk on phones .",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VOdXZ6NV9VcmItcGZnEAE",
+      "author": "Vijayalaxmi Pothuraju",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Best dermatologist in guntur... Great patience and sound knowledge.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvbWJTcUVREAE",
+      "author": "Ramalakshmi",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I had a wonderful experience at Leelavathi Advanced Skin & Laser Centre. The doctor is very knowledgeable, kind, and truly cares about her patients. I saw a noticeable improvement in my skin within a few weeks of starting the treatment. The clinic is clean, well-equipped, and the staff is friendly. I highly recommend this place to anyone looking for the best dermatologist in Guntur!",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3dGIzdW5nRRAB",
+      "author": "Gonepalli Kesavaraju",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Good",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3aGNEbzRnRRAB",
+      "author": "Nagadeepthi tammineni",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Good treatment with best doctor kavya madam",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2NGYyY2lBRRAB",
+      "author": "Vishnu Pavan",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURQMWUzS0ZBEAE",
+      "author": "Rama Lakshmi",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I had an excellent experience with Dr. kavya Chennamsetty at leelavathi advanced skin and laser center! Truly the best dermatologist in Guntur, offering expert care and personalized treatment. The clinic is well-equipped, and the staff is very professional and friendly. My skin concerns were thoroughly addressed, and I noticed significant improvement within weeks. Highly recommend for anyone seeking top-notch dermatological care.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQzNy1XRldREAE",
+      "author": "Hemanth vayara",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNiMjhDbjB3RRAB",
+      "author": "SOMINENI APPANNA",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURyd3NqTDBBRRAB",
+      "author": "sai kumar Vadlamudi",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Super and nice explanation",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURkdEpMOTdnRRAB",
+      "author": "Vennela Peketi",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNsaDR5X19nRRAB",
+      "author": "Sai Jahanvi Kolli",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNacWYyaVFREAE",
+      "author": "Sadik Kamar",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURwaE82eExBEAE",
+      "author": "krishna prasanth addeti",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Very satisfied Treatment best result",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwa2JpajV3RRAB",
+      "author": "Mahaboob Subhani",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Very good hospital ..madam listen patients with high Patiency levels..care patients with their problems....  Rightly identify the problem... Advice correct treatment for patients having skin diseases..... Staff also very cordial with patients....while instructing using medicines",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwNFlpam93RRAB",
+      "author": "PREETHI SUJAN PRISCILLA PAMULA",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwdXVUTXJRRRAB",
+      "author": "Jesus Holy Church ministires Giddalur",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwdW9DMkJ3EAE",
+      "author": "Bhargav hanuma Vadlamudi",
+      "rating": 4,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKcnR5bDlBRRAB",
+      "author": "Perumalla Rajeshwari",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Good treatment",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKenNmYjhRRRAB",
+      "author": "bhupathi manikanta",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKcC02MDZRRRAB",
+      "author": "amanulla kothwal",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Good treatment,  cured in new weeks",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKeDk3dDF3RRAB",
+      "author": "Sivajyothi Enkollu",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKeDdMUzlnRRAB",
+      "author": "Harshavardhan Kolli",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Doctor explaining method is marvelous and her treatment care very comprehensive.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKanV1dURnEAE",
+      "author": "Guru Dathu",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Melasma &PIH CONDITION BEST PLACE TO TREAT",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChRDSUhNMG9nS0VJQ0FnSUNKanNzTBAB",
+      "author": "Venkata Reddy Medam",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Excellent treatment good recving",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKanMzU0VREAE",
+      "author": "JANI PASHA",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "LEELAVATHI ADVANCED SKIN CLINIC BEST HOSPITAL IN GUNTUR CITY, DR RESPONDING IS VERY GOOD TREATMENT IS GOOD..",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKanZYOFlBEAE",
+      "author": "hemanth kumar",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Dr responding is good, best Dr in Guntur city..\n\nThank you Dr...",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKanJXb3p3RRAB",
+      "author": "shaik baji",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKNW9iZnhRRRAB",
+      "author": "Radhika Sadhu",
+      "rating": 4,
+      "relative_date": "3 years ago",
+      "text": "Nice hospitality.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKcHVfaGJREAE",
+      "author": "Nitta Manoj",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChRDSUhNMG9nS0VJQ0FnSUNKcHJRaRAB",
+      "author": "pratap challa",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKcHBUWjZ3RRAB",
+      "author": "veladri k",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKZ3R6YXJ3RRAB",
+      "author": "B M",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKaklXSHlnRRAB",
+      "author": "Lavanya Eswar",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKNUxHODBBRRAB",
+      "author": "Sowjanya Kommineni",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR4cTZXdThRRRAB",
+      "author": "smsubhani shaik",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4amQtaVJREAE",
+      "author": "Fatima Shaik",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Treatment is also good",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR4amNQaDZnRRAB",
+      "author": "BABU YADALA",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Great experience, treatment is good",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4amRycUtREAE",
+      "author": "Ramarao Yenugula",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4NWFUN2RnEAE",
+      "author": "Jayaseela Jandrasupalli",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Good hospital,great service. Dr.kavya madam was treating us very well and will explan us about the problem and then treat us according to problem with affective medicine.all the staff members were very humble and helpfull..",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR4aWJiQy1BRRAB",
+      "author": "srinivas mannava",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "If you are looking for a dermatologist who can provide you with the best care and results, I highly truly suggest you contact Dr. Kavya",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN4c3ZlOTJBRRAB",
+      "author": "Bharani Kumar",
+      "rating": 4,
+      "relative_date": "3 years ago",
+      "text": "Excellent treatment",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN4OUxxUnNBRRAB",
+      "author": "Rahul sharma",
+      "rating": 4,
+      "relative_date": "3 years ago",
+      "text": "Dr kavya mam treatment is good and satisfactory,she listens patients problem calmy but receptionist devi, she doesn't know how to answer patients queries she's rude",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSOTczeFNREAE",
+      "author": "Divya Kommi",
+      "rating": 4,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSdzRMaXFRRRAB",
+      "author": "GATHRAM KRISHNA SREELATHA",
+      "rating": 4,
+      "relative_date": "3 years ago",
+      "text": "It's good",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSd196cTd3RRAB",
+      "author": "Athiya Mohammad",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSZzc2amtBRRAB",
+      "author": "rajendra kumar",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSX3VHbEF3EAE",
+      "author": "rinikanna nannepaga",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSdnZTNlFBEAE",
+      "author": "harika yandrapragada",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Excellent doctor",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSM3ZmNTRnRRAB",
+      "author": "chandini mohammad",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Good Result ,Best Doctor",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSenF6ZnFBRRAB",
+      "author": "KATHI ANIL KUMAR",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSanBpVFpBEAE",
+      "author": "Harshitha Kolluru",
+      "rating": 4,
+      "relative_date": "3 years ago",
+      "text": "I came here for laser treatment on recommendation of my endocrinologist. Doctor explains everything nicely and is very friendly. Staff assists patients properly. I am happy with the results of my treatment.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURScHByS3R3RRAB",
+      "author": "Venkateswara Reddy Maram Reddy",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Excellent treatment for skin brightening treatment. And reception staff pharmacy.response is good.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURScHVEcmRREAE",
+      "author": "visweswararao degala",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSaklDY3dRRRAB",
+      "author": "Sampath Kumar",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Treatment is very good",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSOVBfN2FREAE",
+      "author": "chaitanya sai",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSNUxET1dREAE",
+      "author": "Perla Harika",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSNUpDUkdBEAE",
+      "author": "Divya Bhukya",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Treatment is good",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURScE9Pd3ZRRRAB",
+      "author": "naga balaram",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Really I am so happy now because of many years onwards I am facing Atopic dermatitis\nI have used many products but it no use so one my friend suggested me please visit Dr Ch kavya garu guntur dr treatment so good thanks you Dr my problem is Solved 🙏🙏 …",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURScEtMZ0J3EAE",
+      "author": "ramesh suddana",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Excellent Treatment and Caring",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURScE1MRkZBEAE",
+      "author": "sambaiah suddana",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtbjVUc3lnRRAB",
+      "author": "K Pavan",
+      "rating": 5,
+      "relative_date": "Edited 3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSb1BISGZnEAE",
+      "author": "Rajeev sirasani",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Useful for everyone",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNSdi1TV2VnEAE",
+      "author": "Pranavi NADENDLA",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNSMzZYNDFRRRAB",
+      "author": "shaik shafi",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNoeWI3TjRnRRAB",
+      "author": "Mahesh Babu",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Good treatment and letting us to know more about the cause of problem and solving in simple way\n\nFriendly staff and thanks for the support",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNocnBUTFZnEAE",
+      "author": "Suresh Malluri",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNoMHVDVnJ3RRAB",
+      "author": "NAYAK TELUGU CHANNEL",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "The best treatment",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNoNkpPTVZBEAE",
+      "author": "Sivasai muthyam",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Good place with better staff",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNoNklLZlhBEAE",
+      "author": "Hari Krishna",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Doctor is very good clearly and neatly explained the solutions and also op fee also very normal amount.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQtbjVLQjV3RRAB",
+      "author": "Thupakula Shabbir",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtNDVIY05nEAE",
+      "author": "sk shabbeer",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "She is a very good doctor . She explain nicely to all my queries she has given best treatment for my acne issues.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtekwzRFd3EAE",
+      "author": "Raja Sekhar",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Very knowledgeable doctor in treating various dermatological diseases and friendly doctor . Doctor will give time to understand the patients problem",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtek4yMWVBEAE",
+      "author": "praveen kumar",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Excellent Receiving, affordable, excellent in treatment",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQtLU5PQ3RnRRAB",
+      "author": "Lakshmi Supriya",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Doctors talks with patient with friendly nature",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQtLUwyMzhBRRAB",
+      "author": "ram prasad",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtLUozTWFBEAE",
+      "author": "settineni mallikarjunrao",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQtZ05LZ3dBRRAB",
+      "author": "Sesha Rao",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1NC16YS1nRRAB",
+      "author": "S anitha Ani",
+      "rating": 5,
+      "relative_date": "Edited 3 years ago",
+      "text": "Dr kavya mam explanation is so good she is a good doctor.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtbjVDTXVnRRAB",
+      "author": "Roshan Jaan",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtN19lQnBBRRAB",
+      "author": "BHANU PRAKASH PRUDHIVI",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMtNzdmaUl3EAE",
+      "author": "Durga prasad",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Very good Doctor and good treatment.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMtbTY2ZUxBEAE",
+      "author": "Nikhitha Vallabhaneni",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Best place for treatment",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtaTgycXN3RRAB",
+      "author": "Koteswararao Chennamsetti",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Excellent treatment from doctor and nice receiving from staff members",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMtODVXOUV3EAE",
+      "author": "Siva Parvathi Panchumarthi",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Best dermatology clinic in guntur.. i got permanent solution to my skin problem near kavya mam",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMtOF9XdEpBEAE",
+      "author": "Pksmanyam Manyam",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Dr. Kavya has given me best treatment for my hair loss problem. Thank you mam for your tips and daily skin care guidance... very friendly.. i recommend dr. Kavya mam for anybody with skin and hair problems",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtNDhXSzN3RRAB",
+      "author": "Ashreena Mirza",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtbzhtZTB3RRAB",
+      "author": "sai sai",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "The treatment over here was amazing ☺️ and the explanation of the doctor was superb ❤️",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtb19HSXN3RRAB",
+      "author": "Asha Rani",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtelpTandnRRAB",
+      "author": "divya deepthi",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "The doctor and staff are extremely loving and caring, if you love your skin you will visit again",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMtamZ1akN3EAE",
+      "author": "A Google User",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "I had hair fall and dandruff problem but when I visited leelavathi skin center I had my problem diagnosed very well.\nThanks alot doctor!\nBest clinic for all your skin problems 👍\nMust visit!!",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMteGJ5b1JBEAE",
+      "author": "Prashanthi Madduluri",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Doctor Kavya explains everything clearly and make you feel comfortable. The best hospital and very less cost compared to others",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtN3E3c2lBRRAB",
+      "author": "Shaik Salma",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMtbG92RGR3EAE",
+      "author": "koti dhanasiri",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Nice treatment nd very friendly doctor",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMtX0syV0VnEAE",
+      "author": "Chennamsetty V Rama Rao",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Excellent explanation about the disease and the treatment",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMteE5ERUl3EAE",
+      "author": "Harika Katta...",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Took a treatement for mole removal from Kavya mam. She was soo good and calm..she explains everything in detailed with utmost patience..staff hospitality was great..",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlOThLMVFBEAE",
+      "author": "Katakam Sreenivasa Rao",
+      "rating": 4,
+      "relative_date": "3 years ago",
+      "text": "Visited the clinic. A good hospitality I found. Thanks",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlcC1Pell3EAE",
+      "author": "sk shameer",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Madam is very concerned abt patients problems and getting all the details and clearly explanation and treatment abt patients problems of skin ,hair . I would highly recommend Dr.ch.kavya madam",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlcC1PaVlnEAE",
+      "author": "Sd Rameez",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "I have never seen such a doctor with true treatment and ethical practices\nBest treatment I have found in this clinic\nDoctor is very knowledgeable",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlMjZlenF3RRAB",
+      "author": "Srini Nagam",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Dr.Kavya is incredible. Her diagnostic skills are top notch. Not only she provides a great treatment, she is very pleasant in explaining the cause and the need of the treatment.It's rare to find a doctor that combines such personal touches with outstanding quality of medical care. I greatly recommend to visit her for any dermatological and cosmetic issues",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlMjlpc0VBEAE",
+      "author": "NAGARAJU JANAVARAPU",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlbzVXQVR3EAE",
+      "author": "manojkumar sai",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlcGFySjRBRRAB",
+      "author": "Mohammed Hussain",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlcGZUbTdBRRAB",
+      "author": "Mani kanta Reddy",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlcGVUamZBEAE",
+      "author": "Nainitha Reddy",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlMmFUQkFnEAE",
+      "author": "paranam revanth",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Every friendly ❤️",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlaWFiNVN3EAE",
+      "author": "pandiri kanakarao",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlaVpxZElREAE",
+      "author": "P Karima",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlaWVTR3RnRRAB",
+      "author": "CHINTU GODDANTI",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlM3FyMC1RRRAB",
+      "author": "syam prasad",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlOXUydW9RRRAB",
+      "author": "BRAHMARAO KOTHAMASU",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlcEl2TGhRRRAB",
+      "author": "amani amu",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Received great treatment and best doctor in guntur",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURPdU9LdDBRRRAB",
+      "author": "hema pittala",
+      "rating": 5,
+      "relative_date": "Edited 3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNldy1DakhREAE",
+      "author": "Ramya Kopalli",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Nice doctor and very friendly immediately cured our disease",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1ai1qWFlnEAE",
+      "author": "Padmakshi",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Dr Kavya is the best dermatologist and I appreciate the effort she puts in understanding the root cause of the problems.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1OTdIZk5nEAE",
+      "author": "Lella Mounika",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Exllent treatment",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1MjZpdll3EAE",
+      "author": "Pvns Rahul",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Better than i have looked in the hospitals",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR1M2FhRDFnRRAB",
+      "author": "Sai Guptha",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1bWZ1c1V3EAE",
+      "author": "Mannam Divya",
+      "rating": 4,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR1Z1pqZzRBRRAB",
+      "author": "Keerthi Priyanka",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1ajYtSS1nRRAB",
+      "author": "Srilakshmi Raghavi Velugubantla",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Very good experience and effective treatment. I also had laser sessions for hair reduction which had excellent results",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1alpMYjRnRRAB",
+      "author": "CHANDU VEMU",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1cGFYdnBBRRAB",
+      "author": "Tejaswi Chandana",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1MmE2QS1BRRAB",
+      "author": "sowji. cnu",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Super treatment",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN1NGRYMmNBEAE",
+      "author": "pavani ramana",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Dr.Kavya is the best dermatologist I have seen and she has a lot of patience when listening to our complaints and  in explaining the root cause of our problems..... I got better after the treatment",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1NnUtVl9nRRAB",
+      "author": "Nava Teja",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Nice Baga chustharu medican thakuva estaru rejalte bagundadi",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1OHNYTnR3RRAB",
+      "author": "Harika Jetti",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1NU9HRGlBRRAB",
+      "author": "Teja sri kommareddy",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "One and only best skin care hospital...100% cure..and the doctor was explaining very clearly what it is...",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURPLTctMGt3RRAB",
+      "author": "Chandra Boddapati",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Dr. Kavya was very experienced & well versed in Skin treatment. She was gold 🏅 medalist. She attended so many conferences herself as speaker.  I have undergone vitiligo treatment at this Hospital.  I felt happy with treatment. I got cured. Videos made by Kavya madam in You tube platform are worth watching to get awareness about skin related problems & concerned treatment available. Hospital staff were cordial in nature. So I suggest people who have skin related issues can consult ....\nDr. Kavya  in Guntur ( Andhra Pradesh).\nLEELAVATHI  ADVANCE SKIN TREATMENT\n\nThanking you,\nChandra Sekhar",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURPLV9XYjZnRRAB",
+      "author": "Surya Teja",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Excellent treatment and very good staff",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURPLTRxNlFnEAE",
+      "author": "Pannuri Usha Rani",
+      "rating": 4,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURPLTRUNVFBEAE",
+      "author": "venkat dvr",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Frist time I went super receiving & I want to tell about doctor she explained clearly about my problem it’s means how it comes &how to clear the issue she give some medication for that am very so happy about treatment am so thankq full to u madam\nThis Rajani from bangalore",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURPdTR2UEJREAE",
+      "author": "Navya Narayan",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Nice and tq u for ur care",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURPdmFDZ0NnEAE",
+      "author": "Mercy K",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Ok good",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURPeW9ibmlRRRAB",
+      "author": "Mahendra Reddy Manukonda",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURPeXNybEJREAE",
+      "author": "Bhargav Boddupalli | AP20110010785",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURPNUlLZUJ3EAE",
+      "author": "Poojitha 5051",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURPdU55UFBREAE",
+      "author": "bharathi bhavanam",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURPa0p1My1BRRAB",
+      "author": "Golla Sahithi",
+      "rating": 4,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURPb0xXd2RnEAE",
+      "author": "murakonda sahithi",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Dr. Kavya is the best Doctor I have come across so far. She spends good amount of time on taking the history of the patient to find out the root cause of the problem. She just never prescribe or write the medicine just for the sake of temporary solution. The treatment options she provides are incredible and cost of the treatment is very affordable with top most quality. She even describes clearly the aftercare of the treatment",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNPMThMQ1FnEAE",
+      "author": "Thogati Pravallika",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Dr kavya mam was the best dermatologist in gutur, she treats the patients with friendly nature, and the clinc staff also good. Best skin& laser center in guntur",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNPaDVQZnpRRRAB",
+      "author": "nayab rasool mohammad",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Dr. Ch. Kavya best dermatologist in Guntur. She explains the root cause for the problem. Excellent treatment.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNPNjhUR29RRRAB",
+      "author": "Sd Rehman",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNPNjVEYWR3EAE",
+      "author": "Dudekula Razia Begum",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNPallHNzJnRRAB",
+      "author": "Adithya Pavan",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNPbGZHT1BBEAE",
+      "author": "Dweepa Das Bethala",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNPeExqVVV3EAE",
+      "author": "Bhagyasri Vanga",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Dr.Kavya is very professional and fantabulous.She is very knowledgeable and explains the cause of the problem very clearly and treats well.I highly recommend Dr.Kavya for any dermatological problems.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQybjl6dUtnEAE",
+      "author": "Lakshmi Jyothi G",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQydHZtMmV3EAE",
+      "author": "Altaf Ali",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQyekxlaGpRRRAB",
+      "author": "yamuna m rLZofbxxyarrakula",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Best treatment for skin related problems....",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQyc0xxaHd3RRAB",
+      "author": "Tulasi Niharika Reddy Sanikommu",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Best dermatologist in Guntur and Vijayawada. Very approachable and pays a lot of attention and listens patiently to the patient",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMybksyV0tBEAE",
+      "author": "sri kanth",
+      "rating": 5,
+      "relative_date": "Edited 4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMyNV9lMWN3EAE",
+      "author": "Sunil Sripati",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMybzlDeTZRRRAB",
+      "author": "Adilakshmi Payyavula",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMyalpqRnR3RRAB",
+      "author": "Msaileela Leela",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMyMWJla3l3RRAB",
+      "author": "Subbarao .Gudibandla",
+      "rating": 4,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMyMGVmbDV3RRAB",
+      "author": "Murralee Krishna",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMyNGYzSGdBRRAB",
+      "author": "S K",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Excellent treatment .madam listen our problems with lot of patience.staff is also very supportive.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMyX3A2RjhRRRAB",
+      "author": "Bh.Geetha Reddy",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Lot of patience  in  listening our problems and proper  treatment &good result",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMycm9LU0VnEAE",
+      "author": "Bhanuprasad vennam",
+      "rating": 4,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMycnVqTlBBEAE",
+      "author": "rupa sri jupudi",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Very gud doctor. Nice explanation for the problem  what we have .and the medication  is also gud .if any skin problem vist leelavathi advanced skin & laser center.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMyMXY3Wkd3EAE",
+      "author": "Krishna Prasad A",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Dear all,\nDr. Kavya is the best  Dermatologist doctor in Guntur. I observe Lot of patience to understanding the patient problem and find out the solution and explain very clearly.  Friendly Treatment.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMyd3BXNk1REAE",
+      "author": "shaik sharief",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMyd3JiOHlnRRAB",
+      "author": "Chennu Maneesha",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMyM0xqWHpRRRAB",
+      "author": "Shaik Mohammed.Javeed Ahamed",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMyeksybkl3EAE",
+      "author": "LOKESH KUMAR PERUMALLA",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMyeklyS2RnEAE",
+      "author": "SRINU KAVATI",
+      "rating": 4,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMycE42QXZBRRAB",
+      "author": "tejaswi Rose",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMyNktxVjZRRRAB",
+      "author": "Jeevani Cherukuri",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Doctor is interactive and gives solution for every asked doubt.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMycUsyNFBREAE",
+      "author": "syamala konda",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMyeUluM2pRRRAB",
+      "author": "Sailaja Palaparthi",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMyd1Azc2V3EAE",
+      "author": "Sunku Revathi",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Nice doctor nice explanation good recive clear my problem also I am very happy",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMyd0tueDdRRRAB",
+      "author": "Jyothi",
+      "rating": 4,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMyd0tDQkpREAE",
+      "author": "Thrivesh Buradagunta",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMyZ0lfLVJREAE",
+      "author": "lokesh kumar",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Very advanced,well experienced doctor",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURXXzV1MmpnRRAB",
+      "author": "Geetha B",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURXMzlYQXV3RRAB",
+      "author": "Rajyalakshmi challa",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURXM19IUERBEAE",
+      "author": "SANDHYA PRATTIPATI",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURXMzdMNHVBRRAB",
+      "author": "Naina Internet",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURXMzVpaHN3RRAB",
+      "author": "Garikapati srikanth",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Doctor kavya is the best dermatologist in guntur.she explains the root cause of the problem very clearly .she helped me to solve my skin problems.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURXajVPWE53EAE",
+      "author": "NAZEER SHAIK",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Best treatment for skin related issues. Doctor madam very patiently listen our issues and give the guidance and medicines accordingly. 💯 Percent Solution given by doctor madam for skin related issues. …",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURXal9XX3dnRRAB",
+      "author": "Chandana Ganasala",
+      "rating": 4,
+      "relative_date": "4 years ago",
+      "text": "Good place for skin problems,skin treatments and Dr. kavya is very interactive with her clients.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURXcDR1T0FREAE",
+      "author": "Brahmanaidu Nusumu",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Good hodipitel and good trictmet and peshantes the this plan the problem and stop other copateed good medicen and fastrecvay that hostel nice doctor",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNXM2ZqT0NnEAE",
+      "author": "Panjala Vamshi",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURRaUw3TnVnRRAB",
+      "author": "Naga K",
+      "rating": 4,
+      "relative_date": "Edited 4 years ago",
+      "text": "Friendly approach towards patient. Doctor also listens to the patient with patience. Good explanation of the disease and supporting staff. Dr.Kavya takes the credit for the care and concern towards patient.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURHZ3QzOWxRRRAB",
+      "author": "Cute Bhanu",
+      "rating": 1,
+      "relative_date": "4 years ago",
+      "text": "This 1 star is not for the doctor..this 1 stàr belongs to phone number they gave in online which s not working at all..",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURhNGZHRHB3RRAB",
+      "author": "Srinivas Rao pulavarti",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNxNy1xM2F3EAE",
+      "author": "TOP WHEELZ",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN5aHN2WFRREAE",
+      "author": "Roja",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "Very nice hospitality and nice receiving by the doctor",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNpc2Y3QWh3RRAB",
+      "author": "munnam polireddy",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNpa0liZDZnRRAB",
+      "author": "dr ss",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "I hv visited her for acne issue...doc listens very patiently ...nd clearly explains the problem..excellent doc...doc Is too good in explanation...my problem is solved...am so thankfull to her...",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURDdy1UUUJBEAE",
+      "author": "gopi naik",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "Good treatment😊\nPatients are Well recovered😊\nGood humanity friendly doctor\nI fell like happy 😊😊 …",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURDc3RfcFBBEAE",
+      "author": "faiza suhani",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNDaWZ1aDdBRRAB",
+      "author": "Madhuri Latha Thadanki",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNDMktUTVZ3EAE",
+      "author": "Pavankumar Chowdary",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "Very friendly doctor",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ4M19DemV3EAE",
+      "author": "Bunny Alice",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ4ODlQa053EAE",
+      "author": "Tejomai Magatala",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ4ZzZ5TFF3EAE",
+      "author": "Smart Sathya",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ4aVpubFhREAE",
+      "author": "Dheerodatta Ankireddy",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM4MHFPV2N3EAE",
+      "author": "Harshitha Ravipati",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURjdHQ2VVdREAE",
+      "author": "asha priyanka",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "Visited for skin treatment during pregnancy.\n~ good explanation\n~ well experienced\n~ friendly and caring nature.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNjOVlQMjV3RRAB",
+      "author": "Dr Vijaya Bhaskar K",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "Excellent advice, experienced and well supportive doctor",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNjNGMtZU1nEAE",
+      "author": "vikas M",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNjanRfSXRnRRAB",
+      "author": "Anudeep",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNzejZUS2RnEAE",
+      "author": "Namburu Jyothirmayee",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "can you please share the land line number or working number to consult through phone",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNNamN5VDFnRRAB",
+      "author": "Rekhasri Dasari",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNNNVo3LXpRRRAB",
+      "author": "Aravind Hebbar",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMwa2N2bUxnEAE",
+      "author": "Kiran Kumar Betha",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM0ak02eFZBEAE",
+      "author": "krishnamahi sree",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "So good and friendly doctor",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNZMlBtOVNnEAE",
+      "author": "Sravya Cheemala",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURJNlB6UldnEAE",
+      "author": "balu sahithi",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Very friendly doctor",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURJOElUU0l3EAE",
+      "author": "MOHAMMED TAHA",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Best in the business",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURJNEt6NVZBEAE",
+      "author": "Gayathri Mupparaju",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Very friendly doctor and very nice treatment .",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNJcmM2VURBEAE",
+      "author": "Rama krishna",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNJd2FUcDZBRRAB",
+      "author": "ragaranjitha g",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Very good doctor. Explained very good",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR3MW9TcUZ3EAE",
+      "author": "Chakri Niginam",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Very good doctor and explained its clearly",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR3aXVLTDVnRRAB",
+      "author": "Jothsna ramba",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Very nice doctor... I have never seen before....",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNnbjR5Vkh3EAE",
+      "author": "RAHA Shaik",
+      "rating": 5,
+      "relative_date": "8 years ago",
+      "text": "It's very good doctor.. She is taking very clearly ...and caring",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURBdHZqazR3RRAB",
+      "author": "Sujatha Kunisetti",
+      "rating": 5,
+      "relative_date": "8 years ago",
+      "text": "Nice explanation about our problems",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNndWFhbHJ3RRAB",
+      "author": "SRINIVASARAO APCPDCL",
+      "rating": 5,
+      "relative_date": "8 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNRb29TeFlREAE",
+      "author": "Priyanka Madamanchi",
+      "rating": 5,
+      "relative_date": "8 years ago",
+      "text": "Being an NRI, i been to many clinics all around the globe, i regard Dr.Kavya as best doctor mainly because of her patience, attentiveness to details, passion towards subject, excellency and for detailed explanation, she ensures that patients understand the problem, reason behind the problem and treatment options, I strongly recommend Dr.Kavya for any of your dermatology  problems & cosmetology uplifts. Over the top Dermatologist & Cosmetologist in Guntur with utmost dedication :)",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNRZ051d3JnRRAB",
+      "author": "venkata krishna prasad medikonda",
+      "rating": 5,
+      "relative_date": "8 years ago",
+      "text": "Good treatment",
+      "has_owner_reply": true
+    }
+  ],
+  "reviews_error": "",
+  "sorted_newest": true,
+  "stopped_at_known_review": false,
+  "reviews_captured": 251,
+  "owner_replies": 200,
+  "reviews_coverage": 1.0,
+  "date_anchor": "2026-08-20T23:06:07",
+  "extract_seconds": 52.9,
+  "missing_fields": [],
+  "page_rendered": true,
+  "error": ""
+}

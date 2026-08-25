@@ -1,0 +1,79 @@
+{
+  "place_url": "https://www.google.com/maps/place/Cure+%26+Care+Poly+Clinic/data=!4m7!3m6!1s0x3a4a75424043ffff:0x898c3f474b5e40f5!8m2!3d16.3104623!4d80.4542059!16s%2Fg%2F11s78d20q4!19sChIJ__9DQEJ1SjoR9UBeS0c_jIk?authuser=0&hl=en&rclk=1",
+  "captured_at": "2026-08-20T19:56:10",
+  "feature_id": "0x3a4a75424043ffff:0x898c3f474b5e40f5",
+  "place_id": "ChIJ__9DQEJ1SjoR9UBeS0c_jIk",
+  "kg_mid": "/g/11s78d20q4",
+  "lat": 16.3104623,
+  "lng": 80.4542059,
+  "name_raw": "Cure & Care Poly Clinic",
+  "name_clean": "Cure & Care Poly Clinic",
+  "name_key": "curecarepolyclinic",
+  "name_dropped": [],
+  "name_was_cleaned": false,
+  "category": "Medical clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "adjacent",
+  "basis": "category",
+  "address": "3/18, Rajiv Nagar, Guntur, Andhra Pradesh 522002",
+  "plus_code": "8F63+5M Guntur, Andhra Pradesh",
+  "phone": "",
+  "website": "",
+  "website_domain": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "insecure_http": false,
+  "website_matches_name": null,
+  "rating": null,
+  "reviews_total": null,
+  "rating_histogram": null,
+  "topics": null,
+  "google_profile_gaps": [
+    "Add place's phone number",
+    "Add hours",
+    "Add website"
+  ],
+  "has_photos": true,
+  "hours": null,
+  "about": {
+    "Map details": [
+      "Transit",
+      "Traffic",
+      "Biking",
+      "Terrain",
+      "Street View",
+      "Wildfires",
+      "Air Quality"
+    ],
+    "Map tools": [
+      "Travel time",
+      "Measure"
+    ],
+    "Map type": [
+      "Default",
+      "Satellite",
+      " Globe view ",
+      " Labels"
+    ]
+  },
+  "reviews": [],
+  "reviews_error": "reviews pane did not open",
+  "sorted_newest": false,
+  "reviews_captured": 0,
+  "owner_replies": 0,
+  "truncated_reviews": 0,
+  "date_anchor": "2026-08-20T19:56:10",
+  "extract_seconds": 67.1,
+  "missing_fields": [
+    "phone",
+    "website",
+    "rating",
+    "reviews_total",
+    "hours",
+    "reviews"
+  ],
+  "listing_position": 98,
+  "source_query": "dermatologists in Guntur",
+  "listing_name": "Cure & Care Poly Clinic"
+}

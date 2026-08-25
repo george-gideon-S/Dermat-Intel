@@ -1,0 +1,879 @@
+{
+  "key": "ChIJadlLZInxNToRKJQJn5GOUj8",
+  "tier": "full",
+  "complete": true,
+  "place_url": "https://www.google.com/maps/place/WellCare+Ortho+%26+Skin+Clinic/data=!4m7!3m6!1s0x3a35f189644bd969:0x3f528e919f099428!8m2!3d16.4335594!4d80.567613!16s%2Fg%2F11gqpkt3y0!19sChIJadlLZInxNToRKJQJn5GOUj8?authuser=0&hl=en&rclk=1",
+  "captured_at": "2026-08-21T00:28:08",
+  "rank": 86,
+  "place_id": "ChIJadlLZInxNToRKJQJn5GOUj8",
+  "feature_id": "0x3a35f189644bd969:0x3f528e919f099428",
+  "kg_mid": "/g/11gqpkt3y0",
+  "lat": 16.4335594,
+  "lng": 80.567613,
+  "dup_of_rank": null,
+  "has_online_booking": false,
+  "booking_url": "",
+  "booking_vendor": "",
+  "service_options": null,
+  "permanently_closed": false,
+  "temporarily_closed": false,
+  "status_text": "Closed · Opens 9:30 am Fri",
+  "open_now": false,
+  "is_ad": false,
+  "review_snippet": "\"Thanks to him, I was able to recover quickly and regain my mobility.\"",
+  "name_raw": "WellCare Ortho & Skin Clinic",
+  "name_clean": "WellCare Ortho & Skin Clinic",
+  "name_key": "wellcareorthoskinclinic",
+  "name_dropped": [],
+  "name_was_cleaned": false,
+  "category": "Hospital",
+  "card_category": "Skin care clinic",
+  "category_mismatch": true,
+  "relevance": "relevant",
+  "basis": "base_generic_medical_strong:skin",
+  "address": "Hospital Rd, opp. New Bus Stand, near girls high school, Mangalagiri, Andhra Pradesh 522503",
+  "plus_code": "CHM9+C2 Mangalagiri, Andhra Pradesh",
+  "phone": "099496 43403",
+  "website": "",
+  "website_domain": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "insecure_http": false,
+  "website_matches_name": null,
+  "rating": 4.7,
+  "reviews_total": 95,
+  "rating_histogram": {
+    "5": 79,
+    "4": 10,
+    "3": 0,
+    "2": 1,
+    "1": 5
+  },
+  "histogram_sum": 95,
+  "histogram_reconciles": true,
+  "topics": {
+    "ortho care": 15,
+    "knee replacement surgery": 3,
+    "acne treatment": 2,
+    "successful surgery": 3,
+    "hair treatment": 3,
+    "low cost medicine": 2,
+    "knowledgeable doctor": 4,
+    "PRP": 2,
+    "effective treatment": 3,
+    "clear explanations": 2
+  },
+  "google_profile_gaps": [
+    "Add website"
+  ],
+  "has_photos": true,
+  "hours": {
+    "Friday": "9:30 to 11 am, 6 to 9 pm",
+    "Saturday": "9:30 to 11 am, 6 to 9 pm",
+    "Sunday": "Closed",
+    "Monday": "9:30 to 11 am, 6 to 9 pm",
+    "Tuesday": "9:30 to 11 am, 6 to 9 pm",
+    "Wednesday": "9:30 to 11 am, 6 to 9 pm",
+    "Thursday": "9:30 to 11 am, 6 to 9 pm"
+  },
+  "about": {
+    "Accessibility": [
+      " Wheelchair-accessible car park",
+      " Wheelchair-accessible entrance"
+    ],
+    "Map details": [
+      "Transit",
+      "Traffic",
+      "Biking",
+      "Terrain",
+      "Street View",
+      "Wildfires",
+      "Air Quality"
+    ],
+    "Map tools": [
+      "Travel time",
+      "Measure"
+    ],
+    "Map type": [
+      "Default",
+      "Satellite",
+      " Globe view ",
+      " Labels"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wTmMzcG1TMG8xYlRsTVpreGFNbFo2TFVGS1NIYxAB",
+      "author": "Mandru Siva",
+      "rating": 4,
+      "relative_date": "4 weeks ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xVU9GSjBSbkJEVFRWRVVqZ3hWbmhxWWpkeWVFRRAB",
+      "author": "Satyajit Alok",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "What is a good treatment skin allergy",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pZMVVuUktRazh0UjNOQ1ZtaHFUSFJTWDBObE0wRRAB",
+      "author": "srinu vasulu",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "My father, K. Ramappa, recently underwent a successful knee surgery at WellCare Ortho & Skin Clinic, Mangalagiri, under the care of Dr. Vamsi Krishna Sir.\n\nDr. Vamsi Krishna Sir is very kind, experienced, and professional. He explained everything clearly and took excellent care of my father before and after the surgery.\n\nThe hospital staff, nurses, and support team were friendly, caring, and always ready to help. The hospital is clean, well-maintained, and provides excellent patient care.\n\nWe sincerely thank Dr. Vamsi Krishna Sir and the entire team at WellCare Ortho & Skin Clinic for their outstanding treatment and support. I highly recommend this hospital for orthopedic treatment.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wMmFFdDNRa3hmU2tFdFpHdzJWMUZmWjNwVE1sRRAB",
+      "author": "Ramya Sunkara",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "Good treatment my knee pains are reduced thank you dr.vamsi sir",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xvelFrWXRNREZVZDFSalNUVlJlVFZZUVhGd0xXYxAB",
+      "author": "Bharath Yalam",
+      "rating": 5,
+      "relative_date": "2 months ago",
+      "text": "Name :_koteswara Rao i got knee replacement surgery 1month ago done by Dr.vamsi Krishna sir surgery has been very good .",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGS1YxcDRiMjR5ZDJnME4zQTNSWEJOYlhaaVRFRRAB",
+      "author": "pavanteja munagala",
+      "rating": 5,
+      "relative_date": "2 months ago",
+      "text": "Excellent treatment for my hand fracture. The doctor was knowledgeable, the staff was helpful, and the recovery guidance was clear. Highly recommended!",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214cWNsZGFNM2czYzNsVkxURlVTM1kwT0VobGRGRRAB",
+      "author": "dharani vanukuru",
+      "rating": 5,
+      "relative_date": "3 months ago",
+      "text": "Myself dharani actually i was facing with knee ligament issue then i came to dr.vamsi krishna sir .He is literally ammazing he said everything will be fine dont worry ma it was a very small surgery .And then i went through the surgery and it was successfull and now i can walk properly with no issue .tq vey much vamsi krishna sir",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0Tk0zZHJTMUpDTVhBeFlXaDRWMEprWmtkVmJXYxAB",
+      "author": "Rushi Pt.",
+      "rating": 5,
+      "relative_date": "3 months ago",
+      "text": "Very experienced Orthopaedic, Dr. Vamshi, who diagnosed very well my ACL and suggested me to undergo treatment promptly.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toTFVsVjFkamRRVGpsWVRIRTJRM0owYVVGemVtYxAB",
+      "author": "Ramesh macharla",
+      "rating": 5,
+      "relative_date": "5 months ago",
+      "text": "I am Ramesh from Guntur, iam suffered with AVN last 4 years, Dr vamsikrishna sir  given good treatment for THR.normal walking possible after 1 month surgery \"wellcare ortho & skin clinic\" is best hospital in Mangalagiri.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twMFpHazVSbWRwWVRKS0xXdHpVMTlUWTBzMmFVRRAB",
+      "author": "Fathima Azeez",
+      "rating": 5,
+      "relative_date": "5 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aUmNrZGZRMGs0TTNsUE1HSjJaRnAzWTJkTVYyYxAB",
+      "author": "yennu Manoj",
+      "rating": 1,
+      "relative_date": "6 months ago",
+      "text": "Most wrost experience.\nWaste of money",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aUlZrOWxUMk4yVjJ3emMydGpibkYxYVdGdVNYYxAB",
+      "author": "Sai Vignesh",
+      "rating": 4,
+      "relative_date": "6 months ago",
+      "text": "Best ortho hospital in Mangalagiri, Good staff and good service, very helpful.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4TGRWQm5ibkZQYzFGalUyUk1kVzU1T0hSMFQwRRAB",
+      "author": "Spider",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "Quick service",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kwM2JWOXhhMFZEUnkxbmVYUnhiamhIVDFSd2ExRRAB",
+      "author": "farsana sanal",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "We are from kerala, consulted orthopaedic dr , it was very good experience, doctor was too good, we have to wait for the other procedures little bit as the patients count were high",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKWU1FSTNRemRNUkU5MVFucE1ZMWhPUkRGMk4zYxAB",
+      "author": "Rahul Pallapothu",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "One of the best clinic in mangalagiri ortho care and skin care   iam rahul iam from vijayawda my problem is  hairfall and acne face i have visited this clinic greeshma garu explained  some treatments i have done  4 prp  sessions and 2gfc sessions  and yellow peel for my face with reasonable prices   now iam very very happy with this treatments  and staff is very good  especially bunty bro & harsh bro taking care about patients very good   in  ortho care & skin care.\nThank you 🙏",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5R04wOUxWbnB6VFZkRUxVRjNVSHBsT0Vkek5FRRAB",
+      "author": "Suhaas Pasala",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tJelZWZDNUV1JuYmxkaGFWY3RabWR0VW5kUWVHYxAB",
+      "author": "ashu hafeez",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "Surgery good treatment is best",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psQlZ6WlBWMlJUTTJGall6aG9kM3AzYVZOV2JrRRAB",
+      "author": "Bhadri Reddy",
+      "rating": 1,
+      "relative_date": "10 months ago",
+      "text": "Treatment is good but looting starts with tablets they are pricing 3 times on MRP Rs 300 tablets cost you Rs 1000 there",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2padFgyNXpUM1ZQUkZZemFuRXlSelpEUm5sTGFtYxAB",
+      "author": "raju murakonda",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "I had a very good experience at Wellcare Hospital, Mangalagiri.\n\nNo unnecessary medical tests\nNo time wasted – treatment started from the very first minute\nDoctors and staff treated me with lots of respect and care\n\nTruly thankful to the Wellcare management for such professional and patient friendly service. 🙏",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xnMmVXbFhZazVtVG5scVZtNXNkVnBPY1VKUVUwRRAB",
+      "author": "Swetha P",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWVE1WZENRMFpEV25oRGRUbDRXRUp6YzBkUlIzYxAB",
+      "author": "Harish G",
+      "rating": 2,
+      "relative_date": "10 months ago",
+      "text": "I went with severe heel pain. He only gave temporary relief but did not cure the problem, nor did he diagnose the actual disease.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sweldGSlhkRXhKTWw5eU5UTnNUbkZZZEdKNVdYYxAB",
+      "author": "Sasi vardhan Gorikapudi",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "I had great experience with\nDr. vamsi krishna sir.\nI was not with the suegery to my femour bone.  The treatment i received was excellent and i felt better quickly. Best place for orthopaedic in mangalagiri.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poTlp6VnVhV1p3YjFwc2NqZFVWR3cxUVROYWJsRRAB",
+      "author": "Ramoju. Venkat",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "I am extremely grateful to Dr. Vamsi Krishna for the excellent treatment I received after my left tibia fracture. He performed the intramedullary nailing surgery with great precision, and the entire process was handled very smoothly.\n\nFrom the first consultation to the follow-up visits, Dr. Vamsi Krishna explained everything clearly, answered all my questions patiently, and gave me the confidence I needed during recovery. His professional expertise, combined with his caring approach, made a huge difference in my healing journey.\n\nThanks to his guidance and support, I am now walking comfortably and steadily regaining my strength. I would highly recommend Dr. Vamsi Krishna to anyone looking for an experienced and compassionate orthopedic doctor.\n\nName:Venkat\nConsultant Doctor: Dr.Vamsi Krishna\nSurgery: left tibia nailing\nReview: Excellent",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xBdE56aHZiVlZIVXpWdGVsRnFRbEJoVW5KV05XYxAB",
+      "author": "Chillapalli Srinivasa Rao",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wTVdtUjFPVlk0WW5Sa1JWOURXRkZpYkZKSVRrRRAB",
+      "author": "M. Yungare",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Thank you Dr Vamsi krishna pothineni garu for my both hip replacement surgery, good clinic in mangalagiri for orthopedic care",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21NeVdUSldaM2h1YWs5cFptSkpURjlzT1RsaE1YYxAB",
+      "author": "Durga Karampudi",
+      "rating": 4,
+      "relative_date": "a year ago",
+      "text": "Name:K leela prasad\nProblem:leg fracture\nConsultant:Dr.Vamsi Krishna\nReview:the surgery done ✅ very nice taking care soo much",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWMFVIUm5hMG8wVDA1VlNreEpkSGhYZW1OVlNIYxAB",
+      "author": "Narendhra Kottapalli",
+      "rating": 1,
+      "relative_date": "a year ago",
+      "text": "Doctor treatment was good but dispensing of medicine take more than 45 mins.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNnLTV5YUNBEAE",
+      "author": "Ramana Nukala",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Thank you Dr vamsi krishna Garu for my shoulder scopy surgery .I appreciate for the good service and care I received",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNBNzRxZFpREAE",
+      "author": "Deepak Kumar",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "My dad has multiple fractures in right shoulder  in this case vamsi sir took care from the very beginning and told us my father has to undergo surgery to insert a plate in the right shoulder .The surgery went well only because of vamsi sir,my family is very grateful to him💯 …",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURfd0x1eXlBRRAB",
+      "author": "K Bhanu",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "We got a top class service with detailed explanation and my grand mother done with tendon tear surgery",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURmdmViZU5BEAE",
+      "author": "Rajkumar Ramanadham",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Thank You Dr. Vamsi Krishna garu for my mothers total knee replacement surgery\nAnd good service in Mangalagiri",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURmMGZMY0pnEAE",
+      "author": "samba siva rao ulava",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Surgery of my father right shoulder was sucess and after surgery treatment, precautions speaking very well overall a good doctor",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURmZ2FmTVVREAE",
+      "author": "Rajesh Mca",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Your calm demeanor and ability to connect with patients on a personal level make you truly unique. The trust and confidence your patients have in you are a testament to your incredible skill and dedication. Mangalagiri is fortunate to have an orthopedic doctor like you who sets the standard for excellence in healthcare. I am deeply grateful and satisfied with your treatment (Right leg ACL reconstruction surgery). Thank you so much, sir🙏",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURmZ1llSFVREAE",
+      "author": "Naga Venkat",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Successfully Doned ilizarov surgery patient was completely recovered I'm happy with hospital service",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURmOXZ1aER3EAE",
+      "author": "Pallapu Gnanavardhan",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Great Gesture And Well Treated.....",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURmNXVyMk13EAE",
+      "author": "Chetan Chowdary Mokkapati",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Nice treatment in psy",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmOTdfRFVREAE",
+      "author": "sabarigiri pallapu",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Excellent take care of patients\ngood treatment was given to my left leg bone injured, thanks to Doctor pothineni Vamsi Krishna sir",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzdWVuOXhnRRAB",
+      "author": "Ravi Sudheer",
+      "rating": 1,
+      "relative_date": "a year ago",
+      "text": "uselesss clinic..money minded and knowledgeless people.dr.vamsi has no knowledge and all he does is writing tests for money..worst attiude ..if you have lots of money best place to visit..",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNuN29YWDdRRRAB",
+      "author": "lakshmi vankamalla",
+      "rating": 4,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNINWVPUFN3EAE",
+      "author": "Swe",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM3OTl1cGZBEAE",
+      "author": "Bhukya Chinna Nagaraju",
+      "rating": 1,
+      "relative_date": "2 years ago",
+      "text": "One of the worst hospital in mangalagiri, Dr. Vamshi Krishna is a money minded...my daughter hand fractured and just for POP he charged 30k",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM3MXRfX0dREAE",
+      "author": "sultan shaik",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Well Cared ✅\nUnderwent HRT and PRP treatment here. Positive result and most recommend place for hair treatment. Most kind staff and promising Doctors. Right place for effective treatment.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURUZ3NQLWtRRRAB",
+      "author": "Raju Undavalli",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I am\n\nSuffering from pimples for a quite long time .got a good effective treatment",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNUMV9iVlh3EAE",
+      "author": "Harsha Vardhan",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I HAVE VISITED AND TOOK THE FACE PEEL\nSERVICES, IAM VERY HAPPY WITH THE RESULTS, And STAFF IS VERY PROFISSIONAL  AND DR. GREESHMA Garu IS VERY  EXPERIENCED  AND SOFT SPOKEN...... I REALLY Recommend THIS CLINIC FOR ALL SKIN AN HAIR TREATMENT.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNEaTRyMFF3EAE",
+      "author": "Gowri Arabolu",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Good care & super results",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURsdV9IR2RnEAE",
+      "author": "KRISHNA RAMANADHAM",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Overall good treatment",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNaNVA3dm9BRRAB",
+      "author": "Kuraganti Neeraj",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Thank you Greeshma mam.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4NExXWVpBEAE",
+      "author": "suvarna kurapati",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "I had a great experience with Dr. VAMSI KRISHNA who treated my mother  with a fractured leg [age - 72 years] . He performed a successful surgery followed up  with us regularly. My mother  recovered well and was able to walk again without pain. I highly recommend Dr. VAMSI KRISHNA to anyone in need of a expert orthopedic care.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4NE55V1dREAE",
+      "author": "Vimukthi varam",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "I had a great experience with Dr. VAMSI KRISHNA when I broke my left leg accidentally . He was very professional, compassionate, and skilled. He explained the diagnosis and treatment options clearly and answered all my questions patiently. He performed a successful surgery on my leg and helped me with the rehabilitation process. Thanks to him, I was able to recover quickly and regain my mobility. I highly recommend Dr. VAMSI KRISHNA to anyone who needs an orthopedic doctor.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURoMU1IR2hnRRAB",
+      "author": "Archana Jonnakuti",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Doctor greeshma garu thank you so much",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURCaU56dHNBRRAB",
+      "author": "Avvari yatin",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "How to take appointment for ortho",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNCay1fVGpBRRAB",
+      "author": "Baby Jyothsna",
+      "rating": 4,
+      "relative_date": "3 years ago",
+      "text": "Awesome Treatment 👍 …",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQtZ05hazZBRRAB",
+      "author": "Swamy Mareedu",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Dr Vamsi Krishna garu chala manchi orthopedic doctor. Low cost lo manchi medicine Inka treatment istunnaru. Thank you so much sir",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1ak9UM0NREAE",
+      "author": "sunil khanna garnepudi",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Good",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQyalpXRzRnRRAB",
+      "author": "Janardhan Maddineni",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMybXB6Znh3RRAB",
+      "author": "Vanaja Katabathula",
+      "rating": 4,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNhMnVUX1JBEAE",
+      "author": "Shiak Malik",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "Thankq Dr. Greeshma madam..Good result for skin.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNxaXMtaXdBRRAB",
+      "author": "Gopikishore",
+      "rating": 5,
+      "relative_date": "Edited 5 years ago",
+      "text": "Best orthopedic hospital ,with best care and treatment",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNxNnRUSHhBRRAB",
+      "author": "Harika Gunti",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNxeXZLSWFBEAE",
+      "author": "lavanya yella",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "We are so happy to have one of the BEST DOCTORS in Mangalagiri . Very good staff and GOOD service and very helpful.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNxaXZlMFZREAE",
+      "author": "chandu nani",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "Good treatment in mangalagiri for orthopedic",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNxaXVPMWZREAE",
+      "author": "Bhargavi Rekha",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "The consultation was easy and the staff are being nice with patients. Highly recommend this hospital for Skin and ortho care.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNxaXNQQUdnEAE",
+      "author": "pendurthi nagarjuna",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNxaW9QZnhBRRAB",
+      "author": "Mounika Latha",
+      "rating": 4,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNLcDZLMm9nRRAB",
+      "author": "Vijay Govada",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "I have consulted Dr Vamsi when I have fractured my left Calcaneum. He is very good doctor with thorough knowledge and practise. The treatment is great. He guided me well in my times of distress and pain.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNLMjlTYnNnRRAB",
+      "author": "Anjaneyulu Pavuluri",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "Good Staf\nGood Service.\nGood Results.\nWorth the Money.\nEffective Treatment.\nGood Care by Doctor.\nEasy to Get Appointment.\nEspecially Tharun is supper.\nFinally thank you Dr.Vamsi Krishna jii.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR5OHBhNTd3RRAB",
+      "author": "siddu bhaskar",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "Affortable tratment and good care of treatment inangalagiri",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR5OHJMZERBEAE",
+      "author": "BalA Raju",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR5OHJ6cWZREAE",
+      "author": "Bindusarika Rekha",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR5OHJ6WXJBRRAB",
+      "author": "Nagarjuna Yadav",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNpdmFEb3NRRRAB",
+      "author": "Divya Pothineni",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURDcDUzejR3RRAB",
+      "author": "naveen mannem",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURNM1BPUGtRRRAB",
+      "author": "Satish Gaddipati",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMwcnQtYm9RRRAB",
+      "author": "Gana Sai",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "Good best hospital mangalagiri",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURrNlBDTDVnRRAB",
+      "author": "Cj Adarsh",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNJNHRPb3lBRRAB",
+      "author": "Yaswanth Kongara",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Good  service",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR3Mk1yUWl3RRAB",
+      "author": "Rohitha reddy Bonthu",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR3b0s3eXZRRRAB",
+      "author": "chaitu chowdary",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Good service and easy to get appointment , good staff",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR3b0picG93RRAB",
+      "author": "Srinu KOLLI",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "We are so happy that you are our doctor.  You do so much.  Thank you.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR3b09iOGl3RRAB",
+      "author": "Kolli Siva kumari",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "“Service was quick and efficient! Very helpful.”",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR3NU9EVmxnRRAB",
+      "author": "Chaitanya Kolli",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "\"Great staff! Super caring. Nice and clean.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR3b016TU5BEAE",
+      "author": "Bobby Nuthalapati",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Good results 👌 …",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR3b05UUnVnRRAB",
+      "author": "sravanthi cheedipudi",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR3b3VHMThBRRAB",
+      "author": "akhil chakravarthy",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR3d083NlJnEAE",
+      "author": "pooja reddy",
+      "rating": 4,
+      "relative_date": "7 years ago",
+      "text": "Reasonable effective for hair treatment",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR3d082Q2F3EAE",
+      "author": "prasanna reddy",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR3d0s3bDFRRRAB",
+      "author": "Madineni Hurshitha",
+      "rating": 4,
+      "relative_date": "7 years ago",
+      "text": "Good.. best place in mangalgiri 😇 …",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR3d0s3RWF3EAE",
+      "author": "arya samanchi",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Affordable and trusthworthy",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR3d0s3bS1BRRAB",
+      "author": "devarasetty tejaswini",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Effective treatment and good care by doctors..... Worth the money...!!!!",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURROHU2ZzhnRRAB",
+      "author": "suhas patibandla",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "I taken prp treatment for my hair growth , results are very good . Doctor Greeshma help me alot thank you\nWellcare",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNBMFktTjh3RRAB",
+      "author": "Venkateswara Rao Pothineni",
+      "rating": 4,
+      "relative_date": "7 years ago",
+      "text": "Affortadle treatment",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURBbTRma21nRRAB",
+      "author": "Pradeep Kumar",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURncmZTZWJ3EAE",
+      "author": "vamsikrishna vakacharla",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURnNk0tZHRBRRAB",
+      "author": "abdul kadhir Rabbani",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Good trustable treatment for both Ortho n Skin related issues.. dual specializations under one roof.. 👌👌👌👌 …",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNRMnFTbW9RRRAB",
+      "author": "dileep pothineni",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "has_owner_reply": false
+    }
+  ],
+  "reviews_error": "",
+  "sorted_newest": true,
+  "stopped_at_known_review": false,
+  "reviews_captured": 95,
+  "owner_replies": 0,
+  "reviews_coverage": 1.0,
+  "date_anchor": "2026-08-21T00:28:08",
+  "extract_seconds": 50.9,
+  "missing_fields": [
+    "website"
+  ],
+  "page_rendered": true,
+  "error": ""
+}

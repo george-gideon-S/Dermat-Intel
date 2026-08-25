@@ -38,40 +38,86 @@ def build_ai_prompt() -> str:
 
 
 # --------------------------------------------------------------------------- derivation
-# Each rule: (keyword regex, category). First match wins, so order = specificity.
-_CATEGORY_RULES = [
-    (r"\b(acne|pimple|hair fall|hair loss|dandruff|eczema|psoriasis|fungal|rash|"
-     r"skin allergy|allergy|pigmentation|melasma|wart|mole|vitiligo|scar)\b", "Condition-Based"),
-    (r"\b(fee|fees|cost|price|charges|cheap|affordable)\b|₹", "Pricing"),
-    (r"\b(review|reviews|rating|ratings|rated|feedback)\b", "Trust & Social Proof"),
-    (r"\b(appointment|book|booking|consult|consultation)\b", "Appointment & Booking"),
-    (r"\b(vs|versus|compare|comparison|better|or)\b", "Comparison"),
-    (r"\b(near me|nearby|near by|around me|closest|close to me|in my area)\b", "Near Me / Local"),
-    (r"\b(best|top|good|famous|leading|specialist|doctor|dermatologist)\b", "Discovery"),
-]
+# The vocabularies behind the six categories. Written out rather than inlined because
+# `query writing.md` documents these same rules for a human, and the two must not drift.
+
+#: Someone is looking for a PERSON, not a place or a procedure.
+_PRACTITIONER = (r"doctor|doctors|dr|physician|specialist|specialists|surgeon|"
+                 r"dermatologist|dermatologists|trichologist|cosmetologist")
+
+#: An actual complaint. Deliberately excludes bare "skin" and "hair" — those appear in every
+#: specialist noun in this field ("skin doctor", "hair clinic") and would make every discovery
+#: query look condition-led.
+_CONDITION = (r"acne|pimple|pimples|hair\s*fall|hair\s*loss|hair\s*thinning|baldness|alopecia|"
+              r"dandruff|eczema|psoriasis|fungal|fungus|ringworm|rash|rashes|allergy|allergies|"
+              r"pigmentation|melasma|wart|warts|mole|moles|vitiligo|scar|scars|keloid|boil|"
+              r"boils|dermatitis|hyperhidrosis|sweating|infection|infections|itchy|itching|"
+              r"dark\s*spots|white\s*patches|scalp|wrinkle|wrinkles|stretch\s*marks|"
+              r"under\s*eye|blackheads|whiteheads|open\s*pores|sun\s*tan|hives")
+
+#: A procedure or therapy. Rule 6: naming a treatment makes a query Condition-Based, because
+#: the patient is describing what they want done, not who they want to see.
+_TREATMENT = (r"treatment|treatments|therapy|surgery|transplant|grafting|removal|peel|peeling|"
+              r"laser|prp|gfc|botox|filler|fillers|microdermabrasion|microneedling|"
+              r"whitening|brightening|polishing|resurfacing|cryotherapy|phototherapy|"
+              r"mesotherapy|glutathione|hydrafacial|dermaroller|derma\s*roller")
+
+#: A thing you buy rather than a service you book.
+_PRODUCT = (r"machine|machines|device|devices|equipment|tool|tools|"
+            r"cream|creams|ointment|gel|lotion|serum|shampoo|soap|tablet|tablets|capsule|"
+            r"capsules|medicine|medicines|drug|drugs|product|products|kit|kits|brand|brands|"
+            r"oil|oils|supplement|supplements|spray|foam|sunscreen|moisturizer|"
+            r"moisturiser|face\s*wash")
+# "patch"/"patches" is deliberately absent: in dermatology it is nearly always a symptom
+# ("white patches", "dry patches"), not a transdermal product, and listing it here sent
+# vitiligo queries to Product-Based.
+
+_PRICING = r"\b(?:fee|fees|cost|costs|price|prices|pricing|charges|cheap|affordable|budget)\b|₹"
+_BOOKING = r"\b(?:appointment|appointments|book|booking|consult|consultation|slot|timings)\b"
+
+_PRACTITIONER_RE = re.compile(rf"\b(?:{_PRACTITIONER})\b", re.I)
+_CONDITION_RE = re.compile(rf"\b(?:{_CONDITION})\b", re.I)
+_TREATMENT_RE = re.compile(rf"\b(?:{_TREATMENT})\b", re.I)
+_PRODUCT_RE = re.compile(rf"\b(?:{_PRODUCT})\b", re.I)
+_PRICING_RE = re.compile(_PRICING, re.I)
+_BOOKING_RE = re.compile(_BOOKING, re.I)
 
 _INTENT = {
     "Discovery": "Wants to discover the leading dermatologists in Guntur.",
-    "Comparison": "Is comparing dermatologists to pick the best option.",
-    "Trust & Social Proof": "Is checking ratings and reviews before trusting a clinic.",
-    "Pricing": "Wants to know consultation fees / treatment costs.",
+    "Doctor-Based": "Wants a doctor who treats one specific condition.",
     "Condition-Based": "Is searching for treatment of a specific skin or hair condition.",
+    "Product-Based": "Is looking for a machine, device or product rather than a clinic.",
+    "Pricing": "Wants to know consultation fees / treatment costs.",
     "Appointment & Booking": "Is ready to book or consult a dermatologist.",
-    "Near Me / Local": "Wants a dermatologist physically close to them.",
 }
 
 _CAT_WEIGHT = {
-    "Discovery": 2, "Near Me / Local": 2, "Trust & Social Proof": 1,
-    "Appointment & Booking": 1, "Pricing": 1, "Comparison": 0, "Condition-Based": 1,
+    "Discovery": 2, "Doctor-Based": 2, "Condition-Based": 1,
+    "Product-Based": 0, "Pricing": 1, "Appointment & Booking": 1,
 }
 
 
 def derive_category(q: str) -> str:
-    """Classify a query string into one of the 7 canonical categories."""
+    """Classify a query into one of the six canonical categories. Order is the rule.
+
+    Money and booking win first: "hair transplant cost" is a price question that happens to
+    name a procedure. Products come next, because a thing you buy is never a clinic visit.
+    Then the distinction that matters most for this product — is the patient looking for a
+    PERSON who treats their complaint (Doctor-Based) or for the PROCEDURE itself
+    (Condition-Based)? Anything left is generic discovery.
+    """
     ql = q.lower()
-    for pattern, cat in _CATEGORY_RULES:
-        if re.search(pattern, ql):
-            return cat
+    if _PRICING_RE.search(ql):
+        return "Pricing"
+    if _BOOKING_RE.search(ql):
+        return "Appointment & Booking"
+    if _PRODUCT_RE.search(ql):
+        return "Product-Based"
+    has_condition = bool(_CONDITION_RE.search(ql))
+    if has_condition and _PRACTITIONER_RE.search(ql):
+        return "Doctor-Based"
+    if has_condition or _TREATMENT_RE.search(ql):
+        return "Condition-Based"
     return "Discovery"
 
 

@@ -1,0 +1,470 @@
+{
+  "place_url": "https://www.google.com/maps/place/DNR+hospital+%28Dr.+DVSB+Ram+Murthy%29/data=!4m7!3m6!1s0x3a4a75c8cb4a8441:0xd977728eac598d61!8m2!3d16.3005335!4d80.4485353!16s%2Fg%2F11g6ht0hyw!19sChIJQYRKy8h1SjoRYY1ZrI5yd9k?authuser=0&hl=en&rclk=1",
+  "captured_at": "2026-08-20T18:47:24",
+  "feature_id": "0x3a4a75c8cb4a8441:0xd977728eac598d61",
+  "place_id": "ChIJQYRKy8h1SjoRYY1ZrI5yd9k",
+  "kg_mid": "/g/11g6ht0hyw",
+  "lat": 16.3005335,
+  "lng": 80.4485353,
+  "name_raw": "DNR hospital (Dr. DVSB Ram Murthy)",
+  "name_clean": "DNR hospital (Dr. DVSB Ram Murthy)",
+  "name_key": "dnrhospitaldrdvsbrammurthy",
+  "name_dropped": [],
+  "name_was_cleaned": false,
+  "category": "Skin care clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "8C2X+6C7, Ganeshrao Peta, Kothapeta, Guntur, Andhra Pradesh 522001",
+  "plus_code": "",
+  "phone": "0863 232 2236",
+  "website": "",
+  "website_domain": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "insecure_http": false,
+  "website_matches_name": null,
+  "rating": 3.9,
+  "reviews_total": 40,
+  "rating_histogram": {
+    "5": 24,
+    "4": 5,
+    "3": 2,
+    "2": 1,
+    "1": 8
+  },
+  "histogram_sum": 40,
+  "histogram_reconciles": true,
+  "topics": {
+    "skin disease treatment": 3,
+    "patient care": 3,
+    "doctor": 3,
+    "treatment": 5
+  },
+  "google_profile_gaps": [
+    "Add website"
+  ],
+  "has_photos": true,
+  "hours": {
+    "Thursday": "12 to 5 pm",
+    "Friday": "12 to 5 pm",
+    "Saturday": "12 to 5 pm",
+    "Sunday": "12 am to 4 pm",
+    "Monday": "12 to 5 pm",
+    "Tuesday": "12 to 5 pm",
+    "Wednesday": "12 to 5 pm"
+  },
+  "about": {
+    "Accessibility": [
+      " Wheelchair-accessible toilet"
+    ],
+    "Amenities": [
+      " Restroom"
+    ],
+    "Planning": [
+      " Appointment required",
+      " Appointments recommended"
+    ],
+    "Payments": [
+      " NFC mobile payments"
+    ],
+    "Map details": [
+      "Transit",
+      "Traffic",
+      "Biking",
+      "Terrain",
+      "Street View",
+      "Wildfires",
+      "Air Quality"
+    ],
+    "Map tools": [
+      "Travel time",
+      "Measure"
+    ],
+    "Map type": [
+      "Default",
+      "Satellite",
+      " Globe view ",
+      " Labels"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4NFpqQkRWMUZtTjNSUlEwOVRZM2R2ZFVWNlUzYxAB",
+      "author": "Thota SureshNaidu",
+      "rating": 5,
+      "relative_date": "2 months ago",
+      "text": "Best doctor in the world skin disease best treatment is not a doctor is gods gift 🙏 …",
+      "maybe_truncated": true,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1ZlVEaFJXa0l4UWtGc1dUVnljbGhwTFZwdFZtYxAB",
+      "author": "Ramesh Tanjore Ramamoorthy",
+      "rating": 5,
+      "relative_date": "2 months ago",
+      "text": "Best Derma care in Guntur.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sS2FVdDNXRWx3VmtSSlNqSm5ZMGQwUjJaTlpXYxAB",
+      "author": "ashish basha",
+      "rating": 5,
+      "relative_date": "3 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aSlMwZzRUemc0Y2xGNVpYUmlVbGRKVFhnelRrRRAB",
+      "author": "Koti A",
+      "rating": 1,
+      "relative_date": "3 months ago",
+      "text": "Worst staff response at GGH they behave like they are behaving with ordinary people",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21od1VGTjJNSFJuZDJoeWNqSm1Rbk5sVVdFMlpYYxAB",
+      "author": "Sankar Podili",
+      "rating": 5,
+      "relative_date": "3 months ago",
+      "text": "Rammurthy sir is the best doctor, he finished my skin problem which was said to cost over 10 thousand in another hospital with a treatment of 2000 in just 10 minutes. He gave the medicine for just 60 rupees.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkc1J6QjRWV2w1WkdocE1EaHNVMlZ5VG1OMk1XYxAB",
+      "author": "sivaramakrishna Grandhi",
+      "rating": 5,
+      "relative_date": "3 months ago",
+      "text": "Nice",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWeFRYcElVRmcxUjNKcVFVdG1SRWgzVEVaTU9YYxAB",
+      "author": "Udbhav Reddy",
+      "rating": 5,
+      "relative_date": "4 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s4MGJGQkVWRlV0WW1wa1MzZFRhMHhWVEZsdFpGRRAB",
+      "author": "dastagir Digital",
+      "rating": 4,
+      "relative_date": "5 months ago",
+      "text": "Dr Ramamurthy garu, is a good doctor his treatment is very result oriented ,but this one thing is not enough for the hospital there should be a proper reception in the hospital & more over communication respectly with the patient also most important. because the charge of dr is high 600/- for op and extra 100/ with in 15days if u want to meet dr again , after 15 days 600/ again , for blood test and skin test approximately around 700 to 1500/-  medicines also taking in the same place which is obviously cost higher ( if a person visit for hospital he will spend 2000/- to 3000/- for treatment for 15 days including medicine . And one more thing is waiting time is tooo much,",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25veE5VSmpaR1pSTW5CWkxWUmpaMnBDT1cxTE1FRRAB",
+      "author": "Ajay Kumar",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "30+ years Good experienced doctors",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kek0xOVZhVm95ZGtGMWFsOU5XaTFTU0ZRM1dVRRAB",
+      "author": "Thumma Chiranjeevi",
+      "rating": 4,
+      "relative_date": "8 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25VMFlWSnJkMnN3ZEZoRU1rRnhTM2hXY0dKSFEzYxAB",
+      "author": "VENU GOPAL",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GS01IaERTVFIwWnpOcVlVdGhhMGhvTTJaVldHYxAB",
+      "author": "Leela Koppula",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Good treatment, I am happy.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twcE5pMHhXSHBpWVhaaFRqRTNNRVZsZW0xT1FVRRAB",
+      "author": "Yesuraju Ch",
+      "rating": 3,
+      "relative_date": "a year ago",
+      "text": "The doctor was a best skin specialist, and the treatment also very nice , but they no have good receptionist to welcomes and patiant care also she responding lazy about enquiries even if we calls to hospital they are not lifting the calls.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxalNGRklSRmRIUjFobFFuaEhXV3N3Ykdrd1dtYxAB",
+      "author": "jojappa madanu",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNncHVUWDF3RRAB",
+      "author": "Sirisha Somisetty",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzMXVEaTVnRRAB",
+      "author": "Parimala Potharlanka",
+      "rating": 1,
+      "relative_date": "a year ago",
+      "text": "I book the appointment and came to hospital at 1PM but I consult the doctor around 5PM\n\nThere is no proper management\nEven OP fee is 600 if you consult doctor with in 15/20 days you can pay extra 100 rupees for each consultation.\n\nIf you have lot of time you can take consultation\nTime is precious.\n\nDoctor is 👍 only the thing is time\nyou will wait lots of time in the hospital.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzbHFlaHJBRRAB",
+      "author": "satish kumar",
+      "rating": 1,
+      "relative_date": "a year ago",
+      "text": "Waiting time for patient more than 4hrs\nYou can spend entire day for doctor consultation.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNaLV92RUtnEAE",
+      "author": "Shaik ABDUL GANI",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQtaHNYUC1BRRAB",
+      "author": "Kiran L",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQwX04zcTFRRRAB",
+      "author": "sri vishnu valiveti",
+      "rating": 1,
+      "relative_date": "Edited 4 years ago",
+      "text": "You may visit this clinic if you want to aggravate i.e worsen the issue. My sister had consulted Dr. Rama murthy due to acne.\n\nAfter taking this person's medication, her normal acne turned into severe nodular  acne of 4th stage.\n\nInspite of taking responsibility and trying to solve the issue, he hurled at my sister that he should stop treating patients of that age.\n\nI was not here back then else could have drilled some sense into him. His apathy is appaling than his failure to treat her. My sister being a medico even confirmed that it's because the doctor never heeded her words regarding past health and gave faulty medication illogicaly.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQyZ3VHZzBRRRAB",
+      "author": "venkatesh channel",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Dr RamaDevi madam will care patients very carefully and advices us about our health with good tips for ENT..\nAnd dental clinic also there here..\nRammurthy Sir Also will give good suggestion for Skin Problem..\nMedicine which sir give will clear the problem will be happy",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNtbS1LN0NnEAE",
+      "author": "Shaik Darimun",
+      "rating": 5,
+      "relative_date": "Edited 4 years ago",
+      "text": "Dr. Ram Murthy sir his incredible. Not only his taken great care of patient's health, but also his lovely to speak with at every appointment. It’s rare to find a doctor that combines such personal touches and care for a patient as a person with outstanding quality of medical care.\nI went for a Acne. His given me 4months course as of today now I complete  only 45days ,I got a very good skin and see drastic change on my face remove all my tiny bumps & pimples .I was thankful to bottom of my heart. Thank You So Much  Dr.Ram Murthy sir 🙏",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNtal9XZXp3RRAB",
+      "author": "Yanmandera Sri Lalitha Varija",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNtaFppc3BBRRAB",
+      "author": "NIthin Reddy",
+      "rating": 1,
+      "relative_date": "4 years ago",
+      "text": "I had very bad experience my skin problem got much worse after consulting him. Think twice thrice before consulting him.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR5b0pmZEpBEAE",
+      "author": "PULIBANDLA ASHOK",
+      "rating": 1,
+      "relative_date": "5 years ago",
+      "text": "For skin here waiting time is too much and their is no proper responce at all, very bad experience.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNpOU92S0xBEAE",
+      "author": "V.chamunde Swari",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNpNk9EajNBRRAB",
+      "author": "Hema Latha",
+      "rating": 1,
+      "relative_date": "5 years ago",
+      "text": "How can we contact if we need help ?\nAnd the staff are not responding in a proper way when visiting the hospital",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ4NWMtczRRRRAB",
+      "author": "Siva rami reddy Siddarapu",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURzakxybEdnEAE",
+      "author": "pandilla sivaparvathi",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNzajgzRkV3EAE",
+      "author": "Srikrishna Prasad",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURNb29ueHF3RRAB",
+      "author": "Sravan Thumma",
+      "rating": 4,
+      "relative_date": "6 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNNMzdDUEp3EAE",
+      "author": "praveen manohar",
+      "rating": 4,
+      "relative_date": "6 years ago",
+      "text": "No complaints about treatment : Treatment and problem analysing by Dr.ramamurthy garu is  outstanding   . . !!!\n\nONLY Flaws\n\nPrepare the waiting, approximately 45  minutes minimum.\nOne time consultancy fee,validity : 21 days (after this, have to pay consultancy  fee again )\n\nI wish they could adapt the token system insted of writing in notebook and sending patient's  inappropriately .",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMwamZXMnV3RRAB",
+      "author": "Ram ST",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "Very nice treatment . Clean.  Affordable and can be referred to all.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNFam9yYmN3EAE",
+      "author": "srinivasarao k (srinu)",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURvbDRULW1RRRAB",
+      "author": "Ramatulasi Salavadhi",
+      "rating": 3,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURBLTRLaE1REAE",
+      "author": "Velpula Jayaprakash",
+      "rating": 1,
+      "relative_date": "7 years ago",
+      "text": "It's a wrong Address",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURRX00tUThRRRAB",
+      "author": "gayathri somisetty",
+      "rating": 5,
+      "relative_date": "8 years ago",
+      "text": "Nice",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURneWJhLWJ3EAE",
+      "author": "timothy G",
+      "rating": 4,
+      "relative_date": "8 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURBMGYyWWlBRRAB",
+      "author": "Hemanth Sai",
+      "rating": 2,
+      "relative_date": "9 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNneWVUcW9BRRAB",
+      "author": "Parisa Narayanamma",
+      "rating": 5,
+      "relative_date": "9 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    }
+  ],
+  "reviews_error": "",
+  "sorted_newest": true,
+  "stopped_at_known_review": false,
+  "reviews_captured": 40,
+  "owner_replies": 0,
+  "truncated_reviews": 1,
+  "reviews_coverage": 1.0,
+  "date_anchor": "2026-08-20T18:47:24",
+  "extract_seconds": 58.7,
+  "missing_fields": [
+    "plus_code",
+    "website"
+  ],
+  "listing_position": 43,
+  "source_query": "dermatologists in Guntur",
+  "listing_name": "DNR hospital (Dr. DVSB Ram Murthy)"
+}

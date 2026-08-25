@@ -1,0 +1,20 @@
+{
+  "query_fingerprint": "3f3c108bf2093c88",
+  "created_at": "2026-08-21T10:29:19",
+  "query_set_history": [
+    {
+      "at": "2026-08-21T14:11:07",
+      "from": "58afbbef11e30e52",
+      "to": "3f3c108bf2093c88",
+      "dropped": [
+        33,
+        35,
+        42,
+        46,
+        52
+      ],
+      "kept": 95,
+      "reason": "re-applied query writing rules"
+    }
+  ]
+}

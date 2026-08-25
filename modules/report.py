@@ -27,31 +27,38 @@ def _label_platforms(platforms) -> list[str]:
 
 
 # --------------------------------------------------------------------------- Online Visibility (higher=better)
-def _components(c: dict, market: dict) -> list[tuple]:
+def _components(c: dict, market: dict, params=None) -> list[tuple]:
     """The 6 weighted presence components (key, label, earned, max) — single source for the score.
 
     Website 30 · own-site ranks in search 30 · on the Maps pack 15 · reviews vs market 15 ·
     phone 5 · breadth of search presence 5.
+
+    The saturation points come from the run's captured-SERP count, so "ranks in search" means
+    the same thing whether the run captured 78 SERPs or 156. `params=None` keeps the June
+    reference values, leaving stored snapshots untouched.
     """
+    from modules import scoring_params as _sp
+    p = _sp.resolve(params)
     avg_rev = market.get("avg_reviews") or 1
     return [
         ("website", "Own website", 30 if c.get("has_website") else 0, 30),
-        ("search", "Ranks in Google search", 30 * min((c.get("owned") or 0) / OWNED_FULL, 1.0), 30),
-        ("maps", "On Google Maps", 15 * min((c.get("places") or 0) / PLACES_FULL, 1.0), 15),
+        ("search", "Ranks in Google search", 30 * min((c.get("owned") or 0) / p.OWNED_FULL, 1.0), 30),
+        ("maps", "On Google Maps", 15 * min((c.get("places") or 0) / p.PLACES_FULL, 1.0), 15),
         ("reviews", "Reviews vs market", 15 * min((c.get("reviews") or 0) / avg_rev, 1.0), 15),
         ("phone", "Phone listed", 5 if c.get("has_phone") else 0, 5),
-        ("breadth", "Found across searches", 5 * min((c.get("web_appearances") or 0) / BREADTH_FULL, 1.0), 5),
+        ("breadth", "Found across searches", 5 * min((c.get("web_appearances") or 0) / p.BREADTH_FULL, 1.0), 5),
     ]
 
 
-def visibility_score(c: dict, market: dict) -> int:
+def visibility_score(c: dict, market: dict, params=None) -> int:
     """0–100 clinic-facing "how findable are you online" score (higher = more present)."""
-    return round(sum(earned for _, _, earned, _ in _components(c, market)))
+    return round(sum(earned for _, _, earned, _ in _components(c, market, params)))
 
 
-def visibility_breakdown(c: dict, market: dict) -> list[dict]:
+def visibility_breakdown(c: dict, market: dict, params=None) -> list[dict]:
     """The score decomposed into its 6 components (earned vs max) — the gaps map 1:1 to the fixes."""
-    return [{"key": k, "label": lbl, "earned": round(e), "max": m} for k, lbl, e, m in _components(c, market)]
+    return [{"key": k, "label": lbl, "earned": round(e), "max": m}
+            for k, lbl, e, m in _components(c, market, params)]
 
 
 # --------------------------------------------------------------------------- five-check scorecard

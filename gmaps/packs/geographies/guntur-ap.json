@@ -1,0 +1,46 @@
+{
+  "id": "guntur-ap",
+  "city": "Guntur",
+  "admin_area": "Andhra Pradesh",
+  "country": "India",
+  "country_code": "IN",
+  "display_name": "Guntur, Andhra Pradesh",
+  "gl": "in",
+  "query_language": "en",
+  "timezone": "Asia/Kolkata",
+  "viewport": {
+    "lat": 16.3067,
+    "lng": 80.4365,
+    "zoom": 13
+  },
+  "place_qualifier": "Guntur, Andhra Pradesh",
+  "qualifier_note": "Guntur is unambiguous, so the query names it bare. Adding ', Andhra Pradesh' narrowed the result set from 98 places to 48 (measured 2026-08-20), dropping exactly the small unranked clinics the survey exists to find. Set this true only for a place name that genuinely collides across states or countries; the viewport anchor already disambiguates most cases without touching the query text.",
+  "city_tokens": [
+    "guntur"
+  ],
+  "localities": [
+    "Lakshmipuram",
+    "Brodipet",
+    "Kothapet",
+    "Arundelpet",
+    "Pattabhipuram",
+    "Chandramouli Nagar",
+    "Gorantla",
+    "Nallapadu",
+    "Amaravati Road"
+  ],
+  "chain_domains": [
+    "kolorshairandskin.com",
+    "kolorshealthcare.com",
+    "olivaclinic.com",
+    "vlccwellness.com",
+    "vlcc.in",
+    "anoos.com",
+    "vcaretrichology.com",
+    "drbatras.com",
+    "richfeelindia.com",
+    "advancedhairstudio.com",
+    "kayaclinic.com"
+  ],
+  "qualify_with_admin_area": false
+}

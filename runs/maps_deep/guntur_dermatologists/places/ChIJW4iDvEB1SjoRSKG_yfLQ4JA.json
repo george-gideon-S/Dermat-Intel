@@ -1,0 +1,217 @@
+{
+  "place_url": "https://www.google.com/maps/place/Mounica+Clinic/data=!4m7!3m6!1s0x3a4a7540bc83885b:0x90e0d0f2c9bfa148!8m2!3d16.2949734!4d80.4371538!16s%2Fg%2F11hcnc7hjn!19sChIJW4iDvEB1SjoRSKG_yfLQ4JA?authuser=0&hl=en&rclk=1",
+  "captured_at": "2026-08-20T19:26:42",
+  "feature_id": "0x3a4a7540bc83885b:0x90e0d0f2c9bfa148",
+  "place_id": "ChIJW4iDvEB1SjoRSKG_yfLQ4JA",
+  "kg_mid": "/g/11hcnc7hjn",
+  "lat": 16.2949734,
+  "lng": 80.4371538,
+  "name_raw": "Mounica Clinic",
+  "name_clean": "Mounica Clinic",
+  "name_key": "mounicaclinic",
+  "name_dropped": [],
+  "name_was_cleaned": false,
+  "category": "Fertility clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "adjacent",
+  "basis": "category_unlisted",
+  "address": "GYNECOLOGIST AND OBSTERITRICIAN, K.Swarupa rani, Kanna Vari Thota, Guntur, Andhra Pradesh 522004",
+  "plus_code": "7CVP+XV Guntur, Andhra Pradesh",
+  "phone": "0863 224 1387",
+  "website": "",
+  "website_domain": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "insecure_http": false,
+  "website_matches_name": null,
+  "rating": 5.0,
+  "reviews_total": 13,
+  "rating_histogram": {
+    "5": 13,
+    "4": 0,
+    "3": 0,
+    "2": 0,
+    "1": 0
+  },
+  "histogram_sum": 13,
+  "histogram_reconciles": true,
+  "topics": null,
+  "google_profile_gaps": [
+    "Add website"
+  ],
+  "has_photos": true,
+  "hours": {
+    "Thursday": "Open 24 hours",
+    "Friday": "Open 24 hours",
+    "Saturday": "Open 24 hours",
+    "Sunday": "Open 24 hours",
+    "Monday": "Open 24 hours",
+    "Tuesday": "Open 24 hours",
+    "Wednesday": "Open 24 hours"
+  },
+  "about": {
+    "Service options": [
+      " On-site services"
+    ],
+    "Amenities": [
+      " Restroom"
+    ],
+    "Payments": [
+      " NFC mobile payments"
+    ],
+    "Map details": [
+      "Transit",
+      "Traffic",
+      "Biking",
+      "Terrain",
+      "Street View",
+      "Wildfires",
+      "Air Quality"
+    ],
+    "Map tools": [
+      "Travel time",
+      "Measure"
+    ],
+    "Map type": [
+      "Default",
+      "Satellite",
+      " Globe view ",
+      " Labels"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KWWNXRXhja05QUkVWTGRrWTJSa1ZZVDNOVGFGRRAB",
+      "author": "Jyothi Dondaprolu",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "Best gynecology clinic in guntur",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJd3Rxb2h3RRAB",
+      "author": "saida naik",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURuNExpdmJBEAE",
+      "author": "Danaboina Bhudevi",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURyemRYTGFREAE",
+      "author": "shukur gnt",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Guntur top doctor\nIwell give  5 star",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUROaFpDTWRBEAE",
+      "author": "Kanugula Sailaja",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "The best hospital",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURaM3FpcFVREAE",
+      "author": "Prudhvi Raj",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Best in service",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNweTRtSDZRRRAB",
+      "author": "Indira Devarasetty",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4allHb2JREAE",
+      "author": "Sri Nivas",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Best in service\n👍👍👍 …",
+      "maybe_truncated": true,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSMGJXcHlBRRAB",
+      "author": "SK Sabiha",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURtbEp5U09nEAE",
+      "author": "LYDIA MARTEENA",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNxbHRQMVBnEAE",
+      "author": "Sowmya Karumuru",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNxbHBPZlB3EAE",
+      "author": "Sruthi Karumuru",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR5cXFmblBBEAE",
+      "author": "NARRA KEERTHI SWETHA",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    }
+  ],
+  "reviews_error": "",
+  "sorted_newest": true,
+  "stopped_at_known_review": false,
+  "reviews_captured": 13,
+  "owner_replies": 0,
+  "truncated_reviews": 1,
+  "reviews_coverage": 1.0,
+  "date_anchor": "2026-08-20T19:26:42",
+  "extract_seconds": 40.6,
+  "missing_fields": [
+    "website"
+  ],
+  "listing_position": 73,
+  "source_query": "dermatologists in Guntur",
+  "listing_name": "Mounica Clinic"
+}

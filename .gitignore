@@ -9,6 +9,15 @@ __pycache__/
 data/*.xlsx
 data/Full Page Screenshots/
 metadata.json
+
+# Run snapshots: large captured artifacts (raw SERP HTML, screenshots, xlsx). The manifests
+# and index are cheap and worth keeping, so the run tree itself is ignored selectively.
+runs/*/serp/html/
+runs/*/serp/screenshots/
+runs/*/.cache/
+runs/*/data/
+# Browser profile — session cookies and solved-CAPTCHA state. Never commit.
+.browser/
 web/dist/
 .superpowers/
 
@@ -28,3 +37,9 @@ docs/redesign/v3/verification/after/
 
 # vendor build scratch (echarts tree-shake)
 web/.echarts-build/
+.playwright-mcp/
+
+# Installed skill/tooling source cached into the project — not project code.
+.claude/.skill-sources/
+.claude/skills/
+.claude/scheduled_tasks.lock

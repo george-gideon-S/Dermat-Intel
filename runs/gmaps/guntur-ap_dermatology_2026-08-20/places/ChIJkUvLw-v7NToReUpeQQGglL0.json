@@ -1,0 +1,979 @@
+{
+  "key": "ChIJkUvLw-v7NToReUpeQQGglL0",
+  "tier": "full",
+  "complete": true,
+  "place_url": "https://www.google.com/maps/place/Haritha+Skin+Clinic/data=!4m7!3m6!1s0x3a35fbebc3cb4b91:0xbd94a001415e4a79!8m2!3d16.5123664!4d80.6345169!16s%2Fg%2F11rhxp1v8f!19sChIJkUvLw-v7NToReUpeQQGglL0?authuser=0&hl=en&rclk=1",
+  "captured_at": "2026-08-21T00:29:02",
+  "rank": 87,
+  "place_id": "ChIJkUvLw-v7NToReUpeQQGglL0",
+  "feature_id": "0x3a35fbebc3cb4b91:0xbd94a001415e4a79",
+  "kg_mid": "/g/11rhxp1v8f",
+  "lat": 16.5123664,
+  "lng": 80.6345169,
+  "dup_of_rank": null,
+  "has_online_booking": false,
+  "booking_url": "",
+  "booking_vendor": "",
+  "service_options": null,
+  "permanently_closed": false,
+  "temporarily_closed": false,
+  "status_text": "Closed · Opens 10 am Fri",
+  "open_now": false,
+  "is_ad": false,
+  "review_snippet": "\"I got good results for my acne and acne scars.\"",
+  "name_raw": "Haritha Skin Clinic",
+  "name_clean": "Haritha Skin Clinic",
+  "name_key": "harithaskinclinic",
+  "name_dropped": [],
+  "name_was_cleaned": false,
+  "category": "Skin care clinic",
+  "card_category": "Skin care clinic",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "29-22-5, Narasimharao Naidu St, Suryaraopeta, Governor Peta, Vijayawada, Andhra Pradesh 520002",
+  "plus_code": "GJ6M+WR Vijayawada, Andhra Pradesh",
+  "phone": "090529 88666",
+  "website": "",
+  "website_domain": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "insecure_http": false,
+  "website_matches_name": null,
+  "rating": 4.9,
+  "reviews_total": 108,
+  "rating_histogram": {
+    "5": 105,
+    "4": 1,
+    "3": 0,
+    "2": 0,
+    "1": 2
+  },
+  "histogram_sum": 108,
+  "histogram_reconciles": true,
+  "topics": {
+    "derma issues": 5,
+    "pimples treatment": 3,
+    "laser mole removal": 2,
+    "dermatologist": 7,
+    "dark spot treatment": 2,
+    "skin whitening": 2,
+    "chemical peel": 2,
+    "hair loss treatment": 2,
+    "quick results": 2,
+    "clear explanations": 2
+  },
+  "google_profile_gaps": [
+    "Add website"
+  ],
+  "has_photos": true,
+  "hours": {
+    "Friday": "10 am to 2 pm, 6 to 9 pm",
+    "Saturday": "10 am to 2 pm, 6 to 9 pm",
+    "Sunday": "Closed",
+    "Monday": "10 am to 2 pm, 6 to 9 pm",
+    "Tuesday": "10 am to 2 pm, 6 to 9 pm",
+    "Wednesday": "6 to 9 pm",
+    "Thursday": "10 am to 2 pm, 6 to 9 pm"
+  },
+  "about": {
+    "Map details": [
+      "Transit",
+      "Traffic",
+      "Biking",
+      "Terrain",
+      "Street View",
+      "Wildfires",
+      "Air Quality"
+    ],
+    "Map tools": [
+      "Travel time",
+      "Measure"
+    ],
+    "Map type": [
+      "Default",
+      "Satellite",
+      " Globe view ",
+      " Labels"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oTE0xQTJlbmN3YldRd1NrTjJiRGRmY1RoV2JYYxAB",
+      "author": "Ravindranath Chavalam",
+      "rating": 5,
+      "relative_date": "3 days ago",
+      "text": "Very professional and knowledgeable. Very genuine no unnecessary medications prescribed mostly follows appointment timings",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kaFRISXhjbXBSWjNaWGMybE5ielYyV0doYWJrRRAB",
+      "author": "Samatha Potu",
+      "rating": 5,
+      "relative_date": "3 days ago",
+      "text": "Professional & Knowledgeable\n\nI had a very good experience with the doctor. They are highly professional, knowledgeable, and take the time to understand the concern properly. The treatment was explained clearly, and I also found the consultation to be very budget-friendly. Overall, I would definitely recommend this dermatologist.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xVM1NVMXNOWGN0Y2xoZk0zWjRhV1YyVDNKNmJVRRAB",
+      "author": "Venkata kanaka raju Kolusu",
+      "rating": 5,
+      "relative_date": "a week ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21JelVrbERTMUZZUlRkdVVtdEpiV1pKVVhoeE1rRRAB",
+      "author": "Aruna Munni",
+      "rating": 1,
+      "relative_date": "2 weeks ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5SU4zZFhURUZ2WTBsQ0xWZEJhVUUxTTNoTWVWRRAB",
+      "author": "Ravi Teja Katragadda",
+      "rating": 5,
+      "relative_date": "4 weeks ago",
+      "text": "Worth for money",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Oc1NGQlphMlphTVdkNVRtSkRObGhqUm1keVlsRRAB",
+      "author": "Priyanka Gotivada",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xVd1MzVkJheTFDVG1JMFdYRkZUalppZWpJMWFtYxAB",
+      "author": "Ramireddy Lokasani",
+      "rating": 5,
+      "relative_date": "2 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toQ1l6WjBXbU53WTFBeFRtbzNiMHR6YVdkT05uYxAB",
+      "author": "Rohith King",
+      "rating": 5,
+      "relative_date": "2 months ago",
+      "text": "Amazing service, Dr. Haritha garu is very very friendly and very patiently listen our complaints of patients and spent lots of time.  Keep going Madam.  We believe doctor is god... By looking ur service, it is true madam.  Once again Thanks alot",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSTlExcDVZamxrY1RCVlFqbHJWR2g1VkVrM1VIYxAB",
+      "author": "mullangi vipanchi",
+      "rating": 5,
+      "relative_date": "2 months ago",
+      "text": "Haritha garu was highly professional, knowledgeable, and thorough in explaining my skin condition and treatment plan. Her clarity and patient-centric approach made all the difference. Highly recommended if you are from Vijayawada. From now on I trust her with no second thought. Thank you Mam 🙏🏽 …",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sYVJrMDFaREJRUVdsUk5rbFJaMjVDTkhkU1FXYxAB",
+      "author": "prasad juluri",
+      "rating": 5,
+      "relative_date": "4 months ago",
+      "text": "Superverygood",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xRdGRIaGhVMjF1T0RoVExURlVNbVpoWDFCaE1HYxAB",
+      "author": "Reethika Kilaru",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "Best place",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsaFVsQjFMVXhzWW5kdGFFMDNUbEpJU25kS2EzYxAB",
+      "author": "praveen kumar",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ONlVVOUlXSGRLT1VOaFJFbHJka3hVYUhGRlUzYxAB",
+      "author": "susan jessica",
+      "rating": 1,
+      "relative_date": "Edited 8 months ago",
+      "text": "I had a bad experience with the clinic. Asked the staff to just wait for 5 min after 9PM because of traffic issues they deliberately rejected my request.Can't they provide atleast 5 min for the patient? Highly disappointed ... I clearly said it was just 5 min but not 10- 15min  even I have a call record of the receptionist. She is the main culprit in your clinic.Don't tell me the reasons to post that it's 15min and iam the one who suffered",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xRFVIUlplblZyTlZGblJYSjFabGxEY0MxWFVVRRAB",
+      "author": "hari priya n",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "I went to Dr Haritha for acne and skin whitening .she explained each step and procedure and i felt so comfortable asking questions regarding skin care . I saw good results after treatment my treatment .it’s recommend for everyone for best skin treatment\nStaff was good and friendly",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5c1puRldZMU5sZVRodVJtOVJialJHWmpGc0xXYxAB",
+      "author": "Philomin Prakash.M",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "Very good consultant Doctor and friendly iam very satisfy regarding the doctor treatment and his valuable advises.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkYWN6aHFXVXBsU2pkSldVSkNiMjl6TkUxa1ZXYxAB",
+      "author": "Seelam Krishna reddy",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGWlkxUlFhMEZOTlhrMFVIUmhXVlpHUjBGRVNIYxAB",
+      "author": "kancharlapalli murali krishna",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "My visit here is very satisfactory. The doctor was very nice and honest Also very importantly very patient I had a great experience. Highly recommend 👌 …",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21JNVYzaHJkMXBwVlhkc1RWVkZNMlp4VTB4U0xVRRAB",
+      "author": "Loves",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWUFRWWnRMV3gwZWpCSFduRnhiV290VVhWamVWRRAB",
+      "author": "Swetha Naidu",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "Dr.haritha mam is very friendly and good treatment",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psNGVEQTNjRTlSYmtwWU5HWnRibGhyT1dWdVVFRRAB",
+      "author": "Sivanagamalleswari Korraprolu",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "Best service",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGMlQzTXpVelZKTjE5V2NYbFpWbmhrVEhSeFMzYxAB",
+      "author": "Saritha Gade",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SeVMybFhTVFpRTjFKV1NuQTFNelZhVDJaNGIwRRAB",
+      "author": "Chinnu Sukesh",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "Nice treatment 💯 …",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Wbk1tcDZaMnN3YXkxZmVVdHZhMFZXUmtkdk1XYxAB",
+      "author": "Basha Shaik",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sbU4yazJSRWs0YVdkTVltWkpTUzAwTjE5U2MwRRAB",
+      "author": "Sathish katti",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5TVZsUmtNbFZvVG1oRVNXMWpTalJSZVZaSU1WRRAB",
+      "author": "Harika Chauhan",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "I visited Dr. Haritha Skin Clinic for chicken pox scar treatment and I'm so glad I did. The results are really impressive - my scars have reduced a lot and my skin looks much smoother now. Dr. Haritha explained everything clearly and was very patient with all my doubts. Highly recommend her clinic for scar treatments!",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21keFYzY3dlVGR1VFRSdlJraFZVMGQxWWw5VE1rRRAB",
+      "author": "Venu Madhav",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "Treatment in excellence.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oYWIzcGlSR1U1UVZobmRucENVbGcwUW1WUGFXYxAB",
+      "author": "Challagulla rajesh",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "Super good service and support 👍 …",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSRUxVRXpPVGRpTkhCVU1sWTVkSEJqTjFWYVdsRRAB",
+      "author": "Goldyjwalitha Mathingi",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1bU1XUjBUelF4UWtKdFlWcHhRekpLV1V0eU9YYxAB",
+      "author": "Pandu Narendra",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25VeWQybGlXSFZ6VmpaaE16Tk1aWEUyU1RCNVEzYxAB",
+      "author": "Purvaja Ammanabrolu",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Doctor is very good. Suggests good medicines. All my acne and dark spots are gone in less than 1.5 months",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoRFVVdG9WalZIYUdwRlIxTlZOVkYwYUhwbFdHYxAB",
+      "author": "Kowtharapu Siva sankar",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTURROTRuU0x3EAE",
+      "author": "sravanthi CHAVA",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I went to haritha skin clinic and met Dr. Haritha mam there and took teatment for face skin. I got 1 time and it was cured very well. Iam so happy thanku very much mam",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTURReTdEeUV3EAE",
+      "author": "K VENKAT Durgarao",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRZ1BHclFREAE",
+      "author": "Sindhuja M",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNnbXVPNmR3EAE",
+      "author": "Karthikeya Karthikeya",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNnMU96bVVREAE",
+      "author": "tarun kakani",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I went To Haritha skin clinic and Met Dr. Haritha mam There And Took Treatment For Fungle Infection & face pimples. It was cured very Well. I am very Happy, Thank you so much Mam",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNfN2JpYlB3EAE",
+      "author": "Hena paul",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Happy with my consultation. A very lovely doctor.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmcDlDS3lRRRAB",
+      "author": "Geswar 2013",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmMWYyS3hRRRAB",
+      "author": "Pragathi Y",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmcHFEOHZnRRAB",
+      "author": "vedaraju v",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2aDhIOG1RRRAB",
+      "author": "Hema",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Very useful results are really amazing",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURQeTdXNWtBRRAB",
+      "author": "Varalakshmi Mulli",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I went to Haritha Skin Clinic and met Dr. Haritha there and took treatment for ear repair. I got 6 stitches on my ear and it was cured very well. I am so happy. Thanks to Dr. Haritha mam.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQzbXR6UXV3RRAB",
+      "author": "Umma Abhigna Kumar Reddy",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Excellent Clinic",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM3NzhLZ3hRRRAB",
+      "author": "Uday Bonu",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Very politely listens patient problem and she will surely cure your skin disease with in days",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURyNG9IZzh3RRAB",
+      "author": "tejaswini uppala",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Undoubtedly,Harita Skin Clinic is the best. If you are searching for a best skin clinic in Vijayawada then, go for this.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNyLWJPRUJ3EAE",
+      "author": "sekhar sagalamarri",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Very Good Doctor to visit for your Derma issues. Please be free with your issues she will be veryful to make them understand.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNyLWVYMXhBRRAB",
+      "author": "Veera Bhadra",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Friendly, Good Dermatologist in Vijayawada",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNydXRuSEF3EAE",
+      "author": "SHAREEFUDDIN MOHAMMED",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Excellent 👍👌👏👏 …",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNUcHRYb0F3EAE",
+      "author": "Javvaji Girish",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNOeXR1N3N3RRAB",
+      "author": "kishore B",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Very good",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQxMHZybjFnRRAB",
+      "author": "Bhuvana Sugandham",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNsX1pEdDdnRRAB",
+      "author": "Pannagi Gajjala",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I am 75 years old and i live in vijayawada and i am suffering from severe skin allergy since 3 years and  i had treated by reputed skin specialists at Bengaluru and vijayawada but could not recover .Due to this type of skin allergy/itchy i suffered sleepless nights for a long period no doctor could diagnose the root cause of the disease as a last resort i came to know haritha skin clinic , dr haritha skin specialist consulted her in this regard. Dr haritha has keenly observed and studied the root cause of the disease with due care taking much concentration.The doctor prescribed suitable medicines.This is really a miracle the disease with which i suffered since long completely cured.As regards my observation the doctor is not only skin specialist but also diagnostic expert in dealing with such chronuc skin diseases .I am very much thankful to her and i convey my sincere gratitude to her. She is such an amazing doctor.\n\nG Satyanarayana Rao",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM1LVBqT1R3EAE",
+      "author": "AKHILA Akhila",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Very friendly doctor And her treatment was really good and give gun shot medicine for infection really iam happy to  take treatment hear",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURaOUpuWm5BRRAB",
+      "author": "Srinivas Yalamanchili",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Good rejult",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwOF8yRkd3EAE",
+      "author": "Sudheer Sanka",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "After visiting many doctors finally I found Haritha garu... She listens to all our concerns very patiently and her approach to our concerns is very nice when compared to other doctors I visited. Her holistic approach in order to diagnose the issue is very phenomenal. I can see the results after her treatment.\nI was treated for hair loss. I have taken GFC treatment. Just give a try if you really looking to diagnose your health problems.\n\nAll we need is a good dermatologist when we are facing skin related issues... My suggestion would be Haritha Garu.... 🙂",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURKMnZYV1BBEAE",
+      "author": "Bala Venkata Rajesh",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "I have undergone treatment and most satisfied for the result\nMy Suggestion who was looking for good skin Specalist in vijayawada",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKMGVUN2FnEAE",
+      "author": "Vaishnavi R",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKMGFTNThRRRAB",
+      "author": "Dhakshayani Pinagadi",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKbFBpWi1RRRAB",
+      "author": "VASA AMRUTHA VALLI",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKdUo3TmVBEAE",
+      "author": "SRINIVASARAO GULLAPALLI",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKdUo2a1hBEAE",
+      "author": "prasad lic",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKdUxhNFV3EAE",
+      "author": "Annapurna Pacherla",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKdVByUk53EAE",
+      "author": "Saritha Thota",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKdUlMOGpnRRAB",
+      "author": "Kazana Venkatesh",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKdUx6RVFnEAE",
+      "author": "Srinivas Pacherla",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKdVBUYnF3RRAB",
+      "author": "odugu rebka",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKdU5UdFJnEAE",
+      "author": "Tirumala reddy",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Good to find this clinic. We got to know about this clinic from another doctor. The doctor in this clinic is very interactive. We are satisfied with the treatment that is received. We also recommended about this clinic to our friends and family.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKOE9teG1BRRAB",
+      "author": "Ganesh Mitthireddi",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKOEk2b2FREAE",
+      "author": "Praka",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR4NmFlRzBBRRAB",
+      "author": "pratyusha kolanuwada",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "I went to dr haritha for laser hair removal was very happy with the result my hair growth reduced significantly in just 3 sessions .... would definitely recommend her for any dermatology and cosmetology procedures …",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4NmJ1cVVREAE",
+      "author": "Sruthi Kareddy",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Expert n weaves magic with chemical peel..highly recommend.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4OGRxTlFREAE",
+      "author": "MAHESH GUNTAKA",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Doctor is so good and patient. I got good results for my acne and acne scars.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4dlBLVWZREAE",
+      "author": "prasanna lakshmi",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR4N0p5UzdRRRAB",
+      "author": "Sravani Mulli",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "I am visited Dr. Haritha mam for skin treatment, within 10 days result will be shown, she is very good doctor.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN4cFlQU3VRRRAB",
+      "author": "Ram Krishna",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Came for GFC therapy...nicely explained and my hair growth is visible with just 2 sessions.. thankyou dr harita",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSNGVfMTh3RRAB",
+      "author": "Jalli Subrahmanyam",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Good Experience for Hair transplant and skin,  Friendly Doctor and Staff ...... Very Good Responce",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNSZ2J2ZVhBEAE",
+      "author": "Rishik",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "I came for acne treatment and the result was best so I recommend to consult haritha mam... if any skin related issues are overcoming u and It will be cleared within a short span of time and don't waste ur money unnecessarily on unawareness products just consult mam and u will sure be happy after treatment.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNSeHN2bXhnRRAB",
+      "author": "నా సి ర్ షే క్",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Super doctor  ,well caring , excellent results",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURoNy1uRmZ3EAE",
+      "author": "sowmitha alapati",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "I Apporached Dr.Haritha Mam for pimples & Uneven skin..She is very friendly & came to know my prblm very patiently..She Has given me the Best Treatment for my Face…\nOne of the Highly Recommended Clinic…",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURob19DaXNBRRAB",
+      "author": "Braden Kellan",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURoOGE2R0h3EAE",
+      "author": "k kalpana",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURocHJ5LXF3RRAB",
+      "author": "Azeem Azee",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "She is one of the best doctors i have visited. I initially consulted her for my acne issues, and let me tell you within a week I has seen visible results. She's such a sweetheart and will patiently explain you about your condition. And now she is my to go dermatologist anytime.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURoN01yZVdREAE",
+      "author": "Sk Haseena",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNoLVpDS0pBEAE",
+      "author": "yanam anitha",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Excellent treatment and doctor is very friendly and treat excellent",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtc2VxX0J3EAE",
+      "author": "chaitanya padamati",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtcHZYdmNBEAE",
+      "author": "Chathurya Aravapalli",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "I am fully satisfied 💕 …",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQtcG9TUHVRRRAB",
+      "author": "Khajana Venkatesh",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlbmN2M19RRRAB",
+      "author": "santhi kumar",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Excellent treatment....",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNld19pUlRREAE",
+      "author": "sindhu v",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "I went to Haritha madam for my pimples and black spots on my face, she listened carefully and examined,explained me everything .. I took treatment and chemical peel sittings…I am very much happy with the results… I recommend everyone to visit the clinic",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNlMHFLSmJBEAE",
+      "author": "Pavan Vemula",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Excellent doctor, went for dandruff and flat moles treatment, within 10-15 days my issue resolved and for moles she suggested laser. It is good now. I strongly suggest. She is so polite.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1dVB5LUdBEAE",
+      "author": "abhinash vallabhi",
+      "rating": 4,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURPdS1PYllBEAE",
+      "author": "chandra sekhar",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Good place for Skin care. Safe procedures without affecting the skin . Safe and hygiene place.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQyNmRMN3FnRRAB",
+      "author": "MW TUG GAMING",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "I am suffering from skin whitening  problem,I used soo many products but no results. That time I consult haritha skin clinic .madam treats good,iam fully satisfied with her whitening treatment.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQydHVxdlNnEAE",
+      "author": "Aakanksha Singh",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Dr.Haritha is a very good dermatologist. It’s very easy to communicate with her about your skin issues and she has the right remedy for it. Her advise for skin care routine is very simple and easy to follow. I would highly recommend her to my friends and family .",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURXZzkyZHNRRRAB",
+      "author": "Odugu Rebka",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Sobhi ki vachanu 10days lo solve ayipoindi",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURXdEphN2ZREAE",
+      "author": "boggarapu mounika",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "I suffering from hair fall prblm.i consult haritha skin clinic, madam treats good.control my hair fall prblm.i am Soo happy with her treatment",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNXX3RqOE9REAE",
+      "author": "Bhukya Hari Kumar",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "GOOD DOCTOR. EXPERT IN TREATING  CHRONIC SKIN  PROBLEMS.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURHeVltbUZnEAE",
+      "author": "Sindhura Nakketla",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNHdjZXZzVnRRAB",
+      "author": "charan kumar",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNHdjQ3aWx3RRAB",
+      "author": "prathap reddy",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNHdjlhMnFRRRAB",
+      "author": "vamsi teja",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNHNzZQU3J3RRAB",
+      "author": "KSK",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNHcjRyMUN3EAE",
+      "author": "Rupesh babu",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNHdC1HOXZBRRAB",
+      "author": "raghubabu sadam",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNHdDViMHJBRRAB",
+      "author": "Aparna Sankarabhakthina",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNHdDRqMHpnRRAB",
+      "author": "Vishnu Reddy Baddepudi",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNHMTR1QktnEAE",
+      "author": "Sai Krishna",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNHMTQyYXpRRRAB",
+      "author": "sai Niharika",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": false
+    }
+  ],
+  "reviews_error": "",
+  "sorted_newest": true,
+  "stopped_at_known_review": false,
+  "reviews_captured": 108,
+  "owner_replies": 38,
+  "reviews_coverage": 1.0,
+  "date_anchor": "2026-08-21T00:29:02",
+  "extract_seconds": 67.8,
+  "missing_fields": [
+    "website"
+  ],
+  "page_rendered": true,
+  "error": ""
+}

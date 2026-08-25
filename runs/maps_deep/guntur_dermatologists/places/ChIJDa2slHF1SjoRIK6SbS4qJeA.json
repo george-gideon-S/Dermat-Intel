@@ -1,0 +1,234 @@
+{
+  "place_url": "https://www.google.com/maps/place/Kiran+Poly+Clinic/data=!4m7!3m6!1s0x3a4a757194acad0d:0xe0252a2e6d92ae20!8m2!3d16.3006069!4d80.4202224!16s%2Fg%2F11cm3wnsfx!19sChIJDa2slHF1SjoRIK6SbS4qJeA?authuser=0&hl=en&rclk=1",
+  "captured_at": "2026-08-20T19:31:46",
+  "feature_id": "0x3a4a757194acad0d:0xe0252a2e6d92ae20",
+  "place_id": "ChIJDa2slHF1SjoRIK6SbS4qJeA",
+  "kg_mid": "/g/11cm3wnsfx",
+  "lat": 16.3006069,
+  "lng": 80.4202224,
+  "name_raw": "Kiran Poly Clinic",
+  "name_clean": "Kiran Poly Clinic",
+  "name_key": "kiranpolyclinic",
+  "name_dropped": [],
+  "name_was_cleaned": false,
+  "category": "Women's health clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "adjacent",
+  "basis": "category_unlisted",
+  "address": "Sri Ram Nagar Main Rd, Sri Ram Nagar, Ananda Theertha Agraharam, Guntur, Andhra Pradesh 522004",
+  "plus_code": "8C2C+63 Guntur, Andhra Pradesh",
+  "phone": "0863 235 2078",
+  "website": "",
+  "website_domain": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "insecure_http": false,
+  "website_matches_name": null,
+  "rating": 4.3,
+  "reviews_total": 15,
+  "rating_histogram": {
+    "5": 11,
+    "4": 1,
+    "3": 1,
+    "2": 0,
+    "1": 2
+  },
+  "histogram_sum": 15,
+  "histogram_reconciles": true,
+  "topics": null,
+  "google_profile_gaps": [
+    "Add hours",
+    "Add website"
+  ],
+  "has_photos": true,
+  "hours": null,
+  "about": {
+    "Accessibility": [
+      " Wheelchair-accessible car park",
+      " Wheelchair-accessible entrance",
+      " Wheelchair-accessible toilet"
+    ],
+    "Amenities": [
+      " Restroom"
+    ],
+    "Planning": [
+      " Appointments recommended"
+    ],
+    "Payments": [
+      " NFC mobile payments"
+    ],
+    "Map details": [
+      "Transit",
+      "Traffic",
+      "Biking",
+      "Terrain",
+      "Street View",
+      "Wildfires",
+      "Air Quality"
+    ],
+    "Map tools": [
+      "Travel time",
+      "Measure"
+    ],
+    "Map type": [
+      "Default",
+      "Satellite",
+      " Globe view ",
+      " Labels"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGM1ZUWXRkSEU1UXkxa1ZrNTNVVWsxWjFWWU1GRRAB",
+      "author": "Krishna Baludra",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "Good",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oTFUxRjZMWEprWkVwV1JWaEplVmRIYUdwTFkzYxAB",
+      "author": "MALLIKARJUNAREDDY PADIGAPATI",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3NE43SmxRRRAB",
+      "author": "Anjani Padma",
+      "rating": 1,
+      "relative_date": "a year ago",
+      "text": "This is outdated hospital with outdated method of treatment, they didn't do normal delivery(atleast they didn't even try for normal delivery).They charge high amount like all other corporate hospitals.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYa3ZyXy1BRRAB",
+      "author": "golla priyanka",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNCNDlqaG9BRRAB",
+      "author": "MANI SHANKAR M",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1djhxUktBEAE",
+      "author": "vedantam kesav",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURHODRTdTJBRRAB",
+      "author": "p.v Ammulu",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNHa0xldmFnEAE",
+      "author": "SAIKUMAR PALEPU",
+      "rating": 3,
+      "relative_date": "4 years ago",
+      "text": "This hospital is good Low cost compared to in guntur Hospital costs, Good staff, But Nurses Expect high money from Patients After discharge.......",
+      "maybe_truncated": true,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ2NllUYS1BRRAB",
+      "author": "Jonnalagadda Lingaiah",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURLdk83VHpRRRAB",
+      "author": "Baratam Srinivas",
+      "rating": 4,
+      "relative_date": "5 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNLOFlqbkdBEAE",
+      "author": "chinnapureddy saisindhuja",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURDOHUzTkxBEAE",
+      "author": "jakka mounika888",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURNazlPU3dRRRAB",
+      "author": "ch govinda reddy",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "Hospital is good",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNvZ3Rua1VBEAE",
+      "author": "Shahameer Rusundar",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURnNzZfVlp3EAE",
+      "author": "A K",
+      "rating": 1,
+      "relative_date": "8 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    }
+  ],
+  "reviews_error": "",
+  "sorted_newest": true,
+  "stopped_at_known_review": false,
+  "reviews_captured": 15,
+  "owner_replies": 0,
+  "truncated_reviews": 1,
+  "reviews_coverage": 1.0,
+  "date_anchor": "2026-08-20T19:31:46",
+  "extract_seconds": 46.9,
+  "missing_fields": [
+    "website",
+    "hours"
+  ],
+  "listing_position": 79,
+  "source_query": "dermatologists in Guntur",
+  "listing_name": "Kiran Poly Clinic"
+}

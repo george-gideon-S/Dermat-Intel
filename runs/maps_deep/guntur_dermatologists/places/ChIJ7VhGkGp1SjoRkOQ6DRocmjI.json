@@ -1,0 +1,2296 @@
+{
+  "place_url": "https://www.google.com/maps/place/Kommineni+Dental+and+Cosmetic+Clinic+-+Best+Dental+Hospital+in+Guntur/data=!4m7!3m6!1s0x3a4a756a904658ed:0x329a1c1a0d3ae490!8m2!3d16.3130218!4d80.4325713!16s%2Fg%2F11sf6vwcwm!19sChIJ7VhGkGp1SjoRkOQ6DRocmjI?authuser=0&hl=en&rclk=1",
+  "captured_at": "2026-08-20T18:57:55",
+  "feature_id": "0x3a4a756a904658ed:0x329a1c1a0d3ae490",
+  "place_id": "ChIJ7VhGkGp1SjoRkOQ6DRocmjI",
+  "kg_mid": "/g/11sf6vwcwm",
+  "lat": 16.3130218,
+  "lng": 80.4325713,
+  "name_raw": "Kommineni Dental and Cosmetic Clinic - Best Dental Hospital in Guntur",
+  "name_clean": "Kommineni Dental and Cosmetic Clinic",
+  "name_key": "komminenidentalandcosmeticclinic",
+  "name_dropped": [
+    "Best Dental Hospital in Guntur"
+  ],
+  "name_was_cleaned": true,
+  "category": "Dental clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "irrelevant",
+  "basis": "name_veto:dental",
+  "address": "Koritepadu Rd, opposite alapati venkata ramaiah park, Lakshmipuram, Guntur, Andhra Pradesh 522007",
+  "plus_code": "8C7M+62 Guntur, Andhra Pradesh",
+  "phone": "099665 85847",
+  "website": "https://drkommineniclinics.com/",
+  "website_domain": "drkommineniclinics.com",
+  "website_type": "own_domain",
+  "has_own_website": true,
+  "insecure_http": false,
+  "website_matches_name": true,
+  "rating": 4.9,
+  "reviews_total": 243,
+  "rating_histogram": {
+    "5": 229,
+    "4": 12,
+    "3": 1,
+    "2": 0,
+    "1": 1
+  },
+  "histogram_sum": 243,
+  "histogram_reconciles": true,
+  "topics": {
+    "wisdom tooth removal": 5,
+    "broken front tooth": 4,
+    "root canal treatment": 9,
+    "friendly staff": 32,
+    "gentle dentist": 6,
+    "painless treatment": 12,
+    "dental filling": 3,
+    "implant treatment": 2,
+    "friendly doctor": 15,
+    "cooperative staff": 10
+  },
+  "google_profile_gaps": null,
+  "has_photos": true,
+  "hours": {
+    "Thursday": "9 am to 9 pm",
+    "Friday": "9 am to 9 pm",
+    "Saturday": "9 am to 9 pm",
+    "Sunday": "9 am to 9 pm",
+    "Monday": "9 am to 9 pm",
+    "Tuesday": "9 am to 9 pm",
+    "Wednesday": "9 am to 9 pm"
+  },
+  "about": {
+    "Amenities": [
+      " Restroom"
+    ],
+    "Planning": [
+      " Appointments recommended"
+    ],
+    "Payments": [
+      " NFC mobile payments"
+    ],
+    "Map details": [
+      "Transit",
+      "Traffic",
+      "Biking",
+      "Terrain",
+      "Street View",
+      "Wildfires",
+      "Air Quality"
+    ],
+    "Map tools": [
+      "Travel time",
+      "Measure"
+    ],
+    "Map type": [
+      "Default",
+      "Satellite",
+      " Globe view ",
+      " Labels"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tVMFZUWkRaQzE2V0VRMFUwVkNlV3RhUTBkVlMyYxAB",
+      "author": "Vemula Hemalatha",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWelpuSTNSamxaU1dGMWFGVmxVMU0xYVhCVk9YYxAB",
+      "author": "prasadarao k",
+      "rating": 5,
+      "relative_date": "4 months ago",
+      "text": "Exlent",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaRVZITlZVMXBuUkZSRWNXdHVXRlV6YkU5dFVGRRAB",
+      "author": "Baji Sharif",
+      "rating": 5,
+      "relative_date": "4 months ago",
+      "text": "Nice treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CTmRGVm5ZM2hsYldoaU1YTk5Wa2xNUkdaS1JWRRAB",
+      "author": "Vamsi charan Ravuri",
+      "rating": 5,
+      "relative_date": "4 months ago",
+      "text": "Good",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psWGQwVjRhVWRqTURCSWVrOURkblJaZFZsNllVRRAB",
+      "author": "ANIL KUMAR",
+      "rating": 5,
+      "relative_date": "4 months ago",
+      "text": "The dental treatment was excellent and very comfortable. The doctor was highly professional, explained every step clearly, and made sure there was minimal pain during the procedure. The clinic was clean and well-equipped with modern technology, which gave a lot of confidence. The staff were friendly and supportive, making the overall experience smooth and stress-free. I am very satisfied with the results and would highly recommend this dental doctor to anyone looking for quality and reliable dental care.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Ka2FXZHBTRWcyVDFkM1drOHlXakY2UWs5bGNXYxAB",
+      "author": "Masood Ahmed",
+      "rating": 5,
+      "relative_date": "4 months ago",
+      "text": "I recently visited kommineni dental clinic for a tooth extraction and to fix a broken tooth, and I had a very positive experience. Dr. Harish explained the entire procedure clearly, which helped ease my anxiety.\n\nThe tooth extraction was done smoothly with minimal discomfort, and the dentist was very gentle throughout. For my broken tooth, the filling was done perfectly, and it now feels completely natural when I bite or chew.\n\nThe clinic was clean, well-maintained, and the staff were friendly and professional. Overall, I’m very satisfied with the treatment and would definitely recommend this clinic to anyone needing dental care.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poMVowZGhRbFZNVG1OeE1VVmxNMHhsYXpOWGFIYxAB",
+      "author": "Venkata Deepak Nannapaneni",
+      "rating": 5,
+      "relative_date": "4 months ago",
+      "text": "Excellent skill and long lasting",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psdVFWTlpWRkJzUjFSeE9IazFWR1Y0ZDNsa1FXYxAB",
+      "author": "CHANTI CHANTI",
+      "rating": 5,
+      "relative_date": "4 months ago",
+      "text": "Nice treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaME9WUkpSbGxUZFhKRWQyaEhVa0p6ZGxSMWMwRRAB",
+      "author": "Praveen Matta",
+      "rating": 5,
+      "relative_date": "4 months ago",
+      "text": "Nice treatment 👍🏻 …",
+      "maybe_truncated": true,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWTFVtWjRWelJ5ZFd4NWVUQTRNRFZvUVVsWFNIYxAB",
+      "author": "tarun reddy",
+      "rating": 5,
+      "relative_date": "4 months ago",
+      "text": "Nice ambience, Experienced doctor and Good Treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21VNWNFeE9aM2hYUTE5RVZXOHRiRU4xWXpadVNGRRAB",
+      "author": "Prasanna Challagundla",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "Tremement  is very good",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tabExVNDJiemxFUWxCUVRXWlliell4VW5ad2IxRRAB",
+      "author": "sk shabeer",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "Got for wisdom tooth removal . Dr Harish sir removed it without pain and I felt comfortable during the procedure . The staff are friendly and prices are reasonable. I would recommend everyone to visit the clinic for the best dental experience",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kwemFXWlBWVWxwTlRGbE1uUmFYMGxGU0dkQldtYxAB",
+      "author": "pavan manepalli",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "Good hospital with positive communication and less pain treatment for better tooth removals",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tod01rTnhZWEZ2VVRSc1ZHdFlVRWwxUzJGamNXYxAB",
+      "author": "firoz Sk",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "Good",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SMGMzbEVaSGhKTnpZMGQzVXhWMUpvV25NNWNHYxAB",
+      "author": "Abhilash",
+      "rating": 4,
+      "relative_date": "7 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSUVZWTXdkbWhWWXpoVVgzVmpkMTkzVFUxMGVYYxAB",
+      "author": "D M Vidyasagar",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xocGJFcENRMjF5UkhORVpUVldZVEJOYTB4bE1uYxAB",
+      "author": "Riyaz Abdul",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21JMVoyeFNha0l3Y2s5cU5IaERYMWxDWVdaT2IzYxAB",
+      "author": "Sunny Satish",
+      "rating": 5,
+      "relative_date": "Edited 7 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aVk1XVkNOR05GUmtZeFdqRnVUeTFaZERaQmVtYxAB",
+      "author": "Munna king",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "\"From the first visit, I found nothing but professionalism and skilled individuals. The facility is new, clean, and the staff is friendly. I had a deep cleaning and my teeth sparkle! Highly recommend for a top-notch, comfortable experience.\"",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ3eGFqai1nRRAB",
+      "author": "Patibanda Anil Kumar",
+      "rating": 5,
+      "relative_date": "Edited 7 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5WExWbFhPVVpNV1RsMVIwNUpaMXBwVVVRMGJVRRAB",
+      "author": "Vas",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "Good patient care",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkc1ZDMWFWelZLVlZWdFNWTjBWSFJHTWs1WFQzYxAB",
+      "author": "Venkat Pamarthi",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "Excellent treatment experience with detailed explanation about treatment plan and giving best treatment option which benifit the patient....",
+      "maybe_truncated": true,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xFMVJqSmhXREJGVFZaME9EbFhNWG81ZFRob1pHYxAB",
+      "author": "rajini bhavani",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "I came here with broken front teeth. Dr Harish Garu has done wonderful treatment and designed my smile beautifully. The clinic is neat and staff are good. Would recommend everyone to visit the clinic",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21VeGJYQTVNVmQ2VlVGRUxYSjNRVXcwYzFoc2FYYxAB",
+      "author": "Lakshminarayana Atukury",
+      "rating": 5,
+      "relative_date": "Edited 11 months ago",
+      "text": "Good",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkSE0wWnBUVGRvV2toVFdtdEtVMkY0ZEdKTVpuYxAB",
+      "author": "Rahul Thoudam",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paRVpqQnZlRmd0VTA0NFgzcGFiVTR0V0hkdmFGRRAB",
+      "author": "Dhanalakshmi Vadlamudi",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Good",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKbU9URlZUVGxPUzA1emJFVlNURmhCTUdvM0xYYxAB",
+      "author": "Ys Devi",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Recently I have been suffering from tooth pain and visited kommineni dental clinic Dr. Rajitha garu and Dr.harish garu have explained the treatment so well .They are highly skilled and professional. And they took time to explain every step.The clinic itself is well maintained and service is really good.i would highly recommend the clinic",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xR1NYWlNhRE42UlRsTk1WYzBabHBYT1Zkd1NIYxAB",
+      "author": "Venkata Pratap",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xneFUwOW5NbGhaV1VsR04yOWtVa1J3TmtGT2FYYxAB",
+      "author": "Karimoon Sk",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xFeldWUjRXa3B0V1hSelN6RnFZM0IwUmxONldHYxAB",
+      "author": "Patan Zahara",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Best painless treatment.👍👍 …",
+      "maybe_truncated": true,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tZeFdGb3hkRFJ1YWpaaFVuZFZUVFF4ZGpWMGVVRRAB",
+      "author": "Sudhakararao Karukutla",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGVlFsTkhVa281V1Vsd01UQXpSMFJIWDJjd05VRRAB",
+      "author": "satyanarayanarao Madadhi",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Treatment is really good,Dr.harish is in my experience one of the best dentists...I have gone to quite a few dentists but I am very satisfied with the treatment he has given to me",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oNFFreFVXV1J2TXpCVlVucFlWa05CYUhSa1gxRRAB",
+      "author": "NIKHIL PUDOTA",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1dFprNU1jR2RNTTNodlpHODVORTVZWVhGNWRGRRAB",
+      "author": "Vaddavalli Saidarao",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I really like the way they received us\nGood treatment at affordable cost",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pObVFuUnlSVFIxTlVOM05qZ3RPVFpGUlU5SlFsRRAB",
+      "author": "Humera Fathima",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGMlIxZzNaemRCU1U1SGEwaE1lVUZHTWkxUWVIYxAB",
+      "author": "Nithin Mohan",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Nice ambience, polite staff and doctors, very satisfactory service … Happy teeth",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VQdlkxTlhoNDdHS0dREAE",
+      "author": "Ramakrishna M",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Doctors are very friendly and they took good care of my son.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VNanYySS10bi1ydjNBRRAB",
+      "author": "ravikumar karedla",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Excellence in service and hospitality",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZdWFUTWV3EAE",
+      "author": "nagendram koduru",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I like the treatment provided by dr.harish sir\nHe is really good and I like the way he treated me",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZX1BmeU9REAE",
+      "author": "Niranjan Reddy",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I had great experience with dr.harish garu.\nStaff are amazing,ambience is good.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvaGEtcTNRRRAB",
+      "author": "mandapaka saikumar",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I had a great experience with Dr. Harish garu,  I have a long tongue and usually face difficulty during dental procedures, especially with breathing and tongue control. But Dr. Harish garu was extremely patient, gentle, and understanding throughout the treatment. He made sure I was comfortable at every step and handled the situation with great care. I’m fully satisfied with the treatment and thankful for his professionalism and kindness. Highly recommended!",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvb1lQd1JnEAE",
+      "author": "Y Bharathi devi Chunduru",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvLXRPVVZBEAE",
+      "author": "Jaswanth Kumar",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJd3FuS1h3EAE",
+      "author": "lakshmi vasavi Devi",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I just had a very good experience at Kommineni Dental for my dental check-up. If you're looking for quality dental care then go it blindly.  let me tell you about Dr. Harish. He is highly skilled, patient, and incredibly polite.\nFrom the moment I walked in, he took the time to explain every step of the procedure in detail. It really put me at ease knowing what to expect. The clinic itself is well-maintained, and service is really good. I would highly recommend.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJX0ltaTl3RRAB",
+      "author": "Suneetha Yadlapalli",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJX01TLU9REAE",
+      "author": "Khaleel khaleel",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Good best treatment pain less treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJNV9LMlFREAE",
+      "author": "sailaja kanagala",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I am regular visitor to this dental hospital and highly recommend Dr. Harish Choudhary for his experience and painless, long-lasting root canal treatment. Despite trying other doctors in emergencies, I prefer this hospital for all dental care.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJdWJDYzdRRRAB",
+      "author": "rahul chowdary",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Very very happy with treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3c1l6ZTB3RRAB",
+      "author": "Sri Lakshmi",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Very good and Friendly Dental team. Thank you team.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3d09IUlVnEAE",
+      "author": "Shravan Kumar Chikyala",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I recently visited Kommineni Dental and Craniofacial Cosmetic Clinic for a tooth cap, and I had a very good experience. Dr. Harish is highly skilled, patient, and polite. He explained the procedure in detail and made sure I was comfortable at every step.\n\nThe clinic is well-maintained with modern facilities, and the staff is very courteous and helpful. My tooth cap fits perfectly, looks natural, and feels comfortable. I am very happy with the treatment and would highly recommend Dr. Harish to anyone looking for quality dental care.\n\nThank you, Dr. Harish for your excellent service! 😊\n\nShravan",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTURRN1ozYXlnRRAB",
+      "author": "Ravula Gopinath",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Good",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRdXFLYlN3EAE",
+      "author": "Srinivas Sirigiri",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRdXVEY1hnEAE",
+      "author": "Atla Sravani",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Very friendly Doctor",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTURROUpEYUF3EAE",
+      "author": "Sudhakar karre",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRcTh1d2VBEAE",
+      "author": "Ravi baddula",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRM3R6Zk1BEAE",
+      "author": "premchand devarapalli",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRNExuV0VnEAE",
+      "author": "Lankipalli Kusuma",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnNTZTcHpBRRAB",
+      "author": "Tirupataiah Kaithepalli",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNnN3V1X0xnEAE",
+      "author": "Gangaiah Yenugula",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnb1BMcDF3RRAB",
+      "author": "Kondalu",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Very friendly and explaining problem very clearly\nTaking good care while treating the patient",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURfcjdQLUpnEAE",
+      "author": "kiran kumar",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "The best experience! The doctors and staff are amazing. Everyone was so friendly and welcoming. Treatment went well. Afterwards, they sit with you and explain everything that happened and what to expect in the days to come. Very thorough!\nKommineni Dental &cranio Cosmotic Clinic\n\n- sukeerth",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURfLWE2LVd3EAE",
+      "author": "MS AGENCIES ZAKIR",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURmbDlER1pREAE",
+      "author": "Sreedhar Gaddipati",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURmLS1qWDZRRRAB",
+      "author": "Sravani Vallabhaneni Sravani",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURmMHUtVDVBRRAB",
+      "author": "sandya gayam",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Gud treatment and hospitality.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmOTZiR3hRRRAB",
+      "author": "Dr Basavaiah Chandu",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Very good treatment having painless treatment.it was a nice experience in\nkommineni dental clinic",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmMWVERHFnRRAB",
+      "author": "Bommanaboina Devivaraprasad",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Excellent",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmMnVyUkVBEAE",
+      "author": "Madhuyamini Nallamothu",
+      "rating": 4,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2aF92OVB3EAE",
+      "author": "sravya maddumala",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2bzg3S2RnEAE",
+      "author": "MEDA Rohit Kumar",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "10years experience good 👍 …",
+      "maybe_truncated": true,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2b0lhOHRnRRAB",
+      "author": "Phani Pamarthi",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Happy with the service.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2aF9YRW5BRRAB",
+      "author": "Lahari Bhimineni",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2cmE3djZRRRAB",
+      "author": "raviteja velamuri",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2aWM2Z3hRRRAB",
+      "author": "Ramarao Mandalaneni",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURQZ3NYMFp3EAE",
+      "author": "RAMA YOGI YASAM",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Excellent.. Especially good at receiving patients.. Nice patience in listening..",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNQdlptbEl3EAE",
+      "author": "Nagateja Murakonda",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNQaFAyTy1nRRAB",
+      "author": "Venkatapathi Baka",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQzeHNpQ2lRRRAB",
+      "author": "Nazneen Sultana",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Excellent treatment.\nHospitality",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzMjUyazBBRRAB",
+      "author": "srinath palepu",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzdE5qREVnEAE",
+      "author": "Chiranjeevi Talasila",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYbE1xOHhBRRAB",
+      "author": "Thiru Bathula",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Good doctor 😊nice treatment …",
+      "maybe_truncated": true,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYcUpxRWlnRRAB",
+      "author": "kusuma b",
+      "rating": 4,
+      "relative_date": "a year ago",
+      "text": "Harish sir receving very nic\nHe talk very friendly.\nVery nice gye\nThanking you",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYOEpQck53EAE",
+      "author": "bharath ganji",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Outstanding Dental Care – Went Above and Beyond!\n\nI had an incredible experience at \"KOMMINENI Dental and Craniofacial Cosmetic Clinic\" With a flight scheduled for next week, I was worried about fitting in my treatment, but the team here went the extra mile to ensure everything was completed on time without compromising the quality of care.\n\nThe entire staff was welcoming, and the clinic itself is modern, clean, and very comfortable. The dentist took extra time to explain the procedure in detail, making sure I was relaxed and informed throughout. Even though they knew about my upcoming travel, they were patient, thorough, and never rushed any part of the treatment.\n\nTheir attention to detail and personalized care truly made a difference. The result exceeded my expectations, and I left feeling confident and well-prepared for my trip. Thank you for your exceptional service—I’ll definitely be back!",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYeDRyWFpBEAE",
+      "author": "Sambasiva Rao",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYa2ZMZkNnEAE",
+      "author": "PSR ASSOCIATES",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNaNHUtMGJ3EAE",
+      "author": "Mohan Gatta",
+      "rating": 5,
+      "relative_date": "Edited a year ago",
+      "text": "𝘐 𝘨𝘰𝘵 𝘮𝘺 𝘸𝘪𝘴𝘥𝘰𝘮 𝘵𝘰𝘰𝘵𝘩 𝘳𝘦𝘮𝘰𝘷𝘦𝘥. 𝘊𝘭𝘦𝘢𝘯𝘪𝘯𝘨 𝘢𝘯𝘥 𝘵𝘰𝘰𝘵𝘩 𝘧𝘪𝘭𝘭𝘪𝘯𝘨. 𝘌𝘹𝘤𝘦𝘭𝘭𝘦𝘯𝘵 𝘵𝘳𝘦𝘢𝘵𝘮𝘦𝘯𝘵 𝘣𝘺 𝘋𝘳 𝘏𝘢𝘳𝘪𝘴𝘩 𝘨𝘢𝘳𝘶. 𝘗𝘳𝘪𝘤𝘦𝘴 𝘢𝘳𝘦 𝘳𝘦𝘢𝘰𝘯𝘢𝘣𝘭𝘦. 𝘊𝘭𝘪𝘯𝘪𝘤 𝘪𝘴 𝘯𝘦𝘢𝘵 𝘢𝘯𝘥 𝘴𝘵𝘢𝘧𝘧 𝘢𝘳𝘦 𝘧𝘳𝘪𝘦𝘯𝘥𝘭𝘺 …",
+      "maybe_truncated": true,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYeXFHRHRnRRAB",
+      "author": "venkata ramana nadimpalli",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURuZzZ6V2NBEAE",
+      "author": "Praveen Kumar",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Good service",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURuMWUtbm1nRRAB",
+      "author": "Ammulu Javvaji",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "The way the doctor  treated   my son was amazing he was very friendly, and all treatment went  very well. That's fantastic.  We are thankful to him  🙏 …",
+      "maybe_truncated": true,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURuc0pTZXR3RRAB",
+      "author": "jyothir latha",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNuLTlpVE5nEAE",
+      "author": "Mohan Krishna",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I lost my front teeth because of accident . Dr Harish garu suggested me to place an implant . I underwent treatment for the implant placement . The treatment was painless and I felt comfortable during the procedure . I thank Dr Harish garu for giving the best treatment . I recommend everyone to visit the clinic . The staff are friendly and cooperative",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNuLTRpSFVnEAE",
+      "author": "Anish K",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I came from wisdom tooth removal. Dr Harish made my treatment very comfortable without any pain and the prices are reasonable. The ambience and cleanliness of the clinic is good. I recommend the clinic for everyone",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNucmQ2ZWV3EAE",
+      "author": "susanna pallala",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChNDSUhNMG9nS0VJQ0FnSUNudFRREAE",
+      "author": "pavankumar tanneru",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNuMllMUEpREAE",
+      "author": "vandanasri patnayakuni",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Doctor was very patient to answer all my queries and doubts, staff were nice. I had my wisdom teeth removed, it was not painful",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNudElxdDdRRRAB",
+      "author": "Jaya Sai Prasanth Setty",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNuMlBhUHp3RRAB",
+      "author": "Nag Raj",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURIX19fUHZBRRAB",
+      "author": "Madhu Priya",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Excellent treatment by Dr Harish garu. Underwent rootcanal treatment without any pain . Treatment costs are less I recommend to everyone. Clinic is neat and good",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURIXzUtY19RRRAB",
+      "author": "Bala Kishore",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "The doctor is Friendly and ambience is good . Prices are reasonable and treatment quality is good",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURINzVQZnBnRRAB",
+      "author": "venkaiah kamineni",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I came with the complaint of broken front tooth.Dr Harish Sir fixed my tooth with zirconium cap. It looked like my original tooth. I am very happy with the treatment. The prices are also reasonable and the clinic ambience and cleaniliness is super",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURIejViNVFREAE",
+      "author": "Swapna Eswar",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Doctors are very friendly to treat the children.cost are reasonable nice place",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN6bnI3eFJnEAE",
+      "author": "Ajay Varipalli",
+      "rating": 5,
+      "relative_date": "Edited a year ago",
+      "text": "good",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNaeXE3WXZ3RRAB",
+      "author": "Brahmananda Reddy",
+      "rating": 5,
+      "relative_date": "Edited a year ago",
+      "text": "Superrr treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURIb05TMWtBRRAB",
+      "author": "Lakshmi Yaganti",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Good treatment...nice environment",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwdVlQczF3RRAB",
+      "author": "Muddapati Suresh",
+      "rating": 5,
+      "relative_date": "Edited a year ago",
+      "text": "My mother came with tooth sensitivity.Dr. Harish suggested the best treatment procedure. Dr Rajitha mam done a wonderful treatment . Prices are reasonable. I recommend this to everyone",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNIajhPbVl3EAE",
+      "author": "Gummadi Bhavani lakshmi",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Excellent treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNIMjV1UEN3EAE",
+      "author": "Rajasekhar Sankuri",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Very good hospital",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNIdWQtbG9BRRAB",
+      "author": "Harish Vallapuri",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNIbHFqOThnRRAB",
+      "author": "saikiran saikiran",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Nice treatment. Dealing with patients is so nice.I suggest everybody to come here if u have any dental problem. Thank you so much for such a good treatment and also for ur response.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNIMUxiOXp3RRAB",
+      "author": "Sri Sai Chandu",
+      "rating": 1,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM3NGVycV9RRRAB",
+      "author": "Siva Bhavanam",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM3NHZlWEJ3EAE",
+      "author": "Amarnadh Koya",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Excellent",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURicmYtZ0ZBEAE",
+      "author": "Sri rajyalakshmi Medicals",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Good",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURiNHJMSGdnRRAB",
+      "author": "Mandati Harika",
+      "rating": 3,
+      "relative_date": "2 years ago",
+      "text": "Good",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURidkwyZnh3RRAB",
+      "author": "Annam Udaykumar",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURiaklqQUhBEAE",
+      "author": "Kurapati Sai Bharat Raju",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Excellent treatment and friendly support staff must visit the hospital",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURyLS1iN3RBRRAB",
+      "author": "Jahnavi Parchuri",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURyc2VtXzVRRRAB",
+      "author": "nehi niki",
+      "rating": 4,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNybmJyOG9nRRAB",
+      "author": "Asiya parvin",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURMLTgyNFlREAE",
+      "author": "yeekshith doppalapudi",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Pleasant environment..... Procedures with expertise.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNMeEpLQXJ3RRAB",
+      "author": "saraschandra chebrolu",
+      "rating": 4,
+      "relative_date": "2 years ago",
+      "text": "Nice place to get treated and all staff are helpful",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR6OC1DNHBRRRAB",
+      "author": "Swathi Abbaraju",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "My kid got treated here. doctor is very friendly to kids and clinic ambience is visually appealing",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR6aFl5RG9nRRAB",
+      "author": "MohanSai Gopalam",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Hi sir I am G. Syamala  Naidu.Thank you  K.Harish Chowdary sir.He did great job.And thank you rajitha mam and Kalyan sir.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR6ek9YVmVBEAE",
+      "author": "VENUKUMAR PAMULAPATI",
+      "rating": 4,
+      "relative_date": "2 years ago",
+      "text": "Good receiving and friendly treatment.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR6bUtLUlZREAE",
+      "author": "Sambasivarao Gopalam",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I had wonderful experience at dental clinic the staff was incredibly friendly  and the dentist patient and explains things in a good way . overall its a fantastic  dental clinc",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN6al9fMXZRRRAB",
+      "author": "Ravi N",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Treated best for Hair and skin. Happy with treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN6MmZxSlZBEAE",
+      "author": "chittineni suneetha",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN6NmFXWE1REAE",
+      "author": "Pallapu Durga prasad",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I lost my front teeth. Dr Harish garu did root canal and fixed my front teeth. The treatment was painless. The treatment charges are reasonable. Good ambience and nice receiving by staff. I would recommend this clinic to everyone",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURUNXFfQllBEAE",
+      "author": "S. Bobby",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Great work, and more satisfied by their work.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURUd3JiVldnEAE",
+      "author": "Haseena Shaik",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURUMkxIcjl3RRAB",
+      "author": "Jagadeesh Pinnika",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Good Treatment 👍 …",
+      "maybe_truncated": true,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNUdHJiVmpRRRAB",
+      "author": "Swathi Kiran",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNUcFBqVkZREAE",
+      "author": "JONNALAGADDA NAVEEN",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURqM3VDUlFREAE",
+      "author": "Vellanki Nimsi",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURqaXV1dmNREAE",
+      "author": "Mudda Ravikumar",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Good",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURqbk1LQTRnRRAB",
+      "author": "raji gade",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURqbkx6cmRBEAE",
+      "author": "Aaliya Shaik",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSclktdWFBEAE",
+      "author": "Yugesh chandra",
+      "rating": 5,
+      "relative_date": "Edited 2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNEMmNMbVJ3EAE",
+      "author": "Nagireddy Teja VishnuVardhan Reddy",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Very good",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNEM3AyT1F3EAE",
+      "author": "Rajitha Nallati",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNsN2ZybW93RRAB",
+      "author": "sukesh reddy",
+      "rating": 4,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNsdWRQb2lBRRAB",
+      "author": "Hemalatha",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Dr.Harish is very talented and suggest the straight treatment for patients. Homely environment and well behaved staff. I'm glad we had good dental clinic in guntur premises.\nI had root canal treatment here and the entire process was smooth.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNsNUpMcThnRRAB",
+      "author": "Pavani Pavani",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Very good",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChRDSUhNMG9nS0VJQ0FnSURGOThnSRAB",
+      "author": "Tejaswini Mallipeddi",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I had visited this clinic for skin treatment  and doctor did good consultation understood my skin concern and accordingly he suggested me to go with hydra facial which made my skin supple smooth and glowing. Thanks to the doctor for being so patient and friendly. Would give 10/10 for everything.I am glad I visited this clinic and gonna visit again.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURGaWJQRlRBEAE",
+      "author": "Rajani V",
+      "rating": 4,
+      "relative_date": "2 years ago",
+      "text": "👍 …",
+      "maybe_truncated": true,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURGeHZpYkZREAE",
+      "author": "Murthy 449",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURGcXNPbDFBRRAB",
+      "author": "Be Fit",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Best dental clinic to go to take care of your child,they were very professional and had very well explained the procedure.I felt that my child was in good hands as they were very gentle,genuine,generous and kind...",
+      "maybe_truncated": true,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURGNkt2amlRRRAB",
+      "author": "Srikanth N",
+      "rating": 4,
+      "relative_date": "2 years ago",
+      "text": "Good",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNGNjZENThnRRAB",
+      "author": "prem kumar yallamati",
+      "rating": 4,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ1eV8yU0pnEAE",
+      "author": "Suneela K",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ1MU42czJnRRAB",
+      "author": "abdul kadhir Rabbani",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ1bEo2NDd3RRAB",
+      "author": "manojgupta tavva",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM1cmV6R0tnEAE",
+      "author": "Yamini Jammugani",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I had visited to this clinic for HYDRA FACIAL Dr.HARISH SIR is a good doctor friendly,warm,and co operative..at first I was very tensed as this is my first time experience,but after the completion my skin was dewy, glowing, hydrated and felt so clean and refreshed, TQ sir for your..Love this place and atmosphere with excellent ambience.MUST VISIT for your all dental,hair,skin problems....",
+      "maybe_truncated": true,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM1amJpRWtBRRAB",
+      "author": "mounika posani",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "V. Good",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURaellxV213RRAB",
+      "author": "chakri jasti",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURacnRxQzF3RRAB",
+      "author": "Samba Siva rao Allam",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURacnJUMVBBEAE",
+      "author": "satya bdel",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Very nice and quick treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURaa282SFlREAE",
+      "author": "sumanth kasu",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURab05uMGR3EAE",
+      "author": "SRINIVAS REDDY LANKIREDDY",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNadjVQZTB3RRAB",
+      "author": "Srikanth Vedurruri",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNaMV9XNDZRRRAB",
+      "author": "basha basis",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "This is my second visit, the doctor is friendly and completed the procedure painlessly, I recommend him strongly for your healthy teeth. Thank you !!",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNaMTVha1FREAE",
+      "author": "giri nadh",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Very good treatment and best prices when compared to other clinics...",
+      "maybe_truncated": true,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNacDhHd21nRRAB",
+      "author": "Thanmay Gatta",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNabGFLMVFBEAE",
+      "author": "Janakiram Manchikalapudi",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Dr.Harish understands the needs of the patients very well and caters to it accordingly and has a good supporting team , visited the clinic today and felt very comfortable with environment and got treated well. Equipment and services are top notch and treatment costs are reasonably good .",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNabVlQbWdnRRAB",
+      "author": "nagesh nag",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Came for hair loss treatment . Dr Harish suggested me PRP for hair thinning . Got good density of hair with in four months . Very happy and affordable at reasonable price",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNaeXVYSWlBRRAB",
+      "author": "Sandu Bittu",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Nice hospitality..excellent treatment..staff soo nice friendly atmosphere",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNac3RpVGl3RRAB",
+      "author": "Shaheena Shahu",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNaMG92elhREAE",
+      "author": "Kavuri Nagaraju",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Easy consultation and friendly staff with very co-operative to get the treatment.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSaGUtWEpREAE",
+      "author": "reverie",
+      "rating": 5,
+      "relative_date": "Edited 2 years ago",
+      "text": "Treatment is good.....for dental",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNaNHBxN2FnEAE",
+      "author": "Anusha Nannapaneni",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNaX0lyY2N3EAE",
+      "author": "sravya pedavalli",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNaek5ybTN3RRAB",
+      "author": "rambabu vadlamudi",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Best treatment provided",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNaekpyai1RRRAB",
+      "author": "tejeswar Vadlamudi",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Treatment is.excellent",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNac0xhOWJ3EAE",
+      "author": "Namitha Movva",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNac0tUcldnEAE",
+      "author": "Monica Nidamanuri",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Treatment is very nice and we are completely satisfied",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwNU1YNndRRRAB",
+      "author": "Meenakshi boob",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURweE5MdG5BRRAB",
+      "author": "Seshu Jambula",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKbXFDTnhnRRAB",
+      "author": "smart tech siva",
+      "rating": 5,
+      "relative_date": "Edited 3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwNzgtWEZ3EAE",
+      "author": "shriram chowdary",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "I had a wonderful experience at the kid's dental clinic. The staff was incredibly friendly and made my child feel comfortable throughout the visit. The waiting area was kid friendly. The dentist was patient and explained things in a way that my child could understand. Overall, it's a fantastic place for kids to receive dental care.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwajhIT0VnEAE",
+      "author": "Pranavi Sagar",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "I heard about this hospital  from my colleague.Good doctor, very caring and soft spoken.He is a dedicated doctor.we can freely interact with doctor.Staff were polite.one of the best doctors I visited.Most of the times he avoid unnecessary surgery.Thank you and best wishes for the future.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwMTRyY2Z3EAE",
+      "author": "Kolla Rahul",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwbzVmdmpRRRAB",
+      "author": "Nagulshareef Sk",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwb19tX2RBEAE",
+      "author": "VENKATA GOPICHAND",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "The staff has been very kind and empathetic",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwMW9ESkNREAE",
+      "author": "Sukanya Komarneni",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNweHVIbVpnEAE",
+      "author": "Sam Sid",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "I have visited 3-4 clinics not satisfied with persistent dental issues finally went here with zero expectations through a friend’s reference & its the best treatment & price is on point.\nDoctor is available anytime just a call away for any queries you have.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNweHY2amlBRRAB",
+      "author": "Prathyusha Yelavarthi",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "One of the finest clinics i’ve seen, not just the treatment & ambience but the doctor is extremely friendly & professional u won’t regret choosing this clinic for any dental issue.\nAlso comparatively best prices with utmost quality traetment.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNweHY3RGR3EAE",
+      "author": "Murali Krishna",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Came for for skin whitening . Took sessions and got the result . Very happy at affordable range. Staff are very friendly and cooperative",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNweHQ3ZWJBEAE",
+      "author": "Phani Kumar",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Best dental clinic at affordable cost. Got implant treatment done .it was very well treated without any pain and I am very comfortable. I thank Dr Harish garu for giving the best treatment .",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwOHZySHNBRRAB",
+      "author": "Sandhya Ganguri",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Good receiving and well explained the problem and solution... Must visit place for your Dental requirements.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwc09fb2hnRRAB",
+      "author": "V R Guntupalli",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKN2JuZXRnRRAB",
+      "author": "Dr.Sree Vidya",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKN2JuZXVRRRAB",
+      "author": "Sandeep Puppala",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Very good job done for my 7 year old daughter",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKN2Q2eWtBRRAB",
+      "author": "Durga prasadnaik",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Good treatment\nGood Doctor",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURKcllfU053EAE",
+      "author": "Roopa Bharathi",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Very nice treatment with reasonable fee structure with friendly service",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURKOGVyQmZnEAE",
+      "author": "Ramesh Kamatham",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKN3BTNXdBRRAB",
+      "author": "Swarangi sampath",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURKcnVpalFREAE",
+      "author": "genimesetti shankar",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURKenJiWVNnEAE",
+      "author": "Lnvmounika Tavva",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKNF9hZWl3RRAB",
+      "author": "bhavana reddy",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "I visited hospital for teeth removal firstly I was tensed as it to long time to remove and for that pain I have gone to imagination that pain kills me and some etc stuff🤔...but after the surgery I have no pain and super comfortable......sure I am gone visit for other time if in need.thank you ♥️ …",
+      "maybe_truncated": true,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKcWNXUlh3EAE",
+      "author": "mabu subhani",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "I came here for the root canal treatment. The doctor explained clearly what is the treatment and how it’s done. And the operation went smoothly and I didn’t feel any pain later. I have got the cap and it fits perfectly and matches the color of my teeth. The staff and assistant doctors are friendly. I extremely recommend this place for all types of dental issues…..",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKalBfdmlBRRAB",
+      "author": "Srinu naik",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Good treatment....thank you for dr.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKcExhT2RnEAE",
+      "author": "Soubagya lakshmi Nallapaneni",
+      "rating": 4,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR4NTZtZnFBRRAB",
+      "author": "Para Hemanth",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "It is quick and easy. Fixed my tooth",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR4X2JyRHZRRRAB",
+      "author": "Kishore tek",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR4NnZILXZBRRAB",
+      "author": "Sailakshmi Sanagapalli",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Good",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR4bXNQTC1nRRAB",
+      "author": "kalyan reddy ambati",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Excellent service",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4Nm9ub1dnEAE",
+      "author": "Meena Aakisetty",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Came with hair loss problem....good recieving from the doctor and goodd explanation...best clinic",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR4NnVIRzBBRRAB",
+      "author": "Hema sundar Meduri",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Very nice and good treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR4LU1fd3hnRRAB",
+      "author": "Tabitha Taby",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4Mkk3WEd3EAE",
+      "author": "devayani sukumar",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR4b0l2TXd3RRAB",
+      "author": "Kanna Racharla",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4cjhQT05nEAE",
+      "author": "ramanareddy polimera",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Good",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4cjZLeEJnEAE",
+      "author": "Charan sai Ramineni",
+      "rating": 4,
+      "relative_date": "3 years ago",
+      "text": "Good",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN4cjRpYXlnRRAB",
+      "author": "Ramesh Jeldi",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN4cjRDLXZ3RRAB",
+      "author": "Krishnamurthy Gudi",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN4MTZ6MHZnRRAB",
+      "author": "venky mak",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4azVLckVREAE",
+      "author": "Shaik Subhani",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4azZTZVdBEAE",
+      "author": "Lakshman Mamidala",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4eWVtZVRnEAE",
+      "author": "Rayapudi Prakash143",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Treatment of the disease",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN4a1lQbC1BRRAB",
+      "author": "Tejodbhav Koduru",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Best Doctor for root canal treatment. Clinic is very neat and aesthetic.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4b2I2dkFREAE",
+      "author": "Manish Kurakula",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "I came here for wisdom teeth removal. The ambience of clinic was very good and the staff are very friendly and Cooperative. Dr Harish sir removed my wisdom teeth without any pain. Felt very comfortable. One of the best dental clinic in Guntur . I recommend everyone to visit for your dental , skin and Hair problems",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4b1o2X1pBEAE",
+      "author": "Pavani Namala",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "I came for root canal treatment with swelling and pain. The treatment was very good. The fee is reasonable. Dr harish sir is the best dentist in guntur. I recommend everyone here",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4aG95YmVREAE",
+      "author": "Kotteswarao T",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Good treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSdy1tQ3RRRRAB",
+      "author": "sireesha muppalla",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Thank you harish chowdary sir. He did a great job. I'm very much satisfied.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNSaS1LcmNBEAE",
+      "author": "aditya kuladeep",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNSaTZqQlhnEAE",
+      "author": "Padma Ch",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNSMDlPTVp3EAE",
+      "author": "belagavisheepfactor123",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Best dental in guntur and great services",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNSZzdLWURBEAE",
+      "author": "sushmaprasanna tavva",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "My left side cheek got swelling for 2 months. I consulted Dr. Harish. He checked and informed me it is dentigerous cyst and i undergone surgery for the same.My surgery went safe and sterilized. He treats the patients very well.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNSb3JqNE5REAE",
+      "author": "Kommineni Chinakoteswararao",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Very nice and courtious receiving. Plesent and good  treatment..overall superb.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNSbk9XZWR3EAE",
+      "author": "Ram Prasad",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNSbklqYTNRRRAB",
+      "author": "Himabindu Himabindu",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURoeU8tRmx3RRAB",
+      "author": "surya ramisetty",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURoMEwteEdnEAE",
+      "author": "Swaroopa Makireddy",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Excellent treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNoLXZYQmFnEAE",
+      "author": "Sagi Hemalatha",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Had came for dandruff treatment for me.the treatment was very good.my husband went for tooth cleaning.excellent result.i thank the doctor .pleasant ambience and reasonable prices",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNoNnI2dmNREAE",
+      "author": "lakshmi devi",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Good receiving....",
+      "maybe_truncated": true,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNoX011RHNBRRAB",
+      "author": "Navya Chalamala2006",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Nice",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNoN01LSG9nRRAB",
+      "author": "IrfanBhasha Shaik",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "The way Doctor treats patient is so good and highly appreciated.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCdDhQUWRREAE",
+      "author": "Srinivas Sooragani",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "This clinic is very clean and hygiene. Here doctor Harish is very experienced in root canal treatment and he treated me very well. Also, he and his team of doctors fixed my complex teeth problem very effectively. I would recommend this clinic for any root canal or dental related problems.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCeF9iT0ZBEAE",
+      "author": "Shaik Basha",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "I have visited doctor Kommineni for dental filling and he did it painlessly, very friendly and the fee is reasonable. You can visit Kommineni without any second thought for all dental issues.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCcTV1NFJ3EAE",
+      "author": "Chelsia Kolagani",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Truely Great !! Must go for all your Dental, hair ,skin problems. Pleasant Ambience.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURCcV9QRzhBRRAB",
+      "author": "Amulya Ammu",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "I did my root canal treatment and cap.the treatment was very good and painless and doctor and staff was very friendly ambience was very good.i would definitely recommend to kommineni dental and craniofacial clinic.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCZzRPeGRREAE",
+      "author": "Kanikutla Subbaiah",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURCZzRXUXh3RRAB",
+      "author": "Sandeep Shetty",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Best dental in guntur",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    }
+  ],
+  "reviews_error": "",
+  "sorted_newest": true,
+  "stopped_at_known_review": false,
+  "reviews_captured": 243,
+  "owner_replies": 140,
+  "truncated_reviews": 14,
+  "reviews_coverage": 1.0,
+  "date_anchor": "2026-08-20T18:57:55",
+  "extract_seconds": 51.2,
+  "missing_fields": [],
+  "listing_position": 53,
+  "source_query": "dermatologists in Guntur",
+  "listing_name": "Kommineni Dental and Cosmetic Clinic - Best Dental Hospital in Guntur"
+}

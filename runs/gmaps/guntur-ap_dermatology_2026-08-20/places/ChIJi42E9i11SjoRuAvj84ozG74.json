@@ -1,0 +1,108 @@
+{
+  "key": "ChIJi42E9i11SjoRuAvj84ozG74",
+  "tier": "full",
+  "complete": true,
+  "place_url": "https://www.google.com/maps/place/Dr.+Usha+Rani+Perali+Skin+Clinic/data=!4m7!3m6!1s0x3a4a752df6848d8b:0xbe1b338af3e30bb8!8m2!3d16.3087497!4d80.4177228!16s%2Fg%2F11mn83kzql!19sChIJi42E9i11SjoRuAvj84ozG74?authuser=0&hl=en&rclk=1",
+  "captured_at": "2026-08-20T23:14:13",
+  "rank": 18,
+  "place_id": "ChIJi42E9i11SjoRuAvj84ozG74",
+  "feature_id": "0x3a4a752df6848d8b:0xbe1b338af3e30bb8",
+  "kg_mid": "/g/11mn83kzql",
+  "lat": 16.3087497,
+  "lng": 80.4177228,
+  "dup_of_rank": null,
+  "has_online_booking": false,
+  "booking_url": "",
+  "booking_vendor": "",
+  "service_options": null,
+  "permanently_closed": false,
+  "temporarily_closed": false,
+  "status_text": "Closed · Opens 6 pm Fri",
+  "open_now": false,
+  "is_ad": false,
+  "review_snippet": "",
+  "name_raw": "Dr. Usha Rani Perali Skin Clinic",
+  "name_clean": "Dr. Usha Rani Perali Skin Clinic",
+  "name_key": "drusharaniperaliskinclinic",
+  "name_dropped": [],
+  "name_was_cleaned": false,
+  "category": "Dermatologist",
+  "card_category": "Dermatologist",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "Sankar Medicals & General Stores, Opp. Apollo Pharmacy, beside Mee-Seva, Pattabhipuram, Guntur, Andhra Pradesh 522006",
+  "plus_code": "8C59+F3 Guntur, Andhra Pradesh",
+  "phone": "",
+  "website": "http://docon.co.in/doctor/usharaniperali",
+  "website_domain": "docon.co.in",
+  "website_type": "aggregator_profile",
+  "insecure_http": true,
+  "has_own_website": false,
+  "website_matches_name": false,
+  "rating": 4.8,
+  "reviews_total": 23,
+  "rating_histogram": {
+    "5": 21,
+    "4": 1,
+    "3": 0,
+    "2": 0,
+    "1": 1
+  },
+  "histogram_sum": 23,
+  "histogram_reconciles": true,
+  "topics": {
+    "urticaria treatment": 2,
+    "diagnosis": 2,
+    "treatment": 2,
+    "doctor": 2
+  },
+  "google_profile_gaps": [
+    "Add place's phone number"
+  ],
+  "has_photos": true,
+  "hours": {
+    "Thursday": "10 am to 2 pm, 4:30 to 5:30 pm, 8 to 9 pm",
+    "Friday": "10 am to 2 pm, 4:30 to 5:30 pm, 8 to 9 pm",
+    "Saturday": "10 am to 2 pm, 4:30 to 5:30 pm, 8 to 9 pm",
+    "Sunday": "10 am to 1 pm",
+    "Monday": "10 am to 2 pm, 4:30 to 5:30 pm, 8 to 9 pm",
+    "Tuesday": "10 am to 2 pm, 4:30 to 5:30 pm, 8 to 9 pm",
+    "Wednesday": "10 am to 2 pm, 4:30 to 5:30 pm, 8 to 9 pm"
+  },
+  "about": {
+    "Map details": [
+      "Transit",
+      "Traffic",
+      "Biking",
+      "Terrain",
+      "Street View",
+      "Wildfires",
+      "Air Quality"
+    ],
+    "Map tools": [
+      "Travel time",
+      "Measure"
+    ],
+    "Map type": [
+      "Default",
+      "Satellite",
+      " Globe view ",
+      " Labels"
+    ]
+  },
+  "reviews": [],
+  "reviews_error": "reviews pane did not open",
+  "sorted_newest": false,
+  "reviews_captured": 0,
+  "owner_replies": 0,
+  "reviews_coverage": 0.0,
+  "date_anchor": "2026-08-20T23:14:13",
+  "extract_seconds": 56.1,
+  "missing_fields": [
+    "phone",
+    "reviews"
+  ],
+  "page_rendered": true,
+  "error": ""
+}

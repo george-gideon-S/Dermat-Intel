@@ -1,0 +1,114 @@
+{
+  "place_url": "https://www.google.com/maps/place/Dr.vijay%27s+skin+Dental+%26+Ent+clinic/data=!4m7!3m6!1s0x3a4a75f7c195ea2b:0xa21d1fb5013be339!8m2!3d16.2990634!4d80.4507311!16s%2Fg%2F11gwmt5zmj!19sChIJK-qVwfd1SjoROeM7AbUfHaI?authuser=0&hl=en&rclk=1",
+  "captured_at": "2026-08-20T19:52:36",
+  "feature_id": "0x3a4a75f7c195ea2b:0xa21d1fb5013be339",
+  "place_id": "ChIJK-qVwfd1SjoROeM7AbUfHaI",
+  "kg_mid": "/g/11gwmt5zmj",
+  "lat": 16.2990634,
+  "lng": 80.4507311,
+  "name_raw": "Dr.vijay's skin Dental & Ent clinic",
+  "name_clean": "Dr.vijay's skin Dental & Ent clinic",
+  "name_key": "drvijaysskindentalentclinic",
+  "name_dropped": [],
+  "name_was_cleaned": false,
+  "category": "Dermatologist",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "1) c/o Dr.vijay's cosmetology clinic, beside communist office, Kothapeta, Guntur, Andhra Pradesh 522001",
+  "plus_code": "7FX2+J7 Guntur, Andhra Pradesh",
+  "phone": "",
+  "website": "",
+  "website_domain": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "insecure_http": false,
+  "website_matches_name": null,
+  "rating": 3.7,
+  "reviews_total": 3,
+  "rating_histogram": {
+    "5": 2,
+    "4": 0,
+    "3": 0,
+    "2": 0,
+    "1": 1
+  },
+  "histogram_sum": 3,
+  "histogram_reconciles": true,
+  "topics": null,
+  "google_profile_gaps": [
+    "Add place's phone number",
+    "Add hours",
+    "Add website"
+  ],
+  "has_photos": true,
+  "hours": null,
+  "about": {
+    "Map details": [
+      "Transit",
+      "Traffic",
+      "Biking",
+      "Terrain",
+      "Street View",
+      "Wildfires",
+      "Air Quality"
+    ],
+    "Map tools": [
+      "Travel time",
+      "Measure"
+    ],
+    "Map type": [
+      "Default",
+      "Satellite",
+      " Globe view ",
+      " Labels"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURPeW8zWlp3EAE",
+      "author": "Raghava Kumar",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR5a1BpTkx3EAE",
+      "author": "Ajay Reddy",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "Excellent clinic",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURJNXRhdm13RRAB",
+      "author": "Pappyjoe India",
+      "rating": 1,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    }
+  ],
+  "reviews_error": "",
+  "sorted_newest": true,
+  "stopped_at_known_review": false,
+  "reviews_captured": 3,
+  "owner_replies": 0,
+  "truncated_reviews": 0,
+  "reviews_coverage": 1.0,
+  "date_anchor": "2026-08-20T19:52:36",
+  "extract_seconds": 70.5,
+  "missing_fields": [
+    "phone",
+    "website",
+    "hours"
+  ],
+  "listing_position": 96,
+  "source_query": "dermatologists in Guntur",
+  "listing_name": "Dr.vijay's skin Dental & Ent clinic"
+}

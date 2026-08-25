@@ -1,0 +1,163 @@
+{
+  "key": "ChIJqeSy6kR1SjoRKhH-4rAH6OI",
+  "tier": "full",
+  "complete": true,
+  "place_url": "https://www.google.com/maps/place/GUNTUR+CLINIC+T.KRISHNAMURTHY/data=!4m7!3m6!1s0x3a4a7544eab2e4a9:0xe2e807b0e2fe112a!8m2!3d16.3043266!4d80.439614!16s%2Fg%2F11f15jpfdx!19sChIJqeSy6kR1SjoRKhH-4rAH6OI?authuser=0&hl=en&rclk=1",
+  "captured_at": "2026-08-20T23:50:09",
+  "rank": 48,
+  "place_id": "ChIJqeSy6kR1SjoRKhH-4rAH6OI",
+  "feature_id": "0x3a4a7544eab2e4a9:0xe2e807b0e2fe112a",
+  "kg_mid": "/g/11f15jpfdx",
+  "lat": 16.3043266,
+  "lng": 80.439614,
+  "dup_of_rank": null,
+  "has_online_booking": false,
+  "booking_url": "",
+  "booking_vendor": "",
+  "service_options": null,
+  "permanently_closed": false,
+  "temporarily_closed": false,
+  "status_text": "",
+  "open_now": null,
+  "is_ad": false,
+  "review_snippet": "\"Compounder is suggesting medicine to doctor\"",
+  "name_raw": "GUNTUR CLINIC T.KRISHNAMURTHY",
+  "name_clean": "GUNTUR CLINIC T.KRISHNAMURTHY",
+  "name_key": "gunturclinictkrishnamurthy",
+  "name_dropped": [],
+  "name_was_cleaned": false,
+  "category": "Hospital",
+  "card_category": "Hospital",
+  "category_mismatch": false,
+  "relevance": "adjacent",
+  "basis": "base_generic_medical",
+  "address": "8C3Q+PRQ, Arundelpet, Guntur, Andhra Pradesh 522002",
+  "plus_code": "",
+  "phone": "86332221608",
+  "website": "",
+  "website_domain": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "insecure_http": false,
+  "website_matches_name": null,
+  "rating": 3.5,
+  "reviews_total": 8,
+  "rating_histogram": {
+    "5": 2,
+    "4": 3,
+    "3": 1,
+    "2": 1,
+    "1": 1
+  },
+  "histogram_sum": 8,
+  "histogram_reconciles": true,
+  "topics": null,
+  "google_profile_gaps": [
+    "Add hours",
+    "Add website"
+  ],
+  "has_photos": true,
+  "hours": null,
+  "about": {
+    "Map details": [
+      "Transit",
+      "Traffic",
+      "Biking",
+      "Terrain",
+      "Street View",
+      "Wildfires",
+      "Air Quality"
+    ],
+    "Map tools": [
+      "Travel time",
+      "Measure"
+    ],
+    "Map type": [
+      "Default",
+      "Satellite",
+      " Globe view ",
+      " Labels"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25seVZEVmphV0l0T0MxVFRVTnZabUZQYVRJd1ZXYxAB",
+      "author": "Bhanu chandra Reddy G",
+      "rating": 4,
+      "relative_date": "6 months ago",
+      "text": "Use full",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGcWRtUnlabkpDTmpWd1EzSmthWHBSWnpWM1dsRRAB",
+      "author": "Sahit",
+      "rating": 2,
+      "relative_date": "6 months ago",
+      "text": "Compounder is suggesting medicine to doctor",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3LWJ5YW53RRAB",
+      "author": "Rajendra Prasad Doppalapudi",
+      "rating": 1,
+      "relative_date": "a year ago",
+      "text": "He is much old enough to retire, he is giving prescription by seeing medicine printed on his table, he is one of the best before 10 years and not worthy now...... If u don't believe me then go and watch urself",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNlOUlPdzdnRRAB",
+      "author": "Aditya raju",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Very good doctor with minimal fees and perfect medicines",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1bU1HNGx3RRAB",
+      "author": "Kalesha vali Kakarla",
+      "rating": 4,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNxak56YmNnEAE",
+      "author": "Runil Sidha",
+      "rating": 3,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNDaXJhb1RBEAE",
+      "author": "Giri Rebal",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURVc3JtNkxBEAE",
+      "author": "Anirudh Rocker",
+      "rating": 4,
+      "relative_date": "7 years ago",
+      "text": "",
+      "has_owner_reply": false
+    }
+  ],
+  "reviews_error": "",
+  "sorted_newest": true,
+  "stopped_at_known_review": false,
+  "reviews_captured": 8,
+  "owner_replies": 0,
+  "reviews_coverage": 1.0,
+  "date_anchor": "2026-08-20T23:50:09",
+  "extract_seconds": 65.4,
+  "missing_fields": [
+    "plus_code",
+    "website",
+    "hours"
+  ],
+  "page_rendered": true,
+  "error": ""
+}

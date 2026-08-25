@@ -1,0 +1,1946 @@
+{
+  "place_url": "https://www.google.com/maps/place/PILES+CLINIC/data=!4m7!3m6!1s0x3a4a7539d204c8cd:0x3dc8fabda1dc5fb3!8m2!3d16.2908474!4d80.4415386!16s%2Fg%2F11h9ybdc9_!19sChIJzcgE0jl1SjoRs1_cob36yD0?authuser=0&hl=en&rclk=1",
+  "captured_at": "2026-08-20T18:56:35",
+  "feature_id": "0x3a4a7539d204c8cd:0x3dc8fabda1dc5fb3",
+  "place_id": "ChIJzcgE0jl1SjoRs1_cob36yD0",
+  "kg_mid": "/g/11h9ybdc9",
+  "lat": 16.2908474,
+  "lng": 80.4415386,
+  "name_raw": "PILES CLINIC",
+  "name_clean": "PILES CLINIC",
+  "name_key": "pilesclinic",
+  "name_dropped": [],
+  "name_was_cleaned": false,
+  "category": "Medical clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "irrelevant",
+  "basis": "name_veto:piles",
+  "address": "7CRV+C6J Hindu College back side, Grand Trunk Rd, near vegetable market, near Karnataka Bank, Adapa Bazar, R Agraharam, Guntur, Andhra Pradesh 522003",
+  "plus_code": "",
+  "phone": "094419 78750",
+  "website": "",
+  "website_domain": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "insecure_http": false,
+  "website_matches_name": null,
+  "rating": 4.9,
+  "reviews_total": 204,
+  "rating_histogram": {
+    "5": 200,
+    "4": 1,
+    "3": 0,
+    "2": 0,
+    "1": 3
+  },
+  "histogram_sum": 204,
+  "histogram_reconciles": true,
+  "topics": {
+    "fistula treatment": 34,
+    "ayurvedic treatment": 5,
+    "low cost treatment": 9,
+    "fast recovery": 9,
+    "short time pain relief": 5,
+    "family doctor": 3,
+    "trusted doctor": 6,
+    "painless treatment": 2,
+    "no operation": 2,
+    "no side effects": 3
+  },
+  "google_profile_gaps": [
+    "Add website"
+  ],
+  "has_photos": true,
+  "hours": {
+    "Thursday": "9:30 am to 1 am",
+    "Friday": "9:30 am to 1 pm, 5 to 8 pm",
+    "Saturday": "9:30 am to 2 pm, 5 to 8 pm",
+    "Sunday": "9:30 am to 12 pm",
+    "Monday": "9:30 am to 1 pm, 5 to 8 pm",
+    "Tuesday": "9:30 am to 1 pm, 5 to 8 pm",
+    "Wednesday": "9:30 am to 1 pm, 5 to 8 pm"
+  },
+  "about": {
+    "Accessibility": [
+      " Wheelchair-accessible car park",
+      " Wheelchair-accessible toilet"
+    ],
+    "Payments": [
+      " Google Pay"
+    ],
+    "Map details": [
+      "Transit",
+      "Traffic",
+      "Biking",
+      "Terrain",
+      "Street View",
+      "Wildfires",
+      "Air Quality"
+    ],
+    "Map tools": [
+      "Travel time",
+      "Measure"
+    ],
+    "Map type": [
+      "Default",
+      "Satellite",
+      " Globe view ",
+      " Labels"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205dGVtNDViVjlUYVZWb2NWVXdlbXhFTUZKTU0zYxAB",
+      "author": "V Babu",
+      "rating": 5,
+      "relative_date": "3 weeks ago",
+      "text": "I meet doctor p roy  garu very good doctor treatment good best piles hospital all fistula problems",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ORlIydG9SMmxDV21Rd1RWWTJiemx3VlhVNVVGRRAB",
+      "author": "R K",
+      "rating": 5,
+      "relative_date": "4 weeks ago",
+      "text": "I meet doctor P.roy garu by seeing Google reviews with fissure problem suffering from past 1.5 years, Roy garu treatment was good and giving answers to every question with smile and every day his guidance and support is well thanks to Roy garu i will strongly recommend this is best clinic for all piles,fistula, fissure problems with reasonable cost .",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkUE56RmFWRUpWTTBaamNsVnJkMVozVW10YU5IYxAB",
+      "author": "Mahesh naidu Tanniru",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "Excellent",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0RFprOHpaamxOTTJWWE1HeG9SemhET0MxcWFuYxAB",
+      "author": "kasimvaligannarapu",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "Thank you to the Piles Clinic team for the excellent treatment and care. The doctor were very kind, professional, and supportive throughout the process. I truly appreciate your service. Highly recommended!\"\nThanks annaya",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sVWRFZERTRmhuZDBRelV6bFhSbE53ZFZoYWFHYxAB",
+      "author": "Ashok Anisetty",
+      "rating": 5,
+      "relative_date": "2 months ago",
+      "text": "Very good doctor\nTreatment good best hospital all piles problems friendly doctor",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOUVZWSnNjRU5FVjFwYU1HRkpiSEl5V1RWWFlXYxAB",
+      "author": "Sasidhar Desu",
+      "rating": 5,
+      "relative_date": "2 months ago",
+      "text": "Treatment is good and doctor listen to my problem and explains the procedure snd treatment is absolutely perfect and good .\nThis hospital is recommended .",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WR2JGUnZSVlZDYURrMmFtUmlWM1ZRV0UwMVdGRRAB",
+      "author": "Anuradha O",
+      "rating": 5,
+      "relative_date": "2 months ago",
+      "text": "Satisfied",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psU1FqZzRRMjlPUTBNd2JHYzNlbTlQVFMxMk9GRRAB",
+      "author": "Rambabunaik Nenavath",
+      "rating": 5,
+      "relative_date": "3 months ago",
+      "text": "I had an excellent experience with the doctor during my blood engorgement porcoedure. Their treatment was top .notch  they explained each step cleely .and the care they provided was outstanding. There also gave us a detailed diet and post procedure guidance, which  l found really valuable to follow. Most of the life style will cannel by maintain the info they have given to the.....",
+      "maybe_truncated": true,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWUllVVkZZWFpLUVdkMk0wTk9RalkwU2xoRWFWRRAB",
+      "author": "Shaik Nusrat",
+      "rating": 5,
+      "relative_date": "3 months ago",
+      "text": "Very good hospital good treatment my fissure problem .",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCZlJGaElkbkJWUVU1UE5GbE5SRmx2Y21Wek5sRRAB",
+      "author": "padmavathi padhu",
+      "rating": 5,
+      "relative_date": "5 months ago",
+      "text": "I have recovered from fissure with a short time , sir was given very good treatment and provided a effective information after treatment thankyou so much sir I have more in this problem before I met this clinic with a short time I have recovered with happy smile and don't have any side effects ...",
+      "maybe_truncated": true,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aQ2FXbFViVkJ6YnpSZmRVUlhRVXB1VmpSM1dsRRAB",
+      "author": "Kulli Yesurathnam",
+      "rating": 5,
+      "relative_date": "5 months ago",
+      "text": "Very good hospital good treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kcmMwNTNiRTEwU1RWNWJGaEtTbWR1UkROSFVuYxAB",
+      "author": "Venkatasubbarao",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wQlVtUTNZakZDT1VOWVNHMXBhbUUxVDJadlRHYxAB",
+      "author": "Karthi Naik",
+      "rating": 1,
+      "relative_date": "7 months ago",
+      "text": "This the hospital without any staff nd medicaments they are using the expired drugs",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sMFV6WXRPSGR5WW1OM1ltbEVVazVSU1UxSk5XYxAB",
+      "author": "Gopi Chand",
+      "rating": 1,
+      "relative_date": "7 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxalVUVlZXVmxFYlhWRFkyTldZMk5LYm01eFlWRRAB",
+      "author": "Rayapudi Nagarjuna",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "I had undergone treatment for a anal fistula, and I am extremely grateful to the doctor for the excellent care and guidance throughout the process.\nFrom the first consultation, the doctor explained my condition very clearly and reassured me, which removed a lot of fear and anxiety. The treatment with seton thread was handled very skillfully and patiently.\nWhat I really appreciate is the daily wound monitoring, timely application of medicines, and the doctor’s calm attitude in answering even small doubts. Whenever there was a minor issue during healing, it was addressed immediately and professionally.\n\nToday, my fistula is completely healed, the seton has been removed, and the doctor confirmed that everything is fine. The recovery was smooth and well-managed under his supervision.\n\nI strongly recommend this doctor to anyone suffering from fistula or related anorectal problems. A very knowledgeable, caring, and trustworthy doctor who genuinely focuses on patient recovery and very budget friendly.\nThank you doctor for your dedication and support 🙏🙏🙏",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214ck5qSndTWFJvWlZvM2RtMTBhR2xxVDJkMU1FRRAB",
+      "author": "Ratham Ratham",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tVNE9FRkVZbVZhVlVoWlV6aFpjRXRyVG5FNE1sRRAB",
+      "author": "Siva Porumalla",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "I am very happy.lt s very treatment.lreally feel satisfied Good communication good doctor.fissure treatment and had an excellent experience one of the best offering non surgical treatment with guarantee............dr p roy thank you sir",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w4d1NtOTRlVkl6UmxRM1IzRnBiWGRGVGxONmRtYxAB",
+      "author": "Anil Kumar",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "Doctor is very good equal to God No words my pain\nis maximum clear just a few days",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pnNGJtTXdiR3htZFRkYWRWZFFYeTFFY25GU1NXYxAB",
+      "author": "apparao damalapati",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "Good treatment very good l rally feel satisfied good communication thank you and may god biess him........",
+      "maybe_truncated": true,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CSVRYSlJSams1WVd4WlpWbFVVRVZTWmpkdmJWRRAB",
+      "author": "Nagamalleswarao Narra",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "Good treatment and friendly doctor experience in hsptl.l m satisfied the treatment.brst clinic guntur l am happy....,",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xjd2JVMWthM0pTYldWMGJWTklVSFZJV1VKc09WRRAB",
+      "author": "ABIBUDDIN SHAIK",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xaGNYZDBURkphUm1scGMweHhPR2RvT1djeE5IYxAB",
+      "author": "meghashyam d",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "I had went with a serious fissure problem with lot of pain but with 15 days my problem had solved day by day now I am happy thanks to pranab sir",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKdlF6QTJkWEF5V1RCc2VWZGFNMFpoTFhoeWMyYxAB",
+      "author": "Zabi MA",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "It’s very treatment I really feel satisfied good communication thank you and may God bless him",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOMVkxTTNPRVJzVFZONmNITmpNbE5OZUcxTlpuYxAB",
+      "author": "Sada Sivarao",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "Doctor guru very friendly personand treatment is very good.good and caring person.\nExpress my heartfelt gratitude for the exceptional care and treatment l received from.dr p Roy guru from the moment l walked into the time to listen carefully to my concern.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGMk9GTjJieTF2YkhGVlgzcG5XRXBVVkZWSVVsRRAB",
+      "author": "Hanumantharao Pothuraju",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "Fistula Happy ka unnanu Chala bagundi Naaku",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tjd2RFTkhTQzFDWkVnd1RFbFZMVTVWV0RsUWNtYxAB",
+      "author": "Deva Dasu",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "Doctor Garu good Chala Manchi doctor Garu andarini manchiga choose kuntaru",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKRVdqRjBVa1JXWlc1dU9WOXdTRlJrVjJ0eVgzYxAB",
+      "author": "Kumari Kakarala",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "very good treatment.l am happy na fissure problem tagipuindi Dr Roy chala thanks sir",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toVE4zZE5ka28zTmpkNmNXRjFXVEF4Um1OblJFRRAB",
+      "author": "Venkata Udhay Kiran Kumbha",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "Best with proper treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GcFNHMHRXVVZoV2tGbFYyZEtZM0JKTjBzelNIYxAB",
+      "author": "Aravind Macherla",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "Excellent for treatment.And doctor is very patience with patients like as a family member. 💯percent of diseases will be cured for sure.thanku you Dr. p.roy doctor sir. …",
+      "maybe_truncated": true,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sdmFHVnZRVlpDUTJaQ1RHWldlV1Y1TjJsRVpFRRAB",
+      "author": "Shaik Ashif",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "“The doctor has given very nice treatment with great care and attention. Their knowledge, experience, and friendly approach made the patient feel comfortable and confident throughout the process. With timely guidance and proper medication, the doctor ensured a quick recovery and provided excellent support at every step.”",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOUFRFVlVOVWRFTkZob2VrdDFiVFptV0hsTloyYxAB",
+      "author": "Gangasani Nagamalleswarao",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "Ivistrd this clinic guntur for fissure treatment and had an excellent experience one of the best offering non   surgical treatment with guarantee  .the treatment was effective  with follow   ups and great care .lhigly recommend this clinic for anyone dealing with similar issuer the positvet results received dr p roy garu .....",
+      "maybe_truncated": true,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sMFNYZ3RkVWRaYVhoZmN6SnZZWFYxVDFGZmNrRRAB",
+      "author": "B.Ram Anjaneyulu",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "Very good treatment very good service, very good Dr and also good clinic",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0RlFVVmhMVVZZWjFOc1RHcHhVMnd3TlVOTlZuYxAB",
+      "author": "RAVI Teja",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGclRUVkZSMnc1YUZwS1NIVmxiM2N6VFUxUFJsRRAB",
+      "author": "Mastanrao Kollipara",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "The best Hospital to Gave a Best Treatment for Piles,Pistula and Fishery i have suffered with Piles problem I take treatment for that problem here Dr.Roy sir was taking very Much Care About Patients And treatment was Excelent.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4R1h6bEdXbGxHVFRSVFZ6SlJNVGszUldKTVdFRRAB",
+      "author": "Regula Nagarjuna",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Very good treatment.excellence care by the doctor.i prefer this hospital as a mbbs student with lost cost fee for the treatment. And the doctor cares us as a family man until the recovery.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4R00zWTFYM3ByTFhWVGEzRnlRWEZFWmkxcmJsRRAB",
+      "author": "rajakumari Karna",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Very good treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21NNFgyRmpTRVZEWTJ0elp5MU5ORkpoVms5cWJVRRAB",
+      "author": "Kotaiah Chirumamilla",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Best treatment for fistula lsm suffering with fistula form last one year problem also clear my fistula treatment done at his clinic the result amazing......Dr p Roy garu ....thank you ....",
+      "maybe_truncated": true,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pseGJEUTNWemRIUTNCMVYwcElhVEJ3YWsxSlJVRRAB",
+      "author": "Yunus Shaik",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "100%best piace to get the treatment for fissures in guntur. Dr is genius price affordable aswell. Dr P roy garu thank you🙏🙏 …",
+      "maybe_truncated": true,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xBM1IwMVFUa28xUWpSNk9XazVaMnhsYjBsWUxYYxAB",
+      "author": "essak korrapati",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Very good Dr p Roy good treatment and fissures",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGWVMyMDFVa3RvZURCNU1GVldhMHB2VjJsS1lYYxAB",
+      "author": "suresh.masimukku 87",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Treament is very very good and dr. p rai excellent service thank you so much sir",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VMMjQxZE83bHFIbFpnEAE",
+      "author": "Yohan Korrapati",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Very good treatment.fissuer.l am happy thank you dr .p roy.garu",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VNX0F6WnZYajdfd19BRRAB",
+      "author": "Shaik Jilani",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Best clinic",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VPdWJoTjNNcm9IQ0JREAE",
+      "author": "Y Ram Chowdary Yandrapalli",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Treatment is very good for fissure dr sir has given friendly.treatment and excellent and excellent.service .he is always take care of everything.untill problem gone Dr p roy ...........",
+      "maybe_truncated": true,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZbXFMNlpREAE",
+      "author": "subhani kumar",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Treatment is very good for fissures. given friendly treatment and excellent service. He is always take care of everything until problem gone.. 100/curable low cost nice doctor. Dr. P roy. Thank you sir....",
+      "maybe_truncated": true,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJNXVMbkdBEAE",
+      "author": "Ahamadalli Sk",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "My father recovery very fast and doctor is like a friend for his patience",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3LXBLLTZ3RRAB",
+      "author": "Rosaiah Koduru",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Its good treatment\nThank you so much Dr Roy sir",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3NWZ1Q29RRRAB",
+      "author": "Naga Gopi",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Thank you to the doctor who quickly solved my biggest problem.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNBaTdhcXpBRRAB",
+      "author": "KASAIAH Palasa",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNBcmRuODNRRRAB",
+      "author": "Pavan kalyan Vasimalla",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Sir. was Friendly To Move To Every Patient , He Give A Best Medicen . Best Clinc For piles in Guntur",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNBdXR2VDlRRRAB",
+      "author": "Huseni Basha",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Chala bagundhi treatment Naku problem thaggipoyindhi karnool nuchi vacinanu doctor p Roy",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNfZ3BfOGF3EAE",
+      "author": "Abdulkhayyum Shaik",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Good treatment by Dr.Roy.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURQcnZQY1hnEAE",
+      "author": "Ganesh Koppu",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Was comfortable caring during the treatment. Aunt why. At end got my guarantee card. Thank you very much the doctor for csring my disease. Full satsfird with the treatment..... Dr. Phone Roy Garu.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURQMU9XWmpnRRAB",
+      "author": "Venkat Attaluri",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Treatment is very goog for freshure .Dr.P.Rai sir has given friendly treatment and excellent service,he is always take care of everythig untill problem gone.Thanks to Dr.P.Rai garu",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNQM2E2YjNRRRAB",
+      "author": "Singaiah Yadav (Lucky)",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "The procedure was very good for me\nI liked the treatment very much\nIt was done at a low cost\nI was suffering a lot due to fistula and now it is very good.\nDr. P. Roy",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNQbGNTY0RnEAE",
+      "author": "Bandaru TirumaleswaraRao",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Good piles clinic 👏 guntur \"  nice treatment …",
+      "maybe_truncated": true,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYOEpMSllBEAE",
+      "author": "Brahma Naidu",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Most senior doctor in this field & no 1 best fissure doctor in guntur . Very happy.got my problem cured . exllent doctor well experienced.thank you doctor s .....",
+      "maybe_truncated": true,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYN1lfNTJ3RRAB",
+      "author": "Satish Rajanala",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Good treatment i have fissure problem they care me a lot good experience i recommend it",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYaGU2Uk9REAE",
+      "author": "Ameer Khan",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I came here because I thought there were priests. I would have liked to see them here.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURudEs2eDJ3RRAB",
+      "author": "Khaza Shaik",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "The piles clinic doctor is most effective give genuine treatment.l recommend for this hospital.becoause doctor are more experienced about this problem l am suffering from fistula in piles clinic guntur ...💯% successfully treatment.l have good experience and my problem also solved.l am recovery very fast .thank you so much.p  Roy garu.........",
+      "maybe_truncated": true,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNuM19LTWtnRRAB",
+      "author": "Venkanna Naik",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Very excellent treatment.by . fissure treatment very.patiently and tires to come up with solutions...dr p roy low cost short time pain. No operation consult the doctor........ Piles clinic... Karnataka Bank....",
+      "maybe_truncated": true,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNucHNtNkNnEAE",
+      "author": "Bharathi Allam",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Very good Treatment lam happy. Dr p Roy garu thank you sir.....",
+      "maybe_truncated": true,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURIMFpPdm9RRRAB",
+      "author": "ASHOK REDDY",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "In this clinic treatment is very good and he is treating very deep with patients and what ever problem he treated good cost also low Dr. P.Roy",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURIa3RLM1lnEAE",
+      "author": "Sk. M Shaidavali",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Hachha treatment lagega\nMy bhot kush hu ye treatment se.... very good treatment l am very happy....Dr p roy ..garu.......low cost doctor.... thank you",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNIaHRyUjNRRRAB",
+      "author": "Guntupalli Lakshmi",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Very good",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNIN0tqSURBEAE",
+      "author": "Sivanagaraju Chiratanagalla",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Treatment very good.l am happy......",
+      "maybe_truncated": true,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNIaE52OXdnRRAB",
+      "author": "YADDANAPUDI Nageswara rao",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Very good treat ment I am very happy",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ3cFoycmtBRRAB",
+      "author": "Akbar Johiri",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Treatment is very good &Doctor receiving also very good my problem also clear....... Dr p roy garu thank you sir",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM3OTdxOVJ3EAE",
+      "author": "Siva lakshmi padamata Siva",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Repalle md bapataladt ma ammagareke ekadikevachenaka fisherproblem tagede",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM3MW9IS0NnEAE",
+      "author": "karimulla shaik",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Soverygoodtretment",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM3MVAzTGp3RRAB",
+      "author": "SHAIK basha",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I recently underwent treatment for a fistula under Dr.P.Rai and am extremely pleased with the outcome. From the initial consultation to the follow-up care, Dr.P.Rai demonstrated exceptional expertise and professionalism. The procedure was explained in detail, and all my questions were answered with patience and clarity.\n\nThanks to Dr.P.Rai's skill and dedication, my recovery has been swift and successful. I highly recommend Dr.P.Rai to anyone seeking a knowledgeable and caring specialist for fistula treatment.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURieXMtMldREAE",
+      "author": "Lakshmi Kanadam",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Very good treatment l am very happy... Dr p roy garu.. Thank you sir",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNieDRPNlZnEAE",
+      "author": "Tatikonda Chandra",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Best treatment for fistula lsm suffering with fistula form last one year wife friend told me go to piles clinic Guntur then after we come here in February and now iam completely cured thanks to doctor.......",
+      "maybe_truncated": true,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNibmN1dVJBEAE",
+      "author": "Sk Rasool",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Treatment is very good and doctor recieving also very good my problem also clear .my fissure treatment done at his clinic the result amazing .......",
+      "maybe_truncated": true,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNiM3NlWEF3EAE",
+      "author": "KASIRAO SETTIBATHINA",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Nenu markapuram naaku fisher problem bhagata ki poem di chala Santosh ka unnanu dr p Roy garu",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNicHVURTBBRRAB",
+      "author": "Nazeer Sk",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Very positive approach ND very effective treatment done by the doctor he is such a great Doctor Who pateincly hear the problem of the patient ND the cost is also very low  comparatively to others. Dr p Roy... Thank you sir",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNicE9YZ0JnEAE",
+      "author": "Eswar Naik",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Very good friendly doctor. the best treatment in the fissure and piles treatment in guntur. Verry verry good and Excelent Doctor. Dr.P.Roy",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNyNUpENVp3EAE",
+      "author": "siva nages wararao nadimpalli",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURMdk9HbVN3EAE",
+      "author": "Shaik Rasheed",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Iam suffering from this 9 months fresher promble my doctor has qure this problem in two months iam so happy my doctor is great",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURMdk1EeURnEAE",
+      "author": "Shiphrah Anju",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURMNVBqLWpRRRAB",
+      "author": "Veeranjaneyulu Prathivada",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "This is Best clinic ever visited the doctor (Garu) is very humble and good person thank you sir for best treatment 😊😊 …",
+      "maybe_truncated": true,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNMeGJTWEZBEAE",
+      "author": "Nageswarao Gummadidala",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Very good friendly doctor. the best treatment in the fistula and piles fisher treatment in guntur. Verry verry good",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNManN1MnRnRRAB",
+      "author": "Kswamy47 A",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Very good and low cost\nMy doctor is my God",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNMMHUtbllnEAE",
+      "author": "Aradala Nageswarao",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "The doctor is very expert infistuls the treatment was very good they receiving petition very carefully the doctor is most trusted person this low budget hospital is in guntur...successful treatment Dr p Roy garu ...... thank you very much.......",
+      "maybe_truncated": true,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR6LUp6dmV3EAE",
+      "author": "Yarramothu Manikanta",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Treatment is very good and Doctor receiving also very good my problem.low cost prise. Dr thank you very much.........",
+      "maybe_truncated": true,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN6MUtfcG53RRAB",
+      "author": "Babu Dupati",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I had a fisure problem\nI had get many problems but when I had constant a doctor in this hospital then my fissure problem had reduced\nAnd in this hospital has a low lost and give respect like a family doctor to patients\nThank you sir for carring us",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN6MVBMem93RRAB",
+      "author": "morla satish",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I got a fistula but I don't know it's a fistula after 1mnth i knew it was fistula then I consult normal doctors no use for there solution later I consult piles clinic guntur it was amazing result 100% curable. Low cost Nice doctor. Thank you.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURUOGVLN3R3RRAB",
+      "author": "Kale.Harathidevi Devi",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Verygoodtreetment.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURUMGRTZUdBEAE",
+      "author": "pilli john",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Nice treatment in Guntur",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURUOXJqblFBEAE",
+      "author": "Venkatesh Janapa",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Treatment is very good and doctor receiving also very good my problem also clear l am happy  ........",
+      "maybe_truncated": true,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNUaTd1dE13EAE",
+      "author": "Ramprasad Jalasutram",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Excellent treatment Dr poy garu .l am soo happy lrecovered very well because of you both doctor friendly and way of talking superb best piles hospital in guntur...and he is the our family Dr .........",
+      "maybe_truncated": true,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNUM3ViVU9REAE",
+      "author": "Salman khan Pathan",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "He is the our family doctor , they are treat very well & his service also very nice , reasonable price for medicine . So , every one contact him for piles , elergy ,etc. Problems then will be satisfied.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURqbjRySmNnEAE",
+      "author": "Durgarao Bandaru",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Very excellent treatment .by fistula treatment very very patientty and to come up with solutions.. Dr p Roy sir ... thanks you....sir",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURqbjRqVE5REAE",
+      "author": "Raja Chintala",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Iam suffering from fissure since  2 years. Tried hospital but on use. I came to a p Roy sir hospital after seeing Google reviews. Very  well treated .low cast .l have seen a doctor with os much patience. His assistant also treated carefully. Doctor  sir gave senocond for his profession it is a service.  T.....",
+      "maybe_truncated": true,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNqMHVDMWV3EAE",
+      "author": "Sk JABBAR",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Very excellent treatment by.fissure treatment problem very patiently and tires to come up with solutions............",
+      "maybe_truncated": true,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNqX1B1T3JRRRAB",
+      "author": "Srikanth naik Dr",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "( Piles clinic in guntur  market  center)100 % garent treatment don't surgery only for medicines..  Freshers prblm,fistulla problem all clearly Dr : roy  Ayurvedic my name brahmam completely my piles clearly and good conditions no side affect",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUREdzVTREh3EAE",
+      "author": "Mounika Tamma",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Very excellent treatment by Doctor. highly recommended.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUREOFpPN2d3RRAB",
+      "author": "ravi chilla",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Excellent treatment and good cooperation",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUREMnNXUjZBRRAB",
+      "author": "devanaboyina atchaiah",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Nenu Dr Rai Gari Daggara 2 years back piles ki treatment thisukovàtam jarigindi.2 months lo poorthiga thaggipoyindi.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUREd1BQWkRBEAE",
+      "author": "Venkat rao",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Very good treatment.....l am very very happy choose this plies clinic.....thank Dr p Roy Garu ...................",
+      "maybe_truncated": true,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNELTliemR3EAE",
+      "author": "Mani Kanta Gorantla",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "The treatment is very good, 100% of the problem is being cleared without any operation, the fee is also reasonable.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNENHU3bWVBEAE",
+      "author": "Ahmad Husain",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I got my treatment done at the Piles clinic and my treatment went well. Earlier I used to have a lot of trouble but now I am very comfortable.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNXeElERmhnRRAB",
+      "author": "VEERRAJU THUTA",
+      "rating": 5,
+      "relative_date": "Edited 2 years ago",
+      "text": "Very nice and excellent treatment Dra Pa Roy Vairaya friendly problem fissure",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ5NllfTUpBEAE",
+      "author": "SK.mastanvali SK.mastan",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Hi l suffered with fistula for a month.visited multiple hospital but no finsied Dr p roy .\nExcellent treatment.taken very good care Dr p roy listns to each and every problem very patiently and tires to come up with solutions ...........",
+      "maybe_truncated": true,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ5aVpMLW9BRRAB",
+      "author": "Sivaji 1701",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Very nice and excellent treatment.fistula .dr p roy guri",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ5N0pLNzRRRRAB",
+      "author": "Cherukupalli Mohanrao",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Very nice and excellent treatment Dr p roy",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM5OTVlNjBRRRAB",
+      "author": "pandalaneni gayathri",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Very nice and excellent treatment we can get from this clinic for this type of health issues and more over this was a confirmed cure treatment compare to the surgery from the specialist. Dr. P. Rai sir's way of treatment process is very nice and comfortable for every one. I am suggesting and highly recommended for this clinic for all the people who are suffering from these type of issues.Easy way of treatment and life long no issues . Doctor is so friendly treat like a family member and has lot of patience.He will answer each and every doubt",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM5by1lXzVnRRAB",
+      "author": "Shaik Mastanvali",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "The best treatment for piles, fistula,etc.\nThis is one of the best hospital in guntur\nIf you have any problem first consider this doctor for the best treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURkc05fVGdRRRAB",
+      "author": "Shaik Umarvali",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Excellent doctor .p Roy low cost short time pain' no operation consult the doctor if you suffering with fistula....Dr P Roy garu . thank you sir....................",
+      "maybe_truncated": true,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNkczdULUtnEAE",
+      "author": "Venkateswara Rao Yenuganti",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Very best hospital very nice and excellent treatment we con get from this clinic for type of health fistula and  more over this  was a confirmed cure treatment. Dr p roy garu thank you sir",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNkMDd1dWZnEAE",
+      "author": "Nagurvali Sk",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I have been facing this problem since so many years but I have not satisfied, but after coming to this doctor Dr Roy I was feeling better now with in short period I have cured completely and satisfied thank you sir for treating me well. I am so happy to share my experience.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNkdVozam53RRAB",
+      "author": "Suresh Jasti",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Excellent treatment.taken very good care Dr p Roy sir listens to each and every problem very patiently and tried to come up with new solution not only Dr P Roy sir theament is also very cost effective for the kind service they have provided compared to other hospitals or clinic s thank you Dr P Roy sir..........................",
+      "maybe_truncated": true,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNkX3FUUGVBEAE",
+      "author": "Abdul Mateen Muhammad",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN0bllmWGh3RRAB",
+      "author": "K Ravi Teja",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "This piles clinic is very good because my friend got piles and he came to this clinic and he completely got treatment with low cost and friendly atmosphere with doctor",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURONi1fNVFnEAE",
+      "author": "Srimakurthy Sudheer",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Very good treatment.... I am happy to choose this clinic...t.q Roy sir..",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURONjRIcXBnRRAB",
+      "author": "Khasimsaheb Shaik",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Very good doctor, a doctor who is fully aware of the problem, I had a problem with Fissures and went to another place but to no avail. I saw the reviews on the net and met the doctor. I became completely healthy within 20 days🙏👍Please, whoever has this problem, definitely meet the doctor. …",
+      "maybe_truncated": true,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURONGRHcWl3RRAB",
+      "author": "Sadineni Venkateswarlu",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I wanted to express my heartfelt gratitude for the exception treatment provided for fistula by Dr p roy ir and his assistant Sai guru must say that the are os kind and genuine with lots of patience. Doctor has given me aclar",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNOOXViRXB3RRAB",
+      "author": "Subhani Shaik",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "very good Dr p Roy. Fissures timant chassru Nakuru bags tagidi menu chalk happy",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNOdE1LWWZREAE",
+      "author": "Ravi Kiran",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Excellent doctor with friendly character, low cost,short time pain relief, no operation,consult the doctor if you are suffering with piles,fissure,pistula.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQxdTZiYlVBEAE",
+      "author": "Srinivasarao Davala",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Super tritment Doctor Roy garu\nNormal cost",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQxamZMRF93RRAB",
+      "author": "ravindra babu",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Dr.Rai is very good doctor, I came due fistula problem, he treated very well. Now, it’s completely recovered from this issue.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMxdjRHMzB3RRAB",
+      "author": "Rabbani Shaik",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMxMkpLOUF3EAE",
+      "author": "Ch Srinu",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Very nice and excellent treatment for fissure.... Without  surgery.... Thanks so much Dr roy sir ...lam happy",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMxMlBUWWxnRRAB",
+      "author": "Kasaiah Gadde",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I've been really bad at cleaning. Files is number one.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNWNGJ6aDNnRRAB",
+      "author": "MALINBEE SHAIK",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Very nice and excellent treatment I got from this clinic.In size clinic was small but the way he treat a patient with good kind of heart",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURsbWVhSWdRRRAB",
+      "author": "Mahesh Chennamsetty",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I have received best treatment for fistula ...without surgery ...thank u Dr. roy",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURscEk2OF9nRRAB",
+      "author": "Ramesh babu bhemavaram",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Markapur.Super.trireent.In guntur.......\n\nPiles and fissure lead giving treatment to my wife for fissure at this hospital.treatment was so good and perfect ........thank you very much for this doctor......................................",
+      "maybe_truncated": true,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURsLUpieGNREAE",
+      "author": "Koteswara rao Meda",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Treatment was soo good. he is treated like a friend and family members .  Frees was so less finally, I am so happy friends",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNscl8tS0t3EAE",
+      "author": "Jalasutram Surya narayana",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Thn doctor is very expert in fistula the treatment was very good they receiving petitions very carefully.the doctor is most trusted person .this low budget hospital is on 1guntur .100/percent successful treatment.........................................",
+      "maybe_truncated": true,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNsLS1IV3pBRRAB",
+      "author": "Pancheti Perilingam",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Nenu pistula problem tho ntho Kalam nundi pain anubavichusthunna.naku ma friend Rai sir treatment Baga chestaru ai chepparu.\nNenu Rai sir consultant aina tharuvata pain Baga thagginndi.sir mana oka friend la problem gurinchi explain chestaru.\nChala thakkuva kalam lo ne na problem cure chesaru.\nLow budget lo best doctor\nGuntur lo files,fistla,fishar problem ante gurthu vache first name Dr Rai sir",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNsbTRpV2VBEAE",
+      "author": "Dr ankarao areti",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Treat ment good",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNsMVllZjhBRRAB",
+      "author": "Srinivasarao Saripudi",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Excellent treatment thank you so much Dr p Roy garu and for treatment me soo happy lrecovered very well because of both doctor and friendly and way of talking superb best piles clinic in guntur",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNsMWRuMWpnRRAB",
+      "author": "Sathi6250 Sathi6250",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Good treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNsb2FTTHVBRRAB",
+      "author": "Balaji Gonam",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I am very happy after getting treatment from this doctor who was very worried about the files. The doctor responds very well. He is very good.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNsOXJ5Uk1REAE",
+      "author": "nagaraju ghattamaneni",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Good of treatment and clear the piles and fissure problems low cost of treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNsa3B1UHN3RRAB",
+      "author": "k lakshmi k lakshmi",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Ok  fissuer treatment exlent. Low cost treatment.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNsNU9tcXpBRRAB",
+      "author": "Shaik Nazeer",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Fistula iam clear from this problem in low cost amount...I am happy in few days in 1 week only",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURGM19PaW53RRAB",
+      "author": "Bhaskar rao Nallabothu",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "My pressure problem is completely cleared, they do a good job here, Dr. P Royal Guntur",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURGdTVEa0hnEAE",
+      "author": "Chilaka Syam kumar",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I am fine, my piles are very large, the doctor did a good job, I am fine now. If you have any problem, you can also meet me.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURGMjdtekdnEAE",
+      "author": "KUPPALA KIRAN KUMAR",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Best experienced doctor and good understanding of problem, affordable treatment and guaranteed solution. Roy sir thank you for your treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNGLV95dTNRRRAB",
+      "author": "ismail baig",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "He is good and best doctor.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNGa01pX1BREAE",
+      "author": "M Srinu",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Very nice and excellent treatment we can form get from this clinic for of health . suffering with fistula ldon t the pain also then l went to this doctor p roy",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ1cWJUcUl3EAE",
+      "author": "Jani Basha Pathan",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Very nice and excellent treatment we can get from this clinic for this type of health issues and more over this was a confirmed cure treatment compare to the surgery from the specialist. Dr. P. Rai sir's way of treatment process is very nice and comfortable for every one. I am suggesting and highly recommended for this clinic for all the people who are suffering from these type of issues.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM1aTRPVzl3RRAB",
+      "author": "pusalapati kiran",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Very good treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM1dE5xUktnEAE",
+      "author": "Kaveri Siva sai",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I have piles they give a better treatment for and my mom also same problem it's clear right we both happy",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURaNVlMRElREAE",
+      "author": "Sai pavan kumar reddy",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I have suffered with severe piles and fissure problems for the past one year and I have contacted Dr.P. Roy Sir for the treatment and I have visited the clinic to get the treatment. The way he received the customers is very polite and he treats the customers in a very careful manner and he listens to the patient's needs about their problems and gives us the best treatment at a reasonable price.\nAfter getting the treatment from Dr. P. Roy I was very free from that problem and I can assure that he is the best doctor in Guntur city. If you are facing any problem like me then I blindly suggest Dr.P. Roy Sir to get the best ayurvedic treatment without any doubts in your mind.\nHe will clear all the doubts of the patients and clear the problem within less time and I have seen the recovery from the first day of my treatment itself.\nI am glad to Thank you very much Dr. P. Roy Sir  about your Caring towards the patient and clearing their problems in a short period.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURad1pIdktREAE",
+      "author": "balu reddy",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Best doctor in A.P for Piles and Fistula",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNaLTlTTTVnRRAB",
+      "author": "Srihari Hari",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I had got piles, fissure, and fistula. It is such a horrible pain. And I feel very uncomfortable. I cannot sit or stand due to this problem. I came to this hospital. The doctor is very kind and he given the best treatment and it is 100℅ guarentee. With in two weeks the disease is totally cured.  The treatment is less cost comparing to other hospitals and guarenteed",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNadTRmOVJ3EAE",
+      "author": "ramakrishna rao",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Nice treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNaM2JLOVJnEAE",
+      "author": "Jayaraju Jaya",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Very very good dr",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNaX3JlVlJBEAE",
+      "author": "Vijay Kumar",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Good clinic",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNaME5EeE9REAE",
+      "author": "Vandu",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Best doctor in Guntur for piles, fissure, fistula he will take utmost care until complete recovery",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURwbzdxNlRnEAE",
+      "author": "Ravikumar Kakumanu",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Best treatment with utmost care. low cost and painless treatment.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwNGZ2QnJBRRAB",
+      "author": "Samba Maddula",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I have a problem, please clear it up.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwMXRQTXVnRRAB",
+      "author": "Baji Pathan",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Very best haspatal my dad fissure recovered from molalu treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwZ3IzYnd3RRAB",
+      "author": "sunilchakravarthy gunja",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Tretment.chalabagundhi1100%cliar",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwOUlxMjN3RRAB",
+      "author": "pandu Bathula",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "The treatment is very good. I was suffering a lot before, but now it is better.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwbGZEWUt3EAE",
+      "author": "Mohan Kumar",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Heared and make a move for Fissure problem which makes very problem. Its clear now reasonable price and painless treatment. Best treatment from ROY sir just peace of love.... thankyou😊 …",
+      "maybe_truncated": true,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwNWQtMTZnRRAB",
+      "author": "Yedu Kondallu",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Takoy dr sir, he struggled for two years after he was reduced.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNweWNmZGVREAE",
+      "author": "Teju Reddy",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Good treatment 100% gureent no side effects good doctor low cost treatment consultant doctor excellent treatment piles",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNweWRuc1BnEAE",
+      "author": "Sampathi Bhadraraju",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "He is a great expert in his skills like piles and pheshers for our middle class peoples. he such a great receiver. he is no publicity doctor but I hop to promised he is a great docter.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNweWNXOXdnRRAB",
+      "author": "JAMESATISH GAJULA",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Good recived and best treatment on low amount such a best doctor I never see like him",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwaVBPbkh3EAE",
+      "author": "Bujji Bujji",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Excellent,conform treatment,low-cost,doctor is very close to patients",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwOEt5dUFREAE",
+      "author": "Peda Venkateswarlu",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Good dealing",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKNzVpOG9BRRAB",
+      "author": "Srinu Ch",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Veery good clinic\nBest medicine for fissure and piles and fisttulaa I am truly saying this word",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURKb3N5UGR3EAE",
+      "author": "Maatani Mastani",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Ma amma ki challa baga trrikment jarigindi thanks sir",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKNTZlemJREAE",
+      "author": "Kola Syam",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Dr p roy sir is one of the best doctor in guntur he speaking is politely and treatment ment is wonderful",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKcDdYQk9REAE",
+      "author": "Patchala Mariyamma",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Good doctor and low cot fistula treatment l m happy aglfer treatment Dr p Roy garu thank you",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKMjhESHh3RRAB",
+      "author": "Pavuluri Ramanjaneyulu",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Piles treatment is good doctor.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNSLWJXYVRREAE",
+      "author": "Valu Sk",
+      "rating": 5,
+      "relative_date": "Edited 3 years ago",
+      "text": "Nice treatment good Dr best'fissure treatment sir thank you such l am happy treatment thank you sir",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKcFByMU5nEAE",
+      "author": "Srikanth Reddy Sampathi",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Excellent ayurveda doctor, he understand well and make feel satisfy with his work... !!!",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR4cTVxUTd3RRAB",
+      "author": "Kotireddy Buchepalli",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Nice treatment good doctor best fissure treatment Roy sir thank you very.custom happy to treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4LUwtZ1FREAE",
+      "author": "Challa Krishnamraju",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "The drawing is very very good.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSeDhpdV9RRRAB",
+      "author": "Nabi Sk",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Nice treatment good doctor best price to treatment roy sar thank you every such ll custom happy to treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSNGVMa2JBEAE",
+      "author": "Anakamaa",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNSeEtQUTV3RRAB",
+      "author": "RamaKrishna Reddy Lakkireddy",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Teatement perfect",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURoai1DQVN3EAE",
+      "author": "murari vinod",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "I am Vinod Kumar I am saferd piles Guntur piles hospital to traet ment I am feel very good treatment a good doctor p .roay auruvedic madicine low price and good treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURocDRucWhBRRAB",
+      "author": "Pandu Pandu",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Excellent doctor low cost 100% result.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURoamVyR09BEAE",
+      "author": "Chinthanaboina Srinu",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Dr p Roy gaining kalishaka Chaka I am happy  got two fistula sir Roy guru cured me fewdays",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURocVphSVpnEAE",
+      "author": "SHEIK AKBAR",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "One of my friend is suffering for fisare .. finally he is cure .. doctor is eco friendly,,low cost for clinic..\nMy and my friend suggested for all.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNoX1phN09REAE",
+      "author": "Subhamay May",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Excellent doctor low cost 100%rsult",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNoNnFPNk93EAE",
+      "author": "MSR marapangu",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQtbTl5eHRRRRAB",
+      "author": "Ayaan Shaik",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Good for piles for permanent solution with ayurvedic treatment.\nDoctor treatment is nice",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtd0lEZ0ZnEAE",
+      "author": "SANJAY KUMAR",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Very good dr",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtbTlxei1nRRAB",
+      "author": "PRATEEK ROY (BENGOL TIGER)",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMtOHVHTmZ3EAE",
+      "author": "Skylab prathipati",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Doctor very good",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURPa2NQZHBBRRAB",
+      "author": "sravani tholupuluri",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Safe treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNPeHV6cDF3RRAB",
+      "author": "P Anjaneyulu",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURXMWRtQ1dREAE",
+      "author": "Vijayak.kancharla Vijaya",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Very best hospital my dad recovered from molalu treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURHcGNQamlnRRAB",
+      "author": "Manikanta Marri",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Dr good",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ2NTRqQ19BRRAB",
+      "author": "Mohammad Jeelani",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Very good doctor.\nExcellent  treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM2b0tQX0VnEAE",
+      "author": "samba siva",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR5MzhtdVJ3EAE",
+      "author": "Satya Nakkena",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN5dFBQTk1nEAE",
+      "author": "Kishore Pallapu",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN5Mkx1a2pBRRAB",
+      "author": "hore roy",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURTZ2JQazhnRRAB",
+      "author": "ABDUL Chattar",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "Very nice dr",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNpcTlDNzh3RRAB",
+      "author": "Kotari Sambasivarao",
+      "rating": 1,
+      "relative_date": "5 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNzak5HREdBEAE",
+      "author": "Rosik Modhu",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNVb2JUa1B3EAE",
+      "author": "P Sambasivarao",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM0LUpyZjlnRRAB",
+      "author": "Suroj kumar",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURvODVXcEFREAE",
+      "author": "Durjoy Biswas",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Excellent Doctor' Low Cost 100%result",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURvazlyUG9RRRAB",
+      "author": "krishna Thota",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURvX3FtSUtREAE",
+      "author": "Afroz Khan",
+      "rating": 4,
+      "relative_date": "7 years ago",
+      "text": "Nice",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNvMEptWWF3EAE",
+      "author": "Shaik nagul baji",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Excellent Doctor. Low cost.100%result.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURRM3RTOXV3RRAB",
+      "author": "Pranab Roy",
+      "rating": 5,
+      "relative_date": "8 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    }
+  ],
+  "reviews_error": "",
+  "sorted_newest": true,
+  "stopped_at_known_review": false,
+  "reviews_captured": 204,
+  "owner_replies": 202,
+  "truncated_reviews": 32,
+  "reviews_coverage": 1.0,
+  "date_anchor": "2026-08-20T18:56:35",
+  "extract_seconds": 77.1,
+  "missing_fields": [
+    "plus_code",
+    "website"
+  ],
+  "listing_position": 52,
+  "source_query": "dermatologists in Guntur",
+  "listing_name": "PILES CLINIC"
+}

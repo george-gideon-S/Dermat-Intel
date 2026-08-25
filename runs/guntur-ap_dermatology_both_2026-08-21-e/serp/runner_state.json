@@ -1,0 +1,42 @@
+{
+  "query_fingerprint": "4e2d9a1da9765f2a",
+  "created_at": "2026-08-21T20:08:45",
+  "last_active": {
+    "mode": "attended",
+    "run_id": "guntur-ap_dermatology_both_2026-08-21-e",
+    "pid": 7904,
+    "started_at": "2026-08-21T21:19:19",
+    "last_beat": "2026-08-21T21:20:36",
+    "queries": 4,
+    "paused_s": 0.0,
+    "ended_at": "2026-08-21T21:20:36"
+  },
+  "sessions": [
+    {
+      "n": 1,
+      "mode": "attended",
+      "outcome": "blocked",
+      "started_at": "2026-08-21T20:08:45",
+      "ended_at": "2026-08-21T20:43:06",
+      "attempted": 21,
+      "captured": 21,
+      "blocked": 1,
+      "solves": 0,
+      "elapsed_s": 2061
+    }
+  ],
+  "last_session_at": "2026-08-21T20:43:06",
+  "last_outcome": "blocked",
+  "blocks_seen": 1,
+  "last_block_at": "2026-08-21T20:43:06",
+  "active": {
+    "mode": "attended",
+    "run_id": "guntur-ap_dermatology_both_2026-08-21-e",
+    "pid": 8404,
+    "started_at": "2026-08-21T21:20:52",
+    "last_beat": "2026-08-21T21:26:28",
+    "queries": 7,
+    "paused_s": 0.0
+  },
+  "run_elapsed_s": 756.0
+}

@@ -1,0 +1,697 @@
+{
+  "place_url": "https://www.google.com/maps/place/Amaravathi+Family+Clinic/data=!4m7!3m6!1s0x3a4a75b420372715:0x6730d6620eade4cf!8m2!3d16.3145265!4d80.4370712!16s%2Fg%2F11xtbh5766!19sChIJFSc3ILR1SjoRz-StDmLWMGc?authuser=0&hl=en&rclk=1",
+  "captured_at": "2026-08-20T18:42:36",
+  "feature_id": "0x3a4a75b420372715:0x6730d6620eade4cf",
+  "place_id": "ChIJFSc3ILR1SjoRz-StDmLWMGc",
+  "kg_mid": "/g/11xtbh5766",
+  "lat": 16.3145265,
+  "lng": 80.4370712,
+  "name_raw": "Amaravathi Family Clinic",
+  "name_clean": "Amaravathi Family Clinic",
+  "name_key": "amaravathifamilyclinic",
+  "name_dropped": [],
+  "name_was_cleaned": false,
+  "category": "Medical clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "adjacent",
+  "basis": "category",
+  "address": "Anjaneya peta 1 st line, Amaravathi Rd, near Rama Building, Guntur, Andhra Pradesh 522007",
+  "plus_code": "8C7P+RR Guntur, Andhra Pradesh",
+  "phone": "",
+  "website": "",
+  "website_domain": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "insecure_http": false,
+  "website_matches_name": null,
+  "rating": 4.9,
+  "reviews_total": 65,
+  "rating_histogram": {
+    "5": 62,
+    "4": 1,
+    "3": 2,
+    "2": 0,
+    "1": 0
+  },
+  "histogram_sum": 65,
+  "histogram_reconciles": true,
+  "topics": {
+    "patient listener": 2,
+    "treating doctor": 2,
+    "diagnosis": 2,
+    "advice": 2,
+    "care": 2,
+    "health": 2,
+    "success": 2,
+    "doctor": 7,
+    "treatment": 6
+  },
+  "google_profile_gaps": [
+    "Add place's phone number",
+    "Add website"
+  ],
+  "has_photos": true,
+  "hours": {
+    "Thursday": "8 am to 9 pm",
+    "Friday": "8 am to 9 pm",
+    "Saturday": "9 am to 9 pm",
+    "Sunday": "10 am to 1 pm",
+    "Monday": "8 am to 9 pm",
+    "Tuesday": "8 am to 9 pm",
+    "Wednesday": "8 am to 9:30 pm"
+  },
+  "about": {
+    "Amenities": [
+      " Restroom"
+    ],
+    "Planning": [
+      " Appointments recommended"
+    ],
+    "Payments": [
+      " NFC mobile payments"
+    ],
+    "Map details": [
+      "Transit",
+      "Traffic",
+      "Biking",
+      "Terrain",
+      "Street View",
+      "Wildfires",
+      "Air Quality"
+    ],
+    "Map tools": [
+      "Travel time",
+      "Measure"
+    ],
+    "Map type": [
+      "Default",
+      "Satellite",
+      " Globe view ",
+      " Labels"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2todFFqVktPREpNZFdaNFR6SjNPWEl6TWtSd2RWRRAB",
+      "author": "P M Vinaya Teja",
+      "rating": 5,
+      "relative_date": "a week ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSc1dWTndOMjVhWHpoQk4zUTRjM2t4ZW5NNVJGRRAB",
+      "author": "Rapolu Nikhil",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GV1oyTktaMjQ0TFROdFpVZElPVEJETWxWNGVrRRAB",
+      "author": "G KALYAN KUMAR",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "I had an excellent experience with this  Doctor Uma Shankar garu. The doctor is highly knowledgeable, professional, and genuinely cares about patients' well-being. They patiently listened to all my concerns and explained everything in a clear and understandable way. I felt comfortable and respected throughout the consultation. The diagnosis and treatment plan were accurate and effective. The doctor is trustworthy, honest, and never recommends unnecessary tests or medications. Their compassionate and friendly approach makes patients feel at ease. They are always helpful and take time to answer every question. I truly appreciate their dedication and commitment to patient care. I highly recommend this doctor to anyone looking for a reliable, understanding, and excellent General Medicine specialist.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWc05HVkdNek5rTW5WSFZWY3RYM0JmTlV4SWJVRRAB",
+      "author": "chinka tirumala rao",
+      "rating": 5,
+      "relative_date": "2 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaSE9WWnJkVTlOVjJkZlVrZE9TbGg2V1hsRFVIYxAB",
+      "author": "Yatish Prasad Dasari",
+      "rating": 5,
+      "relative_date": "Edited 3 months ago",
+      "text": "My Personal Experience is Dr. Uma Shankar is Equivalent to Living God. He has been treating Doctor for My Grand Mother. Such a Wonderful Gentleman, Gem of a Person, Down to Earth Person who has Abundant Patience to listen to Patients and Patient Attender.\nA Doctor Who Responds beyond Duty Hours, available to respond in Emergency. Atleast I have not found One Like Him in Big Cities Like Bangalore, Hyderabad. I Personally Feel Fortunate to Meet Such Person. Wishing Him Lot of Good Health and Success!",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kwdE1HZHZiWHBGUkV0VVMwVXlhazlVYnkxdGMyYxAB",
+      "author": "unitedcloud bdm",
+      "rating": 3,
+      "relative_date": "3 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOUFIycE9iMFpvWTJ4cWIwdGtaMnRhZVZnNFJrRRAB",
+      "author": "NAGEENA Sk",
+      "rating": 5,
+      "relative_date": "3 months ago",
+      "text": "Good hospital",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSc1ZYWlpUbXd5YlRGeVQxTlZiR04xWDNRMVpGRRAB",
+      "author": "M Akhila",
+      "rating": 5,
+      "relative_date": "5 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoelYxbHNVelV5ZG1OT2RFTmxabTFCU0VOZlFuYxAB",
+      "author": "Balakrishna Garlapati",
+      "rating": 5,
+      "relative_date": "5 months ago",
+      "text": "Highly recommend Family clinic.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tocFRtcHhZazV5VVc1T2VrdHpOMUpxTlRCRU9HYxAB",
+      "author": "srikanth ullamaneedi",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "Good",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWclExZHZVVGxYVUVKTGNXVTBSekp5ZW5jeFQxRRAB",
+      "author": "SATISH PALLEPATI",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "Exlent treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOamFsWjFhV0ZYVWxwck9URTNWV050TVVzMGMxRRAB",
+      "author": "drmanisdiagnosticcentre ponnur",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2podWJsUTNZa1ZZZEZwMFUyNW1UalJGY3poVmFVRRAB",
+      "author": "Chakri 1994",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kalFtNDFPRGhIVkhSdWQwNVpVeloxY0RCbk9HYxAB",
+      "author": "Kannedari Sri Balaji",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOeVNrRXdYekZpWWtWcVNsWk5SRlJMZUhOeFNYYxAB",
+      "author": "Siva Rama Krishna",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "Good treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OMVVVazRjWEYyTjJsSFpYbzFkRGxDWVVsMVdIYxAB",
+      "author": "Radha Pilli",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GeE9HWnRZa1l4ZEhaV05IVm9TRFZvWWxNdFgyYxAB",
+      "author": "Yenibera Ashirvadam",
+      "rating": 3,
+      "relative_date": "8 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xObU5saFlOSE5xZFRoR1dYUkVZbXhCVG0xSk4wRRAB",
+      "author": "Parvathi Mogili",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "Good Experience",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210U09VMUJVekJzY0c1eFUwNWhaVlozY1haVmJuYxAB",
+      "author": "NAVEEN NAVEEN",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "Good advices\nGuntur best doctor very good treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xFdFkxSXhMVkpvTlc5WGNtOW1kMUozVkhGVWFtYxAB",
+      "author": "Mannem Sudhakar",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s4d1FtaGhha3BuVjNkd1pUWXdibHBPWkRsbU1FRRAB",
+      "author": "Neha chinni dontuboyina",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tocVNHUTVUMnhaZFdGbllsbEtVamhFYzJzelJtYxAB",
+      "author": "Darling reddy Kalli",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "Best clinic in guntur experience was very good best hospital and doctors and best physics and best experience and explanation so good",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201NVVETnFWVVpwVTFsbFdYUlpiV1JHYm1WQ1EwRRAB",
+      "author": "Khalivardhan Piramalla",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "Gooo doctor,good received staff, exllent treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSalZESjJabWg1TldkWlIzcGFaSGxVV2tWeVJsRRAB",
+      "author": "Kallukuri Siriaki7870",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "Good staff, good receiving, good hospitalization",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aVVZIZG9hVTFGVVUxVllteE1aWEoxV0RSRWVtYxAB",
+      "author": "Anilkumar Gurrapu",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pRek5EVkVVRlI2VFc0MGRYbHVkbXBWUkMxUGNFRRAB",
+      "author": "SIGINAM AYYAPPA",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "Dr. Uma Shankar is truly an exceptional family doctor. I can confidently say he is one of the best doctors I have ever consulted. He never suggests unnecessary tests or medicines, which builds a lot of trust and confidence as a patient.\n\nHis way of explaining health issues and treatment is outstanding. He has immense patience and listens carefully to every concern. What I personally admire the most is that he adjusts his communication based on the patient’s background, ensuring that everyone clearly understands their problem and the prescribed medication.\n\nDr. Uma Shankar’s calm nature, ethical approach, and genuine care for patients make Amaravati Family Clinic one of the most reliable clinics for family healthcare. I highly recommend him to anyone looking for an honest, knowledgeable, and compassionate family physician.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoWVEzRklWalZLYUZsVVVIZFhjMWd4ZG5WVlZrRRAB",
+      "author": "Kanya Kumari",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT213ME0zcGFlRTgyVTJGNFZIQldOalE1YWtKV04wRRAB",
+      "author": "Nanda Gopal",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "Very good treatment 💝 …",
+      "maybe_truncated": true,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5c2FFVlBRblJTU25aNVZWWlZhVE5hVWt4T2FFRRAB",
+      "author": "Baddiri Tatarao",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "Great Doctor",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KNFFqZGxUbDlCU3kxaVF6VTJTVkZtYUcwMVQwRRAB",
+      "author": "Chayili Venteswaramma",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25keFltdE1UVk5TVFhkUmRIWTRUVEl6TVZaRGNIYxAB",
+      "author": "Rajasekhar Kambhampati",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "Good Experience\nBest Doctor",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SM1pGZFFVRmh3ZW1wNE56QjBNVWhOWHpoWmJIYxAB",
+      "author": "Chanti Chanti",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "Good 👍 …",
+      "maybe_truncated": true,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5NFZuWTJhR00yVVRaVVJHaDJOblZMTVVKUE0yYxAB",
+      "author": "RAMA KRISHNA CH",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "Dr uma sankar garu very experienced in treating serious cases and make the patients recovered well. My family are getting treatment since 2018 .he is very cool and hear the problem of patients with patience and treat them well",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toMWFWY3dVVWhPV1RFMWNEWjFaVTF3VVVScWRrRRAB",
+      "author": "Shaik Dania",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "Doctor is Good . Nice Ambience",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxV1IxRmZja3RVY1VKbFRFWmxjRzFrTWpkbmFHYxAB",
+      "author": "Kurra Krishna",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "Best diabetes treatment hospital.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pJelVrVlJSblZ1ZWkxWFkyRk1ZekJUUlVaWk9WRRAB",
+      "author": "Anumolu Srinivas",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "Best Doctor",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pZNFpXWnpOMkY2ZUZWTk9GRmhRVGcwU1ZZelJIYxAB",
+      "author": "Swamy Pagadala",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tscGNEZDRTbW93UnpoNlJrOHhVek5MWjBsMlpFRRAB",
+      "author": "Shaik Mubina",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "Nice Recived",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOZkxYWm5UelZ0T1RKbVdEWlBTVUp0UVhOQlNGRRAB",
+      "author": "pullarao kota",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "Best Reciveing",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkdFFWZEtiaTFKY1ZreGJVbDJjMVI1Um5Wd2FFRRAB",
+      "author": "Nageswaramma Ch",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Oek5GcGZWVGM1VjFWbkxUbGlWMUJmVUdKTFVFRRAB",
+      "author": "Jaya Hasini",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210NGQwVkpiRkZLVDJoemExTnJWREo0ZVRWYWMyYxAB",
+      "author": "krishnaiah chittiprolu",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "Best",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCTFVUQlFkbFJMTWtSdVpWaG9NMjFWTW1aWE4yYxAB",
+      "author": "Charan Potato lol",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "Best Doctor",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSWE4zVnRlVko1T0hCWllYVTVOVTlSYUdKM05FRRAB",
+      "author": "Siva Sankar chowdary Nallamothu",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "Best clinic",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1WGVXdFBZWEp3VFdReWJUaFphMk52T0hJMFEzYxAB",
+      "author": "Srinivasa Gupta",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "Best Doctor in Guntur\nGood Advices\nVery Responsible Doctor",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWRVl6bGxkVXAyWTFSaWR5MHpSbVpFZGpaYVJtYxAB",
+      "author": "Sandhya Erla",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201eVJYSkVUVGxJV1cxcFVVZFpUR0ZoTXpCak1XYxAB",
+      "author": "Ramarao Narra",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "THIS IS THE BEST CLINIC",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOeVpVcHhNRzlXVUZSWVdUaG9TR3RxYmtRNVRXYxAB",
+      "author": "Vijaya krishna Reddy",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOak4zSm5VakIyY1hSUWRqTmFWelV0U1VsUlIwRRAB",
+      "author": "svs nageswararao",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "Diagnosis super sir",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GSE9HcFFjVFJsWmxwd1UxbG5kM3BmUjFWTFJYYxAB",
+      "author": "PARUCHURI VENKATA SUBBARAO",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "Best clinic\nReceiving was good",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201SFpFMUdTRWgyT1VoT1RFcFBiMHhSV21KVU4yYxAB",
+      "author": "Rajasekhar Penumaka",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "Experience was very Good\nHospitallity was Nice\nBest clinic in Guntur\nBest physician 🥼🥼🥼🥼 …",
+      "maybe_truncated": true,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wU2NrWm5OVkJPUzFOaGFHYzNVSFozWTB0UldXYxAB",
+      "author": "battineni vramana",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "Good Experience",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWVFlURTFSeTF0UlVkellsSkdjMnRRWHpOR01sRRAB",
+      "author": "Abhishek Namburi",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCVlQxOUhibWRDTWtzdGJVUmFaVTFtT1VoemVtYxAB",
+      "author": "Stuthi Harshitha",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "Superrrrr",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Kb1NDMW5NbVJOTkRKUlFqUXdVamwyVVZwNldVRRAB",
+      "author": "Devendra Yaragarla",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "Devendra Kumar",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4SVdGcFRlV2xEVFdJNFpFRm9VV1ZTY1hwV1JGRRAB",
+      "author": "Sirisha Yelchuri",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGNVIzb3hjbUZCVjFodlltcHZYMlJKVUhWVmNtYxAB",
+      "author": "Ramanjaneyulu Vedullapalli",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "Good",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paMGFuUkNXRGxWVlVKSFMyaDRWQzB3YzE5VllsRRAB",
+      "author": "Saibabu Siddabathula",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "Quickly responding, and receiving, better treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OSFVHWTVla2hqV1U5NFFYTkVTbTVsU1hscVoxRRAB",
+      "author": "Veeraraju Setti",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "Dr Uma Shankar is an excellent doctor who treats patients not only with high professionalism and dedication but also with empathy. His affectionate touch and care gave my daughter and my wife a great strength to recover fast. I would like to express my gratitude by wishing him all the best and success in every aspect of his life.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25nelZGRmFZamxmVGpONVdEQnhTV3RwTW5oNk0yYxAB",
+      "author": "Rama Anjeneyulu",
+      "rating": 4,
+      "relative_date": "11 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taRWMycG9hMHhqY1haM2VEQnlUbmROTTJSM04xRRAB",
+      "author": "Kishore kumar illa",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0VmMwWnlkRWhDTFRkTk9FUnZkazlHU205ck1YYxAB",
+      "author": "K.t. Shankar",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pRdFgzZGpXa2RRUnpaemMwWmFiM1ZyTlcxaFpXYxAB",
+      "author": "Durga Devaragatla",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT204d1JYVlJjRmRMVVhNMldtMVpXVFpwYjNvM09HYxAB",
+      "author": "Anand",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psd1MyaDJWa0pzZUdKM1ZqaEdiV2RFVTE5NFVHYxAB",
+      "author": "Mallika Malli Andukuri",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "My own experience is very impressive treatment and care",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    }
+  ],
+  "reviews_error": "",
+  "sorted_newest": true,
+  "stopped_at_known_review": false,
+  "reviews_captured": 65,
+  "owner_replies": 0,
+  "truncated_reviews": 3,
+  "reviews_coverage": 1.0,
+  "date_anchor": "2026-08-20T18:42:36",
+  "extract_seconds": 62.1,
+  "missing_fields": [
+    "phone",
+    "website"
+  ],
+  "listing_position": 39,
+  "source_query": "dermatologists in Guntur",
+  "listing_name": "Amaravathi Family Clinic"
+}

@@ -1,0 +1,1588 @@
+{
+  "place_url": "https://www.google.com/maps/place/Conquer+Hospital/data=!4m7!3m6!1s0x3a4a75005741f4a1:0xf46a7ef4cfc63567!8m2!3d16.3005335!4d80.4485353!16s%2Fg%2F11fky2j69p!19sChIJofRBVwB1SjoRZzXGz_R-avQ?authuser=0&hl=en&rclk=1",
+  "captured_at": "2026-08-20T19:17:43",
+  "feature_id": "0x3a4a75005741f4a1:0xf46a7ef4cfc63567",
+  "place_id": "ChIJofRBVwB1SjoRZzXGz_R-avQ",
+  "kg_mid": "/g/11fky2j69p",
+  "lat": 16.3005335,
+  "lng": 80.4485353,
+  "name_raw": "Conquer Hospital",
+  "name_clean": "Conquer Hospital",
+  "name_key": "conquerhospital",
+  "name_dropped": [],
+  "name_was_cleaned": false,
+  "category": "Dental clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "irrelevant",
+  "basis": "category",
+  "address": "DNO: 12-9-23/A, D.N.R hospital, Sivalayam St, Kothapeta, Guntur, Andhra Pradesh 522001",
+  "plus_code": "8C2X+6C Guntur, Andhra Pradesh",
+  "phone": "",
+  "website": "https://conquerhospital.com/",
+  "website_domain": "conquerhospital.com",
+  "website_type": "own_domain",
+  "has_own_website": true,
+  "insecure_http": false,
+  "website_matches_name": true,
+  "rating": 4.9,
+  "reviews_total": 165,
+  "rating_histogram": {
+    "5": 160,
+    "4": 0,
+    "3": 0,
+    "2": 0,
+    "1": 5
+  },
+  "histogram_sum": 165,
+  "histogram_reconciles": true,
+  "topics": {
+    "teeth whitening": 4,
+    "hair restoration": 2,
+    "friendly staff": 10,
+    "dental treatment": 5,
+    "equipment": 7,
+    "rakhi": 11,
+    "confident": 3,
+    "doctor": 2,
+    "feel": 7,
+    "skilled": 5
+  },
+  "google_profile_gaps": [
+    "Add place's phone number"
+  ],
+  "has_photos": true,
+  "hours": {
+    "Thursday": "10 am to 8 pm",
+    "Friday": "10 am to 8 pm",
+    "Saturday": "10 am to 8 pm",
+    "Sunday": "Closed",
+    "Monday": "10 am to 8 pm",
+    "Tuesday": "10 am to 8 pm",
+    "Wednesday": "10 am to 8 pm"
+  },
+  "about": {
+    "Amenities": [
+      " Restroom"
+    ],
+    "Planning": [
+      " Appointments recommended"
+    ],
+    "Payments": [
+      " Debit cards",
+      " NFC mobile payments"
+    ],
+    "Map details": [
+      "Transit",
+      "Traffic",
+      "Biking",
+      "Terrain",
+      "Street View",
+      "Wildfires",
+      "Air Quality"
+    ],
+    "Map tools": [
+      "Travel time",
+      "Measure"
+    ],
+    "Map type": [
+      "Default",
+      "Satellite",
+      " Globe view ",
+      " Labels"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT213M1UzSndjekZ0ZFRCYVdITTNZbTl6YVdkaFNWRRAB",
+      "author": "anirudh priyadarshi srikoo",
+      "rating": 5,
+      "relative_date": "2 weeks ago",
+      "text": "Outstanding holistic care with Dr. Rakhi Damaraju!\nFinding a specialist who genuinely connects the dots between dental, hair, and skin health is rare, but Dr. Rakhi Damaraju at Conquer Hospitals is exceptional. Rather than treating issues in isolation, she evaluates overall wellness and underlying root causes to build a seamless, personalized treatment plan.\nHer dual expertise in oral/maxillofacial care and hair restoration—alongside the hospital’s integrated dermatology unit—makes the entire process smooth and comforting. She takes time to explain every detail, answers questions patiently, and ensures procedures are completely stress-free. Conquer Hospitals is spotless, highly professional, and easily the top choice in Guntur for comprehensive cosmetic and restorative care.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOUVZHMWlaRTlxWmtsRFMzZFpNbGhZY1ZaSUxYYxAB",
+      "author": "Conquer Dental & Maxillofacial Centre",
+      "rating": 5,
+      "relative_date": "2 weeks ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VMeUN2T1hYMDd5NHV3RRAB",
+      "author": "Sirisha Perisetty",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJYXlvYjZ1MG9LTEpBEAE",
+      "author": "Sweta Velineni",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Very professional doctors and state of art facilities available within the vicinity.👍 Highly recommended …",
+      "maybe_truncated": true,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VMQ1Vfczd0bmJyWmp3RRAB",
+      "author": "prasad c",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "⸻\n\nI had a wonderful experience at this dental hospital. The entire staff was professional, welcoming, and made me feel completely at ease from the moment I walked in. A special mention goes to Dr. Rakhee – she is absolutely superb! Not only is she incredibly skilled and knowledgeable, but her warm and friendly approach made the entire process smooth and stress-free. I felt genuinely cared for and well-informed throughout my treatment. Highly recommend this clinic to anyone looking for quality dental care and a kind, expert dentist!",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJLXFXM2FnEAE",
+      "author": "isman khan",
+      "rating": 1,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4NGY2WGNREAE",
+      "author": "Ganapavarapu Yasaswi",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMyeXM2RlV3EAE",
+      "author": "Phanideep Vempati",
+      "rating": 1,
+      "relative_date": "4 years ago",
+      "text": "Worst clinic ever\nI Had taken PRP treatment and got even worst and when I asked about it they said go for hair plantation but I fist visit they said it will work\n\nI EVER GOT SEVERE HEADACHE\n\nDON'T VISIT HERE",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURXdTZYcXpRRRAB",
+      "author": "Bharathi Pusala",
+      "rating": 1,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURXdThYdUhREAE",
+      "author": "Madhu 1",
+      "rating": 1,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURXdTRXYk1BEAE",
+      "author": "karanam ajay",
+      "rating": 1,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNtMi1yWk5BEAE",
+      "author": "Ashok Devarakonda",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Good caring",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNtbTRtajNBRRAB",
+      "author": "Hari Yatharasu",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Very Professional, Ethical And Friendly budgeted Dental Clinic in Guntur",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNtNi1QOEhREAE",
+      "author": "prasanth kumar",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNtNjZQM0lREAE",
+      "author": "CA VENKATESH",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNtNl8yOFZnEAE",
+      "author": "lalitha tirumalasetty",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNtNjUySER3EAE",
+      "author": "Gali Swathi",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNtNjUyY3dRRRAB",
+      "author": "M.sunitha Sunitha",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNtNi0yb3FBRRAB",
+      "author": "Shaik Darimun",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "I Am Full Satisfied After Visit Conquer Dental Clinic",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNtNjQyX3BnRRAB",
+      "author": "Vara Prasad",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Good And Best Clinic In Guntur",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNtNjQzbGVnEAE",
+      "author": "Anush Naidu",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Good Staff Like Behaving Friendly Nature,Especially Doctor Cleared All My Doubts About Dental Treatment.I Got Best Solution For My Teeth Issues Through Conquer And Now I Am So Happy After Visited Conquer Dental Hospital, Thank U Doctor 🙏 …",
+      "maybe_truncated": true,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR5aHBySDl3RRAB",
+      "author": "Arif shaik",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN5eS1XSGJ3EAE",
+      "author": "MANIKANTA T",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN5eTRhVEJ3EAE",
+      "author": "Kamili Vadithya",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN5eThyYmRnEAE",
+      "author": "Nagur shareef Shaik",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN5eS1MRnJnRRAB",
+      "author": "Shaik Subhani8686",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN5dHNtR0t3EAE",
+      "author": "Mastanrao Penugonda",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN5MXNxVThnRRAB",
+      "author": "TATIPARTHI veman",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN5eHAyckNBEAE",
+      "author": "Rajesh kamepalli",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN5eHBXejJRRRAB",
+      "author": "Shravani Vadla",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN5eHZuVzlnRRAB",
+      "author": "Yamarthi Srinivas Yadav",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN5eHNtbVpBEAE",
+      "author": "Suprith Gaddala",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN5eG9tSjlBRRAB",
+      "author": "sk Idris",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN5eHZIaEVBEAE",
+      "author": "S Jb",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN5eHRHQl93RRAB",
+      "author": "sai tarun",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN5eHBIX1BnEAE",
+      "author": "Satya Sahithi",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN5dXZfczF3RRAB",
+      "author": "chinna gurram",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN5dXY3RmNBEAE",
+      "author": "nadendla sai leela",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN5cXVqNElREAE",
+      "author": "Mounika Talluri",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "Best doctor",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN5OG92TS1nRRAB",
+      "author": "sindhuri kanagala",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN5OHMyUWFnEAE",
+      "author": "Kambhampati Venkateswararao",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN5OHZtSzd3RRAB",
+      "author": "Gayathri Kambhampati",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN5OHJDLU5BEAE",
+      "author": "Sharon Roja",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURrLTQzVm13RRAB",
+      "author": "Deepu Venna",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Fantastic services and friendly staff! Exceeded my expectations in terms of the facility.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURFeHRfanZRRRAB",
+      "author": "satya swarupa",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURFeHVIUUtnEAE",
+      "author": "Pavani Maddu",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM0NUxiWFJnEAE",
+      "author": "Sailaja Jammalamadaka",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZdl9QelVREAE",
+      "author": "Ramadevi Nutakki",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZajRfVldnEAE",
+      "author": "Srini Mandalapu",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "You got to visit once to see why everyone is rating high. See it to believe it!",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZcDZDeDFBRRAB",
+      "author": "Upendra Chowdary",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZeDhIUGVBEAE",
+      "author": "Venkata Suneel Kota",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Very happy, experienced doctor, I had got root canal done for my father. This will be destination for our family for dental care.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZeDhDVjBRRRAB",
+      "author": "Mohan Reddy",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZaC1PR0JREAE",
+      "author": "VENKATESH M",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZaC1QamhnRRAB",
+      "author": "NAGUBANDI SRIKANTH",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Awesome treatment and care",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZaDdXNzh3RRAB",
+      "author": "Solleti Vani",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "I had a difficult tooth extraction(impacted tooth) in conquer. The doctors are very caring and respond to you very well. Hospital has a very pleasant atmosphere and has the most advanced equipment in guntur.\n\nThank you conquer",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZeV8ySG1RRRAB",
+      "author": "pavani yamarthi",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZaThPbUhnEAE",
+      "author": "Sriharika Indrani",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZcy1YYzJBRRAB",
+      "author": "Sai Sumanth Reddy Chagamreddy",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Hygiene environment with friendly doctor and staff",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZazVPMnVBRRAB",
+      "author": "Ashu bafna",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZay1ycVZREAE",
+      "author": "munnangi vamsi krishna",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZazREUS1nRRAB",
+      "author": "pramod.pokuri pramod",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZNDdPcFJnEAE",
+      "author": "Balachandra Mohan",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Good Hospital, Good Services and finally Best treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZNDVPQlBREAE",
+      "author": "Rahul Kota",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "I highly recommend this place, if you are looking for dental related treatment.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZN2JQRWV3EAE",
+      "author": "Haritha Mallina",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZelp2c3NBRRAB",
+      "author": "Sardar Syed",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Best place for dental implants.\nBest hospital in guntur.\nI highly recommend Dr.Rakhi for dental Implants.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZamI3OGFBEAE",
+      "author": "Gunapati Srinivasareddy",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZOVltbXVBRRAB",
+      "author": "Isha Aluminium",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "One of my friend referred to me to this hospital for a flap surgery . I was so terrified for getting the treatment done . Understanding my concern Dr. rakhi  suggested me the conscious sedation treatment and it helped me  over come my fear of the treatment. I feel it a must visit to this hospital for any body who has anxiety towards the dental procedures. as it is not available in any other hospital in Guntur !Excellent treatment with latest technologies",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZdGUtaERREAE",
+      "author": "Satish T",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZdFlXUVRREAE",
+      "author": "Mimicry Siva",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZdGJLNmp3RRAB",
+      "author": "Meghana Koorapati",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZdGJ6ODlnRRAB",
+      "author": "SRINU ANDELA",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZekpPWjNBRRAB",
+      "author": "Perrisetty Sirisha",
+      "rating": 5,
+      "relative_date": "Edited 7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZdGZERVJBEAE",
+      "author": "SRINIVAS RAMADENI",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZdGREVWRREAE",
+      "author": "venkat sasanala",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZMWJPN2h3RRAB",
+      "author": "Sree Sowjanya Patibandla",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZMWJYOXp3RRAB",
+      "author": "Srinivas Perisetty",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZMWJtU3NRRRAB",
+      "author": "KOTA ANJANEYULU",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZMWZHckJREAE",
+      "author": "Srinumiriyala",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZMVphSkJBEAE",
+      "author": "Karthik Regella",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZbFlPLTh3RRAB",
+      "author": "Pattabhi Vemulapati",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "competent doctors and very good patient care",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZbGVuRTFRRRAB",
+      "author": "Herbalife Independent Associate",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Service oriented",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZMnFYdGpBRRAB",
+      "author": "KVA",
+      "rating": 5,
+      "relative_date": "Edited 7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZb1pEYmZBEAE",
+      "author": "Jaibin George",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZd2Z2YldBEAE",
+      "author": "Padma Mandalapu",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "State of the art facility!  Best in Guntur! Dr.Rakhee has taken care of my mother and mother-in-law who has special medical needs. Her facility is on par if not better than most dental offices in USA. I sleep better at night knowing that I have a great doctor taking care of my family in India.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZZ2RhRUR3EAE",
+      "author": "preethi polavarapu",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Dr. Rakhee is  a highly skilled doctor.  I felt doctor spent enough time in explaining what's going on with me I'm very statisfied with the care and recommend her for anybody.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZN3JHTHNRRRAB",
+      "author": "Neeharika Parchuri",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZN3I3SFVREAE",
+      "author": "Sri Valli Billapati",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZcnRDa1ZREAE",
+      "author": "pallapothu theja",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZenY3aUZnEAE",
+      "author": "rajesh uppala24",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "This is one of the best Dental hospital in Guntur. Great Service. there is no inconvenience or delay in any services.I had a wonderful experience here with the whole team, the nursing, doctors and the coordinators all ready for any help or support needed at any time. All facilities are available there.i recommend to go to Conquer Hospital 😊",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZanZlWm13RRAB",
+      "author": "shreekanth falke",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZbHRmZ0d3EAE",
+      "author": "Neelima G",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZNXJEQWpnRRAB",
+      "author": "CA. Hanuman sastry Yenugu",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Very good treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChRDSUhNMG9nS0VJQ0FnSURZcHVOMBAB",
+      "author": "AJAY KRISHNA",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZcHZXZzhRRRAB",
+      "author": "Swathi Bandlamudi",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "I highly recommend this conquer becoze of its high and international standards.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZcHRXMlp3EAE",
+      "author": "Manisha Manu",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZcHRYOFd3EAE",
+      "author": "M SWATHIMEGHANA",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZcHRtMWdnRRAB",
+      "author": "Balarama Krishna Rao Pachipulusu",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZcHNuUmtBRRAB",
+      "author": "movva balaramchowdary",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "i got my teeth whitening yesterday at conquer, very comfortable, painless procedure, i kept listening to my music And my whitening treatment got over. I never knew teeth whitening is so simple and safe. Tq dr.rakhi\nI highly recommend this hospital",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZcHNIODJ3RRAB",
+      "author": "Rohitha Sudheer",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Very great job done by Doctor. Friendly atmosphere with latest equipments. Phobia for dental treatments will vanish due to painless treatments. I would highly recommend this clinic for all dental treatments.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZcHE3TGtBRRAB",
+      "author": "Bala Subrrahmanya",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZcHZyNk1nEAE",
+      "author": "rajeswari ts",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Nice treatment and hygenic hospital friendly staff.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZcHRxNWlRRRAB",
+      "author": "Ram ST",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Good and hygienic labs . Clean environmental . Worth the money .",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZcHJDOU53EAE",
+      "author": "Mridula Kakarla",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Dr. Rakhee is very efficient and sincere to her duty",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZcHR5QVZREAE",
+      "author": "balaji gupta",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Problem identification is very accurate and treatment is excellent",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZcHB6ZVB3EAE",
+      "author": "Gy3 chintoji",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "One stop solution for all teeth problems, Dr Rakhee is really highly skilled and friendly. Conquer is one of the best hospitals I know",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZcHF5QWNBEAE",
+      "author": "Bijaya Laxmi Sahu",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Good",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZcHBUUVVREAE",
+      "author": "naseema sk",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZcG9DU1p3EAE",
+      "author": "Suvarchala N",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Clean hospital\ngood patient care\nAttention to detail is what makes the difference at conquer.\nWhole family got treated here.\nEach and everyone is happy.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZeHNQc3NnRRAB",
+      "author": "Sai Pranavi",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZeHMyMjB3RRAB",
+      "author": "chetna era",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Good and quality treatment ... very hygiene and one of a kind ambience.. highly recommend..one stop for all your dental and hair problems",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZLXVXNFVREAE",
+      "author": "lakshmi janaki kothamasu",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Treatment is good",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZLW9UVWxBRRAB",
+      "author": "Gopi Nadh",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Encironment Good",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZbXJ2eTV3RRAB",
+      "author": "nutalapati singaiah",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Good",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZMnRhclpnEAE",
+      "author": "Mr . Venkat",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZMnNibGNBEAE",
+      "author": "pavan electronics",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Conquer dental and Maxillofacial centre follows the best sterilization methods. It is fully equipped with latest and best infrastructure.\nBest hospital in guntur.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZbXFmak5BEAE",
+      "author": "Saigopi Chand",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZekxuYnN3RRAB",
+      "author": "Abhi Kumar Vicky Vicky",
+      "rating": 5,
+      "relative_date": "Edited 7 years ago",
+      "text": "I got compositve fillings done at conquer very nicely done  no body can even recognize the fillings meticulus are done by rakhi. Medam. Tq",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZbXVTWnNRRRAB",
+      "author": "Rajeswara Rao Kudary",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Teeth whitening has given me desired results.\nI am happy and confident now",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZbXFUZk5BEAE",
+      "author": "Akbar Basha",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Wisdom tooth removal was painless and smooth.\nHad good experience at conquer.\nTq Dr.Rakhi garu",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZbXNTbjNBRRAB",
+      "author": "Khadar Vali",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "My kids got treatment done at conquer.\nThey are super happy.\nThey are awaiting for next appointment.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZcXB2S2p3RRAB",
+      "author": "Vikram Damaraju",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Dr Rakhi is an energetic, sensible and trustworthy person.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZbklmRF9RRRAB",
+      "author": "aswini atkuri",
+      "rating": 5,
+      "relative_date": "Edited 7 years ago",
+      "text": "Highly skilled doctors and very effective treatment at affordable prices",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZeXIzeXh3RRAB",
+      "author": "Vedula Praveena",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZaXAzWHV3RRAB",
+      "author": "DV K",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Conquer Hospital services have been phenomenal. The staff are always friendly and kind and they keep operations running very smoothly. My orthodontic treatment has been better than I could ever imagine. My orthodontist says what she’s going to do then does exactly that—which is professional. Also, the services are at the reasonable price which is very much at better level as compared to other hospitals in town. Overall it’s been a great experience and I would choose them again.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZaXZEb3dnRRAB",
+      "author": "Jjwan 1",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZaXFEN0pnEAE",
+      "author": "chaitu chaitanya",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Fantastic service and friendly staff!!...I was extremely impressed with Dr Rakhee's work.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZaW9ETzR3RRAB",
+      "author": "P D",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Thanks to Dr. Rakhee.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZaXNDOXlRRRAB",
+      "author": "Lakshmi Kamala",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Personally, I had a GREAT experience with Conquer Hospital.  People can’t understand why patients are giving 5 star rating to this hospital, until and unless you visit this hospital.  My 7 years old son always feels nervous to see hospital atmosphere, but in Conquer hospital, kids feel happy home environment because of best team and pleasantness in place. My son got fillings and fluoride therapy done at conquer. My son and me, we just love Conquer. Any child can go to this hospital happily whenever they have an appointment without hesitation. Best hospital for kids in my knowledge.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZOHQtSUlBEAE",
+      "author": "Bunny vas",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZOHR2cHlBRRAB",
+      "author": "Visala Prasad",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZOHJQZ1d3EAE",
+      "author": "Durgaprasad katrapati",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "I have undergone dental surgery in this hospital, the infrastructure, equipment are really good. The best doctors are available here, Thank you.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZOHB2WHZ3RRAB",
+      "author": "Rajasekhar Itha",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Conquer is a great hospital and Dr. Rakhi Santosh is too good. She carefully listens and hit on the problem directly. Total team is very instrumental in their approach. Hospital is elegant and has latest equipment that it needs for all kinds of dental problems. Overall it's an awesome experience in conquer, well done!!",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZOHF1MHh3RRAB",
+      "author": "Bhanupriya Itha",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "This is not the first time we go to this clinic and everytime we experience a great service from all staff. Flexible appointments, flexible payments. Ters no longer waiting time usually...",
+      "maybe_truncated": true,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZOHRQd25nRRAB",
+      "author": "Andhra Photography",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Recently I went to this Conquer hospital for root-canal treatment. I am sure; only Conquer is the best hospital in Guntur.  This hospital has highly advanced equipment, staff with generous behavior and skillful doctors.  First when I entered into this hospital I felt anxiety about the prices of the treatment, because of Hi-Fi features and appearance of this hospital. But after I took my final bill, I noticed very low rate charges compared to facilities. I got metal free zirconium cap. Now I strongly believe, in this commercial world, some hospitals like this Conquer; still exist to aid patients, not only for making money but also serve with hospitality and kindness. I feel,  5 stars are not enough to rate this hospital, it is on further than that level.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZOHVPYjl3RRAB",
+      "author": "sravanthi vutukuru",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZOHMzdVZ3EAE",
+      "author": "Tanvi Yallapragada",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Highly qualified Doctors at Conquer,treats with great empathy for patients. They explain everything very clearly, their friendly attitide makes the patients feel comfortable. Polite staff with good professionalism",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZOHEycHVBRRAB",
+      "author": "Krishna Sarmishta Srigiriraju",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Plesant atmosphere with very good doctors..\nFelt great about my treatment there",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZOHRXRU9BEAE",
+      "author": "Arunkumar Challa",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "It really makes a difference wen the doctor is from a doctors family.\nThe way she diagnosed and treated was outstanding.\n\nno doubt  100% Better service",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZOG9tN3pRRRAB",
+      "author": "tanuja katrapati",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZOHJIWGJBEAE",
+      "author": "puladeep p",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "very advanced technology  treatment in conquer with low treatment cost,  happy teeth 😁 …",
+      "maybe_truncated": true,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZOHY2WV9RRRAB",
+      "author": "Sk Suhana",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "best dentist , best treatment, best hospital in guntur",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZOHRMeF9nRRAB",
+      "author": "Sai Saranya",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "It's a very good hospital with very good and advanced equipments which aids a lot for the treatment of patients..happy with the service",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZOHVLMHZRRRAB",
+      "author": "RAM BABU",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "be it wisdom tooth or normal tooth , at conquer everything is effortless and painless and comfortable throughout. I m a scare cat , but these guys treated me so well that I forgot my fears and anxiety. Hats off to the team",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZOHBTQ2h3RRAB",
+      "author": "Chaitanya Kommineni",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Efficient doctor.  Effective treatment.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZc3JfbjdBRRAB",
+      "author": "Ashok Kumar",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "I got 3 dental implants placed.\nConquer is an excellent  place for dental implants.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZc3YtZnJBRRAB",
+      "author": "ashish basha",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Good hospital\nGood doctors",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZc3ItVWd3RRAB",
+      "author": "rafe786 rafe786",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Excellent results for teeth whitening at conquer\nI m v happy now",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZZ29meG5nRRAB",
+      "author": "Vikas Gourgonda",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "The best dental clinic/hospital in Guntur!! Courtesous and really skilled doctor for any kind of denatl treatment, clinic is equipped with the latest technology for all kinds of treatments.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZd3ZlZ01BEAE",
+      "author": "Murugesapandi KS",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Conquer has got the BEST doctor with a nice ambience and all advanced equipments. I was delighted with the overall experience during my recent visit. I would recommend Conquer for all dental related issues. This is the best in Guntur. All the best to the team!! Keep up the good work!!",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZZ3JPS1RnEAE",
+      "author": "Harini Phani",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Amazing experience first dental visit for my 3 years old Lil daughter. Doctor Rakhi is very patient to toddler, my kids loved it so much.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZZ29QRnN3RRAB",
+      "author": "Alifa Sk",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "I had a routine cleaning , filling and mouthguard done and the process has never been as smooth as conquer ...From the reminder the day before the appointment... ”",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZZ3YyT29RRRAB",
+      "author": "venkatasravani badanede",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Fantastic service and friendly staff! Exceeded my expectations with in terms of the facility. Dr Rakhi is a true professional! Looking forward to my next appointment...",
+      "maybe_truncated": true,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZZ3MzSEVBEAE",
+      "author": "Nanduri Venkatasubbarao",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Genuine doctor\nFriendly staff\nHygienic environment",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZZ3I3MVBREAE",
+      "author": "saravan kumar",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Conquer is an amazing hospital.\nSkilled dentist and meticulous work done by her. I got bio-mimetic filling done on my front broken tooth, improved my smile.\nWork worth the price.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZX0t1WDdnRRAB",
+      "author": "Shaik Subhani",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "I got tooth whitening treatment at conquer. Conquer has got the best and safest whitening equipment,  I don't have any sensitivity after treatment.  I feel more confident now. Tq Dr. Rakhi",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZbktlbllnEAE",
+      "author": "ravuriabhignya ravuriabhignya",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Pleasant and calming interiors,\nPainless and quality treatment\nWell Trained dental assistants",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZckl5SGZ3EAE",
+      "author": "srivalli Nanduri",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "I underwent clip treatment at conquer\nI m so happy and confident now .",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZektlaWpBRRAB",
+      "author": "A Padmaja",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZektPdlVBEAE",
+      "author": "Perisitty Srinivas",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZeklPSWRBEAE",
+      "author": "channamsetty durga phanindra swamy",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Nice treatment  feeling well now...",
+      "maybe_truncated": true,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZek5XcXVRRRAB",
+      "author": "alekha bekkanti",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZek5tZ2hRRRAB",
+      "author": "Konda Kona",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZekpuX2N3EAE",
+      "author": "Gaana madhurima 2020 swarajhari",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZeko2NmJREAE",
+      "author": "Mogili Nagaraju",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "i went to conquer dental hospital for replacing my missing tooth,  Dr. Rakhi  has advised me to opt for dental implants. so, i got my implant placed, i was very comfortable through out  the whole procedure.\nthanks to the doctor and staff of conquer.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    }
+  ],
+  "reviews_error": "",
+  "sorted_newest": true,
+  "stopped_at_known_review": false,
+  "reviews_captured": 164,
+  "owner_replies": 0,
+  "truncated_reviews": 6,
+  "reviews_coverage": 0.994,
+  "date_anchor": "2026-08-20T19:17:43",
+  "extract_seconds": 79.2,
+  "missing_fields": [
+    "phone"
+  ],
+  "listing_position": 66,
+  "source_query": "dermatologists in Guntur",
+  "listing_name": "Conquer Hospital"
+}

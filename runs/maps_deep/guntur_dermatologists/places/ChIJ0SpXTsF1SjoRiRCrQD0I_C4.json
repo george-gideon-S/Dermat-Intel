@@ -1,0 +1,81 @@
+{
+  "place_url": "https://www.google.com/maps/place/Swamy+skin+clinic/data=!4m7!3m6!1s0x3a4a75c14e572ad1:0x2efc083d40ab1089!8m2!3d16.2942128!4d80.4370174!16s%2Fg%2F11ydcdxjnp!19sChIJ0SpXTsF1SjoRiRCrQD0I_C4?authuser=0&hl=en&rclk=1",
+  "captured_at": "2026-08-20T19:23:31",
+  "feature_id": "0x3a4a75c14e572ad1:0x2efc083d40ab1089",
+  "place_id": "ChIJ0SpXTsF1SjoRiRCrQD0I_C4",
+  "kg_mid": "/g/11ydcdxjnp",
+  "lat": 16.2942128,
+  "lng": 80.4370174,
+  "name_raw": "Swamy skin clinic",
+  "name_clean": "Swamy skin clinic",
+  "name_key": "swamyskinclinic",
+  "name_dropped": [],
+  "name_was_cleaned": false,
+  "category": "Skin care clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "1st Ln, Nagarampalem, Guntur, Andhra Pradesh 522004",
+  "plus_code": "7CVP+MR Guntur, Andhra Pradesh",
+  "phone": "",
+  "website": "",
+  "website_domain": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "insecure_http": false,
+  "website_matches_name": null,
+  "rating": null,
+  "reviews_total": null,
+  "rating_histogram": null,
+  "topics": null,
+  "google_profile_gaps": [
+    "Add place's phone number",
+    "Add hours",
+    "Add website",
+    "Add a photo"
+  ],
+  "has_photos": false,
+  "hours": null,
+  "about": {
+    "Map details": [
+      "Transit",
+      "Traffic",
+      "Biking",
+      "Terrain",
+      "Street View",
+      "Wildfires",
+      "Air Quality"
+    ],
+    "Map tools": [
+      "Travel time",
+      "Measure"
+    ],
+    "Map type": [
+      "Default",
+      "Satellite",
+      " Globe view ",
+      " Labels"
+    ]
+  },
+  "reviews": [],
+  "reviews_error": "reviews pane did not open",
+  "sorted_newest": false,
+  "reviews_captured": 0,
+  "owner_replies": 0,
+  "truncated_reviews": 0,
+  "date_anchor": "2026-08-20T19:23:31",
+  "extract_seconds": 74.3,
+  "missing_fields": [
+    "phone",
+    "website",
+    "rating",
+    "reviews_total",
+    "hours",
+    "photos",
+    "reviews"
+  ],
+  "listing_position": 70,
+  "source_query": "dermatologists in Guntur",
+  "listing_name": "Swamy skin clinic"
+}

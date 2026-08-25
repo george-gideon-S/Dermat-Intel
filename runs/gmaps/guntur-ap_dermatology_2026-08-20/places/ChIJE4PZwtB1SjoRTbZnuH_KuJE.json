@@ -1,0 +1,1217 @@
+{
+  "key": "ChIJE4PZwtB1SjoRTbZnuH_KuJE",
+  "tier": "full",
+  "complete": true,
+  "place_url": "https://www.google.com/maps/place/Dr+Uma%27s+Skin+Hair+%26+laser+Clinic/data=!4m7!3m6!1s0x3a4a75d0c2d98313:0x91b8ca7fb867b64d!8m2!3d16.3095156!4d80.4181266!16s%2Fg%2F11sbsh25q2!19sChIJE4PZwtB1SjoRTbZnuH_KuJE?authuser=0&hl=en&rclk=1",
+  "captured_at": "2026-08-20T23:12:34",
+  "rank": 16,
+  "place_id": "ChIJE4PZwtB1SjoRTbZnuH_KuJE",
+  "feature_id": "0x3a4a75d0c2d98313:0x91b8ca7fb867b64d",
+  "kg_mid": "/g/11sbsh25q2",
+  "lat": 16.3095156,
+  "lng": 80.4181266,
+  "dup_of_rank": null,
+  "has_online_booking": false,
+  "booking_url": "",
+  "booking_vendor": "",
+  "service_options": null,
+  "permanently_closed": false,
+  "temporarily_closed": false,
+  "status_text": "Closed · Opens 10:30 am Fri",
+  "open_now": false,
+  "is_ad": false,
+  "review_snippet": "",
+  "name_raw": "Dr Uma's Skin Hair & laser Clinic",
+  "name_clean": "Dr Uma's Skin Hair & laser Clinic",
+  "name_key": "drumasskinhairlaserclinic",
+  "name_dropped": [],
+  "name_was_cleaned": false,
+  "category": "Skin care clinic",
+  "card_category": "Skin care clinic",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "D.no 3-1, 194/2B, Main Road, beside SBI bank, Pattabhipuram, Guntur, Andhra Pradesh 522006",
+  "plus_code": "8C59+R7 Guntur, Andhra Pradesh",
+  "phone": "093981 83960",
+  "website": "",
+  "website_domain": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "insecure_http": false,
+  "website_matches_name": null,
+  "rating": 5.0,
+  "reviews_total": 134,
+  "rating_histogram": {
+    "5": 131,
+    "4": 2,
+    "3": 0,
+    "2": 0,
+    "1": 1
+  },
+  "histogram_sum": 134,
+  "histogram_reconciles": true,
+  "topics": {
+    "laser hair removal": 6,
+    "skin problem treatment": 17,
+    "dermatologist": 12,
+    "patient listening": 7,
+    "no waiting period": 2,
+    "chemical peels": 2,
+    "accurate diagnosis": 2,
+    "effective treatment": 7,
+    "patient education": 6,
+    "experienced doctor": 5
+  },
+  "google_profile_gaps": [
+    "Add website"
+  ],
+  "has_photos": true,
+  "hours": {
+    "Thursday": "10:30 am to 2:30 pm, 6 to 9 pm",
+    "Friday": "10:30 am to 2:30 pm, 6 to 9 pm",
+    "Saturday": "10:30 am to 2:30 pm, 6 to 9 pm",
+    "Sunday": "Closed",
+    "Monday": "10:30 am to 2:30 pm, 6 to 9 pm",
+    "Tuesday": "10:30 am to 2:30 pm, 6 to 9 pm",
+    "Wednesday": "10:30 am to 2:30 pm, 6 to 9 pm"
+  },
+  "about": {
+    "Accessibility": [
+      " Wheelchair-accessible seating",
+      " Wheelchair-accessible toilet"
+    ],
+    "From the business": [
+      " Identifies as women-owned"
+    ],
+    "Amenities": [
+      " Gender-neutral toilets",
+      " Restroom"
+    ],
+    "Crowd": [
+      " LGBTQ+ friendly"
+    ],
+    "Planning": [
+      " Appointment required",
+      " Appointments recommended"
+    ],
+    "Payments": [
+      " Google Pay",
+      " NFC mobile payments"
+    ],
+    "Map details": [
+      "Transit",
+      "Traffic",
+      "Biking",
+      "Terrain",
+      "Street View",
+      "Wildfires",
+      "Air Quality"
+    ],
+    "Map tools": [
+      "Travel time",
+      "Measure"
+    ],
+    "Map type": [
+      "Default",
+      "Satellite",
+      " Globe view ",
+      " Labels"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGU1VqbDJSRGRRUmpOWVlVaHphbEp4Y2t4eE1sRRAB",
+      "author": "A Google User",
+      "rating": 5,
+      "relative_date": "a week ago",
+      "text": "Good doctor and treatment",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4aGJHRXpVV0pXU3kxaFRYVndhMjVoUkhWeU0xRRAB",
+      "author": "venkat ramana",
+      "rating": 5,
+      "relative_date": "2 weeks ago",
+      "text": "One of the best Dermatologist cum cosmetologist in guntur city.. quick response.. good treatment.. with fast curing result..",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWbFJtaElOek14VFRsa2VVNXlOSE5EUmxGd09HYxAB",
+      "author": "adla rojarani",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "Dr.Uma ,she is a very nice doctor, the clinic environment is very welcoming . She took the time to listen her patient's complaints and explain everything in clear easy-to understand manner.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25VMVVqaHdZVzl5VTE5Vk9UVkpSa05wTmxsaGIwRRAB",
+      "author": "ungarala ravi",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "Very good well experienced dr garu i visited twice I got very good results within a few days thank you madam",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKYVkxazBXbUZyT1ZFMGIwNHhjMWhvZVZnMk4xRRAB",
+      "author": "Divya Vinukoti1122",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "Nice way of treating wth patients well experienced I got very good results",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSWGVqWktMVVo2UVRWMmNURlhUM1pYU0d4Uk1GRRAB",
+      "author": "Lanka Bhimesh",
+      "rating": 5,
+      "relative_date": "Edited a month ago",
+      "text": "Dr uma Rani madam garu ...Good and nice way of treating the patients and taking care about the patients nice talkative one Word very reasonable and worthable doctor in guntur thank you madam treating me like this ...",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201T1FWOVFXSFJvVmpSUVpXWlNTRUkyWkVweFJFRRAB",
+      "author": "shabbeer klm",
+      "rating": 5,
+      "relative_date": "2 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWRE5tbHljWEozT0hWWVFtMXdXR0ZsTWpoc2FYYxAB",
+      "author": "Vamsi Jinkala",
+      "rating": 5,
+      "relative_date": "2 months ago",
+      "text": "“Had a great experience with Dr. Uma Rani. She explained everything clearly and gave excellent treatment.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pNMFJpMWxSMWROWDAxNExYZGtVWGxoT1RSamFIYxAB",
+      "author": "Budina Avinash",
+      "rating": 5,
+      "relative_date": "3 months ago",
+      "text": "Good Consulting From Madam",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twTWFIRnhVM2cyZVhWRFdHTnFNbFkyTlRNNU1VRRAB",
+      "author": "Sravanthi Gudivada",
+      "rating": 5,
+      "relative_date": "3 months ago",
+      "text": "Dr Uma garu is absolutely good .She takes the time to listen the patient problems and provide excellent treatment. Highly recommended.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tNNGNtVldSMkk0VVhWMFlUSmlibVUzU2xkUFYyYxAB",
+      "author": "Ravi Teja Gorrepati",
+      "rating": 5,
+      "relative_date": "3 months ago",
+      "text": "Excellent treatment",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20wMk5EbHBUV2gxTVcxYWMxZFZPVEZTY1ZWWFozYxAB",
+      "author": "Priya k",
+      "rating": 5,
+      "relative_date": "3 months ago",
+      "text": "Dr.uma is very best doctor and lot of patience towards listening the problems and deep analyzing. Best way of explaining about the  products use and procedures. Staff is well mannered, I highly recommend to consult.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5dFNrY3dSelJoUzBkMmQyNVllWEUxVmkxSlQzYxAB",
+      "author": "Swathi",
+      "rating": 5,
+      "relative_date": "3 months ago",
+      "text": "I had a wonderful experience with Dr. Uma Rani. She is extremely professional, patient, and attentive while listening to concerns. Her diagnosis was accurate, and she explained the treatment in a very simple and clear way. I felt very comfortable during the consultation. She takes time to understand the problem and does not rush through the appointment. The treatment she suggested worked effectively, and I could see visible improvement. Her friendly and caring nature makes patients feel at ease. The clinic is also well-maintained and hygienic. I truly appreciate her dedication and expertise. I would highly recommend Dr. Uma Rani to anyone looking for a reliable and skilled dermatologist.\nThank you, doctor, for your excellent care and support. Your guidance truly made a positive difference in my health.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205Mk1qUndWVzlaUW14TFlrcHlNR0p5Tm1KNFNrRRAB",
+      "author": "Anil Kumar",
+      "rating": 5,
+      "relative_date": "3 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKMmJrRmtNVkJQY1ZkVUxXdDVUelJmTTJKZk1WRRAB",
+      "author": "deepika b",
+      "rating": 5,
+      "relative_date": "4 months ago",
+      "text": "I'm thrilled with my experience at Dr Uma's skin hair and laser clinic. She is friendly and treatment is remarkably effective, comfortable,",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toWFFrZzVOemw0VlZCUmFIZzRTRlJIZVdadFlXYxAB",
+      "author": "Aruna gudepu Nagaraju gudepu",
+      "rating": 5,
+      "relative_date": "4 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21VMVNHVnhYMFF4VmxKNlFqaDZja296U0dWMlVWRRAB",
+      "author": "Lakshman Kandi",
+      "rating": 5,
+      "relative_date": "4 months ago",
+      "text": "Good Doctor for all skin types",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xbVNFWlJlV1ZYZFZKaFFsSlFkVVZPYjJaV1ExRRAB",
+      "author": "Hussain Bee Sk",
+      "rating": 5,
+      "relative_date": "4 months ago",
+      "text": "Dr is well experienced and also  very friendly in explaining about treatment,\nBest Dermatologist",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWTmVuTnRiRTlhTFY5NGNFZzRlRUpaWVRVeE9IYxAB",
+      "author": "Rakesh Paari",
+      "rating": 5,
+      "relative_date": "4 months ago",
+      "text": "Thank you doctor",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWNE9UWTRNWFp0UTBZM1UwTklMWEZmWVhSelRFRRAB",
+      "author": "Kk",
+      "rating": 5,
+      "relative_date": "5 months ago",
+      "text": "Good doctor. Polite staff",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWSFVFbHlXRnAwVjNOd04wMDFkR0ptTVZCTFdIYxAB",
+      "author": "Vasa Nani",
+      "rating": 5,
+      "relative_date": "5 months ago",
+      "text": "The best doctor I have seen..\nFriendly Doctor And friendly staff ...",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xRM05rOXdTVWRyUkZFM05Hb3dkRGhwWlc1Uk1YYxAB",
+      "author": "Sreenivas Ballavolu",
+      "rating": 5,
+      "relative_date": "5 months ago",
+      "text": "Very nice Dr",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5S1R6WTNNbHBhY1dkcGRHSkxZV1pDY3pCZk0xRRAB",
+      "author": "kotesh bolleddu12",
+      "rating": 5,
+      "relative_date": "5 months ago",
+      "text": "Too good treatment i got after visiting here",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKUFJ6RnRSbmN0TTBSYWFVcHhOMnBOT1VaTU5sRRAB",
+      "author": "Yuvaraja nalamala",
+      "rating": 5,
+      "relative_date": "5 months ago",
+      "text": "Best clinic",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aSGVYSTNObGx0WkVScVRVSXlUV3BUV21sTlYzYxAB",
+      "author": "Rakesh Pari",
+      "rating": 5,
+      "relative_date": "5 months ago",
+      "text": "Good treatment",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OdlVrbERVa1ZFT1dOdlYySkJkRkZ1VGtvNE9YYxAB",
+      "author": "K. lakshmi Lakshmi",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "I got 3 session of chemical peels done,Ican see visible changes thank you madam",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSUGJWUmZaVkpVYW1kM1lsOXRVMVZ2YTJ4UGJXYxAB",
+      "author": "Shaik Vaseem",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "Good experience",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSNWFUaFdWMFIyWWxod2FqQXhXUzE2ZUU5UmNtYxAB",
+      "author": "karnati rajasekhar",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "\"Dr. P UMA RANI Madam is an exceptional dermatologist! I visited  for skin problem and was impressed by their professionalism, thoroughness, and kind demeanor. They listened carefully, explained everything clearly, and provided effective treatment options. Highly recommend for anyone seeking top-notch skin care! 5/5 stars",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WVVdWbDFORlk0YTBsbVkyUnFRbEprTTBzeVlsRRAB",
+      "author": "NAGA SAI",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "Dr Uma Rani madam is a highly recommended dermatologist who is knowledgeable, professional, and very friendly with her patients",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWTlltOUNVazV5Y0dKUFNrNWxXbEY0WVVsdVNHYxAB",
+      "author": "Suhail Shaik",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "Good treatment you so much, doctor, for your wonderful treatment and support. 🙏\nI strongly recommend Dr. Pabba . Uma rani to anyone looking for a genuine and experienced skin specialist …",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5S1gySmxRVU0wWDNKbVExOWFNbE5DWWxCS1IyYxAB",
+      "author": "nalluri swetha",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "I had a very good experience with Dr Uma Rani madam. The doctor is well qualified and excellent, listened patiently and explained my skin condition clearly. The staff was polite and the hospital was clean. I am satisfied with the treatment. Thank you for the good care.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201RlMzWmtUV1pyV1RFdFJrcFdjMGRvUXpGNWRrRRAB",
+      "author": "sri harsha alumolu",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "One Stop solution for all the skin related issues\nBest treatment in guntur where you can get\nRecommendation to All",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oT1QzbFVVMEp6Vm10aGJHSmZUMVF0ZUhCb09VRRAB",
+      "author": "Roshan Jaan",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25BMVVYZEpOVXBrYUhsMFdEUndPV3RHTUdjMVNFRRAB",
+      "author": "galib maddam",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSRlNGZERhVm80U1haQlFrdFFVbkJvZEdoNFEzYxAB",
+      "author": "Deepika Nukabathini",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkS1NYSTNiSFZHVHpkc1NISnZWWFI1Y1V4RlgwRRAB",
+      "author": "kumar dvrn",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "Good Doctor.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsVmRtWjJNVnBCTkZkWlRDMU9jVVZZVkV0SmMyYxAB",
+      "author": "Mr Beast",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "Good hospitality and good doctor . She deserves to be a good doctor",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxQ2JXMVdaVEF0VDNCQk9FNVNkR05LWVdodWVrRRAB",
+      "author": "Subhani Shaik",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "visited Dr. P. Umarani for my skin problem, and I am extremely happy with the treatment. She listens very patiently and clearly explains the root cause of the issue. Her diagnosis is accurate, and the medicines she prescribed worked perfectly within a short time.\n\nThe clinic is well-maintained, staff are polite, and the waiting time is very reasonable. I really appreciate her caring nature and friendly approach.\n\nAfter visiting many skin doctors, I can confidently say Dr. Umarani is the best dermatologist in Guntur.\nMy skin has improved a lot, and I feel more confident now.\n\nThank you so much, doctor, for your wonderful treatment and support. 🙏\nI strongly recommend Dr. P. Umarani to anyone looking for a genuine and experienced skin specialist.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21nNFh6SlRiSGN5UjJjeE4zTXhSazl3VkhCVk1HYxAB",
+      "author": "Rafi Shaik",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "Dr.Uma Rani mam was so patience towards listening to concerns.kind gesture of a person, Always greets her patients with smile.initially she will educate the patients about the issue instead of directly treating.Provides better suggestion and solutions.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsbmVEVkxTRUpTTlZSdGEyZ3RNbTVQWjFnMFIzYxAB",
+      "author": "Sridhar Babu Mr",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "Good Treatment and speed recovery",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20wd2IyeFNYekpOY1hRM09WbzJkVXhyT1hGTVRVRRAB",
+      "author": "Dr.Nirmala Kusuma",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWeFZtMVJMV2RtWDFWV1prdE9aR0Y2YUVWVE4yYxAB",
+      "author": "Jyothi Shivinoori",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "Dr. Uma Rani P.\nShe is well experienced and Excellent doctor. I suggest all the people to go through this Hair & Skin care specialist where it cures easily all problems which we are suffer.\n\nThank you\nDr. Uma Rani garu\nWith regards\nS. JYOTHI",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2preGFISmFTV2RuZEhoU1VGRkJkelZwYlhjeFNFRRAB",
+      "author": "Run Sandy Run",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "I visited Dr. Uma rani madam for my skin issue and had a great experience. She is very patient, explains everything in detail, and suggests only what is necessary. I’m really happy with the treatment results. Thank you, doctor!",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t3MlNYcERTSGw1UlZFMlRXMXpabE5rVGpab01uYxAB",
+      "author": "saiseshukumar tangellapalli",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "GOOD RECEIVENESS AND EXCELLENT TREATMENT",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kWGJUbFVTbWQyV214bGIwZHNOM3B6WmpGaFkwRRAB",
+      "author": "pavan kumar",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "Treatment is good friendly DR",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pFeWIyUjROVEZGYm5GUlRucG5XWFl3YW14TmMzYxAB",
+      "author": "BABU YADALA",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "Very good treatment, my skin problem cleared in 2 sittings. Doctor explained the problem very well. Good counselling & affordable treatment.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ONE56UnVTa0l5UTJNNGRIZHhkRkF6TUZkWmFIYxAB",
+      "author": "Gowz Moidheen",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "One of the best dermatologist in Guntur .I Strongly recommended for all the Skin treatment.Dr Uma Mam had very patiently responded to all the queries and he had clearly explained about the procedure to the Patients. Also the procedure proved to be very successful. Do check out this place before you step into any fancy clinics. Both the doctor & the staff are very hospitable. A one stop solution for skin treatmentThank You Mam",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toSVZGQktWbmxWYlVKMVdFcG9SMkZHZVRkcU0zYxAB",
+      "author": "Raja Harikrishnan",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21keWMwWkhWVFkzTkcwemJVbzRVRlJvWW5sdVFrRRAB",
+      "author": "Sambasiva mannem",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GdWJIaG9YMFJGTFhjM2QxazFURTVCTmswMlJYYxAB",
+      "author": "Naveen Kumar Eevuri",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oNmJsb3lRbGxEWWxaTlNrTmhXbVJ4WTJzd1gzYxAB",
+      "author": "Dr usha kranthi",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "Good experience with the doctor and the staff.\nGood treatment with reasonable prices👍 …",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sSVZYRkpXa1pHWWsweU5HVjFMV3MzWm5sd1dVRRAB",
+      "author": "CHENNAM PRAVEEN",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "Dr uma rani given accurate solution for my problem and it will resolve with in days\nThank you so much madam for u r care and what u take history of my problem\nthank you so much madam\nHeartly i recommend P UMA'S SKIN HAIR &LASER  CLINC\nPATTABHIPURAM",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1S2VUTnJPSEF4VGpNMGFEaEphakJKU2xOYVJtYxAB",
+      "author": "Tathanaboina taj khadar babu",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "Chala opikaga patient problem vintaru, disease\nGurinchi manchiga explain chestaru. Kachitamaina medicine matrame rastaru. Thank you Doctor Garu",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aTlR5MXZUVU5VUjFBeVpqSmhXV3RNU1VNeFNFRRAB",
+      "author": "Hema k",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "The doctor here prescribed me less medicine Comparatively but the treatment was effective, thank you for the best hair treatment",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWdGJYRlZSbVZPZGxOSGNsZHpZME5UT0ZGcVVHYxAB",
+      "author": "thoutam harish",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "After roaming many hospitals for the same skin problem, i got solution here, thank you madam",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOU1YxUlhWRXRCT0VkS2JFTnZRMWxMWkRWQ2VIYxAB",
+      "author": "Jalli Subrahmanyam",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "Treatment was really good. Doctor and the staff are polite in communication with patients. Results from the treatment and price are reasonable.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GbGFHNXBNRlJDUTBKR04ydHdTWEkwV0dOemFYYxAB",
+      "author": "Kakarla Lakshmi",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "Getting carbon facial done here ,nice results ,thank you mam",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xcU9WbHFVaTF4U1cwemNXMUhhRU0zTVVsM1FWRRAB",
+      "author": "Safik Khan",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I came here for hair and acne and the result is wonderful.. friendly doctor .",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1SVRIRmZSa3BxUkUxaE1WUXhWWGcxYTFwMk9FRRAB",
+      "author": "Vijayammu Dontharaju (vijjy)",
+      "rating": 4,
+      "relative_date": "a year ago",
+      "text": "Good Treatment",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tjeVlUTlNRa3RHY0ROcE1uRTJjVmxPTTB0R05rRRAB",
+      "author": "ao nakrekal",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Dr.uma is an exceptional dermatologist who listen patiently and carefully to my concerns and explained the treatment options in detail. The clinic was clean, well-organized, and the staff was very professional. I noticed a significant improvement in my skin within just a few weeks of following the treatment plan.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxc2QwMVVOMG8zWDFwM1RqSm5VazVCUWtaVE1WRRAB",
+      "author": "amrutha websqft",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "\"Amazing results and excellent care! Highly recommend this clinic.\"\n\"Professional staff, great service, and visible improvements in just weeks!\"\n\"Clean, friendly, and effective treatments — couldn’t be happier!\"\n\"Top-notch skin & hair care with genuine results!\"\n\"Expert doctors, modern equipment, and fantastic results!\"",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psVVJpMUlaR3hwV1ZOalJGOXphV3RtVTBsVU9YYxAB",
+      "author": "saddam mohammed",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I am getting treated for hair loss and I am getting good results. I recommended this clinic for good results and happy life. Thank you ma'am",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xodGVGODNSM0I2ZGtGTFIyVTNUMU0xUWs1a09GRRAB",
+      "author": "BHANU PRAKASH PRUDHIVI",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Dr. P.Uma Rani is a very professional and experienced doctor, and she shows a lot of care towards each of his patients. Unless it's truly necessary, she never puts his patients through expensive treatment. Doctor, I highly recommend you to all my family and friends who have skin or hair issues.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xNlRGOUlXRTFrVTNGcWQxZGtaMVpYVm5sdU5GRRAB",
+      "author": "Ganesh Kumar",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Treatment is very good",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT200MlRubGtZM2xrWVRaQ1JqVmhlRXRQT1ZCTGJFRRAB",
+      "author": "Ali khan",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Dr Uma garu  very caring person. pays attention towards every problem and suggests with lot of patience. I highly recommend this skin clinic and non commercial too.& Having Advance technology equipment.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tVM1dVOHlZME5PVEVsd2RIUlBOSG80UVUxaFpVRRAB",
+      "author": "Jasmine Thavanam",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I got 3 sessions of chemical peels done,I can see visible changes thank you madam",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210NU9XaGlZblpqYlZOTWIwRlJjVU5GVEVRNFluYxAB",
+      "author": "naresh jammula",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Good Treatment for any tipes of skin and Hair problems, Our believed That Doctor.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pneU9UbHRjV2RKWWtnemNrd3RWekJyZFVoTU9WRRAB",
+      "author": "Bhudhati Ravi",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kelozaFFabGRYU20xMGRFSm5RMHQ2Vm5ONlpHYxAB",
+      "author": "Masta namma",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Good doctor ,my problem cleared",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkWVVYVkJNME5sWld4dU9HcG9ZVmx0TjFaNE4xRRAB",
+      "author": "Chowdary Abhi",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGWVVVOWxjR2R3Tmt0S2NqbEpXWFpWTVcxbGJXYxAB",
+      "author": "Nageswarao Peddarapu",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGa1dsSXlSa2RUWnpWU1MzRnJWMVJqVm5kVFUzYxAB",
+      "author": "Sindhura T",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SQ1dsbDZUMjVSVDJkeVNGQTFVM1Z0Tm14bVQxRRAB",
+      "author": "shaik baji",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "People's Doctor",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xSlJsQkhRWFZ6U0VSVGVuYzNiemhtT0dJeldYYxAB",
+      "author": "amani kajjam",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5RFUzRmplV1F6TTFSb2IxZGlVREZ2WkVkdk5tYxAB",
+      "author": "ahaladha kajjam",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214S1h6RnljVk51WDI4NVprczNWblpqUzE4NVlXYxAB",
+      "author": "Abhigna Kanduri",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oalpFWTRXbk41VTFZeGVFVkpTSFpPUmpGaVMzYxAB",
+      "author": "Dhanunjay karthikeya Chunduru",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQtd0o2TWt3RRAB",
+      "author": "Jaya Lakshmi",
+      "rating": 5,
+      "relative_date": "Edited a year ago",
+      "text": "Its nice clinic and provided very good treatment.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pFelJIRldOM1pDTW5WWmRGaEljRTFhT0VvNFJsRRAB",
+      "author": "Tulasi M",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I'm getting treated for acne and I'm getting good results .thank you mam",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t3MU15MTRjSGxtTTFkNVJYTk1WVlZWVFV4NVoyYxAB",
+      "author": "Jyothi Aruna",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I have been Visiting this Clinic from 1Year for Hair and Skin Problems, I have seen great Results . And started seeing results in less than 3 Months.\nFirst Reason to choose this Clinic is for Doctor Uma.\nDoctor Uma Garu is Patiently listened to my Problems and explained the treatment well.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VKSzdrYnZycE1HVnpBRRAB",
+      "author": "bibijohn shaik",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Went for hair loss treatment,can see visible changes",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNqNkozUmJnEAE",
+      "author": "Honey K",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Hello,i have visited the clinic ones for my husband skintags,n warts removal he has very tiny ones and so many also after visiting the clinic within one procedure she does it..Now it's clear and very happy to visit the clinic again for any other procedures also..I highly recommend everyone if you have any skin are hair problems please do visit dr.uma's skin n hair clinic..\n\nThankyou so much doctor for your patience towards the patients...",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNENzlEWVFBEAE",
+      "author": "Anil Kumar",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNEN3ZiYXV3RRAB",
+      "author": "Vijay kumar ganjam",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Dr. Uma garu is wonderful human and also very caring person. pays attention towards every problem and suggests with lot of patience. I highly recommend this skin clinic and non commercial too.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNEcHJqMFJ3EAE",
+      "author": "Neeraja Donthula",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Excellent service",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNEMnJtWjZ3RRAB",
+      "author": "sukanya tavidisetty",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Very talented and smart working in guntur",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNEOHRtVEVBEAE",
+      "author": "T.S Chary",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNENG9DSXFnRRAB",
+      "author": "AKASH SINGH",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM5cjU2eHl3RRAB",
+      "author": "Harsha Chimirala",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM5bmZPZ3lBRRAB",
+      "author": "hakr puma",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Dr. Uma demonstrated exceptional diligence and clarity in her approach, ensuring a comprehensive process was followed. I underwent GFC treatment under her care, and the outcomes have been encouraging. I highly recommend her services for anyone considering similar medical care.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM5LWRuVEpREAE",
+      "author": "rehana shaik",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Very well experienced doctor.The doctor and staff provided excellent treatment.I highly recommended Dr uma s skin hair &and laser clinic.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM5NU5YQmF3EAE",
+      "author": "Harish",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Dr. Uma madam provided clear explanations, responded promptly, and demonstrated extensive knowledge. Highly recommend!",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNOeDZLcEh3EAE",
+      "author": "Ajay Darapaneni",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNOLTlHX29BRRAB",
+      "author": "Sk Shaheena",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I went for laser hair removal. Madam is softly spoken, and gud ambience clinic. No waiting period. They have hydrafascial, laser tattoo removal, laser pigmentation removal, .....equipment is gud and reasonable charged. I recommend this clinic .",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM1enNhbTJBRRAB",
+      "author": "Sravani Reddy",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Doctors is too good...she can understand my problem we'll....she was very friendly too",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURaMmFhQ293RRAB",
+      "author": "Akula Naga Ganesh",
+      "rating": 1,
+      "relative_date": "2 years ago",
+      "text": "Waste of money. used medicine but getting side effects.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNadC1LaWdRRRAB",
+      "author": "J Sandhya",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I consulted for laser hair removal. Clinic have advanced laser equipment. Iam happy with treatment. No waiting period. I strongly recommend this clinic for skin related problem.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNaM0ludHpnRRAB",
+      "author": "Oy Ravi",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I went for my hair dandruff problem. Doctor understood my problem, politely spoken, doctor spent time for my problem , gave medication. Clinic & staff are good. Now I relieved from my dandruff problem. I strongly recommend this clinic & Dr Uma garu for any skin related problems.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwaVlXLV9nRRAB",
+      "author": "Priyanka Kalli",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I went for skin problem. Madam seen & gud treatment given. Now my problem is gone. Madam is politely spoken, clinic is gud ambience. I strongly recommend this clinic for any skin prblm.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwMFllOXJnRRAB",
+      "author": "Vidya Deshmukh",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Thanks a lot Madam ( Vidula Rapate)",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURKbjVLcU1nEAE",
+      "author": "Sarath Babu",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Nice and cordial staff and Dr Uma gaaru was very helpful in solving the issue. I would definitely suggest to visit for any skin and hair related issues",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR4cGZ5ZHpnRRAB",
+      "author": "Niree Niree",
+      "rating": 4,
+      "relative_date": "3 years ago",
+      "text": "I am  taking that GFC hair treatment very good not a painful treatment this  very i am happy to this treatment hair loss is no",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4MFlES2JREAE",
+      "author": "ramkumar bonam",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "The Best doctor and treatment is Good",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR4MnBpcXhBRRAB",
+      "author": "Gautam S",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "In conclusion, I highly recommend Dr. Uma,  to anyone seeking professional dermatological care. Her exceptional expertise, compassionate approach, and dedication to patient satisfaction truly set her apart. My experience with her was nothing short of remarkable, and I will undoubtedly continue to trust her with my skincare needs in the future.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR4cXFmdXBRRRAB",
+      "author": "vangoori swetha",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Madam explained reasons for graying of hair in detail ... Nice doctor.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR4cXFPVmpRRRAB",
+      "author": "Deepthi Latha",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "I went to Dr.Uma regarding my hairfall.,doctor is very patient in speaking to and addressing our issue..thank u Dr.uma for your treatment..",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR4c295MjRRRRAB",
+      "author": "Pavan Raju",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Doctor was friendly, she took ample time to listen to us and she clearly explained about the issues and the care that needed to be taken.\nAttention she gives towards the patient is commendable. One of  Best Clinic in the Town.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR4d3U3TnRRRRAB",
+      "author": "Srikanth karanala",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4Z3RhSmRREAE",
+      "author": "Roopesh Velumula",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4Z3JxZld3EAE",
+      "author": "srikanth ramaram",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Listened to our problems patiently and gave good treatment.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR4bUtfeDdRRRAB",
+      "author": "saisowmya gatte",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Excellent",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN4NDY2TXN3RRAB",
+      "author": "Deepika",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "I went to hospital for my acne removal.\nThe doctor gave me some ointments and face wash. It worked very effectively.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN4NDdiYm1BRRAB",
+      "author": "Deepika Duvvi",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN4N2MzdHVRRRAB",
+      "author": "Munnam Raghavareddy",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN4elluenNRRRAB",
+      "author": "Jaya sri karampudi",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "I went for my hair loss problem. Madam clearly explained reasons for hair loss & advices GFC injections.  2 sessions are over & waiting for my 3rd injection.  God results after 2 injections only.  I strongly recommend this clinic for hair loss priblems.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSaGJMNTVnRRAB",
+      "author": "Karthik Karra",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSdWJQWU1REAE",
+      "author": "venkat palla",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "My name is Venkat Palla, working as a Software Engineer, IBM India. I have been suffering with few palm patchee and a kind of psoriasis for 2 years. I was not able to even type in the computer and was struggling a lot to work. I was visted few top most skin specialists in Guntur city but was not cured. Finally I visited Dr. Uma Rani garu and she has started treatment 3 months ago, she has given medicine and few diet advices. Now I felt better and almost my skin behaves normal. Only one thing that Dr. Uma Rani garu separates from other Doctors that she always listens to the patients and spends more time to get more details to understand the patients struggle. Now I am working very much comfortable, thanks a lot to Dr. Uma Rani garu.\n\nThanks & Regards,\nVENKAT",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSdWFhOE9REAE",
+      "author": "PATTAN MALIK KHAN",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Excellent treatment for skin diseases.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNScWRPSklREAE",
+      "author": "srinivas aithapu",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Excellent doctor good treatment",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURobnZQVjZnRRAB",
+      "author": "Sanam Pranush",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "It is the good clinic the way of the doctor responcing the problems for the skin... That's good..\nThe... Doctor UMA.. MADAM. giving the best advoices. For all the skin and hair problems.. Go to Dr Uma's skin and hair& laser Clinic... And check the results..",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURobnJtZExBEAE",
+      "author": "Mudavath sireeshabai",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Excellent treatment Mam and Tqs mam.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURobnRuMzhnRRAB",
+      "author": "Kancharla Maniraju",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Good",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURoaHAtU2dBRRAB",
+      "author": "Gopi Nath",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Easy to find the address, healthy and clean environment at clinic. Doctor treatment is very good, medicine worked effectively & got cured. I personally recommend to visit Dr uma's skin hair & laser clinic.😊👍 …",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNoZzRuQUF3EAE",
+      "author": "prasad rapate",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Dr. Uma is very patient friendly, listen carefully & suggest very effective & economical way of treatment",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNoNWJmcXBRRRAB",
+      "author": "Paleti Subba Rao",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Doctor's diagnosis and treatment of patients is excellent. I was treated by Dr.Uma for a skin problem and it was cured within a week, with correct medicines.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNod3M2UUFREAE",
+      "author": "Komma Malleshwari",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Excellent diagnosis and treatment mam. Thank you",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCMnNmMExnEAE",
+      "author": "Venkatesh kanuru",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Excellent Treatment Given and explanation is also Good about infection ,,",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCMm9uRENBEAE",
+      "author": "Bhargav Don",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Consulted for my hair loss. Doctor clearly explained regarding PRP injections. 4 sessions are completed  and waiting for my 5 th session . I am fully satisfying with treatment. And I recommend this hospital.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQteWRtZE9REAE",
+      "author": "hemanth kumar",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Best skin specialist ever visited.\nDoctor was very friendly nature and helpful .\n\nI am very happy with the treatment.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtNFlYTlNBEAE",
+      "author": "sravan kumar",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Congratulations as 💐🌹🥀🌺 …",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtd2ZxSUxnEAE",
+      "author": "Sai Akshayi",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQtOHFxRzVBRRAB",
+      "author": "Tirupathi Reddy",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQtd01TSHhnRRAB",
+      "author": "Konakandla Koteswari",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQtZ09UR3FnRRAB",
+      "author": "ashok konakandla",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtMzZ2VGpBRRAB",
+      "author": "prabhu lingam",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    }
+  ],
+  "reviews_error": "",
+  "sorted_newest": true,
+  "stopped_at_known_review": false,
+  "reviews_captured": 135,
+  "owner_replies": 55,
+  "reviews_coverage": 1.0,
+  "date_anchor": "2026-08-20T23:12:34",
+  "extract_seconds": 55.8,
+  "missing_fields": [
+    "website"
+  ],
+  "page_rendered": true,
+  "error": ""
+}

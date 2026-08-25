@@ -1,0 +1,112 @@
+{
+  "key": "ChIJQRaRa0V1SjoRG75ux4YydXY",
+  "tier": "full",
+  "complete": true,
+  "place_url": "https://www.google.com/maps/place/SRI+SAHASRA+CLINICS/data=!4m7!3m6!1s0x3a4a75456b911641:0x76753286c76ebe1b!8m2!3d16.3042475!4d80.4425535!16s%2Fg%2F11pzjw8h4w!19sChIJQRaRa0V1SjoRG75ux4YydXY?authuser=0&hl=en&rclk=1",
+  "captured_at": "2026-08-21T00:10:38",
+  "rank": 63,
+  "place_id": "ChIJQRaRa0V1SjoRG75ux4YydXY",
+  "feature_id": "0x3a4a75456b911641:0x76753286c76ebe1b",
+  "kg_mid": "/g/11pzjw8h4w",
+  "lat": 16.3042475,
+  "lng": 80.4425535,
+  "dup_of_rank": null,
+  "has_online_booking": true,
+  "booking_url": "https://book.healthplix.com/dr-siva-kumar-mamillapalli-arthroscopy-lakshmipuram-guntur?utm_source=gmb_cta&rwg_token=AE37R_iXGdfffwifXA9vUFwCKBoxTrUpLhQ-KCiTyAJ1lfg026zcMswtf2BqUpeo6bjObqWZLi8zP6gcmx1rvEqCiUH60Lrn4Q%3D%3D",
+  "booking_vendor": "healthplix",
+  "service_options": null,
+  "permanently_closed": false,
+  "temporarily_closed": false,
+  "status_text": "Closed · Opens 8 am Fri",
+  "open_now": false,
+  "is_ad": false,
+  "review_snippet": "",
+  "name_raw": "SRI SAHASRA CLINICS",
+  "name_clean": "SRI SAHASRA CLINICS",
+  "name_key": "srisahasraclinics",
+  "name_dropped": [],
+  "name_was_cleaned": false,
+  "category": "Medical clinic",
+  "card_category": "Medical clinic",
+  "category_mismatch": false,
+  "relevance": "adjacent",
+  "basis": "base_generic_medical",
+  "address": "D No: 5-89, 11/5/A, 3rd Ln, behind Annapurna Complex, Lakshmipuram, Guntur, Andhra Pradesh 522002",
+  "plus_code": "8C3V+M2 Guntur, Andhra Pradesh",
+  "phone": "094904 20233",
+  "website": "",
+  "website_domain": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "insecure_http": false,
+  "website_matches_name": null,
+  "rating": 5.0,
+  "reviews_total": 1,
+  "rating_histogram": {
+    "5": 1,
+    "4": 0,
+    "3": 0,
+    "2": 0,
+    "1": 0
+  },
+  "histogram_sum": 1,
+  "histogram_reconciles": true,
+  "topics": null,
+  "google_profile_gaps": [
+    "Add website"
+  ],
+  "has_photos": true,
+  "hours": {
+    "Friday": "8 am to 8 pm",
+    "Saturday": "8 am to 8 pm",
+    "Sunday": "8 am to 8 pm",
+    "Monday": "8 am to 8 pm",
+    "Tuesday": "8 am to 8 pm",
+    "Wednesday": "8 am to 8 pm",
+    "Thursday": "8 am to 8 pm"
+  },
+  "about": {
+    "Map details": [
+      "Transit",
+      "Traffic",
+      "Biking",
+      "Terrain",
+      "Street View",
+      "Wildfires",
+      "Air Quality"
+    ],
+    "Map tools": [
+      "Travel time",
+      "Measure"
+    ],
+    "Map type": [
+      "Default",
+      "Satellite",
+      " Globe view ",
+      " Labels"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNPcWRpSjRnRRAB",
+      "author": "Gopi Nath Nuthalapati",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Best arthro specialist Dr Sivakumar garu",
+      "has_owner_reply": false
+    }
+  ],
+  "reviews_error": "",
+  "sorted_newest": true,
+  "stopped_at_known_review": false,
+  "reviews_captured": 1,
+  "owner_replies": 0,
+  "reviews_coverage": 1.0,
+  "date_anchor": "2026-08-21T00:10:38",
+  "extract_seconds": 55.6,
+  "missing_fields": [
+    "website"
+  ],
+  "page_rendered": true,
+  "error": ""
+}

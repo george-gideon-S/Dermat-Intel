@@ -1,0 +1,389 @@
+{
+  "place_url": "https://www.google.com/maps/place/Hanuma+Skin+Center/data=!4m7!3m6!1s0x3a4a754bd966869b:0xe03762236eb8a5b7!8m2!3d16.2985389!4d80.4496568!16s%2Fg%2F124yd2ysc!19sChIJm4Zm2Ut1SjoRt6W4biNiN-A?authuser=0&hl=en&rclk=1",
+  "captured_at": "2026-08-20T18:54:31",
+  "feature_id": "0x3a4a754bd966869b:0xe03762236eb8a5b7",
+  "place_id": "ChIJm4Zm2Ut1SjoRt6W4biNiN-A",
+  "kg_mid": "/g/124yd2ysc",
+  "lat": 16.2985389,
+  "lng": 80.4496568,
+  "name_raw": "Hanuma Skin Center",
+  "name_clean": "Hanuma Skin Center",
+  "name_key": "hanumaskincenter",
+  "name_dropped": [],
+  "name_was_cleaned": false,
+  "category": "Skin care clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "Doctors Plaza, Kothapet Main Rd, Kothapeta, Guntur, Andhra Pradesh 522001",
+  "plus_code": "7CXX+CV Guntur, Andhra Pradesh",
+  "phone": "090322 20512",
+  "website": "",
+  "website_domain": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "insecure_http": false,
+  "website_matches_name": null,
+  "rating": 4.1,
+  "reviews_total": 32,
+  "rating_histogram": {
+    "5": 22,
+    "4": 3,
+    "3": 1,
+    "2": 1,
+    "1": 5
+  },
+  "histogram_sum": 32,
+  "histogram_reconciles": true,
+  "topics": {
+    "hospital": 2,
+    "doctor": 3
+  },
+  "google_profile_gaps": [
+    "Add website"
+  ],
+  "has_photos": true,
+  "hours": {
+    "Thursday": "8:30 am to 4 pm",
+    "Friday": "8:30 am to 4 pm",
+    "Saturday": "8:30 am to 4 pm",
+    "Sunday": "Closed",
+    "Monday": "8:30 am to 4 pm",
+    "Tuesday": "Closed",
+    "Wednesday": "8:30 am to 4 pm"
+  },
+  "about": {
+    "Planning": [
+      " Appointment required",
+      " Appointments recommended"
+    ],
+    "Payments": [
+      " NFC mobile payments"
+    ],
+    "Map details": [
+      "Transit",
+      "Traffic",
+      "Biking",
+      "Terrain",
+      "Street View",
+      "Wildfires",
+      "Air Quality"
+    ],
+    "Map tools": [
+      "Travel time",
+      "Measure"
+    ],
+    "Map type": [
+      "Default",
+      "Satellite",
+      " Globe view ",
+      " Labels"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t3d1VFTlFNMFJHU0c5UWNtSlRaM001T1d4U1RYYxAB",
+      "author": "Basha Shaik",
+      "rating": 5,
+      "relative_date": "a day ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGRmNXc3lVazQwWVc5dlFUWmpXa3RRYkV4SGFGRRAB",
+      "author": "Anusri",
+      "rating": 5,
+      "relative_date": "a day ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SSFZIcGxkWE5wYkRCVFNVSm1jbk5RWmtaVk9FRRAB",
+      "author": "Havalyalakshmisai Inumula",
+      "rating": 5,
+      "relative_date": "3 months ago",
+      "text": "Very care hospital",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoYU1qWXdlRVpwVUdsSkxVeHRVV2x2UWxwcFJWRRAB",
+      "author": "Asha tyres And wheel alignment",
+      "rating": 2,
+      "relative_date": "11 months ago",
+      "text": "Doctor is gud management is wrost and no one wil lift the call. People who comes from far away how to know that Doctor is available are not. And if we go the same day we won't get Appointment. So I request doctor to take care of management and tell them to attend the call of every patient who want to get treatment.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210aVVVWkJZbVZyTFZRNFVEWXpjazVtTFMxRlIyYxAB",
+      "author": "pradeepsriram perla",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Best hospital and skin care treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VPR0IxT1RXMnJfRHhBRRAB",
+      "author": "S C",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Knowledgeable Doctor but Worst pharmacy/medicines desk - All cash, only cash, no extra charges for cash payment 😂 …",
+      "maybe_truncated": true,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNva0ttTmNBEAE",
+      "author": "Veerendra Naralasetty",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJbnR5d0NREAE",
+      "author": "sanjay setty",
+      "rating": 4,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURqb3RuRlFREAE",
+      "author": "Siva Naga Pavani Neppalli",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNqZ0tUaFlBEAE",
+      "author": "Kothapalli Naresh",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Nice treaent",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ5bmJHOVpREAE",
+      "author": "Royal flicks lyrics",
+      "rating": 1,
+      "relative_date": "2 years ago",
+      "text": "Waste management",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURaMGNXUjFBRRAB",
+      "author": "Tammisetty Mahalakshmi",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKNW9lVk1nEAE",
+      "author": "Butchibabu Ala",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMtMjVxeklnEAE",
+      "author": "Mannepalli Ravi Kumar",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Excellent doctor.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlOE0ydkRREAE",
+      "author": "K.Apparao K.Apparao",
+      "rating": 3,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQyOElTTUpREAE",
+      "author": "palleturi pilla allare Allari",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNtNFltdXVnRRAB",
+      "author": "teja 53",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURDN28tQWxBRRAB",
+      "author": "Anand",
+      "rating": 4,
+      "relative_date": "5 years ago",
+      "text": "Good treatment for pimples",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURDMXR1VGRBEAE",
+      "author": "karthik pati",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM4MDd5V2hRRRAB",
+      "author": "Aditya Jannabhat",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "Ultimate Doctor with good staff.\nDr Garu prescribe thebest medicines for all skin problems. he is also AIIMS Returns.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURjanByQndnRRAB",
+      "author": "Nag Arjun",
+      "rating": 1,
+      "relative_date": "6 years ago",
+      "text": "First of all change the hospital contact number.... Some more patients are that so many times called but not lift the phone",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURNOHN2Ti1BRRAB",
+      "author": "Naidu Sathya",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQwaXRDTlZBEAE",
+      "author": "Gangula Venkatesh",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "Good doctor 👍👍👍 …",
+      "maybe_truncated": true,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMwLUp1bzFnRRAB",
+      "author": "obulareddy gopala krishna",
+      "rating": 1,
+      "relative_date": "6 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZczlMVW53RRAB",
+      "author": "Hemanth naidu",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNvNnNlbU9REAE",
+      "author": "raham shaik",
+      "rating": 1,
+      "relative_date": "Edited 7 years ago",
+      "text": "One of the worst hospital..they don't bother about the people..they will ask people to come to hospital and say appointment is over..they convey one message in phone and different thing in hospital...",
+      "maybe_truncated": true,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNvMXBTZmJ3EAE",
+      "author": "Vasubabu Adusumalli",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Good treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNvZ0lERWh3RRAB",
+      "author": "harini e",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNJeWNuTlZREAE",
+      "author": "SriGowri Boyapati",
+      "rating": 1,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNBd0lpOGt3RRAB",
+      "author": "Guru Dathu",
+      "rating": 5,
+      "relative_date": "8 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURncEtQTjNBRRAB",
+      "author": "Rajasekhar Reddy",
+      "rating": 5,
+      "relative_date": "8 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURBMklqbW5RRRAB",
+      "author": "satyanarayana vasantha",
+      "rating": 4,
+      "relative_date": "8 years ago",
+      "text": "treats for skin and vd. one of the best doctor referred by other doctors.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    }
+  ],
+  "reviews_error": "",
+  "sorted_newest": true,
+  "stopped_at_known_review": false,
+  "reviews_captured": 32,
+  "owner_replies": 0,
+  "truncated_reviews": 3,
+  "reviews_coverage": 1.0,
+  "date_anchor": "2026-08-20T18:54:31",
+  "extract_seconds": 42.5,
+  "missing_fields": [
+    "website"
+  ],
+  "listing_position": 50,
+  "source_query": "dermatologists in Guntur",
+  "listing_name": "Hanuma Skin Center"
+}

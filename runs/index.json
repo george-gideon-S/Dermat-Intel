@@ -1,0 +1,88 @@
+{
+  "runs": [
+    {
+      "run_id": "guntur-ap_dermatology_both_2026-08-21-e",
+      "geography": "guntur-ap",
+      "practice": "dermatology",
+      "subject_type": "both",
+      "run_date": "2026-08-21",
+      "query_threshold": 100,
+      "status": "running",
+      "created_at": "2026-08-21T20:08:30",
+      "finalized_at": null,
+      "web_signal": "partial"
+    },
+    {
+      "run_id": "guntur-ap_dermatology_both_2026-08-21-d",
+      "geography": "guntur-ap",
+      "practice": "dermatology",
+      "subject_type": "both",
+      "run_date": "2026-08-21",
+      "query_threshold": 100,
+      "status": "running",
+      "created_at": "2026-08-21T17:59:01",
+      "finalized_at": null,
+      "web_signal": "partial"
+    },
+    {
+      "run_id": "guntur-ap_dermatology_both_2026-08-21-c",
+      "geography": "guntur-ap",
+      "practice": "dermatology",
+      "subject_type": "both",
+      "run_date": "2026-08-21",
+      "query_threshold": 10,
+      "status": "running",
+      "created_at": "2026-08-21T17:36:29",
+      "finalized_at": null,
+      "web_signal": "full"
+    },
+    {
+      "run_id": "guntur-ap_dermatology_both_2026-08-21-b",
+      "geography": "guntur-ap",
+      "practice": "dermatology",
+      "subject_type": "both",
+      "run_date": "2026-08-21",
+      "query_threshold": 10,
+      "status": "running",
+      "created_at": "2026-08-21T17:00:07",
+      "finalized_at": null,
+      "web_signal": "full"
+    },
+    {
+      "run_id": "guntur-ap_dermatology_both_2026-08-21",
+      "geography": "guntur-ap",
+      "practice": "dermatology",
+      "subject_type": "both",
+      "run_date": "2026-08-21",
+      "query_threshold": 100,
+      "status": "running",
+      "created_at": "2026-08-21T14:57:18",
+      "finalized_at": null,
+      "web_signal": "partial"
+    },
+    {
+      "run_id": "guntur-ap_dermatology_both_2026-08-19",
+      "geography": "guntur-ap",
+      "practice": "dermatology",
+      "subject_type": "both",
+      "run_date": "2026-08-19",
+      "query_threshold": 95,
+      "status": "running",
+      "created_at": "2026-08-19T17:12:38",
+      "finalized_at": null,
+      "web_signal": null
+    },
+    {
+      "run_id": "guntur-ap_dermatology_both_2026-06-28",
+      "geography": "guntur-ap",
+      "practice": "dermatology",
+      "subject_type": "both",
+      "run_date": "2026-06-28",
+      "query_threshold": 80,
+      "status": "complete",
+      "created_at": "2026-08-18T19:18:34",
+      "finalized_at": "2026-08-18T19:18:34",
+      "web_signal": "full"
+    }
+  ]
+}

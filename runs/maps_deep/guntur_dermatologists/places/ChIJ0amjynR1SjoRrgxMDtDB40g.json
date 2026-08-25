@@ -1,0 +1,996 @@
+{
+  "place_url": "https://www.google.com/maps/place/Chiranjeevi+Skin+Care+Clinic/data=!4m7!3m6!1s0x3a4a7574caa3a9d1:0x48e3c1d00e4c0cae!8m2!3d16.3113704!4d80.4336333!16s%2Fg%2F11j4m2cyqk!19sChIJ0amjynR1SjoRrgxMDtDB40g?authuser=0&hl=en&rclk=1",
+  "captured_at": "2026-08-20T18:22:10",
+  "feature_id": "0x3a4a7574caa3a9d1:0x48e3c1d00e4c0cae",
+  "place_id": "ChIJ0amjynR1SjoRrgxMDtDB40g",
+  "kg_mid": "/g/11j4m2cyqk",
+  "lat": 16.3113704,
+  "lng": 80.4336333,
+  "name_raw": "Chiranjeevi Skin Care Clinic",
+  "name_clean": "Chiranjeevi Skin Care Clinic",
+  "name_key": "chiranjeeviskincareclinic",
+  "name_dropped": [],
+  "name_was_cleaned": false,
+  "category": "Skin care clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "4-3-16, Ramannapet 1st Ln, Lakshmipuram, Ashok Nagar, Guntur, Andhra Pradesh 522007",
+  "plus_code": "8C6M+GF Guntur, Andhra Pradesh",
+  "phone": "099857 96666",
+  "website": "",
+  "website_domain": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "insecure_http": false,
+  "website_matches_name": null,
+  "rating": 4.8,
+  "reviews_total": 99,
+  "rating_histogram": {
+    "5": 94,
+    "4": 0,
+    "3": 1,
+    "2": 0,
+    "1": 4
+  },
+  "histogram_sum": 99,
+  "histogram_reconciles": true,
+  "topics": {
+    "guntur skin treatment": 2,
+    "reasonable fee": 2,
+    "friendly nature": 2,
+    "caring staff": 2,
+    "skin problems": 5,
+    "cured": 2,
+    "patient care": 3,
+    "hair care": 2,
+    "end result": 7,
+    "skin care center": 4
+  },
+  "google_profile_gaps": [
+    "Add website"
+  ],
+  "has_photos": true,
+  "hours": {
+    "Thursday": "10 am to 10 pm",
+    "Friday": "10 am to 10 pm",
+    "Saturday": "10 am to 10 pm",
+    "Sunday": "10 am to 10 pm",
+    "Monday": "10 am to 10 pm",
+    "Tuesday": "10 am to 10 pm",
+    "Wednesday": "10 am to 10 pm"
+  },
+  "about": {
+    "Payments": [
+      " NFC mobile payments"
+    ],
+    "Map details": [
+      "Transit",
+      "Traffic",
+      "Biking",
+      "Terrain",
+      "Street View",
+      "Wildfires",
+      "Air Quality"
+    ],
+    "Map tools": [
+      "Travel time",
+      "Measure"
+    ],
+    "Map type": [
+      "Default",
+      "Satellite",
+      " Globe view ",
+      " Labels"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGR1kwdFNka05rVFhST1FURlRXa1J3UzBsTloyYxAB",
+      "author": "Deviraju Gopi Siddartha",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Good",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTURnaFpqdzVRRRAB",
+      "author": "Rohit gamer 39",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Good, 👍🏻 …",
+      "maybe_truncated": true,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4dDR6WU1REAE",
+      "author": "S.M. JANI",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Good staff and treatment fully satisfied",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNobHY3V3RnRRAB",
+      "author": "Challa Venkata yasaswini",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURCd1BQVnBnRRAB",
+      "author": "Mastan vali shaik",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCd1AyOEZ3EAE",
+      "author": "Chaitanya Krishna",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCd0ozV2VREAE",
+      "author": "Gowda Mahalaxmi",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCd1A3UkVREAE",
+      "author": "Gangadhar Devarala",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCd0w3YlpBEAE",
+      "author": "Siva Naidu",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCd0pLTFBREAE",
+      "author": "RAMISETTY BALAGANGADHAR",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNCXzVHSFNnEAE",
+      "author": "Tharun Teja",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "I like it..... It's a trusted able 👍 …",
+      "maybe_truncated": true,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChRDSUhNMG9nS0VJQ0FnSUNCX19vYxAB",
+      "author": "t naidu",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Super",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNCXzVxbHdRRRAB",
+      "author": "sasi prem",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNCXzZyb0ZnEAE",
+      "author": "Dasanjaneyulu Madamanchi",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNCXzlLSmhRRRAB",
+      "author": "Srikanth Thimmisetty",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Treatment i should rate more than 5 and hospitality satisfactory",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNCXzVEQkxBEAE",
+      "author": "Sowjanya Janga",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNCXzhDVi1nRRAB",
+      "author": "venkata gangadhar",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Excellent the way of  treatment and friendly nature",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNCMzhYeUxnEAE",
+      "author": "veeranala vasu",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Super fast service and good working",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNCMzU2QVZnEAE",
+      "author": "yesu babu k",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNCMzdhYWtRRRAB",
+      "author": "Balu Nriit",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Good",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNCMzZiamlBRRAB",
+      "author": "Login Networld",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNCM19xWFRBEAE",
+      "author": "revathi gopichand",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNCMzVMNUp3EAE",
+      "author": "K Lakshmi Tirupatamma",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Best skin care",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNCMy16TVpnEAE",
+      "author": "Yesurani Yesurani",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNCMzZ6ck1nEAE",
+      "author": "Nousheen Rasool",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Excellent service",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNCMzh5c3h3RRAB",
+      "author": "Pardhu Pandu",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNCMzh6VVJnEAE",
+      "author": "nagaraju CHINNI",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtc3JLY3ZRRRAB",
+      "author": "Sowmya Chowdary",
+      "rating": 1,
+      "relative_date": "3 years ago",
+      "text": "Staff is good and polite.\nWhen it’s comes to treatment , I didn’t find any result.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN1aWIydFN3EAE",
+      "author": "Raja Vihaan",
+      "rating": 1,
+      "relative_date": "Edited 3 years ago",
+      "text": "Hi guys, don’t waste money and time is the fake treatment 70,000 waste of my money😡😡😡😡 …",
+      "maybe_truncated": true,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNldWJEb3JnRRAB",
+      "author": "Anand Kumar",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Super service",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNlNlkzekJBEAE",
+      "author": "Mani Reddy",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1bGVpWW9RRRAB",
+      "author": "Yugandhar Akuru",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN1aWNDOU13EAE",
+      "author": "Srihari Vallem",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "The best treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1OGZTWXFRRRAB",
+      "author": "rama krishna",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN1OGJqaWRnEAE",
+      "author": "Jessy Elsa",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1OGRpZXdRRRAB",
+      "author": "lazar photography",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1c2ZfS3hRRRAB",
+      "author": "brahmam kakumanu",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Good staf and guntur skin best treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1MEpXbGd3RRAB",
+      "author": "Mohan Mohan",
+      "rating": 1,
+      "relative_date": "4 years ago",
+      "text": "Good",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNPcTdQeFRREAE",
+      "author": "Khaja Shaik",
+      "rating": 1,
+      "relative_date": "4 years ago",
+      "text": "Waste... I'm too disappointed to this treatment\n5000 money waste and One month time waste\nFinal result is my face is too damaged with heavy pimples and black marks 😡😡😡😭😭😭 …",
+      "maybe_truncated": true,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQyc09md01nEAE",
+      "author": "swathhy nemalikhonti",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMyaXZPcmZREAE",
+      "author": "ꜱᴜɴɪʟ ࿐",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "doctor's way of explanation was very good and very Good caring staff 💯 …",
+      "maybe_truncated": true,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURXbWNDdXp3RRAB",
+      "author": "subha subhani",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Excellent treatment for skin problems.Humbled Nature doctor's, friendly atmosphere hospital.And the fee was very reasonable for all kind of people's.The best skin care in guntur.I will suggest to all about this skin care hospital......",
+      "maybe_truncated": true,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURXdHFuMmhRRRAB",
+      "author": "Anusha Dhulipudi",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURXdG9HbHZBRRAB",
+      "author": "Kottapalli Isaac",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURXdHA2MlVBEAE",
+      "author": "chinni babu barre",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURHc283ZlVREAE",
+      "author": "Anu palaparthi",
+      "rating": 5,
+      "relative_date": "Edited 4 years ago",
+      "text": "My favourite clinic is well-respected and provides the right specialist’s who know our suffering\nI’m impressed 🥰\nPreferably suggest you this is the best skin care in Guntur…..",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNXbUlxQmZnEAE",
+      "author": "Sai Ram Challa",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNXcU4zX1l3EAE",
+      "author": "k. ravindra",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNXcU1XSUtBEAE",
+      "author": "nazia shaik",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURtcUw3dkpBEAE",
+      "author": "Mercy Sankeerth",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Best hospital. The services that I receive from DR. Excellent and the staff are friendly  and takes time with the patient to help them with their health issues!",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURtcUxienlRRRAB",
+      "author": "Shiva Ragam",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURtcUxxdlRBEAE",
+      "author": "Rama devi",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "It was a amazing experience  ,Treatment is very Good and good care with patients..",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURtcUpyOGlnRRAB",
+      "author": "Shaik Akbar",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNtLUpxejlBRRAB",
+      "author": "SHAIK KHAJA MOHINUDDIN CHISTY",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURHeW95cWNBEAE",
+      "author": "SANJAY KUMAR GADE",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Woww excellent treatment for skin problems. After coming to this they found a solution for my skin problem within 1hour. This is the best one i want to suggest everyone",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURHaXNmQy1nRRAB",
+      "author": "Kandiga Lakshmi",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Best clinic in Guntur",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURHc29tclFBEAE",
+      "author": "prem kumar",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "\"Very gud treatment at affordable price.....Doctor's were very keen and caring.\"",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURHc3ZHUlV3EAE",
+      "author": "palaparthi sravanthi",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "\"One of the best place to get ua skin and hair problems treated.\" And tha fee was very reasonable to all kind of people....🙏🙏🙏🙏🙏 …",
+      "maybe_truncated": true,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURHc3ZqczlnRRAB",
+      "author": "Lövérboy Srinuking",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Good for skin",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURHMHBYeWJnEAE",
+      "author": "Anusha Kayakokula",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURHMHFHQmhBRRAB",
+      "author": "Vankadavath Manibabunaik",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Good results for skin",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURHMHBhZFB3EAE",
+      "author": "Sharon Kambham",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Best skin  care clinik",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURHMHJyUmpBRRAB",
+      "author": "Tarak devote",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Good for skin care",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURHMHJMR0hnEAE",
+      "author": "Vyuhitha Kapa",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "best skin care clinic!",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURHMHFTWWRREAE",
+      "author": "Venky Yadav",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Good responsibility staff  care about patients  they can listen all our problems and gives the perfect treatment   and also compares with others prices they can give us better  prices  I will recommend  nice  trust skin clinic guntur .........❤ 👍 …",
+      "maybe_truncated": true,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURHMHVqWGpBRRAB",
+      "author": "GOPI RAJA",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Literally I saw best result for  my skin. Best skin care clinic.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURHa3VfNDNRRRAB",
+      "author": "Sena Kumar",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Best skincare clinic ever",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURHa3MtTzJBRRAB",
+      "author": "Heyer",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Best skin care clinic",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURHa3BlaXp3RRAB",
+      "author": "staar lab",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "One of the best skin care clinic.👍🏻 …",
+      "maybe_truncated": true,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURHNHFHSFZREAE",
+      "author": "kiranmai kiranmai",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Best results in treatment and medicine also\n\nMy face on malasma doctor sir preferred malsma treatment best result in few weaks",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURHb3YyVXhRRRAB",
+      "author": "Parveen sk",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "The Best skin care clinic.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURHb3RXbmNREAE",
+      "author": "venkatrao rayala",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURHb3JtTjR3RRAB",
+      "author": "Iovely Ajay",
+      "rating": 3,
+      "relative_date": "4 years ago",
+      "text": "The best skin care in guntur",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURHb3Q3MW5RRRAB",
+      "author": "Sarala Devi",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURHd3FqeXJBRRAB",
+      "author": "Lakshmi Kesari",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Best clinic in guntur.chiranjeevi garu is very humble.whatever ur skin problem is .chiranjevvi skin care clinic is d best to get ur problem solved and budgetfriendly too.roja garu treats everyone friendly and suggests gud skin care",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURHbktPQkRREAE",
+      "author": "Teja Chilumuri",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Best skin care center",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURHbk1PYnJRRRAB",
+      "author": "Chandu Pulivarthi",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Good skin care center",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURHbk1PSUF3EAE",
+      "author": "eepuru siddu",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "The best skin care center in guntur",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURHblBUNXB3RRAB",
+      "author": "Roshan SRZ",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Really unexpected that in our Guntur city we have such a exceptional skin care ..! I am suffering from   dermatitis .I promptly cured with his treatment. I really liked the way docter approaches with me. Along with skin care you will get many healthy tips too. Don't hesitate, just visit him & get cured 👍 …",
+      "maybe_truncated": true,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURHN0xEb3JnRRAB",
+      "author": "Srujan Sunny",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Best Skin care in Guntur.\nI did my consultation and treatment here. Continuing myself....!!",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURHekpfcHFRRRAB",
+      "author": "Surepalli Venkatesh",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Best hospital in Guntur",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURHek12NFV3EAE",
+      "author": "sudha rani",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "One of the best Skin care clinic, iam impressed with the treatment.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURHek1QUHFBRRAB",
+      "author": "satyanarayana koormapu",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Super hospital.definately cure All skin problems",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURHelAzelRnEAE",
+      "author": "Ganesh Arjun",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "It is the best place for skin and hair related problems.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURHek8yd2RREAE",
+      "author": "SATYA AGRAHARAPU",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "The best skin care hospital in guntur...",
+      "maybe_truncated": true,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURHekxYeG5nRRAB",
+      "author": "Joel Prince",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURHekxYaTl3RRAB",
+      "author": "rami reddy",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURHek5YME5REAE",
+      "author": "Sameer Shaik",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURHek9YOTZ3RRAB",
+      "author": "sushanth bondalapti",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURHek9YbDhRRRAB",
+      "author": "Kurumaddali Sriram",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURHek9XZ0lnEAE",
+      "author": "Naga Swetha",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Excellent results",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURHektYaUFnEAE",
+      "author": "Iam Navaneetha",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "The best hospital.  Among all other hospitals ....we can choose this hospital without any doubt....Effective therapy , good patient care  and  response from hospital management, cost effective👌...simply superb …",
+      "maybe_truncated": true,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURHek1YdkRREAE",
+      "author": "GOPI TRINADH NEREDI",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURHek1XMUxBEAE",
+      "author": "SANTHOSH BIJJA",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "best skin care clinic in guntur\nReceived good care, & Really very happy with end result",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURHek1XRi1nRRAB",
+      "author": "Santoshkumar Beemarsetty",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURHNk5IcHVBRRAB",
+      "author": "Keerthana Bujji",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNHM29PWmtnRRAB",
+      "author": "T siva",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURTaDRlVl9nRRAB",
+      "author": "karthikeya Amareswarapu",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURTc2JfVWZREAE",
+      "author": "Vyshnavi Pandraju",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    }
+  ],
+  "reviews_error": "",
+  "sorted_newest": true,
+  "stopped_at_known_review": false,
+  "reviews_captured": 99,
+  "owner_replies": 0,
+  "truncated_reviews": 12,
+  "reviews_coverage": 1.0,
+  "date_anchor": "2026-08-20T18:22:10",
+  "extract_seconds": 50.1,
+  "missing_fields": [
+    "website"
+  ],
+  "listing_position": 18,
+  "source_query": "dermatologists in Guntur",
+  "listing_name": "Chiranjeevi Skin Care Clinic"
+}

@@ -1,0 +1,235 @@
+{
+  "place_url": "https://www.google.com/maps/place/Dr.+D.+KOTI+REDDY,+M.B.B.S/data=!4m7!3m6!1s0x3a4a754ac71382e9:0xbd40541ae4738d21!8m2!3d16.2978875!4d80.4546072!16s%2Fg%2F11c523xvnb!19sChIJ6YITx0p1SjoRIY1z5BpUQL0?authuser=0&hl=en&rclk=1",
+  "captured_at": "2026-08-20T19:03:06",
+  "feature_id": "0x3a4a754ac71382e9:0xbd40541ae4738d21",
+  "place_id": "ChIJ6YITx0p1SjoRIY1z5BpUQL0",
+  "kg_mid": "/g/11c523xvnb",
+  "lat": 16.2978875,
+  "lng": 80.4546072,
+  "name_raw": "Dr. D. KOTI REDDY, M.B.B.S",
+  "name_clean": "Dr. D. KOTI REDDY",
+  "name_key": "drdkotireddy",
+  "name_dropped": [
+    "M.B.B.S"
+  ],
+  "name_was_cleaned": true,
+  "category": "Hospital",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "adjacent",
+  "basis": "category",
+  "address": "7FX3+5R5, 6th Ln, Gunturvari Thota, Kothapeta, Guntur, Andhra Pradesh 522001",
+  "plus_code": "",
+  "phone": "090301 04577",
+  "website": "",
+  "website_domain": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "insecure_http": false,
+  "website_matches_name": null,
+  "rating": 4.1,
+  "reviews_total": 15,
+  "rating_histogram": {
+    "5": 10,
+    "4": 1,
+    "3": 1,
+    "2": 1,
+    "1": 2
+  },
+  "histogram_sum": 15,
+  "histogram_reconciles": true,
+  "topics": {
+    "treatment": 3
+  },
+  "google_profile_gaps": [
+    "Add website"
+  ],
+  "has_photos": true,
+  "hours": {
+    "Thursday": "10 am to 10:30 pm",
+    "Friday": "10 am to 10:30 pm",
+    "Saturday": "10 am to 10:30 pm",
+    "Sunday": "10 am to 10:30 pm",
+    "Monday": "10 am to 10:30 pm",
+    "Tuesday": "10 am to 10:30 pm",
+    "Wednesday": "10 am to 10:30 pm"
+  },
+  "about": {
+    "Accessibility": [
+      " Wheelchair-accessible car park",
+      " Wheelchair-accessible entrance"
+    ],
+    "Map details": [
+      "Transit",
+      "Traffic",
+      "Biking",
+      "Terrain",
+      "Street View",
+      "Wildfires",
+      "Air Quality"
+    ],
+    "Map tools": [
+      "Travel time",
+      "Measure"
+    ],
+    "Map type": [
+      "Default",
+      "Satellite",
+      " Globe view ",
+      " Labels"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tNemNUUldaR280UldRMU4wdHRabGt5VFZaWmVuYxAB",
+      "author": "Kanthu",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQzdTdqVEZnEAE",
+      "author": "Raja reddy Kunchala",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURUd09ydWtBRRAB",
+      "author": "Santhikrishna Naidu",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSak1IcV9BRRAB",
+      "author": "SRINIVASARAO PONDURI",
+      "rating": 1,
+      "relative_date": "3 years ago",
+      "text": "Good treatment and who listens the people carefully and less cost",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNSeE9hZVRnEAE",
+      "author": "Sivamanikanta reddy Thumma",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURoN2N1Y2RnEAE",
+      "author": "ch sandeep",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNXeGVYQWFBEAE",
+      "author": "aswan kumar",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Very good doctor who listens to the patients carefully and treats them for minimal fees",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNhamZ5WVlBEAE",
+      "author": "vidyakar janumala",
+      "rating": 1,
+      "relative_date": "5 years ago",
+      "text": "Worst hospital in guntur... No minimum medical equipment.. High medical fee.. I'm facing very bad expireance.. Very very bad and worst..",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNDOU4zS1V3EAE",
+      "author": "Adi Lakshmi J",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "Nice treatment super hospital",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNzX3VpN1NnEAE",
+      "author": "Rohith Bandlamudi",
+      "rating": 2,
+      "relative_date": "6 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNvMC1lLVZnEAE",
+      "author": "Lalith Bhargav",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN3cWUySl9RRRAB",
+      "author": "Nagaraju Reddy Lanka",
+      "rating": 4,
+      "relative_date": "8 years ago",
+      "text": "Nice",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURnNDVLNjlRRRAB",
+      "author": "Girish Satya Sai Tirumalasetty",
+      "rating": 3,
+      "relative_date": "8 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURBNl8ybVZREAE",
+      "author": "Brahmareddy Lanka",
+      "rating": 5,
+      "relative_date": "8 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNndHEyeDdRRRAB",
+      "author": "Sivanagaraju Ready to go to work",
+      "rating": 5,
+      "relative_date": "9 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    }
+  ],
+  "reviews_error": "",
+  "sorted_newest": true,
+  "stopped_at_known_review": false,
+  "reviews_captured": 15,
+  "owner_replies": 0,
+  "truncated_reviews": 0,
+  "reviews_coverage": 1.0,
+  "date_anchor": "2026-08-20T19:03:06",
+  "extract_seconds": 55.3,
+  "missing_fields": [
+    "plus_code",
+    "website"
+  ],
+  "listing_position": 58,
+  "source_query": "dermatologists in Guntur",
+  "listing_name": "Dr. D. KOTI REDDY, M.B.B.S"
+}

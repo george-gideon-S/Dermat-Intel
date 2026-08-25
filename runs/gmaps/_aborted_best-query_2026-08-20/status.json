@@ -1,0 +1,18 @@
+{
+  "started_at": 1787246251.073994,
+  "finished": false,
+  "done": 2,
+  "total": 48,
+  "query": "best dermatologists in Guntur, Andhra Pradesh",
+  "city": "Guntur",
+  "specialty": "Dermatology",
+  "current": "Skin Perfect Clinic",
+  "errors": 0,
+  "feed_cards": 48,
+  "duplicates": 0,
+  "to_open": 47,
+  "card_only": 1,
+  "elapsed": 117,
+  "failed_places": 0,
+  "corrupt_files": 0
+}

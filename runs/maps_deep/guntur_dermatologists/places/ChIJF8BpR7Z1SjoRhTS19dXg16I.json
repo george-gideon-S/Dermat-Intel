@@ -1,0 +1,307 @@
+{
+  "place_url": "https://www.google.com/maps/place/Dr+Aruna+Skin+and+Hair+Clinic/data=!4m7!3m6!1s0x3a4a75b64769c017:0xa2d7e0d5f5b53485!8m2!3d16.3087375!4d80.4177031!16s%2Fg%2F11l36vj8x_!19sChIJF8BpR7Z1SjoRhTS19dXg16I?authuser=0&hl=en&rclk=1",
+  "captured_at": "2026-08-20T18:32:39",
+  "feature_id": "0x3a4a75b64769c017:0xa2d7e0d5f5b53485",
+  "place_id": "ChIJF8BpR7Z1SjoRhTS19dXg16I",
+  "kg_mid": "/g/11l36vj8x",
+  "lat": 16.3087375,
+  "lng": 80.4177031,
+  "name_raw": "Dr Aruna Skin and Hair Clinic",
+  "name_clean": "Dr Aruna Skin and Hair Clinic",
+  "name_key": "drarunaskinandhairclinic",
+  "name_dropped": [],
+  "name_was_cleaned": false,
+  "category": "Skin care clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "8C59+F3W, Syamala Nagar Main Rd, Pattabhipuram, Guntur, Andhra Pradesh 522006",
+  "plus_code": "",
+  "phone": "098498 42228",
+  "website": "",
+  "website_domain": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "insecure_http": false,
+  "website_matches_name": null,
+  "rating": 5.0,
+  "reviews_total": 22,
+  "rating_histogram": {
+    "5": 21,
+    "4": 1,
+    "3": 0,
+    "2": 0,
+    "1": 0
+  },
+  "histogram_sum": 22,
+  "histogram_reconciles": true,
+  "topics": {
+    "personalized treatment plan": 2,
+    "accurate diagnosis": 3,
+    "dermatologist": 6,
+    "patient listening": 3,
+    "knowledgeable doctor": 3,
+    "clean clinic": 2,
+    "excellent treatment plan": 2,
+    "perfect results": 2,
+    "friendly staff": 2,
+    "guidance": 2
+  },
+  "google_profile_gaps": [
+    "Add website"
+  ],
+  "has_photos": true,
+  "hours": {
+    "Thursday": "6 to 8 pm",
+    "Friday": "10 am to 1 pm, 6 to 8 pm",
+    "Saturday": "10 am to 1 pm, 6 to 8 pm",
+    "Sunday": "Closed",
+    "Monday": "10 am to 1 pm, 6 to 8 pm",
+    "Tuesday": "10 am to 1 pm, 6 to 8 pm",
+    "Wednesday": "10 am to 1 pm, 6 to 8 pm"
+  },
+  "about": {
+    "Planning": [
+      " Appointments recommended"
+    ],
+    "Payments": [
+      " NFC mobile payments"
+    ],
+    "Map details": [
+      "Transit",
+      "Traffic",
+      "Biking",
+      "Terrain",
+      "Street View",
+      "Wildfires",
+      "Air Quality"
+    ],
+    "Map tools": [
+      "Travel time",
+      "Measure"
+    ],
+    "Map type": [
+      "Default",
+      "Satellite",
+      " Globe view ",
+      " Labels"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GS1lsODNWVmRTZGxGQmFWaG5jVFZyU1hacVNsRRAB",
+      "author": "Sree Devi",
+      "rating": 5,
+      "relative_date": "2 weeks ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWVmNrMXBWblZyVFhOeWFHUllaa0oxT1Y4NFQyYxAB",
+      "author": "AYOBBKHONN",
+      "rating": 5,
+      "relative_date": "4 weeks ago",
+      "text": "Best Treatment & got good result for the disease Alopecia areata\nThank you so much ma'am",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwTk5UQmZlV2RuVUd3M2EwMVliSGRXVlRaWmRIYxAB",
+      "author": "raghavendra swami",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "I'm very happy with the treatment and service of Dr. Aruna Skin and Hair Clinic, Guntur. The doctor listened to my concerns and recommended the correct treatment without any unnecessary procedures. The staff was very friendly and the whole experience was very smooth and professional. Hygiene was excellent in the clinic and I was well taken care of from start to finish. I would definitely recommend this clinic to anyone who is looking for effective skin and hair treatments.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xZelIyTnFlREp4Ymt4VmJHeENNa3MxUzI5R1ZIYxAB",
+      "author": "SVNSaketh",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "I had a great experience at Dr. Aruna Skin and Hair Clinic in Guntur. The doctor was patient and professional and explained the treatment clearly. Felt comfortable throughout the visit. Staff was so nice. The clinic was clean, organized, and well-maintained. I had great results from my treatment and really appreciate the care and attention I received. I would recommend this clinic to anyone looking for quality skin and hair care. It was one of the best experiences out there.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pONlJ6UXlZV1l3VFRsRVFXSmZkVFp0UTNVNFdrRRAB",
+      "author": "Manoj",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0TmVWSmFVbXB0ZEhsMGEzQXlVR1pEYUdaT1VHYxAB",
+      "author": "Mohana Maladi",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KS2NFVkpVVnBIYUZoelZqRlhSbTlpYldoemVFRRAB",
+      "author": "Sravani durga",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "Best dermatologist doctor in guntur. Friendly staff. All good. But seating area was soo dusty mainly side benches .",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21FMmNEVk1hMEZOWmxSV1RXOVlhRFV5UkhaeWVuYxAB",
+      "author": "Haritha Jakka",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "The doctor Aruna in Guntur city provided a fantastic experience. They listened patiently to my concerns, accurately diagnosed the issue, and gave me an excellent treatment plan. The results were perfect. I highly recommend Dr Aruna for any skin problems.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poek1XRlVSbUUzZDFkcWNGSlFiRzFTTTBFM1pWRRAB",
+      "author": "Ramalakshumma",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "Guntur lo unna oka skin doctor gari clinic ki vellanu. Naaku chaala rojula nundi unna hair samasya kosam vellanu. Okka saari chusi, naaku problem ento exact ga chepparu. Vaaru raasina mandulu vaadaka, oka vaaram lone samasya poindi. Doctor gaaru patientla tho chaala oopikaga matladaru. Prathi chinna vishayam chaala baaga vivarinchaaru. Nenu ee doctor ni naa friends ki, family members ki andhariki recommend chesthanu.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5RFQyUnBUbmRmVUZWeE1HSkdVR0pmVmtVemNHYxAB",
+      "author": "Nishanth",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "Finding an excellent dermatologist in Guntur was a priority, and I couldn't be happier with Dr. Aruna. Their clinic is impeccably clean, and the staff is incredibly friendly. Dr. Aruna is a true expert, taking the time to patiently diagnose my issue and create a personalized treatment plan. The results have been fantastic, and I've never felt more confident. Their care and professionalism are second to none in Guntur.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oSWFsVlBZV051T1UxaVRIRjRZVzVrWm1oRVUyYxAB",
+      "author": "Geethan C",
+      "rating": 4,
+      "relative_date": "11 months ago",
+      "text": "I visited the clinic 2weeks back. From the moment I walked in, her staff was friendly and efficient, and the clinic was spotless. Dr. Aruna herself is incredibly knowledgeable and took the time to listen to my concerns without rushing. She accurately diagnosed my skin condition and developed a personalized treatment plan that has made a huge difference. Her approach is both professional and compassionate, making what can be a stressful experience feel completely manageable. I highly recommend Dr. Aruna to anyone looking for a top-tier skin doctor",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210TlpuRklhMTlKYmxaNVJXUjNaa2xaUW0xUWNWRRAB",
+      "author": "venky venky",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "She is an exceptional dermatologist. Her expertise and genuine care were evident from the start. She accurately diagnosed my condition and developed a treatment plan that worked wonders. I'm grateful for her professionalism and highly recommend her for anyone seeking top-notch skin care.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTURncUtIMFhBEAE",
+      "author": "Madhusudhanarao Meduri",
+      "rating": 5,
+      "relative_date": "Edited a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WZlRFRkJYekJ6Y3pRME1FcFVibEJVTlV4cVdrRRAB",
+      "author": "gollapudi ammarao",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VLYUFvc3JveGFiYWJREAE",
+      "author": "sujan kumar",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VOTHh3S3FnaU82MkRnEAE",
+      "author": "Dr Mahesh",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvd3RHeUxREAE",
+      "author": "Jaswanth Nukala",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Visited the clinic for acne and hair issues. Genuine doctor with exceptional knowledge.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNveU9yTTZBRRAB",
+      "author": "Manjula Narayana",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "recently I visited Dr. Aruna for a skin concern, and I’m so glad I did. She listened to me with such patience and understanding, which immediately put me at ease. Her kind words were comforting, and her guidance gave me confidence. She prescribed the right medication, and her deep knowledge was evident throughout. I’m truly grateful for her care and would highly recommend her to anyone.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJaFlIYXJBRRAB",
+      "author": "Thanuja Singamshetty",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "An excellent doctor,very genuine\ncooperative with the patients  and explains every thing very well.Highly recommend.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJZ2ZIVU9nEAE",
+      "author": "Dr. Namita Mishra",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Dr Aruna is genuinely one of the best dermatologists I have come across. Very good doctor she listens to our problems and gives the best solution.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJbHJDMTVnRRAB",
+      "author": "Suseela Nukala",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "An exceptional dermatologist who carefully listens to concerns and provides thorough, patient-focused care. Doctor helped me with scalp scaling.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJa01paVVREAE",
+      "author": "sadhu Lakshmi",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Dr. Aruna is the best Doctor we have ever come across. She has lots of patience and empathetic. She is always optimistic during our visit.  When I was facing lots of uncertainties She gave us the confidence to believe in the process. We will always be thankfull to her.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    }
+  ],
+  "reviews_error": "",
+  "sorted_newest": true,
+  "stopped_at_known_review": false,
+  "reviews_captured": 22,
+  "owner_replies": 0,
+  "truncated_reviews": 0,
+  "reviews_coverage": 1.0,
+  "date_anchor": "2026-08-20T18:32:39",
+  "extract_seconds": 57.8,
+  "missing_fields": [
+    "plus_code",
+    "website"
+  ],
+  "listing_position": 31,
+  "source_query": "dermatologists in Guntur",
+  "listing_name": "Dr Aruna Skin and Hair Clinic"
+}

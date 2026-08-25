@@ -1,0 +1,390 @@
+{
+  "place_url": "https://www.google.com/maps/place/Dr.+Karan%27s+Skin+and+Hair+Clinic/data=!4m7!3m6!1s0x3a35f18ba30250eb:0x4eed114599d0360a!8m2!3d16.4752412!4d80.6155706!16s%2Fg%2F11v9mhchv3!19sChIJ61ACo4vxNToRCjbQmUUR7U4?authuser=0&hl=en&rclk=1",
+  "captured_at": "2026-08-20T19:05:55",
+  "feature_id": "0x3a35f18ba30250eb:0x4eed114599d0360a",
+  "place_id": "ChIJ61ACo4vxNToRCjbQmUUR7U4",
+  "kg_mid": "/g/11v9mhchv3",
+  "lat": 16.4752412,
+  "lng": 80.6155706,
+  "name_raw": "Dr. Karan's Skin and Hair Clinic",
+  "name_clean": "Dr. Karan's Skin and Hair Clinic",
+  "name_key": "drkaransskinandhairclinic",
+  "name_dropped": [],
+  "name_was_cleaned": false,
+  "category": "Dermatologist",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "3rd Floor, Jaya Prime, 12-162, above First cry, Tadepalle, Andhra Pradesh 522501",
+  "plus_code": "FJG8+36 Tadepalle, Andhra Pradesh",
+  "phone": "091825 23832",
+  "website": "",
+  "website_domain": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "insecure_http": false,
+  "website_matches_name": null,
+  "rating": 4.6,
+  "reviews_total": 30,
+  "rating_histogram": {
+    "5": 25,
+    "4": 3,
+    "3": 0,
+    "2": 0,
+    "1": 2
+  },
+  "histogram_sum": 30,
+  "histogram_reconciles": true,
+  "topics": {
+    "lazer hair removal": 2,
+    "acne treatment": 5,
+    "laser": 4,
+    "clear explanations": 2,
+    "skin problems": 2,
+    "overall experience": 2,
+    "treatment": 5,
+    "patient doctor": 4,
+    "results": 5,
+    "clinic": 5
+  },
+  "google_profile_gaps": [
+    "Add website"
+  ],
+  "has_photos": true,
+  "hours": {
+    "Thursday": "11 am to 8:30 pm",
+    "Friday": "11 am to 8:30 pm",
+    "Saturday": "11 am to 8:30 pm",
+    "Sunday": "Closed",
+    "Monday": "11 am to 8:30 pm",
+    "Tuesday": "11 am to 8:30 pm",
+    "Wednesday": "11 am to 8:30 pm"
+  },
+  "about": {
+    "Service options": [
+      " On-site services"
+    ],
+    "Amenities": [
+      " Gender-neutral toilets",
+      " Restroom"
+    ],
+    "Planning": [
+      " Appointment required",
+      " Appointments recommended"
+    ],
+    "Payments": [
+      " Google Pay"
+    ],
+    "Parking": [
+      " Free street parking",
+      " On-site parking"
+    ],
+    "Map details": [
+      "Transit",
+      "Traffic",
+      "Biking",
+      "Terrain",
+      "Street View",
+      "Wildfires",
+      "Air Quality"
+    ],
+    "Map tools": [
+      "Travel time",
+      "Measure"
+    ],
+    "Map type": [
+      "Default",
+      "Satellite",
+      " Globe view ",
+      " Labels"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkM05FWnNNVUZJTjJGNE5VODRTWGxhVlZkVk0xRRAB",
+      "author": "Mithesha",
+      "rating": 4,
+      "relative_date": "2 weeks ago",
+      "text": "Detailed history taking and suggestions on lifestyle modifications advice given.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSMGMyZzBSVmxwU0hORk5taG9aR1Z3VmtSc2NHYxAB",
+      "author": "Surekha Varaparla",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "Good  treatment  satisfied with the results",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1SGNWcGZXRVV6TWpsQlZ6bDJYMFZtTlhWaVZrRRAB",
+      "author": "Manasa",
+      "rating": 1,
+      "relative_date": "2 months ago",
+      "text": "My experience at this clinic was disappointing. After using the products recommended to me, my skin condition became noticeably worse. I experienced more acne on my forehead and cheeks, increased skin darkening, enlarged pores, and more comedones than before.\n\nI also felt that my concerns were not properly addressed, and expensive products were recommended without enough consideration of whether they would suit my skin type. Unfortunately, I did not see any improvement and was unhappy with the overall experience.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poVlNVUktjMU5IY0ZKNVZteE1jemxKVm5wNGFYYxAB",
+      "author": "Rajeev Avirneni",
+      "rating": 5,
+      "relative_date": "4 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOb1JrWmFZbUpmWWxKVExVWmFXbmxNZWt0VFRXYxAB",
+      "author": "Faizal Syed",
+      "rating": 5,
+      "relative_date": "5 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CUUxVNXBRamRJYjJGblkxQkdaWEJqVVdSVE1WRRAB",
+      "author": "Suresh Poondery",
+      "rating": 4,
+      "relative_date": "5 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psRWMwWkhWRlJzT1ZkTlpFOXdkRTl5Ylc5c2QzYxAB",
+      "author": "kotesh bolleddu12",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "I got the best Results after visiting Karan's skin clinic thank you dr.ravi rahul sir",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kwM0xUWXpNWGx2VlVjMlV6WkNhamx1ZUc1dk1XYxAB",
+      "author": "amith Roshan",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "Nice treatment and friendly doctor",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pJM1gwTjRSRVEwYmpsUWVVWlJjek5wT1dKNlVWRRAB",
+      "author": "Racha Madhavi",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "Got my CO2 lasers done for acne scars and pico lasers for skin rejuvenation.... results very much promising...",
+      "maybe_truncated": true,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWaVpscEliV3BTUlZOM05HWmhVVFl5VlVKZk5XYxAB",
+      "author": "sandhya ngv",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "Very happy to visit the clinic\nGot lazer hair removal  and GFC treatments done. Results are satisfied .",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paRmJGbEVUa2xIV0RWemFuZDRXbHBHYlVSYWEyYxAB",
+      "author": "Sri Ammulu",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "Dr. Karan understands the concern he explains each and every thing  with patience. I had taken GFC services from him i was very satisfied with his clinic. Results are visible.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWR1dWVnhNVTlwYlZWTGN6a3dRMDUxY0VOTVVFRRAB",
+      "author": "Ben Rex Dayan",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "Effective acne treatment with Dr. Karan. Very satisfied with the clinic experience. Highly Recommended",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wdU1IcGZZbFJ0VTBWQ1lrNXFMVEZFUW1jeE5rRRAB",
+      "author": "Dipika srinivas",
+      "rating": 4,
+      "relative_date": "10 months ago",
+      "text": "I highly recommend this place as the clinic is budget friendly...got chemical peels done and my skin started clearing after 2 sessions...",
+      "maybe_truncated": true,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGTFJWcFpVMlJvYkVWVU5IZFNObmhDTFdzemIxRRAB",
+      "author": "Sri Vani",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "The doctor explains every procedure thoroughly so we understand why it’s needed and what results we can expect. We can confidently undergo that procedure with positive attitude.My heartfelt Thanks to Dr Karan.Taken treatment for face glow and acne.Best clinic at tadepalli.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWclFWYzROVnBVZVV0M2RWTTBYM0UxVkU5R2FXYxAB",
+      "author": "Kommu Anitha",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "Good clinic near tadepalli, doctor is friendly treatment is good",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WbWR6VXhZMWxIV1hZeVExZDZSSGx5ZDAxV1UzYxAB",
+      "author": "Akash d Chotu",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "The hospitality was really great.. one of the best clinic for skin and hair . Dr. Karan sir I really appreciate the way you receive and explain everything. I got clear skin after the acne treatment.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kYU5qWnZYMmhFU0cxM1MwcHVSMHBMUW1KbFEzYxAB",
+      "author": "Abdul shaik",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "The doctor is extremely patient and ensures that every aspect of the treatment is explained with clarity. The treatment provided has been highly effective, and overall, the experience has been excellent.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOQ1MxVjNkakZyUmpWb04wSlNVRXhCU2w5elNXYxAB",
+      "author": "Sk. Sultana",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "Thankyou for the exceptional care and dedication your kindness made a difficult time so much easier for my family",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KVFpIRmZVRGczV0ZaR1V6ZENlbFE1UVc5blUxRRAB",
+      "author": "amu amani",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "Wonderful treatment received for tan problem. Very patient and highly qualified doctor with more expertise in latest derma treatments. I highly recommend",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM3anF1SGxBRRAB",
+      "author": "siddureddy Arkala",
+      "rating": 1,
+      "relative_date": "2 years ago",
+      "text": "I have not seen any changes\nWaste of money and also time !!",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURMal8yMVlBEAE",
+      "author": "Sunny Sahithi",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Excellent treatment by Dr.Karan garu. I have experienced severe hair fall for 2 years. My hair fall issue is resolved and I have seen satisfactory hair regrowth. Currently I am taking laser hair removal treatment. Overall I am very happy with results.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM5el9UVEJ3EAE",
+      "author": "sai kiran",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "All skin and hair treatments available. Went for PRP treatment. Had good results.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM5eDhfb1J3EAE",
+      "author": "Akshaya Dasari",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Doctor explains everything very clearly with patience. Got excellent results for acne treatment.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM5eF9tNG9BRRAB",
+      "author": "Monica Carol",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Good clinic near tadepalli vijayawada. Went for me and my daughter acne treatments results were promising. All lasers  treatments available.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURkNTRTcEZREAE",
+      "author": "g.vijay kumar Vijay",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Good dermatologist and well experienced in hair and skin problems",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQxNHVLUDV3RRAB",
+      "author": "Azzu Basha",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Excellent treatment and good response",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURsb3EzZjFnRRAB",
+      "author": "First Cry",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Right place for Skin consultation. Thank u",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ1Z2VqWDB3RRAB",
+      "author": "tenali sanjana",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Excellent Results i got from DR KARAN garu . Very Genuine Treatment.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNadWFpaERREAE",
+      "author": "Harsha N",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURwblp6VVZnEAE",
+      "author": "RPmovie makers",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Best skin care clinic",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    }
+  ],
+  "reviews_error": "",
+  "sorted_newest": true,
+  "stopped_at_known_review": false,
+  "reviews_captured": 30,
+  "owner_replies": 21,
+  "truncated_reviews": 2,
+  "reviews_coverage": 1.0,
+  "date_anchor": "2026-08-20T19:05:55",
+  "extract_seconds": 42.7,
+  "missing_fields": [
+    "website"
+  ],
+  "listing_position": 61,
+  "source_query": "dermatologists in Guntur",
+  "listing_name": "Dr. Karan's Skin and Hair Clinic"
+}

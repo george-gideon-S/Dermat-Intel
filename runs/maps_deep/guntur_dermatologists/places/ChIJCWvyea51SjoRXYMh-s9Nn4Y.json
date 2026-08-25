@@ -1,0 +1,557 @@
+{
+  "place_url": "https://www.google.com/maps/place/NDC+Nagarjuna+Dental+Clinic/data=!4m7!3m6!1s0x3a4a75ae79f26b09:0x869f4dcffa21835d!8m2!3d16.3117436!4d80.42681!16s%2Fg%2F11y4pl7pt9!19sChIJCWvyea51SjoRXYMh-s9Nn4Y?authuser=0&hl=en&rclk=1",
+  "captured_at": "2026-08-20T19:30:15",
+  "feature_id": "0x3a4a75ae79f26b09:0x869f4dcffa21835d",
+  "place_id": "ChIJCWvyea51SjoRXYMh-s9Nn4Y",
+  "kg_mid": "/g/11y4pl7pt9",
+  "lat": 16.3117436,
+  "lng": 80.42681,
+  "name_raw": "NDC Nagarjuna Dental Clinic",
+  "name_clean": "NDC Nagarjuna Dental Clinic",
+  "name_key": "ndcnagarjunadentalclinic",
+  "name_dropped": [],
+  "name_was_cleaned": false,
+  "category": "Dental clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "irrelevant",
+  "basis": "name_veto:dental",
+  "address": "upstairs, Nayar Hotel Center, Lakshmipuram , airtel store, opposite Ande Silks, Guntur, Andhra Pradesh 522007",
+  "plus_code": "8C6G+MP Guntur, Andhra Pradesh",
+  "phone": "081858 88882",
+  "website": "",
+  "website_domain": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "insecure_http": false,
+  "website_matches_name": null,
+  "rating": 5.0,
+  "reviews_total": 48,
+  "rating_histogram": {
+    "5": 47,
+    "4": 1,
+    "3": 0,
+    "2": 0,
+    "1": 0
+  },
+  "histogram_sum": 48,
+  "histogram_reconciles": true,
+  "topics": {
+    "root canal treatment": 2,
+    "doctor care": 5,
+    "hospitality": 2,
+    "friendly staff": 4,
+    "treatment": 8
+  },
+  "google_profile_gaps": [
+    "Add website"
+  ],
+  "has_photos": true,
+  "hours": {
+    "Thursday": "10 am to 9 pm",
+    "Friday": "10 am to 9 pm",
+    "Saturday": "10 am to 9 pm",
+    "Sunday": "10 am to 2 pm",
+    "Monday": "10 am to 9 pm",
+    "Tuesday": "10 am to 9 pm",
+    "Wednesday": "10 am to 9 pm"
+  },
+  "about": {
+    "Accessibility": [
+      " Wheelchair-accessible seating",
+      " Wheelchair-accessible toilet"
+    ],
+    "Service options": [
+      " On-site services"
+    ],
+    "Amenities": [
+      " Restroom"
+    ],
+    "Crowd": [
+      " LGBTQ+ friendly"
+    ],
+    "Planning": [
+      " Appointments recommended"
+    ],
+    "Payments": [
+      " Google Pay",
+      " NFC mobile payments"
+    ],
+    "Children": [
+      " Nursing room"
+    ],
+    "Parking": [
+      " Free parking garage",
+      " Free parking lot",
+      " Free street parking"
+    ],
+    "Map details": [
+      "Transit",
+      "Traffic",
+      "Biking",
+      "Terrain",
+      "Street View",
+      "Wildfires",
+      "Air Quality"
+    ],
+    "Map tools": [
+      "Travel time",
+      "Measure"
+    ],
+    "Map type": [
+      "Default",
+      "Satellite",
+      " Globe view ",
+      " Labels"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sTmFUSnFVbGxCZW5FM2JGVmlPVVZITjJzMlgyYxAB",
+      "author": "saisowjanya machavarapu",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "Good Treatment by Dr.Nagarjuna Garu.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5a2F6aE1Va0pYU1dwSk15MUxlR1JmUkROWGVVRRAB",
+      "author": "poluri bhavani kumari",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "Dr Nagarjuna's  odontological expertise is truly commendable.One of the best dentists in the town .His ways of treating his patients is meticulous. Iam very satisfied.Thankyou Doctor garu.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2swMlZHOHRRMkk1TmtWMlEyWkZSVzVwVWtwVGJtYxAB",
+      "author": "Subbarao Court",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21FMGNrTlRZbEZPV2s1dVNFODNaM05QYUVOa1YzYxAB",
+      "author": "Seshagiri Gottam",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "Better treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCc2RtUjNjUzF3ZVdveFJtSnhSbHBFU0dGdGJYYxAB",
+      "author": "Koushil Varma",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "I'm very satisfied with the treatment. I had full explanation of my wisdom tooth extraction & Staff is very friendly.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pseGRVOXFOVmRwUkhaMVVIUkZURFYxVUcxV2RtYxAB",
+      "author": "Srinivas Danaboina",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Good",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKeGR6VkROazlyYTFjeE5tWnNWREptVkZsRmRrRRAB",
+      "author": "sanju balraj",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Had surgery from Nagarjuna dental clinic. Doctor Nagarjuna have great experience.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WbVNWUkNhWGd3TTFGZmFWVldTR2RCYzBGYVJFRRAB",
+      "author": "Sarada Garikapati",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJaHMzOWh3RRAB",
+      "author": "Yarrakula Anjan yadav",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJeGMzdEhREAE",
+      "author": "Koteswararao Oruguntu",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Best treatment for Nagajuna Dental clinic.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3LV9URE5nEAE",
+      "author": "Ameer S",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3LU9ESTlBRRAB",
+      "author": "Rajesh Kumar Guntur",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I am very satisfied with the treatment for my gums, and cap on my tooth after root canal treatments. Nagarjuna garu explained everything in detail and are very patient. He is interested in the best outcome for me and takes pride in his work. Staff are friendly and I appreciate their follow-ups during treatment. Thank you team.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3a2U3VjZ3RRAB",
+      "author": "Shakamuri Rajesh",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Best of trament of Nagrjuna Dental Clinic",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3OEs2X2dRRRAB",
+      "author": "jagadeesh indlamuri",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I am impressed with the way of doctor treatment and instructions",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTURRcGF2SDlnRRAB",
+      "author": "Adaka Venkatarao",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Doctor cares very well",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRc0xTVEZBEAE",
+      "author": "M Lakshmi",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Treatment chala bagundi l have satisfied",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTURncjZDU1BREAE",
+      "author": "Mohammed Imran",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmeWNtem13RRAB",
+      "author": "CHINKA P YADAV",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Excellent",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2dkt2aENREAE",
+      "author": "srinivasarao meda",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Good",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2X3Q3eVFREAE",
+      "author": "taviti venkateswararao",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2eHRXVmp3RRAB",
+      "author": "Chiranjeevi Rao",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2eHJMVVVREAE",
+      "author": "Raghu 786",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Best treatment at affordable pricing...",
+      "maybe_truncated": true,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURQbXN5OFJREAE",
+      "author": "Manikantaa Paspuleti",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNQbGRxbFV3EAE",
+      "author": "k raghavendra",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNQcFpuZW1BRRAB",
+      "author": "Uma Maheswara Rao Bodepudi",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYallUbW9BRRAB",
+      "author": "bubbly bhavya",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYbWJDc2ZREAE",
+      "author": "Soujanya Lakkakula",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "We feel so happy to visit",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURud3R5YnF3RRAB",
+      "author": "Ravipudi Swathi",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM3aHI3Z1lREAE",
+      "author": "Rashmika Mandanna",
+      "rating": 4,
+      "relative_date": "2 years ago",
+      "text": "Nice care for patients",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNiM3RUT2xBRRAB",
+      "author": "mahalakshmi a",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Nice experience.good treatment.one of the best hospital in guntur.peaceful and present atmosphere.very reasonable price.friendly nature.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNyX1pUcU1REAE",
+      "author": "sankara rao",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNyMHU2XzZRRRAB",
+      "author": "K Vijaya Vijaya",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNMNHJDM1dnEAE",
+      "author": "ruthu Dasu",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNMek1TalNBEAE",
+      "author": "Premchand12 Ch",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNMeEtmblVBEAE",
+      "author": "Yesu Padam",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Good clinik",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR6OTRqMy1BRRAB",
+      "author": "Chandrika Medipalli",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR6dDhxSXV3RRAB",
+      "author": "Saikeerthana Reddy",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Nice",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR6dDhpWUxBEAE",
+      "author": "Sujatha Athukuri",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR6NTRiUGp3RRAB",
+      "author": "Cheyan Vikram",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR6MjRtMlJBEAE",
+      "author": "Gopi Banavath",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR6bTZ2TlhREAE",
+      "author": "Geetha Geetha 143",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR6bTh5ZC13RRAB",
+      "author": "King_ KARTHIK",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR6X2RxSEF3EAE",
+      "author": "chiru burri",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I visited NDC clinic for root canal treatment, I like the way Dr. Nagarjuna did treatment and the way he explain the process of treatment .I definitely recommend NDC clinic for quality of treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR6NWFQLVJ3EAE",
+      "author": "manga srinu",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Best Dental Hospital In Guntur",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR6cnZQZXpBRRAB",
+      "author": "Bala Krishna",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "The treatment and hospitality is very good ... i would  definitely recommend this clinic for my friends and family ...",
+      "maybe_truncated": true,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR6dk5tekJBEAE",
+      "author": "VANI CHAVALA",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURULTRHbnhBRRAB",
+      "author": "varsha y",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "The treatment process was very good..they made it painless",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURxbTlPN0F3EAE",
+      "author": "Praneeth Rao Polsani",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "Good staff and hospitality",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    }
+  ],
+  "reviews_error": "",
+  "sorted_newest": true,
+  "stopped_at_known_review": false,
+  "reviews_captured": 48,
+  "owner_replies": 14,
+  "truncated_reviews": 2,
+  "reviews_coverage": 1.0,
+  "date_anchor": "2026-08-20T19:30:15",
+  "extract_seconds": 43.8,
+  "missing_fields": [
+    "website"
+  ],
+  "listing_position": 77,
+  "source_query": "dermatologists in Guntur",
+  "listing_name": "NDC Nagarjuna Dental Clinic"
+}

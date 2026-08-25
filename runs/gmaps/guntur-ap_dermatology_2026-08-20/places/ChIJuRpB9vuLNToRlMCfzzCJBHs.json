@@ -1,0 +1,2515 @@
+{
+  "key": "ChIJuRpB9vuLNToRlMCfzzCJBHs",
+  "tier": "full",
+  "complete": true,
+  "place_url": "https://www.google.com/maps/place/Lotus+Dental+and+Cosmetic+Clinic+%7C%7C+Best+Dental+Clinic+in+Guntur/data=!4m7!3m6!1s0x3a358bfbf6411ab9:0x7b048930cf9fc094!8m2!3d16.3107785!4d80.4358528!16s%2Fg%2F11sz2k03lj!19sChIJuRpB9vuLNToRlMCfzzCJBHs?authuser=0&hl=en&rclk=1",
+  "captured_at": "2026-08-20T23:51:17",
+  "rank": 50,
+  "place_id": "ChIJuRpB9vuLNToRlMCfzzCJBHs",
+  "feature_id": "0x3a358bfbf6411ab9:0x7b048930cf9fc094",
+  "kg_mid": "/g/11sz2k03lj",
+  "lat": 16.3107785,
+  "lng": 80.4358528,
+  "dup_of_rank": null,
+  "has_online_booking": false,
+  "booking_url": "",
+  "booking_vendor": "",
+  "service_options": null,
+  "permanently_closed": false,
+  "temporarily_closed": false,
+  "status_text": "Closed · Opens 9 am Fri",
+  "open_now": false,
+  "is_ad": false,
+  "review_snippet": "\"Explained the condition and got the treatment in a single setting\"",
+  "name_raw": "Lotus Dental and Cosmetic Clinic || Best Dental Clinic in Guntur",
+  "name_clean": "Lotus Dental and Cosmetic Clinic",
+  "name_key": "lotusdentalandcosmeticclinic",
+  "name_dropped": [
+    "Best Dental Clinic in Guntur"
+  ],
+  "name_was_cleaned": true,
+  "category": "Dental clinic",
+  "card_category": "Skin care clinic",
+  "category_mismatch": true,
+  "relevance": "irrelevant",
+  "basis": "category",
+  "address": "Naidupet 2nd lane, Amaravathi Rd, Guntur, Andhra Pradesh 522007",
+  "plus_code": "8C6P+88 Guntur, Andhra Pradesh",
+  "phone": "097014 90546",
+  "website": "https://lotusdentalskinandhair.com/",
+  "website_domain": "lotusdentalskinandhair.com",
+  "website_type": "own_domain",
+  "insecure_http": false,
+  "has_own_website": true,
+  "website_matches_name": true,
+  "rating": 5.0,
+  "reviews_total": 298,
+  "rating_histogram": {
+    "5": 294,
+    "4": 2,
+    "3": 1,
+    "2": 1,
+    "1": 0
+  },
+  "histogram_sum": 298,
+  "histogram_reconciles": true,
+  "topics": {
+    "zirconium crowns": 15,
+    "root canal treatment": 38,
+    "lower anterior teeth": 7,
+    "tooth pain treatment": 17,
+    "hydra facial": 4,
+    "friendly environment": 24,
+    "filling compostie treatment": 2,
+    "full mouth rehabilitation": 2,
+    "wisdom teeth removal": 2,
+    "dental clinic in guntur": 2
+  },
+  "google_profile_gaps": null,
+  "has_photos": true,
+  "hours": {
+    "Thursday": "9 am to 9 pm",
+    "Friday": "9 am to 9 pm",
+    "Saturday": "9 am to 9 pm",
+    "Sunday": "9 am to 9 pm",
+    "Monday": "9 am to 9 pm",
+    "Tuesday": "9 am to 9 pm",
+    "Wednesday": "9 am to 9 pm"
+  },
+  "about": {
+    "Accessibility": [
+      " Wheelchair-accessible car park",
+      " Wheelchair-accessible entrance"
+    ],
+    "Amenities": [
+      " Restroom"
+    ],
+    "Planning": [
+      " Appointments recommended"
+    ],
+    "Payments": [
+      " Debit cards",
+      " NFC mobile payments",
+      " Credit cards"
+    ],
+    "Parking": [
+      " On-site parking"
+    ],
+    "Map details": [
+      "Transit",
+      "Traffic",
+      "Biking",
+      "Terrain",
+      "Street View",
+      "Wildfires",
+      "Air Quality"
+    ],
+    "Map tools": [
+      "Travel time",
+      "Measure"
+    ],
+    "Map type": [
+      "Default",
+      "Satellite",
+      " Globe view ",
+      " Labels"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aVE1rdENiMHRzZEhZMU1YUmpkMlpwZWxONVJWRRAB",
+      "author": "Babu Local",
+      "rating": 5,
+      "relative_date": "9 hours ago",
+      "text": "My friend suggest me Lotus DENTAL so iam came from guntur,very satisfied with the treatment. Good clinic in guntur.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5MGFHVTNXR2sxWkY5SlJEY3dTV1JtYUU4eU1GRRAB",
+      "author": "Vijay Kumar",
+      "rating": 5,
+      "relative_date": "a week ago",
+      "text": "Good service and good staff behaviour",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pjeVJ5MUtaMnMyVW1sUmNIZE9SV1ptYVc1SFgzYxAB",
+      "author": "Kk",
+      "rating": 5,
+      "relative_date": "2 weeks ago",
+      "text": "Both physicians provided excellent service des.Excellent explanations with clear instructions provided.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1S1NrOHdTMG93VmxBMFpVSXlaWE5FTW0xTFpsRRAB",
+      "author": "sri lu",
+      "rating": 5,
+      "relative_date": "3 weeks ago",
+      "text": "Service and treatment was good",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWaE1rRXpRa3ROYjFGTVdXVTRMVkZVVUZwa2RWRRAB",
+      "author": "Parvathi Orsu",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1U2NqWlpNWEJRV2t4RlgzZFFaWEpFVlRVMUxYYxAB",
+      "author": "Balasubramani Mani",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "I came here with sever teeth pain they suggest root canal treatment after seeing xray and caps now I am happy with their treatment thanks to Lotus dental &Team\nDr.Pawan sir & Dr.Nikhitha mam\nI will recommend this clinic to my friend &Family members best Dental Clinic in Guntur",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taME9UWnhWRzlQYlV0aVpFazFORTFpYTJabE5sRRAB",
+      "author": "Nagasaivenkat Janjanam",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "Very good hospital for dental & skin ,hair issues.\nMy son came for hair GFC treatment. I come for root canal and caps treatment.\nVery satisfied with treatment.☺️\nGood clinic in Guntur",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toWGFYcHBSaTFaWW5KS2RsWldWbUZMZEd3eVJYYxAB",
+      "author": "jyothsna yammani",
+      "rating": 5,
+      "relative_date": "2 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psaFRWQTVSa0pVTUZKdmFEbHhPRWhJVjJFeFFVRRAB",
+      "author": "Chakri",
+      "rating": 5,
+      "relative_date": "2 months ago",
+      "text": "I visited Lotus cosmetic skin and hair clinic, got treated my acne good results acne reduced in 1month Dr. Navya sree treatment is good.\nI recommend lotus cosmetic clinic for skin and hair issues",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGTVIzQnZNVVp3ZG1oaVZEa3hjRkZUUmtaM1IyYxAB",
+      "author": "Ravindra Babu",
+      "rating": 5,
+      "relative_date": "3 months ago",
+      "text": "I have irregular smile, came here for smile designing for front teeth. Dr. Pawan & Dr. Nikhitha explained treatment verywell. My smile changed completely I feel totally confident now. ✌️☺️.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCbVJuQlhVWGx6Y1dKVFdtUk1XVFk0UkVoTGRtYxAB",
+      "author": "Lakshmi Priyanka",
+      "rating": 5,
+      "relative_date": "3 months ago",
+      "text": "Good doctors and treatment was quality, and also staff was treated patients good. Overall best place and good to take treatment in this hospital",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKUVpVc3RXRWhVTW1samFVOXVZMEoyWm1Kd2JtYxAB",
+      "author": "Sri Bhramara Infra",
+      "rating": 5,
+      "relative_date": "3 months ago",
+      "text": "Doctor and asst followup and explanation is good",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kalpqZE1XV3BXZVUxSFZsaFVTVmc0UzA1V2RHYxAB",
+      "author": "Kranthi Kumar",
+      "rating": 5,
+      "relative_date": "3 months ago",
+      "text": "We came for root canal and cap for my wife. When we consulted dr. Pavan sir explained in a well manner and completed the treatment in given timelines and sittings.  Dr. Nikitha mam treated with very caring manner and given all the precautions & required  information in advance. Staff also fully supported and the clinic atmosphere also very nice and attractive. Overall super and I recommend any dental related this lotus clinic to visit in affordable prices. Thank you.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kdlRXcFVWRWRuWW5oamQycFJSbHBPTFdSVFMwRRAB",
+      "author": "srinivasa rao Ghatamuneni",
+      "rating": 5,
+      "relative_date": "3 months ago",
+      "text": "Good treatment and good responses,  staff also good response",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoU2NXbDVkVVkyVld0NFZEVjJZMGRsVG0xMFkzYxAB",
+      "author": "Hari Ram Krishna",
+      "rating": 5,
+      "relative_date": "3 months ago",
+      "text": "Skin care for acne treatment is the best from lotus cosmetic skin and laser hospital.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkdlFrWmhhR3BRUjNCWE1sSnFObHBKYTNWd1FtYxAB",
+      "author": "Devi Budala",
+      "rating": 5,
+      "relative_date": "3 months ago",
+      "text": "Came with severe tooth pain on both sides, done with zirconium crowns with root canal treatment. Very good treatment done by Dr.Nikhitha & dr. Pawan. Affordable costs.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkdFpWcHBiemt5UkZjeFNVTlVRM2R5ZEZwb1JGRRAB",
+      "author": "M Sweety",
+      "rating": 5,
+      "relative_date": "3 months ago",
+      "text": "Good service and good ambiance",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CVllucFNRVFp6UVdWVWNTMXllWEV4WWpaWVVuYxAB",
+      "author": "Krishnamurthy Kamma",
+      "rating": 5,
+      "relative_date": "4 months ago",
+      "text": "I came to lotus dental with no teeth in the mouth they suggest lower fixed teeth and upper Removable teeth I was very much happy after  eating also I don't feel any discomfort\nThanks to Lotus Dental\nDr.Pawan & Dr.Nikitha and Team\nI will Recomend lotus dental as a best dental clinic in Guntur\nThank you",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21RNVpWaHhhWEJKYW1GRldYQnZRM0UwZGpWRmNGRRAB",
+      "author": "Karthik Sunke",
+      "rating": 5,
+      "relative_date": "4 months ago",
+      "text": "Excellent...  First day I came here full dental pain after treatment I feel very happy... I suggest to everyone one lotus dental is best",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kRlYwWktWMUk1U0ROWVNFMDRVVll4ZDJoaWVVRRAB",
+      "author": "PESARALANKA SAMBASIVARAO",
+      "rating": 5,
+      "relative_date": "4 months ago",
+      "text": "I have infection in my all teeth, at young age. My neighbor suggested Lotus dental clinic. Got full mouth rehabilitation treatment. Fully satisfied with my new teeth.😊 Dr. Pawan explain everything before treatment. …",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGTFpuWkJlamhyYlhSV1NYWk1lWGxTWW5SUU0yYxAB",
+      "author": "narsammabkr narsamma",
+      "rating": 5,
+      "relative_date": "4 months ago",
+      "text": "Came to Lotus dental clinic on friend recommendation, worth money we spent on treatment. I like that Doctor here explain everything before treatment.\nFixed teeth treatment done. 😊👌 …",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOM05HOXNXVFppVkdWS1UxRjNOMFJVTnpkNGRWRRAB",
+      "author": "Suseela Kanamarlapudi",
+      "rating": 5,
+      "relative_date": "4 months ago",
+      "text": "I came to lotus Dental with sever teeth pain they advise root canal treatment and caps now I can eat happily and smile happily ,Best Dental clinic in Guntur\nLotus Dental .\n\nThanks to\nDr.Pawan\nDr.Nikitha & Team",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OSVlUaFhYMVF5YWt4emRGSnVYMlJNZDNGcFMyYxAB",
+      "author": "mahati prasad",
+      "rating": 5,
+      "relative_date": "5 months ago",
+      "text": "Best Dental clinic in Guntur i came to Lotus dental with sever teeth sensitivity and teeth pain they advice root canal and zirconium caps they Design my smile very Beautiful thanks to Lotus dental and team\nDr.Nikhitha and Dr.Pawan\nRegards\nDurga Prasad",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKMWVEVmtPSFY0YTBaa04zaERVSEp2VEdoRmQxRRAB",
+      "author": "Yadla Meenakshi",
+      "rating": 5,
+      "relative_date": "5 months ago",
+      "text": "My friend suggest me Lotus dental so i came from vijayawada, very satisfied with the treatment. Good clinic in guntur.😀 …",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwRFFqQjVWWHBrT0ZORFJuRXhPVlJITmkxU2JFRRAB",
+      "author": "Prasanna Thota",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "Best treatment and friendly staff",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oSllVVktiMHRwUmxOd2VFeExUa1JRV0VGdFNIYxAB",
+      "author": "prasad Sudepalli",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "Came with sever teeth pain they advised root canal treatment. Overall excellent treatment. Best dental clinic in guntur\nThanks to Dr. Pawan &Dr. Nikhitha and lotus dental team",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CblUxUTNlRjlMVW1KVE9XMWFTRkJwWW1WS01XYxAB",
+      "author": "Venkata naga Bhushana rao",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "Came for complete teeth set from chebrole, by a friend referal. Very happy with treatment. Best dental clinic in Guntur ☺👍👍 …",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKQmVWVXlkM3BKWVVNeWNqWndNRjlxZUZoTGFsRRAB",
+      "author": "Keerthikanth Cheedella",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "Came with broken front teeth, replaced with zirconiam cap & RCT done .very good treatment done by Dr. Nikhitha. 👍👍 …",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CTk4xSlZXa1ZYZWxaUlJVVm5Oemh6Y1ZCUGVVRRAB",
+      "author": "Naga Surekha Yenuganti",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "Good treatment and services",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wSlVUSXdNMHQ0TlVKVFlrbFVVR3d6YmpJdGNHYxAB",
+      "author": "Sailesh Jayam",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1MlJtOUtkV0pGYjNsbVQzQnZTbVZFUWtsQk9IYxAB",
+      "author": "Medagam Pravallikareddy",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "Receiving was nice. Trust worthy and receiving comtable treatment",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aV2VFaFNPRGxVZEdRelRGaFJZM2RuVVVkTFdtYxAB",
+      "author": "Narmadha Reddy",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "Pain free and comfortable treatment, experienced doctors, cleared all my doubts, good staff. Fully satisfied with my treatment.\nOverall good hospital 👍👍😊 …",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xRMVowUmhORzlEU1ZjeVkxZENSa1paUWxaZmFrRRAB",
+      "author": "tharun nani",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "Treatment was Excellent now I can eat happily and Best Dental clinic in guntur Thanks to Dr Pawan and Dr.Nikhitha",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwcVNqVk1VR0pZUTNkMk5rbGZWVmxoUTJoU1ptYxAB",
+      "author": "naganwesh bolla",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "I came to lotus dental with Tooth pain and they suggest rootcanal treatment with caps The treatment was good and followup was good thanks to lotus Dental\nBest Dental Hospital in Guntur\nThanks to Dr.Pawan& Dr.Nikhitha",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210MlFpMDFXbUZUV0Y5MGJEZGphM0p0TmpCbWJWRRAB",
+      "author": "Showriraju Karanam",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "Very good treatment done by Dr. Nikhitha and Dr. Pawan.. 👍 …",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkVVVuWlRhWEptYTJaSlRURTBjVGxsYWpOdVNYYxAB",
+      "author": "Raja Manickam Dhandapani",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "Very professional",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GWFRFOU1jbkZNTUc1RWNGWlVSRkpETUZkR1FuYxAB",
+      "author": "Khushbu Jain",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "Very much experienced doctors\nN deal very patiently n make us understand all the problem n solution in very much detail",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wWU5sUkNYMlJ3TWpGYWNXWlhTVTl6VWtvM1lsRRAB",
+      "author": "katta rambabu",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkNmFrNXJWRVYwWDBsck1qaFVjQzB0TUVkV2MwRRAB",
+      "author": "Naga Sai Thota",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "Excellent service and results at Lotus Dental! The clinic is clean, modern, and the entire staff is professional and kind. Dr. Pawan did a fantastic job on my teeth cleaning, No waiting time, great communication, and genuine care for patient well-being. Highly recommended!",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tFeWRraGlkemRFVXpWbmRVMTNhRmRaUWt4WlJVRRAB",
+      "author": "jagannadha rao",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "Came here from chirala, my friend suggested me Lotus dental clinic. Very good hospital with good staff and equipment.Dr.pawan explain everything clear . U get best quality at good price. 👍👍🙂 …",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210R05YQk5WbkIwWkdaWVdHZHNiV1YxTVdnNFNHYxAB",
+      "author": "sathvik M",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "Good services have been provided throughout the sessions",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxeWFXVnhXbTQ0WjBwRGJrWmhjakJ3WkhZMk9FRRAB",
+      "author": "KUSAMPUDI SRINIVASA RAJU",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "excellent treatment",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGU056WktRMFJsYzJKWmN6aFhkekpoWVhWTFZWRRAB",
+      "author": "G.s Reddy",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214TmRHWnJZVWhGYkdWblRucFpTVFJXTVVGSWRHYxAB",
+      "author": "Narayana Reddy",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "Excellent",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCWWNqSnVjMVoyTTNjd1dXdEVWVzFTTW5kUlZXYxAB",
+      "author": "ManiKanta Ayyappa Savasamithi",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "I came to Lotus dental with sever pain and discomfort with previous cap they advised for root canal treatment and zirconium cap the treatment went very well and very very happy with treatment thanks to Lotus Dental & Dr.Pawan and Dr.Nikhitha mam & Team\nBest Dental Hospital in Guntur",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25neE1VNURiME42Y1dkcFpHSTNia1ZqVTNoUlluYxAB",
+      "author": "Sai Raghava Potti",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsWFlYQnZZbkpRVDJzMWQzY3pkMmxPTjBsT2NtYxAB",
+      "author": "Ramakrishna Kommineni",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "Dear mam / sir,\n\nI recently completed my dental treatment which included cleaning, filling, root canal, and crown fixing. I am very satisfied with the treatment and the way you explained each step clearly. The procedure was done with care, and I felt comfortable throughout.\n\nThank you for your patience and professional service. I will surely recommend your clinic to others.\n\nBest Regards,\nRamakrishna Kommineni, Guntur",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wNU1rNXBiVmx0VWxKUFpqRnFhR2xpWldacmJYYxAB",
+      "author": "venu kantamaneni",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "Came with severe tooth pain for 2 teeth, doctors here treated with good care, less pain. Very comfortable with treatment and staff. Clean equipment.👍👍 …",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGM2FFRlVaRUU0TmtodVEwTkNhMk5pVDJGNlVsRRAB",
+      "author": "Prudhvi 1212",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "Comfortable service with friendly staff,\nGood personal care ,\nHere they given me good treatment for dandruff",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twTllrSTVSblZKYmtOdk5rbE1aMnhEY1hWNGFIYxAB",
+      "author": "udayvenkat korrapati",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "Good experience",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCQk9WVk9lVGhGZEc5NE1sbHJjV05FV1VkT2RtYxAB",
+      "author": "Srinivas 1992",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "Very good treatment, by dr.Pawan, dr.Nikhitha , good hospital with advanced equipment. Clean and good environment",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taTlVUbEVTbVE1VG1wdmJtdEdiSFY2WWt0cVNHYxAB",
+      "author": "SRINU KETHAVATH",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "I have a sever teeth pain doctor said to remove the teeth wisdom teeth removed\nTreatment was outstanding and excellent\nThanks to Dr. Pawan & Lotus Dental\nBest dental clinic in Guntur",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oVlJsaHpOVEZHUVVocFdDMXNlREZmU0c5blMzYxAB",
+      "author": "Srinivasa Rao",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "Excellent treatment i came with severe teeth pain the teeth  broken into half the doctor advised for teeth removal .procedure done very nice thanks to Dr.pawan and team\nLotus Dental Best Dental clinic In Guntur",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4a1ZpMVdabUoxUkVadVVubFRObTVPU0ZSVE5HYxAB",
+      "author": "Venkatasiva Polisetti",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "I came to Lotus dental with sever tooth pain they suggest for teeth removal treatment was very much satisfied Very hygenic and pleasant environment staff follow up and receiving was good .Best Dental clinic in Guntur .\nThanks to Dr.Pawan & Dr.Nikhitha & Team",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twNk5HODFRVTE2YUU1Q1VUZHZSMHRxTVVKbmRuYxAB",
+      "author": "this izz business",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "Good service",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKWFZGVmZZWEIwWXpSZk1USlBVVWQyVGpBd1ozYxAB",
+      "author": "Kali Kiran Chavakula",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "Treatment was 👍 good .. satisfied.. …",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21jM1UyUjBZM1kwWnpCTmJqZFpaRnBGVmpWTVdrRRAB",
+      "author": "B. Kameswari",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I came to lotus Dental with severe pain they suggest for cements &  root canal the procedure gone very well and the explanation and treatment was Excellent,Best Dental Hospital in Guntur\nThanks to Dr Pawan & Dr Nikhitha & Team",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xjdGJEUlhZamhvTUhCU1VVZDFlblUwYkc5R01VRRAB",
+      "author": "rizwan khan",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OaVZ6ZFJYek5uYkcxME9XUkhjR3hxVjFKck5rRRAB",
+      "author": "varuanand guntupalli",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "came to lotus dental clinic for rct and crowns treatment is very good here . friendly staff, clean environment. Very good experience",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210UFoxWmxjbWQyUVRKNlJFaEZSVmhQWlhCc05VRRAB",
+      "author": "Mohan Anand Kumar",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "came to lotus dental clinic for rct and crowns treatment is very good here . friendly staff, clean environment. reasonable cost also.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ONU5qWk1hSGR1V0hCNWRHVTFlWGR0UlMwNFFXYxAB",
+      "author": "koteswararao t",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Came with caps problems\nDr. Pawan replaced my old caps with zirconia crowns. Felt satisfied and happy with quality of treatment. Good Dental clinic with all facilities",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4SGFucGhWbWg1UzBkdVdWVm5TbmRXT0ZsR1NFRRAB",
+      "author": "Gogineni Koteswararao",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Very good hospital, came for rootcanal and caps, Dr.pawan & dr.Nikhitha explains treatment very well. Recommend to everyone.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OZlZIQkhaVGgzVGtzNU4wcGFVM0IwUVU1eWVIYxAB",
+      "author": "Bujji Rachel",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I came to lotus Dental with sever pain Doctors suggested root canal and cap the treatment was excellent and i am happy with zero pain treatment\nBest Dental Clinic in Guntur\nThanks to Dr. Pawan &Dr. Nikhitha Mam",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VKckJwT2VPd29PbjBRRRAB",
+      "author": "Golla Lavanya",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Quality treatment with good doctors and staff",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2swMVh6ZE5XRWh4WjJGa05UVndNWE5PY0RsUFFYYxAB",
+      "author": "Ramya Ramya",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Good doctor.. Received a great treatment have a vast knowledge .. I'm done with scaling and implant",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VPQ0JwTUg1NFlxbk9REAE",
+      "author": "Madhan Marisetty",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I came to Lotus Dental with sever tooth pain they suggest for root canal and zirconium caps and Advice teeth cleaning also treatment was too good and Ambiance and staff was Good\nBest Dental Clinic in Guntur\nThanks to Dr.K.Pawan",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VOaWprcFgxdjc2RDlBRRAB",
+      "author": "Rama Rao Vetcha",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Wonderful Experience, Very Friendly treatment.\nI am so comfortable with out pain now.\n\nThank you so much Dr.Pavan Garu.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VOcU0wZEtYbXZITUpnEAE",
+      "author": "Satyanarayana Tadivaka",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Come here for teeth cleaning and teeth whitening.\nVery good treatment at good cost.\nvery hygienic clinic.\nRecommended to everyone.\nThany you Dr. Pavan sir.  Here skin treatment and lasers are also available. Lotus is best dental clinic in guntur",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VPQ0RxTWJkc2YyNURBEAE",
+      "author": "Shaik javeed Akthar",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "The treatment was too good for Hair and Skin I came for hair fall treatment they Advice GFC and I took 3 sessions I can see good results Thanks to Lotus Cosmetic clinic\nBest Skin& Hair &Dental Clinic in Guntur",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VMYWJqZDZSNmNxbGxRRRAB",
+      "author": "LeelaVathi Thota",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "came to lotus dental clinic for rct and crowns treatment is very good here . friendly staff, clean environment. Here skin treatment and lasers are also availabe which is good",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VONzR5SVhFb2VPNXhnRRAB",
+      "author": "Venkatesh Thota",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I had a wonderful experience at (Lotus Dental Care). Doctor Mr.Pawan & Mrs.Nikitha. From the moment I walked in, the staff was kind, professional, and attentive. The doctors were knowledgeable and took the time to explain everything clearly, which really helped ease my concerns. The nurses were incredibly compassionate and responsive to every need.\n\nThe facility was clean and well-maintained, and the overall environment made me feel comfortable and cared for. I truly appreciate the high level of care and dedication shown by the entire team. Thank you for making a stressful time so much easier with your excellent service. Highly recommended!",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvMC1MRGR3EAE",
+      "author": "Venky Gottam",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I came with sever pain to lotus Dental They suggest rootcanal treatment and zirconium cap Excellent treatment by Doctors and they provide skin treatment also for me treatment was Good. Best Dental, skin, hair Clinic in Guntur\nThank to lotus Dental &\nLotus cosmetic clinic",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvdGRqRVNBEAE",
+      "author": "Dhupati Bhavani",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I bring my mother to lotus dental for Front teeth caps she didnt have front teeth Dr. Pawan &Dr. Nikhitha mam suggested for zirconium caps Treatment was Excellent and smile was so beautiful. Thanks to Lotus Dental &Team\nBest Dental Hospital in Guntur\nThank you",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvdGZEZ1hREAE",
+      "author": "V . Sai Mohan",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Good caring",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvdVllM2J3EAE",
+      "author": "ramaiah sadhanala",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I came with teeth loss they explained about Bridge the quality of teeth and treatment was good Best Dental Clinic in Guntur\nThanks to Dr .K.Pawan sir for Amazing treatment and hospitality , Follow up and staff receiving was Good\nThank you",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvb2RpQ2RnEAE",
+      "author": "jhansi rani",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvd3VmMXVBRRAB",
+      "author": "POLISETTY SUDHEER",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvNEpLcmZ3EAE",
+      "author": "Sravani Kancheti",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Excellent service and professional staff. The treatment was smooth, and the doctors were very caring. Highly recommend this dental hospital!",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJbTl2RmVBEAE",
+      "author": "Narashima Ala",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I came for tatto removal to Lotus cosmetic clinic, with 2 sessions I can see change , must recommend for skin and hair issues.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJdzZqWVdnEAE",
+      "author": "Anil Naidu",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I have sever pain They done root canal treatment with cap , treatment was excellent and staff reciving and followup was good Best Dental Clinic in Guntur\nThanks to Dr.Pawan , Dr.Nikhitha.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJMUppWG9nRRAB",
+      "author": "Venkateswara Reddy Kota",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I came to lotus dental with missing teeth Dr.pawan advised for caps treatment was Good now can eat happily Best Dental hospital in Guntur ,I had skin issues they provide treatment for this also Best place for Dental skin hair Treatment\nThank you.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJOE9HbmRREAE",
+      "author": "Geetha Pavani",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJbDl1MzF3RRAB",
+      "author": "Bindhu Jayavarapu",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Best Place For Dental,skin,Hair treatment I went with teeth pain they treated very well Thanks to Dr.Pawan sir and I took the hair fall treatment also the result was too good Best place for Dental skin , hair problems , Thank you",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJNThYNWFBEAE",
+      "author": "TEJASWI KANAMARLAPUDI",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Hospitality is very good",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJNEtyaEFnEAE",
+      "author": "Lakshmipathi angara",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Patient  felt very much happy regarding time factor, with regard to procedure and also environmental factors. Very nice.Best Dental & skin & Hair hospital",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3M19UTFRREAE",
+      "author": "sai krishna",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Fully satisfied with the treatment done by the doctors\n\nI'll suggest this place if  you are suffering with any teeth problems",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3eTU2VElnEAE",
+      "author": "C&C memories",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3d3JfVXNBRRAB",
+      "author": "Srinivas Gobburi",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Good service dr Nikitha madam and dr Pavan sir",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3aUt5Ny13RRAB",
+      "author": "radhika ramya",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Very well diagnosed and treated by dr pawan garu and supported by nurses.Totally satisfied .Thank you",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTURRak5fV3F3RRAB",
+      "author": "Talluri Giri babu",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "My friend suggested Lotus Dental clinic to me. My father got new teeth here. Dr.pawan explained everything very clearly. Great quality treatment with best price. I also got carbon laser for face. Very good results 👍😊 …",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRMUplVmRBEAE",
+      "author": "Ashokkumar Appala",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Very Good Treatment. My Father Came With Severe Teeth Pain. Root Canal Treatment Done by Dr Nikhitha & Dr Pawan. Here Skin Laser Treatment also Done. Verry Happy With Cost and Treatment 👍👍 …",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTURnbHUzM3hnRRAB",
+      "author": "Dattatreyasarma Sunil",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Came to hospital with severe pain in my teeth but here Doctors and. Staff are very friendly and my RCT  treatment done. I don't have pain during treatment.\nOverall satisfied with cost and quality of treatment👍👌😊 TQ Dr.Pawan sir  and Dr.Nikitha mam …",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNnNDVmQkZnEAE",
+      "author": "Padmavathi Siddabathuni",
+      "rating": 2,
+      "relative_date": "a year ago",
+      "text": "The reception and treatment was very good. I came to this hospital suffering from toothache. They treated me very well and slowly and patiently. Now my toothache is completely gone. The best dental hospital in Guntur. Thank you!",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNnbXQzNmNBEAE",
+      "author": "CHENNUPATI RADHAKRISHNA",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "We came here with lot ofpain but they did root canal they took a lot care about us this is the best hospital",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnd3ZMSXBBRRAB",
+      "author": "mukesh raja paladugu",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I went for skin care. Dr. Navya who has treated my pigmentation got sound knowledge. Actually the session went very interactive cleared my doubts about carbon laser peeling. Thank you for providing the good treatment.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNBeGNxTDZnRRAB",
+      "author": "Sai Sambasiva",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Excellent doctor. Support staff are godsend!",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNBM3BPMGdRRRAB",
+      "author": "Badugu Avinash",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Came to lotus dental clinic with severe teeth pain..dr. suggested Root canal and cap treatment. Really happy with treatment.Good treatment by dr.Pawan and Dr. Nikhitha . Good experience",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNBM3ZuWDZRRRAB",
+      "author": "Badugu anandrao",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Good for treatment",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURfM002aTJBRRAB",
+      "author": "Sailaja Kanaparthi",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURmXzRMVFlREAE",
+      "author": "Chandu pavan",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Today, I have a front cap. My experience at Lotus Dental was pleasant.\nDr Nikitha and dr Pawan skin and hair treatment available",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURmalAyX1BBEAE",
+      "author": "Ganesh Naidu",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Gud service and better solution\nFor dental problems",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURmME1xbWNnEAE",
+      "author": "Rizwan Shaik",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "My name is Sk Rizwan I came here with pain in front teeth and I also having cleft i underwent root canal treatment and 5 zirconium crowns very well satisfied with treatment, The recieving and hospitality was Excellent Best Dental , skin ,hair  treatment done by Lotus dental & Cosmetic clinic guntur thank you Dr.Nikhitha mam and Dr.Pavan Sir am fully satisfying this type of treatment. this is the best dental clinic in guntur and it also provide treatment for skin and hair if anyone suffering with those problems consult lotus dental & Cosmetic Clinic ,",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmcWZQbllREAE",
+      "author": "Repalle Lakshmi Repalle Lakshmi",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Came for Root canal treatment and cap, very good treatment by Dr. Nikhitha and Dr.Pawan\nPainless treatment , clean premises. Very satisfied",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2bV9PZzhBRRAB",
+      "author": "Pavan SriRam Tanneru",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Good and nice treatment given by the doctor and staff",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2aklfTUpREAE",
+      "author": "bridget jacob",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURQMWNPS1V3EAE",
+      "author": "Gopi Naidu",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Thanks for your best treatment which I got for wisdom teeth remove,  and best service. Doctor caring and explanation was very good, and treating like their own family . Thank you very much",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNQM016cUR3EAE",
+      "author": "Alladi suresh Suresh",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Good clinic.Root canal treatment is good with reasonable prices, l had filling compostie treatment with lotus dental and aesthetics.\nThey are also providing skin and hair issues.\nThank you Dr. Pawan sir.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQzMjVQc0hREAE",
+      "author": "vijaya lakshmi",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I had filling composite treatment with lotus dental and aesthetics gud work\nPavan sir had treated very well\nThey also have hair and laser treatment\nThank you so much",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQzbXY3djlBRRAB",
+      "author": "Usha Tanneru",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Good clinic. Root canal treatment is good with reasonable prices , got carbon laser also. Overall very satisfied, and recommended.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzdV96SnRnRRAB",
+      "author": "Lakshmi Palaparthi",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzeTYyVkdnEAE",
+      "author": "Nissy Ankam",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "The best aesthetic clinic I have found and the results were very satisfactory. I’ve taken the treatment of hydra facial and the result was very good.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzZzlER1hREAE",
+      "author": "nagendra kumar",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzdmZpTTRRRRAB",
+      "author": "Bareddy Raja Reddy",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzN2VlNnZRRRAB",
+      "author": "chitti",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Nice",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzMXU2Nm1BRRAB",
+      "author": "Neelima Yaganti",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Treatment was good",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzc3ZMalRBEAE",
+      "author": "Lakshman Sanaka",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "High quality and hospitality",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzbU4yckNnEAE",
+      "author": "vijay kumar balathoti",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I recommend it as a best place for your skin treatments. Had taken a hydra facial here and it’s really worthy.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYaGRQS1hnEAE",
+      "author": "Tirumala Rao Marisetty",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Lotus dental is best clinic in guntur they gave the best treatment. I have done root canal and zirconium took. They have done with lot of patience I really liked that and they are also providing skin and hair issues iam fully satisfied there treatment thank you very so much Dr. Pawan sir... And  Dr. Nikhitha mam...",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYLWJIVnBnRRAB",
+      "author": "Talam USHA SREE",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "My teeth was damaged and went to Lotus dental and cosmetic clinic. Really satisfied with the treatment given by Dr. Nikhitha and Dr. Pawan & also friendly staff.\nBest dental and cosmetic clinic in Guntur.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYenRuTVh3EAE",
+      "author": "aiswarya sreeram",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Good experience in hydra facial . Feeling good change",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYeElQUUFREAE",
+      "author": "Sitharamaya Chinka sitharamaya",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Got RCT treatment and crowns for 4 teeth and Carbon Laser facial done in Lotus Dental and Cosmetic clinic.\nVery good treatment with proper sterilization of all instruments.\nBest place for both dental and skin concerns😊😊 …",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYeE83NGhRRRAB",
+      "author": "Mohan Chandra",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "All my father teeth was damaged completely, went to Lotus dental and cosmetic clinic suggested by my friend, received full mouth rehabilitation treatment for my father. Really satisfied with the treatment given by Dr. Nikhitha and Dr. Pawan & also friendly staff.\nBest dental and cosmetic clinic in Guntur.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYbF91YUpREAE",
+      "author": "Ramakoteswara Rao Atluri",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Best place to dental treatment in Guntur",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURub3RqTlZnEAE",
+      "author": "BUNNY",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I got co2 laser and subcision treatments, excellent staff and friendly environment, Treated nicely.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNuOTZ1Wm1RRRAB",
+      "author": "Challa Jyoshna",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Treatment is good.I have got scaling and this was good",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNudy1lNEZBEAE",
+      "author": "ram krishna prasad",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "My mother got dental treatment in this hospital. very good experience.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNudzd1ZThRRRAB",
+      "author": "Vetcha Kasivisweswararao",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Very good hospital environment and staff behaviour is so good. Doctor's treatment is excellent .",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNud0tPTGFnEAE",
+      "author": "Venkata Uday",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I got the over all mouth cleaning\nWith pain less treatment done at lotus dental clinic guntur ,it also provides skin and hair issues, which is a good thing. thank you Dr. Nikhitha mam .",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNud0wzbVF3EAE",
+      "author": "Saraswathi Devi Nagisetty",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Came to lotus dental with tooth pain,\nNice receiving, very good treatment done. Definitely recommended.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURIbzdhckl3EAE",
+      "author": "Shaik saleem Saleem",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I got best dental treatment with zirconium crowns done by the lotus dental clinic I am Fully satisfied throughout the process while doctors explained very well thank you and it also provides skin and hair treatments if anyone facing dental skin and hair issues lotus dental and aesthetics is the  best clinic in guntur.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURIbzVhWmJBEAE",
+      "author": "New blues car accessories Shaik Abdul khuddus",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Best clinic , painless treatment, dr pawan garu and madad give their best treatment",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURIcWR5U3pRRRAB",
+      "author": "Anasurya mandalaneni",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Lotus dental is the best clinic in guntur i got best dental treatment with DMLS crowns done by experienced doctors it also provide skin and hair service this is best clinic in guntur. Thsnk you Dr. Pawan sir and Dr. Nikhitha mam",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM3Z2FYYXlnRRAB",
+      "author": "Saketh Ram Nallamolu",
+      "rating": 5,
+      "relative_date": "Edited a year ago",
+      "text": "Good experience and excellent result with supportive staff and the results of oxygen facial treatment is good .",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ3eF9tSGl3RRAB",
+      "author": "Jyothi Swaroopa",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I got my new zirconium crowns on my lower anterior teeth best treatment done by lotus dental tq Dr. Pavan sir and Dr. Nikhitha madam it also provides skin and hair treatment.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ3NVkzNkVBEAE",
+      "author": "SunithaDass Peram",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Zirconium dental treatment is good and sugestable",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ3NFlIczd3RRAB",
+      "author": "Prasannaq Koduri",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I got best treatment with zirconium crowns in Lotus dental clinic I am Fully satisfied throughout the treatment this clinic also provide skin and hair services great treatment done by Dr.pavan sir and Dr.Nikita mam",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ3cnNLck5nEAE",
+      "author": "Jyothi Jyo",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Got my new zirconium crowns on my front teeth, very happy with my new smile. Great treatment by Dr. Pawan and  Dr. Nikhitha.\nFriendly staff.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ3OEtxc0J3EAE",
+      "author": "Erravelli Archana",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Lotus dental is the best clinic in guntur they gave the best treatment. I have done root canal and zirconium took. They have done with lot of patience i really liked that and they are also providing skin and hair issues i am fully satisfied there treatment thank you very much sir.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM3Nzh2cHFRRRAB",
+      "author": "Sravanya Kallakunta",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Lotus dental and asthetics gave  the best treatment I got treatment for anterior teeth I saw lot of difference before and after it also provides skin and hair treatment with experienced doctors and advanced technology it is the best platform for skin  hair and dental  who are facing those issues  this is the best clinic in guntur.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNieFpUeS1RRRAB",
+      "author": "Dileep Kumar",
+      "rating": 5,
+      "relative_date": "Edited 2 years ago",
+      "text": "Very caring while doing the treatment and happy after my dental and facial treatment and satisfied",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM3NWM3T01BEAE",
+      "author": "Gowtham Reddy",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I faced teeth decays and I got treatemnt for it and also got teeth whitening treatment and it was great and there is lot of difference that I can feel",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM3LWNDbnRnRRAB",
+      "author": "NARRA Venkatarathnam",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I faced teeth melting issues once I came to the lotus dental clinic guntur doctors gave the best treatment and throughout the process explained very well the best treatment done with reasonable cost I am fully satisfied and it also provides the best treatment with advanced to hair and skin issues I suggest lotus dental and aesthetics who are facing those issues thank you Dr. Pavan sir and Dr. Nikhitha mam",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURMb3BhUEV3EAE",
+      "author": "Harika Pasupuleti",
+      "rating": 5,
+      "relative_date": "Edited 2 years ago",
+      "text": "I have placed problem with food enlargement, doctor sir and madam explained very understandable way about the problem and given me good and best  treatment. In this clinic they also give best treatments for skin and hair.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM3d2NlSjlBRRAB",
+      "author": "Ammu",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Lotus dental and cosmetology is the best clinic in guntur I got the treatment for hydra facial for skin  and perminent eyebrows I am fully satisfied their experienced treatment thank you Dr. Navya sree madam it is the best one for hair skin and dental issues I suggest this clinic who facing those problems.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM3bk5mb3NRRRAB",
+      "author": "ramineni lakshmikanth",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Lotus dental is the  best clinic in guntur they'll gave best treatment and it also provide skin and hair issues i am fully satisfied there treatment tq Dr. Pawan sir I suggest this clinic it is the best one",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURibDlfZ2ZnEAE",
+      "author": "Krishnatejaswi Durbhakula",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Calm and clean environment, good faculty and good treatment ,affordable",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURiX2FpakhREAE",
+      "author": "Kalyan yarramsetty",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "A very favourable treatment by lotus dental clinic . A well treating dentist and providing the treatment at reasonable cost .\nThey  are also providing skin care specialist at the same place .",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURiam95WTRnRRAB",
+      "author": "raji bitragunta",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Pavan sir is best at his work.Very pleasant experience.Nice treatment and Behaviour Cost Friendly.Skin and Hair treatment also available here...Multiple facilities at one place.Very happy to visit.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNiLVk2ZFVREAE",
+      "author": "Bindu Chatti",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Excellent treatment by Dr.Nikhitha. Takes good care of the patient and she is very gentle with treatment.\nGood staff and I recommend this clinic",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNienZ2OTdRRRAB",
+      "author": "anusha aluri",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "caring and good treatment",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNiclBQN3lRRRAB",
+      "author": "Vicky Cool",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Best service you can get in guntur both the doctors are well trained they handle well. Would definitely recommend them.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNickliNEx3EAE",
+      "author": "hareenkumar thota",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Excellent treatment and hospital environment and staff behaviour is so good.\n\nI completed my root canal treatment here with Dr. Pavan garu and Nikita garu .\n\nThey will also provide the treatment for skin and hair.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNiLU5IOXF3RRAB",
+      "author": "Mallik Rettiganti",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Thank you for a very positive experience and excellent care received at Lotus Dental and aesthetics. i had basic cleaning, scaling and tooth filling clservices done and the experience was top class. heard they also provide aesthetic services.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNia0xuR2J3EAE",
+      "author": "Yaganti Venkateswarlu",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Best treatment done by Lotus dental clinic guntur thank you Dr.Nikhitha mam i am fully satisfying this type of treatment this is the best dental clinic in guntur and it also provide skin and hair treatments if anyone suffers those problems consult lotus dental clinic in guntur....",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURydTRiZ1FREAE",
+      "author": "chandra sekhar",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Doctor sir very out standing.. Very good..",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURyanNfUERnEAE",
+      "author": "Senapathi Periyasamy",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Best dental clinic in guntur and also  give best treatment to hair and skin issues doctors are gave the best treatment if anyone suffering those issues consult lotus dental clinic in guntur",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNydlpyMXVnRRAB",
+      "author": "Lakshmi Harika",
+      "rating": 3,
+      "relative_date": "Edited 2 years ago",
+      "text": "Nikitha mam gives best treatment for ur all dental issues. She is not at all commercial and gives u best service with suggestions.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURyMkl5aERnEAE",
+      "author": "govardhan nallagonda",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Revice is so good and treatment to good iam satisfied",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNyeGZpajJ3RRAB",
+      "author": "Annapureddy Rajyalakshmi",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Best dental clinic in guntur. Best treatment gave the doctors. And also skin and hair treatment gave the best if any issues facing the dental ,hair skin this is best clinic in guntur ... Thank you Dr.Pawan sir",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNyb3JHVXFnRRAB",
+      "author": "Ravi Shankar Chandu",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Lotus dental clinic gave the best treatment and  clar explanation about the treatment thank you Dr. Pavan sir and Dr. Nikhitha madam. Best dental clinic in guntur i suggest my family members and friends.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNyNVB5ZW1RRRAB",
+      "author": "Mohan Rao Pasupuleti",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Very good   best treatment by Lotus dental  Doctors. I will advise my friend's also to go to lotus dental care. They are completing the treatment with in sufficient time. Their negotiations are also very nice.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURMMWRmZFd3EAE",
+      "author": "Chimata Punyavathi",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Good receiving and treatment also good I feel better now Thank you Dr.Pawan sir and Dr. Nikitha madam",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNMN2FDWUNBEAE",
+      "author": "Tirupati Challa",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Good",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNMcmJYekJ3EAE",
+      "author": "Rama Danda",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Good",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN6al9qeXFnRRAB",
+      "author": "Neelu",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "It's good experience treatment and councelling is very from doctor sir receiving and consultancy is nice l can recommend by my order relatives iam very much happy  for your treatment receiving and cleaning process thanks a lot to lotus dental.. Thank you Dr. Pawan sir and Dr. Nikhitha mam..",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN6dXVYdExBEAE",
+      "author": "Ramu G",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Very good receiving and treatment and I'm full happy treatment and thanking dr.Pawan sir and dr.Nikhitha mam ..",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURUdjVUbWNBEAE",
+      "author": "Sreedhar Kedari",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Very good receveing and good treetment in my doctor thanking you Dr.k.Pavan sir....",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURUbHNUcjVRRRAB",
+      "author": "Sindhu A",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Changed my smile.\nExcellent job done by Dr Nikhitha Mam and Dr Pawan Sir.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURUM0t2VGpBRRAB",
+      "author": "srinivas rao",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Very good treatment with good ambiance and good receiving\nThanku pavan garu",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNUNXR2aGl3RRAB",
+      "author": "kiran narra",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "The best dental clinic",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNUMUplN1VBEAE",
+      "author": "Venkatesh Naidu",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Good dental hospital and reciving good  👍 and doctors way talking  to patients,and treatment is excellent.l choose right hospital to treat as dental problems.Thanking dental Dr.Nikhitha mam and Dr.Pawan sir ...... …",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNUeE9mY3RnRRAB",
+      "author": "Koneti Yasoda",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "More professional, good and Promt in attending problem",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNUeE0zYUN3EAE",
+      "author": "AUXILIUM EM SCHOOL",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURqMzRTUmFnEAE",
+      "author": "kushi mekala",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Good Service.... Present atmosphere... Staf receiving good",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURqMnJ6cFd3EAE",
+      "author": "Jaswanth Garnepudi",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Good treatment done by the doctors and fully satisfied after the treatment",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURqOHAzNjJnRRAB",
+      "author": "Murali Mondithoka",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Such an extraordinary treatment done by the doctors and neat and clean infrastructure to do the treatment",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURqMHJlNlVBEAE",
+      "author": "konda chellu",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "The treatment here is very good. Doctors Shri Pawan takes great care and explains the treatment in a very friendly manner. The supporting stop number is also very friendly.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURqLUxuMTVnRRAB",
+      "author": "srinivasa alladi",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Nice treatment, patient receiving very well, good treatment, painless treatment",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNqNmRMVzVRRRAB",
+      "author": "mogalipuvvvu subrahmanyam",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Best dental clinic and good receiving and good treatment,and good explanation and responsible price.. thank you Dr.Pawan sir and Dr.Nikhitha mam.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNqNnZDRHV3RRAB",
+      "author": "venu gopal",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Excellent",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNqeU55UDhBRRAB",
+      "author": "Dr. Samali Maity",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Received my dental treatment here. Thanks to Dr. Pawan sir and Dr. Nikitha ma'am. I'm fully satisfied with the treatment they have given. Plus they will explain everything about the procedure and how to maintain the teeth post procedure in detail. Recommended to anyone who's looking for quality dental care. Keep up the good work👍🏼 …",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNqeU5UejBRRRAB",
+      "author": "Dr R GOPI T",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Received good treatment. 1st time visit. Have a nice talk with Dr. Pawan . Explained the condition and got the treatment in a single setting",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUREa0lyb0tBEAE",
+      "author": "Karishma Shaik",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Such a fabulous treatment by doctor and staff",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNEam9XN0lnEAE",
+      "author": "vishala r",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "It's good experience treatment and councelling is very from doctor Sir  receiving and consultancy is nice I can recommend by my order relatives iam very much happy for your treatment receiving and cleaning process thanks a lot to Lotus dental",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM5dTlfWkRREAE",
+      "author": "Shaike Nagurbi",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Service is good",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM5eGIzZUd3EAE",
+      "author": "Srinivas K",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Very good treatment  receiving excellent   treatment is very very happy  Thank you Dr.Pawan sir.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM5Z1kzMmtBRRAB",
+      "author": "Erla Gayatri",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Heartly Communicate with patients. Excellent Treatment",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM5X3ZLczJRRRAB",
+      "author": "ayaansohaasia Shaik",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Had zirconium tooth treatment here absolutely best and pain less treatment",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURkeTZUOW5RRRAB",
+      "author": "Vijaya Lakshmi Anumula",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Patient receiving and doctors way of talking to patients, l choose right hospital to treat as dental problems. Thanking Dental team\nDoctors.\nThankyou Dr.Pawan sir and Dr.Nikhitha mam",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURka0ttQUpnEAE",
+      "author": "Balaji Mattipudi",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Want to keep your teeth healthy\nPlease do visit lotus dental (guntur)\n\nWonderful assistant by doctor and their staff members...",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNkajZQLWlBRRAB",
+      "author": "K.Purna Chandra Rao",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Best dental care in guntur and the doctor gave best service to the patient we are very happy to this services.. I suggest my family members and friends to this clinic tq Dr. Pawan sir and Dr. Nikhitha mam.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNkeklUdTlBRRAB",
+      "author": "Bangaram Bangaram",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Good doctor anad staff very cool environment and healthy atmosphere",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNkcE9XOXJBRRAB",
+      "author": "Sivaram Dondapati",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I was here last year for tooth replacement but cap came-off while i was in abroad, i consulted pavan sir and he advised me to fix cap and every thing with free of cost and they worked around 3-4 hours to fix my tooth, best affordable and great vision towards treatment, thanks pawan sir and mam.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNkd0lTSS1nRRAB",
+      "author": "Ekoniya Ekoniya",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Good dental clinic and good receiving and very good treatment 👍 and friendly environment with Staff and reasonable price and thank you Dr.Pawan sir and Dr.Nikhitha mam . …",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR0N2N1WFNnEAE",
+      "author": "Irshad Here",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I recently visited Lotus Dental Clinic in Guntur for a routine checkup and cleaning, and I was incredibly impressed! The staff was friendly and welcoming, and the facility was clean and modern. Dr. Pavan was thorough and gentle, and took the time to answer all of my questions. The best part? I didn't wait long at all to be seen! Highly recommend Lotus Dental Clinic for anyone looking for top-notch dental care in Guntur. 5 stars! 💫",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN0MU1UZ3BRRRAB",
+      "author": "M.Murali Raja",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "It's fabulous treatment\nTq",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN0MUlUSjBnRRAB",
+      "author": "Nobitha nobi nobi",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "It's great",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURObTVMZzB3RRAB",
+      "author": "Anusha chandu",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Fast and painless treatment is given\nGood equipment is used, hygiene is maintained and of all doctors are friendly and well experienced.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNOMjd5b05REAE",
+      "author": "sai mahesh",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "best dental clinic and good reciving and good treatment,and good explanation and responsable price..Thank you Dr. Nikhitha garu",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQxemR1bmd3RRAB",
+      "author": "Rk mannava",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Listen to our problem carefully and advised best treatment. Good explanation and good care from doctor. Excellent communication on follow up appointments.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQxemJDeWd3RRAB",
+      "author": "Aruna babu Kota kamalaja",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Excellent service given by Dr. Nikhitha madam.\nMay God Bless her.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMxbnJlek9nEAE",
+      "author": "Mohammad Seema",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Doctor is very good..staff is very helpful.Doctor is very excellent 👌👍 …",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNsNU1fTEtBEAE",
+      "author": "Rupesh Pusala",
+      "rating": 5,
+      "relative_date": "Edited 2 years ago",
+      "text": "Best treatment and excellent operating environment and I have gotten an accurate tooth",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURWMV9fRmJBEAE",
+      "author": "Sreedevi Tadanki",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Good recieving and treatment would be done with utmost care....... Thank you Dr. Pavan",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNWaS1xcjB3RRAB",
+      "author": "kusuma gutta",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Receiving is good and also treatment is awesome.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNWdWVUTUdREAE",
+      "author": "Gowtham 2863",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Very nice hospitality services start from receptionist to doctor. when coming to the treatment it is a top-notch doesn't hesitate to knock the door😊 …",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNWX3Z1ZnhRRRAB",
+      "author": "Koti Reddy",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Treatment is very sophisticated, i highly recommended this clinic for any dental related issues.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURsLUtYQTN3RRAB",
+      "author": "sambasivarao ankireddy",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "It's good for dentel treatment",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNsdlpycHpRRRAB",
+      "author": "Sunkara Siva Prasad",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Good dental clinic and Good receiving and very good treatment 👍 and friendly environment with staff and reasonable price and thank you Dr.Pawan sir and Dr.Nikhitha mam 😊 …",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNsdWVUeXV3RRAB",
+      "author": "sai kiran",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNsdWREWFFREAE",
+      "author": "Gopi Nallagorla",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNsdWRDcXp3RRAB",
+      "author": "Chinni M",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Nice treatment and friendly doctor\nThank you Pawan garu..",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNsdVpDZC13RRAB",
+      "author": "Raji",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Exellent and fine easy treatments",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNsanBlTnVBRRAB",
+      "author": "Saiganesh Yetukuri",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Best treatment with good support and advises. Good receiving excellent treatment and personally satisfying and very best and usefull treatment of this dental clinic Thank you Dr. Pawan sir",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURGOTgtMU1REAE",
+      "author": "mani teja Patibandla",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Very good and very friendly staff and doctors . Treatment was very good and the doctors are patient concerned.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURGcmVQX0xBEAE",
+      "author": "Shaik Mastani",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Best dental care in guntur and the doctor gave best service to the patient we are Happy to the service.  Very best and usefull treatment of this dental clinic and good receiving thank you Dr. Pawan sir.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURGenE3anlnRRAB",
+      "author": "Prakash Lal",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Very good 👍 …",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURGOHRQcm9RRRAB",
+      "author": "Mahi Maheswari",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I done my root canal treatment. By Dr.nikitha (mam) such a good treatment and explanation one off the best dental clinic in guntur...Thanku lotus dental...for my satisfied treatment....😊 …",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURGaVA3TFh3EAE",
+      "author": "Thadivaka Ramana",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Happy fill got best dental treatment with Dr. Pawan sit maintained friendly environment with staff and reasonable  price and good service thank you Dr. Nikhitha mam",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURGaU02NC1RRRAB",
+      "author": "Shaik Mastanbi",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Good resiving patients good treatment of the Lotus Dental clinic is good",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNGNDdIUnN3RRAB",
+      "author": "Venkata Gopi kiran Bodduluri",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Good treatment,good receiving I am felling happy with this treatment ☺️☺️ thank you DR Pawan sir",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM1XzZpV0d3EAE",
+      "author": "Sairam Vasireddy",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Best place for dental treatments",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM1Njd6TmhnRRAB",
+      "author": "anji babu",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Excellent 👍\nTreatment is done procedure wise.\nTaken extra care while treatment and good explanation about patient decease and solutions....\nThankyou. …",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURaN1lqU2JREAE",
+      "author": "a b c",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Excellent treatment and way of.hospitality very good Dr pavan garu handling customer very good",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURaOHFfcnBRRRAB",
+      "author": "venkat j",
+      "rating": 4,
+      "relative_date": "2 years ago",
+      "text": "Very nice",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNaMzR5TmJnEAE",
+      "author": "Hemanth Chukka",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Root canal treatment done by dr nikitha mam is  excellent",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNaMTVDMU9REAE",
+      "author": "sriharikalidasu erla",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Patient Receiving and Docters way of talking to patients, and treatment all is excellent. I choose Right hospital to treat as dental problems. Thanking Dental Team.\nDocters:-\nPavan Sir\nNikhitha Madam",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNaazlEbDFBRRAB",
+      "author": "Nagaraju Parisa",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Exllent work done by dr. Nikitha garu. Chala baga chesaru . we feel so happy after we meet your clinic",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNadEk2UV9BRRAB",
+      "author": "naga polam",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Good Receiving, Excellent Treatment And Personally 💯% Satisfying The Treatment If Any One Facing Dental Issues Please Approach Lotus Dental Clinic👌👍 …",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwbVpqeXJ3RRAB",
+      "author": "Kondepati Slkumari",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Good place for aalny kind treatment. Easy accessible and located at the center of the city. There are various insurance facilities accepted in the hospitality, Patient care is highly appreciated. Well behaving staff. Hygiene is well maintained throughout the premises. Even i noticed that there is a quality department to ensure the best standards. It seems management concerns the employee welfare. That reflects a positive and safe culture at the workplace. It's totally my own observation being a safety professional. Kindly research yourself.\n\nThank you very much\n\nDr. Nikitha garu\nDr. K. Pawan sree Harish garu",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURwNGNqc09REAE",
+      "author": "Rokhiya Sulthana",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Good recieving n good treatment thank you to Dr.pavan sir .....  he have good patience to treat his patients",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwNGNqZzVnRRAB",
+      "author": "shaik rafi",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Best Dental care in guntur and the doctor gave best service to the patient we are very happy to this services.. I suggest my family members and friends to this clinc\nTq  Dr. Pawan sree Harish",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURwNFlpQWFnEAE",
+      "author": "Santosh Kumar",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Good service and reasonal price\nAnd this is the best clinic in guntur. Thanq Dr. Nikhitha madam",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwenQyNnh3RRAB",
+      "author": "Prasanna Bhaskar",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Best treatment  with gud support and advises . Very best and usefull treatment of this dental clinic. Thank you Dr. Pawan sree harish sir and Dr. Nikitha madam.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURwaktTWVVBEAE",
+      "author": "Srinivas G",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Excellent",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwd3RqMmx3RRAB",
+      "author": "NAIK K, vasram",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "The hospital well good maintain surrounding. The doctor treatment is good and also best price. Thank you Dr Pawan sir and Dr.Nikhitha mam",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwc01tQnZnRRAB",
+      "author": "Rambabu Vadranam",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "The hospital is well good maintain surrounding. The doctor treatment is good and also best price. Thank you Dr. Nikhitha mam as well as Dr Pawan sir",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwc0xIWnBnRRAB",
+      "author": "Sai Tej",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "It is good and well maintaine hospital. Trement is good and staff members friendly nature.Thank you doctor Pawan sir..",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKekthRjdRRRAB",
+      "author": "sena pathi",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Happy fill got best dental treatment with Dr.Pawan sir maintained friendly environment with staff and reasonable price and good service thank you Dr.Nikhitha mam",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKNjRDdDB3RRAB",
+      "author": "Yarasani Praveen",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Super dental hospital super treatment very precise treatment  thank you Dr.Pawan sir and Dr.Nikhitha mam...,",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKenQtY1ZBEAE",
+      "author": "Syed Altaf",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Dr.pawan garu was the best dental doctor now adays he is been so nice with the clients. I will definitely recommend it to my friends and family members.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKcHVHN1pREAE",
+      "author": "evuri nandini",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Super dental hospital   super treatment  thank you Dr.Pawan sir and Dr. Nikhitha maa",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR4ei1yYTd3RRAB",
+      "author": "Chaluvadi mohini",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Good carring super",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4ejZyRENREAE",
+      "author": "madhu sree",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Good",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR4NnNPR3dBRRAB",
+      "author": "Buchi Babu",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Good job done with economical consultation fee...and maintaining hygiene... thanks to Dr. Pawan sir....",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR4aU5Ebjh3RRAB",
+      "author": "Mandalapu Mounika",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Got treatment cementing for 5 teeth recently  in\nLotus dental & Aestheticss,\nBest dental clinic in the Guntur\nPerfectly done and I'm feeling totally fine by Dr.Pawan and recommended for every dental issue",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR4NE5TNmxBRRAB",
+      "author": "Bogga Swetha",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "I went for smile design they treated very well, Iam happy with my smile,Thanks to Dr. K. Pawan, Best dental clinic Guntur.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR4NE5qRjNRRRAB",
+      "author": "Siva Siva",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "I visited this clinic with teeth pain advised Root canal treatment I am very happy with the treatment.\nBest Dental clinic in Guntur ,\nThanks to Dr .K.pawan sir,Thank you 👍👍 …",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR4NEtELXVBRRAB",
+      "author": "Chinnu",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Very precise treatment. Best Dental care in the Guntur. Thanks to Dr. K. Pawan garu",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURScElYaWNBEAE",
+      "author": "Swamy P",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "overall happy with the treatment. Both the doctors are very professional & they gave best solution for my problem and the Staff also friendly behavior.\nThank you Dr Pawan garu & Dr Nikhitha garu",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNSczhENFhREAE",
+      "author": "Varipalli Sridhar",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Best clinic in guntur reasonable price and good service very polite and helpful staff also thnak you Dr.Pawan sir",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNSaGRMUGFBEAE",
+      "author": "jeevansaikumar chaganti",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Staff and doctors took good care and now i am completely feeling good and happy.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNSaEkzYzdRRRAB",
+      "author": "samba siva",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Thank you Pavan garu",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNSc0tybEhREAE",
+      "author": "shaik shabbir",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Best dental clinic in guntur reasonable price and good treatment thank you Dr.Pawan sir",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURobzQ3TzZBRRAB",
+      "author": "LALITH KUMAR",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Best dental clinic in guntur reasonable price and good service\nThank you\nDr.Pawan sir",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURoZy0tcnVnRRAB",
+      "author": "Ram Goutham",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Good",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURoeGQ3djdnRRAB",
+      "author": "Sri laxmi Kanisetti",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Got best dental treatment with very good responses thank you Dr. Pawan sir.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURoelA3enNnRRAB",
+      "author": "Shaik Hussain",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "I have best dental treatment with Dr.Nikhitha madam",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNodTVYUEJ3EAE",
+      "author": "Deepthi Tadanki",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "My sister's kids come here and they have recommended this hospital.\n\nI went for a cavity filling. I was having sensitive issues. Both the doctors have handled it professionally and with patience. They took time and the procedure went smoothly. I had a pleasant experience.  I would definitely recommend it to adults and also for kids.\n\nThey have charged me reasonably.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNoNDU3YWxBRRAB",
+      "author": "Nagraj Tanniru",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Very Good response from doctors and assistants, good hospitality\nDoctor pawan sir",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNod0tEcXV3RRAB",
+      "author": "Chandrakala Solasa",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Happy fill got best dental treatment with Dr. Pawan sir maintained friendly environment with staff thank you Dr. Nikhitha mam",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURCd2NhVDhnRRAB",
+      "author": "Shaik Yusuf",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Happy fill  Got best dental treatment with Dr.Pawan sir maintained friendly environment with  staff thank you Dr.Nikhitha mam",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCd1liYkh3EAE",
+      "author": "SHAIK SHARFUDDIIN",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Best dental clinic in guntur reasonable price and good service\nThank you\nDr Pawan sir",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURCek1YbXpRRRAB",
+      "author": "Gangula Sarada",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "I got my root canal, surgery and caps done at the clinique, so precise.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNCajYzNjZRRRAB",
+      "author": "NAGA MAHA LAKSHMI YADAV",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "I got my teeth whitening here, I am happy to say that I am happy with the results and I love my smile. Last but not the least the staff were so hospitable and friendly and they explain you the whole procedure in a detailed way. Thankyou Dr pawan Sri harish garu and Dr Nikhtha garu🙏😊 …",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNCdXE2Vk1BEAE",
+      "author": "Vijaya Menti",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Got best dental treatment with Dr.Pawan sir maintained friendly environment with staff",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNCd09YNGhRRRAB",
+      "author": "T siva",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Super treatment and good explaining dr pawan sir",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtamVEUEx3EAE",
+      "author": "Haneesh Koduru",
+      "rating": 4,
+      "relative_date": "3 years ago",
+      "text": "Good dental care treatment",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQteVo3S1hREAE",
+      "author": "Mens Stylez",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Best clinic in guntur.. reasonable price and good service..\n\nDr. Pawan sree Harsha.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtcUpmTVNnEAE",
+      "author": "kurra nageswararao",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Super communication\nAnd excellent treatment sir\nTq so much\nDr Pawan sir",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtMy1iUXF3RRAB",
+      "author": "Arjun Steels",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Best Dental Treatment For My Mother Tq Dr. Pavan sir",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMtMzVyYWFBEAE",
+      "author": "kiran chekuri",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Excellent treatment\nDr. Nikhitha garu",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMteDVLOHpRRRAB",
+      "author": "Siva Parvathi",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Excellent Treatment TQ Dr.pavan garu",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtbThUV2tnRRAB",
+      "author": "Yuva vani Dondapati",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Treatment is good",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtdmFYTmxRRRAB",
+      "author": "Durga Naidu Adapa",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Super communication\nAnd excellent treatment mam\nTq so much\nDr. Nikhitha mam",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMtdllYLUV3EAE",
+      "author": "Anchula Sai divya",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Super Treatment\nDr. Nikhitha Mam\nThank you so much",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtNGU2OGhRRRAB",
+      "author": "Dental Art laboratory",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Recently I went to Lotus Dental Clinic for treatment. I was treated very well here. I underwent root canal treatment. Dr. Nikita did a very good treatment. I will definitely recommend anyone to go to Lotus Dental...",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMtenRXNld3EAE",
+      "author": "Siva Sita Ramaiah",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Best dental clinic\nDr. Pavan sir",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMtbk1EeFZnEAE",
+      "author": "Ashok Vasa",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Superb treatment",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMtdEl2VEZREAE",
+      "author": "Virat Anjali",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChRDSUhNMG9nS0VJQ0FnSURlblo0bxAB",
+      "author": "Naga Bandhavi Ch",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Quite comfortable service with personal care and attention. God bless you \"Team Lotus\".",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURldk5hRkN3EAE",
+      "author": "Mahesh Giri",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "I had done my Root canal in Lotus Dental and very good/professional treatment.  Very polite and helpful staff also. Thanks to Dr.Nikitha for wonderful consultation and treatment.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNlNWI3SWFREAE",
+      "author": "Venu",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Very very good, very friendly treated, Excellent treatment by Dr. Pawan and\nDr. Nikhitha",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNlaWNuVkRnEAE",
+      "author": "Manne Jithendra Naidu",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Best dental clinic,best patient care, best Doctors\"",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNlLW9LN29RRRAB",
+      "author": "Subhani Md",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Best Dental Treatment",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1dS0zc09REAE",
+      "author": "Potuguntla Tirumala",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Thank you best treat ment",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1c1oyWVNREAE",
+      "author": "khasim doguparthi",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Best Dental Clinic, Best Patient Care, Best Doctors",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR1b2NDbDVnRRAB",
+      "author": "Mani Kumar",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "My wife got root canal treatment in Lotus dental.. treatment is vry good and absolutely comfortable & painless by Dr.Nikhitha.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1d2ZQQUJ3EAE",
+      "author": "Ramarao Kolnati",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "l have best experience",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR1dXVqdTJ3RRAB",
+      "author": "shamu reddy",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Excellent",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR1bExmNnRnRRAB",
+      "author": "Shaik Nagulmeera",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR1bE9mRm53RRAB",
+      "author": "Vasubabu Appala",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Best Dental Clinic, Best Patient Care, Best Doctors.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN1eFBudUNBEAE",
+      "author": "Srihari Vallem",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "I am Happy to treatment lotus dental clinic thank you Dr Pavan sir",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1aE12aF93RRAB",
+      "author": "Pkrishna Pkrishna",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURPdXNIdndBRRAB",
+      "author": "Abhilash Nissankararao",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Best dental hospital",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNPMXRub3h3RRAB",
+      "author": "Nagendra",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Good atmosphere, good hospitality Best dental clinic in guntur",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNPMXFud2lBRRAB",
+      "author": "venky venky",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Good dental clinic",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNPMXZIOEZREAE",
+      "author": "Bunny Buns",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "BEST DENTAL CLINIC\ni would  highly recommend this clinic for dental......problems",
+      "has_owner_reply": false
+    }
+  ],
+  "reviews_error": "",
+  "sorted_newest": true,
+  "stopped_at_known_review": false,
+  "reviews_captured": 298,
+  "owner_replies": 22,
+  "reviews_coverage": 1.0,
+  "date_anchor": "2026-08-20T23:51:17",
+  "extract_seconds": 56.0,
+  "missing_fields": [],
+  "page_rendered": true,
+  "error": ""
+}

@@ -1,0 +1,214 @@
+{
+  "place_url": "https://www.google.com/maps/place/JBR+Health+Clinic/data=!4m7!3m6!1s0x3a4a75ae891a193d:0xefcb4bc6b0fa60dc!8m2!3d16.2862071!4d80.4528205!16s%2Fg%2F11s_vcy4tf!19sChIJPRkaia51SjoR3GD6sMZLy-8?authuser=0&hl=en&rclk=1",
+  "captured_at": "2026-08-20T19:31:01",
+  "feature_id": "0x3a4a75ae891a193d:0xefcb4bc6b0fa60dc",
+  "place_id": "ChIJPRkaia51SjoR3GD6sMZLy-8",
+  "kg_mid": "/g/11s",
+  "lat": 16.2862071,
+  "lng": 80.4528205,
+  "name_raw": "JBR Health Clinic",
+  "name_clean": "JBR Health Clinic",
+  "name_key": "jbrhealthclinic",
+  "name_dropped": [],
+  "name_was_cleaned": false,
+  "category": "Hospital",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "adjacent",
+  "basis": "category",
+  "address": "Anandapet, 6, th, Guntur, Andhra Pradesh 522003",
+  "plus_code": "7FP3+F4 Guntur, Andhra Pradesh",
+  "phone": "088862 95566",
+  "website": "",
+  "website_domain": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "insecure_http": false,
+  "website_matches_name": null,
+  "rating": 3.2,
+  "reviews_total": 13,
+  "rating_histogram": {
+    "5": 6,
+    "4": 1,
+    "3": 0,
+    "2": 1,
+    "1": 5
+  },
+  "histogram_sum": 13,
+  "histogram_reconciles": true,
+  "topics": null,
+  "google_profile_gaps": [
+    "Add website"
+  ],
+  "has_photos": true,
+  "hours": {
+    "Thursday": "9 am to 9 pm",
+    "Friday": "9 am to 9 pm",
+    "Saturday": "9 am to 9 pm",
+    "Sunday": "Closed",
+    "Monday": "9 am to 9 pm",
+    "Tuesday": "9 am to 9 pm",
+    "Wednesday": "9 am to 9 pm"
+  },
+  "about": {
+    "Accessibility": [
+      " Wheelchair-accessible car park"
+    ],
+    "Amenities": [
+      " Gender-neutral toilets"
+    ],
+    "Map details": [
+      "Transit",
+      "Traffic",
+      "Biking",
+      "Terrain",
+      "Street View",
+      "Wildfires",
+      "Air Quality"
+    ],
+    "Map tools": [
+      "Travel time",
+      "Measure"
+    ],
+    "Map type": [
+      "Default",
+      "Satellite",
+      " Globe view ",
+      " Labels"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGMllYRXhaRVpCUWtwYU0wUm5jMUYxU0RGbVkxRRAB",
+      "author": "BBR",
+      "rating": 4,
+      "relative_date": "2 days ago",
+      "text": "Good",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOT2NtTnBPRUkzVDJsbFN6bHBWR1ZMVEZVeFIwRRAB",
+      "author": "Shake M B s",
+      "rating": 1,
+      "relative_date": "5 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGMU1YcFBWSEZUT1RKTVFuRkZVRVpSWDFwa1JVRRAB",
+      "author": "S S",
+      "rating": 1,
+      "relative_date": "9 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214MldETktieTFzZWpoSVYxOTFVV3RsYlRJeFNsRRAB",
+      "author": "Malik Basha",
+      "rating": 1,
+      "relative_date": "9 months ago",
+      "text": "What we observed is during new appointment time his attitude is fine and during follow up as there is no payment  his attitude changes ,no respect for elder people .\nA doctor first of all should have respect and concern  for patients.\nOne should remind him his clinic runs with patients. It's mutual relationship.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pnMWJVUkVhamRLUTJFd01EbElSa2RRT0V0RFlVRRAB",
+      "author": "Joshnaa Ch",
+      "rating": 2,
+      "relative_date": "a year ago",
+      "text": "Good sarves in hospital",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pVMkxUUmhOMGRaVlc4MldUaDJPVVpZYTNab2QyYxAB",
+      "author": "Meizu Phatan",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Very good service.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkemRFMDFiSFo2UTFjMVpWWlJObUkyU1RKcWIwRRAB",
+      "author": "Pathan Ayesha",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Good service",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25VM1VsWXdkbVpmYWtaelVYZEVSRkZXVFhOZk1rRRAB",
+      "author": "Amjad Phatan",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Good service",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VPZktqWmY1OGY2VDBBRRAB",
+      "author": "Gopi Kaithepalli",
+      "rating": 1,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNGODRMU0NnEAE",
+      "author": "Aftab Ahmed",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNoa3V1RTF3RRAB",
+      "author": "Md Ferdose",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURPbWRIWTV3RRAB",
+      "author": "Ramesh Dugirala",
+      "rating": 1,
+      "relative_date": "4 years ago",
+      "text": "After taking medicines from this doctor problem became more severe,he doesn't know treatment only fit for first aid. I don't recommend",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNPOElQVndnRRAB",
+      "author": "Shaik Zarin Taj",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    }
+  ],
+  "reviews_error": "",
+  "sorted_newest": true,
+  "stopped_at_known_review": false,
+  "reviews_captured": 13,
+  "owner_replies": 1,
+  "truncated_reviews": 0,
+  "reviews_coverage": 1.0,
+  "date_anchor": "2026-08-20T19:31:01",
+  "extract_seconds": 41.6,
+  "missing_fields": [
+    "website"
+  ],
+  "listing_position": 78,
+  "source_query": "dermatologists in Guntur",
+  "listing_name": "JBR Health Clinic"
+}

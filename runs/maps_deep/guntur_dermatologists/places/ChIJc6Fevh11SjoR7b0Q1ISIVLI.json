@@ -1,0 +1,711 @@
+{
+  "place_url": "https://www.google.com/maps/place/Dr.INDIRA%27S+SKIN+%26+HAIR+CLINIC/data=!4m7!3m6!1s0x3a4a751dbe5ea173:0xb2548884d410bded!8m2!3d16.2855602!4d80.4407592!16s%2Fg%2F11rq1152w4!19sChIJc6Fevh11SjoR7b0Q1ISIVLI?authuser=0&hl=en&rclk=1",
+  "captured_at": "2026-08-20T18:23:03",
+  "feature_id": "0x3a4a751dbe5ea173:0xb2548884d410bded",
+  "place_id": "ChIJc6Fevh11SjoR7b0Q1ISIVLI",
+  "kg_mid": "/g/11rq1152w4",
+  "lat": 16.2855602,
+  "lng": 80.4407592,
+  "name_raw": "Dr.INDIRA'S SKIN & HAIR CLINIC",
+  "name_clean": "Dr.INDIRA'S SKIN & HAIR CLINIC",
+  "name_key": "drindirasskinhairclinic",
+  "name_dropped": [],
+  "name_was_cleaned": false,
+  "category": "Dermatologist",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "6th Ln, Nallacheruvu, Guntur, Andhra Pradesh 522004",
+  "plus_code": "7CPR+68 Guntur, Andhra Pradesh",
+  "phone": "079955 11344",
+  "website": "",
+  "website_domain": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "insecure_http": false,
+  "website_matches_name": null,
+  "rating": 4.9,
+  "reviews_total": 67,
+  "rating_histogram": {
+    "5": 65,
+    "4": 1,
+    "3": 0,
+    "2": 0,
+    "1": 1
+  },
+  "histogram_sum": 67,
+  "histogram_reconciles": true,
+  "topics": {
+    "hairfall treatment": 2,
+    "skin allergy treatment": 2,
+    "polite doctor": 6,
+    "explains treatment": 2,
+    "spot on diagnostic": 2,
+    "quick response": 2,
+    "patient listener": 3,
+    "friendly doctor": 8,
+    "good medication": 2,
+    "relevant treatment": 2
+  },
+  "google_profile_gaps": [
+    "Add website"
+  ],
+  "has_photos": true,
+  "hours": {
+    "Thursday": "10:30 am to 2 pm, 5:30 to 8:30 pm",
+    "Friday": "10:30 am to 2 pm, 5:30 to 8:30 pm",
+    "Saturday": "10:30 am to 2 pm, 5:30 to 8:30 pm",
+    "Sunday": "Closed",
+    "Monday": "10:30 am to 2 pm, 5:30 to 8:30 pm",
+    "Tuesday": "10:30 am to 2 pm, 5:30 to 8:30 pm",
+    "Wednesday": "10:30 am to 2 pm, 5:30 to 8:30 pm"
+  },
+  "about": {
+    "Accessibility": [
+      " Wheelchair-accessible car park"
+    ],
+    "Payments": [
+      " NFC mobile payments"
+    ],
+    "Map details": [
+      "Transit",
+      "Traffic",
+      "Biking",
+      "Terrain",
+      "Street View",
+      "Wildfires",
+      "Air Quality"
+    ],
+    "Map tools": [
+      "Travel time",
+      "Measure"
+    ],
+    "Map type": [
+      "Default",
+      "Satellite",
+      " Globe view ",
+      " Labels"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xvMU5EQlRSRVZ3ZWs0NVRsZGhhbWd0TTJObmNXYxAB",
+      "author": "Kishore Rayala",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pZMGRsbEJOSEJIVWpWbGVFVnlkMk53U0RWMmRXYxAB",
+      "author": "Venkata Siva prasad",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxMlNHSjRVMjgxV0d0U0xXUllha3BoZEdSak0zYxAB",
+      "author": "Safik Pathan",
+      "rating": 5,
+      "relative_date": "3 months ago",
+      "text": "Dr indira madam is very professional and treatment is very good and honest prescription.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kcVVqVkpaRVJhY25wRVRGaDJTVlJwVDNJMGRrRRAB",
+      "author": "THANNIRU RAJU",
+      "rating": 5,
+      "relative_date": "3 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKVGVXNUlRVVJvTVcwelZVRjVWMUJwZDNobk5GRRAB",
+      "author": "rajiv jupalli",
+      "rating": 5,
+      "relative_date": "3 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210bGQzWnNhQzFaZUdwbWVUTnZUM2xEYUhkWk5VRRAB",
+      "author": "vamsi krishna",
+      "rating": 5,
+      "relative_date": "3 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWNVZtMVZOa1ZNTFc5VVlWSlRhVjl2VlZsWk0xRRAB",
+      "author": "Shaik Masthan vali",
+      "rating": 5,
+      "relative_date": "3 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5VE5sWnBhMGRHWTBGdFJVSTJRV3R2WlVwc1ZHYxAB",
+      "author": "Varanasi Saikiran",
+      "rating": 5,
+      "relative_date": "4 months ago",
+      "text": "Good service",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSdlFuWXhXVkkwTWpCc0xXNXRhalJmVFdjelZIYxAB",
+      "author": "sai kumar",
+      "rating": 5,
+      "relative_date": "4 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CT2JqWmhVRzkwU0drMFJVUTNNMnRIWVVrM09WRRAB",
+      "author": "Adarsh Nandeti",
+      "rating": 5,
+      "relative_date": "5 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KT2JHUnVNM1pHVEROUU1ubEJibmhDTjBOSk5YYxAB",
+      "author": "Ronella Harvey",
+      "rating": 5,
+      "relative_date": "5 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tRMGRHbFJhM00wTWxKZlFtOTJWbFJMYUVaVmRHYxAB",
+      "author": "mahesh kumar",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "Good speaking, problem analysis and best treatment.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5U1ZXaEpPVXc1U0cxVWMzUmhSekI0UVdGU2RGRRAB",
+      "author": "Devi Pingali",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "Good and very nice",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCeU5EWlVaRlpsVkhOVlRHcEtkVU40WDB0b01uYxAB",
+      "author": "Venkateswara rao Pingali",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "Good",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25weE5qRm9lSFJLVjJ4UFdUWTJPSFp0Y1RWeFUzYxAB",
+      "author": "Suhail Shaik",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "Excellent treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wWmMyZDVXR1JWV0dGNlZVZERXSEZ2VjJsb05HYxAB",
+      "author": "G Lokeshwaraiah",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xORVNGTkZZblI2YVZka1JEZDRiVEJ0ZFhCRFFrRRAB",
+      "author": "Kandula Naveen kumar",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "Good treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5SVlteENjMjF2V2xBdGJGVnVPRzVpWDNVM2QyYxAB",
+      "author": "Syamala K",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGQlVqUnFhbmhGUWtweWFWWmxSa0k0UVdGTWJuYxAB",
+      "author": "Naveen Kumar Eevuri",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCNWFGQmlRVkpsYlV0Wloya3lNVlI1VDJSVllYYxAB",
+      "author": "Anjali KC",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "She’s not just a dermatologist—she’s a skin storyteller. Every spot, scar, and shade on my skin was like a chapter I thought I’d have to live with forever, but she rewrote it with science, care, and a sprinkle of magic. Her clinic feels less like a doctor’s cabin and more like a beauty laboratory where confidence is crafted. She listens like a friend, explains like a teacher, and treats like an artist painting her masterpiece. If skin could smile, mine would never stop",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VQbXoyT2pDMWVIdFl3EAE",
+      "author": "gattupalli avinash",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "⭐⭐⭐⭐⭐ (5/5 Stars)\n\nI am incredibly grateful for the excellent care I received from Dr. [Indira garu]. From the very beginning, they were kind, attentive, and truly listened to my concerns. The treatment plan was clearly explained and very effective — I’m feeling much better now thanks to their expertise. The compassion and professionalism shown throughout my visits made me feel comfortable and confident. I highly recommend\nDr.[Indira garu] to anyone looking for a dedicated and knowledgeable healthcare provider. Thank you for everything.......!",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJNUpmWHRnRRAB",
+      "author": "Sai krishna Vella",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3MDUtdkJ3EAE",
+      "author": "vidya sagar",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Good and patient friendly doctor strongly recommend it for any dermatology related issues 🙏 …",
+      "maybe_truncated": true,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3bnJqd1l3EAE",
+      "author": "Venu Kumar",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Friendly treatment , early cure , happy to meet Dr.indhira garu... Highly recommended.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRbnJ5dUlBEAE",
+      "author": "Ammulu Ch",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I went treatment for heavy permeation to Dr Indira skin clink  excellent care is provided for me she is both professional and friendly thank u  Dr Indira  Garu",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTURROE8tUWpnRRAB",
+      "author": "Sunitha Gopal",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Doctor Indira is very friendly nature person ☺️.... recieving & talking was superb ♥️.... Treatment also very good.... highly recommended Dr.indira skin & hair clinic...tq very much dr.indira garu",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMxbHJ2azJnRRAB",
+      "author": "Swathi Kilani",
+      "rating": 5,
+      "relative_date": "Edited a year ago",
+      "text": "Got my skin tags removed. It was a pretty smooth experience.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTURBcGVPN2FREAE",
+      "author": "lavanya buragadda",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1eG9QRERnEAE",
+      "author": "vamsi krish",
+      "rating": 5,
+      "relative_date": "Edited a year ago",
+      "text": "Dr. Indira at Dr. Indira's Skin Clinic explained my psoriasis very well and gave me a very good treatment. Thank you.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTURBc0pqb0NnEAE",
+      "author": "Kaushik Kalyan",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Very knowledgeable, and expert in taking history and accurate diagnosis. Would definitely recommend dr indira for dermat opinions and treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNBeFlHQldBEAE",
+      "author": "Lakshmi",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Dr indira is very good at diagnosing the problem and she won't prescribe unnecessary medications unlike other dermatologists these days.i am very much satisfied with her treatment.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNBbG92OTVRRRAB",
+      "author": "ganesh maanam",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "The doctor is professional , patient , and explain every step in the treatment.\nThe doctor is knowledge , friendly , and treats every patient  with care.\nThe clinic offers a variety of skin producers with great equipment.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNBMHFucDhnRRAB",
+      "author": "Ramadevi",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Visitedclinic for my sister-in-law hairfall problam doctor advance treatment...nowlcansee tha desied results  n improvement in my sisterinlaw hairgrowth dr.indira madam isvery good treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURfaC1uX3JnRRAB",
+      "author": "Sara Venkat",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURmc0lhZkJnEAE",
+      "author": "Abhilash Kommoji",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Queekly respond & using latest equipment full command on all skin diseases treating so well as friendly doctor",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2cVBmUmZREAE",
+      "author": "vinay kumar",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Doctor is having good experience and she is having good levels in examing the skin and very well friendly staff.\nHighly recommended DR. INDIRAS SKIN & HAIR CLINIC",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2dW82M2xBRRAB",
+      "author": "Bhagya Lakshmi",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Best treatment my doctor Indira garu pimples in 2 weaks I show visible result my face. thank you madam",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2MHJIOFRREAE",
+      "author": "MALAVYA MM NAIDU",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Wonderful Doctor. In the era of Investigations, she is one who diagnose without taxing the purse of the patient.  Spot on diagnostic with less medication.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2MHJTcWNnEAE",
+      "author": "Minchala Vijayakrishna",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURQbGU2Q293RRAB",
+      "author": "Nakkala Srinu",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Very good treatment by the doctor garu...patience tho Anni problems vintaru..",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNQbnREb0h3EAE",
+      "author": "Siddarth",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I took treatment from Dr.Indira for severe dandruff and hairfall and in few weeks I saw visible results my hairfall reduced and I finally got rid of dandruff also I have pigmentation on face I used the medicine which was prescribed by the doctor and slowly my pigmentation is fading away too .I highly recommend this clinic for all your skin and hair problems because unlike others here the doctor suggests you the relevent treatment with good experience and you will get rid of your problems in few visits itself.Also I would like to mention she prescribes only good medication which doesn’t harm us in anyother way financially too.Finally thanks to Dr.Indira for the excellent treatment by which I’m happy now.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNQLXRlMV93RRAB",
+      "author": "GRANDHI MALLI BABU",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNQLXFEamVBEAE",
+      "author": "Purnima Puri",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNQbXNuZ2hBRRAB",
+      "author": "Nagalakshmi B",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Visited clinic for my hairfall problem, doctor advised PRP treatment..now i can see the desired results n improvement in my hair growth..Dr.Indira is very polite n professional and she makes you understand the treatment very well..Thankyou doc",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQzN3V1SkxBEAE",
+      "author": "Pradeep 0077",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "EXECELLENT HOSPITALITY .,SUPERB TREATMENT…NO UNNECESSARY TESTS….BEST IN THE CITY",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzbGVyMWpRRRAB",
+      "author": "Mani Annam",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYcFliNzFnRRAB",
+      "author": "Durgaprasad Nagidi",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Nice and friendly doctor with good skills and treatment.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNIZ2RUeWlnRRAB",
+      "author": "Shaik Shaziya",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURMa09yNEZBEAE",
+      "author": "kothuri haritha",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNMMU82MkFREAE",
+      "author": "Devi Sri",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I visited Dr. Indira Garu a few months ago for my acne and scars related problem. She is a really good dermatologist and is very friendly with her patients. She listens patiently to all our problems and provides treatment accordingly. She also gives valuable suggestions. I can truly say that she is one of the best doctors. For those who are not available near Guntur, you can contact her through calls or online. If you have any queries or concerns, I recommend Dr. Indira. #value for money worth it ✨",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNkc0xTdGdBRRAB",
+      "author": "ramadevi Nakkala",
+      "rating": 5,
+      "relative_date": "Edited 2 years ago",
+      "text": "good treatment by doctor☺",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUREalBtTTBBRRAB",
+      "author": "pjb khans",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Treatment is very good and doctor behaviour is also very good.....",
+      "maybe_truncated": true,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUROaVpuUWdnRRAB",
+      "author": "Vineetha Ganapa",
+      "rating": 4,
+      "relative_date": "2 years ago",
+      "text": "I consulted Dr.Indira mam for chemical peel.After attending few sessions I can see that my skin took new birth.Many of my well wishers praised my face glow.Mam is so polite and humble and listen to our problems patiently.Thank you DR.Indira mam",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNsemRldnlRRRAB",
+      "author": "Arja Umadevi",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURGOTdLZXNBRRAB",
+      "author": "Deepika T",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Dr indira contacted for skin irritation...suggested medicine for 3 days ..could able to see the better results with in one day itself..great doctor...thank you for the support",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwbjhiTnBBRRAB",
+      "author": "Charlene Harvey",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwb3N1YTh3RRAB",
+      "author": "Lakshmi Narayana N",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Today i met this wonderful doctor for my problem.           Dr. Indira garu is a polite and friendly with the patients.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4dmNUQVRBEAE",
+      "author": "Vasantha",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNoMXZqUV9RRRAB",
+      "author": "Abdul Riyaz",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "I have recently visited Dr Indira's Skin Clinic here doctor was very friendly she treats a patient as a friend I recommend everyone go and visit once and your every skin problem will be solved\nMy problem solved in 24 Hours",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURCd2ZlLXBRRRAB",
+      "author": "Katuri Babu",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Dr. Indira did a great job . She explained everything to me in a very clear manner. She was also kind and friendly. Good Treatment. One of the Best SKIN Clinic in Guntur. Thank you so much Doctor.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURCeU1qR2dnRRAB",
+      "author": "Josh Official",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Well and supr treatment and trusted medicine 🙏❤️‍🩹 …",
+      "maybe_truncated": true,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNCeXBtYldBEAE",
+      "author": "Kushi Deekshu",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "I got treated for acne..and i am satisfied...doctor is so patient and she listen to all our problems..highly recommended...",
+      "maybe_truncated": true,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMtdnNHa1ZREAE",
+      "author": "shaik ayub",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Very good treatment here.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNldDlxQjZBRRAB",
+      "author": "N shivaji",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Treatment i received from doctor was so good and felt so comfortable  to share my problem",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN1azVfMGJ3EAE",
+      "author": "Jahnavi N",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Dr.Indira is very professional and experienced. My skin allergy completly recovered with in short period of time.I Highly recommend her q for skin allergies and I was happy with Dr.Indira.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN1amNHUlhnEAE",
+      "author": "Siva Paritala",
+      "rating": 1,
+      "relative_date": "4 years ago",
+      "text": "The OP attender is waste taking money and not returing back she is saying 250 OP fee but taking 300 waste of goingThe OP lady is not good at talking to others she is asking full address and also asking why u only came like that it is hospital or investigating centre we don't know finally waste",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNPNzczeFZREAE",
+      "author": "satya praveen",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    }
+  ],
+  "reviews_error": "",
+  "sorted_newest": true,
+  "stopped_at_known_review": false,
+  "reviews_captured": 67,
+  "owner_replies": 67,
+  "truncated_reviews": 4,
+  "reviews_coverage": 1.0,
+  "date_anchor": "2026-08-20T18:23:03",
+  "extract_seconds": 47.0,
+  "missing_fields": [
+    "website"
+  ],
+  "listing_position": 19,
+  "source_query": "dermatologists in Guntur",
+  "listing_name": "Dr.INDIRA'S SKIN & HAIR CLINIC"
+}

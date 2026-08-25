@@ -1,0 +1,388 @@
+"""Serve a live-updating review page for a deep-extraction run.
+
+The page polls the run directory while the scraper is still working, so clinics appear as they
+are captured. It re-renders only what changed, which means an operator can keep a card open and
+keep scrolling while clinic 40 is still being read - a full page reload would throw that away.
+
+Run:  python tools/live_ui.py --run runs/maps_deep/guntur_dermatologists --port 8765
+"""
+import sys as _sys
+from pathlib import Path as _Path
+_sys.path.insert(0, str(_Path(__file__).resolve().parent.parent))
+
+import argparse
+import functools
+import http.server
+import socketserver
+import threading
+import webbrowser
+
+PAGE = r"""<!doctype html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Maps extraction &mdash; live</title><style>
+:root{--bg:#0d1117;--fg:#e6edf3;--mut:#8b949e;--line:#21262d;--card:#161b22;--card2:#1c2129;
+--ok:#3fb950;--warn:#d29922;--bad:#f85149;--acc:#58a6ff;--vio:#bc8cff}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);
+font:14px/1.55 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif}
+header{padding:16px 24px;border-bottom:1px solid var(--line);position:sticky;top:0;
+background:rgba(13,17,23,.96);backdrop-filter:blur(8px);z-index:10}
+.top{display:flex;align-items:baseline;gap:14px;flex-wrap:wrap}
+h1{margin:0;font-size:18px;letter-spacing:-.2px}
+.q{color:var(--mut);font-size:13px}
+.live{margin-left:auto;display:flex;align-items:center;gap:8px;font-size:12px;color:var(--mut)}
+.dot{width:8px;height:8px;border-radius:50%;background:var(--ok);animation:pulse 1.4s infinite}
+.dot.off{background:var(--mut);animation:none}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.25}}
+.prog{height:4px;background:var(--line);border-radius:3px;margin-top:12px;overflow:hidden}
+.prog i{display:block;height:100%;background:linear-gradient(90deg,var(--acc),var(--vio));
+width:0;transition:width .5s ease}
+.stats{display:flex;flex-wrap:wrap;gap:8px;margin-top:12px}
+.stat{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:7px 12px;min-width:82px}
+.stat b{font-size:17px;display:block;font-variant-numeric:tabular-nums}
+.stat span{color:var(--mut);font-size:10px;text-transform:uppercase;letter-spacing:.5px}
+.stat.time b{color:var(--acc)}
+.filters{display:flex;gap:7px;margin-top:12px;flex-wrap:wrap;align-items:center}
+button{background:var(--card);color:var(--fg);border:1px solid var(--line);border-radius:7px;
+padding:6px 12px;cursor:pointer;font-size:12px;transition:.15s}
+button:hover{border-color:var(--mut)}
+button.on{border-color:var(--acc);color:var(--acc);background:#0d2036}
+input.search{background:var(--card);border:1px solid var(--line);border-radius:7px;color:var(--fg);
+padding:6px 11px;font-size:12px;min-width:180px}
+.legend{display:flex;gap:18px;flex-wrap:wrap;margin-top:10px;font-size:11.5px;color:var(--mut)}
+.legend span{display:flex;align-items:center;gap:6px}
+.sw{width:11px;height:11px;border-radius:3px;display:inline-block}
+.sw.ok{background:var(--ok)} .sw.wn{background:var(--warn)} .sw.bd{background:var(--bad)}
+main{padding:16px 24px 80px;max-width:1200px}
+.card{background:var(--card);border:1px solid var(--line);border-left:5px solid var(--mut);
+border-radius:9px;margin-bottom:8px;transition:.15s}
+.card:hover{border-color:#30363d}
+/* Three states, three unmistakable colours. A thin border alone was unreadable, so each state
+   also gets a background tint and a filled badge. */
+.card.relevant{border-left-color:var(--ok);background:linear-gradient(90deg,#0f2016 0%,var(--card) 22%)}
+.card.adjacent{border-left-color:var(--warn);background:linear-gradient(90deg,#241d0c 0%,var(--card) 22%)}
+.card.irrelevant{border-left-color:var(--bad);background:linear-gradient(90deg,#241214 0%,var(--card) 22%)}
+.card.relevant .nm{color:#7ee787}
+.card.adjacent .nm{color:#e3b341}
+.card.irrelevant .nm{color:#ff9492}
+.card.isnew{animation:flash 1.6s ease}
+@keyframes flash{0%{background:#12261a}100%{background:var(--card)}}
+summary{cursor:pointer;padding:11px 14px;display:flex;gap:10px;align-items:center;flex-wrap:wrap;
+list-style:none}
+summary::-webkit-details-marker{display:none}
+.pos{color:var(--mut);min-width:24px;font-variant-numeric:tabular-nums;font-size:12px}
+.nm{font-weight:600;flex:1;min-width:200px}
+.meta{color:var(--mut);font-size:12px}
+.tag{font-size:10.5px;padding:2px 8px;border-radius:99px;border:1px solid var(--line);white-space:nowrap}
+.tag.relevant{color:#0d1117;background:var(--ok);border-color:var(--ok);font-weight:600}
+.tag.adjacent{color:#0d1117;background:var(--warn);border-color:var(--warn);font-weight:600}
+.tag.irrelevant{color:#0d1117;background:var(--bad);border-color:var(--bad);font-weight:600}
+.tag.nw{color:#ff9492;background:#2a1416;border-color:#5d2220}
+.tag.mi{color:var(--warn)}
+.tag.ok{color:var(--ok)}
+.tag.mm{color:var(--vio);border-color:#3f2d5c}
+.tag.bk{color:#7ee787;border-color:#1c4429}
+.tag.cl{color:#ff9492;background:#2a1416;border-color:#5d2220}
+.tag.skip{color:var(--mut)}
+.body{padding:2px 16px 18px;border-top:1px solid var(--line)}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(310px,1fr));gap:16px;margin-top:12px}
+.panel{background:var(--card2);border:1px solid var(--line);border-radius:8px;padding:12px 14px}
+.panel h4{margin:0 0 9px;font-size:11px;text-transform:uppercase;letter-spacing:.6px;color:var(--mut)}
+table{width:100%;border-collapse:collapse}
+th{text-align:left;color:var(--mut);font-weight:500;width:120px;vertical-align:top;
+padding:4px 8px 4px 0;font-size:12px}
+td{padding:4px 0;vertical-align:top;word-break:break-word;font-size:13px}
+.miss{color:var(--bad);font-style:italic;opacity:.8}
+.chip{display:inline-block;background:#232b36;border-radius:99px;padding:2px 9px;margin:2px 3px 2px 0;font-size:11.5px}
+.chip b{color:var(--acc)}
+.gap{display:inline-block;background:#2d2211;color:var(--warn);border-radius:5px;padding:2px 8px;margin:2px 4px 2px 0;font-size:11.5px}
+.bar{display:flex;align-items:center;gap:8px;margin:3px 0}
+.bar i{font-style:normal;color:var(--mut);width:8px;font-size:11px}
+.bar u{height:7px;background:var(--acc);border-radius:4px;text-decoration:none;display:block;min-width:2px}
+.bar s{text-decoration:none;color:var(--mut);font-size:11px;font-variant-numeric:tabular-nums}
+.rev{border-top:1px solid var(--line);padding:9px 0}
+.rev:first-of-type{border-top:none}
+.rh{display:flex;gap:9px;align-items:center;font-size:12px;flex-wrap:wrap}
+.rh b{font-weight:600}
+.st{color:var(--warn);letter-spacing:1px}
+.dt{color:var(--mut)}
+.replied{color:var(--acc);font-size:10.5px;border:1px solid #1f3b5c;border-radius:99px;padding:1px 7px}
+.rev p{margin:5px 0 0;color:#c9d1d9;font-size:13px}
+.revwrap{max-height:420px;overflow:auto;margin-top:6px}
+.more{color:var(--mut);font-size:12px;padding:8px 0}
+a{color:var(--acc);text-decoration:none}a:hover{text-decoration:underline}
+.empty{color:var(--mut);padding:40px;text-align:center}
+</style></head><body>
+<header>
+  <div class="top">
+    <h1>Google Maps extraction</h1>
+    <span class="q" id="q"></span>
+    <span class="live"><span class="dot" id="dot"></span><span id="livetxt">connecting…</span></span>
+  </div>
+  <div class="prog"><i id="bar"></i></div>
+  <div class="stats" id="stats"></div>
+  <div class="filters">
+    <button class="on" data-f="all">All</button>
+    <button data-f="relevant">Skin-relevant</button>
+    <button data-f="adjacent">Adjacent</button>
+    <button data-f="irrelevant">Not relevant</button>
+    <button data-f="nowebsite">No website</button>
+    <button data-f="missing">Missing fields</button>
+    <button data-f="booking">Books online</button>
+    <button data-f="closed">Closed</button>
+    <button data-f="mismatch">Category mismatch</button>
+    <input class="search" id="search" placeholder="search name / address…">
+    <span id="shown" style="font-size:12px;color:var(--mut);margin-left:4px"></span>
+  </div>
+  <div class="legend">
+    <span><i class="sw ok"></i>skin-relevant &mdash; opened, everything extracted</span>
+    <span><i class="sw wn"></i>adjacent &mdash; opened, not benchmarked as a peer</span>
+    <span><i class="sw bd"></i>not relevant &mdash; card data only, never opened</span>
+  </div>
+</header>
+<main><div id="list"><div class="empty">waiting for the first clinic…</div></div></main>
+<script>
+const $ = s => document.querySelector(s);
+let DATA = [], STATUS = {}, filter = 'all', term = '', seen = new Set(), open = new Set();
+const esc = s => (s==null?'':String(s)).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const miss = '<span class="miss">not found</span>';
+const val = v => (v===null||v===undefined||v===''||(Array.isArray(v)&&!v.length)) ? miss : esc(v);
+
+function hhmmss(s){ s=Math.max(0,Math.floor(s));
+  const h=Math.floor(s/3600), m=Math.floor(s%3600/60), x=s%60;
+  return (h?h+'h ':'')+(h||m?m+'m ':'')+x+'s'; }
+
+function stars(n){ return '★'.repeat(n||0)+'☆'.repeat(Math.max(0,5-(n||0))); }
+
+function hist(h){ if(!h) return miss;
+  const tot=Object.values(h).reduce((a,b)=>a+b,0)||1;
+  return ['5','4','3','2','1'].map(s=>{const n=h[s]||0;
+    return `<div class="bar"><i>${s}</i><u style="width:${Math.max(1,Math.round(100*n/tot))}%"></u><s>${n}</s></div>`;
+  }).join(''); }
+
+function topics(t){ if(!t||!Object.keys(t).length) return miss;
+  return Object.entries(t).sort((a,b)=>b[1]-a[1])
+    .map(([k,v])=>`<span class="chip">${esc(k)} <b>${v}</b></span>`).join(''); }
+
+function about(a){ if(!a||!Object.keys(a).length) return miss;
+  return Object.entries(a).map(([k,v])=>
+    `<div style="margin-bottom:7px"><div style="color:var(--mut);font-size:11px">${esc(k)}</div>${
+      (v||[]).map(x=>`<span class="chip">${esc(x)}</span>`).join('')}</div>`).join(''); }
+
+function hours(h){ if(!h) return miss;
+  return Object.entries(h).map(([d,t])=>
+    `<div style="display:flex;gap:10px"><span style="color:var(--mut);min-width:78px">${esc(d)}</span><span>${esc(t)}</span></div>`).join(''); }
+
+function card(r){
+  const rel = r.relevance || 'unknown';
+  const m = r.missing_fields || [];
+  const key = r.place_id || r.feature_id || r.listing_position;
+  const isOpen = open.has(String(key));
+  if(r.error) return `<details class="card"><summary><span class="pos">${r.listing_position||''}</span>
+    <span class="nm">${esc(r.listing_name||'?')}</span><span class="tag irrelevant">failed</span></summary>
+    <div class="body"><p class="miss">${esc(r.error)}</p></div></details>`;
+  return `<details class="card ${rel}${seen.has(String(key))?'':' isnew'}" data-key="${esc(key)}" ${isOpen?'open':''}>
+  <summary>
+    <span class="pos">${r.listing_position||''}</span>
+    <span class="nm">${esc(r.name_clean||r.listing_name)}</span>
+    <span class="tag ${rel}">${esc(rel)}</span>
+    <span class="meta">${esc(r.category||'—')}</span>
+    <span class="meta">★${esc(r.rating??'—')} (${esc(r.reviews_total??0)})</span>
+    <span class="meta">${esc(r.reviews_captured||0)} read</span>
+    ${!r.has_own_website?'<span class="tag nw">no website</span>':''}
+    ${r.has_online_booking?`<span class="tag bk">books online${r.booking_vendor?' · '+esc(r.booking_vendor):''}</span>`:''}
+    ${(r.permanently_closed||r.temporarily_closed)?`<span class="tag cl">${r.permanently_closed?'permanently':'temporarily'} closed</span>`:''}
+    ${r.tier==='minimal'?'<span class="tag skip">not opened</span>':''}
+    ${r.category_mismatch?'<span class="tag mm">category mismatch</span>':''}
+    ${r.complete===false?'<span class="tag mi">failed</span>':
+      (m.length?`<span class="tag mi">${m.length} missing</span>`:'<span class="tag ok">complete</span>')}
+  </summary>
+  <div class="body"><div class="grid">
+    <div class="panel"><h4>Identity</h4><table>
+      <tr><th>Name</th><td>${val(r.name_clean)}</td></tr>
+      <tr><th>Raw name</th><td style="color:var(--mut);font-size:12px">${val(r.name_raw)}</td></tr>
+      <tr><th>Category</th><td>${val(r.category)}</td></tr>
+      ${r.category_mismatch?`<tr><th>List says</th><td style="color:var(--vio)">${val(r.listing_category)}</td></tr>`:''}
+      <tr><th>Relevance</th><td>${val(r.relevance)} <span style="color:var(--mut);font-size:11px">${esc(r.basis||'')}</span></td></tr>
+      <tr><th>Address</th><td>${val(r.address)}</td></tr>
+      <tr><th>Plus code</th><td>${val(r.plus_code)}</td></tr>
+      <tr><th>Phone</th><td>${val(r.phone)}</td></tr>
+      <tr><th>Website</th><td>${r.website?`<a href="${esc(r.website)}" target="_blank">${esc(r.website).slice(0,44)}</a>
+        <span style="color:var(--mut);font-size:11px">(${esc(r.website_type)})</span>`:miss}</td></tr>
+      <tr><th>Photos</th><td>${r.has_photos?'yes':miss}</td></tr>
+      ${r.tier==='minimal'?'':`<tr><th>Book online</th><td>${r.has_online_booking
+        ? `<a href="${esc(r.booking_url)}" target="_blank">yes</a> <span style="color:var(--mut);font-size:11px">via ${esc(r.booking_vendor)}</span>`
+        : '<span style="color:var(--mut)">no</span>'}</td></tr>`}
+      ${(r.permanently_closed||r.temporarily_closed)?`<tr><th>Business status</th><td>${
+        r.permanently_closed?'<span style="color:var(--bad)">permanently closed</span>'
+        :'<span style="color:var(--warn)">temporarily closed</span>'}</td></tr>`:''}
+      ${r.tier==='minimal'?'':`<tr><th>Service options</th><td>${(r.service_options||[]).length
+        ? r.service_options.map(o=>`<span class="chip">${esc(o)}</span>`).join('') : miss}</td></tr>`}
+      <tr><th>Place ID</th><td style="font-size:11px;color:var(--mut)">${val(r.place_id)}</td></tr>
+      ${r.tier==='minimal'?`<tr><th>Not collected</th><td style="color:var(--mut);font-size:12px">
+        ${esc((r.not_collected||[]).join(', '))}<br><i>${esc(r.skipped_reason||'')}</i></td></tr>`:''}
+    </table></div>
+    <div class="panel"><h4>Hours</h4>${hours(r.hours)}
+      ${r.google_profile_gaps?`<h4 style="margin-top:12px">Google says missing</h4>${
+        r.google_profile_gaps.map(g=>`<span class="gap">${esc(g)}</span>`).join('')}`:''}</div>
+    <div class="panel"><h4>Star spread</h4>${hist(r.rating_histogram)}
+      <h4 style="margin-top:12px">Review labels</h4>${topics(r.topics)}</div>
+    <div class="panel"><h4>About</h4>${about(r.about)}</div>
+  </div>
+  <div class="panel" style="margin-top:14px"><h4>Reviews &mdash;
+    ${esc(r.reviews_captured||0)} of ${esc(r.reviews_total??'?')}
+    ${r.reviews_coverage?`(${Math.round(r.reviews_coverage*100)}%)`:''}
+    &nbsp;·&nbsp; ${esc(r.owner_replies||0)} owner replies
+    ${r.sorted_newest?'&nbsp;·&nbsp; newest first':'&nbsp;·&nbsp; <span style="color:var(--warn)">default order</span>'}
+    ${r.truncated_reviews?`&nbsp;·&nbsp; <span style="color:var(--warn)">${r.truncated_reviews} maybe cut off</span>`:''}
+    </h4>
+    <div class="revwrap" data-reviews="${esc(key)}"><div class="more">open to load reviews…</div></div>
+  </div>
+  </div></details>`;
+}
+
+async function loadReviews(key, el){
+  try{
+    const r = await fetch(`places/${key}.json?t=${Date.now()}`);
+    const d = await r.json();
+    const rv = d.reviews||[];
+    el.innerHTML = rv.length ? rv.map(v=>`<div class="rev"><div class="rh">
+      <b>${esc(v.author)}</b><span class="st">${stars(v.rating)}</span>
+      <span class="dt">${esc(v.relative_date)}</span>
+      ${v.has_owner_reply?'<span class="replied">owner replied</span>':''}
+      </div><p>${esc(v.text)}</p></div>`).join('') : '<div class="more">no reviews captured</div>';
+  }catch(e){ el.innerHTML = '<div class="more">could not load reviews</div>'; }
+}
+
+function render(){
+  const list = $('#list');
+  let rows = DATA.slice();
+  if(term) rows = rows.filter(r => ((r.name_clean||'')+' '+(r.address||'')+' '+(r.listing_name||'')).toLowerCase().includes(term));
+  if(filter==='nowebsite') rows = rows.filter(r=>!r.has_own_website && !r.error);
+  else if(filter==='missing') rows = rows.filter(r=>(r.missing_fields||[]).length);
+  else if(filter==='booking') rows = rows.filter(r=>r.has_online_booking);
+  else if(filter==='closed') rows = rows.filter(r=>r.permanently_closed||r.temporarily_closed);
+  else if(filter==='mismatch') rows = rows.filter(r=>r.category_mismatch);
+  else if(filter!=='all') rows = rows.filter(r=>r.relevance===filter);
+  // Say plainly when a filter is hiding rows. Previously a filter silently narrowed the list
+  // and the page looked as though the missing clinics had never been captured.
+  const hidden = DATA.length - rows.length;
+  const note = $('#shown');
+  if (note) {
+    note.innerHTML = hidden > 0
+      ? `showing <b>${rows.length}</b> of ${DATA.length} &mdash; <b>${hidden} hidden by this filter</b>
+         <button id="clearf" style="padding:2px 8px;margin-left:6px">show all</button>`
+      : `showing all <b>${rows.length}</b>`;
+    note.style.color = hidden > 0 ? 'var(--warn)' : 'var(--mut)';
+    const cb = document.getElementById('clearf');
+    if (cb) cb.onclick = () => {
+      document.querySelectorAll('.filters button[data-f]').forEach(x => x.classList.remove('on'));
+      const all = document.querySelector('.filters button[data-f="all"]');
+      if (all) all.classList.add('on');
+      filter = 'all'; render();
+    };
+  }
+  list.innerHTML = rows.length ? rows.map(card).join('') : '<div class="empty">nothing matches</div>';
+  DATA.forEach(r=>seen.add(String(r.place_id||r.feature_id||r.listing_position)));
+  list.querySelectorAll('details').forEach(d=>{
+    d.addEventListener('toggle',()=>{
+      const k = d.dataset.key;
+      if(d.open){ open.add(k);
+        const box = d.querySelector('[data-reviews]');
+        if(box && !box.dataset.loaded){ box.dataset.loaded='1'; loadReviews(k, box); }
+      } else open.delete(k);
+    });
+    if(d.open){ const box=d.querySelector('[data-reviews]');
+      if(box && !box.dataset.loaded){ box.dataset.loaded='1'; loadReviews(d.dataset.key, box); } }
+  });
+}
+
+function renderStats(){
+  const ok = DATA.filter(r=>!r.error);
+  const s = {
+    found: STATUS.total||DATA.length, done: DATA.length,
+    relevant: ok.filter(r=>r.relevance==='relevant').length,
+    adjacent: ok.filter(r=>r.relevance==='adjacent').length,
+    irrelevant: ok.filter(r=>r.relevance==='irrelevant').length,
+    nosite: ok.filter(r=>!r.has_own_website).length,
+    reviews: ok.reduce((a,r)=>a+(r.reviews_captured||0),0),
+    failed: DATA.filter(r=>r.error).length,
+  };
+  const el = (b,l,cls='') => `<div class="stat ${cls}"><b>${b}</b><span>${l}</span></div>`;
+  // Freeze the clock once the run is over. It used to keep counting from the wall clock, so a
+  // finished run appeared to have taken however long the page had been left open.
+  const elapsed = STATUS.finished
+    ? (STATUS.elapsed || 0)
+    : (STATUS.started_at ? (Date.now()/1000 - STATUS.started_at) : 0);
+  $('#stats').innerHTML =
+    el(hhmmss(elapsed), STATUS.finished ? 'took' : 'running for','time') +
+    el(`${s.done}/${s.found}`,'clinics done') +
+    el(s.relevant,'skin-relevant') + el(s.adjacent,'adjacent') + el(s.irrelevant,'not relevant') +
+    el(s.nosite,'no website') + el(s.reviews.toLocaleString(),'reviews read') +
+    el(ok.filter(r=>r.has_online_booking).length,'books online') +
+    el(s.failed,'failed') +
+    (STATUS.run_health && STATUS.run_health!=='ok'
+      ? el(STATUS.run_health.toUpperCase(),'run health') : '');
+  $('#bar').style.width = (100*s.done/Math.max(1,s.found))+'%';
+  $('#q').textContent = STATUS.query||'';
+  const fin = STATUS.finished;
+  $('#dot').className = 'dot'+(fin?' off':'');
+  $('#livetxt').textContent = fin ? `finished in ${hhmmss(STATUS.elapsed||elapsed)}`
+    : `reading: ${(STATUS.current||'').slice(0,46)}`;
+}
+
+async function poll(){
+  try{
+    const [d,s] = await Promise.all([
+      fetch('data.json?t='+Date.now()).then(r=>r.json()).catch(()=>DATA),
+      fetch('status.json?t='+Date.now()).then(r=>r.json()).catch(()=>STATUS)]);
+    const changed = JSON.stringify(d.map(r=>r.listing_position)) !== JSON.stringify(DATA.map(r=>r.listing_position));
+    DATA = d; STATUS = s;
+    if(changed) render();
+    renderStats();
+  }catch(e){}
+}
+document.querySelectorAll('.filters button').forEach(b=>b.onclick=()=>{
+  document.querySelectorAll('.filters button').forEach(x=>x.classList.remove('on'));
+  b.classList.add('on'); filter=b.dataset.f; render();
+});
+$('#search').oninput = e => { term = e.target.value.toLowerCase().trim(); render(); };
+setInterval(poll, 3000);
+setInterval(renderStats, 1000);   // the elapsed clock ticks every second
+poll();
+</script></body></html>"""
+
+
+def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--run", default="runs/maps_deep/guntur_dermatologists")
+    ap.add_argument("--port", type=int, default=8765)
+    ap.add_argument("--no-open", action="store_true")
+    args = ap.parse_args()
+
+    run = _Path(args.run).resolve()
+    run.mkdir(parents=True, exist_ok=True)
+    (run / "index.html").write_text(PAGE, encoding="utf-8")
+    for name, default in (("data.json", "[]"), ("status.json", "{}")):
+        if not (run / name).exists():
+            (run / name).write_text(default, encoding="utf-8")
+
+    handler = functools.partial(http.server.SimpleHTTPRequestHandler, directory=str(run))
+
+    class Quiet(socketserver.TCPServer):
+        allow_reuse_address = True
+
+    url = f"http://127.0.0.1:{args.port}/index.html"
+    with Quiet(("127.0.0.1", args.port), handler) as httpd:
+        print(f"live page: {url}")
+        print("(leave this running; Ctrl-C to stop)")
+        if not args.no_open:
+            threading.Timer(1.0, lambda: webbrowser.open(url)).start()
+        try:
+            httpd.serve_forever()
+        except KeyboardInterrupt:
+            print("stopped")
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

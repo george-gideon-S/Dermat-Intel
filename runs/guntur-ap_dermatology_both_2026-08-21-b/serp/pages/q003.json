@@ -1,0 +1,132 @@
+{
+  "index": 3,
+  "screenshot": "q003.png",
+  "rank": 3,
+  "search_query": "skin specialist in Guntur",
+  "search_box_text": "skin specialist in Guntur",
+  "match_confidence": "exact",
+  "readable": true,
+  "blocks": [
+    {
+      "position": 1,
+      "block_type": "local_pack_top",
+      "platform": "clinic_site",
+      "title": "Dr. S. Akshay Jain/Dermatologist(skin doctor)in Guntur/Trichologist(Hair specialist)/Cosmetic/SkinClinic/Laser hair reduction",
+      "domain": "",
+      "url": "",
+      "rating": 4.9,
+      "reviews": 348,
+      "snippet": "4.9 (348) · Dermatologist · SKIN LANE CLINIC, Menakshi Hospital, Besides, Pattabhipuram Rd, opposite Jute Mill · Closed · Opens 6 pm"
+    },
+    {
+      "position": 2,
+      "block_type": "local_pack_top",
+      "platform": "clinic_site",
+      "title": "Skin Perfect Clinic",
+      "domain": "",
+      "url": "",
+      "rating": 4.9,
+      "reviews": 641,
+      "snippet": "4.9 (641) · Dermatologist · Old Club Rd, beside Yoda diagnostic lab · Closed · Opens 10 am Sat"
+    },
+    {
+      "position": 3,
+      "block_type": "local_pack_top",
+      "platform": "clinic_site",
+      "title": "Dr Sowmya Skin Hair Laser Clinic - Chandramouli nagar",
+      "domain": "",
+      "url": "",
+      "rating": 4.8,
+      "reviews": 528,
+      "snippet": "4.8 (528) · Dermatologist · 1/1, lane, opp. Bakers fun"
+    },
+    {
+      "position": 4,
+      "block_type": "organic",
+      "platform": "practo",
+      "title": "Best Dermatologists Near Me in Guntur",
+      "domain": "practo.com",
+      "url": "https://www.practo.com/guntur/dermatologist",
+      "rating": null,
+      "reviews": null,
+      "snippet": "Best Dermatologists In Guntur · Dr. Chandrasekhar Nalabolu · Dr. Kavya Chennamsetty · Dr. Ragini Puvvala · Dr. Lakshmi Kamcharla · Dr. Saranya Dasari · Dr. Read more"
+    },
+    {
+      "position": 5,
+      "block_type": "organic",
+      "platform": "justdial",
+      "title": "Best Dermatologists Near me in Guntur",
+      "domain": "justdial.com",
+      "url": "https://www.justdial.com/Guntur/Dermatologists/nct-10156786",
+      "rating": null,
+      "reviews": null,
+      "snippet": "Best Dermatologists in Guntur - Book Appointment Online · Aster Ramesh Hospital · Skin Perfect · VLCC Healthcare · Chandana Skin Clinic · Dr. Kavya Chennamsetty ... Read more"
+    },
+    {
+      "position": 6,
+      "block_type": "organic",
+      "platform": "apollo247",
+      "title": "Best Dermatologists in guntur collectorate guntur (3 doctors)",
+      "domain": "apollo247.com",
+      "url": "https://www.apollo247.com/doctors/dermatologists-in-guntur-collectorate-guntur-scity",
+      "rating": null,
+      "reviews": null,
+      "snippet": "Best Dermatologists in guntur collectorate guntur (3 doctors) · Dr. Neelakanta Babu Rasineni · Dr. Himabindu Gottapu · Dr Monica Jain · FAQs. Who is a ... Read more"
+    },
+    {
+      "position": 7,
+      "block_type": "organic",
+      "platform": "clinic_site",
+      "title": "Dr. Kavya Chennamsetty | Best Dermatologist in Guntur",
+      "domain": "leelavathiadvancedskinandlasercentre.in",
+      "url": "https://www.leelavathiadvancedskinandlasercentre.in/about-us/",
+      "rating": null,
+      "reviews": null,
+      "snippet": "Dr. Kavya Chennamsetty, Dermatologist in Guntur ・ 11 Years Experience Overall ・ 522001 (+91) 93929 30422. Mon–Sat: 10:30 AM – 6:"
+    },
+    {
+      "position": 8,
+      "block_type": "organic",
+      "platform": "hospital",
+      "title": "Dermatology - Aster Ramesh Guntur - Aster Hospitals",
+      "domain": "asterhospitals.in",
+      "url": "https://www.asterhospitals.in/hospitals/aster-ramesh-guntur/specialities/dermatology",
+      "rating": null,
+      "reviews": null,
+      "snippet": "One of the best skin care hospitals in Guntur, Andhra Pradesh is Aster Ramesh that offers treatment for skin, hair, and nails issues. book appointment online."
+    },
+    {
+      "position": 9,
+      "block_type": "organic",
+      "platform": "clinic_site",
+      "title": "Home - Manoharam Skin Clinic | Dermatologist in Guntur",
+      "domain": "manoharamskinclinic.com",
+      "url": "https://manoharamskinclinic.com/",
+      "rating": null,
+      "reviews": null,
+      "snippet": "Dr. Ch Neelima Devi , renowned skin specialist and Cosmetologist with 18 years of experience had graduated from the prestigious Guntur Medical College, Guntur ... Read more"
+    },
+    {
+      "position": 10,
+      "block_type": "organic",
+      "platform": "clinic_site",
+      "title": "Dr Sowmya Skin,Hair,Laser Clinic | Guntur",
+      "domain": "drsowmyaskinclinics.com",
+      "url": "https://drsowmyaskinclinics.com/",
+      "rating": null,
+      "reviews": null,
+      "snippet": "Dr Sowmya's Skin Hair & Laser clinic is a world-class centre for providing laser and aesthetic skin care treatments.Dr. Guntur, 522002 Call Us +91 89789 99677"
+    },
+    {
+      "position": 11,
+      "block_type": "organic",
+      "platform": "skedoc",
+      "title": "Best Dermatology Hospitals in Guntur",
+      "domain": "skedoc.com",
+      "url": "https://www.skedoc.com/guntur/hospitals/dermatology",
+      "rating": null,
+      "reviews": null,
+      "snippet": "Best Dermatology Hospitals in Guntur · St. Joseph General Hospital · Dr. Swapna's Skin Laser and Hair Transplant Centre · Dr. Usha Rani Perali Skin Clinic. Read more"
+    }
+  ]
+}

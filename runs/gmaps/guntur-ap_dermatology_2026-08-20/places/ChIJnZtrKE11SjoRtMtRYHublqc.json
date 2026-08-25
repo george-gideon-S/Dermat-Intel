@@ -1,0 +1,608 @@
+{
+  "key": "ChIJnZtrKE11SjoRtMtRYHublqc",
+  "tier": "full",
+  "complete": true,
+  "place_url": "https://www.google.com/maps/place/RK+CLINIC/data=!4m7!3m6!1s0x3a4a754d286b9b9d:0xa7969b7b6051cbb4!8m2!3d16.3037141!4d80.4542619!16s%2Fg%2F11kb5890vm!19sChIJnZtrKE11SjoRtMtRYHublqc?authuser=0&hl=en&rclk=1",
+  "captured_at": "2026-08-20T23:53:42",
+  "rank": 52,
+  "place_id": "ChIJnZtrKE11SjoRtMtRYHublqc",
+  "feature_id": "0x3a4a754d286b9b9d:0xa7969b7b6051cbb4",
+  "kg_mid": "/g/11kb5890vm",
+  "lat": 16.3037141,
+  "lng": 80.4542619,
+  "dup_of_rank": null,
+  "has_online_booking": false,
+  "booking_url": "",
+  "booking_vendor": "",
+  "service_options": null,
+  "permanently_closed": false,
+  "temporarily_closed": false,
+  "status_text": "Closed · Opens 8 am Fri",
+  "open_now": false,
+  "is_ad": false,
+  "review_snippet": "",
+  "name_raw": "RK CLINIC",
+  "name_clean": "RK CLINIC",
+  "name_key": "rkclinic",
+  "name_dropped": [],
+  "name_was_cleaned": false,
+  "category": "Medical clinic",
+  "card_category": "Medical clinic",
+  "category_mismatch": false,
+  "relevance": "adjacent",
+  "basis": "base_generic_medical",
+  "address": "Nehrunagar, 3rd Line, Nehru Nagar, Guntur, Andhra Pradesh 522001",
+  "plus_code": "8F33+FP Guntur, Andhra Pradesh",
+  "phone": "099858 82479",
+  "website": "",
+  "website_domain": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "insecure_http": false,
+  "website_matches_name": null,
+  "rating": 4.9,
+  "reviews_total": 63,
+  "rating_histogram": {
+    "5": 59,
+    "4": 4,
+    "3": 0,
+    "2": 0,
+    "1": 0
+  },
+  "histogram_sum": 63,
+  "histogram_reconciles": true,
+  "topics": null,
+  "google_profile_gaps": [
+    "Add website"
+  ],
+  "has_photos": true,
+  "hours": {
+    "Thursday": "8 am to 9:30 pm",
+    "Friday": "8 am to 9:30 pm",
+    "Saturday": "8 am to 9:30 pm",
+    "Sunday": "8 am to 9:30 pm",
+    "Monday": "8 am to 9:30 pm",
+    "Tuesday": "8 am to 9:30 pm",
+    "Wednesday": "8 am to 9:30 pm"
+  },
+  "about": {
+    "Map details": [
+      "Transit",
+      "Traffic",
+      "Biking",
+      "Terrain",
+      "Street View",
+      "Wildfires",
+      "Air Quality"
+    ],
+    "Map tools": [
+      "Travel time",
+      "Measure"
+    ],
+    "Map type": [
+      "Default",
+      "Satellite",
+      " Globe view ",
+      " Labels"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WTlJrUnZYelozVGswNFlrZHNWemxyWDNkc2JVRRAB",
+      "author": "ADAPALA SNRAO",
+      "rating": 5,
+      "relative_date": "11 hours ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OT1VWZDJUVWxaVEhCVlltTnNUamh0YzE5RGFrRRAB",
+      "author": "Ravi Nissankrao",
+      "rating": 5,
+      "relative_date": "11 hours ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwak5GOUxaRlpGV1VaQlpIQkhNelIyTlhWdllVRRAB",
+      "author": "Naresh Nari",
+      "rating": 5,
+      "relative_date": "3 days ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkNVMwWmtkM0JWWjBOR2ExaGFWM1pZYzBkUFIzYxAB",
+      "author": "Hussain Shaik",
+      "rating": 5,
+      "relative_date": "a week ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aQlJsTndZMVZzUzB0b1dYQm9kM2d0TVdkU1FVRRAB",
+      "author": "Adapala Harsha vardhan",
+      "rating": 5,
+      "relative_date": "a week ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xrM2RrMUJiM0pVUkVVM1VYaFhPRUpTWDNFM2VXYxAB",
+      "author": "Prakashbabu Etukuru",
+      "rating": 5,
+      "relative_date": "a week ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKNlNtaFJOVlpYZWxoS05qSlBhRVEzVEhkaGRYYxAB",
+      "author": "Narra Suryanaryana",
+      "rating": 5,
+      "relative_date": "a week ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pab1JIaFVSVVp4TFdOeWJFdGZUa052YXpKWGJIYxAB",
+      "author": "Yelisetty Malathi",
+      "rating": 5,
+      "relative_date": "a week ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21VMmRHaDJaMlpVTFdsUWQwSjZiRlpJVUdKS1ltYxAB",
+      "author": "Atcham Sandyaganesh",
+      "rating": 5,
+      "relative_date": "a week ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tjd1FVdFVUWE5KZFMxR1NsTXpNa2xxZFRoVWMyYxAB",
+      "author": "Sonti anil kumar",
+      "rating": 4,
+      "relative_date": "a week ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSSVNYVlJiak5WTlZGM1NtRlhkV2cyZDJ3M1psRRAB",
+      "author": "Pudhota Yedukondalu",
+      "rating": 5,
+      "relative_date": "a week ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xZd2FXUk5NR3RwWW5WTmNqUmZRamRKWVRGWGJuYxAB",
+      "author": "mahesh kollamsetty",
+      "rating": 5,
+      "relative_date": "2 weeks ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oQ2RuUjJkREJvYUY5ZldHUkxkRUkzVG5KSldVRRAB",
+      "author": "Koteswara rao Jada",
+      "rating": 5,
+      "relative_date": "2 weeks ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGTlMwWmlUMmQ1YUZRMVJHNW9hemhaV2xsQ1FXYxAB",
+      "author": "Nagalakshmi Jada",
+      "rating": 5,
+      "relative_date": "2 weeks ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGMWRFSmZiRmt5ZEd0MVgyUnBkemR2VUU1ZlpHYxAB",
+      "author": "Narasimha Rao VL",
+      "rating": 5,
+      "relative_date": "2 weeks ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSbGFWTjVUekZIWVdkTVF6bEhOM0ZIYlZkdlNYYxAB",
+      "author": "Venkateswararao Yelisetty",
+      "rating": 4,
+      "relative_date": "2 weeks ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ndFNIQTVkVXBEUzJsNFl6ZHVUWGhZWkMxZlUxRRAB",
+      "author": "Jilani Sk",
+      "rating": 4,
+      "relative_date": "2 weeks ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CME1VZGFNbUV0U0dKeldGUjVTVnAzZWsxWGRYYxAB",
+      "author": "shaik mastan",
+      "rating": 4,
+      "relative_date": "2 weeks ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxMmJYQjRXRUZ0YlZwQ0xUWjBkUzEwUmxwUmRYYxAB",
+      "author": "Shaik Subhani",
+      "rating": 5,
+      "relative_date": "2 weeks ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxS2NXNUpaMlJRTTBwMk5tNW9ZaTEzZFdoS2VsRRAB",
+      "author": "Saicharan chalavadi",
+      "rating": 5,
+      "relative_date": "2 weeks ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCdE1sTnZaalpEVFVSaFp6TmlReTFrWVdaV05sRRAB",
+      "author": "suresh alwayssmile",
+      "rating": 5,
+      "relative_date": "2 weeks ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WMVgyVkljVmhPWm1ad1oyeEdkRUp0VUZGSmMxRRAB",
+      "author": "K Vamsi",
+      "rating": 5,
+      "relative_date": "2 weeks ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psc2IxaDJUa2RSYmsxZmRIcGhjMmd0WkY5YU5GRRAB",
+      "author": "Movva Sai pravallika",
+      "rating": 5,
+      "relative_date": "2 weeks ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ST1JqTTJhMEprZFRObFRqUlRRelEzYlhGUU5sRRAB",
+      "author": "Kumar Marri",
+      "rating": 5,
+      "relative_date": "2 weeks ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkQ2FqZDVPWEZDVEZnMk0yTkpRbWhVVlVWUU9GRRAB",
+      "author": "RAMA KRISHNA VELPURI",
+      "rating": 5,
+      "relative_date": "2 weeks ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wVVZqSXdOMGxLTm10UlJsTlFTbXBqT0Zab1FYYxAB",
+      "author": "Rasool Shaik",
+      "rating": 5,
+      "relative_date": "2 weeks ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aQk1XcENXVnB3TldsMGFqSnRlazVITmtGVVgwRRAB",
+      "author": "Shaik Abdul rasheed",
+      "rating": 5,
+      "relative_date": "2 weeks ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0T00wcHNhMXBuUjE4MFNHaENibk5vWkc5bFRGRRAB",
+      "author": "Mahesh Mallisetti",
+      "rating": 5,
+      "relative_date": "3 weeks ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WTlVIcEROakp2WjBKUlRGSlRabk5xTXpOalZVRRAB",
+      "author": "meditha Premaya",
+      "rating": 5,
+      "relative_date": "3 weeks ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wclUwazFabWRuWDNOc04zTXlMUzB0WWsxUGIwRRAB",
+      "author": "Nageswararao Nageswararao",
+      "rating": 5,
+      "relative_date": "3 weeks ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Wb1RDMU1kVTVVUmpneVJUSmxObkoyUWxGSlQwRRAB",
+      "author": "Jonnalagadda George",
+      "rating": 5,
+      "relative_date": "4 weeks ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGaWFTMXRVRWh1VkVwc2NtNWxkRVpvYm1Ka2RYYxAB",
+      "author": "Balaiah Thoka",
+      "rating": 5,
+      "relative_date": "4 weeks ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twUVJrdHFaWGxIVVRsblZsZDJjamhDV0RWaVJXYxAB",
+      "author": "ANKALU",
+      "rating": 5,
+      "relative_date": "4 weeks ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wYVJXaFVaQzB4VkhwcldqVmpjamx1YVZGQmMwRRAB",
+      "author": "Prem Damai",
+      "rating": 5,
+      "relative_date": "4 weeks ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkVFltMXhaa1JmVGtWb2FFdzJabkEzUlVKbmVGRRAB",
+      "author": "Lakshmi Lakshmi",
+      "rating": 5,
+      "relative_date": "4 weeks ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pRNWVuaG5NRmxHZFhGVU5tMTZURWt6VkdnME9XYxAB",
+      "author": "Basheed Shaik",
+      "rating": 5,
+      "relative_date": "4 weeks ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25nNFpuVjVjMnRUWTI5MGNFMVhTRlp0TVVKTlJHYxAB",
+      "author": "Shaik Hafeej",
+      "rating": 5,
+      "relative_date": "4 weeks ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxRlozbGxRV281U2sxVlFrNVphRTQ1YkdoUFYzYxAB",
+      "author": "Loverboy Sharif",
+      "rating": 5,
+      "relative_date": "4 weeks ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tONU5taHJMVXRpYWxkMWRXRjFXR2xCTFhGZlRrRRAB",
+      "author": "Sk Muneer",
+      "rating": 5,
+      "relative_date": "4 weeks ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toQlRXcDZSak5yV213eU4waHVkalp1U2pGbloyYxAB",
+      "author": "Pathan Nabhi rasool",
+      "rating": 5,
+      "relative_date": "4 weeks ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taV00yWlhVbHBDV1ZseU4wZDFURWcwUlcxRmNIYxAB",
+      "author": "Pallapu Ramu",
+      "rating": 5,
+      "relative_date": "4 weeks ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xFME1GUlBaVXQ2VTBwWFUxOVNkRFJvU1U0ME5HYxAB",
+      "author": "Sai Ram",
+      "rating": 5,
+      "relative_date": "4 weeks ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwaWRrSTVVRVpHZEZabmFuSkhRVW94T0daaWRtYxAB",
+      "author": "Pothuraju Srinivas",
+      "rating": 5,
+      "relative_date": "4 weeks ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4aVlsbE9TbVJWUkVkVmJVaEdhbE5yVlRaVmRrRRAB",
+      "author": "Faizan Khan",
+      "rating": 5,
+      "relative_date": "4 weeks ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSSlVrVXliVTF6VDBaVWNYVk1RakZGUVZadGNtYxAB",
+      "author": "Kethanaboina Venkateswarlu",
+      "rating": 5,
+      "relative_date": "4 weeks ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ka1prMXJVbTlyZHpaTmVteHFWMmhaWkVzNWEwRRAB",
+      "author": "J Purna chandar rao",
+      "rating": 5,
+      "relative_date": "4 weeks ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oaGQwOVZOMkZJUzNaYVYwdFZhbWczU1cwMlUzYxAB",
+      "author": "Pidathala Avinash",
+      "rating": 5,
+      "relative_date": "4 weeks ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkMWVGZHZSaTB3V0VGc2MybHlhSEJNTUZCdk9GRRAB",
+      "author": "MANIKANTA AINAVOLU",
+      "rating": 5,
+      "relative_date": "4 weeks ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25vemRWOUtSbVJNZFhWb01HcFlWemh2ZVVaZlExRRAB",
+      "author": "Srinivas Srinivas",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGemVsUTNRalZUTm5sTVdrWnJRazlTZFdaNmNsRRAB",
+      "author": "Subbarao Chittimuri",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25seWRIQlVWRFJ1WlZkc1oxcHNSRGhETWxjMWJsRRAB",
+      "author": "Ravikiran4959",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21NeE9VNU5hMGh3VEVWd016ZElVazVVV2xaNmVuYxAB",
+      "author": "Murali",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wUmJsWXhWM0ptUzAxSGVFaDBSWFZMVVZrMFZtYxAB",
+      "author": "srilekha bandaru",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT204d1FUaFBWMlZtTkRSSVNUVjBUV2R5YWtwaVNrRRAB",
+      "author": "gopal krishna",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xVdFgwWk9MVkUzVG1OUWVFZDVTSE5aUkRCeFdFRRAB",
+      "author": "Peda Srinivasa reddy Kunchala",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxT2JsSXlVRlJ5V25wMGIzZFZSRUZtWWtWSFNGRRAB",
+      "author": "sayyed esub",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sdGNFeFJaRWxRUmxCTE5VTm9RMmN3TVhabVZHYxAB",
+      "author": "Ch Ravi kiran 123.",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaemNsaDBMVkl0TTFkUFpXUkdObTFEZWtsVWEzYxAB",
+      "author": "Jaydeep Singh",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xZlVVZGZUbXMwTFVzd2NIRTBOMUp6TFRaa1RWRRAB",
+      "author": "JayaSri M",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GbVZYWmxhbVJuZW5wSGRHcGhZbGhCUVZOU1RHYxAB",
+      "author": "chandrika chunduru",
+      "rating": 5,
+      "relative_date": "3 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWV2FWWjNZa3hIYm5kYVYwZ3hjbkZEVVhGTVUzYxAB",
+      "author": "Krishna Pothuraju",
+      "rating": 5,
+      "relative_date": "4 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21jMFZIbDRTVlpJV2tWRllsUmFVa1l6VUhKUk9YYxAB",
+      "author": "Basha Sk",
+      "rating": 5,
+      "relative_date": "4 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSRFlrUk1NRXBWU0VwaExVVjRVVTFxYjBkU1pGRRAB",
+      "author": "Lakshmi Yegireddi",
+      "rating": 5,
+      "relative_date": "4 months ago",
+      "text": "",
+      "has_owner_reply": false
+    }
+  ],
+  "reviews_error": "",
+  "sorted_newest": true,
+  "stopped_at_known_review": false,
+  "reviews_captured": 63,
+  "owner_replies": 0,
+  "reviews_coverage": 1.0,
+  "date_anchor": "2026-08-20T23:53:42",
+  "extract_seconds": 61.1,
+  "missing_fields": [
+    "website"
+  ],
+  "page_rendered": true,
+  "error": ""
+}

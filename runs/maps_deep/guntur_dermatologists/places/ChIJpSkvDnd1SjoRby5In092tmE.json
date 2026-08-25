@@ -1,0 +1,1504 @@
+{
+  "place_url": "https://www.google.com/maps/place/Dr+Ragini%27s+Skin+%26+Hair+Clinic+%2F+Best+dermatologist+%28skin+doctor%29+in+Guntur/data=!4m7!3m6!1s0x3a4a75770e2f29a5:0x61b6764f9f482e6f!8m2!3d16.3069195!4d80.4201603!16s%2Fg%2F11vklxz8cw!19sChIJpSkvDnd1SjoRby5In092tmE?authuser=0&hl=en&rclk=1",
+  "captured_at": "2026-08-20T18:08:42",
+  "feature_id": "0x3a4a75770e2f29a5:0x61b6764f9f482e6f",
+  "place_id": "ChIJpSkvDnd1SjoRby5In092tmE",
+  "kg_mid": "/g/11vklxz8cw",
+  "lat": 16.3069195,
+  "lng": 80.4201603,
+  "name_raw": "Dr Ragini's Skin & Hair Clinic / Best dermatologist (skin doctor) in Guntur",
+  "name_clean": "Dr Ragini's Skin & Hair Clinic",
+  "name_key": "drraginisskinhairclinic",
+  "name_dropped": [
+    "Best dermatologist (skin doctor) in Guntur"
+  ],
+  "name_was_cleaned": true,
+  "category": "Dermatologist",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "Kanchan towers, D no 2-212, Pattabhipuram Rd, opposite Raghuram children's hospital, Rajarajeswaripuram, Pattabhipuram, Guntur, Andhra Pradesh 522006",
+  "plus_code": "8C4C+Q3 Guntur, Andhra Pradesh",
+  "phone": "074162 14545",
+  "website": "https://drraginipuvvala.getmy.clinic/?utm_source=gmb&utm_medium=web&utm_campaign=tu",
+  "website_domain": "drraginipuvvala.getmy.clinic",
+  "website_type": "google_business_site",
+  "has_own_website": true,
+  "insecure_http": false,
+  "website_matches_name": false,
+  "rating": 4.9,
+  "reviews_total": 151,
+  "rating_histogram": {
+    "5": 145,
+    "4": 4,
+    "3": 0,
+    "2": 0,
+    "1": 2
+  },
+  "histogram_sum": 151,
+  "histogram_reconciles": true,
+  "topics": {
+    "skin treatment": 25,
+    "hair fall treatment": 3,
+    "clear treatment plan": 3,
+    "accurate diagnosis": 6,
+    "friendly doctor": 20,
+    "affordable treatment": 4,
+    "latest equipment": 3,
+    "painless treatment": 2,
+    "welcoming staff": 7,
+    "proper treatment": 4
+  },
+  "google_profile_gaps": null,
+  "has_photos": true,
+  "hours": {
+    "Thursday": "10 am to 1 pm, 6 to 8 pm",
+    "Friday": "10 am to 2 pm, 6 to 8 pm",
+    "Saturday": "10 am to 2 pm, 6 to 8 pm",
+    "Sunday": "11 am to 1 pm",
+    "Monday": "10 am to 2 pm, 6 to 8 pm",
+    "Tuesday": "10 am to 2 pm, 6 to 8 pm",
+    "Wednesday": "10 am to 2 pm, 6 to 8 pm"
+  },
+  "about": {
+    "Accessibility": [
+      " Wheelchair-accessible entrance",
+      " Wheelchair-accessible seating",
+      " Wheelchair-accessible toilet"
+    ],
+    "From the business": [
+      " Identifies as women-owned"
+    ],
+    "Service options": [
+      " On-site services"
+    ],
+    "Amenities": [
+      " Gender-neutral toilets",
+      " Restroom"
+    ],
+    "Crowd": [
+      " LGBTQ+ friendly"
+    ],
+    "Planning": [
+      " Appointment required",
+      " Appointments recommended"
+    ],
+    "Payments": [
+      " Credit cards",
+      " Debit cards",
+      " Google Pay",
+      " NFC mobile payments"
+    ],
+    "Children": [
+      " Nursing room"
+    ],
+    "Parking": [
+      " Free parking lot",
+      " On-site parking",
+      " Paid parking garage"
+    ],
+    "Map details": [
+      "Transit",
+      "Traffic",
+      "Biking",
+      "Terrain",
+      "Street View",
+      "Wildfires",
+      "Air Quality"
+    ],
+    "Map tools": [
+      "Travel time",
+      "Measure"
+    ],
+    "Map type": [
+      "Default",
+      "Satellite",
+      " Globe view ",
+      " Labels"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1cGNVOUdWakJmTW1KcmFIZ3haVmh0Vm5SNFltYxAB",
+      "author": "Venna Bujji",
+      "rating": 5,
+      "relative_date": "5 days ago",
+      "text": "Madam   superb",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCcExXVm5RbFkwVTFod2J6aHVWVFJ1ZG14MU9GRRAB",
+      "author": "Syed Ali",
+      "rating": 5,
+      "relative_date": "3 weeks ago",
+      "text": "Best Treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Wb1ZGUlZlV052TWpCeE4wRjJjMUZEYURWWlZrRRAB",
+      "author": "Anusha",
+      "rating": 5,
+      "relative_date": "2 months ago",
+      "text": "Very good treatment.. Friendly doctor..Had best experience here..",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KNmVWbElialp5TlZaNGNtdG5hM0puWkRSd1ZXYxAB",
+      "author": "venkata sai",
+      "rating": 1,
+      "relative_date": "2 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twVExVOWhWV1F0TUVaaFpqbEVVekZZYkZoQlZIYxAB",
+      "author": "Emmanuel polumuri",
+      "rating": 5,
+      "relative_date": "3 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYNXA2NFZnEAE",
+      "author": "Veena Emmanuel",
+      "rating": 5,
+      "relative_date": "Edited 3 months ago",
+      "text": "I had severe skin damage caused by using fake skincare products, and I suffered from it for nearly 4 years. Over time, I almost lost all hope. I visited many skin clinics in Guntur, but I never felt confident about any of them. No doctor was able to give me proper treatment, and most clinics quoted very high prices per session, which are not affordable for middle-class people. Despite trying almost every clinic, I never felt comfortable anywhere.\n\nFinally, I visited Dr. Ragini Skin Clinic. From the very first consultation, madam identified that my skin damage was caused by fake products. She gave me confidence and assured me that my condition would improve. Honestly, I felt relieved just by talking to her, and I decided to start treatment.\n\nWithin just one month, the rashes reduced significantly, and I started getting my healthy skin back. The treatment was also affordable. Not only the doctor, but even the staff are very friendly. It doesn’t feel like a hospital at all—it feels more like a comfortable, welcoming place.\n\nI have already recommended this clinic to my family and friends.\n\nSo, without any doubt or hesitation, if you have any skin or hair issues, you can directly visit this clinic—you will definitely see results. I am living proof.\n\nI am still continuing other treatments here, and I am very happy and satisfied...\n\nThank you, Dr. Ragini madam, for the genuine treatment.❤️🥰😍🤗",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twalFtbGxORVJ4VVhCSVRUSjZWbWxSY2xwQk5uYxAB",
+      "author": "Poornima Ramaraju",
+      "rating": 5,
+      "relative_date": "3 months ago",
+      "text": "I took treatment for hair fall and pimples here, and the results were really good. The doctor Ragini mam explained the reasons clearly, gave effective treatment, and was patient throughout the process. My hair fall reduced a lot, and my skin also improved. Simple and effective treatment. Highly recommended.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wc2FXWnZabXhKUWxZNVkyeFJVM3BaVmxjelMwRRAB",
+      "author": "Don Merrit",
+      "rating": 5,
+      "relative_date": "4 months ago",
+      "text": "Best skin and hair specialist ever interacted with. Very supportive, knowledged, experienced and effective Doctor.\nHad a very effective treatment for my child.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGc2FqbEVObGx3ZEVZeE5sTkZkSFp0VlZaQk0zYxAB",
+      "author": "Nallamothu veera Lakshmi Manikanta",
+      "rating": 5,
+      "relative_date": "5 months ago",
+      "text": "Dr.Ragini Super doctor 🥰❤️‍🔥🫡😍🥳🤩 …",
+      "maybe_truncated": true,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25BdFlVZERkV3hzUzJoR01GQklkV1ExVVhKNU9VRRAB",
+      "author": "Sravya Kanakan",
+      "rating": 5,
+      "relative_date": "5 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSZmNYUTBNbmhmTUdZMWVrVlVXa0ZDWjJSVGRVRRAB",
+      "author": "Hrushikesh Thota",
+      "rating": 5,
+      "relative_date": "5 months ago",
+      "text": "Excellent treatment and friendly staff….☺️",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaVFkzbzFPRUZGU20xdVNVRTNjMmx1YW1SNlkxRRAB",
+      "author": "Kasina Sravani",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "Best skin specialist (Dermatologist) in guntur (Dr. Ragini skin and hair clinic).Dr.Ragini madam provide excellent care and very satisfied treatment for any skin concerns.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aalgyYzNhbDl6YTNKdVJtazRUM1V3Um5GeFkzYxAB",
+      "author": "Rama Anjeneyulu",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WUUxVeHNSVUZPWkdWWGFtOXpZM0ZmUVhoMlozYxAB",
+      "author": "Dileep Gummadi",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "Best clinic for Acne",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tFMlptWTRaVFJtVjAxSGIyMXFUQzFxV2pNeVJGRRAB",
+      "author": "AMAR NADH _KATTULA",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xSmNrRkRXWHBYTlZOWFdFMU1ZVUZpZDFBMVkwRRAB",
+      "author": "vishnu karthik yaganti",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "Very effective treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKMlZUVXpOM1JCZFZKaGNrcEZWR05NUzNkbE0wRRAB",
+      "author": "Priya Chidella",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "BEST SKIN CLINIC. I was victim of fake skin and hair clinic in guntur where they promised me cure for pigmentation on skin and they advised me hydra facials and c02 therapy along with two creams which they said to use daily this whole process was for about 3 months, slowly i started observing rash on my skins which looked like group of pimples they kept on avoiding whenever I questioned saying that I changed my diet and it was my fault.\nActually I never had that kind of pimples in my life.\nAfter this whole trauma of stupid fake therapies i visited ragini skin and hair clinic. Mam identified my skin issue and said it was steroids( in that fake clinic they gave me topical steroids)induced rash. Dr. Ragini gave me proper treatment and medication she gave me assurance that my rash suppreses, as said with in 2 months i got my healthy skin back. Sooo avoid going to stupid fake clinics where they charge some 50 k for unnecessary things.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KdGRsWlFhRzFLVjFCcWJtbzFNRkpJZUZaMGNVRRAB",
+      "author": "Souji Naidu",
+      "rating": 5,
+      "relative_date": "Edited 7 months ago",
+      "text": "The doctor was knowledgeble experience and provide a clear diagnosis or treatment plan.very great treatment.the recommend medicine were awesome.i got cured with in a week.i highly recommend this doctor if you have any skin or hair related issues.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tObk1uQXRTeTAyYW1KRkxURnZVbWQ0Y2xkTGQxRRAB",
+      "author": "Chinta prasad",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xscVRUZDVjMEZ5Vm0xMVJuUnFhR0p4Y1RaMFlsRRAB",
+      "author": "Lavanya Chandu",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "Nice treatment and nice hospitality…",
+      "maybe_truncated": true,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsV2VuSkVhMEZwU2tKR2NVRk1ZbGx2YkVWWFJsRRAB",
+      "author": "Siva Mogali MSD",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "“My hair fall has stopped, and I am seeing good results.”",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoaFNtWTNVMmRFTjJ4d2RraEdNMGRGWTNJd1oyYxAB",
+      "author": "CHANDRIKA",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "Super treatment any skin problem are skin care visit them really you will get result 100%.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsWWJTMXVZelV3YVVVdFVYQlpNbmhLVm1aM2JFRRAB",
+      "author": "SIREESHA SAIBHASKKAR",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "Very wonderful treatment.The recommended medicines were awesome 👍 …",
+      "maybe_truncated": true,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Sa1NHSkpiMVJoUkVsWWRqTnZSVTlIZEVScE0zYxAB",
+      "author": "Ajay Bhaskar Sanganaboina",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "Very great treatment. The recommended medicines were awesome. I got cured within a week. I highly recommend this doctor if you have any skin or hair related issues.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkWFNsZHpTME5mUm1oWVJtVlVSRk5JWjBOU01IYxAB",
+      "author": "manasa Sikha8",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "Highly skilled and knowledgeable Dermatologist -Dr Ragini(Dr Ragini's Skin & Hair Clinic). Provided excellent care and treatment for my skin concerns.Professional, friendly and effective Doctor. I strongly recommend for any skin related issues.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KUmVtbHhhWGRuWTI5TVNucHNMVmRzVTJ4MWIxRRAB",
+      "author": "Prudhvi. Raj Puli. Nayudu. Garu",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "Very satisfied hair treatment thanks medam",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t3NFgwZEpYMFZ3TFRkSlkzQjJiWFJJUVdGUkxYYxAB",
+      "author": "sk allavuddin",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "It's very good treatment...my skin problem total complete...good doctor and good staff",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wcVYxVXdNQzFuUkdSdGRrZDZhMjB0U0hwNWExRRAB",
+      "author": "md Ali",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Very good doctor",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCWFYxa3pZMFpoTmxwV1FqVTNVV2hMVmxSM1lWRRAB",
+      "author": "CHINNAM PRASANNA BABU",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaU1ZuVnBkMGRzYTNWZmRqQkNWRTlDU0VSTU5uYxAB",
+      "author": "Shaik Zameel",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Good treatment from this doctor",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oUGQxSnRlSEJuVjJKRFoxbHdlREJEWjE5YVMxRRAB",
+      "author": "kishore darling",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Good clinic good staff and receive",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxUk9VbFJXa2hEWkU5R1lUaG1hMVJSU2xKS1luYxAB",
+      "author": "Ambati Aditya Akash Reddy",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Good",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kMll6UnFhelpWYmxJek1HaG1SMHBSUkVwbmFFRRAB",
+      "author": "Md Khifayatullah",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Nice click\nFaculty approach is nice\nTreatment is very best",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WVlkxQkpVa0ZuTVZoZlJHZHBZbGR2WjNJeFltYxAB",
+      "author": "Venkey Pvr",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5cFRVOHRkMk53ZW14ME5HdElXbGMzWm5kZmIwRRAB",
+      "author": "Afzal Razaak",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Best Service from Doctor",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oMGQwdFRNbkYwWjNaR1FsZFVhVXhpUTJoNE4yYxAB",
+      "author": "Unnam Venu",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214UFdrdEtlamxhU0ZoWFIwcENSVzk1ZFU5eE1GRRAB",
+      "author": "sai ram",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "It's very good treatment and good medicines.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kc1VHTnFUV2h4YVRSR05XRkpUbmgzYzFoM1FVRRAB",
+      "author": "Bhagya Nukathoti",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kaFV6ZzNNbEJuV0hseUxYQkdSVk5QYkRVdFdtYxAB",
+      "author": "Deepthi Naradasu",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4UU1VNURNWE5zZFhRMVlVbElWRkpVYWpkSU4yYxAB",
+      "author": "Adhilaksmi Bobburi",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VQU091UEtudWE2ZUxREAE",
+      "author": "Digital subhani",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I went ragini mam clinic for wart removal it tooks less than 10 minutes and myself and my family were happy for mams treatment in clinic ,my 10 years wart problem was solved was just in 10 mins thank u ragini mam u did a great work and tqs from palnadu",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VOcVl4SWFJbVo3cnJnRRAB",
+      "author": "Sarvani Chowdary",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "So good I highly recommend guys",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvOHZXT2JnEAE",
+      "author": "Sarada Kumbha",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Tried many dermatologist. But achieved good results only from dr.Ragini garu. Recommended clinic",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3cXJPN1Z3EAE",
+      "author": "bhargavi Srinivas",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I went to Dr. Ragini Puvvala to get a mole removed on my face, and I’m very happy with the results. The procedure was quick, easy, and didn’t hurt. The doctor took time to explain everything clearly, which made me feel comfortable. She also gave clear instructions for after care and follow up. I highly recommend Dr. Ragini.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3LThQZi1RRRAB",
+      "author": "Ms vishnu 5599",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "The treatment is very good\nDoctor ragini mam is talking very well treated in the good manner and staff is also very polite manner..over all the hospital ambiance and the doctor mam is very well the disease is curable..",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3LTRIcWJREAE",
+      "author": "Melam Vasanthi",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Very good treatment...good doctor and good staff",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3LTg2RzdRRRAB",
+      "author": "Karthikeyan Tirupathi",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "The treatment is really good and sisters are taking good care of us it is really nice place and good care for health",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNncEtmbTVRRRAB",
+      "author": "usha deepika chandolu",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Dr.Ragini explains our problem in understanding way gives most affordable treatment must visit skin specialist in the area",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNBdnNMSG9BRRAB",
+      "author": "Yaragarla Naveen",
+      "rating": 4,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURfcWRqMkpnEAE",
+      "author": "N. Praneeth",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Nice!",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURfcWRpd1p3EAE",
+      "author": "Sankepalli Peddireddy",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURfak1fV25BRRAB",
+      "author": "Sudha Rani",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Good treatment\nThank you dr . Ragini garu",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNfbi1qcVNBEAE",
+      "author": "Bhavana Pulipaka",
+      "rating": 4,
+      "relative_date": "a year ago",
+      "text": "Good treatment it helps reduce dandruff nd acne",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNfcWM3WlJREAE",
+      "author": "sk shabbeer",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Very good doctor explained everything clearly treated well.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNfeWYzR2VnEAE",
+      "author": "Aamathi Sindhura",
+      "rating": 1,
+      "relative_date": "a year ago",
+      "text": "Medicines are too costly if we want buy that medicine outside we won’t get that medicine.receptionist and assistant are too arrogant than doctor",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURmXzc2QnhBRRAB",
+      "author": "Dhana lakshmi Konda",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "very good treatment...good doctor...good staff",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURmXzU3YUp3EAE",
+      "author": "Cheruku Giridhar_10",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Good treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURmOUxDdFp3EAE",
+      "author": "Tirunagari Sudharani",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Good treatment\nDrandurf problem\nCure with in one month\nTQ dr ragini garu",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmcWF2MFhBEAE",
+      "author": "TULASI REDDY",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Heiiiii,, I'm very satisfied with Dr. Ragini's treatment. The way she treated me and explained clearly about my problem. The staff and service were also good. I highly recommend Dr.Ragini, Thank you 😊. …",
+      "maybe_truncated": true,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmaHUtUDlBRRAB",
+      "author": "Udaya Sree",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Visited for skin and hair related issues, have seen good results. I truly recommend.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2aWI2dkd3EAE",
+      "author": "Sravya Mandava",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Offers good and apt treatment for skin and hair issues.Avoids unnecessary medications.Im very much satisfied with treatment and medication.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURQeWZIVEZBEAE",
+      "author": "Hemalatha Kurra",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Nice",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURQX083VVh3EAE",
+      "author": "Pooja Vipparla",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNQeXRIcVZnEAE",
+      "author": "Sunnamsobharani S",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzOXRIZmRBEAE",
+      "author": "Mounika Damalcheruvu",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Wart removal done for my mother who is a diabetic patient. Excellent care by doctor and staff and the treatment is painless and affordable",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYX1ltc3VRRRAB",
+      "author": "Pravallika Manda",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Good consultant seeing very good for hair and skin",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYX1ltVVZ3EAE",
+      "author": "Nikitha Meda",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Good physician. Listen everything with patience and given treatment appropriately. And the clinic staff were also good in receiving patients.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYbmNLVzR3RRAB",
+      "author": "Anjum creations",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I had a good experience at Dr. Ragini's skin &Hair clinic ,  for my skin treatment. And staff also friendly and professional.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYbmJqam9BRRAB",
+      "author": "Subhashini Kotha",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Great experience with experienced doctor. Very sugestional for skin and hair consultation",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYOGVIZ3d3RRAB",
+      "author": "Varshini",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Dr.ragini  was very patient and listened carefully to my concerns.\"",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYOGVyZHlBRRAB",
+      "author": "Aswani Aswani",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Very good treatment...good  doctor.....and good staff",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYOGVxR01BEAE",
+      "author": "Grandhi LakshmiDurga",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Excellent Treatment👏🏻👏🏻👏🏻, Pleasant Receving😌😌,wonderful staff 👏🏻👏🏻👏🏻, Wonderful✨😍 full Dr. Ragini Garu😌😌\nThanks you🙏 …",
+      "maybe_truncated": true,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYOGZMWnNnRRAB",
+      "author": "Priyanka Thammineni",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Good treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYLW9LMXZ3RRAB",
+      "author": "Gopi Krishna Gandikota",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Good treatment 👍👍 …",
+      "maybe_truncated": true,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYLXZ5eDdRRRAB",
+      "author": "Mitta LakshmiNarayana",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Good treatment 👍👍 …",
+      "maybe_truncated": true,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYMzd6aGZ3EAE",
+      "author": "D. SREE HARI RAO",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Nice treatment with minimal cost, Hospitality is Good",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYNzczeXJRRRAB",
+      "author": "Monika Janardhanan",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Verry good treatment...good doctor and good staff",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYNTUta2Z3EAE",
+      "author": "PadmaLatha Dasari",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Good treatment by docter garu",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYMC1UazdBRRAB",
+      "author": "Dileep kumar naidu",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I got good results and I have visited Ragini mam since 2 years . They treating me with care . Thank you for good results.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYblp6SUtnEAE",
+      "author": "Nagul Saida Shaik",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I have been here multiple times for my children skin issues. I received solution all the time in my first visit. Thanks..",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYbmRpSTNBRRAB",
+      "author": "khadar basha",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Good treatment\nSatisfied treatment with in a short span of time",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYaGRMWXRRRRAB",
+      "author": "suresh reddy",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Good treatment and good service… with lot of options available for skin and hair treatment with advanced technology….",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYbWJMT3pRRRAB",
+      "author": "YAMINI PUSULURI",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Tqu madam\nAmazing treatment 🥰 …",
+      "maybe_truncated": true,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYNGNuNzdBRRAB",
+      "author": "Bhuvana Chouhan",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Very good staff and Dr Ragini mam treats very kind treatment I suggest best to visit once Dr Ragini,s skin&Hair clinic",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYMm9yNmNBEAE",
+      "author": "Nirmala",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Very nice and good",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYMnF5Wk1REAE",
+      "author": "nageswari ravipati",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Good treatment ...good doctor",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNscWZhVE5REAE",
+      "author": "pallepogu anusha",
+      "rating": 5,
+      "relative_date": "Edited a year ago",
+      "text": "Doctor treatment good",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYd3B2TkR3EAE",
+      "author": "Usha Reddy",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURub3MyYTlRRRAB",
+      "author": "Rama devi Suryadevara",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "friendly nature and listening the problem patiently",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNuajRmYWlBRRAB",
+      "author": "Ag arun",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I am suffering from acne and my friend suggested me about the Ragini skin clinic\nAnd I approached the doctor.Treatment is good and staff are very friendly",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNuajV1NFhnEAE",
+      "author": "Sreenivas Ballavolu",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Excellent treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNuajdQMmxnRRAB",
+      "author": "Manoj Yadav",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNuazhLTnRnRRAB",
+      "author": "Shannu",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Very very satisfied response for my skin problem with in a short span of time..\nI highly recommend Dr. Ragini to anyone looking for a skilled, caring dermatologist. You won't be disappointed!\nThe clinic is clean, well-organized, and the staff is always welcoming and efficient.\"\nThank you madam 🙂",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNuNDhfeXpRRRAB",
+      "author": "Chintarala Janu",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Dr..Ragini garu\nThank you\nAmazing treatment for hair fall\nMy. Hair has. Improved just a few months.\nAnd clinic is very good\nMedam to anyone looking for a skilled caring and good dermatologist\nFor hair problem",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNuNDVIUlBBEAE",
+      "author": "RATNA PARIMALA BACHALAPUDI",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNuNDdycFpREAE",
+      "author": "Nageswara rao Ragula",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNuNDdyb2J3EAE",
+      "author": "Gaddam Srinivas",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Super treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNuNDZxZFV3EAE",
+      "author": "GADDAM RADHA",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Good treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNucmZTdWNnEAE",
+      "author": "Premchand prem",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Good treatment 👍 …",
+      "maybe_truncated": true,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNuX3EyRVNnEAE",
+      "author": "Riyaz Raheem",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNud282NENnEAE",
+      "author": "Krishna chaitanya",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Very decent place....freely we can talk with doctor..staff also very humble.... worth clinic in guntur",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURIazRxYzFRRRAB",
+      "author": "Vasa Nani",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURIazhqWGtRRRAB",
+      "author": "kalyan reddy",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURIdnJPRXhBRRAB",
+      "author": "B Rajesh",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Really the hospital is so good and peace and maintenance and staff all are good and i can give 5point rating",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURIM3IzTmNREAE",
+      "author": "Guttula Santhisoumya",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNIMHFPU09REAE",
+      "author": "CHAITU 09",
+      "rating": 4,
+      "relative_date": "a year ago",
+      "text": "Good",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM3MHN2WUd3EAE",
+      "author": "sujitha nune",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Very nice and friendly doctor",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURicEp5OURBEAE",
+      "author": "pavan kumar valluru",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Very genuine doctor. She understands  and explains her patients very well. Highly recommend.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURiME91VnpnRRAB",
+      "author": "paragati swetha",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Very very satisfied response for my skin problem with in a short span of time..\nDr.Ragini madam is very very friendly and expertise in treating....\nAm very grateful... thank you so much Dr.Ragini mam...",
+      "maybe_truncated": true,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChRDSUhNMG9nS0VJQ0FnSURyekt4bBAB",
+      "author": "Alivelu Nimmala",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURyaU1UYmNREAE",
+      "author": "Nandhu Love",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURyOEplQTdRRRAB",
+      "author": "sandhya 123",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNybjYzOXpnRRAB",
+      "author": "Sunil Babu",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNydTREVXB3RRAB",
+      "author": "A Google User",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNya1pTVFRREAE",
+      "author": "Rock Ravi",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Nice hospital , doctor ragini madam treats my skin problem , overall hospital is very good , I'll give 5 star rating because of doctor ragini mam",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNybE5hamtBRRAB",
+      "author": "Desi Bois",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "The best doctor in guntur for hair and skin",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNyNU16UldREAE",
+      "author": "anand Kumar animisetty",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Outstanding Skin Treatment!\n\nI had an amazing experience at Dr. Ragini's skin &Hair clinic ,  for my skin treatment. The staff was professional and friendly, and the facility was immaculate. My skin looks clearer and more radiant after just one session. I highly recommend Dr.Ragini mam  for their exceptional skin care services!",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN6cGZUUjJBRRAB",
+      "author": "anusha paruchuri",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I would highly recommend this hospital to friends and family.\" Dr. Ragini madam is the best dermatologist in Guntur…  she is very patient in listening to all of your concerns , be it small or big it’s a cozy family clinic with good sanitation and staff is very welcoming too. Happy to be their client .",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN6N0xLMVZREAE",
+      "author": "Sankara Rao Nambula",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Excellent person to talk to,clarifies all of your doubts",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN6d0l2cFVREAE",
+      "author": "Bellamkonda Sairam",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURUaF9TaXdRRRAB",
+      "author": "Nimmala Divya",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNEcTVEWUZREAE",
+      "author": "srinivasarao jorige",
+      "rating": 4,
+      "relative_date": "2 years ago",
+      "text": "Good treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNEc3NPT0lREAE",
+      "author": "muralidhar chillara",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Treatment was so good. Here i hv visible experience of hair improvement in quick time. More importantly it is less expensive.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNEc29YWFV3EAE",
+      "author": "Anusha Reddy",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNEa29DZWNBEAE",
+      "author": "Revanth Reddy",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Nice tretment good doctor and good staff",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ5aVpuWHZ3RRAB",
+      "author": "Keerthi Sidda",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Dr.Ragini is a patient friendly doctor, she explained everything in and out regarding laser hair removal. I am really happy with the results and recommend to visit Dr. Ragini for your skin and hair concerns.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ5eVBIN1NREAE",
+      "author": "ali zulfiquar Shaik",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Treating the customers with at most care and prompt response.Looks in to the root cause of the Problem and provides Best solution /medication .Dr.Ragini Garu has been very Kind has a Tremendous Subject Knowledge.The Staff is very Friendly and skilled.Continue to Inspire.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChRDSUhNMG9nS0VJQ0FnSUQ5OE5OMRAB",
+      "author": "RAVI BILLA",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Very good",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM5aS1pdWh3RRAB",
+      "author": "viswa yenikapati",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Dr Ragini madam is a very good dermatologist in guntur.She is very passionate about her work and makes prompt and accurate diagnosis which is very crucial in treating dermatological conditions.Cost of treatment is also reasonable.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM5anY3ZkFnEAE",
+      "author": "sridevi somepally",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Good",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM5eEkzX293RRAB",
+      "author": "Maddirala Sireesha",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN0cEtuNk93EAE",
+      "author": "Jeevita T",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I consulted Dr.Ragini madam for my hair and skin problem..she is highly knowledgeable and skilled dermatologist.after following her treatment for a month, my dark circles problem got reduced so much..hair loss also slowed down..\nMadam is very friendly and gives treatment at affordable price..\nHighly recommended doctor..",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUROcXJMVjNRRRAB",
+      "author": "Naga Naidu",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNOXzgteE5REAE",
+      "author": "Naga Gayathri",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMxNHFtR0lBEAE",
+      "author": "Mahendra Puvvala",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "My sister Dr. Ragini diagnosed & cured a callus/corn on my foot & near my ear-canal. I recommend her clinic for dermatological problems.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNWdnFTOE5REAE",
+      "author": "sandhya poornima",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "My experience with Dr Ragini has been very satisfying. Soft spoken and good at understanding our clinical problem. Highly recommended if you are looking for a good dermatologist.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURsOGJtR3FRRRAB",
+      "author": "Venu Ganipisetti",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Best dermatologist in the city. Very knowledgeable. Diagnosed problem and treated condition with great results. Highly recommended!",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURsZ0pYQ2pBRRAB",
+      "author": "Indu K",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNsczh5ZGdBRRAB",
+      "author": "mani kumar",
+      "rating": 5,
+      "relative_date": "Edited 2 years ago",
+      "text": "Excellent care and  experienced doctor at handling skin problems. They have all the necessary equipment to handle all skin and hair problems.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNsM3BPQzZBRRAB",
+      "author": "janakiram raju",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "She is very amicable. Diagnosied  problem correctly and gave good treatment. Thank you.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNsdHN2NGNREAE",
+      "author": "shaik share khan",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Exceptional Treatment for Fungal Infection by Dr. P. Ragini\n\nI recently had the opportunity to visit Dr. P. Ragini at her clinic for the treatment of a fungal infection that had been troubling me for quite some time. Let me start by saying that my experience with Dr. P\nRagini exceeded all my expectations, and I am extremely satisfied with the results achieved through her expertise and care.\n\nFrom the moment I entered her clinic, I was greeted warmly by the staff, who were courteous and professional. The waiting area was well-maintained, clean, and comfortable, creating a relaxing environment for patients.\n\nUpon meeting Dr. P. Ragini, I immediately felt at ease. His friendly demeanor, patience, and exceptional knowledge of dermatology instilled confidence in me, reassuring me that I was in capable hands. She took the time to listen to my concerns, thoroughly inspect the affected areas, and explain the underlying cause of the fungal infection.\n\nDr. P. Ragini recommended a personalized treatment plan tailored to my specific needs. She not only prescribed effective antifungal medications but also educated me on preventive measures, lifestyle changes, and proper hygiene practices to avoid future reoccurrences. She patiently answered all my questions and provided detailed instructions on how to use the medications correctly.\n\nDuring subsequent visits, Dr. P. Ragini  closely monitored the progress of my treatment, always making herself available for additional consultations, should I need them. She displayed a genuine concern for my well-being and was genuinely interested in listening to my feedback and adapting the treatment plan accordingly. This level of dedication and personalized care truly set her apart.\n\nI am thrilled to say that under Dr. P. Ragini's guidance, my fungal infection has significantly improved. The redness, itching, and discomfort have subsided, and I feel confident that I am on the path to a full recovery.\n\nFurthermore, the overall cleanliness of the clinic and the adherence to strict hygiene protocols impressed me greatly, especially considering the contagious nature of fungal infections. Dr. P. Ragini  and her team ensured the maintenance of a safe environment for all patients.\n\nIn conclusion, I can recommend Dr. P. Ragini for her excellent treatment not only for skin but also for any kind of hair treatments.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNsaHNlUjFBRRAB",
+      "author": "PRIYANKA MALLIDI",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNsaEpIOEh3EAE",
+      "author": "Satish Kumar",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I am at a loss for words to adequately describe the extraordinary attention that I received from Dr. Ragini. As soon as I came into the Clinic, her years of experience and genuine concern for her patient's health stood out to me like a beacon. Not only did she correctly diagnosed my skin problem, but the individualized treatment plan they developed for me worked exceptionally well. There is no question that the cutting-edge technology offered here establishes a brand-new standard for skincare. The technology utilized in the delivery of therapies is not only unique but also extremely efficient. The combination of Dr. Ragini's extensive experience and these cutting-edge instruments ensures that each visit will provide outstanding outcomes. After only a few sessions, I could already detect a significant difference in my skin's health and appearance. Thanks a lot for her best treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNscUpfczJnRRAB",
+      "author": "Sriram Pureti",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I visited Dr. Ragini for scalp treatment and dry skin, she is very patient and treated me and now I am recovering slowly.\n\nI would definitely recommend Dr. Ragini for skin and hair care solutions.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNscVBxNmxnRRAB",
+      "author": "sai lakshmi chandrika pamidi",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Very Good Doctor with patient friendly attitude.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNscUpET1NnEAE",
+      "author": "Vara Mahendhra",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Best treatment for  skin and hair care  at reasonable price , D r ragin",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNsaU5TcEtnEAE",
+      "author": "P Harivansh",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Dr.Ragini is a good Doctor.She understand our problem very carefully and gave us good treatment.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNsaU1UbC13RRAB",
+      "author": "Jagadesh Pureti",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Best treatment for skin & Hair care at reasonable cost.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNsOFB1Z0pnEAE",
+      "author": "phani kumar",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "The doctor is very good, understands the problem and gives the right treatment. I strongly recommend it.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNsOFAzUTFRRRAB",
+      "author": "RAMA RAO PAMIDI",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Good and appropriate treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURGaHV2T0lnEAE",
+      "author": "Vinod Puvvala",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Dr. Ragini is a very good doctor. She has a very good understanding and experience in skin and hair treatments . The clinic is equipped with latest equipment and facilities.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNGd1luem13RRAB",
+      "author": "varun puvvala",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "The doctor has a lot of patience,explains the problem clearly and suggests good medication.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    }
+  ],
+  "reviews_error": "",
+  "sorted_newest": true,
+  "stopped_at_known_review": false,
+  "reviews_captured": 152,
+  "owner_replies": 149,
+  "truncated_reviews": 10,
+  "reviews_coverage": 1.007,
+  "date_anchor": "2026-08-20T18:08:42",
+  "extract_seconds": 41.7,
+  "missing_fields": [],
+  "listing_position": 5,
+  "source_query": "dermatologists in Guntur",
+  "listing_name": "Dr Ragini's Skin & Hair Clinic / Best dermatologist (skin doctor) in Guntur"
+}

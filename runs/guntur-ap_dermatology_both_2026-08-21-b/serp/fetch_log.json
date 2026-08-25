@@ -1,0 +1,112 @@
+{
+  "1": {
+    "status": "parsed",
+    "detail": null,
+    "query": "dermatologist in Guntur",
+    "final_url": "",
+    "blocks": 11,
+    "screenshot": true,
+    "at": "2026-08-21T17:01:08",
+    "ai": null,
+    "more_places": 20
+  },
+  "2": {
+    "status": "parsed",
+    "detail": null,
+    "query": "skin doctor in Guntur",
+    "final_url": "",
+    "blocks": 11,
+    "screenshot": true,
+    "at": "2026-08-21T17:01:58",
+    "ai": null,
+    "more_places": 20
+  },
+  "3": {
+    "status": "parsed",
+    "detail": null,
+    "query": "skin specialist in Guntur",
+    "final_url": "",
+    "blocks": 11,
+    "screenshot": true,
+    "at": "2026-08-21T17:02:51",
+    "ai": null,
+    "more_places": 20
+  },
+  "4": {
+    "status": "parsed",
+    "detail": null,
+    "query": "acne treatment in Guntur",
+    "final_url": "",
+    "blocks": 12,
+    "screenshot": true,
+    "at": "2026-08-21T17:03:47",
+    "ai": null,
+    "more_places": 20
+  },
+  "5": {
+    "status": "parsed",
+    "detail": null,
+    "query": "hair fall treatment in Guntur",
+    "final_url": "",
+    "blocks": 11,
+    "screenshot": true,
+    "at": "2026-08-21T17:04:42",
+    "ai": null,
+    "more_places": 20
+  },
+  "6": {
+    "status": "parsed",
+    "detail": null,
+    "query": "dandruff treatment in Guntur",
+    "final_url": "",
+    "blocks": 11,
+    "screenshot": true,
+    "at": "2026-08-21T17:05:40",
+    "ai": null,
+    "more_places": 20
+  },
+  "7": {
+    "status": "parsed",
+    "detail": null,
+    "query": "psoriasis treatment in Guntur",
+    "final_url": "",
+    "blocks": 11,
+    "screenshot": true,
+    "at": "2026-08-21T17:06:34",
+    "ai": null,
+    "more_places": 20
+  },
+  "8": {
+    "status": "parsed",
+    "detail": null,
+    "query": "eczema treatment in Guntur",
+    "final_url": "",
+    "blocks": 9,
+    "screenshot": true,
+    "at": "2026-08-21T17:07:08",
+    "ai": "3088c/6rec",
+    "more_places": 21
+  },
+  "9": {
+    "status": "parsed",
+    "detail": null,
+    "query": "fungal infection treatment in Guntur",
+    "final_url": "",
+    "blocks": 10,
+    "screenshot": true,
+    "at": "2026-08-21T17:07:42",
+    "ai": "2911c/8rec",
+    "more_places": 20
+  },
+  "10": {
+    "status": "parsed",
+    "detail": null,
+    "query": "skin allergy treatment in Guntur",
+    "final_url": "",
+    "blocks": 11,
+    "screenshot": true,
+    "at": "2026-08-21T17:08:35",
+    "ai": null,
+    "more_places": 20
+  }
+}

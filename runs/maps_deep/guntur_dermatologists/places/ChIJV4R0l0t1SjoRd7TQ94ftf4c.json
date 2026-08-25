@@ -1,0 +1,1498 @@
+{
+  "place_url": "https://www.google.com/maps/place/Athota+Kavitha%28Dermatologist%29+%26+Mallik+G+%28Ortho%29+Hospital/data=!4m7!3m6!1s0x3a4a754b97748457:0x877fed87f7d0b477!8m2!3d16.2994291!4d80.4513212!16s%2Fg%2F11ggblv1tr!19sChIJV4R0l0t1SjoRd7TQ94ftf4c?authuser=0&hl=en&rclk=1",
+  "captured_at": "2026-08-20T18:34:23",
+  "feature_id": "0x3a4a754b97748457:0x877fed87f7d0b477",
+  "place_id": "ChIJV4R0l0t1SjoRd7TQ94ftf4c",
+  "kg_mid": "/g/11ggblv1tr",
+  "lat": 16.2994291,
+  "lng": 80.4513212,
+  "name_raw": "Athota Kavitha(Dermatologist) & Mallik G (Ortho) Hospital",
+  "name_clean": "Athota Kavitha & Mallik G Hospital",
+  "name_key": "athotakavithamallikghospital",
+  "name_dropped": [
+    "Dermatologist",
+    "Ortho"
+  ],
+  "name_was_cleaned": true,
+  "category": "Hospital",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "adjacent",
+  "basis": "category",
+  "address": "Kothapeta, Guntur, Andhra Pradesh 522001",
+  "plus_code": "7FX2+QG Guntur, Andhra Pradesh",
+  "phone": "0863 221 0555",
+  "website": "",
+  "website_domain": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "insecure_http": false,
+  "website_matches_name": null,
+  "rating": 2.8,
+  "reviews_total": 154,
+  "rating_histogram": {
+    "5": 45,
+    "4": 23,
+    "3": 12,
+    "2": 5,
+    "1": 69
+  },
+  "histogram_sum": 154,
+  "histogram_reconciles": true,
+  "topics": {
+    "rude receptionist": 5,
+    "soft spoken doctor": 2,
+    "skin care": 3,
+    "rude behavior": 8,
+    "token system": 4,
+    "digital payments": 2,
+    "laser": 3,
+    "treatment": 25,
+    "nuisance": 2,
+    "behaviour": 18
+  },
+  "google_profile_gaps": [
+    "Add website"
+  ],
+  "has_photos": true,
+  "hours": {
+    "Thursday": "10 am to 5 pm",
+    "Friday": "10 am to 5 pm",
+    "Saturday": "10 am to 5 pm",
+    "Sunday": "Closed",
+    "Monday": "10 am to 5 pm",
+    "Tuesday": "10 am to 5 pm",
+    "Wednesday": "10 am to 5 pm"
+  },
+  "about": {
+    "Accessibility": [
+      " Wheelchair-accessible car park",
+      " Wheelchair-accessible entrance"
+    ],
+    "Service options": [
+      " On-site services"
+    ],
+    "Map details": [
+      "Transit",
+      "Traffic",
+      "Biking",
+      "Terrain",
+      "Street View",
+      "Wildfires",
+      "Air Quality"
+    ],
+    "Map tools": [
+      "Travel time",
+      "Measure"
+    ],
+    "Map type": [
+      "Default",
+      "Satellite",
+      " Globe view ",
+      " Labels"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkWE9HdGtkbFJUYlZWQlNsWXdaakY0V2tGeFdGRRAB",
+      "author": "Bannu",
+      "rating": 5,
+      "relative_date": "a day ago",
+      "text": "Well experienced and she gives perfect medicine",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KcVRrTmlTVTUwWW5sT05tZEJObWhVZVhsQ1MwRRAB",
+      "author": "Phanikumar",
+      "rating": 1,
+      "relative_date": "4 weeks ago",
+      "text": "Doctor is ok and staff is not respect and talking nonsense",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OTWFGcG9NM3BTYjBFeWFqZFRRMVpxTkMwd1dGRRAB",
+      "author": "Shaik Farzana",
+      "rating": 1,
+      "relative_date": "a month ago",
+      "text": "I visited Dr. Sneha for treatment of melasma on my nose. During my first consultation, she recommended a chemical peel. However, even after several days, my skin did not start peeling, and there was no noticeable improvement.\n\nWhen I returned and informed her about the lack of results, she recommended a Cosmelan peel and assured me that it would provide 100% results. I underwent the treatment, but once again, I saw no improvement.\n\nOn my next visit, she prescribed a serum and told me that it would completely remove the pigmentation. She also assured me that if there was still no improvement, she would provide laser treatment and a peel free of charge.\n\nAfter about one and a half months, I visited the hospital again because there was still no change. This time, she wanted to repeat the Cosmelan treatment. I politely reminded her that she had previously mentioned laser treatment and requested that we proceed with that instead, as the previous Cosmelan treatment had not worked for me.\n\nInstead of discussing my concerns professionally, Dr. Sneha began raising her voice and accused me of creating a \"nuisance\" during my previous visit. I remained calm and simply asked why she was speaking to me in that manner and whether this was how patients were treated. Her response was, \"Yes, this is how I speak. If you want treatment, take it; otherwise, go somewhere else.\"\n\nBecause of the loud conversation, other patients noticed what was happening. Ms. Atthota Kavitha then came into the consultation room and, instead of trying to resolve the issue, also raised her voice and supported Dr. Sneha. She told me that this is how things work and that if I wasn't satisfied, I could go to another hospital. She also mentioned that people spend lakhs on such treatments, which made me feel that patients who cannot afford expensive treatments are not valued equally.\n\nI found the behavior of both Dr. Sneha and Ms. Atthota Kavitha to be unprofessional, disrespectful, and insensitive. As a patient, I expected to be treated with courtesy and to have my concerns addressed respectfully, regardless of the treatment cost.\n\nIn my experience, there was a greater focus on recommending expensive treatments and medications rather than identifying the root cause of my condition. My overall experience was disappointing, both in terms of the treatment outcome and the way I was treated.\n\nI am sharing my experience so that others can make an informed decision before choosing this hospital.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWTlZFUm1jMjlDWmpGRFNIQTJMV0poTUhaNk5YYxAB",
+      "author": "md shareef Shaik",
+      "rating": 1,
+      "relative_date": "a month ago",
+      "text": "This is a review of my personal experience at this hospital.My sister consulted here for a skin issue (a dark spot) on her nose. During the initial consultation with my father and sister, Sneha stated she would perform a peel treatment and prescribe medicines, promising a 100% cure within 2 months.\n\nAfter 2 months, there was only a 50% improvement. When my sister and I returned to ask why the issue was not fully resolved, the doctor changed her stance. She claimed results depend on skin types and it would only ever cure 70–80%—something she completely failed to mention during the first visit. When I questioned her changing commitments, she resorted to excuses. Ultimately, she prescribed another cream and explicitly promised that if there was no change in a month, she would perform a free peel and laser treatment.\n\nAfter one and a half months, my sister returned because the dark spot was still visible. When my sister questioned her about the promised laser treatment, Sneha literally began shouting at her so loudly that patients and staff outside could clearly hear. Instead of honoring her word, she aggressively accused my sister and me of \"creating a nuisance\" during our previous visit, when we had simply asked polite questions about her prior commitment.\n\nHearing the loud shouting, the senior doctor, Dr. Kavitha, came out of her cabin. Instead of de-escalating the situation, Dr. Kavitha took Sneha's side, falsely claiming they had explained everything from the start. She even dismissively added that people spend lakhs without seeing complete results.\n\nIs this an acceptable way to treat and speak to patients?\nMedical professionals must realize they are not treating people for free; they charge for every single penny of the treatment. Having big degrees does not make someone a good doctor if they do not know how to speak to patients with basic decency and respect. I strongly advise everyone to read this and think twice before consulting Sneha or Dr. Kavitha at this hospital.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tZNGJWTm9RMGwyYlZCVE4wb3diMHhSY0ZSTFVtYxAB",
+      "author": "Krishna keerthi brahmandam",
+      "rating": 4,
+      "relative_date": "3 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kWlkyTTVjMUoxY201dFJtOVRVSEZZUTFKcldrRRAB",
+      "author": "Yashwanth Pujala",
+      "rating": 5,
+      "relative_date": "3 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsS2QybGhiR1ZZYzFkdWVXODFabVZ4YTB4QmJXYxAB",
+      "author": "Telapolu Kiran",
+      "rating": 1,
+      "relative_date": "3 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWZmMxVnJXRkZxVm5rMmNGQlNiMEp0V2tWaVMwRRAB",
+      "author": "SAI BHAVANA MANNAVA",
+      "rating": 1,
+      "relative_date": "4 months ago",
+      "text": "I had a very disappointing and disrespectful experience with Dr. K. Kavitha and her clinic staff.\n\nBefore visiting, I called the receptionist to check if there was a token system or online booking. I was told strictly that I must come in person. Surprisingly, in today’s digital era, the clinic does not even support basic online payments, which itself is inconvenient.\n\nAfter reaching, I paid ₹500 and was given token number 67, while token 30 was supposedly going on. I was told my turn would come around 4:00 PM. However, what followed was completely unprofessional—multiple patients who arrived after me, took tokens in front of me, and paid in front of me were sent inside before me. This happened repeatedly (at least 5–6 times).\n\nWhen I questioned the receptionist, she responded rudely and dismissively. Even after waiting patiently and asking multiple times, I kept being told the same token number was going on, which clearly did not match what was happening in reality.\n\nThe situation escalated when my mother questioned this unfair system, and the receptionist spoke in an extremely disrespectful tone. Eventually, we were called in, but instead of resolving the issue, Dr. K. Kavitha herself behaved in a highly unprofessional, raised her tone towards an patient which is such a rude manner. She raised her voice, showed no empathy, and made statements like “If you want treatment, talk, otherwise leave\" and many more other statements like this..\n\nAt no point did we feel respected or heard. As paying patients, basic courtesy and transparency are expected. Instead, we were treated with arrogance and disregard.\n\nI chose to walk out without consultation because I did not feel comfortable or safe continuing under such behavior. A doctor is expected to maintain professionalism, patience, and respect—none of which were demonstrated here.\n\nAfter coming home, I noticed several other reviews mentioning similar issues, which is concerning and indicates a pattern.\n\nI strongly suggest the clinic improves:\n1. Patient handling and Respectful communication\n2. Transparency in token management\n3. Basic courtesy and professionalism\n\nThis was not just a bad experience—it was unacceptable.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Nd2FtRkNNRWhmU1hkRVUwdDZXbmRWWjAxRE5sRRAB",
+      "author": "Peravali Srilekha",
+      "rating": 1,
+      "relative_date": "4 months ago",
+      "text": "Receptionist not answering oplu 11ke close chesaru koncham urgent ante evaruno okarini adukkondi antunnaru",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OeFkycEdPV3RQUVVWdllucG1UbXBXTUU5b2NuYxAB",
+      "author": "HIFZURRAHMAN HIFZURRAHMAN",
+      "rating": 4,
+      "relative_date": "4 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taeVUydDJablIzYmxwbk1FRjZhVk5QZEZSNVMzYxAB",
+      "author": "pavani reddy",
+      "rating": 1,
+      "relative_date": "5 months ago",
+      "text": "I have been a loyal patient of Dr. Kavitha garu for over 20 years. My family, relatives, and many friends have visited this clinic solely based on our recommendation. That trust was built on Dr. Kavitha garu’s unwavering ethics, professionalism, discretion, and genuine patient care. She represents integrity in the medical field.\n\nUnfortunately, my experience with Dr. Sneha was deeply concerning.\n\nDuring my laser procedure, there was visible distraction and casual behavior that did not reflect the seriousness required in a medical setting. Social media content was being viewed and discussed in the treatment area during the procedure, which felt highly inappropriate.\n\nIn addition, Dr. Sneha and her trainees openly discussed another patient who had come for consultation and chosen not to proceed with treatment. Sarcastic remarks were made about that patient asking detailed questions and leaving. Hearing commentary about another patient while undergoing my own procedure was uncomfortable and raised serious concerns about confidentiality and professional conduct.\n\nMore concerning, the laser procedure resulted in a burn to my skin. This outcome has caused distress and raises significant concerns regarding technique, attention, and patient safety.\n\nA medical clinic must prioritize focus, discretion, and safety at all times. The environment I experienced did not reflect the high ethical standards this clinic was once known for.\n\nDr. Kavitha garu built this institution on decades of trust and integrity. It is disappointing to see that standard compromised.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWcVJYY3dVMmt4V25kS1UzRlllbUpZY1hGT2NIYxAB",
+      "author": "Imran Sk",
+      "rating": 1,
+      "relative_date": "5 months ago",
+      "text": "Time vest",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Wa1dXeE5iM0pGZEVoWFRqTXljREl0VjFsRWFWRRAB",
+      "author": "ugandhar vemula",
+      "rating": 1,
+      "relative_date": "6 months ago",
+      "text": "Only money persons reception is worrest very rood persons.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xScVNFWTNXRVJIVkdkUU1VeDVPREZ2U0daS2NFRRAB",
+      "author": "Avinashreddy K",
+      "rating": 1,
+      "relative_date": "6 months ago",
+      "text": "She won't do proper inspection and gives very powerful medicine. She won't identify root cause.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xcmRYcHdhRXhqT0hCSlRVMVpNazUzWXpaSlZVRRAB",
+      "author": "Guruva Reddy Bogolu",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "Good",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKYVIxcFBhRTk1TTJOVFJVdHBlRW80T0VsTFQyYxAB",
+      "author": "BALA CHANDRA",
+      "rating": 1,
+      "relative_date": "6 months ago",
+      "text": "In the world of Digital ERA this place fully runs on Cash only transcations including OP and the inhouse medical store.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGbllVaE5WWGM0VXpkVlpXcEpXRjlKWDJ3eWNIYxAB",
+      "author": "Siva vani Chelluboina",
+      "rating": 1,
+      "relative_date": "6 months ago",
+      "text": "We went to consult dr. Kavita as we have been going there consistently and the results were also good. But recently she has been sending the patients to dr. Sneha who is very rude to the patients and not helpful at all. She is not at all listening to the patients fully and suggesting the treatments which are very costly. We have done the treatment said by her but the results are not good. Very disappointing and will not consult dr.kavita also ever again.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURTanQ3RVpREAE",
+      "author": "Sk Yusuf Ali Krn",
+      "rating": 4,
+      "relative_date": "Edited 8 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xMVZuZEtWVTlxUkdJNWNEVXpOa2gwTW5Cek5FRRAB",
+      "author": "mahalakshmi",
+      "rating": 1,
+      "relative_date": "9 months ago",
+      "text": "Staff numbers are money mind people ,they are not responding for patients",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSclFXdGZSalZ6Y1hnMFNqUllVVVk0ZFc5bmMxRRAB",
+      "author": "MANISH SAVARAM",
+      "rating": 1,
+      "relative_date": "9 months ago",
+      "text": "Worst experience,Staff’s response is even more worst.Wouldn’t recommend this hospital to anyone,you can find better ones for same treatment in Guntur.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kdVJFTm5NRzlWZEVWblVYVkNTRk5vWm00eVpVRRAB",
+      "author": "badduri shweta",
+      "rating": 1,
+      "relative_date": "10 months ago",
+      "text": "I have received dpms treatment from dr.sneha she is not genuine person won't explain properly about pros and cons of the specific treatment if we ask strongly she will say u have to tell me before that if I know y will I go to hospital I will get my self treatment. Even medicine too costly.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205VU1HSnRSR2hCY21ob2FVVlZkVlprY25GbGJuYxAB",
+      "author": "perumalla Srilaxmi",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0VE0zWkpSR3hvV25sc09WRm1TMUoyYzBkaGVIYxAB",
+      "author": "Chimata Prameela",
+      "rating": 1,
+      "relative_date": "10 months ago",
+      "text": "Worst staff",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKaVNEbFpSelEzWVc1SU5tMXRlbXMxVlRCd1RYYxAB",
+      "author": "bindu",
+      "rating": 1,
+      "relative_date": "11 months ago",
+      "text": "Worst doctor, money minded. Treatment is not good",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsME9IVlhWbmRPT1dsRFUzZHJXVVI1WlRCd1RsRRAB",
+      "author": "Nageswara Rao kumbha",
+      "rating": 4,
+      "relative_date": "11 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OYWRFZG5UVGhMVDB4VWVqbEZiakZQUkVrNUxXYxAB",
+      "author": "Neelu Vydana",
+      "rating": 1,
+      "relative_date": "a year ago",
+      "text": "Don't go this hospital the worst management and rude behavior. They don't give tokens alternatively…I waited for 3 hours.. Some of my frnd suggested this hospital.. I never go second time",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwZmQwcEVPRFpYY2t4Q2QyWjZXWGh0Y3pnNE1HYxAB",
+      "author": "Bmb Mahesh",
+      "rating": 1,
+      "relative_date": "a year ago",
+      "text": "Worst management ever\nReceptionist was rude and arrogant worst person ever existed don't who hired her",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psVU5VSXhUVFJFU0VWRVRWbFFWWFYxYkhCS1VIYxAB",
+      "author": "Sundara Chari",
+      "rating": 1,
+      "relative_date": "a year ago",
+      "text": "Worst people discussion",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxUmRtMDFWVFpsUjIxRVVIWnlXbFIwVUhSallXYxAB",
+      "author": "manju priyanka",
+      "rating": 1,
+      "relative_date": "a year ago",
+      "text": "I don’t know about treatment but the staff and doctor timing is worst!! staff are giving very arrogant responses!!! I took fast track appointment and I literally waited more than 1 and half our but still doctor ain’t even came to the hospital and it’s 11:45 AM !!!!  And I cancelled my appointment!!!\nStaff are really bad!!!",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VNS196YVBUN2NiUG9nRRAB",
+      "author": "Gopi Krishna",
+      "rating": 4,
+      "relative_date": "a year ago",
+      "text": "Kavitha gaaru good doctor",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZeVBLRDZ3RRAB",
+      "author": "REVANTH KUMAR",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZOEtDSUhnEAE",
+      "author": "Charishma Maddineni",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZc05hcEJnEAE",
+      "author": "Venkata Sai Tripuresh Maturu",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZc01idmZREAE",
+      "author": "vamsikrishna pathipati",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "It is ve",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZMEotcTFBRRAB",
+      "author": "Rajesh Metla",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvdTh6aDV3RRAB",
+      "author": "Hema Sai",
+      "rating": 1,
+      "relative_date": "a year ago",
+      "text": "Worst treatment.... I've taken treatment near Athota kavitha's daughter. Ive spent around 70K money but no use.  Better to stay away from this hospital. Waste of monet time and treatment.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNRaU0yOWhnRRAB",
+      "author": "Sai Naveen",
+      "rating": 1,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNRaUpUYy1RRRAB",
+      "author": "Ch NagaMalleshwari",
+      "rating": 1,
+      "relative_date": "a year ago",
+      "text": "Not sure why people prefer I have used for 3months but no use at all",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNnc2RHclRREAE",
+      "author": "Shaik Faheem",
+      "rating": 1,
+      "relative_date": "a year ago",
+      "text": "Worst experience no results and they charge more for medicines,and they don't have proper knowledge about the hair treatments",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTURBbTZIUk13EAE",
+      "author": "DHAMMALAPATI SUDHAKAR",
+      "rating": 4,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTURBX0pPaVBREAE",
+      "author": "G Akhila",
+      "rating": 1,
+      "relative_date": "a year ago",
+      "text": "THE WORST HOSPITAL IN GUNTUR\nI know this hospital from 2014 onwards, when ever I have skin problems we generally remember kavitha garu for medicine.I visited this hospital only because of Dr. Athoti kavitha garu but now a days she is not available and Dr Sneha is there, she is not even responding properly like kavitha garu one of the worst doctor I have ever seen..we paid 500 for OP travelled 350kms to have talk with kavitha garu but we got disappoint has sneha is there instead of kavitha garu and sneha not even spent 1min with us ..40sec and not only with us with everyone she is spending 30sec for prescription and the people giving token are the number one worst candidate. Nothing is good at that hospital starting there from reception to Pharmacy store worst experience we had.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURfcnJydUhnEAE",
+      "author": "Real Honey",
+      "rating": 1,
+      "relative_date": "a year ago",
+      "text": "So much costly hospital, no results for normal problems also, worst doctor, worst staff, minimum they eat 10000 for one time 🤣🤣🤣🤣🤣 …",
+      "maybe_truncated": true,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURQanEzcG13RRAB",
+      "author": "Naga lakshmi Gouriboyena",
+      "rating": 1,
+      "relative_date": "a year ago",
+      "text": "Wrost hospital, very bad behaviour by hospital staff and there are no one for explain the medicine very wrost behaviour by staff , for simple treatment also writing blood test and that cost more no even multi-speciality hospital take that charge simply money minded op is 700 for urgent and 500for normal and they have to wait till night simply business\nIf u r going for kids please choose other hospital and no phone pay only cash if educated persons want to go for check up think twice",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYLXRTS3l3RRAB",
+      "author": "Divya Dimple Jamandlamudi",
+      "rating": 1,
+      "relative_date": "a year ago",
+      "text": "Worst place seriously no phnpay will be taken",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYanRLdU5nEAE",
+      "author": "Susmitha N",
+      "rating": 1,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURIc3ZfY3ZRRRAB",
+      "author": "Joshua Benjamin",
+      "rating": 1,
+      "relative_date": "a year ago",
+      "text": "I live in Hyderabad, some one suggested this hospital for skin treatment. As they have token system., but the receptionist don't know who is going in and out.we naturally call as rude,one of the worst Hospital and doctor.\nDon't visit this type of hospital they don't care about patients.Waste of time and money,\nOne day will come when no people will visit this type of hospital.Better doctor's available in Guntur.\nDon't waste your time. Do much hype they show. Worst Hospital..",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURIOU9DSW9nRRAB",
+      "author": "Anand Sai",
+      "rating": 1,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURiMDVDNF9BRRAB",
+      "author": "Anki Ankitha",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURiak02ZHRnRRAB",
+      "author": "Praneeth Kumar",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR6cGZUM1V3EAE",
+      "author": "Pandu Varigeti",
+      "rating": 4,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR6M3IydnpnRRAB",
+      "author": "Chalamaiah Ananthasetty",
+      "rating": 1,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNUeWNuRU1BEAE",
+      "author": "Kote Dak",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Cast very hi",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNUcG9pNlZBEAE",
+      "author": "ruksana shaik",
+      "rating": 4,
+      "relative_date": "2 years ago",
+      "text": "They will give the op numbers to all. Have to come early morning to take token number if we want fast checkup. Otherwise too much waiting. Even though the urgent op is taken I have to wait for an hour",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURqOW8zejZ3RRAB",
+      "author": "Gopi Palsa",
+      "rating": 1,
+      "relative_date": "2 years ago",
+      "text": "Worst hospital they don’t accept phone pe\nStaff worest behaviour",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUREX2J6UGVREAE",
+      "author": "Murugulla Koteswara Rao",
+      "rating": 1,
+      "relative_date": "2 years ago",
+      "text": "* The OP fees is to cost and they are to types of OP'S like normal OP 500/- and urgent OP fees 700/-.\n\n* The worst maintenance and not available the facility of drinking water with waiting of lot of patience.\n\n*The staff is irresponsible, shouting on patients and reckless.\n\n* Overally looks like, they dealing a big business without supporting digital payments(Fish market)\n\n* Waiting for treatment.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ5MXJ5UDNnRRAB",
+      "author": "Srilekhana Bhavani",
+      "rating": 4,
+      "relative_date": "2 years ago",
+      "text": "Medicine and treatment is very good but the behavior of receptionist is very worst not responding properly. Rude and arrogant behaviour. I wants to reach this review  to Dr. Kavitha gaaru",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM5Z2JyS193RRAB",
+      "author": "David Raj",
+      "rating": 1,
+      "relative_date": "2 years ago",
+      "text": "Worst staff..",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR0dkxxTWJ3EAE",
+      "author": "Kolli Srinivasa Reddy",
+      "rating": 1,
+      "relative_date": "2 years ago",
+      "text": "Too much waiting, she is not supported digital payments, She is against to 'Atma Nirbhar Bharat', too much consultation fee charged.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNsc3NHRzdBRRAB",
+      "author": "Trivikram Nadendla",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURGbVlPSFhREAE",
+      "author": "Renuka Danda",
+      "rating": 1,
+      "relative_date": "2 years ago",
+      "text": "Too much waiting, we are back with out consultation.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURGNXRxSEdnEAE",
+      "author": "Hari Tadikonda",
+      "rating": 4,
+      "relative_date": "2 years ago",
+      "text": "Dr. Is cool .she listens only for skin",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNGeThqSWh3RRAB",
+      "author": "devarasetty tejaswini",
+      "rating": 3,
+      "relative_date": "2 years ago",
+      "text": "Treatment wise doctor is very good at her job but the compounders, or the attending staff are very very very negligent and arrogant. They are very lazy and worst people whom you can tackle with",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURabWV1c2tnRRAB",
+      "author": "Naresh 168",
+      "rating": 4,
+      "relative_date": "2 years ago",
+      "text": "Kavitha Garu is the best dermatologist for skin issues.\n\nI have lichen planus as well as other skin issues.I traveled from Hyderabad for treatment, and Kavitha Garu diagnosed the problem without the use of any medical testing. Kavitha Garu resolved my skin issues in a month.\n\nThank you so much kavitha Garu\n\nReceptionist and pharmacist behavior not good",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwaXJHQTZBRRAB",
+      "author": "BV MADHU",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "I feel good and  I  got  Best Treatment of Kavitha medam even my problem is very small.\nMedam given best suggestions for my future life also.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNoN01HN3pnRRAB",
+      "author": "srinivas chowdary",
+      "rating": 2,
+      "relative_date": "3 years ago",
+      "text": "The people who will come from far it's not good to visit, because the waiting time is more here. I would suggest visiting SURAM Subramanyam\nToday i visited this for my sister's checkup we came around 11am but because of the doctor's delay now our checkup has been completed.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNoc0xEdXRRRRAB",
+      "author": "Namratha Naidu",
+      "rating": 1,
+      "relative_date": "3 years ago",
+      "text": "Receptionist are very rude and worst behaviour..no proper maintainence .",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCdzh6Uk5BEAE",
+      "author": "Dhana Kotapati",
+      "rating": 4,
+      "relative_date": "3 years ago",
+      "text": "Dr. Kavitha's treatment is very good",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURCb2FLeWhnRRAB",
+      "author": "local Pakka",
+      "rating": 1,
+      "relative_date": "3 years ago",
+      "text": "Doctors are good......\nbut medical shop persons are rude behaviour with patients.....\nTotal money minded ... Corrupted Particularly medical shop",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCMnFiWmRREAE",
+      "author": "shree crazy acting",
+      "rating": 1,
+      "relative_date": "3 years ago",
+      "text": "Doctor good and speaking politely but receptionist are very very bad",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNCNS1XamZ3EAE",
+      "author": "Lucky Goola",
+      "rating": 3,
+      "relative_date": "3 years ago",
+      "text": "Treatment and medicine are fine but receptionist and staff behaviour with patients is worst and they thought like they are Nirmala",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNCeTRuckRnEAE",
+      "author": "Dande Narayan",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Thank God",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNCdVpYa2VREAE",
+      "author": "Harsha Naidu",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQtM2R1RmtBRRAB",
+      "author": "Asha Garapati",
+      "rating": 2,
+      "relative_date": "3 years ago",
+      "text": "I didn't consult the doctor yet,but the receptionist here seems so rude ,she isn't considering anything we have to say",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQteVk3LUlBEAE",
+      "author": "Shaik.Masthanvali",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "She is Excellent Doctor",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQtOHFxbHZ3RRAB",
+      "author": "nagur vali",
+      "rating": 1,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMtbzVHWWZREAE",
+      "author": "chandrasekhar madavaram",
+      "rating": 1,
+      "relative_date": "3 years ago",
+      "text": "Treatment and medicine are fine but this particular receptionist and staff behaviour with patients is worst and they thought like they are owners of the hospital, my suggestion is please try to convey your complaint to the doctor",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURldGJiNFBBEAE",
+      "author": "Balam vishno pravardhatam Sri Sri",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlMm9qZ213RRAB",
+      "author": "Manasa",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlcXFHU2NREAE",
+      "author": "Jahnavi Pingali",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlN0lpU3J3RRAB",
+      "author": "venkateswararao nayudu",
+      "rating": 1,
+      "relative_date": "3 years ago",
+      "text": "Very rude and reckless staff",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlckxmQzV3RRAB",
+      "author": "srujana nayudu",
+      "rating": 1,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNlcmFfam1BRRAB",
+      "author": "Naga bhargav Bandla",
+      "rating": 4,
+      "relative_date": "3 years ago",
+      "text": "Doctor's here are very good and soft spoken.kavatha for skin treatment and mallik for the bones visited here so many times for my relatives treatment . The receptionist are some times show arrogance but nothing every time but consultation fees in higher side for normal people\nBut here the medicine given was for required amount of treatment only that's good to see.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNlMHJqcjZ3RRAB",
+      "author": "Gøpí Kàñtú",
+      "rating": 4,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1azRYWGdRRRAB",
+      "author": "suresh chandra kataru",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Good Hospital",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1Z1BxMl93RRAB",
+      "author": "hafsa hafsa",
+      "rating": 3,
+      "relative_date": "4 years ago",
+      "text": "Doctor here is one of the best doctor, but the staff behaviour towards the patients is very rude.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURPMTQzQXZnRRAB",
+      "author": "sambasivarao thokala",
+      "rating": 4,
+      "relative_date": "4 years ago",
+      "text": "Good",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURPamRmZWN3EAE",
+      "author": "RAJU__ CHINNU",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Good",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURPNExYYlNBEAE",
+      "author": "pavani",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Very soft spoken and talented doctor...15 years back i took treatment from her...my treatment nealy went for 1 year and cured.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNPOVllVnVnRRAB",
+      "author": "Jai Bharata",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Nice hospital",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNPc3ZpdzlBRRAB",
+      "author": "Harika Kurra",
+      "rating": 1,
+      "relative_date": "4 years ago",
+      "text": "Receptionist is very arrogant and the hospital's customer service is very poor. The medication is fine, but I suggest they behave properly with the patients.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNPZ3V2eHdnRRAB",
+      "author": "nuthalapati ganesh babu",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNPNUpDVDZnRRAB",
+      "author": "Naga malleswararao Athota",
+      "rating": 4,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQycFpPNkRnEAE",
+      "author": "Sai Krishna - Krish",
+      "rating": 3,
+      "relative_date": "4 years ago",
+      "text": "If you have any urgent work you can take urgent o.p. for 600, but if you take normal o.p. they will again charge 600 for urgent so choose carefully.\n\nI'll update my review after fully taking treatment.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQydktuNmxBRRAB",
+      "author": "santhi didla",
+      "rating": 1,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMydklETFR3EAE",
+      "author": "Madhavi RACHAMANTI",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURXM3A3YkV3EAE",
+      "author": "chinni u",
+      "rating": 1,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURXenF1a25RRRAB",
+      "author": "Pv Swamy",
+      "rating": 1,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURXZ1BQb3dRRRAB",
+      "author": "Gopal",
+      "rating": 3,
+      "relative_date": "4 years ago",
+      "text": "Treatment is ok , but cost of medicine is expensive. Minimum she will write for 2k, Op timings morning 10:30 to 6:30 PM. You can buy same medicine out side also with 20% discount .",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURHdjRmalJ3EAE",
+      "author": "gopi chand",
+      "rating": 1,
+      "relative_date": "4 years ago",
+      "text": "I had faced worst experience. Staff members behave like a owners of hospital,. They provide tokens numbers but again comand to patients form a line without token numbers..... They are concentrating on money much more patients conditions.... This lady staff is very money minded",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ2cjRQSnhnRRAB",
+      "author": "Taheera Shaikhi Taheera shaikhi",
+      "rating": 1,
+      "relative_date": "4 years ago",
+      "text": "Worst Staff i have ever seen in Hospitals",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM2bElPU01REAE",
+      "author": "kiran kumar bandi",
+      "rating": 3,
+      "relative_date": "4 years ago",
+      "text": "Doctor madam treatment and medicine good superb but staf perfomance too \"UGLY AND WOREST\" please solve that lot of patients disturbed them",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNhOW8zdGFREAE",
+      "author": "K Bharat Reddy",
+      "rating": 1,
+      "relative_date": "5 years ago",
+      "text": "OP staff was very rude and treatment was also not the best",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURxazVxdEtBEAE",
+      "author": "Nagabhyru Ravindra babu",
+      "rating": 2,
+      "relative_date": "5 years ago",
+      "text": "Worst response ever from the management. Never experienced such rude behavior from any hospital management. The way receptionist/attender replied on call is pathetic.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURxcG9HRUJnEAE",
+      "author": "VENKATA NAGESH KONJETI",
+      "rating": 1,
+      "relative_date": "5 years ago",
+      "text": "Very very bad in hospital medical shop staff behaviour.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURxLXFDc3RBRRAB",
+      "author": "nagarazu ch",
+      "rating": 1,
+      "relative_date": "5 years ago",
+      "text": "waste of time and waste of money because of there is no result for long time.please note this point do not go this hospital skin treatment such as chemical peeling etc.,",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURxMnJfbUZnEAE",
+      "author": "Deepu. siriveri",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURLb3FENXRRRRAB",
+      "author": "Prasad Dumpa",
+      "rating": 1,
+      "relative_date": "5 years ago",
+      "text": "Worst reception ever seen. Not sure whether Doctor Kavitha aware of it or not. Treatment wise no issues. Could not able to connect with Doctor due to bad reception and management.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNLeHQtUVB3EAE",
+      "author": "KARTHEEK NAGA BHARGAVA SUDHEER KUNALA (KARTHEEK)",
+      "rating": 3,
+      "relative_date": "5 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNLdU9qZGp3RRAB",
+      "author": "Bhargavi Reddy Konatham",
+      "rating": 4,
+      "relative_date": "5 years ago",
+      "text": "Dr. Kavitha mam is too good and friendly but the receptionist is the worst part of the hospital.. She behaves rudly with everyone",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR5LWZEcWVnEAE",
+      "author": "Saikumar Kvn",
+      "rating": 1,
+      "relative_date": "5 years ago",
+      "text": "They dont even give respect in call, talks very irresponsible, this behaviour of guntur hospitals should change",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR5d0ota01nEAE",
+      "author": "Manoj Koganti",
+      "rating": 1,
+      "relative_date": "5 years ago",
+      "text": "Management department was full of useless people , Asking about phone appointments they just hang-up Front desk people are very rude behaviour",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMwNE9HRXhRRRAB",
+      "author": "jugal kishore",
+      "rating": 4,
+      "relative_date": "Edited 5 years ago",
+      "text": "Best treatment by doctor , but worst receptionist. But the doctor is so cool and given medications are best for curing.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURDdzhhNlNREAE",
+      "author": "Y_S_S series",
+      "rating": 1,
+      "relative_date": "5 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURDOFlmT3VRRRAB",
+      "author": "T Neeraja",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURDNXZieFN3EAE",
+      "author": "Hasheem Info",
+      "rating": 1,
+      "relative_date": "5 years ago",
+      "text": "Worst management.......................",
+      "maybe_truncated": true,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURDNXNLX2xRRRAB",
+      "author": "chaitanya kilari",
+      "rating": 2,
+      "relative_date": "5 years ago",
+      "text": "Reception staff warest staff",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURDZ092STNnRRAB",
+      "author": "Sky And cosmos",
+      "rating": 1,
+      "relative_date": "5 years ago",
+      "text": "Bogus in unwanted facial hair laser treatment even they won't recommending any hormonal tests to diagnose the problem but they giving LHR from 1yr blindly,very bad experience they cashing mny,jst playing with patients",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ4ZzYzNFpnEAE",
+      "author": "ramesh Yangala",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNJNGEzUXV3RRAB",
+      "author": "Jhansi Rani Nukabattini",
+      "rating": 1,
+      "relative_date": "Edited 6 years ago",
+      "text": "Management and reception is worst ...but dr.kavitha Garu treatment is good",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURjeXBILUhREAE",
+      "author": "VINAY KUMAR BATTULA",
+      "rating": 3,
+      "relative_date": "6 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURjd3BuUzlBRRAB",
+      "author": "Lovely Jprabhu",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURzeWR5SFVnEAE",
+      "author": "LIC ADVISOR SURESH BABU DUNNA",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "The best treatment for skin diseases.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURzb01pSktREAE",
+      "author": "Harikrishna Chowdary (kittu)",
+      "rating": 3,
+      "relative_date": "6 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURNMTUyalNnEAE",
+      "author": "Anil Kumar C",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "Skin specialist, Ortho & Gen Medicine",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURNaGZmMmpnRRAB",
+      "author": "Mark Sathish",
+      "rating": 1,
+      "relative_date": "6 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURNa1ptek1REAE",
+      "author": "Naga Sai Kondapaturi",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURNenRpeFZnEAE",
+      "author": "Sai ram",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURNcEt2WVBBEAE",
+      "author": "nagalakshmi nulu",
+      "rating": 3,
+      "relative_date": "6 years ago",
+      "text": "The receptionist behaviour is worst.and the mam is gud prescriber but urjent op is 500 its high.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNNcjdhT0hREAE",
+      "author": "Ramee143 Jesus",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQwamQyZ2dnRRAB",
+      "author": "preethi chowdary",
+      "rating": 1,
+      "relative_date": "6 years ago",
+      "text": "Op staff were very rood behaviour.. 2nd time op even sptl op takes too much cost and not cured their medications",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQwMHFxcXJ3RRAB",
+      "author": "Ch Latha",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQweExTRmZnEAE",
+      "author": "verra swami Mallala Goud",
+      "rating": 1,
+      "relative_date": "6 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMwbHBMVG5nRRAB",
+      "author": "Mohammad Raziya sulthana",
+      "rating": 3,
+      "relative_date": "6 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURVOV9tS3J3RRAB",
+      "author": "M S Manjunadha",
+      "rating": 1,
+      "relative_date": "6 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURVOVltcXlRRRAB",
+      "author": "Jnt navya",
+      "rating": 1,
+      "relative_date": "6 years ago",
+      "text": "Worst reception.....its not gud to behave rude with the people.. If u r not willing to help better quit the job",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURVb1lHc0hnEAE",
+      "author": "Faziya Shaik",
+      "rating": 1,
+      "relative_date": "6 years ago",
+      "text": "Management is totally worst 😠 …",
+      "maybe_truncated": true,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNVNV9UbG93RRAB",
+      "author": "hemanth Chowdary",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Very friendly doctor",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNVeDktSVRBEAE",
+      "author": "M.S.D. Prasad",
+      "rating": 3,
+      "relative_date": "7 years ago",
+      "text": "Good",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURrc2Z2eTlRRRAB",
+      "author": "narahari sirisha",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Frendly nature iam realy very happy about my face thanku so much mams money also worthable",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ0MmFTUEtBEAE",
+      "author": "Eswar Chennupati",
+      "rating": 4,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM0MzVIeVdnEAE",
+      "author": "siva krishna",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM0Z2RhQXdRRRAB",
+      "author": "BABU YADALA",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "B St dermatologist",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM0c3ZQZG9BRRAB",
+      "author": "murari rajani",
+      "rating": 1,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM0NE5mYWZnEAE",
+      "author": "Veenila Bhemavarapu",
+      "rating": 2,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZbkpEUFpnEAE",
+      "author": "Lakshmi Atthota",
+      "rating": 1,
+      "relative_date": "7 years ago",
+      "text": "Worst front desk employees.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNZaDVLTU9nEAE",
+      "author": "Durga Prasad Yasam",
+      "rating": 4,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNvbzluZzlnRRAB",
+      "author": "Pavan Kumar",
+      "rating": 4,
+      "relative_date": "7 years ago",
+      "text": "Cooperative with patients",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNvNkxlOExREAE",
+      "author": "hari teja",
+      "rating": 4,
+      "relative_date": "7 years ago",
+      "text": "Good doctor",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNvNkpmWE5REAE",
+      "author": "Riya Joy",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURJb3JYME5BEAE",
+      "author": "VS Rohit Ragam's",
+      "rating": 4,
+      "relative_date": "7 years ago",
+      "text": "General OP:300, Emergency OP:500. This is too much.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURneUlYWXF3RRAB",
+      "author": "FIROZ SHAIK",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURRbHVtNnVnRRAB",
+      "author": "mahibunnisa mehak",
+      "rating": 5,
+      "relative_date": "8 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURRdWNYR2VREAE",
+      "author": "Being Rich",
+      "rating": 5,
+      "relative_date": "8 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURRc3RpdEp3EAE",
+      "author": "Freelancer",
+      "rating": 5,
+      "relative_date": "8 years ago",
+      "text": "Hospital",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    }
+  ],
+  "reviews_error": "",
+  "sorted_newest": true,
+  "stopped_at_known_review": false,
+  "reviews_captured": 154,
+  "owner_replies": 0,
+  "truncated_reviews": 3,
+  "reviews_coverage": 1.0,
+  "date_anchor": "2026-08-20T18:34:23",
+  "extract_seconds": 56.6,
+  "missing_fields": [
+    "website"
+  ],
+  "listing_position": 33,
+  "source_query": "dermatologists in Guntur",
+  "listing_name": "Athota Kavitha(Dermatologist) & Mallik G (Ortho) Hospital"
+}

@@ -1,11 +1,37 @@
-streamlit==1.41.1
+# Derma Intel — backend runtime. Free and keyless: no paid APIs, no billed services.
+# Interpreter: the embeddable Python 3.10 at
+#   C:\Users\SALE PITCHAIAH\AppData\Local\Programs\Python\Python310\python.exe
+# On this machine's TLS-intercepting network, pip reaches PyPI fine; `requests` works for the
+# keyless endpoints, and curl.exe is the schannel fallback (see modules/httpget.py).
+
+# --- data + exports ---
 pandas==2.2.3
+numpy==1.24.3
 openpyxl==3.1.5
-plotly==5.24.1
-altair==5.5.0
-kaleido==0.2.1
-playwright==1.49.1
-fpdf2==2.8.2
-requests==2.32.3
-vaderSentiment==3.3.2
+Pillow==10.0.0            # screenshot_slicer; was an undeclared transitive dep before
+
+# --- scraping ---
+playwright==1.49.1        # Google Maps + reviews (headless, works)
+nodriver==0.50.3          # Google web SERPs (CDP-direct; passes Google where Playwright fails)
+requests==2.32.3          # keyless autocomplete / OSM (with curl.exe fallback)
+beautifulsoup4==4.12.3    # SERP + listicle HTML parsing
+lxml==6.0.2               # bs4 parser backend
+vaderSentiment==3.3.2     # offline review sentiment
+
+# --- job runner: API + CLI ---
+fastapi==0.115.6
+starlette==0.41.3         # pinned: FastAPI 0.115.6 needs <0.42 (a stray 1.3.1 was installed)
+uvicorn==0.34.0
+pydantic==2.11.9
+
+# --- tests ---
 pytest==8.3.4
+pytest-asyncio==0.24.0    # implied by pytest.ini's asyncio fixture scope; was undeclared
+pytest-cov==4.1.0
+pytest-mock==3.14.1
+
+# --- pending Area-7 cleanup ---
+plotly==5.24.1            # STILL required: modules/analytics.py imports it at module top.
+                         # Strip analytics' plotly chart fns before dropping this (plan Area 7).
+# Removed with the UI teardown: streamlit, altair, kaleido, fpdf2 (dashboard/PDF deps).
+# Tier-B SERP contingency, install only if nodriver's block rate climbs: seleniumbase.

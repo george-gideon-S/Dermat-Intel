@@ -1,0 +1,187 @@
+{
+  "place_url": "https://www.google.com/maps/place/Siva+Sakthi+Vascular+%26+Rheumatology+Center/data=!4m7!3m6!1s0x3a4a75005d8b4c17:0xbc9b4093631e6a80!8m2!3d16.30155!4d80.4504424!16s%2Fg%2F11m5_k9pk_!19sChIJF0yLXQB1SjoRgGoeY5NAm7w?authuser=0&hl=en&rclk=1",
+  "captured_at": "2026-08-20T19:24:58",
+  "feature_id": "0x3a4a75005d8b4c17:0xbc9b4093631e6a80",
+  "place_id": "ChIJF0yLXQB1SjoRgGoeY5NAm7w",
+  "kg_mid": "/g/11m5",
+  "lat": 16.30155,
+  "lng": 80.4504424,
+  "name_raw": "Siva Sakthi Vascular & Rheumatology Center",
+  "name_clean": "Siva Sakthi Vascular & Rheumatology Center",
+  "name_key": "sivasakthivascularrheumatologycenter",
+  "name_dropped": [],
+  "name_was_cleaned": false,
+  "category": "Hospital",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "adjacent",
+  "basis": "category",
+  "address": "12-25-11, 60 Feet Road, near Indian Springs School, opp. to Kugler Hospital Road, Kothapeta, Guntur, Andhra Pradesh 522001",
+  "plus_code": "8F22+J5 Guntur, Andhra Pradesh",
+  "phone": "0863 222 0722",
+  "website": "",
+  "website_domain": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "insecure_http": false,
+  "website_matches_name": null,
+  "rating": 5.0,
+  "reviews_total": 9,
+  "rating_histogram": {
+    "5": 9,
+    "4": 0,
+    "3": 0,
+    "2": 0,
+    "1": 0
+  },
+  "histogram_sum": 9,
+  "histogram_reconciles": true,
+  "topics": {
+    "patient listening": 2,
+    "friendly": 2,
+    "patient care": 3,
+    "support": 2,
+    "questions": 2,
+    "care": 2
+  },
+  "google_profile_gaps": [
+    "Add website"
+  ],
+  "has_photos": true,
+  "hours": {
+    "Thursday": "10 am to 6 pm",
+    "Friday": "10 am to 6 pm",
+    "Saturday": "10 am to 6 pm",
+    "Sunday": "Closed",
+    "Monday": "10 am to 6 pm",
+    "Tuesday": "10 am to 6 pm",
+    "Wednesday": "10 am to 6 pm"
+  },
+  "about": {
+    "Accessibility": [
+      " Wheelchair-accessible car park",
+      " Wheelchair-accessible entrance",
+      " Wheelchair-accessible toilet"
+    ],
+    "Payments": [
+      " NFC mobile payments"
+    ],
+    "Map details": [
+      "Transit",
+      "Traffic",
+      "Biking",
+      "Terrain",
+      "Street View",
+      "Wildfires",
+      "Air Quality"
+    ],
+    "Map tools": [
+      "Travel time",
+      "Measure"
+    ],
+    "Map type": [
+      "Default",
+      "Satellite",
+      " Globe view ",
+      " Labels"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25jeE9ISjFSVlJwU0RadGVrNTFMVk5ZZFdWM1MzYxAB",
+      "author": "Nagul Meera",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sdVNrdGhiVFppTUZGZmRFMWZhMGhHYkhkV1RWRRAB",
+      "author": "Jalam singh Rajpurohit",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "The result is very good",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tzM2JUQTNNR1J2YkdsWVFXbGZUa0ZTUVc1U2RVRRAB",
+      "author": "Rajesh Alluri",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "Dr. Deepika madam she is a Good and best Rheumatologist Doctor in Guntur.. She treats nd suggests patients very well and in friendly manner",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KeFpGZFRURWt4V2w5MmFHOUxTVmhqUnpNMWNuYxAB",
+      "author": "venuanu465@gmail.com Mudam",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsQ2FYaGtSMVU0VlRRNE5FcEhYMjFSZUdaeExXYxAB",
+      "author": "gamingi srikanth",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "Dr. Deepika mam is one of the best Rheumatology doctors in Guntur. She provides excellent treatment with the right medication and is very friendly and caring towards her patients. Truly grateful for her dedication and support.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pJelQzcFdUWFJOTkZWd1QzWnhYM0EyYzFaRkxXYxAB",
+      "author": "Chaitnaya Ramakrishna",
+      "rating": 5,
+      "relative_date": "Edited a year ago",
+      "text": "I never saw like this kind, honest, Good councelling, reasonable and more patience doctor in my life.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poNlZXbHVYemhKVmpBM2FVeERaRTlyV21sdk1rRRAB",
+      "author": "Surya",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Recently my father has gone through CAROTID BODY TUMOR surgery performed by Dr.VijayKumar Vishnumolakala sir.......as my father met many other doctors no one has given that confidence to the patient but this Dr.vijayKumar sir is confident about my father's surgery and he also boosted his patient's confidence and the doctor counseled the patient 4 times and the surgery went successful ....This CAROTID BODY TUMOR EXCISION is the first ever surgery performed in guntur.\nThankyou Dr.VijayKumar Vishnumolakala",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3dTY2dHRBRRAB",
+      "author": "gopikrishna musala",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Dr. Deepika Madam is a very good doctor. She takes care of the patient. She listens very patiently to every question asked about the patient's health problems and answers every question.\n\nMy wife suffers from dermatomyositis and I took my wife to some doctors in Guntur and Vijayawada. They did not give any proper answers about the disease and did not give her proper treatment.\n\nI brought my wife to the doctor in a serious condition and the doctor treated her, today she is able to walk and do her work at home.\n\nThey would also provide medicines at a lower rate, keeping in mind the financial situation of the patient\n\nDr. Deepika Madam is a very good doctor. My wife is alive because of that doctor.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNRei1YRzJRRRAB",
+      "author": "vibgyoradmedia",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Exceptional Care Experienced here at SS Vascular and Rheumatoid Center.\n\nI recently had the pleasure of visiting here, and I must say, I was thoroughly impressed with the level of care and professionalism I received with the Doctors here.\n\nMy consultation with Doctors here was outstanding. They took the time to listen attentively to my concerns, explained my condition clearly and provided a comprehensive treatment plan that addressed all my questions and worries.\n\nI felt comfortable asking questions and seeking clarification on any aspects of my care.\n\nWhat truly sets this Clinic apart, however, is the genuine compassion and empathy shown by the entire team. They truly care about their patients' well-being and go above and beyond to ensure that every individual receives personalized attention and support.\n\nI highly recommend \"Vascular & Rheumatology Center\". My experience was nothing short of outstanding, and I feel grateful to have found such a trustworthy and caring Medical Team.\n\nMy Rating  : 5/5 Stars",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    }
+  ],
+  "reviews_error": "",
+  "sorted_newest": true,
+  "stopped_at_known_review": false,
+  "reviews_captured": 9,
+  "owner_replies": 9,
+  "truncated_reviews": 0,
+  "reviews_coverage": 1.0,
+  "date_anchor": "2026-08-20T19:24:58",
+  "extract_seconds": 42.4,
+  "missing_fields": [
+    "website"
+  ],
+  "listing_position": 71,
+  "source_query": "dermatologists in Guntur",
+  "listing_name": "Siva Sakthi Vascular & Rheumatology Center"
+}

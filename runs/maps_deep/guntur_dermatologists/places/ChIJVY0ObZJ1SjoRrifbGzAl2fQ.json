@@ -1,0 +1,266 @@
+{
+  "place_url": "https://www.google.com/maps/place/ADITRI+Dental+Clinic/data=!4m7!3m6!1s0x3a4a75926d0e8d55:0xf4d925301bdb27ae!8m2!3d16.3135993!4d80.4202577!16s%2Fg%2F11kh4v53zk!19sChIJVY0ObZJ1SjoRrifbGzAl2fQ?authuser=0&hl=en&rclk=1",
+  "captured_at": "2026-08-20T19:36:31",
+  "feature_id": "0x3a4a75926d0e8d55:0xf4d925301bdb27ae",
+  "place_id": "ChIJVY0ObZJ1SjoRrifbGzAl2fQ",
+  "kg_mid": "/g/11kh4v53zk",
+  "lat": 16.3135993,
+  "lng": 80.4202577,
+  "name_raw": "ADITRI Dental Clinic",
+  "name_clean": "ADITRI Dental Clinic",
+  "name_key": "aditridentalclinic",
+  "name_dropped": [],
+  "name_was_cleaned": false,
+  "category": "Dental clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "irrelevant",
+  "basis": "name_veto:dental",
+  "address": "First floor, Sree plaza, Brindavan Gardens Main Rd, above SBI PBB branch, Brindavan Gardens, Guntur, Andhra Pradesh 522006",
+  "plus_code": "8C7C+C4 Guntur, Andhra Pradesh",
+  "phone": "093903 82852",
+  "website": "",
+  "website_domain": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "insecure_http": false,
+  "website_matches_name": null,
+  "rating": 4.9,
+  "reviews_total": 17,
+  "rating_histogram": {
+    "5": 16,
+    "4": 1,
+    "3": 0,
+    "2": 0,
+    "1": 0
+  },
+  "histogram_sum": 17,
+  "histogram_reconciles": true,
+  "topics": {
+    "caring doctors": 5,
+    "problem explanation": 2,
+    "treatment": 5,
+    "dental care": 2
+  },
+  "google_profile_gaps": [
+    "Add website"
+  ],
+  "has_photos": true,
+  "hours": {
+    "Thursday": "9:30 am to 9 pm",
+    "Friday": "9:30 am to 9 pm",
+    "Saturday": "9:30 am to 9 pm",
+    "Sunday": "9:30 am to 9 pm",
+    "Monday": "9:30 am to 9 pm",
+    "Tuesday": "9:30 am to 9 pm",
+    "Wednesday": "9:30 am to 9 pm"
+  },
+  "about": {
+    "Accessibility": [
+      " Wheelchair-accessible entrance",
+      " Wheelchair-accessible seating",
+      " Wheelchair-accessible toilet"
+    ],
+    "Amenities": [
+      " Gender-neutral toilets",
+      " Restroom"
+    ],
+    "Planning": [
+      " Appointment required",
+      " Appointments recommended"
+    ],
+    "Payments": [
+      " Google Pay",
+      " NFC mobile payments"
+    ],
+    "Map details": [
+      "Transit",
+      "Traffic",
+      "Biking",
+      "Terrain",
+      "Street View",
+      "Wildfires",
+      "Air Quality"
+    ],
+    "Map tools": [
+      "Travel time",
+      "Measure"
+    ],
+    "Map type": [
+      "Default",
+      "Satellite",
+      " Globe view ",
+      " Labels"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xvelYzcGxNMHB0T1dGT1IwczJUbXh5Vm5wNlMwRRAB",
+      "author": "raju ab",
+      "rating": 4,
+      "relative_date": "a month ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKM1pVRkhRMVF6V2xOa05FZ3lURlZTWlcxeGRYYxAB",
+      "author": "divya krishnamsetty",
+      "rating": 5,
+      "relative_date": "3 months ago",
+      "text": "Excellent dental care by the doctors. I highly recommend this clinic as the doctors are really talented and take utmost care in treating the patients.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5RFJGQldSR1U1VEU1a1FYSlBaREJDZERreVRIYxAB",
+      "author": "prathyusha ghantasala",
+      "rating": 5,
+      "relative_date": "3 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURiOGV5bUtBEAE",
+      "author": "Venkata Naga Rajyalakshmi Bhamidipati",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN5dDUyeHpRRRAB",
+      "author": "Dineshwara Manideepu Pamidimarry",
+      "rating": 5,
+      "relative_date": "Edited 2 years ago",
+      "text": "Been here for sensitive teeth issue and tooth pain in two different instances. Both the doctors were patient enough to understand the problem before treatment.\n\nIt has been 4 years since treatment and do not have any pain. No medicines were suggested.\n\nThey have a transparent pricing and did not feel commercial.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURadThuUjNBRRAB",
+      "author": "Vydehi Chinta",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Very patiently explains the problem and gives right solution",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwcTdUTnVBRRAB",
+      "author": "Haritha Vanama",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCdFlPMFhnEAE",
+      "author": "Sai Sunil",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Sir treatment is good , neet and hygienic,\nClear about the problem",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQyaF9qLVRREAE",
+      "author": "Chandu Akula",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURxd0lYWU1REAE",
+      "author": "pavan kanvas",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "I have been treated many times by doctors but these two are very excellent in their communication and Treatment\nNice ambience and well organised\nSure to visit once\nThank you doctors for your treatment and suggestions",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURLX0tQaE5nEAE",
+      "author": "pavanendra gandikota",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "Excellent dental care service by experience and caring doctors. Dr took the time to carefully examine me and explain my problem . I am happy with the treatment.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURLX0ltaTN3RRAB",
+      "author": "Phaneendra gandikota",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "I am very happy and extremely satisfied with the treatment. The doctor satya krishna garu is highly talented, very confident,  the way of response and treatment is incredible. I was recommended by a friend, now it is my turn to recommend this doctor for a person with any dental problem.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURTOXRidmRREAE",
+      "author": "jerusha jerry",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURTOXRiWEhBEAE",
+      "author": "devayani s",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNpZ29xMm1BRRAB",
+      "author": "KALYANI BORRA",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURDcnNxckp3EAE",
+      "author": "Mani Manjeera",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURDMUxuMENnEAE",
+      "author": "siri pati",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "Was scared to go during COVID times.This clinic was recommended to me by a friend.the doctors were very professional and the treatment was excellent.Thank you!!",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    }
+  ],
+  "reviews_error": "",
+  "sorted_newest": true,
+  "stopped_at_known_review": false,
+  "reviews_captured": 17,
+  "owner_replies": 14,
+  "truncated_reviews": 0,
+  "reviews_coverage": 1.0,
+  "date_anchor": "2026-08-20T19:36:31",
+  "extract_seconds": 42.0,
+  "missing_fields": [
+    "website"
+  ],
+  "listing_position": 82,
+  "source_query": "dermatologists in Guntur",
+  "listing_name": "ADITRI Dental Clinic"
+}

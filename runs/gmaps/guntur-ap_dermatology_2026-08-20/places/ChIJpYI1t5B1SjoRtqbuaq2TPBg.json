@@ -1,0 +1,182 @@
+{
+  "key": "ChIJpYI1t5B1SjoRtqbuaq2TPBg",
+  "tier": "full",
+  "complete": true,
+  "place_url": "https://www.google.com/maps/place/Dr+Umamaheswara+rao+clinic/data=!4m7!3m6!1s0x3a4a7590b73582a5:0x183c93ad6aeea6b6!8m2!3d16.3130472!4d80.4346929!16s%2Fg%2F11f796m788!19sChIJpYI1t5B1SjoRtqbuaq2TPBg?authuser=0&hl=en&rclk=1",
+  "captured_at": "2026-08-20T23:58:26",
+  "rank": 58,
+  "place_id": "ChIJpYI1t5B1SjoRtqbuaq2TPBg",
+  "feature_id": "0x3a4a7590b73582a5:0x183c93ad6aeea6b6",
+  "kg_mid": "/g/11f796m788",
+  "lat": 16.3130472,
+  "lng": 80.4346929,
+  "dup_of_rank": null,
+  "has_online_booking": false,
+  "booking_url": "",
+  "booking_vendor": "",
+  "service_options": null,
+  "permanently_closed": false,
+  "temporarily_closed": false,
+  "status_text": "Open 24 hours",
+  "open_now": true,
+  "is_ad": false,
+  "review_snippet": "\"Very good and simple treatment most patience doctor\"",
+  "name_raw": "Dr Umamaheswara rao clinic",
+  "name_clean": "Dr Umamaheswara rao clinic",
+  "name_key": "drumamaheswararaoclinic",
+  "name_dropped": [],
+  "name_was_cleaned": false,
+  "category": "Hospital",
+  "card_category": "Hospital",
+  "category_mismatch": false,
+  "relevance": "adjacent",
+  "basis": "base_generic_medical",
+  "address": "8C7M+6V8, Koritepadu, Guntur, Andhra Pradesh 522007",
+  "plus_code": "",
+  "phone": "",
+  "website": "",
+  "website_domain": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "insecure_http": false,
+  "website_matches_name": null,
+  "rating": 5.0,
+  "reviews_total": 9,
+  "rating_histogram": {
+    "5": 9,
+    "4": 0,
+    "3": 0,
+    "2": 0,
+    "1": 0
+  },
+  "histogram_sum": 9,
+  "histogram_reconciles": true,
+  "topics": null,
+  "google_profile_gaps": [
+    "Add place's phone number",
+    "Add website"
+  ],
+  "has_photos": true,
+  "hours": {
+    "Thursday": "Open 24 hours",
+    "Friday": "Open 24 hours",
+    "Saturday": "Open 24 hours",
+    "Sunday": "Open 24 hours",
+    "Monday": "Open 24 hours",
+    "Tuesday": "Open 24 hours",
+    "Wednesday": "Open 24 hours"
+  },
+  "about": {
+    "ద్ర ఉమామహేశ్వర రావు క్లినిక్": [
+      "Open 24 hours"
+    ],
+    "Map details": [
+      "Transit",
+      "Traffic",
+      "Biking",
+      "Terrain",
+      "Street View",
+      "Wildfires",
+      "Air Quality"
+    ],
+    "Map tools": [
+      "Travel time",
+      "Measure"
+    ],
+    "Map type": [
+      "Default",
+      "Satellite",
+      " Globe view ",
+      " Labels"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twRVprMXlUVEpwVVVaak5GQkdiME4zTVU5V1ZtYxAB",
+      "author": "SLV PG",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "Very good and simple treatment most patience doctor",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWRWMyTTVOM3BNVkRSRmNGZHROVnBuYzJvd2NtYxAB",
+      "author": "Venu Bathula",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM5ZzhLMDlBRRAB",
+      "author": "Vinodkumar Ilam",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNCa01QX1dBEAE",
+      "author": "Ambati Navya",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Best doctor corona timelo me badyatha chakkaga nirvahincharu doctor nijanga devude anipincharu",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURXMl9pa1ZREAE",
+      "author": "Jaya Chandra",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "He would diagnosis the decease correct. One of the best Drs in Guntur",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNpOEtHazRRRRAB",
+      "author": "ravi kumar pinnamaraju",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "what ever the problem 100% correct solution with friendly approach, such a nice doctor in emergency by phone also give treatment .",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ4Zy1MYlpREAE",
+      "author": "TeJaSw! Sr",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZdzdySXpnRRAB",
+      "author": "Arun Kumar",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURBbHBEOFhnEAE",
+      "author": "purnachandrarao barige",
+      "rating": 5,
+      "relative_date": "8 years ago",
+      "text": "Good diagnosis and treatment",
+      "has_owner_reply": false
+    }
+  ],
+  "reviews_error": "",
+  "sorted_newest": true,
+  "stopped_at_known_review": false,
+  "reviews_captured": 9,
+  "owner_replies": 0,
+  "reviews_coverage": 1.0,
+  "date_anchor": "2026-08-20T23:58:26",
+  "extract_seconds": 74.3,
+  "missing_fields": [
+    "plus_code",
+    "phone",
+    "website"
+  ],
+  "page_rendered": true,
+  "error": ""
+}

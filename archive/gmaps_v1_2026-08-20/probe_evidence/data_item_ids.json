@@ -1,0 +1,17 @@
+[
+  {
+    "id": "address",
+    "aria": "Address: Old Club Rd, beside Yoda diagnostic lab, Kothapeta, Guntur, Andhra Pradesh 522001 ",
+    "text": "\nOld Club Rd, beside Yoda diagnostic lab, Kothapeta, Guntur, Andhra Pradesh 522001"
+  },
+  {
+    "id": "phone:tel:09490903999",
+    "aria": "Phone: 094909 03999 ",
+    "text": "\n094909 03999"
+  },
+  {
+    "id": "oloc",
+    "aria": "Plus code: 7FX2+MP Guntur, Andhra Pradesh",
+    "text": "\n7FX2+MP Guntur, Andhra Pradesh"
+  }
+]

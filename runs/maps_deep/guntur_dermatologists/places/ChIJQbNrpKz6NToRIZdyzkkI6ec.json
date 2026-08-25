@@ -1,0 +1,98 @@
+{
+  "place_url": "https://www.google.com/maps/place/Dermo+Care+The+Complete+Skin+Clinic/data=!4m7!3m6!1s0x3a35faaca46bb341:0xe7e90849ce729721!8m2!3d16.5120926!4d80.6386788!16s%2Fg%2F1q2_dg6sr!19sChIJQbNrpKz6NToRIZdyzkkI6ec?authuser=0&hl=en&rclk=1",
+  "captured_at": "2026-08-20T19:39:46",
+  "feature_id": "0x3a35faaca46bb341:0xe7e90849ce729721",
+  "place_id": "ChIJQbNrpKz6NToRIZdyzkkI6ec",
+  "kg_mid": "/g/1q2",
+  "lat": 16.5120926,
+  "lng": 80.6386788,
+  "name_raw": "Dermo Care The Complete Skin Clinic",
+  "name_clean": "Dermo Care The Complete Skin Clinic",
+  "name_key": "dermocarethecompleteskinclinic",
+  "name_dropped": [],
+  "name_was_cleaned": false,
+  "category": "Dermatologist",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "33-25-34B, Puspha Hotel Rd, New Giri Puram, Suryaraopeta, Vijayawada, Andhra Pradesh 520002",
+  "plus_code": "GJ6Q+RF Vijayawada, Andhra Pradesh",
+  "phone": "095022 50555",
+  "website": "http://www.dermocareskinclinic.com/",
+  "website_domain": "dermocareskinclinic.com",
+  "website_type": "own_domain",
+  "has_own_website": true,
+  "insecure_http": true,
+  "website_matches_name": true,
+  "rating": 4.3,
+  "reviews_total": 137,
+  "rating_histogram": {
+    "5": 108,
+    "4": 7,
+    "3": 1,
+    "2": 0,
+    "1": 21
+  },
+  "histogram_sum": 137,
+  "histogram_reconciles": true,
+  "topics": {
+    "hairloss treatment": 4,
+    "pigmentation treatment": 3,
+    "scalp problem treatment": 2,
+    "prp": 3,
+    "dermo care": 4,
+    "acne treatment": 9,
+    "fast results": 2,
+    "confidence building": 2,
+    "experienced staff": 2,
+    "hair problems": 7
+  },
+  "google_profile_gaps": null,
+  "has_photos": true,
+  "hours": {
+    "Thursday": "9 am to 9 pm",
+    "Friday": "9 am to 9 pm",
+    "Saturday": "9 am to 9 pm",
+    "Sunday": "Closed",
+    "Monday": "9 am to 9 pm",
+    "Tuesday": "9 am to 9 pm",
+    "Wednesday": "9 am to 9 pm"
+  },
+  "about": {
+    "Map details": [
+      "Transit",
+      "Traffic",
+      "Biking",
+      "Terrain",
+      "Street View",
+      "Wildfires",
+      "Air Quality"
+    ],
+    "Map tools": [
+      "Travel time",
+      "Measure"
+    ],
+    "Map type": [
+      "Default",
+      "Satellite",
+      " Globe view ",
+      " Labels"
+    ]
+  },
+  "reviews": [],
+  "reviews_error": "reviews pane did not open",
+  "sorted_newest": false,
+  "reviews_captured": 0,
+  "owner_replies": 0,
+  "truncated_reviews": 0,
+  "reviews_coverage": 0.0,
+  "date_anchor": "2026-08-20T19:39:46",
+  "extract_seconds": 40.9,
+  "missing_fields": [
+    "reviews"
+  ],
+  "listing_position": 86,
+  "source_query": "dermatologists in Guntur",
+  "listing_name": "Dermo Care The Complete Skin Clinic"
+}

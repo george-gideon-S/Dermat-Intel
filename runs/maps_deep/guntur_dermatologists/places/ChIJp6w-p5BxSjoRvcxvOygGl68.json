@@ -1,0 +1,83 @@
+{
+  "place_url": "https://www.google.com/maps/place/Dr.+Nilofer+Banu+Shaik,+Treated+11K%2B+Patients+%7C+Best+Dermatologist+in+Guntur+%7C+Skin+%26+Hair+Specialist/data=!4m7!3m6!1s0x3a4a7190a73eaca7:0xaf9706283b6fccbd!8m2!3d16.2176!4d80.345!16s%2Fg%2F11sjdq_73j!19sChIJp6w-p5BxSjoRvcxvOygGl68?authuser=0&hl=en&rclk=1",
+  "captured_at": "2026-08-20T19:51:52",
+  "feature_id": "0x3a4a7190a73eaca7:0xaf9706283b6fccbd",
+  "place_id": "ChIJp6w-p5BxSjoRvcxvOygGl68",
+  "kg_mid": "/g/11sjdq",
+  "lat": 16.2176,
+  "lng": 80.345,
+  "name_raw": "Dr. Nilofer Banu Shaik, Treated 11K+ Patients | Best Dermatologist in Guntur | Skin & Hair Specialist",
+  "name_clean": "Dr. Nilofer Banu Shaik, Treated 11K+ Patients",
+  "name_key": "drniloferbanushaiktreated11kpatients",
+  "name_dropped": [
+    "Best Dermatologist in Guntur",
+    "Skin & Hair Specialist"
+  ],
+  "name_was_cleaned": true,
+  "category": "Dermatologist",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "Amaravathi Skin Care, Malapalle, Navabharath Nagar, Guntur, Yanamadala, Andhra Pradesh 522019",
+  "plus_code": "689W+22 Guntur, Andhra Pradesh",
+  "phone": "080 4696 1837",
+  "website": "https://www.apollo247.com/doctors/dr-Nilofer-Shaik-a8f1a617-5461-40b3-b6bb-1ede1c06aba6",
+  "website_domain": "apollo247.com",
+  "website_type": "aggregator_profile",
+  "has_own_website": false,
+  "insecure_http": false,
+  "website_matches_name": false,
+  "rating": null,
+  "reviews_total": null,
+  "rating_histogram": null,
+  "topics": null,
+  "google_profile_gaps": null,
+  "has_photos": true,
+  "hours": {
+    "Thursday": "10 am to 6 pm",
+    "Friday": "10 am to 6 pm",
+    "Saturday": "10 am to 6 pm",
+    "Sunday": "Closed",
+    "Monday": "10 am to 6 pm",
+    "Tuesday": "10 am to 6 pm",
+    "Wednesday": "10 am to 6 pm"
+  },
+  "about": {
+    "Map details": [
+      "Transit",
+      "Traffic",
+      "Biking",
+      "Terrain",
+      "Street View",
+      "Wildfires",
+      "Air Quality"
+    ],
+    "Map tools": [
+      "Travel time",
+      "Measure"
+    ],
+    "Map type": [
+      "Default",
+      "Satellite",
+      " Globe view ",
+      " Labels"
+    ]
+  },
+  "reviews": [],
+  "reviews_error": "reviews pane did not open",
+  "sorted_newest": false,
+  "reviews_captured": 0,
+  "owner_replies": 0,
+  "truncated_reviews": 0,
+  "date_anchor": "2026-08-20T19:51:52",
+  "extract_seconds": 40.7,
+  "missing_fields": [
+    "rating",
+    "reviews_total",
+    "reviews"
+  ],
+  "listing_position": 95,
+  "source_query": "dermatologists in Guntur",
+  "listing_name": "Dr. Nilofer Banu Shaik, Treated 11K+ Patients | Best Dermatologist in Guntur | Skin & Hair Specialist"
+}

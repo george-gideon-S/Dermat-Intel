@@ -1,0 +1,454 @@
+{
+  "place_url": "https://www.google.com/maps/place/Dr.+J.+Sowjanya+Laser+Skin+clinic/data=!4m7!3m6!1s0x3a4a75cf915d8a79:0x566666ffc8aedec1!8m2!3d16.3116941!4d80.4303856!16s%2Fg%2F11f5tw8k5w!19sChIJeYpdkc91SjoRwd6uyP9mZlY?authuser=0&hl=en&rclk=1",
+  "captured_at": "2026-08-20T18:35:23",
+  "feature_id": "0x3a4a75cf915d8a79:0x566666ffc8aedec1",
+  "place_id": "ChIJeYpdkc91SjoRwd6uyP9mZlY",
+  "kg_mid": "/g/11f5tw8k5w",
+  "lat": 16.3116941,
+  "lng": 80.4303856,
+  "name_raw": "Dr. J. Sowjanya Laser Skin clinic",
+  "name_clean": "Dr. J. Sowjanya Laser Skin clinic",
+  "name_key": "drjsowjanyalaserskinclinic",
+  "name_dropped": [],
+  "name_was_cleaned": false,
+  "category": "Skin care clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "4th lane, Off, Lakshmipuram Main Rd, Lakshmipuram, Guntur, Andhra Pradesh 522007",
+  "plus_code": "8C6J+M5 Guntur, Andhra Pradesh",
+  "phone": "0863 223 6952",
+  "website": "",
+  "website_domain": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "insecure_http": false,
+  "website_matches_name": null,
+  "rating": 4.4,
+  "reviews_total": 40,
+  "rating_histogram": {
+    "5": 32,
+    "4": 2,
+    "3": 1,
+    "2": 1,
+    "1": 4
+  },
+  "histogram_sum": 40,
+  "histogram_reconciles": true,
+  "topics": {
+    "patient care": 2,
+    "treatment": 3
+  },
+  "google_profile_gaps": [
+    "Add hours",
+    "Add website"
+  ],
+  "has_photos": true,
+  "hours": null,
+  "about": {
+    "Amenities": [
+      " Restroom"
+    ],
+    "Planning": [
+      " Appointments recommended"
+    ],
+    "Map details": [
+      "Transit",
+      "Traffic",
+      "Biking",
+      "Terrain",
+      "Street View",
+      "Wildfires",
+      "Air Quality"
+    ],
+    "Map tools": [
+      "Travel time",
+      "Measure"
+    ],
+    "Map type": [
+      "Default",
+      "Satellite",
+      " Globe view ",
+      " Labels"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWTldHVnFTM05zTlRGUlRuQjBUek5sUm1sQ1ZGRRAB",
+      "author": "Muppaneni Vamsikrishna",
+      "rating": 5,
+      "relative_date": "a week ago",
+      "text": "Madam treatment is very excellent",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwMWNXWjNiSGRHTFVsbVZ6aDBWVUl6VkVVMVNFRRAB",
+      "author": "Srinivas Srinu",
+      "rating": 5,
+      "relative_date": "3 weeks ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oNlUzTnplRU40V25KbVdXZEVZbE51T1RsM1ZtYxAB",
+      "author": "Srinivas rao Chavala",
+      "rating": 5,
+      "relative_date": "3 weeks ago",
+      "text": "Good 👍 …",
+      "maybe_truncated": true,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214dE4wcHliVzFxUzJGMWIzQTJYMVJCVURoc1dVRRAB",
+      "author": "suresh muppavarapu",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "Very good experience. Clean clinic, empathetic doctor.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsM2RFZFplV1E1YlROQlMwMDBSRVIzWDFkUGVtYxAB",
+      "author": "Katta Sailaja",
+      "rating": 5,
+      "relative_date": "5 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toSldtTkJXVkYxVURscU5HZ3dZM0ZFWTJsSFNVRRAB",
+      "author": "Seshi reddy Bonthu",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25keFlqRlZiVzlQTkVSek1EYzNOak5oYlc5bE5VRRAB",
+      "author": "Badri Yenibera",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WWU1GVjNhVFpqTVZVdFdqbDZNalJEVFZsWFQwRRAB",
+      "author": "bhavani Mudukuri",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "Very Good lost cost",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCV1RqTlJRbFJHUms5TlRYY3piM0EwYW5kTVIxRRAB",
+      "author": "Prudhvi venkatesh Thokala",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaeVFrUkhXR3d5WDJwWGQwWmhPRFZUTW1WWWVtYxAB",
+      "author": "Shree Vaishnovi",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21obFJFVTNVMTlPVTBwc1pWVjFhbkpHTldaaU1tYxAB",
+      "author": "jaladi sunitha",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toaWVFNTBURXBRWTFOTGNEY3hiMjB4YzNod1JtYxAB",
+      "author": "Purnachandrarao Ch",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNzdE1YQ2tBRRAB",
+      "author": "SRINIVASA RAO PURAM",
+      "rating": 5,
+      "relative_date": "Edited a year ago",
+      "text": "Since I couldn’t get an immediate appointment with a reputed skin specialist in Guntur, I consulted Dr. J. Sowjanya. She promptly started treatment and modified the medication twice based on my response. Later, she advised a skin biopsy, which fortunately came back negative.\n\nMeanwhile, I managed to get an appointment with the reputed doctor who had previously treated my skin issues. However, after examining me, he concluded that the disease was incurable. He even returned the consultation fee and didn’t prescribe any treatment. That was a low point for me—I had lost hope.\n\nDespite this, I continued Dr. Sowjanya’s treatment. She again adjusted the medication and suggested it might be a seasonal condition. This time, she changed the antihistamine, and to my surprise, the rashes began to disappear. Eventually, they cleared up completely.\n\nThough she is relatively junior, Dr. Sowjanya’s patient and thoughtful approach—trying different medications with care—led to a successful outcome. I’m truly thankful to her.\n\nThis incident clearly shows that even experienced experts can sometimes misdiagnose, while a sincere and methodical approach can make all the difference.\n\nI strongly recommend Dr. J. Sowjanya. She is calm, non-commercial, and cautious in her treatment. She avoids unnecessary antibiotics and steroids, aiming for real healing rather than temporary symptom suppression.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURmbmQtVU9BEAE",
+      "author": "Madhava Tupakula",
+      "rating": 1,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNQb3RMVnFBRRAB",
+      "author": "Kalimatha",
+      "rating": 1,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURiNGFYRXZBRRAB",
+      "author": "deepika kalluri",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURyaDZEV1dBEAE",
+      "author": "Priyanka Chappidi",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURyc09iXzVnRRAB",
+      "author": "manasa datta",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUREeGV2Y3RnRRAB",
+      "author": "Harika Reddy",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNONDlmby1BRRAB",
+      "author": "Reshma Addanki",
+      "rating": 3,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNWenZXb1h3EAE",
+      "author": "Hansika Talapaneni",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ1OFppUHNRRRAB",
+      "author": "YAMINI sarimalla",
+      "rating": 4,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM1aW8zU3BRRRAB",
+      "author": "Dinesh M",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURacmJfT3J3RRAB",
+      "author": "Nalam Sujatha",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwdWZERWtnRRAB",
+      "author": "RAJA YELLAPRAGADA",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwMG9ieG93RRAB",
+      "author": "Sneha Parimi",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Went for warts removal...\nSOWJANYA Mam is very professional and experienced, her caring towards on her patient is really appreciated.\nStaff also responded very well\nVery reasonable also...\nEntire clinic is so neat and tidy ..very peaceful ..\nI strongly recommend her for skin and laser treatments....",
+      "maybe_truncated": true,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtZ00zdFhREAE",
+      "author": "rasheed shaik",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "It's very very nice treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNlNkl2NDd3RRAB",
+      "author": "Jagadeesh Chandra",
+      "rating": 1,
+      "relative_date": "3 years ago",
+      "text": "Very very worst staff and no manners at that people front office people not set in the hospital\nThe both people were selling black ticket people",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQyaDlDbklBEAE",
+      "author": "GARIMIDI SRINIVASARAO",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Nice treatment,",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURHN19xSmFREAE",
+      "author": "Gopal kota",
+      "rating": 4,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR5eFBUdE9nEAE",
+      "author": "kundana Dachepalli",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNpOXEya3J3RRAB",
+      "author": "HEMA SRI",
+      "rating": 1,
+      "relative_date": "5 years ago",
+      "text": "Pathetic and worst service and no manners at all towards patients from staff...!!!. doctor also very arrogant..😡😡😡 …",
+      "maybe_truncated": true,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM4emZQZmVnEAE",
+      "author": "Srinith Patibandla",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNJczdxT2d3RRAB",
+      "author": "sandhya gurrala",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "I have good experience and good treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNJZzRxTVdnEAE",
+      "author": "Siri N",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Cure very fast and no side effects",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNJNnMzcU5nEAE",
+      "author": "Showkat Shaik",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNBczdHLXVRRRAB",
+      "author": "Sreenu G",
+      "rating": 5,
+      "relative_date": "8 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURRbXZQVzRnRRAB",
+      "author": "zing zing telugu",
+      "rating": 2,
+      "relative_date": "8 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN3bjk2RHVRRRAB",
+      "author": "Laly Steven",
+      "rating": 5,
+      "relative_date": "8 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURBMkl6TEd3EAE",
+      "author": "satyanarayana vasantha",
+      "rating": 5,
+      "relative_date": "8 years ago",
+      "text": "this hospital treats all skin related diseases. well trained doctor treats the exact cause of symptoms and don't prescribe unwanted medicines as done in corporate hospitals.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    }
+  ],
+  "reviews_error": "",
+  "sorted_newest": true,
+  "stopped_at_known_review": false,
+  "reviews_captured": 40,
+  "owner_replies": 0,
+  "truncated_reviews": 3,
+  "reviews_coverage": 1.0,
+  "date_anchor": "2026-08-20T18:35:23",
+  "extract_seconds": 50.1,
+  "missing_fields": [
+    "website",
+    "hours"
+  ],
+  "listing_position": 34,
+  "source_query": "dermatologists in Guntur",
+  "listing_name": "Dr. J. Sowjanya Laser Skin clinic"
+}

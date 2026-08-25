@@ -1,0 +1,354 @@
+{
+  "place_url": "https://www.google.com/maps/place/Shefa+Chest+Clinic/data=!4m7!3m6!1s0x3a4a754b0a166fb5:0x8602fef3ec555c40!8m2!3d16.2945287!4d80.4539594!16s%2Fg%2F11c4nxcbhw!19sChIJtW8WCkt1SjoRQFxV7PP-AoY?authuser=0&hl=en&rclk=1",
+  "captured_at": "2026-08-20T19:01:01",
+  "feature_id": "0x3a4a754b0a166fb5:0x8602fef3ec555c40",
+  "place_id": "ChIJtW8WCkt1SjoRQFxV7PP-AoY",
+  "kg_mid": "/g/11c4nxcbhw",
+  "lat": 16.2945287,
+  "lng": 80.4539594,
+  "name_raw": "Shefa Chest Clinic",
+  "name_clean": "Shefa Chest Clinic",
+  "name_key": "shefachestclinic",
+  "name_dropped": [],
+  "name_was_cleaned": false,
+  "category": "Medical clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "adjacent",
+  "basis": "category",
+  "address": "7FV3+RH8, Gunturvari Thota, Kothapeta, Guntur, Andhra Pradesh 522001",
+  "plus_code": "",
+  "phone": "0863 222 8486",
+  "website": "",
+  "website_domain": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "insecure_http": false,
+  "website_matches_name": null,
+  "rating": 4.5,
+  "reviews_total": 28,
+  "rating_histogram": {
+    "5": 20,
+    "4": 5,
+    "3": 1,
+    "2": 0,
+    "1": 2
+  },
+  "histogram_sum": 28,
+  "histogram_reconciles": true,
+  "topics": {
+    "cough treatment": 2,
+    "cough": 2,
+    "doctor": 2,
+    "treatment": 2
+  },
+  "google_profile_gaps": [
+    "Add hours",
+    "Add website"
+  ],
+  "has_photos": true,
+  "hours": null,
+  "about": {
+    "Accessibility": [
+      " Wheelchair-accessible car park",
+      " Wheelchair-accessible entrance",
+      " Wheelchair-accessible toilet"
+    ],
+    "Amenities": [
+      " Restroom"
+    ],
+    "Planning": [
+      " Appointments recommended"
+    ],
+    "Map details": [
+      "Transit",
+      "Traffic",
+      "Biking",
+      "Terrain",
+      "Street View",
+      "Wildfires",
+      "Air Quality"
+    ],
+    "Map tools": [
+      "Travel time",
+      "Measure"
+    ],
+    "Map type": [
+      "Default",
+      "Satellite",
+      " Globe view ",
+      " Labels"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taSVRHRnlOVEZEUTNoV1EyNTJSemRpWm5velEwRRAB",
+      "author": "Hafiz Fazal",
+      "rating": 4,
+      "relative_date": "a week ago",
+      "text": "Dr Tajuddin ortho\nGood job\nGood treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aVmJFcFdNSGhWYXpsMU9GQTJVR3BXV25aNVUzYxAB",
+      "author": "Asifa Asifa",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "One Of The Best Hospital In Andra... Amazing treatment with affordable price",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJbFBPRnJBRRAB",
+      "author": "Aashik Adam",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Good stafff",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfNG9Hb2tRRRAB",
+      "author": "Mohammed Habeeb Mussaddiq",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Best doctor for chest and lung issues",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNfd3M3TExnEAE",
+      "author": "Quashiya Qualla",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURQdzczdUhnEAE",
+      "author": "SYED SHAFIA ZAINAB",
+      "rating": 4,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNuOVkycU5REAE",
+      "author": "Dayakar Gannepalli",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURIbWItVDVRRRAB",
+      "author": "Aashik Shahid",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ5ckpfbkR3EAE",
+      "author": "Raghavendra Rao",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "We visited the doctor on 13th March 2024. My wife is suffering from cough (from last 3 months) from the time we landed in India. We spent a lot of money with no use. Dr. Mustafa garu did one x-ray and identified the problem. My wife got relief with in a day. He explained the problem very well and solution also..\nThank you Mustafa garu..",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURWblptc21nRRAB",
+      "author": "Nayab rasul Shaik",
+      "rating": 4,
+      "relative_date": "2 years ago",
+      "text": "Good",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNCbDhQbHRBRRAB",
+      "author": "Bushra Anjum Shaik",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Superb.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNCd1lXN1J3EAE",
+      "author": "anigandla seshagiri",
+      "rating": 4,
+      "relative_date": "3 years ago",
+      "text": "Best doctor Good service",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNCd2JMN2J3EAE",
+      "author": "feroz shaik",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Good service 👍 …",
+      "maybe_truncated": true,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNCZ1otZURnEAE",
+      "author": "Hyd Chakri",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Well experienced doctor now a days reganabul treatment and talk friendly with patients",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQtNmZmRXVBRRAB",
+      "author": "Basheer Basha",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlM2NQaWxBRRAB",
+      "author": "Nazeer Shaik",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Best doctor for asthama ,cough and cold in guntur",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMybW9DUG5BRRAB",
+      "author": "Ammu",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURXbEpiVDdBRRAB",
+      "author": "tadiparthi niranjan",
+      "rating": 4,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURLcGNTRzJBRRAB",
+      "author": "Rahin Shaik",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "Dr mustafa sir, exllent treatment with support, humble and good heart nature to treat the patient's...god bless you sir",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURLNktuNEh3EAE",
+      "author": "PATRI LALITHABABU",
+      "rating": 3,
+      "relative_date": "5 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN5dklEVm1RRRAB",
+      "author": "ismail sd",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURTZzhuR2dnRRAB",
+      "author": "Zeba Salmeen",
+      "rating": 1,
+      "relative_date": "5 years ago",
+      "text": "Utter waste doctor and staff. Only money minded. If u give test samples or reports from another lad they don't even see ur reports.. They just need their own lab test reports. Staff of op and pharmacy was walgar staff they don't even care about patients. Dr mustafa was a begger of money me and my father were cried in front of dr but that begger fellow don't even give medicine bcoz we don't get money for admission. Plz don't go to thz hospital try another hospital 🙏🙏🙏",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM4aTc2TVhBEAE",
+      "author": "Mastan Shah Shaik",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNzem91RUJnEAE",
+      "author": "Mohammad Ashiq Hussain",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNzalAtTjl3RRAB",
+      "author": "VENKATA SEKHAR GANJAM",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNZbzd1R1VREAE",
+      "author": "siva p",
+      "rating": 1,
+      "relative_date": "7 years ago",
+      "text": "We have had two bad experiences with Dr. Mustafa. He is very casual in his diagnosis, and you are just another customer to him. In the first instance, after ruling out chest infection, he was about to dismiss us and we had to really coax him to make examine my mother more. Upon such insistence he identified the onset of cellulitis. Instead of educating us the importance of following up on that condition, he casually mentioned that we might want to see another general practitioner. It could have been fatal, has we not, by stroke of luck followed up. In the second instance, we got an x-ray done, as per his recommendation which actually was the right recommendation. But instead of probing the x-ray in depth and identify the onset of another serious condition, he was very casual in his examination, which turned to be very traumatic to us. I will avoid the details. But suffice to say that Dr. Mustafa should take interest in patient and have a desire to heal patients rather than seeing them as customers. His bedside manners also leave much to be desired. Hope he gets to see this review and improve his functioning. I am appalled to see the other two positive reviews which seem to have been ghost scripted by himself.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNJNmQzLUN3EAE",
+      "author": "rahim sk",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNBMjlyNXF3RRAB",
+      "author": "Ayaz Basha Shaik",
+      "rating": 5,
+      "relative_date": "9 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    }
+  ],
+  "reviews_error": "",
+  "sorted_newest": true,
+  "stopped_at_known_review": false,
+  "reviews_captured": 28,
+  "owner_replies": 0,
+  "truncated_reviews": 1,
+  "reviews_coverage": 1.0,
+  "date_anchor": "2026-08-20T19:01:01",
+  "extract_seconds": 64.1,
+  "missing_fields": [
+    "plus_code",
+    "website",
+    "hours"
+  ],
+  "listing_position": 56,
+  "source_query": "dermatologists in Guntur",
+  "listing_name": "Shefa Chest Clinic"
+}

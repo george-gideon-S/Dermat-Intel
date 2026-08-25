@@ -1,0 +1,98 @@
+{
+  "place_url": "https://www.google.com/maps/place/Dr+Vamsi+Multispeciality+Homeopathic+Hospitals/data=!4m7!3m6!1s0x3a4a759ab9ecedab:0x8b38edb41a007bd8!8m2!3d16.2985862!4d80.4498699!16s%2Fg%2F11tbz4lh77!19sChIJq-3suZp1SjoR2HsAGrTtOIs?authuser=0&hl=en&rclk=1",
+  "captured_at": "2026-08-20T19:35:47",
+  "feature_id": "0x3a4a759ab9ecedab:0x8b38edb41a007bd8",
+  "place_id": "ChIJq-3suZp1SjoR2HsAGrTtOIs",
+  "kg_mid": "/g/11tbz4lh77",
+  "lat": 16.2985862,
+  "lng": 80.4498699,
+  "name_raw": "Dr Vamsi Multispeciality Homeopathic Hospitals",
+  "name_clean": "Dr Vamsi Multispeciality Homeopathic Hospitals",
+  "name_key": "drvamsimultispecialityhomeopathichospitals",
+  "name_dropped": [],
+  "name_was_cleaned": false,
+  "category": "Homeopath",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "adjacent",
+  "basis": "category",
+  "address": "SHOP NO.7, FIRST FLOOR, Doctors Plaza, YEDAVALLI, Seelam Vari St, opposite ADARSHA HOSPITALS, Kothapeta, Guntur, Andhra Pradesh 522001",
+  "plus_code": "7CXX+CW Guntur, Andhra Pradesh",
+  "phone": "088266 68133",
+  "website": "https://sites.google.com/view/vamsihomeopathy/home",
+  "website_domain": "sites.google.com",
+  "website_type": "google_business_site",
+  "has_own_website": true,
+  "insecure_http": false,
+  "website_matches_name": false,
+  "rating": 5.0,
+  "reviews_total": 24,
+  "rating_histogram": {
+    "5": 24,
+    "4": 0,
+    "3": 0,
+    "2": 0,
+    "1": 0
+  },
+  "histogram_sum": 24,
+  "histogram_reconciles": true,
+  "topics": {
+    "advanced homeopathy treatment": 5,
+    "skin allergy": 2,
+    "experienced doctor": 4,
+    "chronic": 2,
+    "effective medicine": 2,
+    "nature": 2,
+    "suffering": 2,
+    "doctor": 5,
+    "arthritis": 2,
+    "sir": 10
+  },
+  "google_profile_gaps": null,
+  "has_photos": true,
+  "hours": {
+    "Thursday": "2 to 2:30 pm",
+    "Friday": "2 to 2:30 pm",
+    "Saturday": "2 to 2:30 pm",
+    "Sunday": "2 to 2:30 pm",
+    "Monday": "2 to 2:30 pm",
+    "Tuesday": "2 to 2:30 pm",
+    "Wednesday": "2 to 2:30 pm"
+  },
+  "about": {
+    "Map details": [
+      "Transit",
+      "Traffic",
+      "Biking",
+      "Terrain",
+      "Street View",
+      "Wildfires",
+      "Air Quality"
+    ],
+    "Map tools": [
+      "Travel time",
+      "Measure"
+    ],
+    "Map type": [
+      "Default",
+      "Satellite",
+      " Globe view ",
+      " Labels"
+    ]
+  },
+  "reviews": [],
+  "reviews_error": "reviews pane did not open",
+  "sorted_newest": false,
+  "reviews_captured": 0,
+  "owner_replies": 0,
+  "truncated_reviews": 0,
+  "reviews_coverage": 0.0,
+  "date_anchor": "2026-08-20T19:35:47",
+  "extract_seconds": 40.9,
+  "missing_fields": [
+    "reviews"
+  ],
+  "listing_position": 81,
+  "source_query": "dermatologists in Guntur",
+  "listing_name": "Dr Vamsi Multispeciality Homeopathic Hospitals"
+}

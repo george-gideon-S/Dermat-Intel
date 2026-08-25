@@ -1,0 +1,241 @@
+{
+  "place_url": "https://www.google.com/maps/place/SS+Clinic,+Dr.C.Koteswara+Rao/data=!4m7!3m6!1s0x3a4a7543f7e8d817:0x78a1b2803fea70b!8m2!3d16.3055754!4d80.4403036!16s%2Fg%2F11bxddlmnk!19sChIJF9jo90N1SjoRC6f-Aygbigc?authuser=0&hl=en&rclk=1",
+  "captured_at": "2026-08-20T19:04:48",
+  "feature_id": "0x3a4a7543f7e8d817:0x78a1b2803fea70b",
+  "place_id": "ChIJF9jo90N1SjoRC6f-Aygbigc",
+  "kg_mid": "/g/11bxddlmnk",
+  "lat": 16.3055754,
+  "lng": 80.4403036,
+  "name_raw": "SS Clinic, Dr.C.Koteswara Rao",
+  "name_clean": "SS Clinic, Dr.C.Koteswara Rao",
+  "name_key": "ssclinicdrckoteswararao",
+  "name_dropped": [],
+  "name_was_cleaned": false,
+  "category": "Doctor",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "adjacent",
+  "basis": "category",
+  "address": "10 / 3, Old Pichikala Gunta, Arundelpet, Guntur, Andhra Pradesh 522002",
+  "plus_code": "8C4R+64 Guntur, Andhra Pradesh",
+  "phone": "090598 97766",
+  "website": "",
+  "website_domain": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "insecure_http": false,
+  "website_matches_name": null,
+  "rating": 4.9,
+  "reviews_total": 16,
+  "rating_histogram": {
+    "5": 15,
+    "4": 0,
+    "3": 1,
+    "2": 0,
+    "1": 0
+  },
+  "histogram_sum": 16,
+  "histogram_reconciles": true,
+  "topics": {
+    "hygiene": 2
+  },
+  "google_profile_gaps": [
+    "Add website"
+  ],
+  "has_photos": true,
+  "hours": {
+    "Thursday": "7 am to 1 pm",
+    "Friday": "7 am to 1 pm",
+    "Saturday": "7 am to 1 pm",
+    "Sunday": "Closed",
+    "Monday": "7 am to 1 pm",
+    "Tuesday": "7 am to 1 pm",
+    "Wednesday": "7 am to 1 pm"
+  },
+  "about": {
+    "స్ క్లినిక్, డా.సి.కోటేశ్వర రావ్": [
+      "7 am–1 pm",
+      "Closed"
+    ],
+    "Map details": [
+      "Transit",
+      "Traffic",
+      "Biking",
+      "Terrain",
+      "Street View",
+      "Wildfires",
+      "Air Quality"
+    ],
+    "Map tools": [
+      "Travel time",
+      "Measure"
+    ],
+    "Map type": [
+      "Default",
+      "Satellite",
+      " Globe view ",
+      " Labels"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKdlZYWkJkMFJPVVRaUk9HVldWREZWWjNGTWRHYxAB",
+      "author": "Mandalaneni Srinivasarao",
+      "rating": 5,
+      "relative_date": "4 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURidHZtOTlRRRAB",
+      "author": "Kanumuri Srikanth",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Friendly staff and nice environment.\nHospital bagundi.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURidHBiWUhnEAE",
+      "author": "Lakshmi Narayana Maddigunta",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Clinic is gud.\nGood hygiene and nice hospitality",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURidHRyUDV3RRAB",
+      "author": "gopi chand nandyala",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Clinic is very hyginic",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNyanBqc1p3EAE",
+      "author": "T Gopi",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURqNzlIOTFnRRAB",
+      "author": "Shaik Mujeeb",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "siva garu great servec sir  nice thank you sir",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURqNzdDMzNnRRAB",
+      "author": "Chandaluri Subbarao",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Great service Siva naik garu",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURaNW9YSGl3RRAB",
+      "author": "krishna kishore",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Most experienced, simple and the BEST",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNabWFYdG9RRRAB",
+      "author": "shaik arshad",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Best",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKa0kzTk9REAE",
+      "author": "Lakshmi Parvathi",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNlaHBybkRREAE",
+      "author": "Guruva Reddy Bogolu",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Good person",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURDc3FHTTF3RRAB",
+      "author": "Kishan Donepudi",
+      "rating": 3,
+      "relative_date": "5 years ago",
+      "text": "Good for adults diabetes",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZcE5faHZ3RRAB",
+      "author": "Victor Mutluri",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN3NnJDRkxREAE",
+      "author": "Narayana Reddy",
+      "rating": 5,
+      "relative_date": "10 years ago",
+      "text": "The way how you could treat the patients is excellent sir",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURBczh6Nk5BEAE",
+      "author": "V Krish",
+      "rating": 5,
+      "relative_date": "10 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNncGR1RElREAE",
+      "author": "krishnamohan katneni",
+      "rating": 5,
+      "relative_date": "10 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    }
+  ],
+  "reviews_error": "",
+  "sorted_newest": true,
+  "stopped_at_known_review": false,
+  "reviews_captured": 16,
+  "owner_replies": 7,
+  "truncated_reviews": 0,
+  "reviews_coverage": 1.0,
+  "date_anchor": "2026-08-20T19:04:48",
+  "extract_seconds": 55.2,
+  "missing_fields": [
+    "website"
+  ],
+  "listing_position": 60,
+  "source_query": "dermatologists in Guntur",
+  "listing_name": "SS Clinic, Dr.C.Koteswara Rao"
+}

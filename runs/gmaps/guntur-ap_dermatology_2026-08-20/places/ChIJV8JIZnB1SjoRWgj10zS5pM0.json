@@ -1,0 +1,3226 @@
+{
+  "key": "ChIJV8JIZnB1SjoRWgj10zS5pM0",
+  "tier": "full",
+  "complete": true,
+  "place_url": "https://www.google.com/maps/place/Chandana+Skin+Clinic+%7C+Dermatologist+%7C+Cosmetologist+%7C+Laser+Scar+Treatment,+Laser+hair+reduction/data=!4m7!3m6!1s0x3a4a75706648c257:0xcda4b934d3f5085a!8m2!3d16.3078417!4d80.437204!16s%2Fg%2F11f6q7ddn4!19sChIJV8JIZnB1SjoRWgj10zS5pM0?authuser=0&hl=en&rclk=1",
+  "captured_at": "2026-08-20T22:58:33",
+  "rank": 5,
+  "place_id": "ChIJV8JIZnB1SjoRWgj10zS5pM0",
+  "feature_id": "0x3a4a75706648c257:0xcda4b934d3f5085a",
+  "kg_mid": "/g/11f6q7ddn4",
+  "lat": 16.3078417,
+  "lng": 80.437204,
+  "dup_of_rank": null,
+  "has_online_booking": false,
+  "booking_url": "",
+  "booking_vendor": "",
+  "service_options": null,
+  "permanently_closed": false,
+  "temporarily_closed": false,
+  "status_text": "Closed · Opens 10 am Fri",
+  "open_now": false,
+  "is_ad": false,
+  "review_snippet": "",
+  "name_raw": "Chandana Skin Clinic | Dermatologist | Cosmetologist | Laser Scar Treatment, Laser hair reduction",
+  "name_clean": "Chandana Skin Clinic",
+  "name_key": "chandanaskinclinic",
+  "name_dropped": [
+    "Dermatologist",
+    "Cosmetologist",
+    "Laser Scar Treatment, Laser hair reduction"
+  ],
+  "name_was_cleaned": true,
+  "category": "Skin care clinic",
+  "card_category": "Dermatologist",
+  "category_mismatch": true,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "18/1, Arundelpet, behind Joy Alukkas Jewellery Showroom, opposite siva cinemas, Guntur, Andhra Pradesh 522002",
+  "plus_code": "8C5P+4V Guntur, Andhra Pradesh",
+  "phone": "063034 53939",
+  "website": "https://chandanaskinclinic.com/",
+  "website_domain": "chandanaskinclinic.com",
+  "website_type": "own_domain",
+  "insecure_http": false,
+  "has_own_website": true,
+  "website_matches_name": true,
+  "rating": 4.6,
+  "reviews_total": 385,
+  "rating_histogram": {
+    "5": 330,
+    "4": 22,
+    "3": 3,
+    "2": 8,
+    "1": 22
+  },
+  "histogram_sum": 385,
+  "histogram_reconciles": true,
+  "topics": {
+    "psoriasis treatment": 3,
+    "pimple treatment": 3,
+    "laser toning": 2,
+    "hair treatment": 14,
+    "dull skin treatment": 2,
+    "polite staff": 17,
+    "calm doctor": 3,
+    "doctor explanation": 3,
+    "talented doctor": 6,
+    "clear explanations": 9
+  },
+  "google_profile_gaps": null,
+  "has_photos": true,
+  "hours": {
+    "Thursday": "10 am to 1:30 pm",
+    "Friday": "10 am to 1:30 pm, 5 to 7:30 pm",
+    "Saturday": "10 am to 1:30 pm",
+    "Sunday": "Closed",
+    "Monday": "10 am to 1:30 pm",
+    "Tuesday": "10 am to 1:30 pm, 5 to 7 pm",
+    "Wednesday": "10 am to 1:30 pm"
+  },
+  "about": {
+    "Accessibility": [
+      " Wheelchair-accessible car park",
+      " Wheelchair-accessible entrance",
+      " Wheelchair-accessible toilet"
+    ],
+    "From the business": [
+      " Identifies as women-owned"
+    ],
+    "Service options": [
+      " On-site services"
+    ],
+    "Amenities": [
+      " Restroom"
+    ],
+    "Planning": [
+      " Appointments recommended"
+    ],
+    "Payments": [
+      " Credit cards",
+      " Debit cards",
+      " Google Pay",
+      " NFC mobile payments"
+    ],
+    "Map details": [
+      "Transit",
+      "Traffic",
+      "Biking",
+      "Terrain",
+      "Street View",
+      "Wildfires",
+      "Air Quality"
+    ],
+    "Map tools": [
+      "Travel time",
+      "Measure"
+    ],
+    "Map type": [
+      "Default",
+      "Satellite",
+      " Globe view ",
+      " Labels"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGeVptVlhTa3RmVGt0VE5uVjVWR2hRWjNkSmRrRRAB",
+      "author": "Prathyusha N",
+      "rating": 5,
+      "relative_date": "5 days ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sbVdGQmxZbHBvWTNkbmIzSjRkVTU2TFdnMmJFRRAB",
+      "author": "Mani Krishna",
+      "rating": 5,
+      "relative_date": "6 days ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4aVRsVXlPV1J2VTNKWlNIUklWbXRyUWpadU9HYxAB",
+      "author": "Ekkurthi Jyothi",
+      "rating": 5,
+      "relative_date": "a week ago",
+      "text": "Doctor has so much patience.excellent result in treatments.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSRVZuTmtZakkyYUhsak4zTmFTVWRtUlhkaVJVRRAB",
+      "author": "Abid Shaik",
+      "rating": 5,
+      "relative_date": "a week ago",
+      "text": "I Got A Wonderful Results For My Hair After Visiting This Clinic.  Thank you",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGWVZFazROa3hrY3pSNlVFVlVVV3cwTmswM1FuYxAB",
+      "author": "abraham hepsibah",
+      "rating": 5,
+      "relative_date": "a week ago",
+      "text": "Doctor chandana is very pleasant.Her diagnosis is perfect,and she prescribes good medicines, without any side effects Hospital ambience is nice.staffare very polite.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsdmRGWnhZbFJYV2tkbVRWWlJWamt5TFdoTFpHYxAB",
+      "author": "Shaik Mehamood",
+      "rating": 5,
+      "relative_date": "a week ago",
+      "text": "Good results",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGVlQzQmhOM0ZVYTBWdWExOHhSbEpLWW5SVFYxRRAB",
+      "author": "Tanneru Shanmukha priya",
+      "rating": 5,
+      "relative_date": "2 weeks ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xFM2VGWlNVSGR6VDFkcmFGOVBZbEI0VHpaVFdXYxAB",
+      "author": "dadanaboina dharmaraju",
+      "rating": 5,
+      "relative_date": "2 weeks ago",
+      "text": "Long time sebhoric dermatitis cured in short span ,Good doctor.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWSFh5MDJlRWxuZURka1pVRmZUWHBETlRoeVNHYxAB",
+      "author": "SriSha kumar",
+      "rating": 5,
+      "relative_date": "2 weeks ago",
+      "text": "Mam was very kind, listened carefully to all my problems, and made me feel calm and team was very polite, attentive, and quick to respond whenever needed help.\nThank you so much. Amazing experience",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KWGFVaDFSbDlSTVVGcVdqaEpNRFJTTkVwSGIzYxAB",
+      "author": "Sai Manoj Manu",
+      "rating": 5,
+      "relative_date": "2 weeks ago",
+      "text": "Good Results with Good Treatments",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twMFdtWkpOMVpyU25WSVR6UXlOVlZ6UW5CV2JYYxAB",
+      "author": "DPH-30 Rahamath Shaik",
+      "rating": 5,
+      "relative_date": "2 weeks ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GVkxXWjNaVXhpYkZsUlJpMDBNM1ZLYVY4MWFrRRAB",
+      "author": "Narendra Vuyyala",
+      "rating": 5,
+      "relative_date": "2 weeks ago",
+      "text": "good results and best doctor",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoU1owNDJhMTlaVEhaZlVHSkNTMnRGVFZSVFIyYxAB",
+      "author": "Asu Ramu",
+      "rating": 5,
+      "relative_date": "2 weeks ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGbGJEQmFkV294YTBSMFFXSkdXRXRpTm5aUllWRRAB",
+      "author": "gowthami mogili",
+      "rating": 5,
+      "relative_date": "4 weeks ago",
+      "text": "Medicine is working well",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tvdGMzaDRTekpVVlhocmNXdDRaRUpTWld4a2RYYxAB",
+      "author": "navya Sri25",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "Nyc hospitality.... Friendly staff.... We came for an allergy issue.... They treated my mother so well.... Very friendly... And felt safe here",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tONFZqUlhUVVphUm5ObFdIYzRRVXhFWlZaWFIzYxAB",
+      "author": "Lakshmi Prasanna",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "I visited Chandana skin clinic for my skin clinic.Im very satisfied with the treatment.\nThis clinic was well maintained and staff here are very supportive.I would definitely recommend this clinic",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKcU5uRnVhQzFWU1hsTVFuWjVRM1ZZT1dSQ2VVRRAB",
+      "author": "Sai Divya",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "I have been taking treatment. Since, 7 months. It was worth visiting here..",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWWFgzTk1ZbGRJZW5WQ0xUUTVNMXBUVlVWQ1pXYxAB",
+      "author": "jashwanth chowdary Vattikonda",
+      "rating": 4,
+      "relative_date": "a month ago",
+      "text": "Excellent skin care hospital with experienced doctors and friendly staff. The consultation was clear, and the treatment showed great results. The hospital is clean, well-maintained, and highly professional. Highly recommended!",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KNlJHSXRNbEV4ZUUwd1ZYZFlPRFpwYkdSVVRGRRAB",
+      "author": "kiran sai Kesana",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "The doctor genuinely listens, provides clear explanations, and doesn't push unnecessary tests or expensive medications.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tRMVowa3RSbXRwYW1Kdk1uUmpaM0kxV0RsaWMwRRAB",
+      "author": "DINESH REDDY",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "The doctors and staff members are extremely responsive, supportive, and professional. They provide some of the best skin treatments with great care and attention to detail. Highly recommended for anyone looking for quality skin care.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkWGJ5MDNkM0JtYzNkTk1ua3lTWFJOTFhKM1dVRRAB",
+      "author": "Maddhali Murali Krishna",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "Treatment was excellent. staff were attentive and treated the patients very well",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sMmRHRm5aMFkzVFdSdFYxVnRRbFI0U1dFemJGRRAB",
+      "author": "VIDUDALA CHANDU BABU",
+      "rating": 1,
+      "relative_date": "a month ago",
+      "text": "Worst service mainly who is in reception and answering the call that lady is not answering properly to the customer and talking rudely",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GV2JWUjFaWGhYUkRoeVZtNUdSR1ZwWlUxS0xWRRAB",
+      "author": "sri divya",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "the way ma'am treating the patients.. and the staff are how nice and supportive",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oMVMzWlRlR3huV1dreFRuRnpaMHB4TVd3M2MyYxAB",
+      "author": "Mohasina parveen Shaik",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "I visited Chandana skin care for acne\nBetter result for my acne  Treatment was good TQ Doctor chandana Mam",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21rMFRIWnRhbk5JVXpWaFpURTBaMHB2YjI1UlFXYxAB",
+      "author": "Gagana Betapudi",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "Treats good and take care with gentle",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twMVFVcFZNakE0TFRGMFZGSkRhbmM0VEdSTGVuYxAB",
+      "author": "velineni sri kavya",
+      "rating": 5,
+      "relative_date": "Edited a month ago",
+      "text": "I’ve been coming to this hospital for years, and it’s always been a great experience. Dr.Chandana ma’am is very nice, professional, and genuinely cares about patients. I’ve seen great results with my treatments and the staff are always polite, friendly, and helpful. The hospital is well-maintained and organized. Highly recommend!",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KbldUSTRWVTlaVlRGWGFIUTVUM2hYVTBkUlprRRAB",
+      "author": "Meghana",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "I had visited previously the treatment was very good and that made me visit again to get it rid of my problem.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KSVJscE5ZV2xwUWt0bGIwUnVaMlpPU1hkRFgyYxAB",
+      "author": "Jashti Mounika",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "I had a very positive experience with this dermatologist. They took the time to listen to my concerns, explained my condition and treatment options clearly, and made me feel comfortable throughout the consultation. And the staff were friendly and professional.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oTVgwRnZYMEZxYVVNNFlqWnpWamhwY25KeFMwRRAB",
+      "author": "VEENADHARI KONDAVEETI",
+      "rating": 5,
+      "relative_date": "2 months ago",
+      "text": "I am so satisfied the treatment and the doctor, thank you so much.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pneFRIUlBaRlpYYjBOaVRGUlpjWGsxWTFGTVUzYxAB",
+      "author": "Jaswanthreddy Kolli",
+      "rating": 1,
+      "relative_date": "2 months ago",
+      "text": "Cost are high compared to other clinics\nProcedure costs\nMedical costs\nTreatment costs\nSame treatment same quality can be given by NRI HOSPITAL\ndoctors\nOnly difference in this clinic is high tech infrastructure feels it's an high technology skin clinic.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4UlFVUTVTWGhVTFZOV1h6QmpVME5VTW1SWGVsRRAB",
+      "author": "Anjali Pasupuleti",
+      "rating": 5,
+      "relative_date": "2 months ago",
+      "text": "Good results and good staff ...",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1UVFWRnhVbXAzTjAweFN6VkNSbWh3TmtGUlQwRRAB",
+      "author": "DHUPAM PAVANI 20BEV7022",
+      "rating": 5,
+      "relative_date": "2 months ago",
+      "text": "Very good consultation. The staff is very friendly and polite with great Hospitality.  The doctor was patient, listened carefully to my concerns, and explained the treatment clearly. The prescribed treatment worked well for my skin, and I noticed significant improvement.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5SUxVNVlUekZLT0cxa0xWQkNTRkJhTUd0cGFsRRAB",
+      "author": "Jasmitha Gowri Bandaru | AP25110070918",
+      "rating": 5,
+      "relative_date": "2 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsZlZHeDZhUzFLVEcweE1VcHZkVzlMVmxOb2MxRRAB",
+      "author": "BHANU PRAKASH PRUDHIVI",
+      "rating": 5,
+      "relative_date": "2 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSc04xaEJUMnBMYkVzeE5raEljWGxDWDBSVk5FRRAB",
+      "author": "Bharathi Jaladi",
+      "rating": 5,
+      "relative_date": "2 months ago",
+      "text": "Best skin clinic in guntur well mannered staff doctor will explain clearly very much satisfied",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21rMWFFeEZObXhKTVVNMGMzaHlUM2REYjBSMU1uYxAB",
+      "author": "Shin Chan",
+      "rating": 5,
+      "relative_date": "3 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tjdGJETjNXbkl4WTFwWU1tZ3lRa3RPT1ZVemMzYxAB",
+      "author": "Akhil Reddy",
+      "rating": 5,
+      "relative_date": "3 months ago",
+      "text": "Experienced doctor and good faculties",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21adVJsOXFiMWMwTUZGaWNXWlphbm8yTkROdVZGRRAB",
+      "author": "asma syed",
+      "rating": 5,
+      "relative_date": "3 months ago",
+      "text": "Good treatment",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwa1puSmlURjl1YW5SMVVqaHZMV1pvV1hkcWJYYxAB",
+      "author": "Lakshmi priya Jettiboina",
+      "rating": 5,
+      "relative_date": "3 months ago",
+      "text": "It was a very nice clinic, I'm getting treatment since last month onwards. I'm seeing better results. Please reach out chandana garu. If you are having any skin issues. Thank you so much Chandana madam",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSeGVYazBUREpwUmxsSVdGOVVWblIyUXpWNVRXYxAB",
+      "author": "Pranav Vinnakota",
+      "rating": 5,
+      "relative_date": "3 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KTWQydENlbkpJVUUxblNGSlVhMEZVUjJwc1UwRRAB",
+      "author": "Sk nagur babu Nagur",
+      "rating": 5,
+      "relative_date": "3 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOaU5HOUJNRVI2UTJNNVdVNWhWSGc1ZUY5d1JFRRAB",
+      "author": "Chintapalli D",
+      "rating": 5,
+      "relative_date": "4 months ago",
+      "text": "Best treatment and hospitality.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWbk9FTnpaR1F4VFZKWVpFdzFVblJvYldkUlJHYxAB",
+      "author": "Durga prasad",
+      "rating": 5,
+      "relative_date": "4 months ago",
+      "text": "Highly Recommended Doctor 👍 …",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WMVZHMUhRakpOYVZGNFJtczNWMFpyUkhWT2VXYxAB",
+      "author": "Kusu. sasikala0021",
+      "rating": 5,
+      "relative_date": "4 months ago",
+      "text": "I had a great experience with my dermatologist. The consultation was very thorough, and the doctor explained everything clearly before starting the treatment. I felt comfortable and well taken care of throughout. Highly recommend for anyone looking for safe and effective skin treatments.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGTGREQmZNbVZTYmxSSldtVnZXRlZuVUhOS1FtYxAB",
+      "author": "Gera Nikhil Samanth",
+      "rating": 5,
+      "relative_date": "4 months ago",
+      "text": "I visited Chandana skin care for pimple issue  happy now I'm treatment was very good it's was recovered short time TQ Doctor n staff also Good Receiving",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsdlVsOUJhbHAwV0hodE5sRjVlR3RXUnpJMlNuYxAB",
+      "author": "hema 92",
+      "rating": 5,
+      "relative_date": "4 months ago",
+      "text": "Good doctor with amazing results",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2treFNHVjNZVTlyYmt0UFVUTjFhM2hyVGpGVlRHYxAB",
+      "author": "Tejaswi Madasu",
+      "rating": 5,
+      "relative_date": "4 months ago",
+      "text": "I visited Chandana Skin Clinic for my skin and hair concern.\nMam is very calm, friendly, and takes time to explain the problem and treatment properly. Staff receiving is also good.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aVFREZExkMlF3VG1RNWJWQXpaSEJqY1ZCQlUzYxAB",
+      "author": "SIMHADRI MANISHA",
+      "rating": 5,
+      "relative_date": "4 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSUlFrcDNlbEJxT0ZSa05IQm9VblI0VUVKQlVrRRAB",
+      "author": "soujanya billa",
+      "rating": 5,
+      "relative_date": "5 months ago",
+      "text": "I visited Chandana Skin Clinic for my skin and hair concern and I’m very satisfied with the consultation.\nDoctor mam is very calm, friendly, and takes time to explain the problem and treatment properly.\n\nI have been receiving treatment for my  hairfall and post-acne scarring and continue my care here\nI’ve seen steady improvement in my skin.\n\nThe clinic is well maintained and staff are supportive. I would definitely recommend this clinic.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psaVdqRXlkVEU0VERaV1UwTTNNWEpQWmtWcVlVRRAB",
+      "author": "Krupa Krupa.",
+      "rating": 1,
+      "relative_date": "5 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGaFMxUmhiRTgzVVZWck5rVmZORXR0UzBGcGFWRRAB",
+      "author": "Manoj Veerabhadra",
+      "rating": 5,
+      "relative_date": "5 months ago",
+      "text": "Good patient focused treatment",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xMExYbG9SMjlKTkZJeFZqQm9aRFp1VWxsM2FWRRAB",
+      "author": "Jeshwanthi Vankadaru",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "Excellent",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214clltNWFlbEpyVldGbFJYRnpXbTE1T1hCR1FXYxAB",
+      "author": "Pradeep Reddy Sagili",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "I consulted Dr. G. Hari Chandana for my hair concerns. She carefully evaluated the issue and recommended GFC treatment along with the appropriate medications. The clinic has a pleasant ambience, is very clean, and the team provides efficient and supportive service. Overall, it was a good experience.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkemRFSTNVV3AxY1V0a2JWRmZkVEUxUVZkSlUwRRAB",
+      "author": "ajay chilaka",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "Good treatment",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wbVJWOHpPWEpoUW5sSFNUSllTMHRFTFRGTmNVRRAB",
+      "author": "Teju vk",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "I visited Chandana Skin Clinic for my skin concern and I’m very satisfied with the consultation.\nDoctor mam is very calm, friendly, and takes time to explain the problem and treatment properly.\n\nI have been receiving treatment for my acne and post-acne scarring since 2021 and continue my care here. Over the years, I’ve seen steady improvement in my skin.\n\nThe clinic is well maintained and staff are supportive. I would definitely recommend this clinic.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0bVRtOXBZV1JUUWxWMFVYUkRhMTlYVjJzNE5YYxAB",
+      "author": "Baji Naidu Vadduri",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "Dr hari Chandana garu is very nice doctor good patience to listen from patient side",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CYVFpMU1kbFF4VkVOWmVFcHNWbkZ6VVVSR2FGRRAB",
+      "author": "Inshiya",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "Nice care and services and nice treatment nd fast results",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2padVRYcEdWVE5zYTJwTlVIcEJWRVJwU0ZaNWRHYxAB",
+      "author": "Naari collections",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "Nice care and service and nice treatment and fast results",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kdU1WcGpkMnhqTUhoTmNGRktMVEEwZEZRdFRrRRAB",
+      "author": "madhuri chavali",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "Excellent treatment and great results at chandana Skin Clinic. The doctor explained everything clearly, and I’m really satisfied with my skin improvement.”",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GWlRYRk5SalUxTmxobU1raDRUSFU0VGtsVlUyYxAB",
+      "author": "3t infotech",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "excellent skin care treatment , I am so happy to hate you friends the result is excellent",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1eVpISkJXa3R5WTNaWWJtOUhaazVrVUhVeE5tYxAB",
+      "author": "Abhiram Chowdary",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkd2VuZDNjUzFSWmpaSlZUVjFaMjkwVEVVMU4wRRAB",
+      "author": "Nune Chinna rosaiah",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "I have  visited chandana skin clinic for the purpose OF sorasis disease . that disease cured in the only 3 months . Chandana mam is very kind  & Staff receiveing  very well .Thank you chandana skin clinic 😇 …",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210Q016aDNOMTlCWTNGR01rRjZlWGhHTnpoNVVsRRAB",
+      "author": "bokka Deepika",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25VelRYVkdSVlF6VlhKNVNFUTVURUZQYzFaTGExRRAB",
+      "author": "Anusha Kancharla",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aQmJIazFWRlJ0YzNaalJVMWpVakYwVGtSRlprRRAB",
+      "author": "Dr.Mounika Pushpa",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "The dermat has been really sweet, kind, good with what she does, the treatment is effective, worth it......",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SUlZVUlJNbU00Tlhjd016RlRNWFJxV0RSb1kxRRAB",
+      "author": "Sharon Rajendra",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oelRtdDBkMFI2V0ZGUVFuQkNjVFZEYUU5VmJtYxAB",
+      "author": "Venkatswrao Kurapati",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "I visited To Chandana Skin Clinic concern Dark spots Is Cure At 1month I Was Very Happy For My Concern Doctor Treatment Was Good Tq Doctor Chandana Madam",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaYU4zWXhiV0ZFVEdJemFtTmFjVVpOZEVsVVMwRRAB",
+      "author": "Pavani Lakshmi",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "Good explanation to our problems and the treatment is good\nDoctor listen to our problems and her explanation is good",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT204d01rMUNNSGRETVVsRVZEZGtkamhVZVZvMFJuYxAB",
+      "author": "Ravula Narendra",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "I had received a well treatment for alopecia",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25scmEySTFibnBXTTI5bk9XSkxSWE5oYURNM1NYYxAB",
+      "author": "Harshitha Bommu",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "Chandana Skin Clinic is one of the best skin clinics. The doctor is very knowledgeable, friendly, and explains everything in detail without rushing. Treatment was effective and medicines were suitable for my skin. Staff behavior is good and the clinic atmosphere is neat and hygienic. I am very satisfied with the results and strongly recommend this clinic.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKR2VVRjRUME5DTXpNNE1XWkdlV1pJYTFaT1UwRRAB",
+      "author": "Moulîka chowdary",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSd2NtRmFRVlZXVFRFM2RtWkpTbTVxT0RneFdYYxAB",
+      "author": "Hasini Mohan",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21odFRrWmZSME5ZYzJOdGNFMHdlV0ZHVGkxWWNYYxAB",
+      "author": "hariharareddy t",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "Good dermatologist. Consultation was helpful.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxQlVGRjBZVEJHUm05UFUwNUROMU5qWVdaZmNYYxAB",
+      "author": "Mastan Shaik",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "It's nice...treatment 👍🏻 …",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aeFpIVnlXazV6VGxCQ1dqZEdibkl3V0dzNWVrRRAB",
+      "author": "Annapureddy Rajitha",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsWVJXdHNZbmQyTTIwemNWOXZka295WW1oMlpFRRAB",
+      "author": "Anjaneya Kumar",
+      "rating": 5,
+      "relative_date": "Edited 7 months ago",
+      "text": "Chandana madam Treatment is very good, staff are very nice to talk, we are happy with the result",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5Q1lVSjBkRk5rU0dSQmVGa3hZV2xKV0hCbmQyYxAB",
+      "author": "Koteswararao Akula",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "I had severe acne, and my friend suggested this hospital. I’m very glad I chose it for my treatment.Dr. chandana mam was very kind, patient, and professional, and clearly explained my skin condition and treatment plan. She prescribed the right acne medication, and my acne completely cleared within 3 months.\nAfter that, the Mam recommended MNRF treatment for my acne scars. I have completed 2 sessions, and I can see improvement on my scars. The staff was supportive, and the hospital environment was clean and comfortable.\nOverall, I’m extremely satisfied with the care and treatment I received, and I would highly recommend this hospital to anyone struggling with acne or acne scars.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsZlVEaEVORnBDVVZsd00xWmpORlJDYkRGQmJrRRAB",
+      "author": "Badri Yenibera",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "Dr.HARI CHANDANA SKIN SPECIALIST for her clear explanations and detailed approach to diagnosing the root cause of skin issues.\n​Specializes in advanced technology for laser hair reduction and cosmetology treatments.\n​Highly recommended by patients for revitalizing \"dull skin\" and effective acne management.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4VlFXeGZORVJtWjE5RlQwMDNXV1JzV1dSMVVsRRAB",
+      "author": "Meeraei Shaik",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "Good Treatment    Wonderful Experience With Doctor Tq Chandana Madam",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4Q09FVnhObkZaWmpaaGNISkdTVTVQU0VReGNHYxAB",
+      "author": "Tejasree Mandava",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkaldqSTFSamd5U21KM2JIbHpiREp0TjA1TVpuYxAB",
+      "author": "Sajja Anusha",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "Very good experience",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toSk4yeFlSa3RaVEdocWRFRllWbVpoVFRJMFlYYxAB",
+      "author": "Shaik Masturunnisa",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "It's a great experience metting this doctor",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pnME5VODBjRGx2VjJkV2NEaG5iMGRzTUZjdGMyYxAB",
+      "author": "Karthik Chembeti",
+      "rating": 2,
+      "relative_date": "7 months ago",
+      "text": "Despite a friendly initial consultation, the prescribed medication did not work. Furthermore, I found the staff's responsiveness to be underwhelming.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pVNFFYcGFXbm95YlRoMk0zQnRSMlU1VVRWTk5XYxAB",
+      "author": "sikhakollidurgasri sravya",
+      "rating": 4,
+      "relative_date": "7 months ago",
+      "text": "I visited this clinic for treatment for my dull skin and hair issues. It’s been 3 months now, and I can see a slight improvement in my skin. The doctor treated me well and explained everything clearly. Even at the first consultation, she suspected vitamin deficiency as the reason for my dull skin, and later my blood reports confirmed the same. I found the treatment to be effective. Overall, I had a good experience.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xbFJsTmtNbTgxUzA1elZXbFVibTAxWkhoclJYYxAB",
+      "author": "avinash reddy",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "Chandana madam treatment was good and the staff service is also very nice with good behaviour and care",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5NFpGbE9XRlJEYjNKS2VHNXhWMmhqZWs1QmFsRRAB",
+      "author": "Tejaswi Paritala",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "The best dermatologist doctor. Truly satisfied with the treatments and consultation dr.chandana garu and the staff all are so sweet and supporting. I have been consulting Chandana garu since 2019.the explanation she gives for our treatments makes me more confident with her.just trust and go with them.i had chemical peel and laser treatment for unwanted hair and the results were insane.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSZlRVNWZXalI2Tm1Kd09VOVVkbEV4UXpGS01GRRAB",
+      "author": "Bhagyalakahmi Orsu",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "Nice tretment and friendly doctor 😌 good staff I really like this …",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKUVkxbFhWWGh2ZEZsTFZqQnliRGxHWmpkT2EzYxAB",
+      "author": "RAVI KUMAR G",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "One of the best dermatologist in Guntur and staff and she is the only gold medal dermatologist in Guntur town",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toQlkxZzNiMjlPUjJOb2FuaDNWM0pJVXpKbmRGRRAB",
+      "author": "Akkala Pranathi",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxRlozSkZjMGR5UVcxZlJsOW9PR2xCUlY5Uk5FRRAB",
+      "author": "Narendra Sai",
+      "rating": 4,
+      "relative_date": "8 months ago",
+      "text": "I completed 3 sessions at the skin clinic. Dr. Chandana and her staff were professional, friendly, and helpful. Satisfied with the treatment",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xObFFXVnlkRTFNYXpKUGMwWTRSemg2VGxGUVFXYxAB",
+      "author": "Smart Gvk",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "Nice Treatment\nDoctor gaaru is talking neatly about our problem",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tadU5sbEJVa0ZNUjA4dFpqUTBVbVV4ZVVoVk5YYxAB",
+      "author": "Saraladevi C",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "Good treatment and very\ngood doctor",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tNMlRUTTRiREJ3VjFvdGFYQlNObUZmVDNsUWNtYxAB",
+      "author": "Pooja Yerrabothu",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tzdGJFSm1lRGRwVTJ0bE0zQjZiRTlpV1hCUlNWRRAB",
+      "author": "Syed Ahmad",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "Good hospitality and I received best treatment . Staff members are soo comfortable and the chandana madam explained each and everything in simple way and soo happy to take the treatment here .",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCc2JtVjBRa05DTlZCaVFXTXhiMHRVVFU5TlJVRRAB",
+      "author": "Gali Reddy",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "Good doctors\nWell treated",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25jelJrZFlVbmR3Y1hoUGVXbHRkak0xWnpGUVdrRRAB",
+      "author": "Nishanth Yalam",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SSGRsQkZlbXhvVFdaQ2R6TnRSbkpmVDFkSWQzYxAB",
+      "author": "Akshaya Dasi",
+      "rating": 4,
+      "relative_date": "8 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poWGNUUnBhUzFwVERGbFpWOWtPVzVKU1VkRWRGRRAB",
+      "author": "RAMACHANDRA KRISHNAKANTH NELLIBANDLA",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25FeFpsTmZValZ6UlVZMVltZzRTVzVWTVU0d2MyYxAB",
+      "author": "Manogna",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "Had a very positive experience. The doctor is highly knowledgeable, patient and each consultation feels reassuring. The hospital maintains high standards of hygiene and the support staff is courteous and efficient, making the overall experience smooth and comfortable. Appointments are well-managed, and the team is responsive to questions and follow-ups.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WVGFrRTBZWHBuYjB3MlNUWm1VakpqYld4VFlrRRAB",
+      "author": "Chandra Sekhara Rao",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "Perfect diagnosis and correct medication along with hospitality. I suggest and recommended 💯. …",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tseFdtNUlOM1ZDYTFCSVNqbHpYMmMzTm1OUU1FRRAB",
+      "author": "half ticket",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "Good service and treatment... Highly recommend 👍 …",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OSk5GWmpVMFZSZW05SWMyUjVNMmxUUTJ0MGNIYxAB",
+      "author": "Hari Priya Gangavarapu | AP24111260008",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoSVgyNUxPVW93Ym5Gc1prdFJNVlJqVnpkUFQxRRAB",
+      "author": "Veera Bhadra",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "Dr Chandana ma'am is soo friendly and understanding our concerns patiently, staff also carring with patients.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aNmVVeFRSV2xLVkZKNGJ6RkVSRVkzY21aNVpVRRAB",
+      "author": "Sai Jaswanth",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "⭐⭐⭐⭐⭐\nI’ve been taking treatment at this skin clinic for the past 3 months for moles growing on my fingers, and the results have been truly amazing. The improvement was much quicker than I expected!\n\nThe doctor is extremely knowledgeable, patient, and explained every step of the treatment clearly. The staff is also very friendly, supportive, and made me feel comfortable during every visit.\n\nI’m really happy with the outcome and highly recommend this clinic to anyone looking for effective skin treatments. Great experience overall!",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toR1F6RmlaRFZpVWxWdVQySlpjbWRPWjAxclRYYxAB",
+      "author": "nisanam sunil",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "Dr. G. Harichandana is very friendly, giving more time to know about problem and giving good tips for my daily health.\nStaff also taking care while starting to end of the session",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWSWNFeDBjRTl1TUZKM1FsaHNlVEY0TFd4aGJuYxAB",
+      "author": "naveena venu",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "Excellent service 💯 …",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psRldURnlSRGhmU0hGU2VsTmpiVkZMVmtaV1NXYxAB",
+      "author": "Tejaswini Kota",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "Nice experience",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KelFtNUdPVTgwU0RaWlNtSTNZakpzZFdaTGVFRRAB",
+      "author": "Abdul Jaleel",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "Good treatment for psoriasis",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOV1ZXdDNha2x5YjFjeVdrMHhkRU5TY0VVM2NWRRAB",
+      "author": "Dhana Reddy Yampati",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w4eVVHbzVXWFJUUTJ4MVMwWnRjRGRrYkRsNE5HYxAB",
+      "author": "Hima Bindu Paladi",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "I can the progress in the results",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21odFEwVlBVVWxPWTFOSWJVNU9RV2RCZWpKeGFVRRAB",
+      "author": "K Ramalingeswararao",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "Good treatment for Acne  good result For my acne Tq Dr chandana Madam",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oQ00zVmpkREZqZDNGcGRrOU5SR3BhYW14a1puYxAB",
+      "author": "Devani Yeminedi",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "I had a very good experience at this clinic. The Only Dermatologist who clearly understood my skin concerns and guided me with the right approach, which helped improve my skin noticeably. She suggests only what is genuinely needed and is not money-minded, something I truly value. The staff is also welcoming and professional. Overall, this clinic has been the best among the ones I’ve visited.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCVkxYVnJWWFZuTTFCaVlqWmpMVzR4ZFMxeVJWRRAB",
+      "author": "Priya Byrapuneni",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toMmJIQTRUbEY2YmpoVmVGUnpiVEV5TjNsM1dHYxAB",
+      "author": "GUNDABOINA JHANSI LAKSHMI",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "I got good relief from psoriasis related problems after using medicines from Dr Hari Chandana, Dermatologist. Today, all types of medicines available. But, Proper diagnosis is required. Her diagnosis is super and my burning problem rectified.\nThank you very much Dr Hari Chandana",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pjMVVWSkpTbGRrTW5SMGJUTnlRM05JV0hoR2JYYxAB",
+      "author": "annam anusha",
+      "rating": 4,
+      "relative_date": "8 months ago",
+      "text": "Good",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214aWIzTldZemQzVEVkdVZFVmpiRVJ4VlhaRFgxRRAB",
+      "author": "Jaya Sravani",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "Goot treatment and doctor uses minimal medicines to cure",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2swNFgwRmpaR2cwVms5NmNpMUxlVU40UjNoSmIxRRAB",
+      "author": "priyanka hari",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "Very good doc, she listens to our concerns very patiently and  her treatments were also so good .very friendly staff too.\nTotally best skin clinic.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tJNWVHcGlaSEphZFU1NmIweHJZbUp1UmxsWWIzYxAB",
+      "author": "urmila kammisetty",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOM1IyNXpVMnBPVFVnMGFHVkhWek5ITFhOM04wRRAB",
+      "author": "Vallamsetty Abhiram",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tJNU1rTlpiWGxJUlVSMmRWcGhXa3BaTkhoSlZXYxAB",
+      "author": "sandhya Talla1319",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wbVRqSjJkVUZ0YUhGMlptMVRkVUZXTXpKMWNIYxAB",
+      "author": "Pinnika Shobha Rani",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WeU1rZFhhbkV0TVVKcFVVOVhaMWxXYlU5SGQyYxAB",
+      "author": "Jyothi Kotapati",
+      "rating": 4,
+      "relative_date": "9 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oQ2RqWlJRMmRZZGpOMmVFRlNlSG95UkhKdlYzYxAB",
+      "author": "amulya duddu",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tvemVscGZOVlJGTUhnNGNFdzVTa2xtWVU1Sk1GRRAB",
+      "author": "Divya Chandolu",
+      "rating": 4,
+      "relative_date": "9 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oM1RVcG1UbkE1VDBoTFlqWkxRbGhQZUdoWU4xRRAB",
+      "author": "Shaik Bashirun",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "Good results",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21VMGQxWmZYMlJNUzJKRVNYVTVVbFZLY3pCek1WRRAB",
+      "author": "Niharika Adusumalli",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoQlQySlVkbFUzZDBoNk9FaFVjVWRyYUVvNFMzYxAB",
+      "author": "Veerakumari M",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pZNVZqUktWUzF3TlZGMmFWQmplRFY1UlhoSFowRRAB",
+      "author": "Pushpa Kala",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "Excellent doctor in Guntur.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWU1ZYaGFXRzFaTTE5WlZtRXRWV2hTTUdwRU0wRRAB",
+      "author": "Srinu vasuroa Angaladha",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "Good treatment good doctor and staf is very good",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkQmJqaEpNbWRNUms1Q1ZrbFVTbVZRUWxwdU5YYxAB",
+      "author": "Hari Priya Ramisetty",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2trdFJsSkROME5VVDNreGQyVTFRa2ROVVV0WFEwRRAB",
+      "author": "Mohammad Zaveria",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pBNVVtaDNhMEkxY1daVWQzbHNWVmhKVXpkSlMyYxAB",
+      "author": "Juluri Rakshitha",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psQlZsWTFjV1Y1TFhoQ2FGUTBMVkoyYlcxdFJFRRAB",
+      "author": "Neha sri Pathuri",
+      "rating": 4,
+      "relative_date": "9 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Zd01GRk5TRzFrYkRJeFVYbDBTV3hPTTNZM1VXYxAB",
+      "author": "Abijith Vadlamudi",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "Good",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsUmFHa3pVazlUZWtaMlVYSjVNbVpKUzBGaVFuYxAB",
+      "author": "kanaka durga indla | AP23322130019",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "Dr. Chandana gave a good treatment for my problem and dr.pravalika is very good at curing the skin related issues",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pjMmRucFRaak5TZDNjemIybEthMjV1TWxOWFdHYxAB",
+      "author": "Golla Sucharitha",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "Very good doctor treatment is excellent\nAnd staf is very good",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25rd01WTlZSMEZpYVY5ME1FbGZaRmw1Y1hGalpuYxAB",
+      "author": "Tripuramallu Padma",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "Treatment is nice the result is good doctor is taking good care staff are very nice and they are very talkative to us we are happy with the result",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYXzR6R1NnEAE",
+      "author": "sudha Mutya",
+      "rating": 5,
+      "relative_date": "Edited 9 months ago",
+      "text": "I really feel that it is a good clinic that treats skin infections.The Doctor is very good and the staff is also good,there response is very good",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSb09WTm9OWFJYWmw5M2JrazROV1I1VG1wclVrRRAB",
+      "author": "Murakonda Sowjanya",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xSE9YcFNXRlpSTm1oZloweGZNVEpLZDJWMWNsRRAB",
+      "author": "Deepak YL",
+      "rating": 4,
+      "relative_date": "9 months ago",
+      "text": "It's my second visit here, staff was very polite and making every visit a comfortable experience. Dr. Chandana's expertise and helping approach have been instrumental in addressing my skin concerns. She understand my needs and providing personalized treatment has led to significant improvement in my skin health.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psR2FHdDZZVXhFUkdOR2FWQjZabFY0UWxOS09XYxAB",
+      "author": "pasupuleti bhuvana",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "Chandana  mam really give best treatment for skin problem and for cosmetic propose  I did laser toning it really work very well for me",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GRlYzSXphMXAzTFU1aVEzZG5PRmx0T1V4emVYYxAB",
+      "author": "Padma padhu Bachu",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "Best doctor best treatment",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1Nk1YcDBWMUZZTURKNk0wYzBTMjFOV0dRMlZHYxAB",
+      "author": "Deekshitha Velivelli",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WVWRrSlFlV1V3ZERrMlIxSjFkVkJyVmpOWmIwRRAB",
+      "author": "Banala Banu",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoU2RscEpZVWRpVDFSa1VsaHVlSGhNY1RSNWIwRRAB",
+      "author": "pooja chaitanya bollimuntha",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "Wonderful experience with the doctor and staff. Had laser toning treatment and received good results.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sUWJsTTROMEZzYkRJM2IxZ3hVVXRvY1RWb1psRRAB",
+      "author": "metla yasaswini",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "Best Dermatologist ever.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OblR6ZzRRVXBwU1Vab04zVmFlWGxCUkZOWVkyYxAB",
+      "author": "Gopi Puram",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "They gave me course for acne.so if I get results.ot would be good.it would be good to receive a staffs there too.thank you for Chandana skin clinic",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkS2MyUXRkMmRYV2pOT1ZGZFVSRGxJVm1oQk5VRRAB",
+      "author": "Priscilla",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "Had four sessions of MNRF here, and I’m extremely satisfied with the results. Dr. Chandana ma’am is very professional, attentive, and ensures every session is comfortable. Highly recommend her and the clinic for skin treatments.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201dk4zZGZVMnRPWDNaMVdVd3pPSEYxVlV4aE9IYxAB",
+      "author": "priya priyanka",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "Excellent 👍 …",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGT1VtUnRUa1JLZURsT1lsQllPRGx6ZUhSNmMzYxAB",
+      "author": "Shivanshika Mounika",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "Excellent friendly 👌 staff ,cooperates with every patient 👍 I will give 10/10 …",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aelJUWkRZMnRDYkVwUE9YZG1WRU5OY1hka1VtYxAB",
+      "author": "Padmaja Padmaja",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "Excellent treatment. And correct place.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tVeGNUaDRURFpOUjNsSWJHWlJhV2hqTjJGUGQwRRAB",
+      "author": "eswar munnangi",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "Right place for the perfect treatment",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Cck5ERnFWVzlETkVoaVZUQkdiM05xUmpOaFJWRRAB",
+      "author": "Prasanna Uddish",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "We showed it our son the treatment here has greatly reduced our son pain I fell happy.tna. mam. Very good  staff",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SQlVtaFNWSFp6YTFaQmIzWjFWRlI2UW01RWJYYxAB",
+      "author": "madhav sharma",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "I had a wonderful experience at the chandana skin care hospital. The staff were incredibly friendly, caring, and attentive, making me feel comfortable throughout my visits. The chandana doctor was well informed, patient, and took the time to explain everything clearly. Together, they provided excellent care with a warm and understanding approach. Highly recommended for skincare treatment this hospital....",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s4MmJ6ZzJOVlZqTkdoVlVpMVZNM3BXY3pWNFNtYxAB",
+      "author": "Rajesh Thomas",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "The staff here really takes care of patients just like family, always speaking kindly and helping without delay. The chandana doctor is very approachable and makes sure all doubts are cleared before starting any treatment. I felt comfortable and safe every time I visited the hospital, thanks to their warm welcome. From check-in to check-out, everything is done in an organised way, with no unnecessary waiting. Honestly, I trust their chandana clinical skin care and would recommend this chandana skin hospital to anyone looking for proper treatment.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsbmJFUkVRME5zZUd0MVFUQldXVVUzWkhVelEzYxAB",
+      "author": "Ravi babu p",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "I had an excellent experience at the chandana skin care hospital. The staff was very friendly and attentive, making me feel comfortable at every step. The chandana doctor  was knowledgeable and took the time to way of explaining my condition clearly along with the treatment options. They provided compassionate care, and I saw noticeable improvement in my skin. I highly recommend this hospital for anyone needing quality skin care.\"my review is helpful for future patients and encourages good practices by staff and doctors thank you chandana hospital doctors chandana mam ..",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oUGFVUmhRa2RMZGxvNVpIaHRWalZIUkZaelgzYxAB",
+      "author": "venkatesh darsi",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "The staff in the chandana skin specialist hospital are quite polite and attend to every patient with care and patience. The chandana mam is very understanding and give proper time for consultation before starting any treatment. Many patients have mentioned that their skin problems improved quickly under the right guidance. The hospital maintains cleanliness and keeps appointments on time, which is very helpful. Overall, the staff and doctors work together nicely, creating a friendly and satisfying experience for patients",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKblltMVdlSFpwUWtwTFNEWm1MVk54VVZvMFpsRRAB",
+      "author": "THARUN B",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "Visited this clinic as I got a rash  .felt much discomfortable with that.. Dr.chandana mam . prescribed  excellent medication  got cured .. totally impressed,  staff are so good... responded so nicely ..",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pjNFdEUXhXSGwwUzBsVWNIazRaRjlXVFRSR1gxRRAB",
+      "author": "G.k Foryou",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "Had a very good experience at Chandana skin clinic.. dr.chandana  mam so dedicated to her wrk got know that particular day she was not at all well .. still she continued her op and answered with patience...  Highly recommend this clinic..❤️‍🩹 …",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toNlpHOXZhUzFMVEVGTGRsa3RjSFJPTlVNMk1IYxAB",
+      "author": "Narasimha Rao Takkellapati",
+      "rating": 1,
+      "relative_date": "10 months ago",
+      "text": "Worst staff...",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWWVJXeGFNMlpwVTBkSVJrVTFVMWR4TnpGalQzYxAB",
+      "author": "Daniel Pilli",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xONGVtcHhiMkp4ZUMxalQzWXRkVmd6U0dwUVltYxAB",
+      "author": "harapriyanka gunji",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "I visited chandan skin clinic, it is one of the best clinic i have seen in guntur. Especially chandana madam was treated me with excellent skills. And the staff are nice with me.my skin getting better now. Thank you madam",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214RWFYQjRUV0oxTjBaZk56SlhWbVpGU1hZeVgyYxAB",
+      "author": "Jai Kumar",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I'm so glad to share my experience with chandana skin clinic... It was such great hospital in guntur, the staff hospitality was such a great as well i treated clear and proper  guidance by Dr.G.hari chandana madam\nSo, I recommend people who are suffering with skin problem consult this hospital for best and great service\nGive your skin and hair the healthy transformation they deserve!\nThank you",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wa09FcFpUazFaWkRSc2NFMTRUa3RGZGxoRldYYxAB",
+      "author": "V vaishnavi",
+      "rating": 4,
+      "relative_date": "a year ago",
+      "text": "I went with hair fall problem and it has decreased mam did good treatment",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0TmFtSTRlV0Y0TFhRM1NubEZWa1UyVFhCaVVtYxAB",
+      "author": "hari babu",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xRME9DMTVlSGhDUkdOUlQyUTJXVXc0U1dwNE5GRRAB",
+      "author": "Anjani Sekhar Kommalapati",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xONFEzQnlObVEyZDJKV2QyYzVSVWw1UlVOZmVIYxAB",
+      "author": "Karim Ullah",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Excellent 👍👌 …",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KMGExcDFVRlZaV1ZSVWNUQnRkbkp4WmpscE9FRRAB",
+      "author": "Dheeraj Jain",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "After trying many creams tablets treatments i was finally adviced for CHANDANA SKIN CLINIC.\nStarted seeing results only in a week, thereby continued with adviced products .Thank you Mam for helping me ; There is lot of improvement in my skin condition with your treatment.\nFound this clinic bit late but got best results👍",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkRFpIVmZjVWxRWDA1RmNqa3RUR042VW1GdlExRRAB",
+      "author": "Pruthvi Yazali",
+      "rating": 3,
+      "relative_date": "a year ago",
+      "text": "The way Doctor explains and her Treatment was extraordinary but the staff don't have patience and they answer to patient in an arrogant way",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VOV19ocWpPNjlhQzFBRRAB",
+      "author": "Ravindra babu Mekathoti",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VQV1NwNHppMF9MLUZREAE",
+      "author": "Anaina Sinu",
+      "rating": 4,
+      "relative_date": "a year ago",
+      "text": "So good",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VNNjFtX0Q4N3RqWVdREAE",
+      "author": "Vijaya Rao",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Good",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvcVp2TlFREAE",
+      "author": "Karuna Gottipati",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I feel good treatment.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTURRbGFmUHVRRRAB",
+      "author": "naga madhavi",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Doctor is very friendly and the medicines which was prescribed  by her worked excellent.my problem recovered just in 3 days.staff also good.i strongly recommended this clinic.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRa1puZU1nEAE",
+      "author": "rajesh malepati",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Great hospital and doctor has highly knowledgeable and dedicated, I strongly encourage to consult doctor for any Dermatology issues.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRMzVXNVVREAE",
+      "author": "siva rama krishnareddy tanubuddu",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNRbjgyNjlnRRAB",
+      "author": "manasa badam",
+      "rating": 4,
+      "relative_date": "a year ago",
+      "text": "It's a very good experience for my skin problem and also Best results .. compulsory visit this hospital for your skin problems..",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNROGZXaXh3RRAB",
+      "author": "chandolu veda",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTURnMTYzd1VREAE",
+      "author": "Bhavana Royal",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I highly recommend Chandana skin care clinic for ur skin health. Had a great experience. Very much qualified doctor and staff are very welcoming and polite.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTURnbDRPenBRRRAB",
+      "author": "Ankarao Kolisetty",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTURnczZqSkJ3EAE",
+      "author": "Thansi Thanshith",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTURnNWY2TmhBRRAB",
+      "author": "charan booklinks",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Response is good",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnOThHX3RnRRAB",
+      "author": "Alekhya Kurmala",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURmcHJyR1VREAE",
+      "author": "Mansoor Mohammed",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I highly recommend Chandana Skin Clinic for ur Skin Health. The way she listens and explain the issue was fantastic. Guntur needs more doctors like her.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURmbkxycW9nRRAB",
+      "author": "priya priya",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmcnNpVnpRRRAB",
+      "author": "hayaz shaik",
+      "rating": 1,
+      "relative_date": "a year ago",
+      "text": "The assistant is present with the doctor inside and she is in rush to send the patients outside.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2dmZ2Z3l3RRAB",
+      "author": "priyachowdary byrapuneni",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2dmU3VGxRRRAB",
+      "author": "Kongara Sri lakshmi",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2dmJhMFNREAE",
+      "author": "cherukuri srijyothi",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2cnRDS013EAE",
+      "author": "ravi kumar",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2dGNHSFdREAE",
+      "author": "Jyothirmai",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I had a very good experience at Chandana Skin Clinic while undergoing Microneedling Radio Frequency (MNRF) treatment for my scars. The results have been truly impressive – I’ve seen a 90% reduction in my scars, and my pimples have also cleared up significantly.\n\nThe clinic is clean, and well equipped.I am well satisfied with the outcome and would highly recommend Chandana Skin Clinic to anyone considering MNRF or other skin treatments.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2d29lWExnEAE",
+      "author": "TAMMISETTI SRAVANI",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Good treatment",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2MElDWnN3RRAB",
+      "author": "THALLURI PUNYASREE",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURQa2JlLUVnEAE",
+      "author": "HARIKA BONEPALLI",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Gud doctor with excellent staff.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQzb3Y2SFBREAE",
+      "author": "Blessy Raisa",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "These hands just made magic to my face ✨\nGot my mole removed ☺️\nFeeling so better ☺️❣️\nThanks to chandana clinic and staff for your warm reception ☺️❣️",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzbmFEUktnEAE",
+      "author": "Coup Goneh",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Went for skin treatment. Doctor was very good and identified other issues. Staff is also very good. Excellent!!",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzd2RlWTVnRRAB",
+      "author": "rosemond Karumanchi",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Recently I visited Chandana clinic\nI had nice  experience. clinic is good and well  maintained. all are\ngood and  treated  well",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYMnZxcUVREAE",
+      "author": "Potla Shiva",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Treatment of the disease",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYa3VUX0J3EAE",
+      "author": "ASHISH YAJJALA",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I recently visited Chandana Skin Hospital and had the pleasure of being treated by Dr. Hari Chandana🌟. She has truly transformed my skin by helping me manage my acne and pigmentation issues✨. After following her prescribed medication routine, I've seen remarkable improvements! you have to trust her to see results and you have to complete the medication📅. I can’t stress enough how important it is to complete the full course of treatment to see results.💊\n\nDr. Chandana is not only incredibly knowledgeable but also genuinely kind and patient.💖 She takes the time to listen to your concerns and provides thoughtful advice, which makes every visit a positive experience. Her dedication to her patients is evident in her approach, and I feel lucky to have found such a compassionate doctor.❤️\n\nOn a personal note, I’ve noticed an increase in confidence and attention from girls since my skin has cleared up😄. I can’t help but think her husband is one of the luckiest people alive to have such a caring wife! 💕\n\nI highly recommend Dr. Hari Chandana to anyone seeking effective skincare solutions. Thank you, Dr. Chandana, for your wonderful work!🙏",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYb3FuaWN3EAE",
+      "author": "sarat",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Great doctor for hair treatment",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYX0tEY0xREAE",
+      "author": "otla ramu",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I recently visited Chandna Skin Clinic for my acne scars and persistent pimples, and I couldn’t be happier with the results. The staff was incredibly knowledgeable and took the time to understand my skin concerns.\n\nThe treatment plan was tailored specifically for me, combining various therapies that were both effective and gentle on my skin. I appreciated the clinic's clean and welcoming environment, which made each visit comfortable.\n\nAfter several sessions, I’ve seen a significant reduction in my acne scars and breakouts. My skin feels smoother and healthier. I highly recommend Chandna Skin Clinic to anyone struggling with similar issues. Their professionalism and commitment to patient care truly stand out.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYeExIQWhRRRAB",
+      "author": "Ashok Mandadapu",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYbi0zM1JREAE",
+      "author": "RAma Gude",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I had wonderful experience with Chandana madam and staff also friendly nature and my skin is better now thanks to Chandana skin clinic",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURuMV9fd29nRRAB",
+      "author": "Chaithanya Praveen",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Skin and hair treatment are good and they gave me a safe treatment and staff is friendly.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURuMWREZl93RRAB",
+      "author": "SHAIK AMEER",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURuMWVELWRBEAE",
+      "author": "Mastan rao",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Very happy with the treatment plan and everything ,staff are so polite and respectful , dr.chandana mam had very good knowledge and had more patience to listen to us",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURubGJPV1N3EAE",
+      "author": "Sayyad Rehaman",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Very help full clinic\nBest doctor of the guntur",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURuMmJDMTVnRRAB",
+      "author": "manju yaragani",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "The facility is clean, modern, and well-maintained, creating a calming and comfortable environment. The staff, from the receptionists to the dermatologists, were extremely professional and approachable.\n\nI highly recommend this clinic for anyone looking for specialized skincare treatments. They combine expertise with a patient-first approach, making it a trusted place for skincare needs.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURubVkyWmhnRRAB",
+      "author": "sudeshna t",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I had a very good experience with Dr Chandana’s dermatology clinic. Good atmosphere and productive treatment. Care of staff towards the patient was all a very experience. I recommend this skin care clinic to all to have a safe and best treatments provided by them",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURIb0l1TmFnEAE",
+      "author": "Ammu Shaik",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I have lot of pimples on my face,then I went to Chandana Skin Clinic and explain my problem to Chandana Madam,she listen to me with lot of patience and she have clear abservation.she gave me the course, then with in 3 Month's my face become fair and pimple free skin.\nOne more thing, The staff are very efficient\n\nThank you Chandana Madam\nThank you Chandana Skin clinic",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ3bk9iQ3Z3RRAB",
+      "author": "ramkumar bonam",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "The Doctor of Chandana clinic Dr.Hari Chandana is very highly talented and diagnosis is  abnormal.The way of treatment and approach to patients is awesome",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNiejdldzhnRRAB",
+      "author": "Stalin Joel",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Treatment is Good. Doctor answers all your queries. I would recommend Dr.G.Hari Chandana for your Dermatological Problems.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNWazZfN3pnRRAB",
+      "author": "Sarah Supriya Vaddeswarapu",
+      "rating": 5,
+      "relative_date": "Edited 2 years ago",
+      "text": "I have been consulting Doc Chandana garu since last year..She and her staff has always been so kind to me..I'm so glad that I found such skin care hospital in Guntur..Have seen tremendous change in my face..I thank Doc Chandana garu and whole staff for their kind service..🙏 …",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNycThETmJREAE",
+      "author": "Reshma Ravi nikkam",
+      "rating": 4,
+      "relative_date": "2 years ago",
+      "text": "I had  a great experience in Chandana skin clinic😍😍 …",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNyNVlDTlp3EAE",
+      "author": "pagidimarri sabarish",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "The service is so good, Starting from registration desk to every department, Staff is well behave and professional. Response is nice. Overall it’s good experience.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNyLWN1aW1RRRAB",
+      "author": "vamsi krishna",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Amazing work and very professional Staff.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNyLWE3Uy1RRRAB",
+      "author": "nagpalapati",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "One of the best hospital in Guntur",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNMcmRqMjFBRRAB",
+      "author": "Abhilash reddy",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Just cured the skin problems with first consultation itself. Even the staff is very cooperative.Best suggestable dermatologist in guntur.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNUMWJ2bUJ3EAE",
+      "author": "Harisantha Swarna",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Best skin clinic in Guntur and highly suggestible. Dr.Chandana mam clearly and patiently explains everything about our problems and gives good suggestions. Prices at this clinic are also reasonable. Dr. Pravalika mam always patiently performs the treatment and gives good suggestions for skin improvements. Staff members are very polite. I am seeing good results on my skin after reaching out to Chandana clinic.\n\nThank you Chandana Skin Clinic.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNUNXVqYW1nRRAB",
+      "author": "Jagadish R",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I recently visited chandana Skin Clinic for my skin concern and had an absolutely fantastic experience. From the moment I walked in, I was impressed by the clean and modern decor, friendly staff.\n\nThe staff were all incredibly professional and knowledgeable, took the time to listen to my concerns, and created a personalized treatment plan that was right for me. They weren't pushy about unnecessary services, which I really appreciated.\n\nOverall, I recommend this clinic. If you're looking for a dermatologist,  who will listen to your needs and provide you with excellent care, this is the place to go!",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURqdWRTb3J3RRAB",
+      "author": "Shamimoon Sk",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I am really happy with the treatment....I can see the major changes in my skin ...we have to wait with patience till the period of time as doctor mentioned (for me it is one month)  but you will definitely get positive results.\nI got treatment for grand 3 acne vulgaris.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNqNnJxcVJREAE",
+      "author": "vijaya lakshmi",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Very happy with the treatment  , doctor had good patience to do the process  had v good result on my face and dr. Chandana is very much talented and well mannered  maintained every thing so well .staff are polite and humble Tq so much .. highly recommended",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNqNnFMSEV3EAE",
+      "author": "Swapna Cherukuri",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNqZ3BtUUVREAE",
+      "author": "Murali Krishna",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "My experience at Chandana Skin Clinic was outstanding in every aspect. Dr. Hari Chandana’s patience and clear explanations left a lasting impression on me. Unlike other hospitals, Dr. Chandana took the time to address my concerns thoroughly.\n\nMoreover, I must commend the positive behavior of the staff and the welcoming hospital environment. The staff members were friendly, attentive, and went above and beyond to make me feel comfortable throughout my visit.\n\nThe clinic’s atmosphere was warm and inviting, which significantly contributed to my overall experience.\n\nRegarding cost, I found the prices at Chandana Skin Clinic to be very reasonable, especially considering the exceptional care provided and the advanced equipment available. It’s essential to acknowledge the value of investing in quality treatment, and I believe Chandana Skin Clinic delivers on this front.\n\nI would highly recommend Chandana Skin Clinic to anyone in need of dermatological care.\n\nThank you for the exceptional service!",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUREbWUtU29RRRAB",
+      "author": "Rajeswari Raja",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Very happy  with the treatment  process, well behaved  staff and doctors. Dr.chandana maintained  clinic atmosphere  so hygienic  and made us feel v free ..tq so much  ..highly  recommend.. Hospital",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNkem9iTVRBEAE",
+      "author": "laxman gowri",
+      "rating": 5,
+      "relative_date": "Edited 2 years ago",
+      "text": "Good treatment and frndly atmosphere.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNENDYtbFRnEAE",
+      "author": "Prasanna Bhargavi Pulimi",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "It's was a very good clinic\nStaff the way they communicate with clientis like excellent\nHygienic is very very good\nAwesome 🙌 …",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNENHRxRklREAE",
+      "author": "Srilakshmi Vanukuri",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "She is good doctor.she will give sufficient time to listen every problem in detail.her clinical diagnosis was very sharp.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNEekxXSzFnRRAB",
+      "author": "ruqsana begum",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Very very good response from doctor and the staff,totally satisfied with the result we got",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ5ejZQN09REAE",
+      "author": "matta anuhya",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Dr Chandana mam is simple, ,friendly  and approachable with a smiling face.Her manner put me at ease and helped me gain confidence on the treatment.Thanks for the good care and concern mam.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ5MTRlc09BEAE",
+      "author": "santhan babu",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ5dFpfODdBRRAB",
+      "author": "neeraja mbbs",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ5cWRHa1lnEAE",
+      "author": "Kamal Suchetan",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Very nice treatment and the doctor is so cordial",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ5aXZqQUpnEAE",
+      "author": "Sahin shaik",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Best hospital and highly suggestable .. Dr.chandhana is the best she is very talented and kind to the patients…I always visit her if i have a problem with my skin and she gives me the best treatment ..I always trust her … i have been visiting this hospital from past 5 years and they always give me the best treatment and dr. Pravallika was also good doctor and all the staff members are very polite ..thankyou chadhana skin clinic",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ5OHR1Rkd3EAE",
+      "author": "varaprasad madala",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Doctor treat was well and Treatments are very effective and staff also very well",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ5c3YteDVBRRAB",
+      "author": "bhavya chalapaka",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM5M19iQ0RBEAE",
+      "author": "Pushpa Turaka",
+      "rating": 2,
+      "relative_date": "2 years ago",
+      "text": "I had gone through open pore treatment,they said for 6 sessions, you will get 50% results, I had gone through 8 sessions and each session cost 6k and result is only 10% after months i posting this now face is same like before...",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM5dHB6U2ZnEAE",
+      "author": "Vattigorla Vardhini2003",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "It is the best place for acene",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNkamRta3FnRRAB",
+      "author": "SHAIK ZANNATH HUSSAIN",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUROdmIzMG9RRRAB",
+      "author": "Reetu Jain",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Very nice n fast relief skin all type of problems 🥰N ladies problem ki lady doctor very friendly.  Thank u madam I m very happy ❤️‍🩹 …",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURON3VDOVpREAE",
+      "author": "Mahesh Pallu",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I visited Chandana skin clinic the staff was polite and madam Chandana was very informative regarding the problem she give best suggestions . And looking further treatments highly recommended skin clinic one of the best dermatologist in the city 👌 …",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNONXVYVHdRRRAB",
+      "author": "Sravan Krishna",
+      "rating": 1,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQxb2ZieHBnRRAB",
+      "author": "Sagar Babu",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMxdWQ2VThnRRAB",
+      "author": "Prasanthi Gannavarapu",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Best place for good skin. Worth visiting this place. Highly suggestable.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMxbnYtVkFREAE",
+      "author": "lavanya. M",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I choose the best doctor.she gives me effective medicine at the same time good suggestions to me.when I visit second time my problem will totally reduce.thank you Chandana skin clinic.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMxd0tYTmRBEAE",
+      "author": "Shaik Rahamtulla",
+      "rating": 5,
+      "relative_date": "Edited 2 years ago",
+      "text": "Good treatment",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURWdkoyVDJRRRAB",
+      "author": "John",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "We are privileged and honored to share our experience at Chandana Skin Clinic. It is an extraordinary and a reliable skin care center in the city with an outstanding track record. The doctor (Smt. G. Hari Chandana madam) possesses an incredible talent and excellence in all the core areas. She is a brilliant individual showcasing her prowess through her work remarkably. One can expect a high-quality treatment here and the doctor leaves no stone unturned to provide the positive results. Smt. G. Hari Chandana madam is very kind to everybody and shows no favoritism and is ready to answer all our questions. She treats our skin (Men/Women/Young/Old) with utmost care and you will be mesmerized with the results after the treatment. We also had a treatment done recently and we are extremely delighted with the service that are offered here. We interacted with Dr. Pravallika madam further who is a genius at her field. She is too good and did a wonderful job to our skin. We can’t thank enough for all the members at this clinic who delivered the best efforts throughout the journey, especially our dear doctor (Smt. G. Hari Chandana madam). You are really a true asset to the city. We appreciate all you are doing to the people. You are already a top-notch and no wonder you would soar high in the future internationally. Much respects and all the best team!",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNWLTh2NnZnRRAB",
+      "author": "VishalMahesh Jarapala",
+      "rating": 2,
+      "relative_date": "2 years ago",
+      "text": "Doctors are good.\nProblem comes with the staff ( Lazy Bugs). Dont this clinic get some better staff specially at the pharmacy counter.\nThe way they answer,the atitude they deliver will surely  result in short temper to the customers. Even a peaceful Monk may loose his calm towards these people.They always hangout with each other,make fun and hyper lazy to get the medicine from the upper and lower racks.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNWc183RmdBRRAB",
+      "author": "vijayalakshmi gummadi",
+      "rating": 4,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNsaF82WkRBEAE",
+      "author": "Maha Ganesh",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNsaHFlaGlRRRAB",
+      "author": "Gopal Karthik",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Excellent doctor 👏 and staff are also friendly.The  treatment 😀 was excellent and face is back to normal thank you 😊 …",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM1ZzVDNVlREAE",
+      "author": "madhu priya",
+      "rating": 1,
+      "relative_date": "Edited 2 years ago",
+      "text": "Worst hospital ever..My mother is suffering from skin allergy..We went to Dr. Sitarama Shastri last month and he prescribed medicine and if it doesn't go away, he said that we should do a blood test and if it doesn't go away, he will prescribe medicine based on the allergy percentage..But my mother didn't go away..Since Sitarama Shastri was not available, we had to go to this hospital unnecessarily..When we went, we had to pay 400/- consultation fee..Next, I told the doctor everything and showed him the test reports that were written last time. He said, \"Oh, not this test\" and wrote 6 tests and in that too, he wrote the test that Sitarama Shastri had said and wrote that she had written it again and did a total of 6 tests..They billed 2100/- for the tests..They took about three hours and gave the test reports late and sent them to the doctor...She is all fine. Allergies are the same... Another doctor told me that before. Instead of one test, my mother wrote 6 tests and repeated the same for the last one, saying it was allergies and prescribed medicine for 2300/-(only one month)... Finally, they twisted what I knew and wrote 6 tests and collected money and sent it... Full money minded... Please do the treatment..not money collection..",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURaNzdfV1l3EAE",
+      "author": "Rallapalli Mallikarjun",
+      "rating": 2,
+      "relative_date": "2 years ago",
+      "text": "Hii Everyone, Iam suffering with scalp psoriasis.. I get treatment from chandana madam.. she give me lotions.. while using that lotions I got pimples heavily on my forehead...\nI think this is not a good treatment..",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURacmR6YzF3RRAB",
+      "author": "Naga Bullaiah",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "She is wonderful doctor.she cured my rosaeceae.she is so friendly with patient. Finally I got solution for my problem which is having from 5years",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURaNXVpWVVnEAE",
+      "author": "Shanmukha Anudeep",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Hari Chandana ma’am clearly explains the problem and gives us more than one solution",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURaNExyN3VRRRAB",
+      "author": "S Ronika",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I ,consulted Dr. Chandana for my daughter' s treatment. Madam is extensive experienced in treatment and my daughter relieved from hair and skin problem very quickly . . Staff are very polite and helpfull. Thankyou soo much madam.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNaLTVyZ2h3RRAB",
+      "author": "Srihari Parimi",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwMzQzR2lRRRAB",
+      "author": "Sd J",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Best doctor consultation, Best services,  good supporting staff. I always recommend this Skin clinic.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURwdXR5OERnEAE",
+      "author": "Jahir Farzana",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwOG9yOTlnRRAB",
+      "author": "beldi nikhil",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURKLWFmTldnEAE",
+      "author": "Samanvitha Karasani",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKenFyZHp3RRAB",
+      "author": "sree kanuganti",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Very good service and excellent treatment by the doctor for my 5th month baby",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKMUxhWElBEAE",
+      "author": "Ayish Vlogs",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Amazing diagnosis,very human and down to earth Doctor.Providing crystal clear instructions about usuage of medications.Overall great experience ,Highly recomended wonderful Doctor.\n10/10 would go again.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4anJhcFh3EAE",
+      "author": "Harshi G",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Very organised and nice medical treatment by chandana mam.(Late review)😀 …",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN4dTdxUXlRRRAB",
+      "author": "Nur islam miah",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4ay11UU9nEAE",
+      "author": "Polu Nag",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN4dnNUVm9nRRAB",
+      "author": "tarunkumar godavarthi630",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNSbjdITkNREAE",
+      "author": "HASEENA S",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "My baby needed ear piercing..!! We had to consult Dr Hari chandana mam..! Mam had clearly explained the procedure we were afraid of pain..! Mam gave us confidence there won't be any pain..! Our baby did not suffer with even small pain..! The doctor and staff were so friendly..!! Thank u",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNSMXRqZ0xnEAE",
+      "author": "saiishwarya muvva",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURoLVl1ZWRBEAE",
+      "author": "Dasthagir Shaik",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNoMWNqZy13RRAB",
+      "author": "Srinivas K",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Good for skin treatment....",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCakpYT2FREAE",
+      "author": "yakkati deekshita",
+      "rating": 2,
+      "relative_date": "3 years ago",
+      "text": "Staff is so rude",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtbTdYS0p3EAE",
+      "author": "Swathi Priya",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtNi0tSGN3EAE",
+      "author": "Naga Mani",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtMGJEQmZBEAE",
+      "author": "jithendra kowtharapu",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtN3FQLVhnEAE",
+      "author": "Kiran Kumar",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQtaXZtd2lBRRAB",
+      "author": "Naveen Ravipudi",
+      "rating": 1,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtd016TGZBEAE",
+      "author": "Satish Kumar",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtMXJ5RXVnRRAB",
+      "author": "Ashish Patel",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "I recently received PRP treatment. The ambience, energy, cleanliness, professionalism of the staff was amazing. The doctor was very informative and knowledgeable. The treatment was painless and quick. Very happy with the service and professionalism. Highly recommend this dermatology clinic to anyone for dermatology needs.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlb1pHWVRBEAE",
+      "author": "Faria Banu",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Thr best skin clinic in guntur..chandana mam was so generous and good to her patients and very talented..came to know that she was university gold medalist..i strongly recommend chandana skin clinic 💯the best experience  ...And the staff was also very nice …",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1eTlEQVZnEAE",
+      "author": "Abhigna Rani",
+      "rating": 1,
+      "relative_date": "3 years ago",
+      "text": "The worst staff I have seen ever in my life.The four lady staff at the reciption and pharmacy counter have no manners at all,being impatient and don’t give respect to elderly members also.Big showpiece 🤬 …",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1M2REZ0ZBEAE",
+      "author": "jarapala nagendra babu",
+      "rating": 4,
+      "relative_date": "3 years ago",
+      "text": "The 4 star rating given accounts for only Dr.Hari Chandana.She is one of the leading dermatologists in Guntur right now.The medicines prescribed by her will be always a top brand.The treatment is professional as we get in tier 1 cities.\nThe problem comes here with the staff,specially at the pharmacy counter.\nThey are lazy,always want to hangout with each other.No assistance,no patience,rude rude rude and rude attitude. Seriously the doctor deserves a better staff. The reception staff is ok,pharmacy staff are the the culprits for getting a negative review on this clinic. I request the management to pay attention on these rude bugs.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR1bmFuVDZ3RRAB",
+      "author": "Pravallika Bhaskar",
+      "rating": 1,
+      "relative_date": "3 years ago",
+      "text": "Treatment is good,but waiting time is too much, receptionist sending patients as her wish not following first come first basis,",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURpb2E3eTd3RRAB",
+      "author": "DAMIAN PG",
+      "rating": 1,
+      "relative_date": "Edited 4 years ago",
+      "text": "I have bad experience  form  reception staff  05/12/20,11:45 am(that time jst 5 members )\nFeeling so bad i came 4 ask one doubt she asking payment first.all ready am paid\nShameful",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURPXzdIbzZBRRAB",
+      "author": "Sk Yedulla",
+      "rating": 1,
+      "relative_date": "4 years ago",
+      "text": "Very worest products,loss of money was te of time .\nAfter buy the product  any side effects this company not responsible .. waste",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURPb2RXbDVnRRAB",
+      "author": "pravallika ThirumalaShetty",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURPLXFHVUZREAE",
+      "author": "nagarazu ch",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Good but medicine too cost when compared online price",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNPMUlqQ0tBEAE",
+      "author": "Aruna Kokkiligadda",
+      "rating": 2,
+      "relative_date": "4 years ago",
+      "text": "Doctor is very talented and good but the staff is so irresponsible,impolite and arrogant.They were always busy in there phones.I stopped visiting the hospital due to the staff's behaviour.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQycC1LMmhBRRAB",
+      "author": "santosh manohar",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Ok",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQyd19TUXpBRRAB",
+      "author": "Dr Lakshman kancharla",
+      "rating": 2,
+      "relative_date": "4 years ago",
+      "text": "Good ambience, not much parking space anyhow security guy helped me, i think consulting doctor by online will be best thing if procedure not required as doctor only see from other room through glass barrier btw doctor and patient was disgusting ,may be bcoz of covid protocol but i think wearing mask and using sanitizer will be ok otherwise i would rate 5 star",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQyaXAzV1lnEAE",
+      "author": "siri chandana",
+      "rating": 1,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURnOE5taW9RRRAB",
+      "author": "sandhya sandiizz",
+      "rating": 2,
+      "relative_date": "Edited 4 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQyc043WDd3RRAB",
+      "author": "sowjanya alapati",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMyZ3VuYUxnEAE",
+      "author": "Naraboina Manju",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Chandana Skin Clinic the best clinic Doctor treatment really I am satisfy she advised best solutions Skin problems so all peoples to visit this clinic good  treatment doctor talking polite and she smile nice doctor so good superrrrrrrrrrrrr",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMyekpmd2VnEAE",
+      "author": "Raja Sekhar Reddy Bolla",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMyMVBxaEJREAE",
+      "author": "Tarra Harish",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMyNklIU2Z3EAE",
+      "author": "Ravindra peram",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURXdjRTWE5BEAE",
+      "author": "Peram Moksha",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURXMzdhTU1REAE",
+      "author": "Harishit Medicals",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURXaDZubEpBEAE",
+      "author": "Rashmitha Katumala",
+      "rating": 1,
+      "relative_date": "4 years ago",
+      "text": "Fully commercial clinic. Too costly. Charging 250rs per sitting while other clinics charging 100rs for same treatment. And prolonging the sittings even if it is not required and affective just to make money.  Not even deserve single ⭐\nSo arrogant doctor not even talk to patients face to face.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURXN05lUjNnRRAB",
+      "author": "Sreeapoorva Puttagunta",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNXdzY2T0lBEAE",
+      "author": "Sujith",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Very professional and reasonable prices.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURtLVplSEZ3EAE",
+      "author": "prananka chowdary",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURtaWVIYWlBRRAB",
+      "author": "Priya Rao",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Best skin Dr in Guntur .",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURtbXVqXzNnRRAB",
+      "author": "ranjith kumar",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Good Treatment",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURtdkpiZTFBRRAB",
+      "author": "KODURU RAMYADURGA",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Chandana skin clinic is the best clinic in guntur\nThe doctor was very friendly,humble and sweet......\n☺",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURtbk92bHJBRRAB",
+      "author": "sowndharya moturu",
+      "rating": 4,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURtdEtxZGt3RRAB",
+      "author": "Munna Shaik",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURtNU4tWExBEAE",
+      "author": "kirankumar nekkalapu",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURtMkxmWkdREAE",
+      "author": "ANURUP CHANDU",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURteUxhWDlBRRAB",
+      "author": "Jahnavi Jonnakuti",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQwc09mbnd3RRAB",
+      "author": "Sankeertana Kommalapati",
+      "rating": 5,
+      "relative_date": "Edited 4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNtbF92dkhnEAE",
+      "author": "sheba rani",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNtbF9PdGtRRRAB",
+      "author": "kalyani chagala",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNtbDl6N2VREAE",
+      "author": "vamsi mahith",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNtaDZhN2FnEAE",
+      "author": "SHAIK Z H BASHA",
+      "rating": 1,
+      "relative_date": "4 years ago",
+      "text": "The worst clinic....... Careless staff.    Worst treatment.....",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNtNjczTGl3RRAB",
+      "author": "Kandru Jansi",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNtOUp2LXBBRRAB",
+      "author": "shaik subhani",
+      "rating": 5,
+      "relative_date": "Edited 4 years ago",
+      "text": "I visited this place..20.12.2021\nDoctor Chandana mam and staff speaks in polite and good way...\nI am surprised to see that this Hospital is 💯 Covid care center. Glass doors, sanitisers, masks all are available at use.\nHowever it's upto visitor and public to take care of social distancing...\nDr Chandana mam is a gold medalist 🏅 and takes care and uses all kinds of hi tec connectivity internally from Cams to Radio speakers..",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNtMDdXTGJREAE",
+      "author": "Sankhavaram Saitulasiram",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNtdy0zaGhnRRAB",
+      "author": "sabiha tasneem shaik",
+      "rating": 4,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNtMWVDV2lBRRAB",
+      "author": "Sridevi gannamaneni",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNtdWNtTjRBRRAB",
+      "author": "VAMSIKRISHNA NALLURI",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNtNFlYdXRnRRAB",
+      "author": "Jahnvi Bhashyam",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "I think Chandana skin clinic is the best in town for any skin and hair problems it’s the best solution.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNtNFptN2x3RRAB",
+      "author": "swatantravani nalli",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURHODdMVnh3RRAB",
+      "author": "Mutual srinivasrao",
+      "rating": 1,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURHMXZfOXVBRRAB",
+      "author": "Surya Rao Valluru",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ2cDdPR25RRRAB",
+      "author": "Badugu Sudhakar",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ2a2M2NUlnEAE",
+      "author": "jithendra reddy",
+      "rating": 1,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM2LTlMNDh3RRAB",
+      "author": "Praneeth Patnala",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM2cTZTaXNnRRAB",
+      "author": "Jahnavi Ravipudi",
+      "rating": 1,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURxZ2F1NnBBRRAB",
+      "author": "Alekhya Nujeti",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "Best solution for skin and hair treatment. Doctor has very friendly nature and good smile ☺️",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNxbTRpUERnEAE",
+      "author": "Mohan Podile",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNxX3BDMmNnEAE",
+      "author": "Lavanya Alapati",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURTbnAzdDJBRRAB",
+      "author": "Sucharitha K",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNTZ1AzZmlBRRAB",
+      "author": "Venkaiah Gupta Kothamasu",
+      "rating": 4,
+      "relative_date": "5 years ago",
+      "text": "I visited this place with my mom.\nDoctor Chandana and staff speaks in polite and good way\n\nI am surprised to see that this Hospital is 💯 Covid care center. Glass doors, sanitisers, masks all are available at use.\nHowever it's upto visitor and public to take care of social distancing.\n\nWe don't get consultation receipt bill. On demand a computer print will be given without any bill no. Or tax ids. This is not useful for claiming the tax\n\nDr Chandana is a gold medalist 🏅 and takes care and uses all kinds of hi tec connectivity internally from Cams to Radio speakers\n\nMost of the skin treatments are available.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURpeUpQQzVBRRAB",
+      "author": "swetha nelapati",
+      "rating": 4,
+      "relative_date": "Edited 5 years ago",
+      "text": "Doctor was very good and quiet. She gives best treatment but a very disappointment is the staff in pharmacy were very irresponsible and they didn't give bills after purchase of medicines. Every time i am facing that situation and said that wait for some time after 40 minutes also they didn't respond. So staff in pharmacy should be responsible about patients specially about bills.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNJb3Rfa09REAE",
+      "author": "manju naraboyina",
+      "rating": 5,
+      "relative_date": "Edited 5 years ago",
+      "text": "I like her treatment",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURDc3BycU1REAE",
+      "author": "MOHAN MURALI GEDDAM",
+      "rating": 1,
+      "relative_date": "5 years ago",
+      "text": "Staff behaviour is not good, even though they have not giving bill for purchase of medicines in pharmacy.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChRDSUhNMG9nS0VJQ0FnSUNDdDVGbxAB",
+      "author": "Hussain Shaik",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNDMk82c09BEAE",
+      "author": "Ganesh Chowdary",
+      "rating": 4,
+      "relative_date": "6 years ago",
+      "text": "Good",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURjXzdPWWxRRRAB",
+      "author": "Surya venkat Vallabhaneni",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURjNnMyNDBnRRAB",
+      "author": "Dr Phani R S CH",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "Advance treatment. Trustworthy...ethical practice.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNjOWUzaDJ3RRAB",
+      "author": "dasari kavya sree",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "Great service and professional staff. Highly recommended for skin solutions in guntur.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURzdm91QklREAE",
+      "author": "Rajagopala Reddy Mallavarapu",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURzenBhb1RnEAE",
+      "author": "R.S Rao",
+      "rating": 4,
+      "relative_date": "6 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURzeHNQTXlRRRAB",
+      "author": "Mr. RAVILLA",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "Doctor are treating best.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNzbTZxVWxnRRAB",
+      "author": "guru raja",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNzZzVQV0VBEAE",
+      "author": "Prasanthi Gudhi",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURNamJDaGRBEAE",
+      "author": "dhana yedluri",
+      "rating": 1,
+      "relative_date": "6 years ago",
+      "text": "I seriously had bad experience with this clinic. As per the docter suggestion I used a moisturiser for my face ... as tht dosen't suits my skin I got the rashes all over my face soon after the first use . And when I visited the clinic to show the reaction they are asking me to pay the op fees .As I went there to show the reaction I refused to pay the op fees  the girl from the reception  said that she will inform docter about me and she made me wait .After 45minutes she came to me and told that docter said if you are not ok with that cream stop using it.....how can they simply say that even without checking the reaction.....!!!!! that's really bad.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURNbWY2dmlRRRAB",
+      "author": "Amul",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "Pro dermatologist in Guntur . Got treatment for scars on face ( other than pimple scar) which the results are damn good. I should mention I have been to other famous dermatologists in guntur around 4 of them & tried treatments for the same (ointments to lasers) but, no body had the hand like Dr.Chandana garu.And the laser here is much advanced than those I got treated earlier.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQwNHBMa1ZREAE",
+      "author": "GUNTUR VLOGS",
+      "rating": 3,
+      "relative_date": "6 years ago",
+      "text": "The doctors treatment is best but the hospitality and waiting time from the front desk is bad",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQwLUxfZFV3EAE",
+      "author": "Sandeep Prakash S",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "Good ambience...satisfied with my consultation ..Doctor  patiently listens to the problems",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMwOTgydnFRRRAB",
+      "author": "Lakshmi mounika dakoju",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURVazhDUTJ3RRAB",
+      "author": "Kim koushik",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURVZ1pHWGhRRRAB",
+      "author": "Anusha Jirra",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNva01peVdREAE",
+      "author": "kandula yamni",
+      "rating": 5,
+      "relative_date": "Edited 7 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNVbmNHVjZRRRAB",
+      "author": "Sateesh Killi",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Good ambience ..Staff are cooperative and helpful..doctor explained well and satisfied wid treatment.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNVX3N2ZXNnRRAB",
+      "author": "purna chandrarao Emmadisetty",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Best doctor in guntur.I was happy with her treatment.good for acne treatment.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNVb3BfZ19BRRAB",
+      "author": "Nageena Patan",
+      "rating": 1,
+      "relative_date": "7 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURrLVB6RlBnEAE",
+      "author": "ASO Vatticherukuru",
+      "rating": 4,
+      "relative_date": "7 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNrLWZTaHBnRRAB",
+      "author": "ARVIND SHARMA",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Clinic is good for any skin disease. Consultation fees is 200Rs",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ0d0ppbnp3RRAB",
+      "author": "kumar Leo",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Excellent clinic",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM0NGVEbjl3RRAB",
+      "author": "shabarinath bijju",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Good ambience..satisfied with treatment",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM0NkstVmRnEAE",
+      "author": "Jagan",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "A complete solution for skin care..",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM0bUtDZm53RRAB",
+      "author": "BABU YADALA",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM0NkstQ0N3EAE",
+      "author": "Yeluri Mahesh",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZN1lyYmF3EAE",
+      "author": "Y 15",
+      "rating": 3,
+      "relative_date": "7 years ago",
+      "text": "Worst Lab Service.\nBut Doctor's treatment and way of speaking is good. Satisfied with Doctor's service",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURvX3RQT2ZREAE",
+      "author": "Ramya Chowdary",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "very good treatment.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURvNFBmQjFnRRAB",
+      "author": "Smily sailu",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "You solved my problem in a pinch, tq so much",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNvM1pQRHpnRRAB",
+      "author": "Nasreen M.u.",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNvZ2FmMV9BRRAB",
+      "author": "anusha anu",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Friendly doctor and staff with awesome infrastructure..",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNvLXZUeGRnEAE",
+      "author": "jitendra kumar",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Good ambience...Got treated for my hair loss and got good results",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNvb3UtaEhBEAE",
+      "author": "Jhansi Kanumuri",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Dr.Chandana u r very patient n informative, completely satisfied with ur treatment n medications.\nBest equipment in the hands of best dermatologist is all I can say\nWish u all the best",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNvNkoyTC13RRAB",
+      "author": "spoorthi veerapaneni",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Great results.Staff is very obliging.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURJcTZDQXpRRRAB",
+      "author": "Ramya Yarlagadda",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Got laser scar revision done for my acne scars at Chandana Skin Clinic, and very excited to see my scars getting less visible just after 2 sessions. Thank you to doctor Chandana for good care and attention to detail.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURJODRmTjhnRRAB",
+      "author": "sindhu vemuri",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNJNjdpbjN3RRAB",
+      "author": "Ajay J",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Very happy about my hair growth after PRP sessions and hairloss treatment at Chandana skin clinic...was very worried about my hair loss in the beginning but thanks to Dr. Chandana for the excellent treatment and getting my hair density back.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNJeTZETjlnRRAB",
+      "author": "SRINIVAS TURLAPATI",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Suseela K\nPerfect place for all cosmetic problems.Had a great experience to me.\nDr.Hari chandana was friendly nature, helpful and courteous.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNJX2NhenhBRRAB",
+      "author": "Saranya Golconda",
+      "rating": 1,
+      "relative_date": "7 years ago",
+      "text": "Worst experience ever had!!!!Doctor is being impatient to hear about their issues and being very rude to them not suggestable",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNJamZpRWRnEAE",
+      "author": "sravya veerapaneni",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Perfect place for best cosmetic results...loved it ❤️",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNJMGZMaGZBEAE",
+      "author": "Sasi Gottimukkala",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "I recently got PRP treatment for my hair loss problem at Chandana skin clinic. It worked like a wonder for me . Simple solution for such a daunting problem.\nThe doctor explained me the procedure in detail and came up with a plan for my hair loss issue. Staff were also very empathetic and cooperative.\nI am planning to come back for more sessions and would also suggest my friends to visit the clinic for their cosmetic problems. Excellent ambience and great work culture.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNJbXZEV01nEAE",
+      "author": "Tejovan Arekuty",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Great Ambiance and very well expert at consulting",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNJNHQyd0dBEAE",
+      "author": "Haritha Sunkara",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Had a great experience to me at Chandana Skin Clinic for my skin & hair.\nThe doctor was friendly nature and helpful, pleasant staff.I would surely recommended Dr.Hari Chandana to everyone looking\nfor successful skin & hair treatment.\nHurry up..................don't waste your time.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR3N3JpSmR3EAE",
+      "author": "Radhika Yalamanchili",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "If u r searching for the best skin specialist in Guntur.. I suggest Dr. Hari Chandana, as I have personally found that she is giving perfect latest treatment for skin problems. I was actually anxious when I took my cousin for laser hair removal but was very happy finally as the session was pain-free, quick and comfortable. The approach of the doctor & staff towards the patient is soo caring..really it's the best place for all of us....I thank Dr. Chandana for her excellent treatment.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURBd0w3WW13RRAB",
+      "author": "Guruju sri lalitha",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURBMEszRjBBRRAB",
+      "author": "Satyanarayana Kotamsetty",
+      "rating": 5,
+      "relative_date": "8 years ago",
+      "text": "",
+      "has_owner_reply": false
+    }
+  ],
+  "reviews_error": "",
+  "sorted_newest": true,
+  "stopped_at_known_review": false,
+  "reviews_captured": 386,
+  "owner_replies": 280,
+  "reviews_coverage": 1.0,
+  "date_anchor": "2026-08-20T22:58:33",
+  "extract_seconds": 68.3,
+  "missing_fields": [],
+  "page_rendered": true,
+  "error": ""
+}

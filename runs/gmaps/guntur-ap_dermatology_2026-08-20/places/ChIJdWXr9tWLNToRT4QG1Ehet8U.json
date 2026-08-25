@@ -1,0 +1,114 @@
+{
+  "key": "ChIJdWXr9tWLNToRT4QG1Ehet8U",
+  "tier": "full",
+  "complete": true,
+  "place_url": "https://www.google.com/maps/place/Padmavathi+Poly+Clinic/data=!4m7!3m6!1s0x3a358bd5f6eb6575:0xc5b75e48d406844f!8m2!3d16.3279523!4d80.4178365!16s%2Fg%2F11h0ms8bz6!19sChIJdWXr9tWLNToRT4QG1Ehet8U?authuser=0&hl=en&rclk=1",
+  "captured_at": "2026-08-21T00:33:04",
+  "rank": 91,
+  "place_id": "ChIJdWXr9tWLNToRT4QG1Ehet8U",
+  "feature_id": "0x3a358bd5f6eb6575:0xc5b75e48d406844f",
+  "kg_mid": "/g/11h0ms8bz6",
+  "lat": 16.3279523,
+  "lng": 80.4178365,
+  "dup_of_rank": null,
+  "has_online_booking": false,
+  "booking_url": "",
+  "booking_vendor": "",
+  "service_options": null,
+  "permanently_closed": false,
+  "temporarily_closed": true,
+  "status_text": "Temporarily closed",
+  "open_now": false,
+  "is_ad": false,
+  "review_snippet": "",
+  "name_raw": "Padmavathi Poly Clinic",
+  "name_clean": "Padmavathi Poly Clinic",
+  "name_key": "padmavathipolyclinic",
+  "name_dropped": [],
+  "name_was_cleaned": false,
+  "category": "Private hospital",
+  "card_category": "Private hospital",
+  "category_mismatch": false,
+  "relevance": "adjacent",
+  "basis": "base_generic_medical",
+  "address": "9-299, JKC College Rd, Tarakarama Nagar, Srinivasa Nagar Colony, Guntur, Andhra Pradesh 522006",
+  "plus_code": "8CH9+54 Guntur, Andhra Pradesh",
+  "phone": "",
+  "website": "",
+  "website_domain": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "insecure_http": false,
+  "website_matches_name": null,
+  "rating": 5.0,
+  "reviews_total": 1,
+  "rating_histogram": {
+    "5": 1,
+    "4": 0,
+    "3": 0,
+    "2": 0,
+    "1": 0
+  },
+  "histogram_sum": 1,
+  "histogram_reconciles": true,
+  "topics": null,
+  "google_profile_gaps": [
+    "Add place's phone number",
+    "Add hours",
+    "Add website"
+  ],
+  "has_photos": true,
+  "hours": null,
+  "about": {
+    "From the business": [
+      " Identifies as women-owned"
+    ],
+    "Crowd": [
+      " LGBTQ+ friendly"
+    ],
+    "Map details": [
+      "Transit",
+      "Traffic",
+      "Biking",
+      "Terrain",
+      "Street View",
+      "Wildfires",
+      "Air Quality"
+    ],
+    "Map tools": [
+      "Travel time",
+      "Measure"
+    ],
+    "Map type": [
+      "Default",
+      "Satellite",
+      " Globe view ",
+      " Labels"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURDcmZmUTFRRRAB",
+      "author": "Lucky Kiran",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "Very nice clinic with good staf",
+      "has_owner_reply": false
+    }
+  ],
+  "reviews_error": "",
+  "sorted_newest": true,
+  "stopped_at_known_review": false,
+  "reviews_captured": 1,
+  "owner_replies": 0,
+  "reviews_coverage": 1.0,
+  "date_anchor": "2026-08-21T00:33:04",
+  "extract_seconds": 55.8,
+  "missing_fields": [
+    "phone",
+    "website",
+    "hours"
+  ],
+  "page_rendered": true,
+  "error": ""
+}

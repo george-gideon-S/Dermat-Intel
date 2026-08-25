@@ -1,0 +1,187 @@
+{
+  "place_url": "https://www.google.com/maps/place/Dr.Krishna+Murthy+Skin+Clinic/data=!4m7!3m6!1s0x3a4a754be7dd1fff:0x3076236234afa615!8m2!3d16.2991374!4d80.4499705!16s%2Fg%2F11c4bgnj_0!19sChIJ_x_d50t1SjoRFaavNGIjdjA?authuser=0&hl=en&rclk=1",
+  "captured_at": "2026-08-20T18:48:26",
+  "feature_id": "0x3a4a754be7dd1fff:0x3076236234afa615",
+  "place_id": "ChIJ_x_d50t1SjoRFaavNGIjdjA",
+  "kg_mid": "/g/11c4bgnj",
+  "lat": 16.2991374,
+  "lng": 80.4499705,
+  "name_raw": "Dr.Krishna Murthy Skin Clinic",
+  "name_clean": "Dr.Krishna Murthy Skin Clinic",
+  "name_key": "drkrishnamurthyskinclinic",
+  "name_dropped": [],
+  "name_was_cleaned": false,
+  "category": "Skin care clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "7CXX+MX5, Old Club Rd, Kothapeta, Hyderabad, Guntur, Andhra Pradesh 522001",
+  "plus_code": "",
+  "phone": "",
+  "website": "",
+  "website_domain": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "insecure_http": false,
+  "website_matches_name": null,
+  "rating": 4.0,
+  "reviews_total": 10,
+  "rating_histogram": {
+    "5": 6,
+    "4": 2,
+    "3": 0,
+    "2": 0,
+    "1": 2
+  },
+  "histogram_sum": 10,
+  "histogram_reconciles": true,
+  "topics": null,
+  "google_profile_gaps": [
+    "Add place's phone number",
+    "Add website"
+  ],
+  "has_photos": true,
+  "hours": {
+    "Thursday": "10:30 am to 2 pm, 6:30 to 9 pm",
+    "Friday": "10:30 am to 2 pm, 6:30 to 9 pm",
+    "Saturday": "10:30 am to 2 pm, 6:30 to 9 pm",
+    "Sunday": "Closed",
+    "Monday": "10:30 am to 2 pm, 6:30 to 9 pm",
+    "Tuesday": "10:30 am to 2 pm, 6:30 to 9 pm",
+    "Wednesday": "10:30 am to 2 pm, 6:30 to 9 pm"
+  },
+  "about": {
+    "Accessibility": [
+      " Wheelchair-accessible entrance"
+    ],
+    "Map details": [
+      "Transit",
+      "Traffic",
+      "Biking",
+      "Terrain",
+      "Street View",
+      "Wildfires",
+      "Air Quality"
+    ],
+    "Map tools": [
+      "Travel time",
+      "Measure"
+    ],
+    "Map type": [
+      "Default",
+      "Satellite",
+      " Globe view ",
+      " Labels"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKelJVVldiakJNYVc1MFdFZzFTRzExZG1kUkxYYxAB",
+      "author": "Eeasub Shaik",
+      "rating": 1,
+      "relative_date": "a year ago",
+      "text": "Worst doctor fungal infection medicine site kanisam use chesthuna time lo kuda fungal infection control ka ledu mali medicine cost to much\nAvoid this doctor",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwaGFxUV93RRAB",
+      "author": "naru mastan reddy",
+      "rating": 4,
+      "relative_date": "2 years ago",
+      "text": "Good and happy",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURtZ2JyLWlnRRAB",
+      "author": "Bindu Adapala",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURHb2NxLURBEAE",
+      "author": "Ravi Yelleboina",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN5ek1XUWJnEAE",
+      "author": "Priyanka Pinki",
+      "rating": 1,
+      "relative_date": "5 years ago",
+      "text": "Worst experience with him, he will speak continues and for small treatment also lot of time. Medicine doesn't work we have to visit atleast 4 or 5 times. For psoriasis is not right person.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURTaWYzTzVnRRAB",
+      "author": "Mounika Damacharla",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ4NWNPTFdBEAE",
+      "author": "thameez SK",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQwM3ZxbUVREAE",
+      "author": "ganesh ganesh",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "Super",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURJbGFITVJREAE",
+      "author": "dinesh pothureddy",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURJNGFiYnNRRRAB",
+      "author": "Kalyana Chakravarthy Balla",
+      "rating": 4,
+      "relative_date": "7 years ago",
+      "text": "Experienced skin specialist.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    }
+  ],
+  "reviews_error": "",
+  "sorted_newest": true,
+  "stopped_at_known_review": false,
+  "reviews_captured": 10,
+  "owner_replies": 0,
+  "truncated_reviews": 0,
+  "reviews_coverage": 1.0,
+  "date_anchor": "2026-08-20T18:48:26",
+  "extract_seconds": 70.4,
+  "missing_fields": [
+    "plus_code",
+    "phone",
+    "website"
+  ],
+  "listing_position": 44,
+  "source_query": "dermatologists in Guntur",
+  "listing_name": "Dr.Krishna Murthy Skin Clinic"
+}

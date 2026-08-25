@@ -16,20 +16,63 @@ MAPS_RADIUS_M = 15000
 
 # --- Paths (absolute, anchored to this file) ---
 BASE_DIR = Path(__file__).resolve().parent
-DATA_DIR = str(BASE_DIR / "data")
-CACHE_DIR = str(BASE_DIR / ".cache")
-QUERIES_XLSX = str(BASE_DIR / "data" / "search_queries.xlsx")
-RESULTS_XLSX = str(BASE_DIR / "data" / "google_maps_results.xlsx")
-VULNERABLE_XLSX = str(BASE_DIR / "data" / "vulnerable_10.xlsx")
-MAPS_CACHE = str(BASE_DIR / ".cache" / "maps_raw.json")
-METADATA_FILE = str(BASE_DIR / "metadata.json")
 
-# --- Google-web SERP screenshot dataset (free: manual full-page captures + Claude-vision extraction) ---
-SCREENSHOTS_DIR = str(BASE_DIR / "data" / "Full Page Screenshots")  # the 78 manual SERP PNGs
-WEB_TILES_DIR = str(BASE_DIR / ".cache" / "web_tiles")              # ephemeral legible tiles (gitignored)
-WEB_SCREENS_CACHE = str(BASE_DIR / ".cache" / "web_screens.json")  # extracted SERP dataset (source of truth)
-SEARCH_RESULTS_XLSX = str(BASE_DIR / "data" / "google_search_results.xlsx")  # Task 1 export
-UNIFIED_XLSX = str(BASE_DIR / "data" / "unified_results.xlsx")      # Task 2: Maps ‖ web per-clinic
+# Runs are snapshots: every artifact for one (geography, practice, subject_type, run_date)
+# lives under runs/<run_id>/ and is never overwritten by a later run. activate_run() repoints
+# the path constants below at a run directory; modules that read config.<PATH> at call time
+# follow automatically. (Only four module-level captures exist and they are resolved lazily —
+# see modules/storage.py and modules/web_collector.py.)
+RUNS_DIR = str(BASE_DIR / "runs")
+
+# The Google-Maps survey snapshots (gmaps/run.py) live in their own tree — a different
+# pipeline from the SERP runs above. Read them via modules/marketdata.py.
+GMAPS_RUNS_DIR = str(BASE_DIR / "runs" / "gmaps")
+
+# The browser profile must NOT be run-scoped: cookies and solved-CAPTCHA state are what keep
+# the SERP scraper unblocked, and they have to survive across quarterly runs.
+BROWSER_DIR = str(BASE_DIR / ".browser")
+SERP_PROFILE_DIR = str(BASE_DIR / ".browser" / "serp_profile")
+
+ACTIVE_RUN_DIR = None  # None -> legacy flat layout (data/ + .cache/ at the repo root)
+
+
+def _apply_roots(root: Path) -> None:
+    """Point every derived path at `root`. Called at import, and again by activate_run()."""
+    global DATA_DIR, CACHE_DIR, QUERIES_XLSX, RESULTS_XLSX, VULNERABLE_XLSX, MAPS_CACHE
+    global SCREENSHOTS_DIR, WEB_TILES_DIR, WEB_SCREENS_CACHE, SEARCH_RESULTS_XLSX, UNIFIED_XLSX
+    DATA_DIR = str(root / "data")
+    CACHE_DIR = str(root / ".cache")
+    QUERIES_XLSX = str(root / "data" / "search_queries.xlsx")
+    RESULTS_XLSX = str(root / "data" / "google_maps_results.xlsx")
+    VULNERABLE_XLSX = str(root / "data" / "vulnerable_10.xlsx")
+    MAPS_CACHE = str(root / ".cache" / "maps_raw.json")
+    # --- Google-web SERP dataset (free: automated capture + DOM extraction) ---
+    SCREENSHOTS_DIR = str(root / "serp" / "screenshots")  # one PNG per query (serp_proof evidence)
+    WEB_TILES_DIR = str(root / ".cache" / "web_tiles")    # ephemeral legible tiles (gitignored)
+    WEB_SCREENS_CACHE = str(root / ".cache" / "web_screens.json")  # SERP dataset (source of truth)
+    SEARCH_RESULTS_XLSX = str(root / "data" / "google_search_results.xlsx")
+    UNIFIED_XLSX = str(root / "data" / "unified_results.xlsx")
+
+
+_apply_roots(BASE_DIR)
+METADATA_FILE = str(BASE_DIR / "metadata.json")  # global "last run" marker, never run-scoped
+
+
+def activate_run(run_dir) -> str:
+    """Repoint all artifact paths at a run snapshot directory. Returns the active dir."""
+    global ACTIVE_RUN_DIR
+    root = Path(run_dir).resolve()
+    root.mkdir(parents=True, exist_ok=True)
+    _apply_roots(root)
+    ACTIVE_RUN_DIR = str(root)
+    return ACTIVE_RUN_DIR
+
+
+def deactivate_run() -> None:
+    """Restore the legacy flat layout (used by tests and the pre-snapshot CLI)."""
+    global ACTIVE_RUN_DIR
+    _apply_roots(BASE_DIR)
+    ACTIVE_RUN_DIR = None
 
 # --- Scraper settings (free Google Maps scraping via Playwright) ---
 SCRAPER_HEADLESS = True
@@ -45,24 +88,26 @@ SCRAPER_USER_AGENT = (
     "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"
 )
 
-# --- Query categories (canonical 7) ---
+# --- Query categories (canonical 6) ---
+# See `query writing.md` for the rules that assign these. Two former categories were retired:
+# "Comparison" (an artefact of one template, never a real patient intent) and
+# "Trust & Social Proof" (a "best rated X" search is the same discovery intent as "best X",
+# so splitting them fragmented the discovery count without telling us anything new).
 CATEGORIES = [
     "Discovery",
-    "Comparison",
-    "Trust & Social Proof",
-    "Pricing",
+    "Doctor-Based",
     "Condition-Based",
+    "Product-Based",
+    "Pricing",
     "Appointment & Booking",
-    "Near Me / Local",
 ]
 CATEGORY_COLORS = {
     "Discovery": "#2563EB",             # blue
-    "Comparison": "#0D9488",            # teal
-    "Trust & Social Proof": "#7C3AED",  # violet
-    "Pricing": "#CA8A04",               # amber
+    "Doctor-Based": "#7C3AED",          # violet
     "Condition-Based": "#DB2777",       # pink
+    "Product-Based": "#0D9488",         # teal
+    "Pricing": "#CA8A04",               # amber
     "Appointment & Booking": "#0891B2", # cyan
-    "Near Me / Local": "#16A34A",       # green
 }
 
 # --- Vulnerability labels: (min_score_inclusive, label, hex_color) high -> low ---
@@ -86,3 +131,23 @@ RAZORPAY_LINK_MONITOR_QTR = ""
 RAZORPAY_LINK_MONITOR_YR = ""
 WHATSAPP_NUMBER = ""           # E.164 digits only, e.g. "919999999999"
 PUBLIC_SALT = "derma-intel-2026"  # public self-lookup hash salt (obfuscation, not security)
+
+# --- .env (gitignored) -> environment, so secrets and endpoints never enter the repo ---
+def _load_dotenv(path=None) -> None:
+    """Minimal loader: KEY=VALUE lines, '#' comments, existing environment always wins."""
+    import os
+    target = Path(path) if path else (BASE_DIR / ".env")
+    try:
+        for line in target.read_text(encoding="utf-8").splitlines():
+            line = line.strip()
+            if not line or line.startswith("#") or "=" not in line:
+                continue
+            key, _, value = line.partition("=")
+            key, value = key.strip(), value.strip().strip('"').strip("'")
+            if key and key not in os.environ:
+                os.environ[key] = value
+    except (OSError, UnicodeDecodeError):
+        pass
+
+
+_load_dotenv()

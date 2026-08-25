@@ -1,0 +1,387 @@
+{
+  "key": "ChIJXzRfZkN1SjoR5pJjyIeCZ1g",
+  "tier": "full",
+  "complete": true,
+  "place_url": "https://www.google.com/maps/place/Sri+Sai+Hospitals/data=!4m7!3m6!1s0x3a4a7543665f345f:0x58678287c86392e6!8m2!3d16.3038683!4d80.4414677!16s%2Fg%2F1w9x_jg6!19sChIJXzRfZkN1SjoR5pJjyIeCZ1g?authuser=0&hl=en&rclk=1",
+  "captured_at": "2026-08-21T00:22:59",
+  "rank": 74,
+  "place_id": "ChIJXzRfZkN1SjoR5pJjyIeCZ1g",
+  "feature_id": "0x3a4a7543665f345f:0x58678287c86392e6",
+  "kg_mid": "/g/1w9x_jg6",
+  "lat": 16.3038683,
+  "lng": 80.4414677,
+  "dup_of_rank": null,
+  "has_online_booking": false,
+  "booking_url": "",
+  "booking_vendor": "",
+  "service_options": null,
+  "permanently_closed": false,
+  "temporarily_closed": false,
+  "status_text": "Open 24 hours",
+  "open_now": true,
+  "is_ad": false,
+  "review_snippet": "\"Treat ment very good\"",
+  "name_raw": "Sri Sai Hospitals",
+  "name_clean": "Sri Sai Hospitals",
+  "name_key": "srisaihospitals",
+  "name_dropped": [],
+  "name_was_cleaned": false,
+  "category": "Hospital",
+  "card_category": "Hospital",
+  "category_mismatch": false,
+  "relevance": "adjacent",
+  "basis": "base_generic_medical",
+  "address": "5/2, Ankamma Nagar, Sali Pet, Arundelpet, Guntur, Andhra Pradesh 522002",
+  "plus_code": "8C3R+GH Guntur, Andhra Pradesh",
+  "phone": "0863 223 4963",
+  "website": "",
+  "website_domain": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "insecure_http": false,
+  "website_matches_name": null,
+  "rating": 2.8,
+  "reviews_total": 34,
+  "rating_histogram": {
+    "5": 10,
+    "4": 5,
+    "3": 2,
+    "2": 1,
+    "1": 16
+  },
+  "histogram_sum": 34,
+  "histogram_reconciles": true,
+  "topics": {
+    "money": 3,
+    "treatment": 3
+  },
+  "google_profile_gaps": [
+    "Add website"
+  ],
+  "has_photos": true,
+  "hours": {
+    "Friday": "Open 24 hours",
+    "Saturday": "Open 24 hours",
+    "Sunday": "Open 24 hours",
+    "Monday": "Open 24 hours",
+    "Tuesday": "Open 24 hours",
+    "Wednesday": "Open 24 hours",
+    "Thursday": "Open 24 hours"
+  },
+  "about": {
+    "Accessibility": [
+      " Wheelchair-accessible car park",
+      " Wheelchair-accessible entrance"
+    ],
+    "Payments": [
+      " Debit cards",
+      " NFC mobile payments"
+    ],
+    "Map details": [
+      "Transit",
+      "Traffic",
+      "Biking",
+      "Terrain",
+      "Street View",
+      "Wildfires",
+      "Air Quality"
+    ],
+    "Map tools": [
+      "Travel time",
+      "Measure"
+    ],
+    "Map type": [
+      "Default",
+      "Satellite",
+      " Globe view ",
+      " Labels"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21nME9FOVRTWEJwUnpKUVZHRjROVWh5Um1sS1ZFRRAB",
+      "author": "Prasad Repoter",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "Ntr vadidyaaeva lo treatment chala bagundi staff chala baga chusukunnaru good staff",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kUldVaERTamhLUzFKM1VGYzVSVlpaTldKVVVIYxAB",
+      "author": "Vamsi annavarapu 7337223032",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "Treat ment very good",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paM05Wb3hXWEpyVlZSWlZtSkVSVWRhVTJkMWNuYxAB",
+      "author": "Thara E",
+      "rating": 5,
+      "relative_date": "2 months ago",
+      "text": "Hi my father was admitted on this hospital for the problem of varicose vein since almost 2 years but now , the laser treatment surgery has been done by the yogi chaganti sir ,also the doctor has explained everything  in a good manner,also service in a good manner thankyou sri sai hospital",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURaN0tXbi1nRRAB",
+      "author": "chowdary dl",
+      "rating": 1,
+      "relative_date": "Edited 2 years ago",
+      "text": "Not only in the state, but also in the country, I have never seen such a bad hospital anywhere. The government hospital is much better than this hospital. Any doctor here from another hospital would come here and see me for a minute and leave.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURXMXRETVBBEAE",
+      "author": "TONY YT ANG",
+      "rating": 4,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURtaTd2Z2J3EAE",
+      "author": "sairam seshu",
+      "rating": 4,
+      "relative_date": "4 years ago",
+      "text": "Average",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURxazRHXzNnRRAB",
+      "author": "Sujan Kumar",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURxX3M3SkhnEAE",
+      "author": "Manasa Gopu",
+      "rating": 1,
+      "relative_date": "5 years ago",
+      "text": "Worst hospital. Worst response of staff who handles OPD area by which hospital reputation loose. Doctor (M Srikanth) is so nice and his care towards patients is excellent and other operation theatre staff are also good.M/s Sri sai hospital if you maintain the same staff at reception area in future no one will visit your hospital.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNxcDViZzlBRRAB",
+      "author": "Suma Latha",
+      "rating": 4,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNxOXRpYlpBEAE",
+      "author": "Bhanu Kancheti",
+      "rating": 1,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURLblAtQmh3RRAB",
+      "author": "Sharif Mk",
+      "rating": 1,
+      "relative_date": "5 years ago",
+      "text": "Worst hospital in the entire Andhra Pradesh...please middle class people don't go to this hospital",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZX05DUlpREAE",
+      "author": "ramesh vechalapu",
+      "rating": 1,
+      "relative_date": "Edited 5 years ago",
+      "text": "There is no mineral water facilities for patients.. verymuch calculate persons.. This hospital Not better for middles class families   ...hemanth kumar sir one of the best orthopedic surgeon in guntur..",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNpakpPWjR3RRAB",
+      "author": "narayana boyapati",
+      "rating": 1,
+      "relative_date": "5 years ago",
+      "text": "Worst\nHospital, managment not responsible, I never saw this type of management and staff ,please never go this hospital",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNzb2E3WnhnRRAB",
+      "author": "Ravikumar K",
+      "rating": 1,
+      "relative_date": "6 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNza3A3QXR3RRAB",
+      "author": "Rithwik Vinnakota",
+      "rating": 1,
+      "relative_date": "6 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQwNlpPY053EAE",
+      "author": "Bhasker Kotha",
+      "rating": 1,
+      "relative_date": "6 years ago",
+      "text": "Worst hospital ever seen... Too much off tests ...And costly medicines ...here arogya sree available but still A common man can't effort... Finally one thing ..Jr.doctors are practicing on us..",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQwM01PU1R3EAE",
+      "author": "NVBK 2213",
+      "rating": 3,
+      "relative_date": "6 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURVLVk2MUdREAE",
+      "author": "tammisetty ashok gopi",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "Very good treatment",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZal9UQ0NBEAE",
+      "author": "Jagadeesh chowdary",
+      "rating": 1,
+      "relative_date": "7 years ago",
+      "text": "Worst hospital, no maintainence and unhygenie area, looting money without any proper bills provided and doctors will never be visited on time as per alloted slots, however emergency it is, no body cares here",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZOThmUk9REAE",
+      "author": "Manohar Devarapalli",
+      "rating": 4,
+      "relative_date": "7 years ago",
+      "text": "OP Area. Response from the staff is very quick. Emergency cases are handled well.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZLXNhSHdBRRAB",
+      "author": "NARAYANA RAO AKULA",
+      "rating": 4,
+      "relative_date": "7 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNZcEpqNGpBRRAB",
+      "author": "Eshwar Raj",
+      "rating": 1,
+      "relative_date": "7 years ago",
+      "text": "Very worst experience No timing at all and fully commercial persons",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNvay1fMVFBEAE",
+      "author": "yashu kumar",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURJdjlUTXJ3RRAB",
+      "author": "mamidi suresh kumar",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "srisai hospital is good hospital treatment is good   staff responding good pationt care very good",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURJc3BhMl9nRRAB",
+      "author": "Bindu Sowmya",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURJX0lQQ2JBEAE",
+      "author": "ch govardhan",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Best Hospital, Doctor Mandava Srinivasa Rao Garu best Doctor with Special care for both Poor and Rich with Individual Care for all Patients",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNJdmFTX3BBRRAB",
+      "author": "Koteswararao Magham",
+      "rating": 1,
+      "relative_date": "7 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNJLVplTE9BEAE",
+      "author": "suntech solar",
+      "rating": 3,
+      "relative_date": "7 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURBMDZ1aUl3EAE",
+      "author": "k prabhakar reddy",
+      "rating": 1,
+      "relative_date": "7 years ago",
+      "text": "Eating money only. Don't go that hospital. Because unwanted tests do more. Don't waste u r money especially uroligy doc mr chary.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURBOUxlU1l3EAE",
+      "author": "Subbarayudu Karna",
+      "rating": 5,
+      "relative_date": "8 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN3aU9uY2JBEAE",
+      "author": "Jyothi Chaitanya Mummidisetty",
+      "rating": 2,
+      "relative_date": "8 years ago",
+      "text": "Treatment is good but staff response is very bad, they kept us waiting for 5 hours..",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNBdGRhYS1RRRAB",
+      "author": "Sk Saif",
+      "rating": 1,
+      "relative_date": "8 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURnakpIQ2FnEAE",
+      "author": "pavan singh",
+      "rating": 1,
+      "relative_date": "8 years ago",
+      "text": "Don't visit this hospital on emergencies.. verymuch  calculated persons ..manager black guy was very rude and receptionist old guy was worst behaviour. All are money minded ... Please don't visit this hospital on emergency.dnt buy medicines in medical shop all r mrp rates..better go n get medicines in kothapet wholsesale shops..",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN3eVk2T0xnEAE",
+      "author": "Balachandar Jeldi",
+      "rating": 1,
+      "relative_date": "9 years ago",
+      "text": "No humanity\nWe faced a worst experience.\nFirst, the receptionist is very rude. They give no respect for pregnant. Their response is very reckless. They kept wait for more than 2:30 hours to meet the doctor.\n\nSecond, the doctor is very calculated person. He will enquire our financial capacity by asking family details. Based on that, he will find a new thing like you have thyroid or BP or some thing else based on our financial status.\n\nHow can a pregnant lady can wait for such a long time by sitting in a chair??",
+      "has_owner_reply": false
+    }
+  ],
+  "reviews_error": "",
+  "sorted_newest": true,
+  "stopped_at_known_review": false,
+  "reviews_captured": 34,
+  "owner_replies": 0,
+  "reviews_coverage": 1.0,
+  "date_anchor": "2026-08-21T00:22:59",
+  "extract_seconds": 44.2,
+  "missing_fields": [
+    "website"
+  ],
+  "page_rendered": true,
+  "error": ""
+}

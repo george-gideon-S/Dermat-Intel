@@ -1,0 +1,1308 @@
+{
+  "place_url": "https://www.google.com/maps/place/Kesavam+Dermacare/data=!4m7!3m6!1s0x3a4a75bf41a3b22b:0xcd799d6137024cba!8m2!3d16.2982744!4d80.4446593!16s%2Fg%2F11q956nltw!19sChIJK7KjQb91SjoRukwCN2Gdec0?authuser=0&hl=en&rclk=1",
+  "captured_at": "2026-08-20T18:28:40",
+  "feature_id": "0x3a4a75bf41a3b22b:0xcd799d6137024cba",
+  "place_id": "ChIJK7KjQb91SjoRukwCN2Gdec0",
+  "kg_mid": "/g/11q956nltw",
+  "lat": 16.2982744,
+  "lng": 80.4446593,
+  "name_raw": "Kesavam Dermacare",
+  "name_clean": "Kesavam Dermacare",
+  "name_key": "kesavamdermacare",
+  "name_dropped": [],
+  "name_was_cleaned": false,
+  "category": "Dermatologist",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "1st Line, behind saraswati theater, Sambasiva Pet, Guntur, Andhra Pradesh 522001",
+  "plus_code": "7CXV+8V Guntur, Andhra Pradesh",
+  "phone": "063019 71891",
+  "website": "",
+  "website_domain": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "insecure_http": false,
+  "website_matches_name": null,
+  "rating": 5.0,
+  "reviews_total": 133,
+  "rating_histogram": {
+    "5": 132,
+    "4": 1,
+    "3": 0,
+    "2": 0,
+    "1": 0
+  },
+  "histogram_sum": 133,
+  "histogram_reconciles": true,
+  "topics": {
+    "hair transplantation": 8,
+    "hair growth treatment": 3,
+    "laser treatments": 3,
+    "prp": 2,
+    "pimples problem": 2,
+    "experienced doctors": 3,
+    "skin problems": 11,
+    "staff support": 2,
+    "hair loss": 9,
+    "allergy": 2
+  },
+  "google_profile_gaps": [
+    "Add website"
+  ],
+  "has_photos": true,
+  "hours": {
+    "Thursday": "10 am to 2 pm, 6 to 8:30 pm",
+    "Friday": "10 am to 2 pm, 6 to 8:30 pm",
+    "Saturday": "10 am to 2 pm, 6 to 8:30 pm",
+    "Sunday": "10 am to 1 pm",
+    "Monday": "10 am to 2 pm, 6 to 8:30 pm",
+    "Tuesday": "10 am to 2 pm, 6 to 8:30 pm",
+    "Wednesday": "10 am to 2 pm, 6 to 8:30 pm"
+  },
+  "about": {
+    "Amenities": [
+      " Restroom"
+    ],
+    "Planning": [
+      " Appointments recommended"
+    ],
+    "Payments": [
+      " NFC mobile payments"
+    ],
+    "Map details": [
+      "Transit",
+      "Traffic",
+      "Biking",
+      "Terrain",
+      "Street View",
+      "Wildfires",
+      "Air Quality"
+    ],
+    "Map tools": [
+      "Travel time",
+      "Measure"
+    ],
+    "Map type": [
+      "Default",
+      "Satellite",
+      " Globe view ",
+      " Labels"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25acFpYaFlSVE5KVUhwSlpISndWVWh6ZDIxRlMyYxAB",
+      "author": "Krishna Prasadh Y",
+      "rating": 5,
+      "relative_date": "2 weeks ago",
+      "text": "Good consulting doctors",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ObFZFeDVkbUpyZUdscVFWaGlja0ZwVDFBMFdIYxAB",
+      "author": "Lakshman Kandi",
+      "rating": 5,
+      "relative_date": "3 months ago",
+      "text": "Madam treatment is Good ...",
+      "maybe_truncated": true,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aVldITk9Ubk4yY2xwbWVsWlpXRWx0VDBZMFExRRAB",
+      "author": "Syed Noor Mohammad",
+      "rating": 5,
+      "relative_date": "3 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210VVVIWk1YMUk0VWtaaU4yc3RkRjh5V0d4cFpXYxAB",
+      "author": "Suresh MALLAVARAPU",
+      "rating": 5,
+      "relative_date": "3 months ago",
+      "text": "VERY GOOD TREATMENT",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214b1dHMVZZbVpaZVVSalRIaHlVV2wwZUdGaGNWRRAB",
+      "author": "KANURI SRINIVAS",
+      "rating": 5,
+      "relative_date": "3 months ago",
+      "text": "Good and excellent",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psaE5WZHFSRjlMV0ZsNVZFWjVPWG93Wms5TFkyYxAB",
+      "author": "sk shameer",
+      "rating": 5,
+      "relative_date": "3 months ago",
+      "text": "I have good recovery in hair fall,dr treat very well ,if any skin repair, allergic condition,hair fall , hyperpigmentation\nI will refer this dr only",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kNWJtNUtTRXAyYms1VE1uZGxWM1Z6WmpORWJYYxAB",
+      "author": "Mallikharjuna Rao Somisetty",
+      "rating": 5,
+      "relative_date": "3 months ago",
+      "text": "The doctor speaks well.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5UWNVNXNkRmxrYzJRMGVIQnVWVkpJVUhGRVNFRRAB",
+      "author": "Thorati Lila Vasavi",
+      "rating": 5,
+      "relative_date": "3 months ago",
+      "text": "Good treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOSFR6aDNialZJWVdwWFdYVm5TR0ZFZVhvNWFYYxAB",
+      "author": "Satish raja Yatham",
+      "rating": 5,
+      "relative_date": "5 months ago",
+      "text": "Good treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGUWFWTnZZblF5ZVVwU1ZDMHdSekZxWVVaUk5FRRAB",
+      "author": "Sudepalli Hari",
+      "rating": 5,
+      "relative_date": "5 months ago",
+      "text": "I can done my transplantion\nGreat result I'm happy😊 …",
+      "maybe_truncated": true,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwTFFqWnhkMVpPTlhOTWFISmpURTFRV0VSMGNVRRAB",
+      "author": "mohanasiri Induri",
+      "rating": 5,
+      "relative_date": "5 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paVFVVOXZWMFZoUkVwb1duZ3RkMGQ1U0hSbGFIYxAB",
+      "author": "SREENIVASULU G",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "Good environment in clinic",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SUlVVRldlUzEyWVZOdlV6aEVXVXQ1YkdkVFlrRRAB",
+      "author": "Billa Rahul",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "Good doctor and good pharmacist",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0eFdIbFlZbWR0VjNCR1JXZDFlRFpmTkV0VGJFRRAB",
+      "author": "Rajisudepalli Raji",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "Affordable treatments",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGbFREaHJUMFpDUWpsclFrUnNSRUUzU2xsb2NGRRAB",
+      "author": "NAGA SAI",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "Good communication doctors in Guntur for skin n hairrr\nAny hair r skin problems once consult dr Rahul Krishna garu and Dr Sowamy harshitha garu\nThank you...",
+      "maybe_truncated": true,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWR2EyRlNUMnhzTUVjNFNsUllUM1pVUVhaUFQyYxAB",
+      "author": "Anand anand",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "Good suggestions for Hair growth treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxMWJuQm9ibGMwVG1oaE1uZzJkbFZwUTFGQ01XYxAB",
+      "author": "Ala Bhiksharao",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "Best skin doctor in guntur",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xseFducDFjRW8yZG1KNVdEbGZRbEY2TUdaMVkzYxAB",
+      "author": "Bhikshu Yadav",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "Good hair treatment in guntur",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKWGFTMW5RbGRCTkVWdVgyeHpkVE5yYmw5Tk0xRRAB",
+      "author": "ramakrishna gorre",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "The treatment by the good doctor was excellent. I'm happy.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kdVgybDBMVmxrTkcxMlNDMURVMGN0VkVwTldtYxAB",
+      "author": "Sandy Naidu",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "Good treatment healthy people",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWM1lucHZWMmRTU0VZNU5EbFVVazVSU2pKUFJWRRAB",
+      "author": "Mohan krishna",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "Great treatment and service",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkQ1FtMDFla0YxTTJST1pXcERlR2N0ZWs5VFpVRRAB",
+      "author": "Sagar Mathangi",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "Good consultant",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xseWVHUnhjVmxzY1ZKM05rcGhWWFJvZW0xS05WRRAB",
+      "author": "Chinta prasad",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "Best dermatologists in guntur",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGSGIyZ3piVTVEZVVaSlVVRm9MWEZuY0doRlZXYxAB",
+      "author": "Kiran Kumar",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "Best hair treatments\nGood experienced doctors",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w4eFkxcHVOa2hVWldvMFlXcDRabnB3WTAxblduYxAB",
+      "author": "Kalakota narendra",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "Best advices for hair loss good treatments likes GFC nd PRP procedures\n🙏 …",
+      "maybe_truncated": true,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25RNU1qVlNRVE5sVjI5bFVUUkRkRWhaVW10SWJXYxAB",
+      "author": "Anand Kumar",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxZlprSnJNRWt0Y0d0UFREZGlSRlYxYWxKa01WRRAB",
+      "author": "Manikanta K",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "Good treatment and good person, interaction,",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2trMGRsTTFTVm93VUUxZmFubDZVSGQ1WTJaYVNIYxAB",
+      "author": "alampalli anjaneyulu",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "Dr Rahul is very kind and good Dr, he was explain is very well, highly recommended to visit him, thank you Dr garu",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkMlIzRjJObTQyTVhKc1JqVktSWGhOZUZGRGMwRRAB",
+      "author": "VINNAKOTA KARTHIK",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "I'm facing hair loss problem since 3 months\nI had consultated so many doctors\nBut recently I'm constanted Dr Rahul garu\nFor my problem sir priscribed medicines n GFC procedure done for 3 sittings\nNow I'm for no loss of my hair thanks",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tod1VtWlJja0ZvVWxoWWNtOU5OWEEzTVdSZlRFRRAB",
+      "author": "Nakshatra Tara",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twSFJrcEVOakJhUVhKd1FuY3RVR05ITldoc01tYxAB",
+      "author": "geethasri sudepalli",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25od2MyaFZNakJRU1hOeVgwUlZTbGR4V2tGdFVXYxAB",
+      "author": "VENKATA REDDY",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "One of the best dermatologist centre in Guntur. All types of laser treatment available.. Doctor Rahul sir was so friendly and Good caring person.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOMmNFMDFhV0p1YTBaQ1luWmpNR1UzTm5OcE4yYxAB",
+      "author": "VENKAT PATTEM",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "GOOD TREATMENT... IM VERY HAPPY ABOUT MY RESULTS",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xRMlRtMUNaRlJoUm05clNGUmtjbmt5WVRCc1prRRAB",
+      "author": "D Venkatarao",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "Good treatment for hair growth",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5blIxOXhNemQ2UmtsS2FHSnNXbFZOTmpGbVZXYxAB",
+      "author": "Dalai Sridhar",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "I constanted dr Rahul garu\nGreat to meet sir gave such a good suggestions diet n medications advanced\nBest treatment best doctora",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkWU5tcFhSVVpXTkhseVZISmxialJsYkRSSmRFRRAB",
+      "author": "settineni mallikarjunrao",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCVmEyUmpSMHhLVm5OalEyOUZSRzlEVTBrNFNIYxAB",
+      "author": "Roshan Jaan",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Treatment is very good",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KVFYzTkVVbXBEVVd4UVJEVXdkMHRGUW1KeVluYxAB",
+      "author": "naresh jammula",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Doctor services good.. for Hair problems",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGelNGTXhSamR6TmtsU1pWZDRWa2h3UTBvMGVuYxAB",
+      "author": "Durga prasad",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Im consultanted doctor Rahul krishna\nFor my skin problem doctor gave good suggestions nd good talks",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKT1UyTnpjRU5OWXkxSWNIaGtNbmxYWW1scVoxRRAB",
+      "author": "mahesh babu",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Good suggestions for air treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sweldXRnJiSGRwZGxRMVNsOWlaRTVDZDBKVWJuYxAB",
+      "author": "Ravi Prince",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Done my hair transplantation\nFew months back now I'm very hpy about my hair growth thanks dr Rahul garu",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xZMmFURlNhSHBTYm5Wa05sUlhWbTlZTUVwNWVYYxAB",
+      "author": "Sambasiva mannem",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Good treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tnMU5HOVpjVkpHUWtkUFNVMWpWamxuV1Voa2RrRRAB",
+      "author": "pathan Jabiullah",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5WlMyTkliRnA2VUdodmMyVjBNWFJuTUdGWVdrRRAB",
+      "author": "Manjunadha Vamsi",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Good clinic",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taZlRUSlNkblJ0WWxWc2JERXdOMDVQVDE5aVozYxAB",
+      "author": "banka Vinodkumar",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Good treatment and good person",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xBMFIycGlOR2hITUZkUmRtRjNaRk5hUW1ONGRuYxAB",
+      "author": "sk shabbeer",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "He is very good treatment for HT\n\nTHANKS SIR",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZbkxlLVlnEAE",
+      "author": "Komera durga prasad",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Good treatment and supportive staff.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvc3JLYm53RRAB",
+      "author": "Badri Yenibera",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Nice Consultant",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURka3E2YmdnRRAB",
+      "author": "Gummadidala Srinivasarao",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Well curee my problem ..good consulting",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURkMVBLQWpRRRAB",
+      "author": "Sai Ram",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Treatment is good",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURkMUlLQ0dREAE",
+      "author": "Ganesh Kumar",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Very good Doctor",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURkMVB6dWFnEAE",
+      "author": "sleevaraj gorantla",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Exlent good treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMxM01YeGhRRRAB",
+      "author": "Nagurbi Shaik",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Good consulting doctor in guntur\nFor all skin and hair problems",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURGcV92bmx3RRAB",
+      "author": "Ranjit Sankar",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Manchi doctor\nGood to consult him",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNGemVPeG5BRRAB",
+      "author": "Shyam Kumar",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Came for hairloss treatment and very satisfied with the treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM1cWUzVjJBRRAB",
+      "author": "Matte Bharani",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Good treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURweW9UMFp3EAE",
+      "author": "Bhagyaraj Koppisetty",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Good",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwaXAzaTVnRRAB",
+      "author": "AVIRNENI SATYANARAYANA PRASAD",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Well equipped hospital with highly qualified and experienced doctors. Dr Rahul's passionate care and compassion will provide you with highest satisfaction....",
+      "maybe_truncated": true,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwaXUzRzFBRRAB",
+      "author": "pavan Kumar cherukuri",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "One of the best dermatology center in guntur.Dr Rahul Krishna’s Hair transplantation skills were really unique",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURwaXNyVUF3EAE",
+      "author": "arthi laxmi",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURwaXFMT1pBEAE",
+      "author": "Dr Apoorva Namrata",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Excellent work and the best doctors available for skin treatment..The best dermatologist in Guntur",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwaXNLV3BnRRAB",
+      "author": "Prasad Solleti",
+      "rating": 4,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwaXNDOHRnRRAB",
+      "author": "mounika chinta",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKcDVDSmd3RRAB",
+      "author": "Sireesha Bethamcharla",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Nice 🙂 …",
+      "maybe_truncated": true,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKcDhDTDRnRRAB",
+      "author": "Naidu Narendra Choudhary",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Very good and very nice hospital",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4ajZXbldREAE",
+      "author": "sushil kumar",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Best Hospital for all skin related issues",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4OE95T01REAE",
+      "author": "sri kanth",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Treatment excellent  & staff good support",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4OE96Q2VBEAE",
+      "author": "Vipparlaparimala Parimalavipparls",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Good hospital for hair loss",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURocHFIbWRnEAE",
+      "author": "Gayathri Padmanabhuni",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURoeHJQajRnRRAB",
+      "author": "Swathi Padmanabhuni",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURoeHNQZ1VnEAE",
+      "author": "Anupama Ravi",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "The reason for visiting this clinic is pimples all over my chin and doctor diagnosed it and prescribed medication .. within 1 day,it all clears.Good hospitality.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURoeHVtS3hnRRAB",
+      "author": "srujan kumar",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Dr.Rahul sir\nAnd Dr.Sowmya are both dynamic young practitioners with expertise in all major and minor skin and cosmetic concerns.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNodmFUZnFRRRAB",
+      "author": "Vikram adithya",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Treatment so good",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNoLXE2cExnEAE",
+      "author": "Thupakula Shabbir",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Good treatment doctor",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURCNzVxaTZRRRAB",
+      "author": "Naveen Thomas",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Excellent and trustworthy Hair Transplant Surgeon !!",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCZy1lNFdBEAE",
+      "author": "bramanjaneyulu09 bramanjaneyulu09",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Good treating",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURCbnJLVm53RRAB",
+      "author": "Chetan Rana",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURCaUlQNXp3RRAB",
+      "author": "prasanna thota",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Good Clinic",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNCLWVLSEhREAE",
+      "author": "kollipera venkatasai09",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Doctor communication and caring talks very good Nice clinic in guntur",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNCdXAyamN3EAE",
+      "author": "NOWSHAD SHAIK",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "All types of laser treatments availability and good caring doctors in this hospital...thank uh dr Rahul Krishna sir...",
+      "maybe_truncated": true,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNCdXVucGJnEAE",
+      "author": "Shaik jabeer",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "In This Kesavam Dermacare Hospital there are Many Specific Treatments are There.. I Recommend This Kesavam Dermacare.. Thank You Dr Rahul Garu",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNCa3Y2T1N3EAE",
+      "author": "NAVEEN MAKKA",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Very good treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtbjh5eWZREAE",
+      "author": "Ashok kumar kottagorla",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Friendly treatment and experience Dr.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQtMW9MWi1BRRAB",
+      "author": "Kiran Kumar",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQtck1qYnBBRRAB",
+      "author": "Taj k Taj",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Nice atmosphere. ..",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtM2ZPMThnRRAB",
+      "author": "Mudigonda bhadri.",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Fantastic Treatment in all Cosmotology and Derma Issues",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMtM2E3ZkhnEAE",
+      "author": "Nagarjunareddy Kunduru",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Good treatment and good doctor",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMtNk1hcEJnEAE",
+      "author": "Afzal Razaak",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Good Experience with Doctor\nTreatment and Hospitality are awesome\nPatient Friendly Doctor",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtc1B5eDRBRRAB",
+      "author": "vishnu kumar",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Immediate Respone and Good Service",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMtME9Pb2N3EAE",
+      "author": "Gopala Raju",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Dr is very good. Medicines also very affordable price",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtMEtPZHNnRRAB",
+      "author": "KRISHNA SIRIGIRI",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Very good recieving in pharmacy and doctor recieving and talking care on patients",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlMjZIdktBEAE",
+      "author": "kranthi burle",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlMjVxVTNRRRAB",
+      "author": "PRASAD K",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Good service",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlMi1TMjhnRRAB",
+      "author": "Rajesh Gupta",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlMjdDQldREAE",
+      "author": "MUKKA MANASA",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Great treatment and service",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlbThfUXNRRRAB",
+      "author": "Sri Poornima",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlbTYzMXpRRRAB",
+      "author": "Mohan Krishna",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Well explained About The Treatment ...Rahul Sir Was Very Experienced In His Work ....Thanq Sir",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlbTYzRWVnEAE",
+      "author": "sampath kumar",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "I visited Dr.rahuls hair transplantation clinic for the problem of thin hair nd loss frequently..after medication there is significant improvement..I definitely recommend this clinic for skin nd hair issues...",
+      "maybe_truncated": true,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlbTQyVGtBRRAB",
+      "author": "Prasanna Kumar",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Excellent service and lot of patience",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlbTZYbDJnRRAB",
+      "author": "KOTHA ARUNA KUMAR",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlbS1uMEp3EAE",
+      "author": "venkat jonnalagadda",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Excellent hair transplantation treatment by Dr Rahul krishna.I strongly recommend kesavam Dermacare",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlbTlIWHVRRRAB",
+      "author": "sriniwaas bbatchu",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "The best HAIR transplant hospital\nIn guntur...",
+      "maybe_truncated": true,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlbS1IaFNnEAE",
+      "author": "badri nath",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlbTZIWlVnEAE",
+      "author": "kvr electricals lalapet guntur",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Best clinic for skin and hair problems …..friendly treatment…..friendly budget …..",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlbTZHRWpRRRAB",
+      "author": "Sai rajendra Paruchuru",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlNVkyYUNBEAE",
+      "author": "Deepa Nithin",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Good experience",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlNWRxWlFBEAE",
+      "author": "moon sattalite",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Good doctor. Explains well and great treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNlMVBPMHZnRRAB",
+      "author": "shaik nizamuddin",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Very good doctor",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNlNko3amRREAE",
+      "author": "suresh pitta",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Available all kind of laser treatments for Best Results.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR1a3VmMG9nRRAB",
+      "author": "Siva Prasad Torlikonda",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Good treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR1a3FlWWhBRRAB",
+      "author": "gopi erapani",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN1djRTU053EAE",
+      "author": "Aditya Veeranala",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Dr.Rahul sir and Dr Sowmya madam are both excellent doctors for hair transplantation and cosmetic laser hair removal procedures.and other skin related problems. The hospital staff are polite and explains clearly.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1el9EZGpBRRAB",
+      "author": "naga Phani",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Dr treatment best in guntur",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1ejlDeDBRRRAB",
+      "author": "koti dhanasiri",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Best derma dr in guntur  nd very friendly dr also",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1NTltcWtnRRAB",
+      "author": "Raja Sekhar",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "BEST SKIN CLINIC",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN1NS1xQ0dREAE",
+      "author": "y.srinivasa Babu",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Excellent clinic",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1aTVYNHNRRRAB",
+      "author": "srinivasu tholusuri",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Good knowledge of doctors",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1aTRYZGx3RRAB",
+      "author": "man see",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "I suffered with dry eczima alot for months,finally with a friend suggestion i gone under  dr.rahul sir treatment.now I am happy & free from allergy, eczima condition.thank you dr rahul sir.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1NDlUcWpBRRAB",
+      "author": "Venkata Reddy Medam",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Very good consiltiontion",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1M2JQQ3BRRRAB",
+      "author": "DURGA BATTULA",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Good doctor and excellent treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1M2YyVnRnRRAB",
+      "author": "venkatesh pattem",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Excellent",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1X3NLUzVRRRAB",
+      "author": "Roja Angel",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "GOOD HOSPITAL STAFF AND CARING ABOUT PATIENT",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1M3JYX3R3RRAB",
+      "author": "Shaik Waheed",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Good clinic in Guntur for hair transplantation",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURPd1otbDhBRRAB",
+      "author": "Sk Arbaz",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Good hospital for hair loss treatments well educated dr.rahul good in treatment I'm seeing my best results",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURPd2FfRDhnRRAB",
+      "author": "Sk Sarif",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Good hospital for hair and skin problems Doctor is very knowledgeable",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURPd1lfR3RnRRAB",
+      "author": "Arun Marri",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Dr Rahul is well experienced..hospital  has latest laser technology equipment for skin problem..I took 2sessions observed lot of difference..best hospital for skin problems in guntur",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURPd2RlNW5RRRAB",
+      "author": "Vivek Jaya Surya",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "It is the best hospital near by Guntur for hair & derma problems dr.Rahul is very well knowledgeable person I visited here for hair loss problem now I’m getting best results….",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURPd2RlMHdBRRAB",
+      "author": "Saishankar Kurangi",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "I have come for acne scar problem Dr Rahul did prp and carbon dioxide laser. Scars improved in  2 sittings.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURPd1plb2dRRRAB",
+      "author": "ABHI",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "I came for pimples problem. Doc gave me good medical advice and pimples reduced.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURPd2FlUE5nEAE",
+      "author": "T Srinadh",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Nice clinic. Knowledgeable doctors",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURPd2FldUFREAE",
+      "author": "prasad ailam",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "I have come for my hair loss problem. Dr is very knowledgeable and he found cause of hair loss and corrected it .my hair loss decreases in few weeks.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURPek9QakxREAE",
+      "author": "Teja Thunder",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNPOHE2WUpBEAE",
+      "author": "Sweety Peddi",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    }
+  ],
+  "reviews_error": "",
+  "sorted_newest": true,
+  "stopped_at_known_review": false,
+  "reviews_captured": 133,
+  "owner_replies": 0,
+  "truncated_reviews": 9,
+  "reviews_coverage": 1.0,
+  "date_anchor": "2026-08-20T18:28:40",
+  "extract_seconds": 54.3,
+  "missing_fields": [
+    "website"
+  ],
+  "listing_position": 26,
+  "source_query": "dermatologists in Guntur",
+  "listing_name": "Kesavam Dermacare"
+}

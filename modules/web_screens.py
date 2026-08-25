@@ -29,12 +29,48 @@ from modules.web_collector import _name_tokens, _result_matches_clinic, domain_o
 
 # Result-page platforms that constitute BORROWED visibility (the clinic is found only because a
 # third-party directory / social profile lists it — it owns none of that real estate).
-AGGREGATOR_PLATFORMS = {"practo", "justdial", "lybrate", "skedoc", "sulekha", "drlogy",
-                        "apollo247", "bajajfinservhealth"}
+#
+# The list is long on purpose. India's health-search surface is thick with directories and
+# booking aggregators, and every one of them that is missing here gets treated as a clinic's
+# OWN site — which hands that clinic the 30 owned-visibility points for a page it does not own.
+# medicasapp.com alone was scoring that way on 10 results.
+AGGREGATOR_PLATFORMS = {
+    # booking / directory marketplaces
+    "practo", "justdial", "lybrate", "skedoc", "sulekha", "drlogy",
+    "apollo247", "bajajfinservhealth", "medicasapp", "credihealth", "meddco",
+    "medibuddy", "mfine", "hexahealth", "doctoriduniya", "clinicspots", "docprime",
+    "curofy", "icliniq", "lazoi", "medifee", "healthfrog", "getdoc", "docsapp",
+    "sehat", "medindia", "myupchar", "healthgrades", "ratemds", "zocdoc",
+    # general business directories that list clinics the same way
+    "indiamart", "yellowpages", "asklaila", "grotal", "tradeindia", "quikr",
+    "citiindia", "bookmerilab", "nearbuy", "magicpin", "yelp",
+}
 SOCIAL_PLATFORMS = {"instagram", "facebook", "youtube"}
 BORROWED_PLATFORMS = AGGREGATOR_PLATFORMS | SOCIAL_PLATFORMS | {"traya"}
-SPONSORED_TYPES = {"sponsored_top", "sponsored_mid"}
-VALID_BLOCK_TYPES = {"sponsored_top", "sponsored_mid", "places", "organic", "ai_overview"}
+
+# Hospitals are not the unit of analysis. A multispeciality hospital runs many practices at
+# once, so it out-ranks a solo dermatology clinic on volume signals that say nothing about
+# dermatology — the same reason the clinic roster separates them. Detected generically first
+# ("hospital" in the domain catches asterhospitals.in, kimshospitals.com, viswashospitals.com),
+# with an explicit list for the chains that do not say so in their name.
+HOSPITAL_FRAGMENTS = (
+    "hospital", "medanta", "fortishealthcare", "maxhealthcare", "narayanahealth",
+    "kokilaben", "artemis", "wockhardt", "columbiaasia", "amritahospitals", "kimshealth",
+    "sakra", "rubyhall", "lilavati", "hinduja", "jaslok", "breachcandy", "kauvery",
+    "aiims", "pgimer", "cmch-vellore", "stjohns",
+)
+
+SPONSORED_TYPES = {"sponsored_top", "sponsored_mid", "sponsored_bottom"}
+# The AI overview splits the way ads do — an overview that opens the page and one a searcher
+# scrolls past nine results to reach are different signals. "ai_overview" is retained because
+# the June screenshot corpus recorded it unzoned, and dropping it would make those blocks
+# unrecognised and silently coerced to "organic" by _normalize_block below.
+AI_TYPES = {"ai_overview", "ai_overview_top", "ai_overview_mid", "ai_overview_unavailable"}
+LOCAL_PACK_TYPES = {"places", "local_pack_top", "local_pack_mid", "local_pack_bottom"}
+LOCAL_PACK_MORE_TYPES = {"local_pack_more_top", "local_pack_more_mid",
+                         "local_pack_more_bottom"}
+VALID_BLOCK_TYPES = ({"organic"} | LOCAL_PACK_TYPES | LOCAL_PACK_MORE_TYPES
+                     | SPONSORED_TYPES | AI_TYPES)
 
 
 def _normalize_block(b: dict) -> dict:
@@ -203,7 +239,7 @@ def aggregate_web_by_clinic(web_screens: dict, clinics: list[dict]) -> dict:
                 rec["web_borrowed_appearances"] += 1
             if organic_own:
                 rec["has_own_site"] = True
-            if any(b.get("block_type") == "places" for b, _ in items):
+            if any(b.get("block_type") in LOCAL_PACK_TYPES for b, _ in items):
                 rec["in_places_count"] += 1
             if any(b.get("block_type") in SPONSORED_TYPES for b, _ in items):
                 rec["sponsored_count"] += 1

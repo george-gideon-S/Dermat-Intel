@@ -1,0 +1,493 @@
+{
+  "place_url": "https://www.google.com/maps/place/KRUPA+DENTAL+CLINIC%28Digital+Implantology+Centre%29/data=!4m7!3m6!1s0x3a358aa3f9f34991:0xd1191a9f41d2135a!8m2!3d16.3214372!4d80.4374456!16s%2Fg%2F11crzdt_k9!19sChIJkUnz-aOKNToRWhPSQZ8aGdE?authuser=0&hl=en&rclk=1",
+  "captured_at": "2026-08-20T19:27:26",
+  "feature_id": "0x3a358aa3f9f34991:0xd1191a9f41d2135a",
+  "place_id": "ChIJkUnz-aOKNToRWhPSQZ8aGdE",
+  "kg_mid": "/g/11crzdt",
+  "lat": 16.3214372,
+  "lng": 80.4374456,
+  "name_raw": "KRUPA DENTAL CLINIC(Digital Implantology Centre)",
+  "name_clean": "KRUPA DENTAL CLINIC(Digital Implantology Centre)",
+  "name_key": "krupadentalclinicdigitalimplantologycentre",
+  "name_dropped": [],
+  "name_was_cleaned": false,
+  "category": "Dental clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "irrelevant",
+  "basis": "name_veto:dental",
+  "address": "Arch and Bus Stop Medical Hostel centre, Amaravathi Rd, opposite Velangini nagar, Gauthami Nagar, Guntur, Andhra Pradesh 522007",
+  "plus_code": "8CCP+HX Guntur, Andhra Pradesh",
+  "phone": "099499 29477",
+  "website": "",
+  "website_domain": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "insecure_http": false,
+  "website_matches_name": null,
+  "rating": 4.9,
+  "reviews_total": 43,
+  "rating_histogram": {
+    "5": 40,
+    "4": 1,
+    "3": 1,
+    "2": 1,
+    "1": 0
+  },
+  "histogram_sum": 43,
+  "histogram_reconciles": true,
+  "topics": {
+    "low cost": 3,
+    "experienced dentist": 5,
+    "kind and polite staff": 2,
+    "post treatment care": 2,
+    "friendly doctor": 5,
+    "painless treatment": 3,
+    "comfortable environment": 3,
+    "root canal treatment": 3,
+    "skilled doctor": 3,
+    "clear explanations": 2
+  },
+  "google_profile_gaps": [
+    "Add website"
+  ],
+  "has_photos": true,
+  "hours": {
+    "Thursday": "9:30 am to 9:30 pm",
+    "Friday": "9:30 am to 9:30 pm",
+    "Saturday": "9:30 am to 9:30 pm",
+    "Sunday": "Closed",
+    "Monday": "9:30 am to 9:30 pm",
+    "Tuesday": "9:30 am to 9:30 pm",
+    "Wednesday": "9:30 am to 9:30 pm"
+  },
+  "about": {
+    "కృపా డెంటల్ క్లినిక్": [
+      "9:30 am–9:30 pm",
+      "Closed"
+    ],
+    "Map details": [
+      "Transit",
+      "Traffic",
+      "Biking",
+      "Terrain",
+      "Street View",
+      "Wildfires",
+      "Air Quality"
+    ],
+    "Map tools": [
+      "Travel time",
+      "Measure"
+    ],
+    "Map type": [
+      "Default",
+      "Satellite",
+      " Globe view ",
+      " Labels"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210NGRWQnhaemRFTWpCelVWbE9Wa3BuY2tkd1UxRRAB",
+      "author": "Adhith El adoni",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "Very affordable and the doctor is very humble,clearly explaining everything.I Went to this clinic with my father,asked Him so many questions for many hours he answered every question calmly and is still ready to answer everything with his calm, humble nature.Thank you so much doctor.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psbE1FRmFOVWxmYlRCdU9UUlJNVzVSVVc4NVNrRRAB",
+      "author": "Simbisai Chinhema",
+      "rating": 5,
+      "relative_date": "2 months ago",
+      "text": "Very humble and best dental doctor in Guntur",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5MU1qbHdSMGQyV1dKcWMyTjNORFpHUVZJNE4yYxAB",
+      "author": "Shaik Jakeer",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "“I had a truly positive experience at this dental hospital. The doctor is extremely kind, humble, and professional, which made me feel safe and relaxed during the treatment. The care and attention given were exceptional, and the treatment quality was excellent. The cost is also very affordable, which is a big relief. I genuinely recommend this dental hospital to anyone looking for trustworthy and compassionate dental care.”",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5Zk9GZFROblZwUVdaRFluSmtXbk5sVWtwelgwRRAB",
+      "author": "Sivsai",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tVMFZWZzRNMTlPVUZnNE0wcEpSM0JyYjFwNVJXYxAB",
+      "author": "Edward Thomas",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tabFlVZDNhMng1Y0VoZmMyMXpibTl3Ym1GNVUzYxAB",
+      "author": "Lokesh Ande",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "Feeling good to meet doctor, explain very well",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoaFJWaEdlazVKTW1OUlgwMUVjME14VDFsMldXYxAB",
+      "author": "Tharun Reddy",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "⭐️⭐️⭐️⭐️⭐️ **Excellent Experience at Krupa Dental Clinic!**\n\nI recently visited **Krupa Dental Clinic** and had a wonderful experience from start to finish. The **doctor** was extremely professional, patient, and took time to explain every procedure clearly. Their friendly and caring approach made me feel very comfortable throughout the treatment.\n\nThe **clinic** is well-maintained, clean, and has a very calm and welcoming environment. It’s equipped with **modern dental instruments and advanced technology**, which clearly reflects their commitment to providing high-quality care.\n\nI was particularly impressed with their **sterilization and hygiene standards**. Every instrument was properly packed and opened in front of me, ensuring complete safety and cleanliness — something very important in dental care.\n\nThe **procedures** were performed smoothly and painlessly, with great attention to detail. The doctor ensured that I was comfortable during every step and even followed up afterward to check on my recovery.\n\nOverall, **Krupa Dental Clinic** stands out for its skilled doctor, top-notch equipment, excellent sterilization, and patient-friendly service. I would highly recommend it to anyone looking for safe and effective dental treatment!",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201M1JWUlFVbTl3YTNCbGFtaG5YMDVqVFhJemFFRRAB",
+      "author": "amburi srinivasulu",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "Loved the service! The dentist was kind, explained everything clearly, and the treatment was smooth. Thank you for the great care!",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkTGVEaEVOMFJ6U25WTlVEZDZTVmN3Y0RCR2FXYxAB",
+      "author": "naveen kumar",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "KRUPA DENTAL CLINIC Is a Very Good Clinic in Guntur The doctor and staff is very  kind and polite towards patient and Root canal treatment, zirconia Tooth fitting is reasonable price and Doctor Work is very Good and well experienced  person Thankyou somuch sir for given the best treatment.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOVFZWVmFSa2R2Y0ZKYWIzbHVaMHhETmtWT00xRRAB",
+      "author": "Madhu sudhan Reddy MSR",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "Excellent treatment.quick freeness relief.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pseVRHNVlZbkpGVGswdExVVjBhbXRIVHpVMU1FRRAB",
+      "author": "rayapati Devaraju",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VLR18tTFRpN0k3YVdBEAE",
+      "author": "prasanna gutta",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I recently visited Krupa dental clinic at Guntur, and had done my root canal and fillings treatment,the doctor did the treatment very smoothly with out pain,he was highly skilled and professional and  very friendly with the patients and had a good staff",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3MFlqNUVREAE",
+      "author": "Karthik Reddy",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Highly Recommend!\n\nHad my wisdom tooth removed at Krupa dental clinic, and it was a smooth experience! The doctor was skilled, the procedure was quick and painless, and Great staff and service—highly recommend!",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNBM292YzV3RRAB",
+      "author": "Yasodha Bhashyam",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Listen to problem with patience and also good post treatment care",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURfbXM2YWlBRRAB",
+      "author": "bala hithaishi",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Experienced, Professional Dentist. Reliable and deals with patience. Good post treatment care",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURfcUlTejZRRRAB",
+      "author": "Gopi nadh",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I recently visited krupa dental clinic and done my root canal treatment, it was an exceptional experience from start to finish.\n\nDr. Bharat was fantastic.\nThey took the time to explain every step of the procedure, answered all my questions, and made sure I was completely at ease before proceeding.\n\nWhat stood out to me the most was the clinic's focus on patient education. They provided clear advice on maintaining good oral health and personalized recommendations for my dental care routine.\n\nOverall, I highly recommend krupa dental clinic to anyone looking for top-notch dental care. The combination of a friendly, skilled doctor and a comfortable environment makes this clinic a standout. I’ll definitely be returning for my future dental needs!",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNQdUxENHd3RRAB",
+      "author": "kunapamu Ramesh",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURMZ1Buck5nEAE",
+      "author": "SHIVA FOOD'S",
+      "rating": 4,
+      "relative_date": "2 years ago",
+      "text": "Good sir",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNUdzl2M2hnRRAB",
+      "author": "Pradeep Kumar",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Efficient, Expertise, and Reliable Doctor.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNUZzYyZ1lREAE",
+      "author": "Santhi Vardhan",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Very good friendly and experienced Dentist with lot of patience.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNUdHFqODFnRRAB",
+      "author": "Nitish Nuthalapati",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Worth for money and good treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNEOE5URF9BRRAB",
+      "author": "VenkataSivaNagaRaju Dasari",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Very good friendly and experienced Dentist with lot of patience.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNkamRIQU9REAE",
+      "author": "Dummy Mail",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCbi1lNGJ3EAE",
+      "author": "Kattepogu Neelima",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlNHVQb05BEAE",
+      "author": "Sravanthi Rajesh",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlN0pId09REAE",
+      "author": "sagar battula",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlN0w2OGFBEAE",
+      "author": "Manoj Kumar",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Prompt and friendly doctor.clinic is neat and spacious.well equipped.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlN01hRlFBEAE",
+      "author": "Lingareddy gujjula",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlN0tDRU9REAE",
+      "author": "shakdar s",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURPNGQtM2pBRRAB",
+      "author": "Raamana Srinivasarao",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "3 units ceramic bridge  recevied 15 (2007)years back and it is still working It is very low cost still no problem arise Dr.Bharat is do good wonderfully.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN5dWJuV0FREAE",
+      "author": "DEVALLA2 SAMBASIVA RAO",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM4MU4ydi1RRRAB",
+      "author": "NAVEEN Ch",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURVbzZiREJ3EAE",
+      "author": "Rajesh Mallampati",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNZOGNmak5nEAE",
+      "author": "Koteswara Rao -English",
+      "rating": 2,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNvN3AzR2dnRRAB",
+      "author": "Sunil Kumar",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Very Exllent Working...\nGood Caring also.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNvLXJlX3BBRRAB",
+      "author": "Mary Manjula",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Excellent Service",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNvLXRlWmR3EAE",
+      "author": "Sarah Angel",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Clean, Smart and Professional",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNvdXFLUTV3RRAB",
+      "author": "B V",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Real worthy... caring and affordable. ...",
+      "maybe_truncated": true,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNvMnFpWm53RRAB",
+      "author": "Sisindri Ch nice song brother",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNvME82dDh3RRAB",
+      "author": "Siva Govinda Rao Yadavalli",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Good",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR3b282Q2NBEAE",
+      "author": "Bhaaskar Reddy",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Professional dentist with compassion and understanding. Very reasonable price. Good follow up after treatment.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR3MU9HbDFnRRAB",
+      "author": "Yadavalli Siva Govindarao",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Efficient doctor with latest equipment",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURBMklDdm5BRRAB",
+      "author": "satyanarayana vasantha",
+      "rating": 3,
+      "relative_date": "8 years ago",
+      "text": "dental services and treatment.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    }
+  ],
+  "reviews_error": "",
+  "sorted_newest": true,
+  "stopped_at_known_review": false,
+  "reviews_captured": 43,
+  "owner_replies": 34,
+  "truncated_reviews": 1,
+  "reviews_coverage": 1.0,
+  "date_anchor": "2026-08-20T19:27:26",
+  "extract_seconds": 60.5,
+  "missing_fields": [
+    "website"
+  ],
+  "listing_position": 74,
+  "source_query": "dermatologists in Guntur",
+  "listing_name": "KRUPA DENTAL CLINIC(Digital Implantology Centre)"
+}

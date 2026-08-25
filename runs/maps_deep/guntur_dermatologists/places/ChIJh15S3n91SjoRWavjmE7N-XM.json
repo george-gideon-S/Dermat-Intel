@@ -1,0 +1,85 @@
+{
+  "place_url": "https://www.google.com/maps/place/Aster+Women+%26+Child+Centre+-+Top+Pediatric,+Maternity+%26+Pregnancy+Hospital+in+Guntur/data=!4m7!3m6!1s0x3a4a757fde525e87:0x73f9cd4e98e3ab59!8m2!3d16.293062!4d80.442501!16s%2Fg%2F11mld5zlj5!19sChIJh15S3n91SjoRWavjmE7N-XM?authuser=0&hl=en&rclk=1",
+  "captured_at": "2026-08-20T19:49:05",
+  "feature_id": "0x3a4a757fde525e87:0x73f9cd4e98e3ab59",
+  "place_id": "ChIJh15S3n91SjoRWavjmE7N-XM",
+  "kg_mid": "/g/11mld5zlj5",
+  "lat": 16.293062,
+  "lng": 80.442501,
+  "name_raw": "Aster Women & Child Centre - Top Pediatric, Maternity & Pregnancy Hospital in Guntur",
+  "name_clean": "Aster Women & Child Centre - Top Pediatric, Maternity & Pregnancy Hospital in Guntur",
+  "name_key": "asterwomenchildcentretoppediatricmaternitypregnancyhospitalinguntur",
+  "name_dropped": [],
+  "name_was_cleaned": false,
+  "category": "Maternity Centre",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "adjacent",
+  "basis": "category_unlisted",
+  "address": "Collector Office Rd, beside Hindu College Road, Grounds, Nagarampalem, Guntur, Andhra Pradesh 522004",
+  "plus_code": "7CVV+62 Guntur, Andhra Pradesh",
+  "phone": "079 4281 0182",
+  "website": "https://www.asterhospitals.in/hospitals/aster-ramesh-guntur",
+  "website_domain": "asterhospitals.in",
+  "website_type": "own_domain",
+  "has_own_website": true,
+  "insecure_http": false,
+  "website_matches_name": true,
+  "rating": null,
+  "reviews_total": null,
+  "rating_histogram": null,
+  "topics": null,
+  "google_profile_gaps": null,
+  "has_photos": true,
+  "hours": {
+    "Thursday": "Open 24 hours",
+    "Friday": "Open 24 hours",
+    "Saturday": "Open 24 hours",
+    "Sunday": "Open 24 hours",
+    "Monday": "Open 24 hours",
+    "Tuesday": "Open 24 hours",
+    "Wednesday": "Open 24 hours"
+  },
+  "about": {
+    "Payments": [
+      " Credit cards",
+      " Debit cards",
+      " NFC mobile payments"
+    ],
+    "Map details": [
+      "Transit",
+      "Traffic",
+      "Biking",
+      "Terrain",
+      "Street View",
+      "Wildfires",
+      "Air Quality"
+    ],
+    "Map tools": [
+      "Travel time",
+      "Measure"
+    ],
+    "Map type": [
+      "Default",
+      "Satellite",
+      " Globe view ",
+      " Labels"
+    ]
+  },
+  "reviews": [],
+  "reviews_error": "reviews pane did not open",
+  "sorted_newest": false,
+  "reviews_captured": 0,
+  "owner_replies": 0,
+  "truncated_reviews": 0,
+  "date_anchor": "2026-08-20T19:49:05",
+  "extract_seconds": 33.3,
+  "missing_fields": [
+    "rating",
+    "reviews_total",
+    "reviews"
+  ],
+  "listing_position": 93,
+  "source_query": "dermatologists in Guntur",
+  "listing_name": "Aster Women & Child Centre - Top Pediatric, Maternity & Pregnancy Hospital in Guntur"
+}

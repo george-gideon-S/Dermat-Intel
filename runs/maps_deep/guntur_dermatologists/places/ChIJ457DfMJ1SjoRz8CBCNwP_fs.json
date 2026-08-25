@@ -1,0 +1,350 @@
+{
+  "place_url": "https://www.google.com/maps/place/Giridhar+Dental+Clinic/data=!4m7!3m6!1s0x3a4a75c27cc39ee3:0xfbfd0fdc0881c0cf!8m2!3d16.2882369!4d80.4488292!16s%2Fg%2F11qncrhkv3!19sChIJ457DfMJ1SjoRz8CBCNwP_fs?authuser=0&hl=en&rclk=1",
+  "captured_at": "2026-08-20T19:28:30",
+  "feature_id": "0x3a4a75c27cc39ee3:0xfbfd0fdc0881c0cf",
+  "place_id": "ChIJ457DfMJ1SjoRz8CBCNwP_fs",
+  "kg_mid": "/g/11qncrhkv3",
+  "lat": 16.2882369,
+  "lng": 80.4488292,
+  "name_raw": "Giridhar Dental Clinic",
+  "name_clean": "Giridhar Dental Clinic",
+  "name_key": "giridhardentalclinic",
+  "name_dropped": [],
+  "name_was_cleaned": false,
+  "category": "Dental clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "irrelevant",
+  "basis": "name_veto:dental",
+  "address": "Door no.20, Chowtra center, 1-8, Seelam Vari St, near Ramalayam, Nuka, Lalapet, Guntur, Andhra Pradesh 522003",
+  "plus_code": "7CQX+7G Guntur, Andhra Pradesh",
+  "phone": "096032 29899",
+  "website": "",
+  "website_domain": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "insecure_http": false,
+  "website_matches_name": null,
+  "rating": 4.9,
+  "reviews_total": 28,
+  "rating_histogram": {
+    "5": 27,
+    "4": 0,
+    "3": 1,
+    "2": 0,
+    "1": 0
+  },
+  "histogram_sum": 28,
+  "histogram_reconciles": true,
+  "topics": {
+    "painless treatment": 2,
+    "dental care": 5,
+    "treatment": 5
+  },
+  "google_profile_gaps": [
+    "Add website"
+  ],
+  "has_photos": true,
+  "hours": {
+    "Thursday": "10 am to 2 pm, 4 to 9 pm",
+    "Friday": "10 am to 2 pm, 4 to 9 pm",
+    "Saturday": "10 am to 2 pm, 4 to 9 pm",
+    "Sunday": "10 am to 2 pm",
+    "Monday": "10 am to 2 pm, 4 to 9 pm",
+    "Tuesday": "10 am to 2 pm, 4 to 9 pm",
+    "Wednesday": "10 am to 2 pm, 4 to 9 pm"
+  },
+  "about": {
+    "Planning": [
+      " Appointments recommended"
+    ],
+    "Map details": [
+      "Transit",
+      "Traffic",
+      "Biking",
+      "Terrain",
+      "Street View",
+      "Wildfires",
+      "Air Quality"
+    ],
+    "Map tools": [
+      "Travel time",
+      "Measure"
+    ],
+    "Map type": [
+      "Default",
+      "Satellite",
+      " Globe view ",
+      " Labels"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5a1QweDZRVkl6UVdkaWJWSmlRMEpGUldzMU5VRRAB",
+      "author": "Venkatesh Rajavarapu",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURUNXA2cjFBRRAB",
+      "author": "Balu Balu",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURUNXNEUnZ3RRAB",
+      "author": "Adinarayana Ranga",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURUcHR1ZGZ3EAE",
+      "author": "Raghavendra Gupta",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURUcHVPTzhnRRAB",
+      "author": "Teddla Pavani",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKb05MWnd3RRAB",
+      "author": "anil kumar Polisetty",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Had to visit this place by friends reference and i had got some cavities,Dr Giridhar showed all my cavities with pictures and i got them filled with cosmetic fillings and the best part is those are not at all visible as filled. I have got the best experience here and I highly recommend this clinic for all.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4c2JmdGZ3EAE",
+      "author": "Sai Krishna",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4elBiUlZnEAE",
+      "author": "shaik saleem",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4eU1HRVJ3EAE",
+      "author": "naveen rocks",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Good service quality better place to visit dental care 🦷😁 …",
+      "maybe_truncated": true,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4NE1yX2FREAE",
+      "author": "pabbisetty santosh",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4b091eUhBEAE",
+      "author": "rama krishna",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Very reasonable prices and doctor was very friendly …satisfied with service",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCOXJpWGN3EAE",
+      "author": "Subbarayudu Munnaluri",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "I have visited this clinic for my tooth pain, Dr.Giridhar garu has checked my teeth and took x-ray, suggested to get Root canal treatment and I got it done, its painless treatment and I'm very comfortable during the treatment.i was very happy after the treatment.Thank you for your services",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURTeGFMMDFnRRAB",
+      "author": "Baji Basha Shaik",
+      "rating": 5,
+      "relative_date": "Edited 3 years ago",
+      "text": "Best dental clinic",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNlNmV5b0R3EAE",
+      "author": "mahesh yadla",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Problem / Reason of my visit:\nI have gone to Dr. Giridhar after my wisdom tooth broke which was decayed in the past. I've already got that treated where it was drilled and cemented in a different clinic where my experience wasn't very good.\n\nProcedure:\nI've been made aware of the options that I have (root canal or extraction) before hand. Dr. Giridhar helped me in understanding the pros and cons of each approach and helped me make the right decision.\n\nExperience:\nI've had complete knowledge of what was happening through out the procedure as I was clearly explained of each step. Giri cared through out the process, kept asking me if I felt comfortable and have given me more confidence.\n\nI'd definitely recommend him to anyone over the private dental hospitals where you'd have to wait several hours and be kept in dark of your options.\n\nPricing:\nThe price is very reasonable and helps everyone.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURTN1lqTDdRRRAB",
+      "author": "Lakshman Lucky",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURTaGVDMGtBRRAB",
+      "author": "Sunil Nelaturi",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURTdWVmT1N3EAE",
+      "author": "Pavan Kumar",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "Excellent service at effortable charges.\nIf we follow Dr Giridhar's instructions , we will be blessed with healthy smiles :)",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURTLWRMZHdnRRAB",
+      "author": "Raagini Guggilam",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "Hi everyone, I'm here to share my experience with this clinic.I have visited this place for my teeth correction,got my check up done by Dr.Giridhar sir & suggested to go for clips treatment to get my teeth in correct position.I got to know all types of clips and opted for ceramic clips which are cosmetically invisible, I'm undergoing with the treatment and i was very much satisfied.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURTLVlDN3dBRRAB",
+      "author": "Advocate Ram komera",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "Dr.Giridhar is good at his profession and love the way he treats the patients, i am 200% satisfied with his treatment and my sever dental problem resolved...keep it up sir....👌👍 …",
+      "maybe_truncated": true,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURTdWVfU01BEAE",
+      "author": "Nikhita Sure",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURTdWJ1THN3RRAB",
+      "author": "joel just joel",
+      "rating": 3,
+      "relative_date": "5 years ago",
+      "text": "There is no name board outside , I had hard time finding the clinic or else I would have given 5/5 for the quality of the treatment and ambience of the clinic .",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURTdWRPNW1nRRAB",
+      "author": "Amarthaluri Avinash",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "One of best and finest clinics in guntur... My grand ma was so happy with the painless treatment done in ur clinic thank you\nDr Giridhar garu..",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURTdWVPbTFRRRAB",
+      "author": "Uday Krishna",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "Best treatment with best quality reasonable pricing, highly recommend  for all.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURTdWFPa0l3EAE",
+      "author": "Shannu Rao Masss",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "Treatment was quite naturally...and friendly behaviour...with patients...",
+      "maybe_truncated": true,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURpeU9PSmZBEAE",
+      "author": "Sure Naga",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "Very good treatment by Dr. Giridhar. Visited once for my tooth problem that's it no second visit required for me. Thank you Dr. Giridhar :)",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURpaUxuc2NnEAE",
+      "author": "SIVA SAKTHI CREATIONS",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "nice place to take dental treatment at economical price",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURpc0lhb1h3EAE",
+      "author": "Yaswanth Kumar",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURpc0xxcl9nRRAB",
+      "author": "Ramanuja Akash",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    }
+  ],
+  "reviews_error": "",
+  "sorted_newest": true,
+  "stopped_at_known_review": false,
+  "reviews_captured": 28,
+  "owner_replies": 17,
+  "truncated_reviews": 3,
+  "reviews_coverage": 1.0,
+  "date_anchor": "2026-08-20T19:28:30",
+  "extract_seconds": 43.0,
+  "missing_fields": [
+    "website"
+  ],
+  "listing_position": 75,
+  "source_query": "dermatologists in Guntur",
+  "listing_name": "Giridhar Dental Clinic"
+}

@@ -1,0 +1,194 @@
+{
+  "place_url": "https://www.google.com/maps/place/AIRA+IMAGING+%26+DIAGNOSTIC+CENTER+LLP/data=!4m7!3m6!1s0x3a4a75f5167fcf09:0x4592f97a2cdaa94d!8m2!3d16.2965129!4d80.4510895!16s%2Fg%2F11rk8y8m3v!19sChIJCc9_FvV1SjoRTanaLHr5kkU?authuser=0&hl=en&rclk=1",
+  "captured_at": "2026-08-20T19:20:13",
+  "feature_id": "0x3a4a75f5167fcf09:0x4592f97a2cdaa94d",
+  "place_id": "ChIJCc9_FvV1SjoRTanaLHr5kkU",
+  "kg_mid": "/g/11rk8y8m3v",
+  "lat": 16.2965129,
+  "lng": 80.4510895,
+  "name_raw": "AIRA IMAGING & DIAGNOSTIC CENTER LLP",
+  "name_clean": "AIRA IMAGING & DIAGNOSTIC CENTER LLP",
+  "name_key": "airaimagingdiagnosticcenterllp",
+  "name_dropped": [],
+  "name_was_cleaned": false,
+  "category": "Dermatologist",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "irrelevant",
+  "basis": "name_veto:diagnostic",
+  "address": "D.No, 13-1-3, Old Bank St, Kothapeta, Guntur, Andhra Pradesh 522001",
+  "plus_code": "7FW2+JC Guntur, Andhra Pradesh",
+  "phone": "079972 22277",
+  "website": "",
+  "website_domain": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "insecure_http": false,
+  "website_matches_name": null,
+  "rating": 3.4,
+  "reviews_total": 11,
+  "rating_histogram": {
+    "5": 5,
+    "4": 2,
+    "3": 0,
+    "2": 0,
+    "1": 4
+  },
+  "histogram_sum": 11,
+  "histogram_reconciles": true,
+  "topics": {
+    "lab": 3
+  },
+  "google_profile_gaps": [
+    "Add hours",
+    "Add website"
+  ],
+  "has_photos": true,
+  "hours": null,
+  "about": {
+    "Accessibility": [
+      " Wheelchair-accessible car park",
+      " Wheelchair-accessible entrance",
+      " Wheelchair-accessible toilet"
+    ],
+    "Amenities": [
+      " Restroom"
+    ],
+    "Map details": [
+      "Transit",
+      "Traffic",
+      "Biking",
+      "Terrain",
+      "Street View",
+      "Wildfires",
+      "Air Quality"
+    ],
+    "Map tools": [
+      "Travel time",
+      "Measure"
+    ],
+    "Map type": [
+      "Default",
+      "Satellite",
+      " Globe view ",
+      " Labels"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNia1BLbFlnEAE",
+      "author": "ede bhanu",
+      "rating": 1,
+      "relative_date": "2 years ago",
+      "text": "Worst hospitality and service, very disappointed",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURweUxQZmhnRRAB",
+      "author": "Sandeep TAVIDISHETTY",
+      "rating": 4,
+      "relative_date": "3 years ago",
+      "text": "Good quality lab but services are poor",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4b0xTS2VnEAE",
+      "author": "Maddineni Sambasivarao",
+      "rating": 1,
+      "relative_date": "3 years ago",
+      "text": "Worst lab I ever seen in guntur, no facilities. No standby generator. No ramp to take sick patients. I request No patients should go there for any of tests. doctors are very careless. They don't bothered about patients.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtX09PWUFnEAE",
+      "author": "Rajasekhar Rekapalli",
+      "rating": 1,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURHNDh6VWxBRRAB",
+      "author": "Sivaram Bokkisam",
+      "rating": 5,
+      "relative_date": "Edited 4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURtNFpPc2ZREAE",
+      "author": "T. Srihari Babu",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURteHZ1X05nEAE",
+      "author": "Ramzan vali",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURteHZ6SnRRRRAB",
+      "author": "srinivas katari",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Excellent service s",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURtLXZhbl9nRRAB",
+      "author": "Praneeth Bathula",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Excellent lab and on time service with good reporting..",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNLaE9xWmZnEAE",
+      "author": "Praveen Garikipati",
+      "rating": 1,
+      "relative_date": "5 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURTMGMtS013EAE",
+      "author": "Kishore Cherry",
+      "rating": 4,
+      "relative_date": "5 years ago",
+      "text": "Nice",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    }
+  ],
+  "reviews_error": "",
+  "sorted_newest": true,
+  "stopped_at_known_review": false,
+  "reviews_captured": 11,
+  "owner_replies": 0,
+  "truncated_reviews": 0,
+  "reviews_coverage": 1.0,
+  "date_anchor": "2026-08-20T19:20:13",
+  "extract_seconds": 47.1,
+  "missing_fields": [
+    "website",
+    "hours"
+  ],
+  "listing_position": 68,
+  "source_query": "dermatologists in Guntur",
+  "listing_name": "AIRA IMAGING & DIAGNOSTIC CENTER LLP"
+}

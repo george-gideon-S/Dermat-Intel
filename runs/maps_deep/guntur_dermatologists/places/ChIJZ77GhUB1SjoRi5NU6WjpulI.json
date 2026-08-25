@@ -1,0 +1,228 @@
+{
+  "place_url": "https://www.google.com/maps/place/Sathvika+Clinic/data=!4m7!3m6!1s0x3a4a754085c6be67:0x52bae968e954938b!8m2!3d16.2974864!4d80.4452852!16s%2Fg%2F11h6cs3gq9!19sChIJZ77GhUB1SjoRi5NU6WjpulI?authuser=0&hl=en&rclk=1",
+  "captured_at": "2026-08-20T19:07:59",
+  "feature_id": "0x3a4a754085c6be67:0x52bae968e954938b",
+  "place_id": "ChIJZ77GhUB1SjoRi5NU6WjpulI",
+  "kg_mid": "/g/11h6cs3gq9",
+  "lat": 16.2974864,
+  "lng": 80.4452852,
+  "name_raw": "Sathvika Clinic",
+  "name_clean": "Sathvika Clinic",
+  "name_key": "sathvikaclinic",
+  "name_dropped": [],
+  "name_was_cleaned": false,
+  "category": "Hospital",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "adjacent",
+  "basis": "category",
+  "address": "Sambasiva Pet, Guntur, Andhra Pradesh 522001",
+  "plus_code": "7CWW+X4 Guntur, Andhra Pradesh",
+  "phone": "",
+  "website": "",
+  "website_domain": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "insecure_http": false,
+  "website_matches_name": null,
+  "rating": 4.6,
+  "reviews_total": 14,
+  "rating_histogram": {
+    "5": 12,
+    "4": 1,
+    "3": 0,
+    "2": 0,
+    "1": 1
+  },
+  "histogram_sum": 14,
+  "histogram_reconciles": true,
+  "topics": {
+    "baby": 3,
+    "doctor": 2,
+    "treatment": 4,
+    "PREGNANCY": 3
+  },
+  "google_profile_gaps": [
+    "Add place's phone number",
+    "Add website"
+  ],
+  "has_photos": true,
+  "hours": {
+    "Thursday": "11 am to 8:30 pm",
+    "Friday": "11 am to 8:30 pm",
+    "Saturday": "11 am to 8:30 pm",
+    "Sunday": "11:30 am to 3 pm",
+    "Monday": "11 am to 8:30 pm",
+    "Tuesday": "11 am to 8:30 pm",
+    "Wednesday": "11 am to 8:30 pm"
+  },
+  "about": {
+    "సాత్విక క్లినిక్": [
+      "11 am–8:30 pm",
+      "11:30 am–3 pm"
+    ],
+    "Map details": [
+      "Transit",
+      "Traffic",
+      "Biking",
+      "Terrain",
+      "Street View",
+      "Wildfires",
+      "Air Quality"
+    ],
+    "Map tools": [
+      "Travel time",
+      "Measure"
+    ],
+    "Map type": [
+      "Default",
+      "Satellite",
+      " Globe view ",
+      " Labels"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvM3FTc053EAE",
+      "author": "MADHAVI MALLAMPATI",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "My marriage is 10 years old and I have PCOD problem. Dr Laksmi madam started treatment with in 3 months I got pregnant. Baby boy is born. Thank you madam",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTURBN0lIdVlBEAE",
+      "author": "Narendra Mallampati",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Excellent hospital, treatment also very very good",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2Z3RuandBRRAB",
+      "author": "VENKATESWARLU CHAPPARAPU",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "MY SIS CONSIVE  NEW BABY BOY AFTER 15 YEARS IN DR V V LAKSHMI DGO HOSPTIAL .VERY FAMOUS IN GUNTUR FOR LONG TIME PREGNANCY & CRITICAL PREGNANCY CASES.",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURWMTdYUmJBEAE",
+      "author": "syed sadiq",
+      "rating": 4,
+      "relative_date": "2 years ago",
+      "text": "Best doctor of guntur",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM1NU5XelNREAE",
+      "author": "Kavali Padmavathi",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwanVLaFZ3EAE",
+      "author": "Vyshnavi Bandarupalli",
+      "rating": 5,
+      "relative_date": "Edited 3 years ago",
+      "text": "I was having pcod...I came to the sathvika hospital for checkup, lakshmi gaaru(doctor) made me understand what exactly happening to my body she prescribed tablets and asked me to reduce weight, I got pregnancy after a month of her medication. It might not work for all, it might take few more months to other people but the trust and confidence doctor gives us is the added advantage to face situation bravely. Now I'm blessed with baby boy",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMyX3FySTV3RRAB",
+      "author": "Durgi Dhruthi",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNta2E2LXBnRRAB",
+      "author": "Dinesh Babu",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURxN3BPanpBRRAB",
+      "author": "Sandhya Sagar",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "Very good treatment, the best Doc who can guide and treat... All gynec cases.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURxc04zTGJBEAE",
+      "author": "LAKSHMI RAVI SANKAR NIDAMANURI",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURLdnF6amh3RRAB",
+      "author": "Keerthy Nishi",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "Dr lakshmi garu good treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURDeExmaTlBRRAB",
+      "author": "Vicky",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM4d3JEMTV3RRAB",
+      "author": "Teja Durgi",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURzX3RMZ1pBEAE",
+      "author": "Vasantha Ch",
+      "rating": 1,
+      "relative_date": "6 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    }
+  ],
+  "reviews_error": "",
+  "sorted_newest": true,
+  "stopped_at_known_review": false,
+  "reviews_captured": 14,
+  "owner_replies": 5,
+  "truncated_reviews": 0,
+  "reviews_coverage": 1.0,
+  "date_anchor": "2026-08-20T19:07:59",
+  "extract_seconds": 71.7,
+  "missing_fields": [
+    "phone",
+    "website"
+  ],
+  "listing_position": 63,
+  "source_query": "dermatologists in Guntur",
+  "listing_name": "Sathvika Clinic"
+}

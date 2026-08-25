@@ -1,0 +1,132 @@
+{
+  "index": 10,
+  "screenshot": "q010.png",
+  "rank": 10,
+  "search_query": "skin allergy treatment in Guntur",
+  "search_box_text": "skin allergy treatment in Guntur",
+  "match_confidence": "exact",
+  "readable": true,
+  "blocks": [
+    {
+      "position": 1,
+      "block_type": "local_pack_top",
+      "platform": "clinic_site",
+      "title": "Skin Perfect Clinic",
+      "domain": "",
+      "url": "",
+      "rating": 4.9,
+      "reviews": 641,
+      "snippet": "4.9 (641) · Dermatologist · Old Club Rd, beside Yoda diagnostic lab · Closed · Opens 10 am Sat · \"Gave effective medicine to cure skin allergy within a week.\""
+    },
+    {
+      "position": 2,
+      "block_type": "local_pack_top",
+      "platform": "clinic_site",
+      "title": "Dr Sowmya Skin Hair Laser Clinic - Chandramouli nagar",
+      "domain": "",
+      "url": "",
+      "rating": 4.8,
+      "reviews": 528,
+      "snippet": "4.8 (528) · Dermatologist · 1/1, lane, opp. Bakers fun · \"The treatment worked well and the clinic is clean with supportive staff.\""
+    },
+    {
+      "position": 3,
+      "block_type": "local_pack_top",
+      "platform": "clinic_site",
+      "title": "Dr Sowmya Skin clinic - kothapeta",
+      "domain": "",
+      "url": "",
+      "rating": 4.9,
+      "reviews": 773,
+      "snippet": "4.9 (773) · Dermatologist · Sowmya hospital, Dr, Old Club Rd, beside RK Scan Center · Closed · Opens 10 am Sat · \"Best results for my skin allergy thank u doctor and staff\""
+    },
+    {
+      "position": 4,
+      "block_type": "organic",
+      "platform": "practo",
+      "title": "Best Skin Allergy Treatment Doctors In Guntur",
+      "domain": "practo.com",
+      "url": "https://www.practo.com/guntur/doctors-for-skin-allergy-treatment",
+      "rating": null,
+      "reviews": null,
+      "snippet": "Best Skin Allergy Treatment Doctors In Guntur · Dr. Silpa Chowdari Nallapaneni · Practo Care Benefits · Why Practo Care? · How it works · Dr. Anitha Chaganti. Read more"
+    },
+    {
+      "position": 5,
+      "block_type": "organic",
+      "platform": "skedoc",
+      "title": "Best Skin Allergy Specialist Near You in Guntur",
+      "domain": "skedoc.com",
+      "url": "https://www.skedoc.com/guntur/skin-allergy-specialist",
+      "rating": null,
+      "reviews": null,
+      "snippet": "Found 4 Skin Allergy Specialists in Guntur ; Dr. Kavya Chennamsetty. MBBS, MD (DVL). Dermatologist. Leelavathi Advanced Skin and Laser Centre - Kothapet, guntur. Read more"
+    },
+    {
+      "position": 6,
+      "block_type": "organic",
+      "platform": "hospital",
+      "title": "Allergy & Asthma Care at Raghuram Hospital, Guntur",
+      "domain": "raghuramhospitals.com",
+      "url": "https://www.raghuramhospitals.com/allergy-asthma",
+      "rating": null,
+      "reviews": null,
+      "snippet": "Our clinics offer comprehensive allergy testing to identify triggers such as pollen, dust mites, pet dander, and food allergens. Skin prick tests and blood ..."
+    },
+    {
+      "position": 7,
+      "block_type": "organic",
+      "platform": "hospital",
+      "title": "Allergy Treatment in Guntur",
+      "domain": "sreesankalpahospital.com",
+      "url": "https://www.sreesankalpahospital.com/allergy-treatment-guntur.html",
+      "rating": null,
+      "reviews": null,
+      "snippet": "Sree Sankalpa Hospitals has expert team for Allergy Treatment in Guntur . FT Allergy Skin prick test … +91 9988852111 Bus Stand 8th Line, Gunturvari"
+    },
+    {
+      "position": 8,
+      "block_type": "organic",
+      "platform": "justdial",
+      "title": "Best Doctors For Allergy Near me in Guntur",
+      "domain": "justdial.com",
+      "url": "https://www.justdial.com/Guntur/Doctors-For-Allergy/nct-11164258",
+      "rating": null,
+      "reviews": null,
+      "snippet": "26 Allergy Doctors in Guntur. Skin Allergy Treatment , Average Rating 4.7 (4513 Ratings & Reviews ) skin allergy doctors focus on dermatological reactions, ..."
+    },
+    {
+      "position": 9,
+      "block_type": "organic",
+      "platform": "practo",
+      "title": "Best Doctors For Skin Allergy Treatment In Guntur",
+      "domain": "practo.com",
+      "url": "https://www.practo.com/guntur/doctors-for-skin-allergy",
+      "rating": null,
+      "reviews": null,
+      "snippet": "Best Doctors For Skin Allergy Treatment In Guntur · Dr. Chandrasekhar Nalabolu · Dr. Kavya Chennamsetty · Dr. Ragini Puvvala · Dr. Lakshmi Kamcharla · Dr. Read more"
+    },
+    {
+      "position": 10,
+      "block_type": "organic",
+      "platform": "hospital",
+      "title": "Allergy Skin prick test in Guntur",
+      "domain": "sreesankalpahospital.com",
+      "url": "https://www.sreesankalpahospital.com/allergy-skin-prick-test-guntur.html",
+      "rating": null,
+      "reviews": null,
+      "snippet": "An Allergy skin prick test in Guntur is often recommended for people suffering from skin allergy. +91 9988852111 Bus Stand 8th Line, Gunturvari"
+    },
+    {
+      "position": 11,
+      "block_type": "organic",
+      "platform": "justdial",
+      "title": "Best Chronic Skin Allergy Doctors in Guntur - Justdial",
+      "domain": "justdial.com",
+      "url": "https://www.justdial.com/Guntur/Chronic-Skin-Allergy-Doctors/nct-11948268",
+      "rating": null,
+      "reviews": null,
+      "snippet": "Chronic Skin Allergy Doctors in Guntur - Find top-rated allergists to alleviate itching, rashes,&nbsp;... Average Rating 4.7 (2930 Ratings & Reviews )"
+    }
+  ]
+}

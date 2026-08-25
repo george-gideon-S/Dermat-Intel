@@ -1,0 +1,126 @@
+{
+  "key": "ChIJBVYMTJ2LNToRJcWO4dEIXI0",
+  "tier": "full",
+  "complete": true,
+  "place_url": "https://www.google.com/maps/place/Harsha+Clinic/data=!4m7!3m6!1s0x3a358b9d4c0c5605:0x8d5c08d1e18ec525!8m2!3d16.3270765!4d80.4152288!16s%2Fg%2F11rt_xr6v1!19sChIJBVYMTJ2LNToRJcWO4dEIXI0?authuser=0&hl=en&rclk=1",
+  "captured_at": "2026-08-21T00:11:36",
+  "rank": 64,
+  "place_id": "ChIJBVYMTJ2LNToRJcWO4dEIXI0",
+  "feature_id": "0x3a358b9d4c0c5605:0x8d5c08d1e18ec525",
+  "kg_mid": "/g/11rt_xr6v1",
+  "lat": 16.3270765,
+  "lng": 80.4152288,
+  "dup_of_rank": null,
+  "has_online_booking": false,
+  "booking_url": "",
+  "booking_vendor": "",
+  "service_options": null,
+  "permanently_closed": false,
+  "temporarily_closed": false,
+  "status_text": "Closed · Opens 6:30 am Fri",
+  "open_now": false,
+  "is_ad": false,
+  "review_snippet": "",
+  "name_raw": "Harsha Clinic",
+  "name_clean": "Harsha Clinic",
+  "name_key": "harshaclinic",
+  "name_dropped": [],
+  "name_was_cleaned": false,
+  "category": "Medical clinic",
+  "card_category": "Medical clinic",
+  "category_mismatch": false,
+  "relevance": "adjacent",
+  "basis": "base_generic_medical",
+  "address": "Main road, 6th Ln, near Sri Venkateswara Swamy Temple, SVN Colony, Guntur, Andhra Pradesh 522006",
+  "plus_code": "8CG8+R3 Guntur, Andhra Pradesh",
+  "phone": "093938 84757",
+  "website": "",
+  "website_domain": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "insecure_http": false,
+  "website_matches_name": null,
+  "rating": 5.0,
+  "reviews_total": 1,
+  "rating_histogram": {
+    "5": 1,
+    "4": 0,
+    "3": 0,
+    "2": 0,
+    "1": 0
+  },
+  "histogram_sum": 1,
+  "histogram_reconciles": true,
+  "topics": null,
+  "google_profile_gaps": [
+    "Add website"
+  ],
+  "has_photos": true,
+  "hours": {
+    "Friday": "6:30 am to 10:30 pm",
+    "Saturday": "6:30 am to 10:30 pm",
+    "Sunday": "6:30 am to 10:30 pm",
+    "Monday": "6:30 am to 10:30 pm",
+    "Tuesday": "6:30 am to 10:30 pm",
+    "Wednesday": "6:30 am to 10:30 pm",
+    "Thursday": "6:30 am to 10:30 pm"
+  },
+  "about": {
+    "Accessibility": [
+      " Wheelchair-accessible entrance",
+      " Wheelchair-accessible seating",
+      " Wheelchair-accessible toilet"
+    ],
+    "Amenities": [
+      " Restroom"
+    ],
+    "Crowd": [
+      " LGBTQ+ friendly"
+    ],
+    "Payments": [
+      " Google Pay"
+    ],
+    "Map details": [
+      "Transit",
+      "Traffic",
+      "Biking",
+      "Terrain",
+      "Street View",
+      "Wildfires",
+      "Air Quality"
+    ],
+    "Map tools": [
+      "Travel time",
+      "Measure"
+    ],
+    "Map type": [
+      "Default",
+      "Satellite",
+      " Globe view ",
+      " Labels"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURXbWVHcThRRRAB",
+      "author": "Yerru Raga susheela",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Dr.harish is very friendly and comfortable to talk about the health problems the pharmacy and lab facilities are a plus and there were also other specialists available..",
+      "has_owner_reply": false
+    }
+  ],
+  "reviews_error": "",
+  "sorted_newest": true,
+  "stopped_at_known_review": false,
+  "reviews_captured": 1,
+  "owner_replies": 0,
+  "reviews_coverage": 1.0,
+  "date_anchor": "2026-08-21T00:11:36",
+  "extract_seconds": 40.5,
+  "missing_fields": [
+    "website"
+  ],
+  "page_rendered": true,
+  "error": ""
+}

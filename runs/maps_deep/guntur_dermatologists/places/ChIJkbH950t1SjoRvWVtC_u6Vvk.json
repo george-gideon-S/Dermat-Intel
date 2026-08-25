@@ -1,0 +1,240 @@
+{
+  "place_url": "https://www.google.com/maps/place/Sandhya+skin+clinic/data=!4m7!3m6!1s0x3a4a754be7fdb191:0xf956bafb0b6d65bd!8m2!3d16.299259!4d80.4500006!16s%2Fg%2F11hbt8x679!19sChIJkbH950t1SjoRvWVtC_u6Vvk?authuser=0&hl=en&rclk=1",
+  "captured_at": "2026-08-20T18:33:40",
+  "feature_id": "0x3a4a754be7fdb191:0xf956bafb0b6d65bd",
+  "place_id": "ChIJkbH950t1SjoRvWVtC_u6Vvk",
+  "kg_mid": "/g/11hbt8x679",
+  "lat": 16.299259,
+  "lng": 80.4500006,
+  "name_raw": "Sandhya skin clinic",
+  "name_clean": "Sandhya skin clinic",
+  "name_key": "sandhyaskinclinic",
+  "name_dropped": [],
+  "name_was_cleaned": false,
+  "category": "Dermatologist",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "Urban Bank building, Old, Kothapeta, Guntur, Andhra Pradesh 522001",
+  "plus_code": "7FX2+P2 Guntur, Andhra Pradesh",
+  "phone": "0863 224 1100",
+  "website": "",
+  "website_domain": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "insecure_http": false,
+  "website_matches_name": null,
+  "rating": 3.8,
+  "reviews_total": 16,
+  "rating_histogram": {
+    "5": 9,
+    "4": 3,
+    "3": 0,
+    "2": 0,
+    "1": 4
+  },
+  "histogram_sum": 16,
+  "histogram_reconciles": true,
+  "topics": {
+    "treatment": 2
+  },
+  "google_profile_gaps": [
+    "Add website"
+  ],
+  "has_photos": true,
+  "hours": {
+    "Thursday": "11 am to 2 pm, 6 to 8 pm",
+    "Friday": "11:15 am to 2 pm, 6 to 8 pm",
+    "Saturday": "11 am to 2 pm, 6 to 8 pm",
+    "Sunday": "Closed",
+    "Monday": "11 am to 2 pm, 6 to 8 pm",
+    "Tuesday": "11 am to 2 pm, 6 to 8 pm",
+    "Wednesday": "11 am to 2 pm, 6 to 8 pm"
+  },
+  "about": {
+    "Planning": [
+      " Appointments recommended"
+    ],
+    "Map details": [
+      "Transit",
+      "Traffic",
+      "Biking",
+      "Terrain",
+      "Street View",
+      "Wildfires",
+      "Air Quality"
+    ],
+    "Map tools": [
+      "Travel time",
+      "Measure"
+    ],
+    "Map type": [
+      "Default",
+      "Satellite",
+      " Globe view ",
+      " Labels"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xrd2FIZFdTbXczZFhOTE0yMHlZakF0ZFZZeVpXYxAB",
+      "author": "LV SURESH",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "Good clinic",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WSVUyRnNkVGc0VlUxVmJrbFdWRTVCU2tOeE9FRRAB",
+      "author": "Jammula Satyanarayana",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "So nice",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VON3M0cFdFOGJhTUN3EAE",
+      "author": "Mastan rao Immadi",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTURnMFpPN2FREAE",
+      "author": "Siva sankar Pulela",
+      "rating": 1,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNIN0tuX3V3RRAB",
+      "author": "Sivakrishna Nalabolu",
+      "rating": 1,
+      "relative_date": "a year ago",
+      "text": "Dont visit this clinic now from September 2nd as Doctor Y Krishna Murthy is not available in India. These people are not following proper timings and visiting doctor is also coming on time and not staying for long. Please call clinic and check if the doctor is available and visit.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR6eDVyUVBnEAE",
+      "author": "Priyanka Pinki",
+      "rating": 1,
+      "relative_date": "2 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURaMVB2bWJBEAE",
+      "author": "Anwar basha Shaik",
+      "rating": 4,
+      "relative_date": "2 years ago",
+      "text": "Not a money doctor he was friendly and smiley doctor. Low cost treatment. Exactly found whT is problem and best cure medicine",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMtenFPblhnEAE",
+      "author": "vamsi gottimukkala",
+      "rating": 4,
+      "relative_date": "3 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNXdlB1V3V3RRAB",
+      "author": "CH Nagendra Rao",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Perfect doctor",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ2a1BxUHZRRRAB",
+      "author": "Madan Mohan",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Y Krishnamurthy sir is very good and give nice treatment to patients",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN5aXV2SUR3EAE",
+      "author": "Abhi Ram",
+      "rating": 4,
+      "relative_date": "5 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURpb2Ytb2tRRRAB",
+      "author": "Vamsi",
+      "rating": 1,
+      "relative_date": "5 years ago",
+      "text": "The Doctor is very arrogant. He does not respect the patients at all.\nIts really time for him and for the staff to start treating the patients with dignity. How can you and your staff shout on the patients who came for treatment to your hospital?",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZZzhpeEFREAE",
+      "author": "Shaik Saif Alam",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Super doctor",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNZd2F1d2t3RRAB",
+      "author": "Sindhu janu",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNvbmN2SzRRRRAB",
+      "author": "reshmafiroz shaik",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURJMDRETWtnRRAB",
+      "author": "prattipati nagarjuna",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    }
+  ],
+  "reviews_error": "",
+  "sorted_newest": true,
+  "stopped_at_known_review": false,
+  "reviews_captured": 16,
+  "owner_replies": 0,
+  "truncated_reviews": 0,
+  "reviews_coverage": 1.0,
+  "date_anchor": "2026-08-20T18:33:40",
+  "extract_seconds": 40.4,
+  "missing_fields": [
+    "website"
+  ],
+  "listing_position": 32,
+  "source_query": "dermatologists in Guntur",
+  "listing_name": "Sandhya skin clinic"
+}

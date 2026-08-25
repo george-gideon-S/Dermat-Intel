@@ -1,0 +1,445 @@
+{
+  "key": "ChIJ1QOlcgB1SjoRAYU0AR8eRrI",
+  "tier": "full",
+  "complete": true,
+  "place_url": "https://www.google.com/maps/place/VIJAYANAND+skin,+hair+%26+cosmetic+care/data=!4m7!3m6!1s0x3a4a750072a503d5:0xb2461e1f01348501!8m2!3d16.3039938!4d80.4311519!16s%2Fg%2F11yz8b2p05!19sChIJ1QOlcgB1SjoRAYU0AR8eRrI?authuser=0&hl=en&rclk=1",
+  "captured_at": "2026-08-20T23:22:39",
+  "rank": 28,
+  "place_id": "ChIJ1QOlcgB1SjoRAYU0AR8eRrI",
+  "feature_id": "0x3a4a750072a503d5:0xb2461e1f01348501",
+  "kg_mid": "/g/11yz8b2p05",
+  "lat": 16.3039938,
+  "lng": 80.4311519,
+  "dup_of_rank": null,
+  "has_online_booking": false,
+  "booking_url": "",
+  "booking_vendor": "",
+  "service_options": null,
+  "permanently_closed": false,
+  "temporarily_closed": false,
+  "status_text": "Closed · Opens 7 pm Fri",
+  "open_now": false,
+  "is_ad": false,
+  "review_snippet": "\"I highly recommend this dermatologist for anyone seeking expert care.\"",
+  "name_raw": "VIJAYANAND skin, hair & cosmetic care",
+  "name_clean": "VIJAYANAND skin, hair & cosmetic care",
+  "name_key": "vijayanandskinhaircosmeticcare",
+  "name_dropped": [],
+  "name_was_cleaned": false,
+  "category": "Medical clinic",
+  "card_category": "Medical clinic",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "base_generic_medical_strong:skin",
+  "address": "Dr. No - 30, 5/15, Brodipet, Guntur, Andhra Pradesh 522002",
+  "plus_code": "8C3J+HF Guntur, Andhra Pradesh",
+  "phone": "089771 23887",
+  "website": "",
+  "website_domain": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "insecure_http": false,
+  "website_matches_name": null,
+  "rating": 4.9,
+  "reviews_total": 42,
+  "rating_histogram": {
+    "5": 41,
+    "4": 0,
+    "3": 0,
+    "2": 0,
+    "1": 1
+  },
+  "histogram_sum": 42,
+  "histogram_reconciles": true,
+  "topics": {
+    "dermatology expert": 2,
+    "clear explanations": 2,
+    "treatment": 6,
+    "sir": 2
+  },
+  "google_profile_gaps": [
+    "Add website"
+  ],
+  "has_photos": true,
+  "hours": {
+    "Thursday": "7 to 10 pm",
+    "Friday": "7 to 10 pm",
+    "Saturday": "7 to 10 pm",
+    "Sunday": "7 to 10 pm",
+    "Monday": "7 to 10 pm",
+    "Tuesday": "7 to 10 pm",
+    "Wednesday": "7 to 10 pm"
+  },
+  "about": {
+    "Map details": [
+      "Transit",
+      "Traffic",
+      "Biking",
+      "Terrain",
+      "Street View",
+      "Wildfires",
+      "Air Quality"
+    ],
+    "Map tools": [
+      "Travel time",
+      "Measure"
+    ],
+    "Map type": [
+      "Default",
+      "Satellite",
+      " Globe view ",
+      " Labels"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKbVVtWk1ORTFzVFVsS1NtTmFkeTFPVEVKcVJYYxAB",
+      "author": "Sunil Kandimalla",
+      "rating": 5,
+      "relative_date": "5 days ago",
+      "text": "I hav never seen such a friendly kind hearted and very professional doctor.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSRFZWQkhSbTF6YVdSUGRVbFhPRGM0YVdReFdHYxAB",
+      "author": "akhil tumuluru",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KWGVEYzFNemhRUW1kc1N5MXdlVXhSVTJSM1JFRRAB",
+      "author": "NAVEEN MAKKA",
+      "rating": 1,
+      "relative_date": "2 months ago",
+      "text": "Worst dr i have seen..",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4TGVGWm1VMVJEZFRsV09VSkZSMjFTTlZCWVNXYxAB",
+      "author": "Ramadasu Dhanu",
+      "rating": 5,
+      "relative_date": "5 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0RFVtOWxRVzFZZEZCMFVGUmZVVmQwWW5wcFpFRRAB",
+      "author": "Srinu Rao",
+      "rating": 5,
+      "relative_date": "Edited 5 months ago",
+      "text": "Excellent",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGU2JUWm9lbVJZYUdONFdYb3hXREk1YVdjMGFWRRAB",
+      "author": "Subhashini Gundeboina",
+      "rating": 5,
+      "relative_date": "5 months ago",
+      "text": "Good opinion for acne and skin concerns .The dermatologist is very professional and Good and explains acne treatment clearly.I saw Good improvement in my pimples after the following prescribed routine.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsUmFXdE5TV1ZpTlRsNk0zQnBhMW8xY0dOSmVHYxAB",
+      "author": "Srinu Jalla2003",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pneVV6ZGFkSGxCTXpZMVlqRnBlRTB6ZERGUmEzYxAB",
+      "author": "nagamanasa ch",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "Treatment is very good",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xZeU5qQkRkazQyV1VKS1pHMWFNbVkzVFU0NU4yYxAB",
+      "author": "Vipparla Arun",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poYWJGZzFhV1F0T1RSSU9HbGxhMWRVTlVWRllWRRAB",
+      "author": "sekhar babu",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "Good treatment and good hospitality",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkbFNWVldhMmRyYWtvd1R6VjRXVFJuVUd4MGNYYxAB",
+      "author": "Chaitanya Is alone (chaitusravs)",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oNlprVk9WbkJZYW5FNFZrVTFVMU50YmxWb1kyYxAB",
+      "author": "Nagmani Sathupati",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "The Doctor Listens to our problems very patiently, gives very good suggestions and treats very well.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCNFNETkhla3BwYUV4b1owWm9NR1psUkdGVGFuYxAB",
+      "author": "kg v sindhu",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1dFlucDJiMFpuYzJKd1RYZElOV2RRYjJkZlRGRRAB",
+      "author": "Lalitha Nagavarapu",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tZMGFURTNORWxPY1ZGSFdESkxNV0k1WmpreVNWRRAB",
+      "author": "Uma Devi",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twZmVtRkNTbEJaWTJGeVMyZzBPSGRrZW05VFIyYxAB",
+      "author": "Neelima Jetty",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "Good treatment 👍💯% …",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21rMmVsZGpSMlZSU1VselRIcG9VRk14YUVoNU4wRRAB",
+      "author": "shaik baji",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "Expert in Dermatology and friendly Doctor",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OWlNEWkRka05XY0VWUFpIUnVTMVl6TnpKb1MzYxAB",
+      "author": "Ravi Kumar",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "Super sir",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psaGF6TlRaREZLV0c1VU1WOHhPWGxSZVdjMU0wRRAB",
+      "author": "Syam babu Jerripothula",
+      "rating": 5,
+      "relative_date": "Edited 6 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxT09YaGpSWGRMUjFwNE9HMUxZM05qVlcxYVkwRRAB",
+      "author": "kamal kumar jeldi",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "I highly recommend this dermatologist for anyone seeking expert care. His deep knowledge of the field is evident, and I am consistently impressed by his constant availability, even for last-minute concerns. Beyond his medical expertise, he is incredibly kind and generous with his time, never making a consultation feel rushed. It is rare to find a specialist who combines such high-level skill with genuine compassion for his patients.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GNFFWTTNNVFJIUVRBeVREVnFUbDlhU1daU2FYYxAB",
+      "author": "peram world",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "Learn good suggestion for my better health form dr.karunakar.\nThank you sir.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkTVVUY3dVR05hUkRGRVR6SXpVRFZJVVdGZlQzYxAB",
+      "author": "chennupalli guru",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tONE5GaHFVbUZwY1dsRlNrTlhhMFJEVWxGTFIwRRAB",
+      "author": "Saralasai",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2swNVZrRnZPRXBXUkVoeU1Ib3hTM1pmZDBOTFJtYxAB",
+      "author": "sekhar laghusani",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "Nice diagnosis,good explanation and right treatment",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSbGRXMWFNMlZhZUhodVRqZHRlREJ0UldKWGNFRRAB",
+      "author": "Mamta Jhalaria",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSeWNsUTNPR04wZGtRelowdEVhVE40UzJ0NE9XYxAB",
+      "author": "Sirisha Nagarikanti",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGMU1WQnhUazl2UzNOSGVuaEVURGQzYWxKNFRVRRAB",
+      "author": "Anusha Gudipudi",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "Great Experience",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSVGNuRlJTVUk1ZGpWaVZXeHFkMmRpVTFKMloxRRAB",
+      "author": "singampalli mounika",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOeGJFMUllRTFXTjFoWVlqQXpPVWw0TkVSWWJHYxAB",
+      "author": "Nandini Kalbande",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWR2RVcGtlRUpNYzA1V1dtbHFPSGR4TjJadGEwRRAB",
+      "author": "swetha gaddamedi",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "Had a very good experience at this clinic. Doctors are knowledgeable and explain everything clearly, understood my concern properly and suggested the right treatment. Staff is polite and caring. Hospital is clean and well maintained. Highly recommended.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wR1ZVazNVMmRQWkRSd1RqbHNaVmRHUlhSclVWRRAB",
+      "author": "Dharma Raju",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkWmNHWjVhV1pWWjNKaVdraEdiamhPT1RGMlZuYxAB",
+      "author": "Anitha Nunna",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "Service is excellent..",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xvMU1reE1WMGwzY0VKWFRsbGhhVE13Ym5GdldWRRAB",
+      "author": "Vel Kumar",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twMFpGSnJURmxJZW5KS2NtZ3lVVGREZUdNM1oyYxAB",
+      "author": "Baji Bodi",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kwek1HaHlMVWRWWWxWMloxRk5hVFI2YlcxVFNYYxAB",
+      "author": "laladi kiran",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "Doctor garu very nice and cool... explain everything about disease",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214dGRVNXZZMVZFT0ZJellVSkhNa0ZhWjB4NU9FRRAB",
+      "author": "Khasimvali Sk",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GUlN6Rk5ORTVRZVUxbWIxcGFZbTUyUVVsUE9YYxAB",
+      "author": "Anu Radha",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSWmJubFhSVGg2VWpKeGJ6QTBUa3BrY1VZeVJYYxAB",
+      "author": "SRI KRUPA MADARAJU",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w4eU4wbHpTMUl0YlVoR1IzRjZUR2huZFU5RGIyYxAB",
+      "author": "Rathnakar peddinti",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tZemJWbGhabEZhYmtWZmFreDNUR3RXVEV4b1prRRAB",
+      "author": "Sudheer Chinthamala",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSRWMyMXBSVTF5VEhSTGRqUjFiazlGVWpoQ2VYYxAB",
+      "author": "dr pramodsettipalli",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1WVNEVkJZa3hSY1U5a1RtcGlNVUZFTTBZdFpVRRAB",
+      "author": "gopi nandigam",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "",
+      "has_owner_reply": false
+    }
+  ],
+  "reviews_error": "",
+  "sorted_newest": true,
+  "stopped_at_known_review": false,
+  "reviews_captured": 42,
+  "owner_replies": 0,
+  "reviews_coverage": 1.0,
+  "date_anchor": "2026-08-20T23:22:39",
+  "extract_seconds": 60.6,
+  "missing_fields": [
+    "website"
+  ],
+  "page_rendered": true,
+  "error": ""
+}

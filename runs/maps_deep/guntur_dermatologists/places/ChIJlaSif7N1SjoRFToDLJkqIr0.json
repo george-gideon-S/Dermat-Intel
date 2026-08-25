@@ -1,0 +1,208 @@
+{
+  "place_url": "https://www.google.com/maps/place/Tejaswi+chest+clinic/data=!4m7!3m6!1s0x3a4a75b37fa2a495:0xbd222a992c033a15!8m2!3d16.2970402!4d80.4547509!16s%2Fg%2F11ltgprmpd!19sChIJlaSif7N1SjoRFToDLJkqIr0?authuser=0&hl=en&rclk=1",
+  "captured_at": "2026-08-20T19:00:03",
+  "feature_id": "0x3a4a75b37fa2a495:0xbd222a992c033a15",
+  "place_id": "ChIJlaSif7N1SjoRFToDLJkqIr0",
+  "kg_mid": "/g/11ltgprmpd",
+  "lat": 16.2970402,
+  "lng": 80.4547509,
+  "name_raw": "Tejaswi chest clinic",
+  "name_clean": "Tejaswi chest clinic",
+  "name_key": "tejaswichestclinic",
+  "name_dropped": [],
+  "name_was_cleaned": false,
+  "category": "Medical clinic",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "adjacent",
+  "basis": "category",
+  "address": "BUS STAND, 7, 1st Line, near GUTUR RTC, Gunturvari Thota, Kothapeta, Guntur, Andhra Pradesh 522001",
+  "plus_code": "7FW3+RW Guntur, Andhra Pradesh",
+  "phone": "092914 14340",
+  "website": "",
+  "website_domain": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "insecure_http": false,
+  "website_matches_name": null,
+  "rating": 4.7,
+  "reviews_total": 13,
+  "rating_histogram": {
+    "5": 11,
+    "4": 1,
+    "3": 0,
+    "2": 1,
+    "1": 0
+  },
+  "histogram_sum": 13,
+  "histogram_reconciles": true,
+  "topics": null,
+  "google_profile_gaps": [
+    "Add website"
+  ],
+  "has_photos": true,
+  "hours": {
+    "Thursday": "4 to 9 pm",
+    "Friday": "4 to 9 pm",
+    "Saturday": "4 to 9 pm",
+    "Sunday": "9 am to 12 pm",
+    "Monday": "4 to 9 pm",
+    "Tuesday": "4 to 9 pm",
+    "Wednesday": "4 to 9 pm"
+  },
+  "about": {
+    "Map details": [
+      "Transit",
+      "Traffic",
+      "Biking",
+      "Terrain",
+      "Street View",
+      "Wildfires",
+      "Air Quality"
+    ],
+    "Map tools": [
+      "Travel time",
+      "Measure"
+    ],
+    "Map type": [
+      "Default",
+      "Satellite",
+      " Globe view ",
+      " Labels"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOVVVuRXlNREZVUWtNM1EzRjNjM3BSVDJSR1JGRRAB",
+      "author": "Sangisetti Varalakshmaiah",
+      "rating": 5,
+      "relative_date": "3 months ago",
+      "text": "This is a very good clinic for all skin problems. Tvacha Skin Clinic is highly recommended. Sadhika Mam provides very good treatments. I would definitely recommend this clinic.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KWWRrZDRWVUZpVEMxRVlXRkpVekJHTjIxelkwRRAB",
+      "author": "Gadiganti Ramesh",
+      "rating": 4,
+      "relative_date": "3 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25nek1qSktOR3MyT0VFelpuZDJYekY0VGtSc2MxRRAB",
+      "author": "Veerendra Naralasetty",
+      "rating": 5,
+      "relative_date": "4 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SNlluTlJlbmxQYTJoVFZuWldWVzlvTFdGcE5sRRAB",
+      "author": "sreenwas kolla",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNuNXVLUGdBRRAB",
+      "author": "Pradeep Kumar",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNucHVpTzVBRRAB",
+      "author": "prakash chundru",
+      "rating": 2,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNuNnZUWUFREAE",
+      "author": "ramana murthy",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNueXJXcDdnRRAB",
+      "author": "harshini chowdary",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Excellent care! The team was professional and compassionate. They followed up with me after my visit, which I really appreciated.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNuc3B2RnJBRRAB",
+      "author": "Manju b",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNuMHZXRFBREAE",
+      "author": "Adapa murali Mohan",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNuMHVXdm5RRRAB",
+      "author": "Sekhar N",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNuMHNXSlR3EAE",
+      "author": "manchikalapudi Sambasivarao",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNuMHJpTC1BRRAB",
+      "author": "nikhila nalamala",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Good pulmonologist in guntur",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    }
+  ],
+  "reviews_error": "",
+  "sorted_newest": true,
+  "stopped_at_known_review": false,
+  "reviews_captured": 13,
+  "owner_replies": 0,
+  "truncated_reviews": 0,
+  "reviews_coverage": 1.0,
+  "date_anchor": "2026-08-20T19:00:03",
+  "extract_seconds": 55.2,
+  "missing_fields": [
+    "website"
+  ],
+  "listing_position": 55,
+  "source_query": "dermatologists in Guntur",
+  "listing_name": "Tejaswi chest clinic"
+}

@@ -1,0 +1,2444 @@
+{
+  "key": "ChIJiSY_PVN1SjoRm0HXvu7whjw",
+  "tier": "full",
+  "complete": true,
+  "place_url": "https://www.google.com/maps/place/Renuuka+Hospital/data=!4m7!3m6!1s0x3a4a75533d3f2689:0x3c86f0eebed7419b!8m2!3d16.3104796!4d80.4366109!16s%2Fg%2F11fsxcz45p!19sChIJiSY_PVN1SjoRm0HXvu7whjw?authuser=0&hl=en&rclk=1",
+  "captured_at": "2026-08-20T23:52:17",
+  "rank": 51,
+  "place_id": "ChIJiSY_PVN1SjoRm0HXvu7whjw",
+  "feature_id": "0x3a4a75533d3f2689:0x3c86f0eebed7419b",
+  "kg_mid": "/g/11fsxcz45p",
+  "lat": 16.3104796,
+  "lng": 80.4366109,
+  "dup_of_rank": null,
+  "has_online_booking": false,
+  "booking_url": "",
+  "booking_vendor": "",
+  "service_options": null,
+  "permanently_closed": false,
+  "temporarily_closed": false,
+  "status_text": "Open 24 hours",
+  "open_now": true,
+  "is_ad": false,
+  "review_snippet": "\"His treatment and caring and explain everything point to point very nice.\"",
+  "name_raw": "Renuuka Hospital",
+  "name_clean": "Renuuka Hospital",
+  "name_key": "renuukahospital",
+  "name_dropped": [],
+  "name_was_cleaned": false,
+  "category": "Hospital",
+  "card_category": "Hospital",
+  "category_mismatch": false,
+  "relevance": "adjacent",
+  "basis": "base_generic_medical",
+  "address": "#4-13-64, Amaravathi Rd, beside kasturi Hospital, Bharathpet, Koritepadu, Guntur, Andhra Pradesh 522007",
+  "plus_code": "8C6P+5J Guntur, Andhra Pradesh",
+  "phone": "0863 226 9666",
+  "website": "",
+  "website_domain": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "insecure_http": false,
+  "website_matches_name": null,
+  "rating": 4.5,
+  "reviews_total": 290,
+  "rating_histogram": {
+    "5": 240,
+    "4": 16,
+    "3": 6,
+    "2": 0,
+    "1": 28
+  },
+  "histogram_sum": 290,
+  "histogram_reconciles": true,
+  "topics": {
+    "dr chiranjeevi": 52,
+    "neurosurgeon": 2,
+    "dengue treatment": 2,
+    "compassionate doctor": 5,
+    "surgery": 13,
+    "nursing staff": 12,
+    "fast response": 2,
+    "counseling": 3,
+    "low cost": 3,
+    "hygiene": 5
+  },
+  "google_profile_gaps": [
+    "Add website"
+  ],
+  "has_photos": true,
+  "hours": {
+    "Thursday": "Open 24 hours",
+    "Friday": "Open 24 hours",
+    "Saturday": "Open 24 hours",
+    "Sunday": "Open 24 hours",
+    "Monday": "Open 24 hours",
+    "Tuesday": "Open 24 hours",
+    "Wednesday": "Open 24 hours"
+  },
+  "about": {
+    "Accessibility": [
+      " Wheelchair-accessible car park",
+      " Wheelchair-accessible entrance"
+    ],
+    "Payments": [
+      " Credit cards",
+      " Debit cards",
+      " NFC mobile payments"
+    ],
+    "Map details": [
+      "Transit",
+      "Traffic",
+      "Biking",
+      "Terrain",
+      "Street View",
+      "Wildfires",
+      "Air Quality"
+    ],
+    "Map tools": [
+      "Travel time",
+      "Measure"
+    ],
+    "Map type": [
+      "Default",
+      "Satellite",
+      " Globe view ",
+      " Labels"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Kdk9WOTZkbEJ4WWpKNmIxbFVkMkYzU0dGQ2RHYxAB",
+      "author": "Metla Rahul",
+      "rating": 1,
+      "relative_date": "2 weeks ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tNNFNFTlpRa0ZHTmpOelNHbEVZblJqUWxNMFQxRRAB",
+      "author": "Piyusha Guttikonda",
+      "rating": 1,
+      "relative_date": "2 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KT2IyWm1UMEpyUjB4TFRta3lURzFKY2s5ZmVIYxAB",
+      "author": "prudhvee raj Seendra",
+      "rating": 5,
+      "relative_date": "2 months ago",
+      "text": "Very good hospital",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkWlVHSjBiMVJrUm5KM05UbFZaazlxVGpRNGJGRRAB",
+      "author": "GOPI DABBAKOOTI",
+      "rating": 1,
+      "relative_date": "3 months ago",
+      "text": "Worst hospital experience in Guntur. Staff are irresponsible, unable to properly handle applications, and the treatment quality is very poor. Not recommended.\n\nThey don’t even know what treatment they have done. Very disappointing service and poor communication from the staff.\n\nIn my opinion, many of the positive reviews seem fake or paid. The treatment and service were not satisfactory, and the staff were not responsible. Overall, it was a bad experience.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxNU5raDBXVEZ3WW5CaWVDMTNZbXRxVFZsNFQyYxAB",
+      "author": "Guntupalli Venkateswarao",
+      "rating": 5,
+      "relative_date": "4 months ago",
+      "text": "Excellent service given\nRenuka hospital\nMy father and mother got accident best treatment given\n\nThank you dr k chiranjeevi\nFinancial support given doctor sir thanks\nI refer to hospital for my friends",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5TlNFdEZNMngxUW1FM1QxVjRNQzFRYkRKcWRHYxAB",
+      "author": "prudhvi raj",
+      "rating": 5,
+      "relative_date": "5 months ago",
+      "text": "We went to one of the reputed hospitals in gastrointestinal section but they said only one percent change that to they can’t guarantee. But the doctor in Renuuka Hospital said they will take one step each and stop further damage of organs. Then they took extra care and reduced the inflammation.\nNegative: No parking for cars and other two wheelers vehicles than 5.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoSGExaHJVa3N3U0dSNk9WRk9VbFUwUm1aV1pVRRAB",
+      "author": "gopi krishna kanchi",
+      "rating": 5,
+      "relative_date": "5 months ago",
+      "text": "Excellent service given by hsp and thanks you dr chiranjeevi garu",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaV2MzRjRhRkZuZDFGcllVaFFVbmc0WlRKQlEyYxAB",
+      "author": "Telugu Civil engineering Tech",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "Grateful acknowledgments to Dr. Chiranjeevi, preeminent in the field of diabetology within the locale. Profound appreciation for the efficacious treatment rendered; the surgical intervention was executed with laudable success, and the subsequent convalescence proceeded favorably. The entirety of the nursing cadre evinced both competence and affability. We proffer our unqualified endorsement of Dr. Chiranjeevi and the facilities of Renuka Hospitals. ❤️1",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkTGNFeFlUR1JyTjBwQlIxYzFVelV3TFdSc1kwRRAB",
+      "author": "Kothapalli Tiirapatamma",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCUExWaG5TV0kyZGxOaE5EaEZkRGR6WlVONFJuYxAB",
+      "author": "Chodey Santharaju",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kc1lsTXpWRWg2TUZKSU9ISkplbEY2UkZoU1RYYxAB",
+      "author": "potluri Rasagna",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWcWNsQTRlbGRDY0hWd1NYSXhabVJETm1nMloxRRAB",
+      "author": "Subbarao Pinapati",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "Dr.Rakesh kiran sir treatment and staff nurses caring excellent.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KTFUycGZWRzVYY1VSU0xXUnlUakYwTjFWSU5XYxAB",
+      "author": "spandana Rokkam",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWWE9HUXpXRGRDZEZveVRsSjFabVU1VlVodVgwRRAB",
+      "author": "P SUDER babu P SUDER babu",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "Excellent service given thankyou every one",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCbFoxVnBiVXd0TUhkT1ZVRkNWM051T1hwSlYwRRAB",
+      "author": "harika korabandi",
+      "rating": 5,
+      "relative_date": "10 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsaVZFNDBWRGRVYmtScVRrNUdWRVo2U3pKVFQzYxAB",
+      "author": "Burri SUNEEL KUMAR",
+      "rating": 1,
+      "relative_date": "10 months ago",
+      "text": "Not satisfied",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxNlZHOTBaVXhvWkdwcU1XTlhNMmxHVlZJMlRrRRAB",
+      "author": "Aasha Shaik",
+      "rating": 1,
+      "relative_date": "11 months ago",
+      "text": "Worst hospital in guntur they only do first aid but tell they do  every operation but they don't have enough qualified doctors and delay the time of the operation for days because of that patients are suffering sooooo much don't treat people worst experience ever",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOa2F6UnVUVWw1VFdGVE9GUTJXRmx2Y0RVelNrRRAB",
+      "author": "Menthula Haveela",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGclZURmlVR2xsV2todGVISnRhVlJwYUdkdldVRRAB",
+      "author": "Sk yusub",
+      "rating": 1,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCSU5XTTNhVmhoUkZGUU5IZElTWHBZTTBGa2RuYxAB",
+      "author": "G Pavan Kumar",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Affordable and valuable 💯 …",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VOajhyOVRObEpfWldBEAE",
+      "author": "Bosu Babu",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Hospital doctors and staff services are e\nxcellent",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GU2VXbDVZV2RwYkV4eFJHSTRUbFZvVXpWRVMyYxAB",
+      "author": "Anjaneyulu Chinnarigari",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205eVQySjBWV1JIVEhSbWIxSk9hMEUyTkdWRWFFRRAB",
+      "author": "Jahnavi Chinnarigari",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VPLVVzc21pdy1YaC1nRRAB",
+      "author": "Dr Yugandhar",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VPTGJxUHpoNWJXWEFREAE",
+      "author": "pendem Padmaja",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Good , excellent service given thank you every one the best hospital in guntur, middle class people best choice and thank you dr k chiranjeevi garu",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VOT2JsNGFUNE15Z3FBRRAB",
+      "author": "Digital subhani",
+      "rating": 1,
+      "relative_date": "a year ago",
+      "text": "Full of money minded doctors not humanity",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZaXFLMm1BRRAB",
+      "author": "Purna Pravallika",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3dGRpeGFREAE",
+      "author": "Bhosale Ajay",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "My brother  was admitted under Dr. Chiranjeevi, friendly staff\nWe had a seamless experience at this hospital! The admission process was smooth, treatment was top-notch, and the staff provided exceptional support throughout my stay. Highly recommend",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3bVBYbE5BEAE",
+      "author": "Kavya",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Best treatment given, thank y every one\nDr chiranjeevi garu finance very helpful, best suggestion to go renuka hospital,",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNRbTVEVGlnRRAB",
+      "author": "Jubeda Shaik",
+      "rating": 3,
+      "relative_date": "a year ago",
+      "text": "Doctor is very polite and frndly.\nBut I personally feel like staff is not upto the mark.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2ai1fS0xREAE",
+      "author": "narra vyshnavi",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Very nice hospitality, doctors are so kind and they will explain what exactly the problem was&and with low prices, tq so much.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2cE43TlVnEAE",
+      "author": "siva kumar",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Experienced doctors and surgeons and staff are very polite and have great patience.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURQeVlIYWJnEAE",
+      "author": "Maroju Anjaneyulu",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Fast response by team, customer satisfaction is very good",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQzNDh5VTh3RRAB",
+      "author": "Neha Sri",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Renuka Hospital stands out as the best for its exceptional treatment and caring approach, ensuring patients receive top-notch medical care.\n\nSpecial thanks to Dr.chiranjeevi garu for his treatment",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQzLXVYMklnEAE",
+      "author": "Nikhesh",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Thank you very much sir, for best 🎄 treatment, well trained trained staff, and financial support the doctor  i wish to promote the renuuka hospital for the best in guntur …",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQzLXVtdzFnRRAB",
+      "author": "P.vijayadurga",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Dr k. Chiranjeevi garu best treatment given well discuss and explain the problem they understand my financial status thank you so much ❣️ sir",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQzLXJHdnlnRRAB",
+      "author": "Ravipati Anjaneyalu",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Thank you everyone and best treatment received",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzcFota3p3RRAB",
+      "author": "Karna Nagraju",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "In any emergency pls reference to the renuuka hospital dr. K. Chiranjeevi garu thank you sir",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzc1ktMnJBRRAB",
+      "author": "G KALYAN KUMAR",
+      "rating": 3,
+      "relative_date": "a year ago",
+      "text": "High price low medication no proper response high medical tests bills and high price for operations.Search for a better hospital",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURuN3FUNFZREAE",
+      "author": "Salamraju Ch",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Good ☺",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURIMWFDekR3EAE",
+      "author": "venkat Kumar",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Excellent service given, thank you Dr. K Chiranjeevi garu.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURIM0xDLUZREAE",
+      "author": "Harsh Sharma",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Excellent services received by dr.chiranjeevi sir",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNIcjhyMV93RRAB",
+      "author": "Meenadevi Devi",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Thank you Dr. K. Chiranjeevi garu",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ3LXQ2dWhnRRAB",
+      "author": "Ganesh danda",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I recently underwent hernia surgery at Renuka Hospital, and my experience was exceptional from start to finish. Dr. Naveen, who performed the surgery, was highly skilled and made me feel confident and at ease throughout the process. The procedure went smoothly, and I felt well-informed and cared for at every step.\n\nPost-operation care was handled by Dr. Chiranjeevi and Dr. Pavan, who were both incredibly attentive and supportive. They ensured my recovery was on track, addressing all my concerns with patience and professionalism. The entire medical team was compassionate, and the hospital staff was courteous, making my stay as comfortable as possible.\n\nI am extremely grateful to Dr. Naveen, Dr. Chiranjeevi, and Dr. Pavan for their outstanding care. I would highly recommend Renuka Hospital for anyone in need of hernia surgery or any other medical care.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM3NExubWZBEAE",
+      "author": "Lakshminarayana Ananta",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Excellent service given, best doctors there in this hospital, reasonable price,. Thank y dr. K. Chiranjeevi",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURiMV9ubG9RRRAB",
+      "author": "Veeranki Shanmukha srinivas (Mr.shannu)",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Nice caring, thank u very one",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURiaUpHSzd3RRAB",
+      "author": "deepu kumar",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Best treatment taken thanks for dr.chiranjeevi",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNicjhlbmFREAE",
+      "author": "mallikharjunarao katuri",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Best treatment and best neurosurgeon\nThank everyone 🙏 …",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNyc2Q3czZnRRAB",
+      "author": "DONTIBOYINA DWARAKESWARA REDDY",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Excellent services in this hospital\nThanks dr.k. chiranjeevi garu\n\nAnd renuka hospital team",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNybnZUem5BRRAB",
+      "author": "Saibabu Alla",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Dr.k. chiranjeevi sir is friendly with patients and he will give clarity our problem and treatment was very good and they daily check up to patients and staff members also friendly with patients they take more care about patients",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNMdi1QdkJBEAE",
+      "author": "Areti Chennakesava",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Thank you everyone",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURUb2ZheVFnEAE",
+      "author": "AKKALA NAGARAJU",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "My father came under Dr.chiranjeevi garu and urology doctor garu for Problem UTI sir treatment and caring good. I satisfied with treatment. Sisters also seen Good. Sir explained health condition two times. So happy with this Hospital services.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNUNWVuVHdBRRAB",
+      "author": "seeyonu raaraju",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Best hospital for treatment, Dr Chiranjeevi garu and staff caring is excellent",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNUNXN1Ukx3EAE",
+      "author": "Suneetha Prakash",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Heartfelt thanks to Chiranjeevi garu\nTreatment is very good\nFinancially they help a lot.\n\nThank you staff for every one",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURqdjh6NkVREAE",
+      "author": "Venu Kurra",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Emergency condition excellent service..\n\nThankyou everyone",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURqaUlQMUhBEAE",
+      "author": "Sri laxmi Kanisetti",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Excellent services.\n\nThank you chiranjeevi garu mee sahayam epatakii marchiponuuu doctor garu.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNqaTZqRFBBEAE",
+      "author": "Asha Jyothi",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Dr.chiranjeevi sir taking care of patients is very well Nd good taking and giving guidance and treating patients are good",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNqc3JuRXlnRRAB",
+      "author": "ANNAMDAS BHARGAVI",
+      "rating": 1,
+      "relative_date": "2 years ago",
+      "text": "Worst experience ever.... Don't ever take a decision to admit here.... Especially in the case of emergency",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM5MXJTajlnRRAB",
+      "author": "Manda Jagapathibabu",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Excellent care thank y everyone",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM5cE1LUjhRRRAB",
+      "author": "nageswaramma sammeta",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "It's pleasure for me to express my gratitude towards Dr. Chiranjeevi  he diagnosed and treated me in a pleasing manner . Thanks alot sir .... Thankyou for the sisters and hospital administration for your hospitality.....",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNkcl91ZnhRRRAB",
+      "author": "Ramireddy Malapati",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Dr. K. Chiranjeevi garu treated me very well and explained well about my condition , he so supportive and patient in explaining about all the medications. And the staff there especially sir was very friendly and knowledgeable to interact with.\nhe was so understanding and compassionate to me. At first , I was so tensed but after meeting her I was so confident in getting cured and was able to manage my treatment chart. My sincere thanks to sir was continuous supporting and treating me so well.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR0cUxfLTFnRRAB",
+      "author": "udayasri suddapalli",
+      "rating": 4,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURONVphY2h3RRAB",
+      "author": "Aabid Rahman Mohammad",
+      "rating": 3,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMxOXF5RVJBEAE",
+      "author": "Guntur Chamundeswari",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Dr chiranjeevi garu and pavan sir in renuuka hospitals guntur is the only and best and excellent, I ever seen. His treatment and caring and explain everything point to point very nice. His behavior with elders very smoothy. Finally he gives utmost care to every patient. I strongly recommend             Dr chiranjeevi sir and this hospital for better treatment and best care.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMxdHVLbnRRRRAB",
+      "author": "Jaswanth Garnepudi",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMxLVBHcVRREAE",
+      "author": "Shaik Ahammad",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I am very well recovered and excellent treatment taken from best\nTreatment of Dr k. Chiranjeevi sir who is working in Renuuka hospital guntur. He gave best care and best efforts for any situations. Strongly recommend this best doctor. 🎉🎉🎉🎉🎉🎉🎉🎉 …",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURWNF9lcUdBEAE",
+      "author": "ravibabu karyamsetti",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "My mom had a wonderful experience with the dr. Chiranjeevi Garu. From the moment we walked in, the staff was friendly and efficient. Dr. Chiranjeevi Garu was not only highly knowledgeable but also made us feel comfortable and at ease throughout the entire appointment.\n\nHer expertise and professionalism were evident, and she took the time to address all my concerns and questions. The clinic was clean, and I appreciated the attention to detail when it came to hygiene protocols.\n\nI left the appointment feeling well-informed and confident in the care I received. I would highly recommend Dr. Chiranjeevi Garu to anyone seeking a compassionate and skilled person.  Thank you for the excellent care!",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNWODRHVEJ3EAE",
+      "author": "P venkatesh P venkatesh",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Today we met Dr k. Chiranjeevi garu general surgeon sir who is working in Renuuka Hospital. Consultation of his very smoothly and he explained everything very nice and clearly. Finally we are very happy with his consultation. And OPD staff receiving very nice and their co-ordination xlnt. Me and my strongly recommend this hygienic hospital for best and neat care. Thank you everyone who guides us.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNWN3Q3OHV3RRAB",
+      "author": "Krishna Usa",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "My wife was admitted, doctor\nchiranjeevi  garu explained everything about surgery, floor team was excellent. Doctors took excellent care. Nursing staff good\nI referr to this hospitals for further needs thanks to Renuuka hospitals.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURsMVBIeW53RRAB",
+      "author": "Sâtwîk Jøññâlâgáddà",
+      "rating": 4,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNsc3JLTTZ3RRAB",
+      "author": "SRINIVAS REDDY",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Dr Chiranjeevi very good doct and he will very spontaneously he explained nice he listens our problems clearly and then he explained what we want todo",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNsc0xIU1RBEAE",
+      "author": "Anil kumar Moparthy",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Excellent.... Treatment and speedy recovery",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURGNi1MNjhRRRAB",
+      "author": "Sandhya Kasani",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Dr. Chiranjeevi  was so nice to us he so friendly with ur and with my son specialy.thanks sir for ur suggestions towards my mother and me once again thank you so much sir",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURGeGRYU1B3EAE",
+      "author": "Solo sai",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "My father was admitted in Renuuka hospital under Dr  pavan and dr\nHarshavardhan garu treated well and explained condition clearly. Did surgery excellent. We recovered and getting discharged.Excellent care given. Receiving staff good, care well. Thanks to Renuuka hospitals.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURGN3ZDWVpnEAE",
+      "author": "mani kumar",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Such an nice treatment\nGovernment facilities is there come and visit here.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURGeXNxUkN3EAE",
+      "author": "Chiru Nagam",
+      "rating": 4,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURGaUw2Zlh3EAE",
+      "author": "Shaik Mastanbi",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Good treatment of the Renuka hospital ot staff is exllent good support of the patient",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ1dXFEY2NnEAE",
+      "author": "Venkata Reddy Karumuri",
+      "rating": 4,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM1NjVfZHhRRRAB",
+      "author": "NEWSTAR HARI",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURacC1lVmR3EAE",
+      "author": "Allam. Anjaneyulu",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Hospital staff are Convinent for us and safe treatment Thankyou sir",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURaN2N5eHBBRRAB",
+      "author": "BABU KATTA",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "My mother got severe septicemia. The survival changes are just 5%. But they joined and made him alive. My special thanks to Dr. K. K. Chiranjeevi He is the best Doctor . He is very concerned about his patients. Listen to patients attenders queries and answer to them. Because of him my mother is with us. Really thanks to renuuka hospital management for recruiting such a beat doctors like Dr. K. Chiranjeevi sir",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURaOWYyOUdREAE",
+      "author": "hema latha",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURab2Y3bmh3RRAB",
+      "author": "Anureddye Tiyyagura",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "My Father admit under  Dr . Chiranjeevi sir, The Team Neurology al doctors seen and treat wel. Pulmonology and Urology Sir seen and explain clearly what's going about patient. All nursing sisters done good Job. We happy with all services.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURaNXEyNENnEAE",
+      "author": "Pothuraju Gannipisetty",
+      "rating": 4,
+      "relative_date": "2 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURaeEk3V0hBEAE",
+      "author": "Vimala kumari Matlapudi",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "I felt very happy to share this feedback. The ground floor staff  has good response and dealt polite mannar. Dr.chiranjeevi sir and\nDr. Rajasekhar treatment is good i am really satisfied.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNabGJDdEN3EAE",
+      "author": "solasa rangarao",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "My. Aunty admit under Dr. Chiranjeevi Sir,. Sir given good treatment to my aunty. We came to ER first , they given nice treatment emergency shifted to icu. After 2days observation shifted to room All Sisters and Medicals officers given nice treatment and moral support. Dr.chiranjeevi  Sir Treated excellent.\nThanks to renuuka Hospitals Administration. I recommend Renuuka Hospital surgery department",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURwbWVTMkxREAE",
+      "author": "M Prathima",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Good place for aalny kind treatment. Easy accessible and located at the center of the city. There are various insurance facilities accepted in the hospital, like cashless facility, ECHS, Ars . Patient care is highly appreciated. Well behaving staff.  Hygiene is well maintained throughout the premises. Even i noticed that there is a quality department to ensure the best standards. It seems management concerns the employee welfare. That reflects a positive and safe culture at the workplace. It's totally my own observation being a safety professional. Kindly research yourself.\n\nMy heart full thanks to ❤️❤️❤️❤️❤️🥰🥰🥰\nDr. K. Chiranjeevi garu",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwZ3FuVnN3RRAB",
+      "author": "Madeneni sai Krishna",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "good",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURwcEpDZUZREAE",
+      "author": "Venkatesh J",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "They are providing good care and perfect treatment with reasonable costs. I will recommend this hospital with no doubt.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwdF8zY0hnEAE",
+      "author": "Kumidini Pattapu",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "My daughter in law admitted under Dr k. Chiranjeevi garu treatment and way of counseling the attenders is very good all staff are very coperative we strongly recommended this hospital!",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwLTlyQ1NnEAE",
+      "author": "T shiva",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "I felt very happy to share this feedback. The CRM desk has good response and dealt polite mannar. Dr. Chiranjeevi sir treatment is good i am really satisfied.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwemJTVWJBEAE",
+      "author": "dhanush babu",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Dr. Chiranjeevi sir and Dr. Pavan sir  have operated on my friend for an hand Surgery and it went good. The treatment provided by them was very good and the Hospital Nurses were very empathetic with the patients. The management is good and can be better.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwNGFUaFFBEAE",
+      "author": "RAMYA CHADALA",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "The best doctors and caring is there we are satisfied the treatment. I am fully recovered\n\nThank you dr. chiranjeevi garu\nThank you dr. Harsha vardhan garu\nAll staff",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwNGZpdkN3EAE",
+      "author": "Nuthalapati Hemanth sai",
+      "rating": 4,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwOXNTd25RRRAB",
+      "author": "Sri Sri",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Best treatment and best consultant in the guntur district by Dr. K.Chiranjeevi garu",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKdGR6dWpRRRAB",
+      "author": "vineel kumar Vineel",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKbXZ2OXN3RRAB",
+      "author": "medida veenus",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Super",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKemJ5eVBBEAE",
+      "author": "hima bindu",
+      "rating": 1,
+      "relative_date": "3 years ago",
+      "text": "Today I got discharged ..Worst Hospital in my entire life ..Beds are conjusted ..full of Heat ..Washrooms are not Clean .And the Gundu doctore scares a alot. without politeness. .Plz kindly don't visit this hospital..They charge Rs.3500/ per 12 hrs ...Hospital is only meant for Money Laundering...Plz be carefull\nK",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKMm9PTkl3EAE",
+      "author": "Samba Siva",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Good treatment",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKc3FLcFBREAE",
+      "author": "Ulligaddala Veeranjianeyulu",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Good",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR4Z1kzYm9BRRAB",
+      "author": "Rao vankayala",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Services are satisfied and doctors very kindful and management\n\nThanks for your support and assistance in all the critical and emergency",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR4X3BlMG9nRRAB",
+      "author": "Sudhakar Challa",
+      "rating": 1,
+      "relative_date": "3 years ago",
+      "text": "Very Bad experience, worst treatment, negligence. They are totally money minded and least bothered about life of patients….",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4X05uWkh3EAE",
+      "author": "Ajay Kumer",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Doctor saab, good congratulations.\n\nRenuka Hospital, good treatment 👍👍👍👍👍👍👍👍👍👍👍🙅💕💕💕💕🏡🏡👯👯👯👯 …",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4MkxldVFBEAE",
+      "author": "Dr.Balaji Adusumalli HOD CSE",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Dr chiranjeevi sir ,will take care of patients as their family members....",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4MklmY01BEAE",
+      "author": "Sunny Priyal Kancharla",
+      "rating": 3,
+      "relative_date": "3 years ago",
+      "text": "It is advisable to go through the hospital and know the health checkups and other diseases solutions. The location of this area is major drawback.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN4bGZpTThnRRAB",
+      "author": "rambabu korivi",
+      "rating": 3,
+      "relative_date": "3 years ago",
+      "text": "Average",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4NWZtUE5REAE",
+      "author": "Batchu sowjanya",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "I am Happy to came this hospital and I am refer this hospital to all my friends and family members\n\nThank you very much Dr. K . Chiranjrevi Garu.\n\nAnd all staff also",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4eWMtNUdREAE",
+      "author": "AN REDDY",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Best tratement",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4MUthbGJBEAE",
+      "author": "Konatham Srinivasa rao",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Ahndariki ahndhubatulo unna hospital renuuka hospital\nAmaravati road\nGuntur\nThe best doctors Dr. Kola Chiranjeevi garu\nDr. Harshavardhan garu",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4aVBQdkN3EAE",
+      "author": "anusha j",
+      "rating": 4,
+      "relative_date": "3 years ago",
+      "text": "Dr.chiranjivi and dr.prudvi garu both are excellent doctors and nursing staff and hospital other staff also good and maintained good communication",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN4b0p6QXJ3RRAB",
+      "author": "Rama Koteswara Rao Rachakonda",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "We are happy to visit this hospital\n\nThank you chiranjeevi garu",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNSblkzaFNnEAE",
+      "author": "Rocky Blacky",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Good staff and hospital responses also well doctor or well trained",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURoeUtlRExBEAE",
+      "author": "ram prasad",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Good staff thanks for Dr chiranjeevi garu......💯💯💯💯💯💯💯💯💯💯💯. 💌💌💌💌🩺🩺🩺 good caring …",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURoeUtldXZ3RRAB",
+      "author": "Vinod Kumar",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Good hospital tnq chiranjeev doctor garu",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURoeU9QM25nRRAB",
+      "author": "Sai Muraboyina",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Thank you Chiranjeevi Garu good hospital",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNocnBLRkh3EAE",
+      "author": "CR 7v",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "All good",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCcHVHT0l3EAE",
+      "author": "Kumar Swamy",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Good hospital\n\nThank you sir",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNCMjZQaXpRRRAB",
+      "author": "satyanarayana s",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Tanks dr.chirajeevi garu,  very heart full hands of y sir poor people very happy to coming to your hospital sir.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNCMl8zem1BRRAB",
+      "author": "Shaik Samiulla",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Excellent treatment given\nReceiving excellent\nThank you everyone.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNCN0tyY3ZRRRAB",
+      "author": "Pavankalyan T",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Doctors are very good and they are treating patients very well",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQtdllTTGpBRRAB",
+      "author": "Varikuti Jayanthi",
+      "rating": 4,
+      "relative_date": "3 years ago",
+      "text": "We came here with utmost bad situation but Dr. Chiranjeevi and Dr. Pawan helped us alot and made us to feel happy with their treatment.  Here medico, treatment , doctors are good . They provided good treatment.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtcnRtaVVnEAE",
+      "author": "SRICHARAN T",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Very good treatment and affordable hospital. Few such hospitals these days.\nDoctors reaponded on time online or offline and nursing staff are very good as well.\nAdmitted my mother for an emergency and was treated well. I would definitely recommend such hospital for good treatment at affordable costs. Thank you all the doctors, nursing staff and aayamma's.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQtaG8zQl9nRRAB",
+      "author": "Koti reddy",
+      "rating": 1,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQteXNUdi1RRRAB",
+      "author": "Yuva vani Dondapati",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Excellent care for patients",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtdkthZUlBEAE",
+      "author": "syam babu",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Thank you sir, I am very happy to hear from you. Dr. Chiranjeevi garu.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQtaE5TcXdBRRAB",
+      "author": "mandapati bharadwaj",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "So better treatment",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtcTl6QzV3RRAB",
+      "author": "Kakumanu Prasanth",
+      "rating": 1,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtN1pxV2tBRRAB",
+      "author": "Mani Reddy",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtdWJPVWtRRRAB",
+      "author": "Gangabhavani Kandula",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Thank you chiranjivi garu",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMteVlEdXBBRRAB",
+      "author": "Unlimited Blank",
+      "rating": 4,
+      "relative_date": "3 years ago",
+      "text": "There are getting a very scope of service at the\nHospital",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtNGYyYjNBRRAB",
+      "author": "anilkumar bandaru",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Good hospitality good staff",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMtb3Fqa0pREAE",
+      "author": "Radha Kruthiventi",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtM0lTbHVnRRAB",
+      "author": "Devi P",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Dr. Kola Chiranjeevi, the one and only Renuka Hospital in Guntur, is the one and only hospital in Guntur that does not see medicine as a business but provides the best treatment to those who have nothing.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtbUlEaXRnRRAB",
+      "author": "Akhil Nagisetty",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Good",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlajllUGVREAE",
+      "author": "Samanth Mathi",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Good",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlNThPeUZ3EAE",
+      "author": "Srinidhi Sri",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Thank you everyone very co operative staff",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlcGJQS3FnRRAB",
+      "author": "Tata Rao Nambur",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Good",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlcGEydG9BRRAB",
+      "author": "Nookla Sunitha",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Good caring, very nice",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlMlplT0tnEAE",
+      "author": "Sai jagadish naidu Vaka",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Happy to you say this post\n\nGood treatment",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlMll2NmNREAE",
+      "author": "hima nitesh",
+      "rating": 1,
+      "relative_date": "3 years ago",
+      "text": "Waste waste waste waste hospital have ever seen. They won't even look at the patients just they leave and don't care. 🤬🤬🤬🤬😡😡😡😡 …",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlMHVQVHV3RRAB",
+      "author": "pavan king",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Good\nthank you very much doctor garu",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlMHMzZE9REAE",
+      "author": "Anu Radha",
+      "rating": 3,
+      "relative_date": "3 years ago",
+      "text": "Treatment is 👍👍 …",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlaFBPbFhnEAE",
+      "author": "MAHESH REDDY",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Good",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNlcjdMN1dnEAE",
+      "author": "Akula Avinash",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Good",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNla2ZUZk93EAE",
+      "author": "AChaitanya Vardhan",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Better",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNlX29yb3JRRRAB",
+      "author": "ANUSHA PALLEMPATI",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Good staff and treatment",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNlX3BEeHVnRRAB",
+      "author": "Venkatesh Ch",
+      "rating": 4,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNlLXNEZjhnRRAB",
+      "author": "Vidhya Sagar",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Good hospital",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNleXFlZnNRRRAB",
+      "author": "Raviteja anangi21",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Satisfied with the hospitality",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNlZ3NfQWZREAE",
+      "author": "Dundi Chandu",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Best hospital I ever Sean and Best staff",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNlOE95YjJRRRAB",
+      "author": "Chandrakala Solasa",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Good treatment",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNlc0tITVdnEAE",
+      "author": "Sridhar sripalasetti",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "TQ doctor",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1bi11REF3EAE",
+      "author": "GANESH REDDY",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR1dTYyWWlBRRAB",
+      "author": "Potuguntla Tirumala",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Excellent treatment",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1ODhQSkdBEAE",
+      "author": "Mudra Raja",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Good hospital",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1M2FHQ1JREAE",
+      "author": "Nareshkumar Cherukuri",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Super",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR1OWJ2WnRnRRAB",
+      "author": "palla premkumar",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Happy",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1cFp2WUl3EAE",
+      "author": "Dr Venkata Ramana Miriampalli",
+      "rating": 4,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR1MmJpdmxBRRAB",
+      "author": "Mohan Rao",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Happy treatment giving",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1N3NiMWFnEAE",
+      "author": "Gogineni Markendeyulu",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "Good tretment",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR1cHBqUC13RRAB",
+      "author": "Ramarao Sadhanala",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1aHZfNVJ3EAE",
+      "author": "Pasupuleti Nageswar rao",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Good",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR1NnRiTTRBRRAB",
+      "author": "Shaik Baji",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Good",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1Z3NxNUZREAE",
+      "author": "Krishna",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "the way Chiranjeevi sir receives patients and explains every thing in deatil was outstanding. we will get confidence that we are going to get rid of the sickness as he pin points the root cause and defines the right dose of medicine and right time. nurses are very skillful and thoughtful. even the pharmacy people will write every medication in detail and place them in envelopes.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR1ck12dXNBRRAB",
+      "author": "anjanipooja chepuri",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Treating patients is good.good faculty.so much care given.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1MUthQ0d3EAE",
+      "author": "Yandrapati Varalakshmi",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR1LUxQVzdRRRAB",
+      "author": "nallamothula balathripurasundari",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1dU51NU9BEAE",
+      "author": "lalitha koniki",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Good doctors and staff.good service.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR1Z0xDQ293RRAB",
+      "author": "Kumariswami Kukkala",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Thank you Dr. Chiranjeevi garu for my treatment for caring about my health .",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN1cTh2U2FREAE",
+      "author": "Kumara Swamy",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Best treatment at reasonable price and friendly environment.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1eVphc213RRAB",
+      "author": "Doneti Doneti",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "It's good and will give normal charges and compare to other hospital",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1eWFLOV93RRAB",
+      "author": "pravallika pendyala",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN1b3U3aVB3EAE",
+      "author": "Jampa Nagaraju",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Good treatment",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1cE95TXhBRRAB",
+      "author": "Ammulu Vyyuru",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Good",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1aE11aTdRRRAB",
+      "author": "Pkrishna Pkrishna",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Effortble prices we are happy to treated this hospital every one take care of my wife thankyou keep it up",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN1MlB6eVdREAE",
+      "author": "kranthi kiran",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Best treatments ,very helping staff",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1Z05TanhnRRAB",
+      "author": "TANNIRU UDAY",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Good",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURPaDRlcGh3RRAB",
+      "author": "Rambabu Mallela",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURPdmFHcjZRRRAB",
+      "author": "POTHUGUNTLA RAMAKRISHNA",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Good",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURPM3VlemVBEAE",
+      "author": "Sambasivarao Sanku",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Thank you Dr. Chiranjeevi garu",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURPZ0xxaEdBEAE",
+      "author": "Venkateswarao Komma",
+      "rating": 5,
+      "relative_date": "Edited 4 years ago",
+      "text": "Good treatment",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURPdkxYbHlBRRAB",
+      "author": "John Akshay",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Nce treatment",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURPZ1ByM3RRRRAB",
+      "author": "Govardhan Saidam",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Very good",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNPel9YT3NBRRAB",
+      "author": "Rajesh Tarigopula",
+      "rating": 1,
+      "relative_date": "4 years ago",
+      "text": "Admitted my Father - Just  had a surgery to remove plate from hand., But he broke entire bone into two pieces again. Terrible doctor I have ever seen. Try to avoid this doctor, don't even call him a doctor.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNPejlYZjFRRRAB",
+      "author": "Mahesh Tarigopula",
+      "rating": 1,
+      "relative_date": "4 years ago",
+      "text": "Had a surgery from Dr. Ramineni Hemanth Kumar to remove plates from hand. He can't even remove plates and broke bone again to two and had to have a major surgery again. Try to avoid him if you want to get good treatment. Don't even consider him as a Doctor.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNPMTYtYm9BRRAB",
+      "author": "GKHAJA MASTAN",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "We are happy to treatment this hospital thank y everyone",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNPbV9HVF93RRAB",
+      "author": "Kola Srinivasa",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Happy with the treatment. The nursing staff, administration and the doctors are very caring and friendly.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNPbTRtMmZ3EAE",
+      "author": "naidu gk",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Quick responce and superb treatment",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNPNi15NG1nRRAB",
+      "author": "Krishna Hari",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "I would like to thank you, with the deepest gratitude for you excellent care of my father during his illness with urology problem. I feel truly overwhelmed by your kindness.\nYour facilities, and especially your amazing staff, gave my father excellent care and made his about as comfortable as he could be! Literally everyone was friendly, kind and caring from the moment we entered.\nI am very happy that I came to this hospital for my problem and extremely grateful to Dr. Chiranjeevi sir and all the other doctors, Dr. Pavan sir from the nursing staff and others for taking great care of my father.\n\nI would definitely feel to refer any patient to this hospital.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNPM1o3YlB3EAE",
+      "author": "Vasu ila",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Thank you chiranjeevi garu for caring my uncle gopal rao and best treatment given who was excellent in communicating with us and his team were also in regular contact with us giving information about my uncle I really appreciate their help through out my uncle stay in renuka hospital",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNPdmZ5aVZnEAE",
+      "author": "Srinivas 1225",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "My wife has came to kidny stones .but very very care for Her staff has soo good work very very caring and doctors are very very good responbluty for patiant soo good working and best Treatment in the guntur city ...",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNPM2VlX0tREAE",
+      "author": "naveen kumar",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Nice treatment\nGood doctors\nNice staff\nVery economy",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNPd3NuRFF3EAE",
+      "author": "m geetha",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Good excellent service",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNPeUwtZ2FBEAE",
+      "author": "komera lakshminarayana",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Got Treatment under Aarogyasri, Patient care is good",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQyNjc2Y2xBRRAB",
+      "author": "D.ravi D.ravikumar",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Treatment is good at affordable prices",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQyMXFPMHpRRRAB",
+      "author": "Anjaneyulu Korampalli",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Good service offered by the supporting staff",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQyeG83Sy1nRRAB",
+      "author": "Chandra Sekhar Agnigundala",
+      "rating": 4,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQybE5HQU5REAE",
+      "author": "Pavani Chintala",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Good Treatment",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQybE5MZ2NnEAE",
+      "author": "Joshi Jagadish",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMyMlpIenlRRRAB",
+      "author": "ananda sagar",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Good nice",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMyeHN6VC13RRAB",
+      "author": "pushpasai pothuraju",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Simply treatment is good. They are caring patients very good and talking very friendly. Duty doctor and nursing staff good. I refer this hospital for others",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMyaXJYNm9RRRAB",
+      "author": "ꜱᴜɴɪʟ ࿐",
+      "rating": 4,
+      "relative_date": "4 years ago",
+      "text": "Dr.Chiranjeevi Sir The Way of Receving The Patients Was Very Nice And He Teaches Every Solution Clearly To The Patients And  Excellent Staff",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURXNmZhSWtnRRAB",
+      "author": "kumari velpuri",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Good",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURXb2RTU1FBEAE",
+      "author": "Hemanth sai Kanneti",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURXdnJDUGlRRRAB",
+      "author": "Durga___ Tarak",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "My father admitted in this hospital due to brain Surgery the hospital done brain surgery very well and now he recovered",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNXeHJqMWdBRRAB",
+      "author": "Veerisetty Narasimharao",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "My mother yellama admited in hoapital with hypertension\nHere i get good treatment at low cost the staff are also very friendly and effective they provide treatment accordingly with atmost care",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNXMnNlcjdRRRAB",
+      "author": "M srinivasa Reddy",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "My mother admiteed in this hospital with diabtec foot ulcer With severe condition\nWe gone for surgery and get the best treatment at low cost compared to other hoapitals\nDr.k.Chiranjeevi sir treatment gives good treatment to my mother",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURtbGJIbnpRRRAB",
+      "author": "Vasubabu Appala",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "My Brother got admitted in Renuuka Hospital for Hip Surgery under Dr Hemant Kumar Sir,MS Ortho now he is doing well. Excellent service and Help from Dr Chiranjeevi Sir, Great Treatment and Support from Doctors, Nurses and all other supporting staff.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURtcUx6UDB3RRAB",
+      "author": "raju Aj",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNtazl1bzR3RRAB",
+      "author": "venu priya",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Dr.chiranjeevi sir treatment is good..and nursing staff 👍👍 higen hospital …",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNtdzVQQmtnRRAB",
+      "author": "Degala Nageswari",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Dr. Chiranjeevi garu treated with good heart ... Duty doctors nd nursing staff service👍👍 …",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNtdzVUMW13RRAB",
+      "author": "Indira krishna Sana",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNtZzRPQlJREAE",
+      "author": "Jyoti Varma",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Staff is good... Without expecting good service from everyone.. treatment is good..we are really satisfied",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNtbGF6TzdRRRAB",
+      "author": "nunsavathu balajinaik",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNtbGNURkd3EAE",
+      "author": "GOPI RAJA",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNtdVoyZUN3EAE",
+      "author": "Vijjy Degala",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Very nice team.... Good patience... patient caring was excellent",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNtN3NieGNBEAE",
+      "author": "Madhusudhan Rao",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Treatment good",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNtLUpya2tnRRAB",
+      "author": "SHAIK KHAJA MOHINUDDIN CHISTY",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "good receiving",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURHOWZYQkxBEAE",
+      "author": "Moulali Shaik",
+      "rating": 4,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURHNWV5a3lRRRAB",
+      "author": "Tadigiri Sudharani",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Hospitality good and hygenic, I hope it's best for everyone to experience",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURHeW9INEh3EAE",
+      "author": "Jayasree Katakamsetti",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURHd3F2UlF3EAE",
+      "author": "mohan palithya",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "We are getting every scope of services here at very low cost\nHere they are taking at most care for the patient. Treatment is very good for dengue and infection cases my friend recently take dengue treatment and he recovered well and he was treated at most care",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNHdDR6SU9REAE",
+      "author": "Ribak dhan Ribka dhan",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "start",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNHMjVQUVR3EAE",
+      "author": "Venkatesh Yadla",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Very Good staff  and Good doctors",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNHeTU2U25BRRAB",
+      "author": "Joseph Kota",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Hospital maintenance is good and even also treatment is good caring op patent is good Cleaning and changing bed sheet is great👍👏overall good hospital 🏥 in guntur 🙏 …",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNHX2VERGx3RRAB",
+      "author": "Katikala Senakumar",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNHX2NDNndRRRAB",
+      "author": "Madhu babu Padditi",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNHdmYtNW9nRRAB",
+      "author": "Tej Allaka",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNHdmQ2NTJnRRAB",
+      "author": "khasim doguparthi",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ2azk2SmF3EAE",
+      "author": "repalle tilak",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "It good hospital for any health issues. I personally faced lot of problems of my mother due to covid in 2nd wave in that time. I visit this hospital it has 24 hour's medical facilities, oxygen supply and good doctor's. And 24 hour's lab testing center. This  type all facilities are used my mother during covid 2nd wave. So I personally fell that it most suitable for middle class famiy.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ2azZxOTVBRRAB",
+      "author": "Abhilash Nissankararao",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "1. Hospital staff behavior is very good\n2. Treatment is excellent",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ2azRTMU5REAE",
+      "author": "mahesh raj",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "It is a great hospital.my aunt Sridevi got admitted for dengue.dr Chiranjeevi sir gave best treatment.\nThanks for good hospitality and treatment",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ2amNiRW9BRRAB",
+      "author": "malleswararao puli",
+      "rating": 4,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM2MC0yQ253RRAB",
+      "author": "Yadlapalli srinivas Chowdary",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Very good hospital. Best doctors nice",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURhOEtTYWh3RRAB",
+      "author": "Sai Ganesh Cherukuri",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "Nice treatment\nGood doctor\nDr.k chirangeevi sir\nGenorous and kind staff",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNhdnI3NnRnRRAB",
+      "author": "madan mohan",
+      "rating": 1,
+      "relative_date": "5 years ago",
+      "text": "Worst hospital very bad and the doctor is not came to see my father\nAnd the nurse are not checking properly my father has expired",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNxdDZPdTRBRRAB",
+      "author": "neeraj ch",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "Excellent service\nFriendly Doctors&Staff\nAffordable for all classes\nGovt. Schemes are available",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNxMnViR0dREAE",
+      "author": "Siva Ganesh",
+      "rating": 1,
+      "relative_date": "5 years ago",
+      "text": "Worst hospital and management. Especially for covid and black fungus don't admit in this hospital.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURLOThhVjl3RRAB",
+      "author": "Naresh",
+      "rating": 1,
+      "relative_date": "5 years ago",
+      "text": "Hi, scrolldown for english:\n\nHello, I went to Renuuka Hospital for Naresh covid.treatment. Dr. Chiranjeevi garu did the treatment well but I have to tell you about Dr. Chiranjeevi garu's wife and brother. They are both in the medicine department ... just five medicine (5 types) it takes three hours to give. If you take it outside, no one understands the medicine names written in the prescription except Dr. Chiranjeevi garu. What is fun, they don't even understand it in the medicine department, apart from that, their attitude should be seen more than the doctor ... patients are untouchables. covid. If you stay in the hospital for three hours, even a non-resident gets covid. How did Dr. garu miss this logic. If you ask for the medicine bill, they give you rash treatment .... OP Renuka Hospital ..... Medicine is given in Chiranjeevi Skin Care Hospital. Hospital staff gets angry when you ask for bills..they beat you up.\nMy logic is that medicine that is not given a bill is like black marketing. Please do not go to such hospitals....this is a hospital without control and rules. There are many good hospitals....what is free service?\n\nHi everyone. This is regarding my experience with renuuka hospitals. I am naresh went for covid treatment. Dr. Chiranjeevi garu treated me good but the thing is service to patients is very poor. Particularly we need to talk about Dr's wife and brother... both are giving medicines to patients but you have to beg them to get medicines, it will take minimun 3 hours to give medicines(just 5 types) ...if you go to outside medical shop it just 5 mins but you cannot buy outside because ..no one will understand the prescription except doctor....funny thing is even Dr's brother and wife also does not understand. May be they donot know. If you ask bill for medicines yiu are the most culprit fellow in the world ....they abuse you like anything....really bad words i cannot say those ....thing is they are drs relation no one will question them...they feel like gods and patients are untouchables and they are felling like providing free service.\n\nPlease don't encourage these kind of people. We have lot of hospitals to serve better. We are not getting any free treatment to get abused.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURLOTVhbmZBEAE",
+      "author": "Lata Naresh",
+      "rating": 1,
+      "relative_date": "5 years ago",
+      "text": "It would be better if Dr. chirajeevi's wife and brother have some ethics towards treating patient's.  It would be better to remove \"humanity\" word in logo....beacuse they donot have that quality and donot deserve. It will effect other doctors reputation as well..worst experience.  Donit encourage these kind iof people.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURLemV1SWVnEAE",
+      "author": "Sairam Prasad RV",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURLa08teDl3RRAB",
+      "author": "Umesh Pedapudi",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR5bHBqUk5BEAE",
+      "author": "Lavanya Kaja",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "The best neurosurgery doctor Dr.Penchalaih sir in Renuuka Hospital Guntur......👌 …",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN5dmFqN1h3EAE",
+      "author": "HariKiran chirala",
+      "rating": 1,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURTMHZPWVJnEAE",
+      "author": "Chirumamilla N rao",
+      "rating": 4,
+      "relative_date": "5 years ago",
+      "text": "Neat hospital",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNpZ2FxdmVnEAE",
+      "author": "Tejaswini Teju",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURDcjZqVDVRRRAB",
+      "author": "Rani prakash",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURDei1fVHNnRRAB",
+      "author": "Preethi Vasimalla",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURDejlmQzdnRRAB",
+      "author": "Sky M3",
+      "rating": 1,
+      "relative_date": "5 years ago",
+      "text": "Worst",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURDajQyWU9BEAE",
+      "author": "padmavathi ch",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURDOTQyMnpBRRAB",
+      "author": "sruthi annapureddy",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURDOTZYOUZ3EAE",
+      "author": "sowmya sri",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURDOV9tU09REAE",
+      "author": "naveen reddy",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURDOTdtSXBnRRAB",
+      "author": "Pinky Pinky",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURDOTVtaEl3EAE",
+      "author": "Navya Devireddy",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURDOThubGJ3EAE",
+      "author": "Lakshmi Kanth",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURDOTdIcHBBRRAB",
+      "author": "Anitha Reddy",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURDOTlILXBBRRAB",
+      "author": "shravya",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURDOS1INDFRRRAB",
+      "author": "keerthi keerthana",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURDOS1Hc19BRRAB",
+      "author": "Bussa Sravya",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURDOS1HUW9RRRAB",
+      "author": "sowji sowji",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURDOTZIbzlnRRAB",
+      "author": "sumanth gokarakonda",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURDOThIY2hnRRAB",
+      "author": "Prakash Ads",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURDOTRHWk93EAE",
+      "author": "Malle Anil Kumar",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURDOV83MkxnEAE",
+      "author": "Sindhuja Dyapa",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURDOV82bXB3RRAB",
+      "author": "Neelesh Nulu",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURDOV82TU1REAE",
+      "author": "Lakshmi Pavani",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURDOTc3allBEAE",
+      "author": "Swathi Chowdary",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURDOTc2QzFBRRAB",
+      "author": "shiva krishna",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURDOTk2SGZ3EAE",
+      "author": "Gopi Yemineni",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURDOTk3bFlBEAE",
+      "author": "G.s Reddy",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURDOTU3eGhRRRAB",
+      "author": "nulu harsha",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURDOTU2QXhBRRAB",
+      "author": "G Anjaneya Reddy",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURDOS02RnVRRRAB",
+      "author": "gayathri gurram",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURDOTg2bTFnRRAB",
+      "author": "Kola Saikrishna",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURDOV9iRl9nRRAB",
+      "author": "RAMESH YAMMAJI",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURDOTlhNklnEAE",
+      "author": "Prakas Kada",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "Good staff and best treatment",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURDOTVhRGZREAE",
+      "author": "Venkat Kanuganty",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "Very efficient staff and good treatment",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURDa3NiMUNBEAE",
+      "author": "kolasani Phani",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURDdk9LTWtBRRAB",
+      "author": "ÂSRÎTHÃ RÈDDY",
+      "rating": 1,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURDdE8zSTd3RRAB",
+      "author": "Dwark Nadh Chebrolu",
+      "rating": 1,
+      "relative_date": "5 years ago",
+      "text": "Worst than ever",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURDdEkzelZREAE",
+      "author": "RAMANA CHENNAMSETTY",
+      "rating": 1,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURDdExXR0p3EAE",
+      "author": "Kavitha Dasi",
+      "rating": 1,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURDdElHR2ZnEAE",
+      "author": "Harinath Reddy 16-305",
+      "rating": 1,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURDdFA3RnZnRRAB",
+      "author": "vakati bhanu",
+      "rating": 1,
+      "relative_date": "5 years ago",
+      "text": "No parking",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURDdFBidzBnRRAB",
+      "author": "Chennamareddygari Bhaskar Redddy Bhaskarreddy",
+      "rating": 1,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNDdDdDeHZnRRAB",
+      "author": "Lakshman Thota",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "Good hospital. Doctor and staff are soo good",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNjcmNTRDV3RRAB",
+      "author": "Martur Chc",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURJbjZ2am5nRRAB",
+      "author": "Lakshminarayana Gudi",
+      "rating": 5,
+      "relative_date": "7 years ago",
+      "text": "Efficient Doctors",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURRaVlYaEVBEAE",
+      "author": "Emmanuel Desowja",
+      "rating": 5,
+      "relative_date": "9 years ago",
+      "text": "Efficient Doctor",
+      "has_owner_reply": false
+    }
+  ],
+  "reviews_error": "",
+  "sorted_newest": true,
+  "stopped_at_known_review": false,
+  "reviews_captured": 290,
+  "owner_replies": 48,
+  "reviews_coverage": 1.0,
+  "date_anchor": "2026-08-20T23:52:17",
+  "extract_seconds": 73.0,
+  "missing_fields": [
+    "website"
+  ],
+  "page_rendered": true,
+  "error": ""
+}

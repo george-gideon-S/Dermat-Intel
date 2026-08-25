@@ -1,0 +1,171 @@
+{
+  "rank": 45,
+  "query": "cosmetologist in guntur",
+  "at": "2026-08-21T21:20:34",
+  "ai_overview": {
+    "present": true,
+    "available": true,
+    "text": "Guntur features several highly-rated skin clinics and cosmetology centers —such as Skin Perfect Clinic, Chandana Skin Clinic, and Leelavathi Advanced Skin & Laser Center —offering specialized treatments like laser therapy, scar reduction, and hair restoration. Choosing the right specialist generally depends on whether you are looking for medical dermatology or aesthetic cosmetology procedures. If you can share what specific treatment or skin concern (such as acne scars, anti-aging, or laser hair reduction) you are looking for, I can recommend the most suitable clinic or specialist for your needs. This is for informational purposes only. For medical advice or diagnosis, consult a professional",
+    "text_length": 700,
+    "truncated": false,
+    "recommended_clinics": [],
+    "sources": []
+  },
+  "ai_capture": {
+    "present": true,
+    "available": false,
+    "waited_s": 0.0,
+    "expanded": false,
+    "settled": "unavailable",
+    "length": 0
+  },
+  "more_places": {
+    "status": "ok",
+    "names": [
+      {
+        "position": 1,
+        "name": "Skin Perfect Clinic",
+        "rating": 4.9,
+        "reviews": 641,
+        "snippet": "4.9 (641) · Skin care clinic · Old Club Rd, beside Yoda diagnostic lab · Closed · Opens 10 am Sat · \"My skin texture and pigmentation have improved noticeably.\""
+      },
+      {
+        "position": 2,
+        "name": "Chandana Skin Clinic | Dermatologist | Cosmetologist | Laser Scar Treatment, Laser hair reduction",
+        "rating": 4.6,
+        "reviews": 386,
+        "snippet": "4.6 (386) · Skin care clinic · 18/1, Arundelpet, behind Joy Alukkas Jewellery Showroom, opposite siva cinemas · Closed · Opens 10 am Sat · On-site services"
+      },
+      {
+        "position": 3,
+        "name": "Dr. S. Akshay Jain/Dermatologist(skin doctor)in Guntur/Trichologist(Hair specialist)/Cosmetic/SkinClinic/Laser hair reduction",
+        "rating": 4.9,
+        "reviews": 348,
+        "snippet": "4.9 (348) · Skin care clinic · SKIN LANE CLINIC, Menakshi Hospital, Besides, Pattabhipuram Rd, opposite Jute Mill · Closed · Opens 6 pm Sat · \"He explained causes of acne and treatment in a well defined manner.\""
+      },
+      {
+        "position": 4,
+        "name": "Dr.Pooja's B18 Skin Clinic | Best Dermatologist in Guntur | Cosmetology | Trichologist | Anti Aging | Skin Doctor Guntur",
+        "rating": 5.0,
+        "reviews": 82,
+        "snippet": "5.0 (82) · Skin care clinic · Amaravathi Rd, beside BVR Convention, opp. Axis Bank · Closed · Opens 10 am Sat · On-site services"
+      },
+      {
+        "position": 5,
+        "name": "Dr Sowmya Skin Hair Laser Clinic - Chandramouli nagar",
+        "rating": 4.8,
+        "reviews": 528,
+        "snippet": "4.8 (528) · Skin care clinic · 1/1, lane, opp. Bakers fun · Closed · Opens 3 pm Sat · \"I had seen so much improvement in my face after your treatment.\""
+      },
+      {
+        "position": 6,
+        "name": "Dhanvin Academy | Dhanvin Academy of Cosmetology | Dhanvin Aesthetic Institute",
+        "rating": 5.0,
+        "reviews": 41,
+        "snippet": "5.0 (41) · Cosmetic surgeon · Kiran dental hospital, opposite Donbosco · \"I had a HydraFacial at this place and my skin has never looked this good.\""
+      },
+      {
+        "position": 7,
+        "name": "Dr Sowmya Skin clinic - kothapeta",
+        "rating": 4.9,
+        "reviews": 773,
+        "snippet": "4.9 (773) · Dermatologist · Sowmya hospital, Dr, Old Club Rd, beside RK Scan Center · Closed · Opens 10 am Sat · \"My skin issues were resolved quickly and professionally.\""
+      },
+      {
+        "position": 8,
+        "name": "Dr. Sneha Kovi",
+        "rating": 4.8,
+        "reviews": 200,
+        "snippet": "4.8 (200) · Skin care clinic · Kugler Hospital Rd · Closed · Opens 9 am Sat · On-site services"
+      },
+      {
+        "position": 9,
+        "name": "Manoharam Skin, Laser and Cosmetology Clinic",
+        "rating": 4.8,
+        "reviews": 73,
+        "snippet": "4.8 (73) · Skin care clinic · 1st Floor, 4/2 · Closed · Opens 11 am Sat · \"Service and treatment is excellent Great results\""
+      },
+      {
+        "position": 10,
+        "name": "Leelavathi Advanced Skin & Laser Centre | best dermatologist in guntur",
+        "rating": 4.9,
+        "reviews": 251,
+        "snippet": "4.9 (251) · Skin care clinic · Puvada Vari Street Pottur Vari Thota Anna Srinivasa Rao Kalyana Mandapam, Road · Closed · Opens 10:30 am Sat · \"Her expertise, approach, and results speak for themselves.\""
+      },
+      {
+        "position": 11,
+        "name": "Dr Ragini's Skin & Hair Clinic / Best dermatologist (skin doctor) in Guntur",
+        "rating": 4.9,
+        "reviews": 151,
+        "snippet": "4.9 (151) · Skin care clinic · Kanchan towers, D no 2-212, Pattabhipuram Rd, opposite Raghuram children's hospital · Closed · Opens 10 am Sat · On-site services"
+      },
+      {
+        "position": 12,
+        "name": "Dr Uma's Skin Hair & laser Clinic",
+        "rating": 5.0,
+        "reviews": 134,
+        "snippet": "5.0 (134) · Skin care clinic · D.no 3-1, 194/2B, Main Road, beside SBI bank · Closed · Opens 10:30 am Sat · \"She is friendly and treatment is remarkably effective, comfortable,\""
+      },
+      {
+        "position": 13,
+        "name": "Anoos Guntur: Laser Hair Removal, Skin & Hair Treatments",
+        "rating": 4.8,
+        "reviews": null,
+        "snippet": "4.8 (1.2K) · Skin care clinic · 2nd floor, Lakshmipuram Main Rd, above Croma Showroom · Closed · Opens 9 am Sat · On-site services"
+      },
+      {
+        "position": 14,
+        "name": "SKIN LANE CLINIC-Kothapet /Dr.AKSHAY JAIN /Best Dermatologist in Guntur /Trichologist /Best Skin & Hair doctor in GUNTUR",
+        "rating": 5.0,
+        "reviews": 348,
+        "snippet": "5.0 (348) · Skin care clinic · Skin Lane Clinic, 0pp : Muthoot finance, Somuvari St · Closed · Opens 10 am Sat · \"Excellent i got treatment for acne scars and got beautiful results\""
+      },
+      {
+        "position": 15,
+        "name": "VIJAYANAND skin, hair & cosmetic care",
+        "rating": 4.9,
+        "reviews": 42,
+        "snippet": "4.9 (42) · Medical clinic · Dr. No - 30, 5/15 · Closes soon · 10 pm · \"Nice diagnosis,good explanation and right treatment\""
+      },
+      {
+        "position": 16,
+        "name": "Roots Advanced Skin And Hair Clinic - Guntur",
+        "rating": 5.0,
+        "reviews": 11,
+        "snippet": "5.0 (11) · Skin care clinic · 5th Lane, Guntur Vari Thota, Lane, Old Club Rd, next to Tulasi Multi-Speciality Hospital · Closed · Opens 10 am Sat · \"Excellent experience with Dr. Prathyusha Devisetty for acne treatment.\""
+      },
+      {
+        "position": 17,
+        "name": "VCare Hair & Skin Clinic - Guntur | Skin Treatment, Hair Treatment, Hair Transplant, Laser Hair Removal, Skin Whitening",
+        "rating": 4.7,
+        "reviews": null,
+        "snippet": "4.7 (1.2K) · Skin care clinic · Sri Nikitha Plaza, Door No : 4 -2-2, Village Ramannapet 1st Lane Main road Survey No 509 and 511, old ward No 1 8 · Closed · Opens 10 am Sat · On-site services"
+      },
+      {
+        "position": 18,
+        "name": "Kesavam Dermacare",
+        "rating": 5.0,
+        "reviews": 133,
+        "snippet": "5.0 (133) · Dermatologist · 1st Line, behind saraswati theater · Closed · Opens 10 am Sat · \"Explains well and great treatment\""
+      },
+      {
+        "position": 19,
+        "name": "Dr. Kavya Chekuru Dermacure Skin & Laser Clinic | Best Skin Clinic & Doctor in Guntur | Top Skin Hospital in Guntur",
+        "rating": 5.0,
+        "reviews": 236,
+        "snippet": "5.0 (236) · Skin care clinic · 1st Floor, Doctors Plaza, Kothapet Main Rd · Closed · Opens 10 am Sat · \"Explained the treatment clearly and results were excellent.\""
+      },
+      {
+        "position": 20,
+        "name": "Kolors Healthcare Guntur",
+        "rating": 4.8,
+        "reviews": null,
+        "snippet": "4.8 (2.1K) · Weight loss service · 7+ years in business · Door no. 5-87-32, Second floor Satya Akarsha Complex, Lakshmipuram Main Rd, opp. HDFC Bank · Closed · Opens 6:30 am Sat · \"Pimples have reduced so much I can't tell in my words.\""
+      }
+    ],
+    "url": "https://www.google.com/search?q=cosmetologist+in+guntur&sca_esv=2d9245e2f52acf9d&gl=in&hl=en&pws=0&udm=1&lsack=u3OIatyxGe-H4-EP3ezFuAY&sa=X&ved=2ahUKEwic-7m_ibKWAxXvwzgGHV12EWcQjGp6BAggEAA",
+    "requests": 1
+  },
+  "google_requests": 2,
+  "reparsed": true
+}

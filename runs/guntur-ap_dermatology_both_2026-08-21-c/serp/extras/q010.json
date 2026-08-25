@@ -1,0 +1,161 @@
+{
+  "rank": 10,
+  "query": "skin allergy treatment in Guntur",
+  "at": "2026-08-21T17:44:37",
+  "ai_overview": null,
+  "ai_capture": {
+    "present": false,
+    "available": false,
+    "waited_s": 25.0,
+    "expanded": false,
+    "settled": "timeout",
+    "length": 0
+  },
+  "more_places": {
+    "status": "ok",
+    "names": [
+      {
+        "position": 1,
+        "name": "Skin Perfect Clinic",
+        "rating": 4.9,
+        "reviews": 641,
+        "snippet": "4.9 (641) · Dermatologist · Old Club Rd, beside Yoda diagnostic lab · Closed · Opens 10 am Sat · \"Gave effective medicine to cure skin allergy within a week.\""
+      },
+      {
+        "position": 2,
+        "name": "Dr Sowmya Skin Hair Laser Clinic - Chandramouli nagar",
+        "rating": 4.8,
+        "reviews": 528,
+        "snippet": "4.8 (528) · Dermatologist · 1/1, lane, opp. Bakers fun · \"The treatment worked well and the clinic is clean with supportive staff.\""
+      },
+      {
+        "position": 3,
+        "name": "Dr Sowmya Skin clinic - kothapeta",
+        "rating": 4.9,
+        "reviews": 773,
+        "snippet": "4.9 (773) · Dermatologist · Sowmya hospital, Dr, Old Club Rd, beside RK Scan Center · Closed · Opens 10 am Sat · \"Best results for my skin allergy thank u doctor and staff\""
+      },
+      {
+        "position": 4,
+        "name": "Leelavathi Advanced Skin & Laser Centre | best dermatologist in guntur",
+        "rating": 4.9,
+        "reviews": 251,
+        "snippet": "4.9 (251) · Skin care clinic · Puvada Vari Street Pottur Vari Thota Anna Srinivasa Rao Kalyana Mandapam, Road · Closed · Opens 10:30 am Sat · \"Excellent explanation about the disease and the treatment \""
+      },
+      {
+        "position": 5,
+        "name": "Suram Subrahmanyam Clinic",
+        "rating": 4.0,
+        "reviews": 265,
+        "snippet": "4.0 (265) · Dermatologist · Old Club Rd · \"Excellent treatment 😇\""
+      },
+      {
+        "position": 6,
+        "name": "SKIN LANE CLINIC-Kothapet /Dr.AKSHAY JAIN /Best Dermatologist in Guntur /Trichologist /Best Skin & Hair doctor in GUNTUR",
+        "rating": 5.0,
+        "reviews": 348,
+        "snippet": "5.0 (348) · Skin care clinic · Skin Lane Clinic, 0pp : Muthoot finance, Somuvari St · Closed · Opens 10 am Sat · \"My allergy since many years decreased in span of days.\""
+      },
+      {
+        "position": 7,
+        "name": "Dr. S. Akshay Jain/Dermatologist(skin doctor)in Guntur/Trichologist(Hair specialist)/Cosmetic/SkinClinic/Laser hair reduction",
+        "rating": 4.9,
+        "reviews": 348,
+        "snippet": "4.9 (348) · Dermatologist · SKIN LANE CLINIC, Menakshi Hospital, Besides, Pattabhipuram Rd, opposite Jute Mill · Opens soon · 6 pm · \"I am quite happy and satisfied with the treatment and results.\""
+      },
+      {
+        "position": 8,
+        "name": "Dr.Pooja's B18 Skin Clinic | Best Dermatologist in Guntur | Cosmetology | Trichologist | Anti Aging | Skin Doctor Guntur",
+        "rating": 5.0,
+        "reviews": 82,
+        "snippet": "5.0 (82) · Skin care clinic · Amaravathi Rd, beside BVR Convention, opp. Axis Bank · \"My skin allergy got solved in a week.\""
+      },
+      {
+        "position": 9,
+        "name": "Dr. Kavya Chekuru Dermacure Skin & Laser Clinic | Best Skin Clinic & Doctor in Guntur | Top Skin Hospital in Guntur",
+        "rating": 5.0,
+        "reviews": 236,
+        "snippet": "5.0 (236) · Skin care clinic · 1st Floor, Doctors Plaza, Kothapet Main Rd · \"I got treatment for my skin allergy from dr kavya chekuru.\""
+      },
+      {
+        "position": 10,
+        "name": "Dr.INDIRA'S SKIN & HAIR CLINIC",
+        "rating": 4.9,
+        "reviews": 67,
+        "snippet": "4.9 (67) · Dermatologist · 6th Ln · \"Excellent treatment \""
+      },
+      {
+        "position": 11,
+        "name": "Skin kare Clinic",
+        "rating": 4.8,
+        "reviews": 383,
+        "snippet": "4.8 (383) · Skin care clinic · Lakshmipuram Main Rd · \"Best allergy treatment doctor\""
+      },
+      {
+        "position": 12,
+        "name": "Chandana Skin Clinic | Dermatologist | Cosmetologist | Laser Scar Treatment, Laser hair reduction",
+        "rating": 4.6,
+        "reviews": 386,
+        "snippet": "4.6 (386) · Skin care clinic · 18/1, Arundelpet, behind Joy Alukkas Jewellery Showroom, opposite siva cinemas · On-site services"
+      },
+      {
+        "position": 13,
+        "name": "Ramesh Skin Clinic",
+        "rating": 4.7,
+        "reviews": 160,
+        "snippet": "4.7 (160) · Dermatologist · Door no: 12, 12-47, Old Club Rd, opp. Amrutha Hospitals · \"The treatment was effective, and I saw a significant improvement.\""
+      },
+      {
+        "position": 14,
+        "name": "Amaravathi Skin Care",
+        "rating": 4.4,
+        "reviews": 72,
+        "snippet": "4.4 (72) · Dermatologist · Vijaya Talkies Road Bose bomma centre, opp. rajesh Medicals, near basavapunnaiah hospital · \"Great service and effective treatment .\""
+      },
+      {
+        "position": 15,
+        "name": "Dr.Swapna's Skin, Laser & Hair transplant centre",
+        "rating": 4.6,
+        "reviews": 69,
+        "snippet": "4.6 (69) · Skin care clinic · 4-2-5/6; 1/2 · \" Skin allergy totally gone in 1week super response Best clinic in guntur\""
+      },
+      {
+        "position": 16,
+        "name": "Dr. Sneha Kovi",
+        "rating": 4.8,
+        "reviews": 200,
+        "snippet": "4.8 (200) · Dermatologist · Kugler Hospital Rd · \"She explained everything clearly and suggested the right treatment .\""
+      },
+      {
+        "position": 17,
+        "name": "Dr Uma's Skin Hair & laser Clinic",
+        "rating": 5.0,
+        "reviews": 134,
+        "snippet": "5.0 (134) · Skin care clinic · D.no 3-1, 194/2B, Main Road, beside SBI bank · Opens soon · 6 pm · \"Results from the treatment and price are reasonable.\""
+      },
+      {
+        "position": 18,
+        "name": "Kesavam Dermacare",
+        "rating": 5.0,
+        "reviews": 133,
+        "snippet": "5.0 (133) · Dermatologist · 1st Line, behind saraswati theater · Opens soon · 6 pm · \"GOOD TREATMENT ... IM VERY HAPPY ABOUT MY RESULTS\""
+      },
+      {
+        "position": 19,
+        "name": "Dr. Usha Rani Perali Skin Clinic",
+        "rating": 4.8,
+        "reviews": 23,
+        "snippet": "4.8 (23) · Dermatologist · Sankar Medicals & General Stores, Opp. Apollo Pharmacy, beside Mee-Seva · Opens soon · 6 pm · \"How to book online appointment with Dr.Usha Rani garu\""
+      },
+      {
+        "position": 20,
+        "name": "Roots Advanced Skin And Hair Clinic - Guntur",
+        "rating": 5.0,
+        "reviews": 11,
+        "snippet": "5.0 (11) · Skin care clinic · 5th Lane, Guntur Vari Thota, Lane, Old Club Rd, next to Tulasi Multi-Speciality Hospital · \"Unlike others, she doesn’t push unnecessary treatments.\""
+      }
+    ],
+    "url": "https://www.google.com/search?q=skin+allergy+treatment+in+Guntur&sca_esv=744b1af2a639866b&gl=in&hl=en&pws=0&udm=1&lsack=BEGIarOUGqKSseMP1r3jmAQ&sa=X&ved=2ahUKEwizpteQ2bGWAxUiSWwGHdbeGEMQjGp6BAghEAA"
+  },
+  "reparsed": true
+}

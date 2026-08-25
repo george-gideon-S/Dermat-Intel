@@ -1,0 +1,946 @@
+{
+  "key": "ChIJDUJTGGN1SjoRMAJt68oNAKE",
+  "tier": "full",
+  "complete": true,
+  "place_url": "https://www.google.com/maps/place/Aditya+Skin+%26+Laser+Center/data=!4m7!3m6!1s0x3a4a75631853420d:0xa1000dcaeb6d0230!8m2!3d16.2991652!4d80.452164!16s%2Fg%2F11fn4_0fx4!19sChIJDUJTGGN1SjoRMAJt68oNAKE?authuser=0&hl=en&rclk=1",
+  "captured_at": "2026-08-20T23:13:33",
+  "rank": 17,
+  "place_id": "ChIJDUJTGGN1SjoRMAJt68oNAKE",
+  "feature_id": "0x3a4a75631853420d:0xa1000dcaeb6d0230",
+  "kg_mid": "/g/11fn4_0fx4",
+  "lat": 16.2991652,
+  "lng": 80.452164,
+  "dup_of_rank": null,
+  "has_online_booking": false,
+  "booking_url": "",
+  "booking_vendor": "",
+  "service_options": null,
+  "permanently_closed": false,
+  "temporarily_closed": false,
+  "status_text": "Closed · Opens 11 am Fri",
+  "open_now": false,
+  "is_ad": false,
+  "review_snippet": "",
+  "name_raw": "Aditya Skin & Laser Center",
+  "name_clean": "Aditya Skin & Laser Center",
+  "name_key": "adityaskinlasercenter",
+  "name_dropped": [],
+  "name_was_cleaned": false,
+  "category": "Dermatologist",
+  "card_category": "Dermatologist",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "Old Club Rd, opp. हीरो मोटरकॉर्प शोरूम, Kothapeta, Guntur, Andhra Pradesh 522001",
+  "plus_code": "7FX2+MV Guntur, Andhra Pradesh",
+  "phone": "088011 13322",
+  "website": "https://adityaskincare.com/",
+  "website_domain": "adityaskincare.com",
+  "website_type": "own_domain",
+  "insecure_http": false,
+  "has_own_website": true,
+  "website_matches_name": true,
+  "rating": 4.6,
+  "reviews_total": 101,
+  "rating_histogram": {
+    "5": 90,
+    "4": 1,
+    "3": 2,
+    "2": 0,
+    "1": 8
+  },
+  "histogram_sum": 101,
+  "histogram_reconciles": true,
+  "topics": {
+    "hair fall treatment": 7,
+    "co2 laser": 4,
+    "unwanted hair removal": 3,
+    "psoriasis treatment": 4,
+    "chemical peels": 5,
+    "microneedling": 2,
+    "fungal infection treatment": 2,
+    "pigmentation problem": 4,
+    "skin problem treatment": 9,
+    "doctor explanation": 5
+  },
+  "google_profile_gaps": null,
+  "has_photos": true,
+  "hours": {
+    "Thursday": "11 am to 3 pm, 6 to 8:30 pm",
+    "Friday": "11 am to 3 pm, 6 to 8:30 pm",
+    "Saturday": "Open 24 hours",
+    "Sunday": "11 am to 1:30 pm",
+    "Monday": "11 am to 3 pm, 6 to 8:30 pm",
+    "Tuesday": "11 am to 3 pm, 6 to 8:30 pm",
+    "Wednesday": "11 am to 3 pm, 6 to 8:30 pm"
+  },
+  "about": {
+    "Accessibility": [
+      " Wheelchair-accessible entrance",
+      " Wheelchair-accessible toilet"
+    ],
+    "From the business": [
+      " Identifies as women-owned"
+    ],
+    "Service options": [
+      " On-site services"
+    ],
+    "Amenities": [
+      " Gender-neutral toilets",
+      " Restroom"
+    ],
+    "Crowd": [
+      " LGBTQ+ friendly"
+    ],
+    "Planning": [
+      " Appointments recommended"
+    ],
+    "Payments": [
+      " Google Pay"
+    ],
+    "Parking": [
+      " Free street parking",
+      " On-site parking"
+    ],
+    "Map details": [
+      "Transit",
+      "Traffic",
+      "Biking",
+      "Terrain",
+      "Street View",
+      "Wildfires",
+      "Air Quality"
+    ],
+    "Map tools": [
+      "Travel time",
+      "Measure"
+    ],
+    "Map type": [
+      "Default",
+      "Satellite",
+      " Globe view ",
+      " Labels"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWUFUwaHNNRUYwV21GRFRXTnRjSEp4TWpOS1IwRRAB",
+      "author": "Dayasagar Piratla",
+      "rating": 5,
+      "relative_date": "2 weeks ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkTlYxbzFObHBvVG5NM1FrcFZhR1pIYzJ4UGFWRRAB",
+      "author": "RISHITA CHANDAKA",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "I consulted Dr sravani for acne scars ahe did prp with submission and co2 laser one session and other session micronedling within 2 sessions  only my acne and chicken pox scars improved a lot.i can see a better change in akin texture. Aditya skin and laser centre isbest skin clinic in guntur",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Kc2JWRjJPSGQzVkVkMWQzVlRlVlF5YUZkS2NVRRAB",
+      "author": "Enteti Syamala",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "I had melasma all our family members had it so I consulted her with proper sun protection and few creams now I can see good improvement .she explained it can't be treated fully but I am happy with result.best skin clinic in Guntur",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kSE1XUnNWVTVSTWtwT2FFbFdOVGxPWkROc2NGRRAB",
+      "author": "Varshitha Enteti",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "I consulted for acne and pigmentation,I had good results,i recommend dr sravani for any skin concerns",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WRFJXNU1WMGxZWm1vdFRHMUhZa1ZZVkRaamFHYxAB",
+      "author": "Saritha",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "Good treatment",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s0MVYxOTNUMWR4ZWs5TlVsQkdUVkV3YjJWNWQwRRAB",
+      "author": "Vijaya Lakshmi1234",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "I consulted mam for skin rash years back. From. Years any skin problem in our family she is our go to person. Highly knowledgeable and explains everything in easy way so that we can understand. We recommend her",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWS1YyOURObWxhUjBNNVFYcFJVbmM0U3kwMlVsRRAB",
+      "author": "Sk sadiha",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "I have hives problem for last 2 years.3 months back i consult sravani mam on my friends advise.with just single tablet she reduced my problem.now i stopped medicine still i have no symptoms.thankks to aditya skin and laser center.best skin clinic in guntur",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tnNFZqTmhaVmxPVGs5bFFuaGtZVGh0VVhaaFNtYxAB",
+      "author": "B ANIL",
+      "rating": 5,
+      "relative_date": "a month ago",
+      "text": "I consulted Dr for fissures in feet she diagnosed it as palmoplantar psoriasis  and she gave me treatment. Now it's decreased earlier I used to get  so much pain.best skin clinic in  guntur.Dr.Sravani is a very knowledgeable  doctor",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkNGJXUkJSaTFHTkV0MWFuZ3dVV0ZPTUd0ak5FRRAB",
+      "author": "sudheer rapuri",
+      "rating": 5,
+      "relative_date": "2 months ago",
+      "text": "Dr.sravani is very good with treatment.highly knowledgeable.I recommend her as she is the best dermat in guntur",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201UlJFeFpabDk0UjB4UVprMWhWamRWYmtSUGEwRRAB",
+      "author": "Maddula Karthik",
+      "rating": 5,
+      "relative_date": "2 months ago",
+      "text": "I consulted mam for Dandruff. She explained well about care and gave good treatment at affordable price. Results  are too good. Best skin clinic in guntur.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGRk5IZzRZVE53UVc1bGNWVnVhM1pTTFdSaFpsRRAB",
+      "author": "PHANI BATHULA",
+      "rating": 5,
+      "relative_date": "2 months ago",
+      "text": "Best skin clinic in guntur",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsUVlqVnVWbGhGZWpOZlR6VXhWbE5LZW1Gc0xVRRAB",
+      "author": "Abeeda Shaik",
+      "rating": 5,
+      "relative_date": "2 months ago",
+      "text": "I consulted mam for psoriasis .she gave best treatment I could see results within a month.staff are so supportive.best skin clinic in guntur.i highly recommended mam.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ONE9FOVNRbmMzY3pCRFdWcFFYM1ZHY205dlExRRAB",
+      "author": "Appaji",
+      "rating": 5,
+      "relative_date": "2 months ago",
+      "text": "I consulted Dr sravani for psoriasis for my mom.she explained us in detail in telugu in simple language about the problem and care to be taken.it has been 2 months and my moms problem has been resolved by 90 percent which she had been suffering from last 10 years.we are extremely grateful to mam.she is professional and the most patient friendly doctor with very good knowledge .I highly recommend her and Aditya skin and laser center for any skin concern.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xJNE5EVTVTbXN6VERZMWVYVndRbU16V0RkNFZWRRAB",
+      "author": "Nagalakshmi Sayimpu",
+      "rating": 5,
+      "relative_date": "2 months ago",
+      "text": "I underwent laser treatment for unwanted hair on face and hands. I now so feel confident,within five sessions I had great reduction in hair.staff was friendly.best skin hospital in guntur",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkTVVWQlBXRVJqYkVselFVaFBjR3gxUmpkS01tYxAB",
+      "author": "Vardha Kruthika Sayimpu",
+      "rating": 5,
+      "relative_date": "2 months ago",
+      "text": "I consulted dr sravani mam for hair fall she explained me in detail and assured me .gave best treatment and counselled me regarding life style changes to be taken within three months my hair fall stopped and also has seen good growth of my hair.best doctor in guntur",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGV05sVlNjR0ZLTVRKS1FXcHhUV0pVYTNWVlIwRRAB",
+      "author": "Akshaya Lakkakula",
+      "rating": 5,
+      "relative_date": "3 months ago",
+      "text": "I have been suffering from ringworm from last 5 years.consulted many doctors but no use.after consulting dr sravani my ringworm totally cured.gave best treatment and explained all necessary precautions.best skon clinic with best doctor",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pobWRGZEdZWE5DYkVjMWFuSk1RbG95YzNFM1dHYxAB",
+      "author": "SD Rejma",
+      "rating": 5,
+      "relative_date": "3 months ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OWlozbEROamN4UjJVek4zQk1hMUowTWw5dVZHYxAB",
+      "author": "SATYAVATHI SANGAREDDY",
+      "rating": 5,
+      "relative_date": "4 months ago",
+      "text": "Excellent treatment",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poSlkyOXVkbXgzTm5SSlpsRm9iMGRDZDJsQ05rRRAB",
+      "author": "TANGUTURI SURYANARAYANA",
+      "rating": 5,
+      "relative_date": "4 months ago",
+      "text": "Madam treatment is excellent,",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0d09HMVVlblo1VVhGTVpsQXpNMUYxTmtWVWQyYxAB",
+      "author": "Ramyasri Vunnam",
+      "rating": 5,
+      "relative_date": "4 months ago",
+      "text": "I consulted mam for my acne and scars.she gave me good treatment and now I have been doing laser sessions with co2 laser for acne scars .within two sessions I see better improvement of my scars.i recommend dr sravani  for any skin concerns",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SM1NrMHlSemxqYVROUU9GOUNOMHhXWnkxTFdVRRAB",
+      "author": "Pasupuleti Vijay",
+      "rating": 5,
+      "relative_date": "4 months ago",
+      "text": "Best skin clinic in guntur.dr sravani explains well and gives good treatment.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT213MWVYWmpVRTVTU0ZwT1VqTmZhbk42U25aUlVGRRAB",
+      "author": "Santhoshi Lam",
+      "rating": 5,
+      "relative_date": "4 months ago",
+      "text": "I consulted mam for skin problem. She gave good treatment. Best skin doctor in Gunter",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210WFkyTnVWR2xqTUMxV2VtUlZSSFZqWmxGa2VYYxAB",
+      "author": "Mudassir",
+      "rating": 5,
+      "relative_date": "4 months ago",
+      "text": "I took my daughter for laser treatment for unwanted hair to aditya skin and laser centre. Within 4 sessions i see a lot of improvement. Best skin clinic in guntur ar affordable prices",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201ZlYwWnNaWGRsWTFJMFJDMUZiR0YxZDBkaGVYYxAB",
+      "author": "Abdul khuddus Shaik",
+      "rating": 5,
+      "relative_date": "4 months ago",
+      "text": "I consulted aditya skin clinic for fungal infection.i was suffering from last 5 years.afrer consulting mam my problem got cured in a month.dr sravani is so good at treatment.i recommend her",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psNGQycEVSalZOV0VWTWRGcGtWV3MwZUc5c2NVRRAB",
+      "author": "rahamtulla sk",
+      "rating": 5,
+      "relative_date": "4 months ago",
+      "text": "I consulted aditya skin laser centre for my chronic allergy rashes. Dr sravani madam explained in detail about my problem and treated well. She suggested the precautions also. I am very thankful.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT213MGNrSmpSVVoyYnpCS1oyaDJhVEV0VlV4dE5tYxAB",
+      "author": "Shaik Vahida",
+      "rating": 5,
+      "relative_date": "4 months ago",
+      "text": "I consulted dr sravani for rash on my skin 5 years back ,got immediate relief now after 5 years I came again to her with same problem.she gave me good treatment and my problem got cleared.what I like the most about her is the way assures her and explain .best skin clinic in guntur",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxdFIwWnFkSEYwVEV4cFgwcG1RMVZtVFUxa1ExRRAB",
+      "author": "Sasi Dhar",
+      "rating": 5,
+      "relative_date": "5 months ago",
+      "text": "",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aWVdqWmhNMjFIU1hWM1F6WmtVemg2UTNrMVpWRRAB",
+      "author": "Krishna Tej",
+      "rating": 5,
+      "relative_date": "5 months ago",
+      "text": "I am software engineer and as usual I had hairloss and hair thinning issues. I had taken GFC treatment here for 4months and currently 4th month had been completed, i had got my hair growth very well and i am so satisfied.\n\nBetter visit for skin and hair issues to this clinic before its too late. Doctor is explaining well and the treatment is so good. And staff is good as well in explaining the process and reminding for next treatment as well by calling us.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sNVlYTlhVWGRZTFVJM1NuUlVkVjh0VkZWaU1GRRAB",
+      "author": "Shaik Mohammad adil zaid",
+      "rating": 5,
+      "relative_date": "5 months ago",
+      "text": "I visited mam for my unwanted hair growth and took diode laser treatment  for unwanted hair growth.process is so simple and painless.earlier I was so  shy bcoz of hair on my face.now i feel confident.best laser treatment for unwanted hair growth.thanks to dr sravani and team.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kaE0xbDNjMGx1YXpRMWFtd3pPV0ZQZW5ablNuYxAB",
+      "author": "Neelima Yetra",
+      "rating": 5,
+      "relative_date": "5 months ago",
+      "text": "I consulted  sravani mam for acne.   She suggested me chemical peels followed by carbon laser. After all the treatment my acne has improved a lot. My oilness on face decreased and my skin tone has changed. Best dermatology treatment in guntur city. Staff are so supportive.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twRFpVaFBaVWRTVUhOTlpWRnhTWGh2UjBwVk4wRRAB",
+      "author": "Sarathchandra Reddy",
+      "rating": 5,
+      "relative_date": "5 months ago",
+      "text": "i consulted mam for eczema .she explained  the care in detail and assured me.trearment is good .",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201VE9HSk5TVU5sYjFsbmRuWnRTalpRVDJGUE1YYxAB",
+      "author": "Shaik Rasheed",
+      "rating": 5,
+      "relative_date": "5 months ago",
+      "text": "I consulted Dr sravani mam at aditya skin and laser centre fory acne scars. She explained me  in detaiabout treatment . I had treatment with co2 laser and microneedling. After 4 sessions my scars improved almost 80 percent. I feel my skin much better. Thanks to mam and staff as they are so cooperative. I recommend her",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psTFpubzVibmhmUkhKTkxWUnVaMnByU20xb2VHYxAB",
+      "author": "Challappa Anusha Reddy",
+      "rating": 5,
+      "relative_date": "5 months ago",
+      "text": "I consulted Mam for my hair fall and skin problem.she assured me .i  recommend her as best dermatologist",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201algweEthMUozV1ZoU1pteHVNVzVNZFdGNlUzYxAB",
+      "author": "Prasad Gontla",
+      "rating": 5,
+      "relative_date": "5 months ago",
+      "text": "Doctor treated well for hair fall problem, and explains well. Doctor is having good knowledge.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4cldsSkpVREZRVFZkMlpERkhPRWQwWWpBemVFRRAB",
+      "author": "Naga venkata prasad S",
+      "rating": 5,
+      "relative_date": "5 months ago",
+      "text": "I took treatment for pigmentation with chemical peels and laser toning. I can see good improvement in my skin colour now. Doctor explained me well about everything then only proceeded to treatments. Best dermatologist in guntur",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkeVRUSkRWMWg2Vmt0RU9GRXdiVUpZZGtOMk4xRRAB",
+      "author": "pavan kumar",
+      "rating": 5,
+      "relative_date": "5 months ago",
+      "text": "Best skin hospital with well experienced doctor and friendly staff.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2trelJVbHBNMHBqUzBONVdrc3lUazVuTjJsbFZGRRAB",
+      "author": "Mittiprolu Krishna",
+      "rating": 5,
+      "relative_date": "5 months ago",
+      "text": "I visited mam for vitiligo .I was vexed after visiting so many doctors.but here I got best results though it took time.staff is so friendly and doctor is well experienced.i recommend her",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aRmRXVklVblIxY21KSlpYQk9MV0pCUzIxWGNWRRAB",
+      "author": "Shaik Aliya",
+      "rating": 5,
+      "relative_date": "5 months ago",
+      "text": "Best skin doctor. I have been consulting Sravani’s man for acne and results are great.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21vd2EwVjVMVFpSTld0QmJHNTVWR2xsZGkwd1YxRRAB",
+      "author": "Nivrittih ram Valluru",
+      "rating": 5,
+      "relative_date": "5 months ago",
+      "text": "I took treatment for acne with chemical peels all my acne got cleared.best skin specialist in guntur",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oMWRURlFOSFF0Vm5GNU0xSmtVbk56YUc5SlduYxAB",
+      "author": "rupakalyani chirla",
+      "rating": 5,
+      "relative_date": "5 months ago",
+      "text": "Best dermatologist in guntur.i took laser treatment for unwanted hair.within few sessions I noticed drastic change.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxbk1YRXRUa1JyTjFkeVVXczNTVVpTT0ZaNmRtYxAB",
+      "author": "Venkat karuna",
+      "rating": 5,
+      "relative_date": "5 months ago",
+      "text": "Doctor has good knowledge,  excellent treatment",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwNlRWRkJVMkZ2U1dwdU9VcFZUakozZERWblRrRRAB",
+      "author": "Harshitha Potti",
+      "rating": 5,
+      "relative_date": "5 months ago",
+      "text": "Excellent experience at Aditya Skin Clinic. Professional doctor, caring staff, and effective treatment. I felt comfortable throughout the process.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGcGMzSjNNbU5pYm1OU0xUWk9UMFZwVW1kNlpsRRAB",
+      "author": "Lakshmi",
+      "rating": 5,
+      "relative_date": "5 months ago",
+      "text": "I met the doctor when I got pimples and spots on my face. Madam gave me good medicines. I saw a change immediately. The treatment was very good. The staff also manage well.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oWU9GbFhaVUpKT1c5V1NVY3hkRzh0U1ZkNmFtYxAB",
+      "author": "Sivaganesh Dundi",
+      "rating": 5,
+      "relative_date": "5 months ago",
+      "text": "Dr sravani explained me about my  problem and the care I need to take.staff eas so friendly .best skin clinic in guntur",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sV1JuVTVVRlJXZGxaQlVHdDZObGxJUkRCRGRIYxAB",
+      "author": "Vadapalli Charan",
+      "rating": 5,
+      "relative_date": "5 months ago",
+      "text": "I took my mom to sravani mam for treatment for fungal infection.she gave excellent treatment.my mom recovered fully .after consulting many doctors we didn't find cure but here mam treatment was so good .best dermatologist in guntur i recommend her",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWYVpqWk5RVFJvYURWM2EyMVpNVGRDUnprM2FtYxAB",
+      "author": "Kethavath Balajinaik",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "Mam gives the best treatment. Best  dermatologist",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KME1VeFpTbmhQWlRoZmVXNVVkVmhFUmxBMVgxRRAB",
+      "author": "Shaik Khaja",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "I took my mom for psoriasis .mam gave excellent treatment .after many years my mom was free of psoriasis.thank you mam",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sTFJIUmtRMDEyTkhnMFVWRkVRbWRHVkRCSmVuYxAB",
+      "author": "Mounika Katta",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "Best dermatologist in guntur.I highly recommend her",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sU1JrdDZXVmxDY3pkbVNqZG9iRWhHZEVzNFowRRAB",
+      "author": "Thurumella Sudheer",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "I met Madam for pimples. Madam explained it in a way that I could understand and did a chemical peeling treatment. In just three sessions, not only did my pimples go away, but my face also got a very smooth glow. Madam does the best treatment.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGWVJFUnZSbUp1UkhOSk9HcEVaVzF2YjJGR2JuYxAB",
+      "author": "Shaik jabeer",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "Dr M N Sravani mam is absolutely fantastic! They have a great bedside manner, explained everything in detail, and the results were amazing. The clinic is modern and clean too. Couldn't ask for better care! 😊\" …",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pabU0zaGFhVFo2ZVU5MlJYSjFWRnBhTkV4VmRYYxAB",
+      "author": "Lakshmiprasanna Thanniru",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "I consulted mam for hairfall as I had severe hair fall for the last 2 months.she gave me the best treatment and advised few lifestyle changes .\nMam explains well .best doctor",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pVdE1XbEhkemhJVFZSdWFsSkpSbTFsZVVwWVNIYxAB",
+      "author": "Azeez Shaik",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "I consulted mam for unwanted hair on my face she explained me in detail about it and investigated further and along with laser treatment she gave me medication . Now after 4 sessions I can see 50 percent growth reduction .thanks to mam for perfect treatment",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGaWR6QndXSGsxV1U5YWJHSjFjamQzWWtSbFFsRRAB",
+      "author": "Ch Chaitanya",
+      "rating": 1,
+      "relative_date": "7 months ago",
+      "text": "I visited Aditya Skin & Laser Center, Guntur for a simple problem: tan on my nose. Instead of giving proper treatment, the doctor unnecessarily stretched it into a 4-week treatment plan. Even after completing those 4 weeks, there was no improvement at all.\n\nAfter that, the doctor carelessly applied a chemical peel on my face without proper explanation or professionalism. My tan did not reduce even slightly—in fact, two new black spots appeared on my face because of this treatment.\n\nWhen I questioned the doctor about these new black spots, her response was shocking and completely unacceptable. She said, “I don’t know why this happened, I can’t understand.”\nIf a doctor cannot understand the side effects of the treatment they themselves are giving, then why are they treating patients at all?\n\nThis shows a total lack of responsibility, professionalism, and accountability. Patients come with trust, not to be used for experiments. I am extremely disappointed and mentally stressed because of this experience.\n\nI strongly do NOT recommend this clinic to anyone. Please think twice before visiting this place for any skin treatment. Your skin and your trust deserve better.\n\nNote : i visited 2023 deember still i am suffering with that bad treatement so people dont go to this hospital.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aSFRXbDJWRTF4YTJSNmNYZDBVRkp2YkV0UExVRRAB",
+      "author": "Tejaswi Gorantla",
+      "rating": 1,
+      "relative_date": "9 months ago",
+      "text": "The worst staff in the Guntur surroundings. They don’t know how to behave with patients, and the staff is also quite nasty. I visited two too three clinics but never saw such type of attitude. They simply cut off the phone on the face itself when we used to ask anything. I recommend not visiting this hospital. But one thing I don't know about doctor behaviour only problem is with the staff.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJbVc3cVNsNkt2SFVREAE",
+      "author": "Siva",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I visited mam for rashes over my body.she gave me medicine and explained me about the condition.i got relief within a week.i highly recommend Dr sravani .staff are very helpful.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRc0pLVlhBEAE",
+      "author": "Ramalingaya P Ramalingaya P",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I consulted mam for dandruff,she told me care to be taken and gave medicines.i was very much satisfied ,good treatment at low cost.",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNReDZTalRnEAE",
+      "author": "Perikala Pravallika",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I consulted mam for my pigmentation problem ,she explained me in detail about my problem and suggested me few creams.i had seen visible results within a month.thank you mam",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNRbThyNWtBRRAB",
+      "author": "Ravi Teja",
+      "rating": 1,
+      "relative_date": "a year ago",
+      "text": "Dr.Suram subrahmanyam sir refferd us this skin and laser centre .. consulatation fee - 350/- ...for us. Looting started  from the blood test it , then the medicines( sunscreen , soaps,skin cream) and  later they suggested us to go for  laser treatment . Be careful!! 🙏 …",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNnOGFyWk1nEAE",
+      "author": "Durga Prasad",
+      "rating": 1,
+      "relative_date": "a year ago",
+      "text": "Worsts staff and worst behavior with patients no respect, irresponsible staff but doctor is good well explain and good treatment",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURQazVEQ1VREAE",
+      "author": "Shaik shakeera",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I consulted mam for hair fall.she explained me in detail about the care and advice GFC therapy .After 4 sessions my hair growth is much better. I recommend her very much",
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURQNDdhNHp3RRAB",
+      "author": "Anu Anitha",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "The hospital was best treatment for skin diseases and the doctor was very friendly and treating the patient like her family members.and finally Aditya skin care was the best place for skin treatment",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURQNDZhN1FREAE",
+      "author": "Raju Nljs",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Hospital was very good and the staff was very friendly and servicible to the patients.All over hospital was an best opportunity to decrease your skin problems with best treatment",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURQcE5iaW9BRRAB",
+      "author": "Shankar Yadav",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I consulted mam for skin problem which I have been suffering from long time.Mam explained me in simple language and treated well.even on my insistance she gas not done any investigations.she said they are not relevant. I recommend her.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQzX0lpZlpBEAE",
+      "author": "I love india",
+      "rating": 1,
+      "relative_date": "a year ago",
+      "text": "Worest experience.... I used medicines past 4months but \",zero\" output .....waste of time ...plz don't watse your money and time .....",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzLWJXN3BnRRAB",
+      "author": "leela venkata sai charan kothamasu",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Best clinic to vist for resolving your skin issues and best clinic to improve and help with your skin care. Staff is very nice in treating the patients and very much helpful.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYeE1YVFZ3EAE",
+      "author": "arifulla sk",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I took my wife for pigmentation problem. She has given us medicines and advised carbon peel treatment with laser. After carbon peel we had seen good improvement with her skin tone and even pigmentation. We are so satisfied with best treatment at affordable price.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYOFBLc3R3RRAB",
+      "author": "ch aruna",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I had a fantastic experience of hair treatment at Dr.sravani's clinic in Guntur.I had my hair treatment and having good results.one of the best skin and laser center in Guntur.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYMy1Ia0ZREAE",
+      "author": "Polisetty Srikranthi",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "The hospital is very good. The staff is friendly and attentive. I have also received treatment here for my face, and I have seen good results. The doctors are kind and compassionate, taking the time to address my concerns. The hospitality is outstanding, with prompt service and a strong emphasis on patient comfort.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYXzdHNjBRRRAB",
+      "author": "Srinivasreddy Karasani",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I went to more dermatologist hospital in guntur,but this is best hospital in guntur and I also took skin treatments in this hospital it given best results .",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYMzU3aXB3RRAB",
+      "author": "seethamahalakshmi Polisetty",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "This is the best hospital in Guntur. The staff is friendly and attentive, and the reception area is welcoming and efficient. The doctors communicate with kindness and compassion, taking the time to listen to patients' concerns. The overall hospitality is exceptional, with clean facilities, timely service, and a focus on patient comfort.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYMzliQTZBRRAB",
+      "author": "Medisetty Jhansi",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "It is the best hospital in Guntur. The staff is good, and the reception is also very welcoming. The doctors communicate kindly with the patients, and the hospitality is excellent.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYMzRUREVnEAE",
+      "author": "Sravanthi Bhimireddy",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I took my mother for a laser treatment, and we had a great experience with both the doctor (Dr.Sravani) and the results. The receptionist, Shakira, was also very helpful and maintained a pleasant conversation throughout the entire process and during our regular visits. Overall, we received excellent treatment and encountered a professional, caring staff.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYMzdDVVV3EAE",
+      "author": "Ramya kumar Muppalla",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I appreciate Dr. Sravani for her kindness towards patients and for her detailed explanation about the treatment/symptoms , and I would like to thank the staff for their receiving and hospitality!",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYbjRmaDFRRRAB",
+      "author": "Srivalli Sunkari",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Dr. Sravani is one of the best dermatologists in Guntur. Takes good care of the patients. Hospital staff are also very friendly with patients and respond very politely. I recommend this hospital for any skin diseases.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYbjU2dUxnEAE",
+      "author": "Mohiddin Shaik",
+      "rating": 1,
+      "relative_date": "a year ago",
+      "text": "Worst experience ever with this clinic. Worst staff and worst experience with the doctor towards the staff. Not recommended.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4NXV2OVRnEAE",
+      "author": "Kirthi Naga Sarvani Sayimpu",
+      "rating": 5,
+      "relative_date": "Edited 2 years ago",
+      "text": "Highly recommended and friendly!",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM5eEtqLXRBRRAB",
+      "author": "pradeep chand chadalavada",
+      "rating": 1,
+      "relative_date": "Edited 2 years ago",
+      "text": "One of the worst dermatologists in guntur. She gives only costly medicines not treatments. Your face will definitely damaged by her if you go to this doctor so please don't go this hospital",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMydnNTbVJBEAE",
+      "author": "shaik razia",
+      "rating": 5,
+      "relative_date": "Edited 2 years ago",
+      "text": "Doctor had a lot of experience, as the way she analyzed my problem and gave the treatment  is very good, I got to know the result in very short time, thanks to the doctor",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNUbGFYVUtBEAE",
+      "author": "Jagan Harshu",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "You will recover in no time(fast) with low cost",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNWenNxWHpBRRAB",
+      "author": "Chetan P",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Good",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNaOVktNmNREAE",
+      "author": "Narendra Sharma",
+      "rating": 5,
+      "relative_date": "2 years ago",
+      "text": "Extremly satisfied",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR4bHBhd2pnRRAB",
+      "author": "praveena n",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "A  really good clinic and doctor.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNSeExiU2xRRRAB",
+      "author": "Guru Dathu",
+      "rating": 5,
+      "relative_date": "3 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMyN3JfaUVnEAE",
+      "author": "Jhansi Medisetty",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNXbzRqbzNnRRAB",
+      "author": "Venkateswarlu Thota",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Best dermatologist in guntur. Explains our problem very clearly and what to be done in simple language. I liked her approach very much.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNXdzRMZWZnEAE",
+      "author": "pavani pavani",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Excellent skin specialist",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURHOE43S1dREAE",
+      "author": "raghavendra venkata",
+      "rating": 3,
+      "relative_date": "4 years ago",
+      "text": "Op -300\nAfter during tests only, mam will come to conclusion. Then I felt she give costly medicines. I suggest if it's a small skin disease better opt for another doctor.\nMultiple visits needed.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNHa0tMb0FREAE",
+      "author": "radha lakshmi",
+      "rating": 3,
+      "relative_date": "4 years ago",
+      "text": "Very good dermatologist",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ2ZzRYY1hnEAE",
+      "author": "budagam krishnarao",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Well professional dermatologist",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ2dmVLV1pnEAE",
+      "author": "Jyoti Budagam",
+      "rating": 5,
+      "relative_date": "4 years ago",
+      "text": "Highly professional,compassionate,pt friendly",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURxbl9tZ05REAE",
+      "author": "Mohammed Javeed",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNxOTd1TTR3RRAB",
+      "author": "Gopichand Samineni",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNLcG9MaWRBEAE",
+      "author": "R.K Varma",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "Best skin specialist",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR5X3VEZi1nRRAB",
+      "author": "Garikapati Bhavani",
+      "rating": 4,
+      "relative_date": "5 years ago",
+      "text": "She is an excellent skin specialist. She explained me in detail about my problem in simple language.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR5MHZyRXVRRRAB",
+      "author": "loknadh kondaveeti",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "The Best treatment for Urticaria.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR5b003aEZnEAE",
+      "author": "Ramakrishna Rao Ch L V",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "She is an excellent skin specialist. Very patient friendly and cures the disease at the earliest. I strongly recommend her.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN5Ml9XNzBnRRAB",
+      "author": "Madhu Sravanthi",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "Dr.sravani is a good dermatologist.She explained me in detail  about my problem in simple language.Her treatment gave me very good results.",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURpMGJpa3NBRRAB",
+      "author": "Ramesh Tadiboyina",
+      "rating": 5,
+      "relative_date": "5 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURNNWR2Tm53RRAB",
+      "author": "Sridhar Yelisetty",
+      "rating": 1,
+      "relative_date": "6 years ago",
+      "text": "If  you  visit  once   you  have to visit  twice a month  for no reason  .every time you have to pay consultant fees  and more  .finally  patients  who  searching for cosmotic problems  100%  they will  lose their money if they visit this hospital",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMwdGZTTmFBEAE",
+      "author": "Anwar Sk",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "",
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMwdGJTZWVREAE",
+      "author": "mansur shaik",
+      "rating": 5,
+      "relative_date": "6 years ago",
+      "text": "",
+      "has_owner_reply": false
+    }
+  ],
+  "reviews_error": "",
+  "sorted_newest": true,
+  "stopped_at_known_review": false,
+  "reviews_captured": 101,
+  "owner_replies": 50,
+  "reviews_coverage": 1.0,
+  "date_anchor": "2026-08-20T23:13:33",
+  "extract_seconds": 37.2,
+  "missing_fields": [],
+  "page_rendered": true,
+  "error": ""
+}

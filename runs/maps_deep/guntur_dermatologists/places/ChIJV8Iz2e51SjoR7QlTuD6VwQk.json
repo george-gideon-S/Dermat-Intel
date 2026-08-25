@@ -1,0 +1,352 @@
+{
+  "place_url": "https://www.google.com/maps/place/SITARA+SKIN+AND+LASER/data=!4m7!3m6!1s0x3a4a75eed933c257:0x9c1953eb85309ed!8m2!3d16.2992743!4d80.4513212!16s%2Fg%2F11xfrqr3lt!19sChIJV8Iz2e51SjoR7QlTuD6VwQk?authuser=0&hl=en&rclk=1",
+  "captured_at": "2026-08-20T18:23:53",
+  "feature_id": "0x3a4a75eed933c257:0x9c1953eb85309ed",
+  "place_id": "ChIJV8Iz2e51SjoR7QlTuD6VwQk",
+  "kg_mid": "/g/11xfrqr3lt",
+  "lat": 16.2992743,
+  "lng": 80.4513212,
+  "name_raw": "SITARA SKIN AND LASER",
+  "name_clean": "SITARA SKIN AND LASER",
+  "name_key": "sitaraskinandlaser",
+  "name_dropped": [],
+  "name_was_cleaned": false,
+  "category": "Dermatologist",
+  "listing_category": "",
+  "category_mismatch": false,
+  "relevance": "relevant",
+  "basis": "category",
+  "address": "Old Club Rd, Kothapeta, Guntur, Andhra Pradesh 522001",
+  "plus_code": "7FX2+PG Guntur, Andhra Pradesh",
+  "phone": "087902 53388",
+  "website": "",
+  "website_domain": "",
+  "website_type": "none",
+  "has_own_website": false,
+  "insecure_http": false,
+  "website_matches_name": null,
+  "rating": 5.0,
+  "reviews_total": 28,
+  "rating_histogram": {
+    "5": 28,
+    "4": 0,
+    "3": 0,
+    "2": 0,
+    "1": 0
+  },
+  "histogram_sum": 28,
+  "histogram_reconciles": true,
+  "topics": {
+    "pigmentation treatment": 2,
+    "care": 2,
+    "doctor": 3,
+    "pigmentation": 2,
+    "treatment": 5
+  },
+  "google_profile_gaps": [
+    "Add website"
+  ],
+  "has_photos": true,
+  "hours": {
+    "Thursday": "10 am to 7 pm",
+    "Friday": "10 am to 7 pm",
+    "Saturday": "10 am to 7 pm",
+    "Sunday": "Closed",
+    "Monday": "10 am to 7 pm",
+    "Tuesday": "10 am to 7 pm",
+    "Wednesday": "10 am to 7 pm"
+  },
+  "about": {
+    "Amenities": [
+      " Restroom"
+    ],
+    "Map details": [
+      "Transit",
+      "Traffic",
+      "Biking",
+      "Terrain",
+      "Street View",
+      "Wildfires",
+      "Air Quality"
+    ],
+    "Map tools": [
+      "Travel time",
+      "Measure"
+    ],
+    "Map type": [
+      "Default",
+      "Satellite",
+      " Globe view ",
+      " Labels"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205dGQxcDNPV3RmVjBJd0xUTjVXV0ZHVW1sUWRrRRAB",
+      "author": "Naga raju Kurra",
+      "rating": 5,
+      "relative_date": "4 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwblpXczBMV1p0WlRsUk1UVXlZMnd0VFY5RmVGRRAB",
+      "author": "Praveen Kancharla",
+      "rating": 5,
+      "relative_date": "4 months ago",
+      "text": "Trusted clinic with good results,",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wU01ucHJkM0ZsV1hsamRFaHVjMGxpWmxGWFluYxAB",
+      "author": "Rajakumari Garapati",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "Good checkup",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ONGNIbHlkRmx4VlVGeE9WaExOMHRHU0d4SE5tYxAB",
+      "author": "Shaik Riyaz",
+      "rating": 5,
+      "relative_date": "6 months ago",
+      "text": "Listening with patience and good treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGRU5VRnRSME5UTFdGUWVqRmthRWh2VUZwRmJsRRAB",
+      "author": "Nagendra Battina",
+      "rating": 5,
+      "relative_date": "7 months ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psTmJqWjBURmxoVTB0VVdURnJiSEpHTVUxcGIyYxAB",
+      "author": "Chikati Venkatesh",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "Good treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCS1RsaHRlbEpXVWtkS01VRlZlRGRhVTNoRFZrRRAB",
+      "author": "Noor basha baji",
+      "rating": 5,
+      "relative_date": "8 months ago",
+      "text": "Nyc treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1cFMxbHJUbTA1WDA0NVNFcHlTM28zWm1aWFFYYxAB",
+      "author": "LeveLZon Technologies",
+      "rating": 5,
+      "relative_date": "9 months ago",
+      "text": "Doctor  is explaning about disease very knowledgeable and good treatment especially low prices drugs",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205eFpqbGpMVloyVTFwSk0wMTRTa05mTlY5SmVIYxAB",
+      "author": "CHAKKA RAVI KISHORE",
+      "rating": 5,
+      "relative_date": "11 months ago",
+      "text": "Excellent so care to treat",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21keGFFSjRUSGhyWWpWNVJrcFNhbTVpUm1zeFpGRRAB",
+      "author": "Mehera Godavarthi",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Good skin hospital the doctor explains the treatment clearly and gives best care .The hospital is clean and well maintained .. I highly recommend who is looking for  quality skin treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGdWVIQkJUbGRoTVRoTGVGTlJPVXBwWmxWQ00xRRAB",
+      "author": "Surya Narayana Murthy",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Good caretaking Doctor,",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOSVJGRTVWbkJDTWpFMU9GZFhUekF3WDBkdVFWRRAB",
+      "author": "navya kasukurthi",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOalRVNHRkblptYTBaUVV6VkJWRlZxZVRoS1ZXYxAB",
+      "author": "Ramesh Arumilli",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wT1F6Vm1UbmhNYzJkck1VOTFPWFJoY1d3d1NsRRAB",
+      "author": "Satya Vani",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGcVRqSlFZVzB5VVZnNFVtUk9XRGRFTmtwaWFtYxAB",
+      "author": "Kiran Vangara",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Best Dermatologist in Guntur with Advanced Treatment and Well experienced",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoTlEwNHpjR1JEVTFnd2NFSkRWemhKVGtsR1VsRRAB",
+      "author": "Rajeev Kumar",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "I have taken treatment of pigmentation and I have got good results from this doctor Dr.Naga Padma, madam have good experience",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1TGRsbExZVGs0YlZkUWNXczJUWGw2YVhwalgxRRAB",
+      "author": "Roshan Shaik",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Excellent treatment, electrolysis for unwanted hair treatment is top notch.\nVery affordable for all",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201MlFsbGpTVlU1YWtvM1JtTjRZa3ByV2s5WVZWRRAB",
+      "author": "Kethupalli Pravallika",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Very good Doctor  . Mam listens to  our problems and complaints so patiently treats with care. I saw results within 10days(suffered with hyperpigmentation and severe acne ). Medicine prizes are also  reasonable.very friendenly staff .",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Sb05tOVdYMjVJV1dKdWNGUlVjMGRpZEZBeWJuYxAB",
+      "author": "nalluri srinivasarao",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "After visiting few other places finally found the genuine doctor who treated my problem",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tFMlJVSmlaVU0xYmpkUlFXOHlYMDV1UjJSbFYyYxAB",
+      "author": "naidu venkat",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xd2JXNDJSa0pyY0dsMlNEZHRObFJXWm05TVNXYxAB",
+      "author": "Mallela Rambabu",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Best treatment friendly doctor who treats well",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GS2FuTnhZVEpYVFd4T01uY3phRGcyWmtKb1pHYxAB",
+      "author": "Vijay Rayala",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Good reception and caring",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21RNVVWazNkWEpwYm1NNFIwRlBRVU5QTjNKd2MyYxAB",
+      "author": "Prakash Kavila",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Good doctor",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wUWMwVmtPRmQyZUdSSk4wTmxOMnRVTXpseGMyYxAB",
+      "author": "Yalamanchili Nagu",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psUVNXaHlkbk0zZG1aalJHSndOR1ZpYVVKemVuYxAB",
+      "author": "Shaik Rizwan",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VQYkstY0tJZzQzUFJBEAE",
+      "author": "Reshma Shaik",
+      "rating": 5,
+      "relative_date": "Edited a year ago",
+      "text": "",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VOT0R2cmFuem9uUjh3RRAB",
+      "author": "Harish Kolluru",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Nice treatment",
+      "maybe_truncated": false,
+      "has_owner_reply": true
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJR3hnOUcxbHVQdkdREAE",
+      "author": "Hari Mendu",
+      "rating": 5,
+      "relative_date": "a year ago",
+      "text": "Well receiving, good ambiance and waiting place. Nice doctor.",
+      "maybe_truncated": false,
+      "has_owner_reply": false
+    }
+  ],
+  "reviews_error": "",
+  "sorted_newest": true,
+  "stopped_at_known_review": false,
+  "reviews_captured": 28,
+  "owner_replies": 17,
+  "truncated_reviews": 0,
+  "reviews_coverage": 1.0,
+  "date_anchor": "2026-08-20T18:23:53",
+  "extract_seconds": 41.5,
+  "missing_fields": [
+    "website"
+  ],
+  "listing_position": 20,
+  "source_query": "dermatologists in Guntur",
+  "listing_name": "SITARA SKIN AND LASER"
+}

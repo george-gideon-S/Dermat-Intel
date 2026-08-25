@@ -1,0 +1,288 @@
+{
+  "id": "dermatology",
+  "name": "Dermatology",
+  "specialist_noun": "dermatologist",
+  "specialist_synonyms": [
+    "skin doctor",
+    "skin specialist",
+    "cosmetologist",
+    "trichologist"
+  ],
+  "facility_nouns": [
+    "skin clinic",
+    "skin care clinic",
+    "dermatology clinic"
+  ],
+  "specialty_tokens": [
+    "skin",
+    "dermatologist",
+    "dermatology",
+    "cosmetologist",
+    "cosmetic",
+    "laser",
+    "hair",
+    "trichologist",
+    "aesthetic",
+    "aesthetics"
+  ],
+  "conditions": [
+    {
+      "id": "acne",
+      "phrasings": [
+        "acne treatment",
+        "pimples treatment",
+        "acne scars treatment",
+        "acne doctor"
+      ]
+    },
+    {
+      "id": "hair_fall",
+      "phrasings": [
+        "hair fall treatment",
+        "hair loss treatment",
+        "baldness treatment",
+        "hair fall doctor"
+      ]
+    },
+    {
+      "id": "dandruff",
+      "phrasings": [
+        "dandruff treatment",
+        "scalp treatment",
+        "itchy scalp doctor"
+      ]
+    },
+    {
+      "id": "psoriasis",
+      "phrasings": [
+        "psoriasis treatment",
+        "psoriasis specialist",
+        "psoriasis doctor"
+      ]
+    },
+    {
+      "id": "eczema",
+      "phrasings": [
+        "eczema treatment",
+        "atopic dermatitis treatment",
+        "eczema specialist"
+      ]
+    },
+    {
+      "id": "fungal",
+      "phrasings": [
+        "fungal infection treatment",
+        "ringworm treatment",
+        "skin fungus doctor"
+      ]
+    },
+    {
+      "id": "allergy",
+      "phrasings": [
+        "skin allergy treatment",
+        "skin rash doctor",
+        "urticaria hives treatment"
+      ]
+    },
+    {
+      "id": "pigmentation",
+      "phrasings": [
+        "pigmentation treatment",
+        "dark spots treatment",
+        "melasma treatment"
+      ]
+    },
+    {
+      "id": "vitiligo",
+      "phrasings": [
+        "vitiligo treatment",
+        "white patches treatment",
+        "leucoderma treatment"
+      ]
+    },
+    {
+      "id": "warts_moles",
+      "phrasings": [
+        "wart removal",
+        "mole removal",
+        "skin tag removal"
+      ]
+    },
+    {
+      "id": "scars",
+      "phrasings": [
+        "scar removal treatment",
+        "keloid treatment",
+        "stretch marks treatment"
+      ]
+    },
+    {
+      "id": "hyperhidrosis",
+      "phrasings": [
+        "excessive sweating treatment",
+        "hyperhidrosis treatment"
+      ]
+    },
+    {
+      "id": "nail",
+      "phrasings": [
+        "nail infection treatment",
+        "nail fungus doctor"
+      ]
+    },
+    {
+      "id": "std_skin",
+      "phrasings": [
+        "skin infection doctor",
+        "boils treatment"
+      ]
+    }
+  ],
+  "treatments": [
+    {
+      "id": "laser_hair_removal",
+      "phrasings": [
+        "laser hair removal",
+        "laser hair removal cost"
+      ]
+    },
+    {
+      "id": "hair_transplant",
+      "phrasings": [
+        "hair transplant",
+        "hair transplant cost"
+      ]
+    },
+    {
+      "id": "prp",
+      "phrasings": [
+        "prp treatment for hair",
+        "prp hair treatment cost"
+      ]
+    },
+    {
+      "id": "chemical_peel",
+      "phrasings": [
+        "chemical peel",
+        "chemical peel cost"
+      ]
+    },
+    {
+      "id": "botox_fillers",
+      "phrasings": [
+        "botox treatment",
+        "dermal fillers"
+      ]
+    },
+    {
+      "id": "skin_whitening",
+      "phrasings": [
+        "skin whitening treatment",
+        "skin brightening treatment"
+      ]
+    },
+    {
+      "id": "microdermabrasion",
+      "phrasings": [
+        "microdermabrasion",
+        "skin polishing treatment"
+      ]
+    }
+  ],
+  "phrasing_templates": {
+    "Condition-Based": [
+      "{phrasing} in {city}",
+      "{phrasing} {city}",
+      "best {phrasing} in {city}"
+    ],
+    "Discovery": [
+      "{specialist} in {city}",
+      "best {specialist} in {city}",
+      "top {specialist} in {city}",
+      "{facility} in {city}",
+      "best rated {specialist} in {city}",
+      "{specialist} reviews {city}"
+    ],
+    "Pricing": [
+      "{phrasing} cost in {city}",
+      "{specialist} consultation fees {city}"
+    ],
+    "Appointment & Booking": [
+      "book appointment {specialist} {city}",
+      "{specialist} online appointment {city}"
+    ]
+  },
+  "platform_domains": {
+    "practo": "practo",
+    "justdial": "justdial",
+    "lybrate": "lybrate",
+    "skedoc": "skedoc",
+    "sulekha": "sulekha",
+    "drlogy": "drlogy",
+    "apollo247": "apollo247",
+    "bajajfinservhealth": "bajajfinservhealth",
+    "traya": "traya",
+    "instagram": "instagram",
+    "facebook": "facebook",
+    "youtube": "youtube"
+  },
+  "subject_type_rules": {
+    "hospital_category_strings": [
+      "Hospital",
+      "General hospital",
+      "Private hospital",
+      "Multispecialty hospital",
+      "Multi-speciality hospital",
+      "Super speciality hospital",
+      "Medical Center",
+      "Children's hospital"
+    ],
+    "hospital_name_tokens": [
+      "hospital",
+      "hospitals",
+      "multispeciality",
+      "multi-speciality",
+      "super speciality",
+      "superspeciality",
+      "medical college",
+      "institute"
+    ],
+    "clinic_category_strings": [
+      "Skin care clinic",
+      "Dermatologist",
+      "Clinic",
+      "Medical clinic",
+      "Hair removal service",
+      "Cosmetic surgeon"
+    ],
+    "clinic_name_tokens": [
+      "clinic",
+      "clinics",
+      "centre",
+      "center",
+      "skin care",
+      "skincare",
+      "cosmetic",
+      "cosmetology",
+      "dermatology",
+      "aesthetic",
+      "aesthetics",
+      "laser",
+      "trichology",
+      "polyclinic"
+    ]
+  },
+  "default_query_threshold": 100,
+  "threshold_rationale": "Measured 2026-08-18 against the June Guntur snapshot, two independent ways. (1) DISCOVERY SATURATION: replaying the 50-query Maps scrape, all 34 clinics were found by query 24; queries 25-50 discovered zero new clinics. Re-run across 40 random query orderings, even the worst order reached 32/34 by query 30 — so discovery alone needs only ~30 queries and is NOT the binding constraint. (2) PHRASING BREADTH: Google autocomplete offers 108 distinct city-qualified phrasings across 28 seeds (mean 4.4 per seed). The score is a visibility MEASUREMENT across the query set, not a discovery exercise: vulnerability's demand term counts how many of N searches a clinic appears in, so resolution depends on phrasing coverage long after every clinic has been found. 14 conditions + 7 treatments asked ~4 ways each gives a floor of ~88; +15% headroom rounds to 100. Also note autocomplete coverage is uneven — acne, eczema, scar and keloid queries return ZERO city-qualified suggestions for Guntur, so those phrasings must come from templates rather than discovery. Caveat: the saturation half is market-size dependent (Guntur has 34 clinics); a larger metro pushes the discovery curve out, while the phrasing floor stays roughly constant.",
+  "threshold_evidence": {
+    "measured_on": "2026-08-18",
+    "source_snapshot": "guntur-ap_dermatology_both_2026-06-28",
+    "clinics_total": 34,
+    "queries_to_100pct_discovery": 24,
+    "new_clinics_per_query_at_50": 0.0,
+    "worst_random_order_at_30_queries": 32,
+    "distinct_city_qualified_phrasings": 108,
+    "mean_suggestions_per_seed": 4.39,
+    "phrasing_floor": 88
+  }
+}
