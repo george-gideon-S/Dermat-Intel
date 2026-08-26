@@ -1,0 +1,678 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,100..900&family=Hanken+Grotesk:wght@200..700&family=Martian+Mono:wght@300..600&display=swap" rel="stylesheet">
+<style>
+  html, body { margin:0; padding:0; background:#05090A; }
+  * { box-sizing:border-box; }
+  ::selection { background: rgba(232,148,74,0.30); }
+  a { color:#E8944A; text-decoration:none; border-bottom:1px solid rgba(232,148,74,0.34); }
+  a:hover { color:#F2B075; border-bottom-color:rgba(242,176,117,0.7); }
+  @keyframes glazePulse { 0%,100% { opacity:0.55; transform:scale(0.94) } 50% { opacity:1; transform:scale(1.06) } }
+</style>
+</helmet>
+
+<div style="background:#05090A; min-height:100vh; font-family:'Hanken Grotesk',system-ui,sans-serif; color:#E6EDEA; padding:64px 72px 120px; max-width:1600px; margin:0 auto; -webkit-font-smoothing:antialiased">
+
+  <div style="display:flex; align-items:flex-start; justify-content:space-between; gap:48px; padding-bottom:30px; border-bottom:1px solid rgba(226,240,235,0.11)">
+    <div style="max-width:840px">
+      <div style="display:flex; align-items:center; gap:12px; margin-bottom:22px">
+        <span style="font-family:'Martian Mono',monospace; font-size:9px; font-weight:500; letter-spacing:0.18em; text-transform:uppercase; color:#05090A; background:#E8944A; padding:5px 9px 4px; border-radius:3px">Stage 02</span>
+        <span style="font-family:'Martian Mono',monospace; font-size:9px; letter-spacing:0.18em; text-transform:uppercase; color:rgba(230,237,234,0.40)">Direction · then self-critique · gate ahead</span>
+      </div>
+      <h1 style="margin:0 0 18px; font-family:'Archivo',sans-serif; font-variation-settings:'wdth' 118; font-size:56px; line-height:1.0; font-weight:200; letter-spacing:-0.026em; text-wrap:balance">A market where nobody is bad<br>and almost nobody is visible</h1>
+      <p style="margin:0; font-size:17px; line-height:1.55; font-weight:300; color:rgba(230,237,234,0.66); max-width:740px; text-wrap:pretty">Six decisions, two wireframes, one risk. Everything here is downstream of a single fact I found in the real snapshot and that your brief describes slightly wrong — so that correction comes first.</p>
+    </div>
+    <div style="flex-shrink:0; width:220px; border:1px solid rgba(226,240,235,0.11); border-radius:14px; padding:16px 18px; background:rgba(226,240,235,0.028)">
+      <div style="font-family:'Martian Mono',monospace; font-size:8.5px; letter-spacing:0.16em; text-transform:uppercase; color:rgba(230,237,234,0.34); margin-bottom:12px">Decided here</div>
+      <div style="display:flex; flex-direction:column; gap:7px">
+        <div style="font-size:13px; font-weight:300; color:rgba(230,237,234,0.78)">Colour, named for this product</div>
+        <div style="font-size:13px; font-weight:300; color:rgba(230,237,234,0.78)">Three type roles, all OFL</div>
+        <div style="font-size:13px; font-weight:300; color:rgba(230,237,234,0.78)">The 92-glaze rule</div>
+        <div style="font-size:13px; font-weight:300; color:rgba(230,237,234,0.78)">Two wireframes, one chosen</div>
+        <div style="font-size:13px; font-weight:300; color:rgba(230,237,234,0.78)">The widget→list translation</div>
+        <div style="font-size:13px; font-weight:300; color:rgba(230,237,234,0.78)">The signature, and the risk</div>
+      </div>
+    </div>
+  </div>
+
+  <section style="padding:58px 0 0">
+    <div style="display:flex; align-items:baseline; gap:16px; margin-bottom:8px">
+      <span style="font-family:'Martian Mono',monospace; font-size:10px; font-weight:500; letter-spacing:0.16em; color:#E8944A">01</span>
+      <h2 style="margin:0; font-size:13px; font-family:'Martian Mono',monospace; font-weight:400; letter-spacing:0.16em; text-transform:uppercase; color:rgba(230,237,234,0.88)">What the data actually says</h2>
+    </div>
+    <p style="margin:0 0 30px; font-size:14px; line-height:1.55; font-weight:300; color:rgba(230,237,234,0.52); max-width:840px">Your §3 says "almost every clinic sits between 4.6 and 4.9" and calls the scale flat. Fourteen of the 48 rated clinics sit <i>below</i> 4.6 — the bottom has real spread. The compression is all at the top, and it is worse than flat: it is <b style="font-weight:500; color:#E6EDEA">inverted</b>.</p>
+
+    <div style="border:1px solid rgba(232,148,74,0.30); border-radius:18px; padding:34px 38px 32px; background:linear-gradient(180deg, rgba(232,148,74,0.055) 0%, rgba(232,148,74,0.012) 100%)">
+      <div style="display:grid; grid-template-columns:1fr 1fr; gap:44px; align-items:center">
+        <div>
+          <div style="font-family:'Martian Mono',monospace; font-size:8.5px; letter-spacing:0.16em; text-transform:uppercase; color:#E8944A; margin-bottom:20px">Two real rows from the snapshot</div>
+          <div style="display:flex; flex-direction:column; gap:16px">
+            <div style="display:flex; align-items:center; gap:20px">
+              <div style="font-family:'Archivo',sans-serif; font-variation-settings:'wdth' 118; font-size:46px; font-weight:200; letter-spacing:-0.03em; line-height:1; color:#E6EDEA; font-variant-numeric:tabular-nums; min-width:88px">5.0</div>
+              <div>
+                <div style="font-size:15px; font-weight:400; color:#E6EDEA; line-height:1.35">Dr Vijay's Skin and Dental Clinic</div>
+                <div style="font-family:'Martian Mono',monospace; font-size:11px; color:#E8944A; margin-top:5px">1 review</div>
+              </div>
+            </div>
+            <div style="display:flex; align-items:center; gap:20px">
+              <div style="font-family:'Archivo',sans-serif; font-variation-settings:'wdth' 118; font-size:46px; font-weight:200; letter-spacing:-0.03em; line-height:1; color:rgba(230,237,234,0.55); font-variant-numeric:tabular-nums; min-width:88px">4.6</div>
+              <div>
+                <div style="font-size:15px; font-weight:400; color:rgba(230,237,234,0.75); line-height:1.35">Chandana Skin Clinic</div>
+                <div style="font-family:'Martian Mono',monospace; font-size:11px; color:rgba(230,237,234,0.5); margin-top:5px">385 reviews</div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div>
+          <p style="margin:0 0 16px; font-family:'Archivo',sans-serif; font-variation-settings:'wdth' 112; font-size:25px; line-height:1.3; font-weight:300; letter-spacing:-0.014em; color:#E6EDEA; text-wrap:pretty">On a five-star scale the clinic with one review outranks the clinic with three hundred and eighty-five.</p>
+          <p style="margin:0; font-size:15px; line-height:1.62; font-weight:300; color:rgba(230,237,234,0.68); text-wrap:pretty">Twelve of the 48 sit at exactly 5.0, and their median review count is 82 against a market median of 73. So a five is frequently the <i>least</i> informative number on the page. Rendering ratings on a five-star scale does not merely lose resolution — it actively ranks the market backwards.</p>
+        </div>
+      </div>
+      <div style="margin-top:30px; padding-top:26px; border-top:1px solid rgba(232,148,74,0.22)">
+        <div style="font-family:'Martian Mono',monospace; font-size:8.5px; letter-spacing:0.16em; text-transform:uppercase; color:rgba(230,237,234,0.38); margin-bottom:16px">All 48 rated relevant clinics, plotted on the scale the product would inherit</div>
+        <div style="position:relative; height:52px; border-left:1px solid rgba(226,240,235,0.20); border-right:1px solid rgba(226,240,235,0.20)">
+          <sc-for list="{{ fiveScale }}" as="r" hint-placeholder-count="48">
+            <div style="position:absolute; bottom:16px; width:2px; height:26px; background:rgba(230,237,234,0.52); left:{{ r.left }}"></div>
+          </sc-for>
+          <div style="position:absolute; bottom:0; left:0; font-family:'Martian Mono',monospace; font-size:9.5px; color:rgba(230,237,234,0.34)">0.0</div>
+          <div style="position:absolute; bottom:0; right:0; font-family:'Martian Mono',monospace; font-size:9.5px; color:rgba(230,237,234,0.34)">5.0</div>
+        </div>
+        <p style="margin:12px 0 0; font-size:13.5px; line-height:1.5; font-weight:300; color:rgba(230,237,234,0.56)">Every clinic in the market lands in the right-hand 30% of the axis. Seventy per cent of the ruler measures a range no clinic occupies.</p>
+      </div>
+    </div>
+  </section>
+
+  <section style="padding:58px 0 0">
+    <div style="display:flex; align-items:baseline; gap:16px; margin-bottom:8px">
+      <span style="font-family:'Martian Mono',monospace; font-size:10px; font-weight:500; letter-spacing:0.16em; color:#E8944A">02</span>
+      <h2 style="margin:0; font-size:13px; font-family:'Martian Mono',monospace; font-weight:400; letter-spacing:0.16em; text-transform:uppercase; color:rgba(230,237,234,0.88)">The one real risk · the vernier</h2>
+    </div>
+    <p style="margin:0 0 28px; font-size:14px; line-height:1.55; font-weight:300; color:rgba(230,237,234,0.52); max-width:840px">A truncated axis is a data-visualisation sin. I am going to commit one deliberately, everywhere, as the product's core reading device — and I think the sin is on the other side.</p>
+
+    <div style="display:grid; grid-template-columns:1.05fr 1fr; gap:26px; align-items:start">
+      <div style="border:1px solid rgba(226,240,235,0.11); border-radius:18px; padding:30px 34px 34px; background:rgba(226,240,235,0.026)">
+        <div style="font-family:'Martian Mono',monospace; font-size:8.5px; letter-spacing:0.16em; text-transform:uppercase; color:rgba(230,237,234,0.34); margin-bottom:8px">The instrument</div>
+        <div style="font-family:'Archivo',sans-serif; font-variation-settings:'wdth' 112; font-size:23px; font-weight:300; letter-spacing:-0.012em; line-height:1.3; color:#E6EDEA; margin-bottom:22px">A vernier: the axis is cut to the market's own range, and every tick carries its own weight of evidence.</div>
+
+        <div style="border-top:1px solid rgba(226,240,235,0.09); padding-top:24px">
+          <div style="display:flex; align-items:baseline; justify-content:space-between; margin-bottom:20px">
+            <span style="font-family:'Martian Mono',monospace; font-size:9.5px; letter-spacing:0.13em; text-transform:uppercase; color:rgba(230,237,234,0.42)">Window 3.5 → 5.0</span>
+            <span style="font-family:'Martian Mono',monospace; font-size:9.5px; letter-spacing:0.13em; text-transform:uppercase; color:#E8944A">tick weight = reviews</span>
+          </div>
+          <div style="display:flex; flex-direction:column; gap:0">
+            <sc-for list="{{ vernier }}" as="v" hint-placeholder-count="10">
+              <div style="display:grid; grid-template-columns:44px 1fr 62px; gap:14px; align-items:center; padding:9px 0; border-bottom:1px solid rgba(226,240,235,0.06)">
+                <span style="font-family:'Martian Mono',monospace; font-size:12.5px; font-weight:500; color:#E6EDEA; font-variant-numeric:tabular-nums">{{ v.rating }}</span>
+                <div style="position:relative; height:20px">
+                  <div style="position:absolute; top:9px; left:0; right:0; height:1px; background:rgba(226,240,235,0.10)"></div>
+                  <div style="position:absolute; top:0; bottom:0; width:3px; border-radius:2px; background:#E8944A; left:{{ v.left }}; opacity:{{ v.op }}; transform:scaleY({{ v.h }})"></div>
+                </div>
+                <span style="font-family:'Martian Mono',monospace; font-size:10.5px; color:rgba(230,237,234,0.46); text-align:right; font-variant-numeric:tabular-nums">{{ v.reviews }}</span>
+              </div>
+            </sc-for>
+          </div>
+          <div style="display:flex; justify-content:space-between; margin-top:10px">
+            <span style="font-family:'Martian Mono',monospace; font-size:9px; color:rgba(230,237,234,0.30)">3.5</span>
+            <span style="font-family:'Martian Mono',monospace; font-size:9px; color:rgba(230,237,234,0.30)">5.0</span>
+          </div>
+        </div>
+        <p style="margin:22px 0 0; font-size:14px; line-height:1.6; font-weight:300; color:rgba(230,237,234,0.68); text-wrap:pretty">Same ten clinics. The 5.0 on one review is now a hairline at the top of the scale; the 4.6 on 385 is a solid bar just left of it. The eye resolves <i>high but unsupported</i> from <i>slightly lower and certain</i> without a word of explanation.</p>
+      </div>
+
+      <div style="display:flex; flex-direction:column; gap:20px">
+        <div style="border:1px solid rgba(226,240,235,0.11); border-radius:16px; padding:24px 26px; background:rgba(226,240,235,0.026)">
+          <div style="font-family:'Martian Mono',monospace; font-size:8.5px; letter-spacing:0.16em; text-transform:uppercase; color:rgba(230,237,234,0.34); margin-bottom:12px">Why it is a risk</div>
+          <p style="margin:0; font-size:14.5px; line-height:1.6; font-weight:300; color:rgba(230,237,234,0.72); text-wrap:pretty">Cutting an axis exaggerates differences. Done carelessly it turns a 0.3 gap into a chasm — which is precisely the accusatory register this product must never enter. If a doctor reads their bar as "half as good as my neighbour," the design has failed on the brief's central tension.</p>
+        </div>
+        <div style="border:1px solid rgba(232,148,74,0.28); border-radius:16px; padding:24px 26px; background:rgba(232,148,74,0.045)">
+          <div style="font-family:'Martian Mono',monospace; font-size:8.5px; letter-spacing:0.16em; text-transform:uppercase; color:#E8944A; margin-bottom:12px">Why it serves the brief anyway</div>
+          <p style="margin:0 0 12px; font-size:14.5px; line-height:1.6; font-weight:300; color:rgba(230,237,234,0.78); text-wrap:pretty">Three guards make it diagnostic rather than accusatory, and all three are enforceable in the guide:</p>
+          <div style="display:flex; flex-direction:column; gap:10px">
+            <div style="display:flex; gap:11px"><span style="font-family:'Martian Mono',monospace; font-size:10px; color:#E8944A; flex-shrink:0; padding-top:3px">01</span><span style="font-size:14px; line-height:1.5; font-weight:300; color:rgba(230,237,234,0.72)">The window is <b style="font-weight:500; color:#E6EDEA">always printed</b> at both ends. A cut axis that declares its cut is an instrument setting, not a distortion.</span></div>
+            <div style="display:flex; gap:11px"><span style="font-family:'Martian Mono',monospace; font-size:10px; color:#E8944A; flex-shrink:0; padding-top:3px">02</span><span style="font-size:14px; line-height:1.5; font-weight:300; color:rgba(230,237,234,0.72)">The window is <b style="font-weight:500; color:#E6EDEA">the market's own range</b>, never a designer's crop. It is a fact about Guntur, recomputed per snapshot and stored with it.</span></div>
+            <div style="display:flex; gap:11px"><span style="font-family:'Martian Mono',monospace; font-size:10px; color:#E8944A; flex-shrink:0; padding-top:3px">03</span><span style="font-size:14px; line-height:1.5; font-weight:300; color:rgba(230,237,234,0.72)">No rating is ever drawn <b style="font-weight:500; color:#E6EDEA">without its confidence</b>. Position without weight is banned outright.</span></div>
+          </div>
+        </div>
+        <div style="border:1px solid rgba(226,240,235,0.11); border-radius:16px; padding:24px 26px; background:rgba(226,240,235,0.026)">
+          <div style="font-family:'Martian Mono',monospace; font-size:8.5px; letter-spacing:0.16em; text-transform:uppercase; color:rgba(230,237,234,0.34); margin-bottom:12px">The defence, in one sentence</div>
+          <p style="margin:0; font-family:'Archivo',sans-serif; font-variation-settings:'wdth' 110; font-size:19px; line-height:1.4; font-weight:300; letter-spacing:-0.01em; color:#E6EDEA; text-wrap:pretty">A scale that shows no difference where real difference exists is not neutral — it is the lie, and the five-star scale is already telling it.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section style="padding:58px 0 0">
+    <div style="display:flex; align-items:baseline; gap:16px; margin-bottom:8px">
+      <span style="font-family:'Martian Mono',monospace; font-size:10px; font-weight:500; letter-spacing:0.16em; color:#E8944A">03</span>
+      <h2 style="margin:0; font-size:13px; font-family:'Martian Mono',monospace; font-weight:400; letter-spacing:0.16em; text-transform:uppercase; color:rgba(230,237,234,0.88)">Colour · named for what it is here</h2>
+    </div>
+    <p style="margin:0 0 26px; font-size:14px; line-height:1.55; font-weight:300; color:rgba(230,237,234,0.52); max-width:840px">Six values carry the identity; the rest is a ramp. The reference's mid-tones came from satellite forest. Guntur is a street map, so <b style="font-weight:500; color:#E6EDEA">the road network has to carry the mid-tone weight</b> — that single substitution drives the whole palette. Temperature: the reference's ground samples blue, but its felt temperature is the green-grey of its terrain. I am carrying the green-grey, because a blue-black ground is exactly where every dark dashboard already lives.</p>
+
+    <div style="display:grid; grid-template-columns:repeat(4,1fr); gap:1px; background:rgba(226,240,235,0.10); border:1px solid rgba(226,240,235,0.10); border-radius:16px; overflow:hidden">
+      <sc-for list="{{ palette }}" as="p" hint-placeholder-count="8">
+        <div style="background:#05090A; padding:0">
+          <div style="height:76px; background:{{ p.swatch }}; border-bottom:1px solid rgba(226,240,235,0.08)"></div>
+          <div style="padding:16px 18px 18px">
+            <div style="font-family:'Martian Mono',monospace; font-size:11.5px; font-weight:500; letter-spacing:0.03em; color:#E6EDEA">{{ p.name }}</div>
+            <div style="font-family:'Martian Mono',monospace; font-size:9.5px; color:rgba(230,237,234,0.40); margin-top:4px">{{ p.value }}</div>
+            <div style="font-size:13px; line-height:1.45; font-weight:300; color:rgba(230,237,234,0.68); margin-top:11px; text-wrap:pretty">{{ p.what }}</div>
+          </div>
+        </div>
+      </sc-for>
+    </div>
+
+    <div style="display:grid; grid-template-columns:1.25fr 1fr; gap:24px; margin-top:24px">
+      <div style="border:1px solid rgba(232,148,74,0.28); border-radius:16px; padding:26px 30px; background:rgba(232,148,74,0.04)">
+        <div style="font-family:'Martian Mono',monospace; font-size:8.5px; letter-spacing:0.16em; text-transform:uppercase; color:#E8944A; margin-bottom:14px">The absence rule · the answer to design problem 2</div>
+        <p style="margin:0 0 16px; font-family:'Archivo',sans-serif; font-variation-settings:'wdth' 112; font-size:24px; line-height:1.3; font-weight:300; letter-spacing:-0.014em; color:#E6EDEA; text-wrap:pretty">The product never draws a bad thing. It draws the absence of a thing.</p>
+        <p style="margin:0 0 18px; font-size:14.5px; line-height:1.62; font-weight:300; color:rgba(230,237,234,0.70); text-wrap:pretty">Thirty-five of 48 clinics have no website of their own. A red cross on 35 rows is an accusation repeated 35 times. So <b style="font-weight:500; color:#E6EDEA">absence has no colour</b> — it is the ground, showing through a line that should have been continuous. Below is the real strip: 48 rated relevant clinics in alphabetical order, one mark each.</p>
+        <div style="display:flex; align-items:flex-end; gap:3px; height:44px; padding:0 2px">
+          <sc-for list="{{ siteStrip }}" as="s" hint-placeholder-count="48">
+            <div style="flex:1; height:{{ s.h }}; border-radius:1px; background:{{ s.bg }}; border:{{ s.border }}"></div>
+          </sc-for>
+        </div>
+        <div style="display:flex; justify-content:space-between; align-items:baseline; margin-top:12px">
+          <span style="font-family:'Martian Mono',monospace; font-size:9px; letter-spacing:0.11em; text-transform:uppercase; color:rgba(230,237,234,0.34)">A → Z · one mark per clinic</span>
+          <span style="font-family:'Martian Mono',monospace; font-size:11px; color:#E8944A">13 present · 35 absent</span>
+        </div>
+        <p style="margin:16px 0 0; font-size:14px; line-height:1.6; font-weight:300; color:rgba(230,237,234,0.66); text-wrap:pretty">Nobody is marked wrong. The market's own line is simply broken in 35 places, and that reads as an opportunity the moment you see it — which is exactly what is being sold.</p>
+      </div>
+      <div style="border:1px solid rgba(226,240,235,0.11); border-radius:16px; padding:26px 30px; background:rgba(226,240,235,0.026)">
+        <div style="font-family:'Martian Mono',monospace; font-size:8.5px; letter-spacing:0.16em; text-transform:uppercase; color:rgba(230,237,234,0.34); margin-bottom:16px">Ratio discipline · budget by pixel area</div>
+        <div style="display:flex; flex-direction:column; gap:0">
+          <sc-for list="{{ ratios }}" as="r" hint-placeholder-count="5">
+            <div style="padding:12px 0; border-bottom:1px solid rgba(226,240,235,0.07)">
+              <div style="display:flex; align-items:baseline; justify-content:space-between; gap:14px; margin-bottom:7px">
+                <span style="font-size:14px; font-weight:300; color:rgba(230,237,234,0.82)">{{ r.label }}</span>
+                <span style="font-family:'Martian Mono',monospace; font-size:12px; font-weight:500; color:#E6EDEA; font-variant-numeric:tabular-nums">{{ r.budget }}</span>
+              </div>
+              <div style="height:3px; background:rgba(226,240,235,0.08); border-radius:2px; overflow:hidden">
+                <div style="height:100%; border-radius:2px; background:{{ r.bar }}; width:{{ r.w }}"></div>
+              </div>
+            </div>
+          </sc-for>
+        </div>
+        <p style="margin:16px 0 0; font-size:13.5px; line-height:1.55; font-weight:300; color:rgba(230,237,234,0.58); text-wrap:pretty"><b style="font-weight:500; color:#E6EDEA">Drawn to true scale, no amplification.</b> The last three are slivers, and that is the argument — this board would be lying if it inflated them. Calibrated against the reference, where saturated non-neutral pixels covered under 1.5% of the frame. The inversion gets its own line because "once per screen" is a rule an engineer can test.</p>
+      </div>
+    </div>
+
+    <div style="margin-top:22px; border:1px solid rgba(226,240,235,0.11); border-radius:14px; padding:20px 24px; background:rgba(226,240,235,0.026); display:flex; gap:22px; align-items:flex-start">
+      <span style="font-family:'Martian Mono',monospace; font-size:8.5px; letter-spacing:0.16em; text-transform:uppercase; color:rgba(230,237,234,0.34); flex-shrink:0; padding-top:3px; width:120px">Reserved,<br>not used here</span>
+      <p style="margin:0; font-size:14.5px; line-height:1.6; font-weight:300; color:rgba(230,237,234,0.72); text-wrap:pretty"><b style="font-weight:500; color:#E6EDEA">Severity runs sand → clay, never red.</b> That is not my preference — it is a standing rule in <span style="font-family:'Martian Mono',monospace; font-size:12.5px">NEXT_SESSION_TASK.md</span> §5, and it survives into the guide untouched. It appears on Your Clinic where the vulnerability score lives. On The Market Page severity has no place at all: this page reports a market, it does not grade one. <span style="display:inline-flex; gap:5px; vertical-align:middle; margin-left:6px"><span style="width:15px; height:15px; border-radius:3px; background:#C8B48E"></span><span style="width:15px; height:15px; border-radius:3px; background:#BC8A63"></span><span style="width:15px; height:15px; border-radius:3px; background:#A8593C"></span></span></p>
+    </div>
+  </section>
+
+  <section style="padding:58px 0 0">
+    <div style="display:flex; align-items:baseline; gap:16px; margin-bottom:8px">
+      <span style="font-family:'Martian Mono',monospace; font-size:10px; font-weight:500; letter-spacing:0.16em; color:#E8944A">04</span>
+      <h2 style="margin:0; font-size:13px; font-family:'Martian Mono',monospace; font-weight:400; letter-spacing:0.16em; text-transform:uppercase; color:rgba(230,237,234,0.88)">The 92-glaze rule</h2>
+    </div>
+    <p style="margin:0 0 26px; font-size:14px; line-height:1.55; font-weight:300; color:rgba(230,237,234,0.52); max-width:840px">Ninety-two distinct glows that read as one designed field. The rule is three lines long and reproducible exactly. Both fields below are the real 92 coordinates from the snapshot.</p>
+
+    <div style="display:grid; grid-template-columns:1fr 1fr; gap:24px">
+      <div>
+        <div style="position:relative; border:1px solid rgba(226,240,235,0.11); border-radius:16px; overflow:hidden; background:#05090A; aspect-ratio:16/10">
+          <div style="position:absolute; inset:0; background:radial-gradient(ellipse 70% 60% at 50% 45%, rgba(46,58,56,0.55) 0%, rgba(5,9,10,0) 70%)"></div>
+          <sc-for list="{{ dotsFull }}" as="d" hint-placeholder-count="92">
+            <div style="position:absolute; width:9px; height:9px; left:{{ d.left }}; top:{{ d.top }}; opacity:{{ d.opacity }}">
+              <div style="width:100%; height:100%; border-radius:50%; background:{{ d.color }}; box-shadow:{{ d.glow }}; animation:glazePulse 4.2s ease-in-out infinite; animation-delay:{{ d.delay }}"></div>
+            </div>
+          </sc-for>
+          <div style="position:absolute; left:14px; right:14px; bottom:12px; font-family:'Martian Mono',monospace; font-size:8.5px; letter-spacing:0.13em; text-transform:uppercase; color:rgba(230,237,234,0.52)">Fitted to full bounds · 33 km</div>
+        </div>
+        <p style="margin:12px 0 0; font-size:13.5px; line-height:1.55; font-weight:300; color:rgba(230,237,234,0.62); text-wrap:pretty"><b style="font-weight:500; color:#E6EDEA">This is the problem, not the answer.</b> Fitting to the stated bounds puts 87 clinics inside a 4&nbsp;km box and five strays across 33&nbsp;km. The city dissolves into a single smear.</p>
+      </div>
+      <div>
+        <div style="position:relative; border:1px solid rgba(232,148,74,0.30); border-radius:16px; overflow:hidden; background:#05090A; aspect-ratio:16/10">
+          <div style="position:absolute; inset:0; background:radial-gradient(ellipse 75% 65% at 50% 48%, rgba(46,58,56,0.62) 0%, rgba(5,9,10,0) 72%)"></div>
+          <sc-for list="{{ dotsCore }}" as="d" hint-placeholder-count="92">
+            <div style="position:absolute; width:9px; height:9px; left:{{ d.left }}; top:{{ d.top }}; opacity:{{ d.opacity }}">
+              <div style="width:100%; height:100%; border-radius:50%; background:{{ d.color }}; box-shadow:{{ d.glow }}; animation:glazePulse 4.2s ease-in-out infinite; animation-delay:{{ d.delay }}"></div>
+            </div>
+          </sc-for>
+          <div style="position:absolute; left:14px; right:14px; bottom:12px; font-family:'Martian Mono',monospace; font-size:8.5px; letter-spacing:0.13em; text-transform:uppercase; color:#E8944A">Fitted to the core · 4.5 km</div>
+        </div>
+        <p style="margin:12px 0 0; font-size:13.5px; line-height:1.55; font-weight:300; color:rgba(230,237,234,0.62); text-wrap:pretty"><b style="font-weight:500; color:#E6EDEA">The answer, and it amends your §5.</b> Default view fits the interquartile core, not the extremes. The five outliers keep their rows and an off-frame bearing marker — never dropped, because a dropped clinic is a market finding that never happened.</p>
+      </div>
+    </div>
+
+    <div style="display:grid; grid-template-columns:1.15fr 1fr; gap:24px; margin-top:24px">
+      <div style="border:1px solid rgba(226,240,235,0.11); border-radius:16px; padding:26px 30px; background:rgba(226,240,235,0.026)">
+        <div style="font-family:'Martian Mono',monospace; font-size:8.5px; letter-spacing:0.16em; text-transform:uppercase; color:rgba(230,237,234,0.34); margin-bottom:18px">The rule, reproducible exactly</div>
+        <div style="display:flex; flex-direction:column; gap:16px">
+          <div>
+            <div style="font-size:15px; font-weight:400; color:#E6EDEA; margin-bottom:5px">Hold lightness and chroma constant. Walk only hue.</div>
+            <div style="font-family:'Martian Mono',monospace; font-size:11.5px; line-height:1.7; color:#E8944A">frac = ((i × 137.508) mod 360) / 360<br>H&nbsp;&nbsp;&nbsp;&nbsp;= 50 + frac × 42<br>glaze = oklch(0.74 0.135 H)</div>
+          </div>
+          <div>
+            <div style="font-size:15px; font-weight:400; color:#E6EDEA; margin-bottom:5px">The arc is 42° wide and entirely warm.</div>
+            <div style="font-size:13.5px; line-height:1.55; font-weight:300; color:rgba(230,237,234,0.66); text-wrap:pretty">50°→92° renders <span style="font-family:'Martian Mono',monospace; font-size:12px; color:#EE8F58">#EE8F58</span> amber → <span style="font-family:'Martian Mono',monospace; font-size:12px; color:#E09B3C">#E09B3C</span> gold → <span style="font-family:'Martian Mono',monospace; font-size:12px; color:#C9A732">#C9A732</span> brass. Every sample sits at CSS hue 22–46°, so it never reaches red — which would read as alarm on a clinic that has done nothing wrong. Lightness is held at 0.74 rather than 0.68 because the top of the arc turns drab olive below that.</div>
+          </div>
+          <div>
+            <div style="font-size:15px; font-weight:400; color:#E6EDEA; margin-bottom:5px">Map through the full circle, not the arc.</div>
+            <div style="font-size:13.5px; line-height:1.55; font-weight:300; color:rgba(230,237,234,0.66); text-wrap:pretty">The obvious construction — <span style="font-family:'Martian Mono',monospace; font-size:11.5px">(i × 137.508) mod 42</span> — is a trap. Modulo a narrow arc, the golden angle can land on a near-rational ratio and cycle: at a 50° arc it repeats every <b style="font-weight:500; color:#E6EDEA">four</b> clinics. Taking the fraction on 360° first keeps the sequence irrational at any arc width. Measured over 92 clinics as shipped: largest hue gap 1.20× the ideal spacing. Hue carries three decimal places — at one, a 42° arc holds only 421 steps and begins issuing duplicate glazes around 300 clinics, which would break the frozen-glaze promise the moment this runs on a larger market.</div>
+          </div>
+          <div>
+            <div style="font-size:15px; font-weight:400; color:#E6EDEA; margin-bottom:5px"><span style="color:#E8944A">i</span> is the clinic's alphabetical index, forever.</div>
+            <div style="font-size:13.5px; line-height:1.55; font-weight:300; color:rgba(230,237,234,0.66); text-wrap:pretty">Not rank, not rating — those move between quarters. Snapshots are immutable, so a clinic's glaze must be too, or March and now are not comparable. Colour becomes an identity, and the doctor learns their own.</div>
+          </div>
+        </div>
+      </div>
+      <div style="border:1px solid rgba(226,240,235,0.11); border-radius:16px; padding:26px 30px; background:rgba(226,240,235,0.026)">
+        <div style="font-family:'Martian Mono',monospace; font-size:8.5px; letter-spacing:0.16em; text-transform:uppercase; color:rgba(230,237,234,0.34); margin-bottom:18px">What encodes what</div>
+        <div style="display:flex; flex-direction:column; gap:0">
+          <sc-for list="{{ encodings }}" as="e" hint-placeholder-count="5">
+            <div style="display:grid; grid-template-columns:84px 1fr; gap:16px; padding:13px 0; border-bottom:1px solid rgba(226,240,235,0.07); align-items:baseline">
+              <span style="font-family:'Martian Mono',monospace; font-size:10px; letter-spacing:0.12em; text-transform:uppercase; color:{{ e.fg }}">{{ e.channel }}</span>
+              <span style="font-size:14px; line-height:1.5; font-weight:300; color:rgba(230,237,234,0.76); text-wrap:pretty">{{ e.means }}</span>
+            </div>
+          </sc-for>
+        </div>
+        <p style="margin:18px 0 0; font-size:13.5px; line-height:1.6; font-weight:300; color:rgba(230,237,234,0.60); text-wrap:pretty"><b style="font-weight:500; color:#E6EDEA">Pulse:</b> 4.2&nbsp;s period, opacity 0.55→1.0 and scale 0.94→1.06. Phase is staggered by the same golden angle, so at 92 dots the aggregate field is visually still — it breathes rather than strobes. Nothing pulses faster than 3&nbsp;s; nothing pulses at all under reduced-motion.</p>
+      </div>
+    </div>
+  </section>
+
+  <section style="padding:58px 0 0">
+    <div style="display:flex; align-items:baseline; gap:16px; margin-bottom:26px">
+      <span style="font-family:'Martian Mono',monospace; font-size:10px; font-weight:500; letter-spacing:0.16em; color:#E8944A">05</span>
+      <h2 style="margin:0; font-size:13px; font-family:'Martian Mono',monospace; font-weight:400; letter-spacing:0.16em; text-transform:uppercase; color:rgba(230,237,234,0.88)">Type · three roles, three licences</h2>
+    </div>
+    <div style="display:grid; grid-template-columns:repeat(3,1fr); gap:1px; background:rgba(226,240,235,0.10); border:1px solid rgba(226,240,235,0.10); border-radius:16px; overflow:hidden">
+      <div style="background:#05090A; padding:30px 32px 32px">
+        <div style="font-family:'Martian Mono',monospace; font-size:8.5px; letter-spacing:0.16em; text-transform:uppercase; color:#E8944A; margin-bottom:20px">Display · used with restraint</div>
+        <div style="font-family:'Archivo',sans-serif; font-variation-settings:'wdth' 122; font-size:44px; font-weight:200; letter-spacing:-0.028em; line-height:1.0; color:#E6EDEA; margin-bottom:6px">Guntur</div>
+        <div style="font-family:'Archivo',sans-serif; font-variation-settings:'wdth' 122; font-size:44px; font-weight:200; letter-spacing:-0.028em; line-height:1.0; color:rgba(230,237,234,0.42); font-variant-numeric:tabular-nums; margin-bottom:22px">4.59 · 92</div>
+        <div style="font-family:'Martian Mono',monospace; font-size:11px; font-weight:500; color:#E6EDEA; margin-bottom:4px">Archivo · width axis 122</div>
+        <div style="font-family:'Martian Mono',monospace; font-size:9.5px; color:rgba(230,237,234,0.40); margin-bottom:14px">OFL 1.1 · Omnibus-Type · variable wdth 62–125</div>
+        <p style="margin:0; font-size:14px; line-height:1.6; font-weight:300; color:rgba(230,237,234,0.70); text-wrap:pretty">The wide axis is the whole reason. It makes a 200-weight headline read as an instrument panel rather than a fashion masthead — and no other openly-licensed grotesque ships a width axis this usable.</p>
+      </div>
+      <div style="background:#05090A; padding:30px 32px 32px">
+        <div style="font-family:'Martian Mono',monospace; font-size:8.5px; letter-spacing:0.16em; text-transform:uppercase; color:#E8944A; margin-bottom:20px">Body · the quiet majority</div>
+        <div style="font-size:20px; font-weight:300; line-height:1.4; color:#E6EDEA; margin-bottom:10px">Thirty-five of forty-eight clinics have no website of their own.</div>
+        <div style="font-size:13px; font-weight:300; line-height:1.5; color:rgba(230,237,234,0.60); margin-bottom:22px">Old Club Rd, beside Yoda diagnostic lab, Kothapeta, Guntur, Andhra&nbsp;Pradesh 522001</div>
+        <div style="font-family:'Martian Mono',monospace; font-size:11px; font-weight:500; color:#E6EDEA; margin-bottom:4px">Hanken Grotesk</div>
+        <div style="font-family:'Martian Mono',monospace; font-size:9.5px; color:rgba(230,237,234,0.40); margin-bottom:14px">OFL 1.1 · Hanken Design Co · tnum available</div>
+        <p style="margin:0; font-size:14px; line-height:1.6; font-weight:300; color:rgba(230,237,234,0.70); text-wrap:pretty">Chosen for x-height. Guntur addresses are long, transliterated and set at 13&nbsp;px on near-black — the exact condition where tighter grotesques close up and become grey mush.</p>
+      </div>
+      <div style="background:#05090A; padding:30px 32px 32px">
+        <div style="font-family:'Martian Mono',monospace; font-size:8.5px; letter-spacing:0.16em; text-transform:uppercase; color:#E8944A; margin-bottom:20px">Utility · every figure, one width</div>
+        <div style="font-family:'Martian Mono',monospace; font-size:15px; font-weight:400; line-height:1.75; color:#E6EDEA; margin-bottom:22px">4.9&nbsp;&nbsp;773<br>4.6&nbsp;&nbsp;385<br>5.0&nbsp;&nbsp;&nbsp;&nbsp;1<br><span style="color:rgba(230,237,234,0.42); font-size:11px">ChIJCfMja_F1SjoRTfRlLzq</span></div>
+        <div style="font-family:'Martian Mono',monospace; font-size:11px; font-weight:500; color:#E6EDEA; margin-bottom:4px">Martian Mono</div>
+        <div style="font-family:'Martian Mono',monospace; font-size:9.5px; color:rgba(230,237,234,0.40); margin-bottom:14px">OFL 1.1 · Evil Martian · monospaced throughout</div>
+        <p style="margin:0; font-size:14px; line-height:1.6; font-weight:300; color:rgba(230,237,234,0.70); text-wrap:pretty">Drawn for telemetry, not for code editors. Ratings and review counts sit in true columns, and a <span style="font-family:'Martian Mono',monospace; font-size:12px">place_id</span> stays inspectable — which the schema requires, since joins are on id and never on name.</p>
+      </div>
+    </div>
+    <div style="margin-top:20px; border:1px solid rgba(226,240,235,0.11); border-radius:14px; padding:20px 24px; background:rgba(226,240,235,0.026); display:flex; gap:22px; align-items:flex-start">
+      <span style="font-family:'Martian Mono',monospace; font-size:8.5px; letter-spacing:0.16em; text-transform:uppercase; color:#E8944A; flex-shrink:0; padding-top:3px; width:120px">Build note,<br>flagged loudly</span>
+      <p style="margin:0; font-size:14.5px; line-height:1.6; font-weight:300; color:rgba(230,237,234,0.72); text-wrap:pretty">All three are OFL 1.1 and self-hostable, which satisfies "openly licensed" — but <b style="font-weight:500; color:#E6EDEA">these boards load them from the keyless Google Fonts CDN, and the build must not.</b> Your §4e names font services alongside map tiles as forbidden. The build vendors the woff2 files into the repo and serves them locally. Tabular figures are non-negotiable and all three provide them: Archivo and Hanken via <span style="font-family:'Martian Mono',monospace; font-size:12.5px">font-feature-settings:'tnum'</span>, Martian Mono by construction.</p>
+    </div>
+  </section>
+
+  <section style="padding:58px 0 0">
+    <div style="display:flex; align-items:baseline; gap:16px; margin-bottom:8px">
+      <span style="font-family:'Martian Mono',monospace; font-size:10px; font-weight:500; letter-spacing:0.16em; color:#E8944A">06</span>
+      <h2 style="margin:0; font-size:13px; font-family:'Martian Mono',monospace; font-weight:400; letter-spacing:0.16em; text-transform:uppercase; color:rgba(230,237,234,0.88)">Two competing wireframes</h2>
+    </div>
+    <p style="margin:0 0 26px; font-size:14px; line-height:1.55; font-weight:300; color:rgba(230,237,234,0.52); max-width:840px">You asked me to choose between a map at half or a third, and justify it against the reference. I am choosing on a different basis: dot density. The reference is a proportion; ours is a constraint.</p>
+
+    <div style="display:grid; grid-template-columns:1fr 1fr; gap:24px">
+      <div style="border:1px solid rgba(232,148,74,0.32); border-radius:18px; padding:26px 28px 28px; background:rgba(232,148,74,0.035)">
+        <div style="display:flex; align-items:baseline; justify-content:space-between; margin-bottom:20px">
+          <div>
+            <div style="font-family:'Martian Mono',monospace; font-size:9px; letter-spacing:0.16em; text-transform:uppercase; color:#E8944A; margin-bottom:6px">Wireframe A · chosen</div>
+            <div style="font-family:'Archivo',sans-serif; font-variation-settings:'wdth' 114; font-size:24px; font-weight:300; letter-spacing:-0.014em; color:#E6EDEA">The Seam · map 55 / list 45</div>
+          </div>
+        </div>
+        <div style="border:1px solid rgba(226,240,235,0.13); border-radius:10px; overflow:hidden; background:#05090A">
+          <div style="height:32px; border-bottom:1px solid rgba(226,240,235,0.10); display:flex; align-items:center; gap:6px; padding:0 8px">
+            <div style="width:52px; height:14px; border-radius:7px; background:rgba(226,240,235,0.10)"></div>
+            <div style="width:34px; height:14px; border-radius:7px; background:rgba(226,240,235,0.16)"></div>
+            <div style="width:34px; height:14px; border-radius:7px; background:rgba(226,240,235,0.06)"></div>
+            <div style="width:34px; height:14px; border-radius:7px; background:rgba(226,240,235,0.06)"></div>
+            <div style="flex:1"></div>
+            <div style="width:40px; height:14px; border-radius:7px; border:1px solid rgba(226,240,235,0.18)"></div>
+            <div style="display:flex; gap:4px"><span style="width:10px; height:10px; border-radius:50%; background:rgba(226,240,235,0.13)"></span><span style="width:10px; height:10px; border-radius:50%; background:rgba(226,240,235,0.13)"></span><span style="width:10px; height:10px; border-radius:50%; background:rgba(226,240,235,0.13)"></span></div>
+          </div>
+          <div style="height:150px; position:relative; background:radial-gradient(ellipse 80% 90% at 45% 40%, rgba(46,58,56,0.5) 0%, rgba(5,9,10,0) 70%)">
+            <span style="position:absolute; left:22%; top:30%; width:5px; height:5px; border-radius:50%; background:#EE8F58; box-shadow:0 0 8px 2px rgba(238,143,88,0.5)"></span>
+            <span style="position:absolute; left:44%; top:48%; width:5px; height:5px; border-radius:50%; background:#E09B3C; box-shadow:0 0 8px 2px rgba(224,155,60,0.5)"></span>
+            <span style="position:absolute; left:58%; top:26%; width:5px; height:5px; border-radius:50%; background:#C9A732; box-shadow:0 0 8px 2px rgba(201,167,50,0.5)"></span>
+            <span style="position:absolute; left:70%; top:58%; width:5px; height:5px; border-radius:50%; background:#D5A134; box-shadow:0 0 8px 2px rgba(213,161,52,0.5)"></span>
+            <div style="position:absolute; right:8px; top:44%; display:flex; flex-direction:column; gap:5px"><span style="width:15px; height:15px; border-radius:50%; border:1px solid rgba(226,240,235,0.22)"></span><span style="width:15px; height:15px; border-radius:50%; border:1px solid rgba(226,240,235,0.22)"></span></div>
+            <div style="position:absolute; left:0; right:0; bottom:0; height:44%; background:linear-gradient(180deg, rgba(214,229,224,0) 0%, rgba(214,229,224,0.05) 60%, rgba(214,229,224,0.075) 100%)"></div>
+          </div>
+          <div style="height:122px; padding:0 8px; background:rgba(214,229,224,0.045); border-top:0">
+            <div style="height:9px"></div>
+            <div style="display:flex; flex-direction:column; gap:0">
+              <div style="height:20px; border-bottom:1px solid rgba(226,240,235,0.07); display:flex; align-items:center; gap:7px; opacity:0.35"><span style="width:2px; height:11px; background:#EE8F58"></span><div style="width:96px; height:5px; border-radius:3px; background:rgba(226,240,235,0.22)"></div><div style="flex:1"></div><div style="width:44px; height:5px; border-radius:3px; background:rgba(226,240,235,0.14)"></div></div>
+              <div style="height:20px; border-bottom:1px solid rgba(226,240,235,0.07); display:flex; align-items:center; gap:7px; opacity:0.62"><span style="width:2px; height:11px; background:#E09B3C"></span><div style="width:112px; height:5px; border-radius:3px; background:rgba(226,240,235,0.26)"></div><div style="flex:1"></div><div style="width:44px; height:5px; border-radius:3px; background:rgba(226,240,235,0.16)"></div></div>
+              <div style="height:22px; border-radius:6px; background:#FFFFFF; display:flex; align-items:center; gap:7px; padding:0 7px"><span style="width:2px; height:11px; background:#05090A"></span><div style="width:104px; height:5px; border-radius:3px; background:rgba(5,9,10,0.78)"></div><div style="flex:1"></div><div style="width:44px; height:5px; border-radius:3px; background:rgba(5,9,10,0.5)"></div></div>
+              <div style="height:20px; border-bottom:1px solid rgba(226,240,235,0.07); display:flex; align-items:center; gap:7px"><span style="width:2px; height:11px; background:#D5A134"></span><div style="width:88px; height:5px; border-radius:3px; background:rgba(226,240,235,0.30)"></div><div style="flex:1"></div><div style="width:44px; height:5px; border-radius:3px; background:rgba(226,240,235,0.18)"></div></div>
+              <div style="height:20px; border-bottom:1px solid rgba(226,240,235,0.07); display:flex; align-items:center; gap:7px"><span style="width:2px; height:11px; background:#C9A732"></span><div style="width:120px; height:5px; border-radius:3px; background:rgba(226,240,235,0.30)"></div><div style="flex:1"></div><div style="width:44px; height:5px; border-radius:3px; background:rgba(226,240,235,0.18)"></div></div>
+            </div>
+          </div>
+        </div>
+        <p style="margin:18px 0 0; font-size:14px; line-height:1.6; font-weight:300; color:rgba(230,237,234,0.74); text-wrap:pretty">One glass plate rises out of the fog; rows are readings on it, not cards. Nearest the seam they sit in the haze and resolve as they rise. Selection inverts to white — the reference's one loud move, spent here.</p>
+      </div>
+
+      <div style="border:1px solid rgba(226,240,235,0.11); border-radius:18px; padding:26px 28px 28px; background:rgba(226,240,235,0.022)">
+        <div style="margin-bottom:20px">
+          <div style="font-family:'Martian Mono',monospace; font-size:9px; letter-spacing:0.16em; text-transform:uppercase; color:rgba(230,237,234,0.40); margin-bottom:6px">Wireframe B · rejected</div>
+          <div style="font-family:'Archivo',sans-serif; font-variation-settings:'wdth' 114; font-size:24px; font-weight:300; letter-spacing:-0.014em; color:rgba(230,237,234,0.72)">The Ledger · map 33 / list 67</div>
+        </div>
+        <div style="border:1px solid rgba(226,240,235,0.10); border-radius:10px; overflow:hidden; background:#05090A; opacity:0.72">
+          <div style="height:32px; border-bottom:1px solid rgba(226,240,235,0.09); display:flex; align-items:center; gap:6px; padding:0 8px">
+            <div style="width:52px; height:14px; border-radius:7px; background:rgba(226,240,235,0.08)"></div>
+            <div style="width:34px; height:14px; border-radius:7px; background:rgba(226,240,235,0.13)"></div>
+            <div style="width:34px; height:14px; border-radius:7px; background:rgba(226,240,235,0.05)"></div>
+            <div style="flex:1"></div>
+            <div style="display:flex; gap:4px"><span style="width:10px; height:10px; border-radius:50%; background:rgba(226,240,235,0.10)"></span><span style="width:10px; height:10px; border-radius:50%; background:rgba(226,240,235,0.10)"></span></div>
+          </div>
+          <div style="height:88px; position:relative; background:radial-gradient(ellipse 80% 120% at 45% 45%, rgba(46,58,56,0.42) 0%, rgba(5,9,10,0) 68%)">
+            <span style="position:absolute; left:40%; top:40%; width:22px; height:16px; border-radius:50%; background:rgba(238,143,88,0.5); filter:blur(4px)"></span>
+            <span style="position:absolute; left:47%; top:46%; width:18px; height:13px; border-radius:50%; background:rgba(224,155,60,0.45); filter:blur(4px)"></span>
+            <span style="position:absolute; left:43%; top:34%; width:16px; height:12px; border-radius:50%; background:rgba(201,167,50,0.4); filter:blur(4px)"></span>
+            <div style="position:absolute; left:0; right:0; bottom:0; height:34%; background:linear-gradient(180deg, rgba(214,229,224,0) 0%, rgba(214,229,224,0.06) 100%)"></div>
+          </div>
+          <div style="height:184px; padding:8px; background:rgba(214,229,224,0.04)">
+            <div style="display:flex; flex-direction:column; gap:5px">
+              <div style="height:24px; border-radius:6px; background:rgba(226,240,235,0.055); border:1px solid rgba(226,240,235,0.08)"></div>
+              <div style="height:24px; border-radius:6px; background:rgba(226,240,235,0.055); border:1px solid rgba(226,240,235,0.08)"></div>
+              <div style="height:24px; border-radius:6px; background:rgba(226,240,235,0.055); border:1px solid rgba(226,240,235,0.08)"></div>
+              <div style="height:24px; border-radius:6px; background:rgba(226,240,235,0.055); border:1px solid rgba(226,240,235,0.08)"></div>
+              <div style="height:24px; border-radius:6px; background:rgba(226,240,235,0.055); border:1px solid rgba(226,240,235,0.08)"></div>
+              <div style="height:24px; border-radius:6px; background:rgba(226,240,235,0.055); border:1px solid rgba(226,240,235,0.08)"></div>
+            </div>
+          </div>
+        </div>
+        <p style="margin:18px 0 0; font-size:14px; line-height:1.6; font-weight:300; color:rgba(230,237,234,0.62); text-wrap:pretty">Drawn honestly so the rejection means something. It is the better <i>information</i> layout — more rows, less scrolling — and it fails on two counts. The map at 33% cannot separate 87 dots inside 4.5&nbsp;km; they merge into the blob shown. And a stack of individually-bordered cards is exactly the wall of glass bricks your §4c warns about.</p>
+      </div>
+    </div>
+
+    <div style="margin-top:24px; border:1px solid rgba(226,240,235,0.11); border-radius:16px; padding:26px 30px; background:rgba(226,240,235,0.026)">
+      <div style="font-family:'Martian Mono',monospace; font-size:8.5px; letter-spacing:0.16em; text-transform:uppercase; color:rgba(230,237,234,0.34); margin-bottom:16px">The justification is arithmetic, not taste</div>
+      <div style="display:grid; grid-template-columns:repeat(4,1fr); gap:28px">
+        <div>
+          <div style="font-family:'Archivo',sans-serif; font-variation-settings:'wdth' 118; font-size:34px; font-weight:200; letter-spacing:-0.02em; line-height:1; color:#E6EDEA; font-variant-numeric:tabular-nums">4.5<span style="font-size:18px; font-weight:300"> km</span></div>
+          <p style="margin:9px 0 0; font-size:13.5px; line-height:1.5; font-weight:300; color:rgba(230,237,234,0.62)">The core box holding 87 of 92 clinics.</p>
+        </div>
+        <div>
+          <div style="font-family:'Archivo',sans-serif; font-variation-settings:'wdth' 118; font-size:34px; font-weight:200; letter-spacing:-0.02em; line-height:1; color:#E6EDEA; font-variant-numeric:tabular-nums">540<span style="font-size:18px; font-weight:300"> px</span></div>
+          <p style="margin:9px 0 0; font-size:13.5px; line-height:1.5; font-weight:300; color:rgba(230,237,234,0.62)">Map height at 55% of a 1080 canvas, minus chrome.</p>
+        </div>
+        <div>
+          <div style="font-family:'Archivo',sans-serif; font-variation-settings:'wdth' 118; font-size:34px; font-weight:200; letter-spacing:-0.02em; line-height:1; color:#E6EDEA; font-variant-numeric:tabular-nums">18<span style="font-size:18px; font-weight:300"> px</span></div>
+          <p style="margin:9px 0 0; font-size:13.5px; line-height:1.5; font-weight:300; color:rgba(230,237,234,0.62)">Mean dot separation at that height. A 9&nbsp;px dot clears its neighbour.</p>
+        </div>
+        <div>
+          <div style="font-family:'Archivo',sans-serif; font-variation-settings:'wdth' 118; font-size:34px; font-weight:200; letter-spacing:-0.02em; line-height:1; color:#E8944A; font-variant-numeric:tabular-nums">11<span style="font-size:18px; font-weight:300"> px</span></div>
+          <p style="margin:9px 0 0; font-size:13.5px; line-height:1.5; font-weight:300; color:rgba(230,237,234,0.62)">The same figure at 33%. Dots overlap, and glow makes it worse. This is the number that decided it.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section style="padding:58px 0 0">
+    <div style="display:flex; align-items:baseline; gap:16px; margin-bottom:8px">
+      <span style="font-family:'Martian Mono',monospace; font-size:10px; font-weight:500; letter-spacing:0.16em; color:#E8944A">07</span>
+      <h2 style="margin:0; font-size:13px; font-family:'Martian Mono',monospace; font-weight:400; letter-spacing:0.16em; text-transform:uppercase; color:rgba(230,237,234,0.88)">The §4c answer · widget language → list language</h2>
+    </div>
+    <div style="border:1px solid rgba(226,240,235,0.11); border-radius:18px; padding:34px 38px; background:rgba(226,240,235,0.026); margin-bottom:24px">
+      <p style="margin:0 0 10px; font-family:'Martian Mono',monospace; font-size:8.5px; letter-spacing:0.16em; text-transform:uppercase; color:rgba(230,237,234,0.34)">Your question</p>
+      <p style="margin:0 0 24px; font-size:16px; line-height:1.55; font-weight:300; font-style:italic; color:rgba(230,237,234,0.62); max-width:820px">"How does the visual language of a few precious floating widgets become the visual language of a long repeating list, without losing the atmosphere that made it feel premium?"</p>
+      <p style="margin:0; font-family:'Archivo',sans-serif; font-variation-settings:'wdth' 114; font-size:31px; line-height:1.24; font-weight:300; letter-spacing:-0.018em; color:#E6EDEA; max-width:900px; text-wrap:pretty">It stops being a surface and becomes a container. The glass belongs to the list, not to the row — one plate, ninety-two readings on it.</p>
+    </div>
+    <div style="display:grid; grid-template-columns:repeat(3,1fr); gap:1px; background:rgba(226,240,235,0.10); border:1px solid rgba(226,240,235,0.10); border-radius:16px; overflow:hidden">
+      <sc-for list="{{ translation }}" as="t" hint-placeholder-count="6">
+        <div style="background:#05090A; padding:26px 28px 28px">
+          <div style="display:flex; align-items:baseline; gap:10px; margin-bottom:13px">
+            <span style="font-family:'Martian Mono',monospace; font-size:10px; font-weight:500; color:#E8944A">{{ t.n }}</span>
+            <span style="font-size:16.5px; line-height:1.35; font-weight:400; color:#E6EDEA; text-wrap:pretty">{{ t.title }}</span>
+          </div>
+          <p style="margin:0; font-size:14px; line-height:1.6; font-weight:300; color:rgba(230,237,234,0.68); text-wrap:pretty">{{ t.body }}</p>
+        </div>
+      </sc-for>
+    </div>
+    <div style="margin-top:24px; border:1px solid rgba(255,255,255,0.30); border-radius:16px; padding:28px 32px; background:rgba(255,255,255,0.05)">
+      <div style="font-family:'Martian Mono',monospace; font-size:8.5px; letter-spacing:0.16em; text-transform:uppercase; color:#FFFFFF; margin-bottom:14px">On the inverted white pill · you asked to be argued out of it</div>
+      <p style="margin:0 0 14px; font-size:15.5px; line-height:1.62; font-weight:300; color:rgba(230,237,234,0.84); max-width:1000px; text-wrap:pretty">I can't — your instinct is right, but it needs sharpening or it won't survive the next two pages. The pill is not "the selected clinic." It is <b style="font-weight:500; color:#FFFFFF">the reading the doctor came for</b>, and each page has exactly one.</p>
+      <div style="display:grid; grid-template-columns:repeat(3,1fr); gap:24px; margin-top:20px; padding-top:20px; border-top:1px solid rgba(255,255,255,0.16)">
+        <div><div style="font-family:'Martian Mono',monospace; font-size:9.5px; letter-spacing:0.13em; text-transform:uppercase; color:rgba(230,237,234,0.44); margin-bottom:7px">The Market</div><div style="font-size:14.5px; line-height:1.5; font-weight:300; color:rgba(230,237,234,0.82)">The selected clinic — as its tethered popup on the map, and its row inverting in sympathy. One object, two places.</div></div>
+        <div><div style="font-family:'Martian Mono',monospace; font-size:9.5px; letter-spacing:0.13em; text-transform:uppercase; color:rgba(230,237,234,0.44); margin-bottom:7px">Your Clinic</div><div style="font-size:14.5px; line-height:1.5; font-weight:300; color:rgba(230,237,234,0.82)">Their own position in the market. Reserved now, unspent, so revision two doesn't have to invent it.</div></div>
+        <div><div style="font-family:'Martian Mono',monospace; font-size:9.5px; letter-spacing:0.13em; text-transform:uppercase; color:rgba(230,237,234,0.44); margin-bottom:7px">Your City</div><div style="font-size:14.5px; line-height:1.5; font-weight:300; color:rgba(230,237,234,0.82)">The one figure that locates them among their peers. Same rule, third page.</div></div>
+      </div>
+      <p style="margin:20px 0 0; font-size:14px; line-height:1.6; font-weight:300; color:rgba(230,237,234,0.66); max-width:1000px; text-wrap:pretty">Stated that way it is a rule that extends rather than a decision that gets re-litigated — which is what §6's "structure it to be extended, not rewritten" actually demands of the guide.</p>
+    </div>
+  </section>
+
+  <section style="padding:58px 0 0">
+    <div style="display:flex; align-items:baseline; gap:16px; margin-bottom:8px">
+      <span style="font-family:'Martian Mono',monospace; font-size:10px; font-weight:500; letter-spacing:0.16em; color:#E8944A">08</span>
+      <h2 style="margin:0; font-size:13px; font-family:'Martian Mono',monospace; font-weight:400; letter-spacing:0.16em; text-transform:uppercase; color:rgba(230,237,234,0.88)">The signature · and the thing it is not</h2>
+    </div>
+    <div style="display:grid; grid-template-columns:1fr 1fr; gap:24px">
+      <div style="border:1px solid rgba(226,240,235,0.11); border-radius:18px; padding:30px 34px; background:rgba(226,240,235,0.026)">
+        <div style="font-family:'Martian Mono',monospace; font-size:8.5px; letter-spacing:0.16em; text-transform:uppercase; color:rgba(230,237,234,0.34); margin-bottom:14px">The fog seam · committed, and inherited</div>
+        <p style="margin:0 0 16px; font-size:15px; line-height:1.62; font-weight:300; color:rgba(230,237,234,0.74); text-wrap:pretty">Committed exactly as you asked, and built from Stage 1's measurement rather than the look of it: a chroma-and-variance veil on the basemap layer, −72% saturation, −39% luminance variance, +41% mean brightness, over the bottom 45% with a 13% band of pure atmosphere holding nothing.</p>
+        <p style="margin:0; font-size:15px; line-height:1.62; font-weight:300; color:rgba(230,237,234,0.74); text-wrap:pretty">But I won't call it <i>our</i> signature, because it is <b style="font-weight:500; color:#E6EDEA">yours, and the reference's</b>. Copying it faithfully is table stakes here — the brief is explicit and I agree with it. A signature has to be the thing no other product would arrive at.</p>
+      </div>
+      <div style="border:1px solid rgba(232,148,74,0.32); border-radius:18px; padding:30px 34px; background:linear-gradient(180deg, rgba(232,148,74,0.06) 0%, rgba(232,148,74,0.015) 100%)">
+        <div style="font-family:'Martian Mono',monospace; font-size:8.5px; letter-spacing:0.16em; text-transform:uppercase; color:#E8944A; margin-bottom:14px">Ours · the calibrated window</div>
+        <p style="margin:0 0 16px; font-family:'Archivo',sans-serif; font-variation-settings:'wdth' 112; font-size:23px; line-height:1.3; font-weight:300; letter-spacing:-0.014em; color:#E6EDEA; text-wrap:pretty">Every number in this product sits on a scale that shows its own window and its own weight of evidence.</p>
+        <p style="margin:0; font-size:15px; line-height:1.62; font-weight:300; color:rgba(230,237,234,0.74); text-wrap:pretty">Ratings, review counts, histograms, quarter-on-quarter movement — all of it on cut, declared, weighted axes. It is the product's actual argument made visible: <i>we measured this, here is our resolution, here is how much we trust it.</i> A market-intelligence service sold to the people being measured has to earn belief on inspection, and this is the device that does it. No generic dashboard would ever cut an axis on purpose.</p>
+      </div>
+    </div>
+  </section>
+
+  <section style="padding:58px 0 0">
+    <div style="display:flex; align-items:baseline; gap:16px; margin-bottom:8px">
+      <span style="font-family:'Martian Mono',monospace; font-size:10px; font-weight:500; letter-spacing:0.16em; color:#E8944A">09</span>
+      <h2 style="margin:0; font-size:13px; font-family:'Martian Mono',monospace; font-weight:400; letter-spacing:0.16em; text-transform:uppercase; color:rgba(230,237,234,0.88)">Critique of this board, in front of you</h2>
+    </div>
+    <p style="margin:0 0 26px; font-size:14px; line-height:1.55; font-weight:300; color:rgba(230,237,234,0.52); max-width:840px">Left column: what a generic "dark map dashboard" brief produces. Middle: where my plan lands on it. Right: what I changed after writing the middle column out. Three revisions came out of this, one of them structural.</p>
+    <div style="display:flex; flex-direction:column; gap:1px; background:rgba(226,240,235,0.10); border:1px solid rgba(226,240,235,0.10); border-radius:16px; overflow:hidden">
+      <div style="background:rgba(226,240,235,0.045); padding:14px 26px; display:grid; grid-template-columns:1fr 1fr 1.15fr 96px; gap:24px">
+        <span style="font-family:'Martian Mono',monospace; font-size:8.5px; letter-spacing:0.16em; text-transform:uppercase; color:rgba(230,237,234,0.44)">The generic result</span>
+        <span style="font-family:'Martian Mono',monospace; font-size:8.5px; letter-spacing:0.16em; text-transform:uppercase; color:rgba(230,237,234,0.44)">Where I landed</span>
+        <span style="font-family:'Martian Mono',monospace; font-size:8.5px; letter-spacing:0.16em; text-transform:uppercase; color:rgba(230,237,234,0.44)">What changed</span>
+        <span style="font-family:'Martian Mono',monospace; font-size:8.5px; letter-spacing:0.16em; text-transform:uppercase; color:rgba(230,237,234,0.44); text-align:right">Verdict</span>
+      </div>
+      <sc-for list="{{ critique }}" as="c" hint-placeholder-count="8">
+        <div style="background:#05090A; padding:20px 26px; display:grid; grid-template-columns:1fr 1fr 1.15fr 96px; gap:24px; align-items:start">
+          <span style="font-size:14px; line-height:1.5; font-weight:300; color:rgba(230,237,234,0.52); text-wrap:pretty">{{ c.generic }}</span>
+          <span style="font-size:14px; line-height:1.5; font-weight:300; color:rgba(230,237,234,0.76); text-wrap:pretty">{{ c.mine }}</span>
+          <span style="font-size:14px; line-height:1.5; font-weight:400; color:#E6EDEA; text-wrap:pretty">{{ c.changed }}</span>
+          <span style="justify-self:end; font-family:'Martian Mono',monospace; font-size:8.5px; font-weight:500; letter-spacing:0.12em; text-transform:uppercase; padding:5px 8px 4px; border-radius:3px; white-space:nowrap; color:{{ c.fg }}; background:{{ c.bg }}">{{ c.verdict }}</span>
+        </div>
+      </sc-for>
+    </div>
+
+    <div style="margin-top:24px; border:1px solid rgba(232,148,74,0.30); border-radius:16px; padding:28px 32px; background:rgba(232,148,74,0.04)">
+      <div style="font-family:'Martian Mono',monospace; font-size:8.5px; letter-spacing:0.16em; text-transform:uppercase; color:#E8944A; margin-bottom:14px">The structural revision · this one reordered the brief</div>
+      <p style="margin:0 0 14px; font-size:15.5px; line-height:1.62; font-weight:300; color:rgba(230,237,234,0.80); max-width:1040px; text-wrap:pretty">I came into this stage assuming the fog seam was the signature, because §2 offers it as the candidate and it is the most striking thing in the reference. Writing the generic column out killed that. A generic dark-map brief with this reference attached would <i>also</i> produce the fog seam — it is the most copyable element on the page. Inheriting it well is craft, not identity.</p>
+      <p style="margin:0; font-size:15.5px; line-height:1.62; font-weight:300; color:rgba(230,237,234,0.80); max-width:1040px; text-wrap:pretty">What a generic brief would never produce is a <b style="font-weight:500; color:#E6EDEA">deliberately truncated axis</b>. It would render 4.9 as a nearly-full five-star row and call the job done — and in doing so it would rank a one-review clinic above a 385-review clinic and never notice. So the signature moved: the fog is law we obey, the vernier is the thing that is ours. Everything downstream — the data-viz section, the row anatomy, the histogram treatment — reorders around that.</p>
+    </div>
+  </section>
+
+  <div style="margin-top:56px; padding-top:26px; border-top:1px solid rgba(226,240,235,0.11); display:flex; align-items:center; justify-content:space-between; gap:32px; flex-wrap:wrap">
+    <div style="font-family:'Martian Mono',monospace; font-size:9.5px; letter-spacing:0.13em; text-transform:uppercase; color:rgba(230,237,234,0.36)">Derma Intel · Stage 02 of 08 · direction board</div>
+    <div style="display:flex; align-items:center; gap:14px">
+      <span style="font-family:'Martian Mono',monospace; font-size:9.5px; letter-spacing:0.13em; text-transform:uppercase; color:rgba(230,237,234,0.36)">Gate</span>
+      <span style="font-size:15px; font-weight:300; color:#E6EDEA">Stopping here. Stage 3 is the token board — every value, plus the copyable block the build reads literally.</span>
+    </div>
+  </div>
+
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props="{&quot;$preview&quot;:{&quot;width&quot;:1600}}">
+class Component extends DCLogic {
+  renderVals() {
+    const PTS = "R16.2992,80.4518;R16.3056,80.4221;R16.2995,80.4488;R16.3069,80.4202;R16.3078,80.4372;R16.2992,80.4505;R16.3122,80.4292;R16.3258,80.4377;R16.3154,80.4267;R16.2968,80.4500;R16.2994,80.4513;R16.2987,80.4514;R16.2993,80.4511;R16.3101,80.4309;R16.2856,80.4408;R16.3095,80.4181;R16.2992,80.4522;R16.3087,80.4177;R16.3110,80.4314;R16.3120,80.4292;R16.2983,80.4447;R16.3114,80.4336;R16.2991,80.4494;R16.3092,80.4182;R16.2985,80.4497;R16.2993,80.4513;R16.3114,80.4325;R16.3040,80.4312;R16.2993,80.4500;R16.3087,80.4177;R16.3044,80.4398;R16.3117,80.4304;R16.3104,80.4327;R16.3104,80.4368;A16.2994,80.4513;R16.2985,80.4497;A16.3044,80.4398;A16.3135,80.4221;R16.2987,80.4542;R16.2991,80.4500;A16.3145,80.4371;A16.3091,80.4182;R16.3005,80.4485;R16.2993,80.4513;R16.3009,80.4280;R16.2985,80.4497;R16.2967,80.4490;A16.3043,80.4396;I16.2908,80.4415;I16.3108,80.4359;A16.3105,80.4366;A16.3037,80.4543;A16.3009,80.4215;R16.4752,80.6156;I16.3130,80.4326;A16.2945,80.4540;A16.2970,80.4548;A16.3130,80.4347;A16.3056,80.4403;A16.2931,80.4425;A16.3033,80.4278;A16.2979,80.4546;A16.3042,80.4426;A16.3271,80.4152;A16.2965,80.4511;A16.2996,80.4492;I16.2950,80.4372;R16.2942,80.4370;A16.2975,80.4453;I16.3005,80.4485;A16.2975,80.4412;A16.2879,80.4524;A16.3015,80.4504;A16.3039,80.4415;A16.3163,80.4369;I16.3006,80.4202;I16.2882,80.4488;I16.3117,80.4268;I16.3271,80.4183;I16.3214,80.4374;A16.2862,80.4528;R16.2985,80.4497;A16.2986,80.4499;I16.3136,80.4203;A16.3039,80.4286;R16.4336,80.5676;R16.5124,80.6345;R16.5121,80.6387;R16.2176,80.3450;R16.2991,80.4507;A16.3280,80.4178;A16.3105,80.4542";
+
+    const pts = PTS.split(';').map((s, i) => {
+      const rel = s[0];
+      const [lat, lng] = s.slice(1).split(',').map(Number);
+      return { rel, lat, lng, i };
+    });
+
+    const GOLDEN = 137.508, ARC_LO = 50, ARC_W = 42;
+    const glaze = (i) => {
+      // walk the golden angle on the FULL circle, then map the fraction into the arc.
+      // taking (i * 137.508) mod ARC_W directly degenerates: at ARC_W = 50 it cycles every 4.
+      const frac = ((i * GOLDEN) % 360) / 360;
+      // 3 dp, not 1: at 1 dp a 42° arc has only 421 steps and starts colliding
+      // around 300 clinics — which would break the frozen-glaze promise as the
+      // product moves to larger markets and multi-speciality populations.
+      const h = (ARC_LO + frac * ARC_W).toFixed(3);
+      return {
+        color: `oklch(0.74 0.135 ${h})`,
+        glow: `0 0 10px 3px oklch(0.74 0.135 ${h} / 0.42), 0 0 22px 8px oklch(0.74 0.135 ${h} / 0.16)`,
+        delay: `${(frac * 4.2).toFixed(2)}s`
+      };
+    };
+    const opacityFor = (rel) => rel === 'R' ? 1 : rel === 'A' ? 0.5 : 0.22;
+
+    const field = (latMin, latMax, lngMin, lngMax) => pts.map(p => {
+      const x = (p.lng - lngMin) / (lngMax - lngMin);
+      const y = 1 - (p.lat - latMin) / (latMax - latMin);
+      const g = glaze(p.i);
+      const inside = x >= -0.02 && x <= 1.02 && y >= -0.02 && y <= 1.02;
+      if (!inside) return null;
+      return {
+        left: `calc(${(x * 100).toFixed(2)}% - 4.5px)`,
+        top: `calc(${(y * 100).toFixed(2)}% - 4.5px)`,
+        color: g.color, glow: g.glow, delay: g.delay,
+        opacity: opacityFor(p.rel)
+      };
+    }).filter(Boolean);
+
+    const dotsFull = field(16.2176, 16.5124, 80.3450, 80.6387);
+    const dotsCore = field(16.2820, 16.3300, 80.4130, 80.4570);
+
+    // --- the five-star axis, all 48 rated relevant clinics ---
+    const ratings = [3.5,3.5,3.7,3.7,3.8,3.8,3.9,3.9,4,4,4.1,4.3,4.4,4.4,4.6,4.6,4.6,4.6,4.6,
+      4.7,4.7,4.8,4.8,4.8,4.8,4.8,4.8,4.9,4.9,4.9,4.9,4.9,4.9,4.9,4.9,4.9,5,5,5,5,5,5,5,5,5,5,5,5];
+    const fiveScale = ratings.map(r => ({ left: `calc(${(r / 5 * 100).toFixed(2)}% - 1px)` }));
+
+    // --- the vernier: ten real named rows ---
+    const specimens = [
+      ['5.0', 5.0, 1],   ['5.0', 5.0, 3],   ['5.0', 5.0, 347], ['4.9', 4.9, 773],
+      ['4.9', 4.9, 639], ['4.8', 4.8, 379], ['4.6', 4.6, 385], ['4.0', 4.0, 265],
+      ['3.9', 3.9, 98],  ['3.5', 3.5, 14]
+    ];
+    const WMIN = 3.5, WMAX = 5.0;
+    const vernier = specimens.map(([label, r, n]) => {
+      const t = (r - WMIN) / (WMAX - WMIN);
+      const w = Math.min(1, Math.log10(n + 1) / Math.log10(800));
+      return {
+        rating: label,
+        reviews: String(n),
+        left: `calc(${(t * 100).toFixed(2)}% - 1.5px)`,
+        op: (0.3 + w * 0.7).toFixed(2),
+        h: (0.34 + w * 0.66).toFixed(2)
+      };
+    });
+
+    // --- the website strip: 48 rated relevant, alphabetical, real ---
+    const STRIP = "101010001001100001010000001000000111001000000000";
+    const siteStrip = STRIP.split('').map(ch => ch === '1'
+      ? { h: '100%', bg: 'rgba(230,237,234,0.86)', border: 'none' }
+      : { h: '34%',  bg: 'transparent', border: '1px solid rgba(230,237,234,0.16)' });
+
+    const palette = [
+      { name:'ground',       value:'#05090A',  swatch:'#05090A',
+        what:'The unmeasured city. A cold green-black, not the blue-black every dark dashboard uses.' },
+      { name:'ground.lift',  value:'#0A1012',  swatch:'#0A1012',
+        what:'One step up. Chrome bars, the list plate\u2019s floor, anything that is not the map.' },
+      { name:'roadbed',      value:'#2E3A38',  swatch:'#2E3A38',
+        what:'The street network draws in this. It carries all the mid-tone weight the reference got from forest.' },
+      { name:'watercourse',  value:'#16232B',  swatch:'#16232B',
+        what:'The Krishna\u2019s branches — the one cool-shifted mass, so water reads as water against green ground.' },
+      { name:'haze',         value:'rgba(214,229,224,0.055)', swatch:'linear-gradient(180deg,#05090A 0%,#1B2422 100%)',
+        what:'The fog plate. A veil that desaturates and flattens; it never darkens.' },
+      { name:'instrument',   value:'rgba(226,240,235,0.045)', swatch:'linear-gradient(180deg,rgba(226,240,235,0.10) 0%,rgba(226,240,235,0.03) 100%)',
+        what:'Glass. Every capsule, plate and card fill. Hairline 0.13 on top, 0.07 below.' },
+      { name:'signal',       value:'oklch(0.74 0.135 50→92)', swatch:'linear-gradient(90deg,#EE8F58,#E09B3C,#C9A732)',
+        what:'A clinic\u2019s own glaze. Ninety-two hues on one 42° arc. Identity, never quality.' },
+      { name:'absence',      value:'— none —',  swatch:'repeating-linear-gradient(135deg,#05090A 0 7px,#0E1618 7px 14px)',
+        what:'Has no colour by rule. A gap in a line that should have been continuous.' }
+    ];
+
+    const ratios = [
+      { label:'ground · the map and its dark',       budget:'≥ 78%',  w:'78%',   bar:'rgba(230,237,234,0.30)' },
+      { label:'instrument · all glass surfaces',     budget:'≤ 18%',  w:'18%',   bar:'rgba(230,237,234,0.55)' },
+      { label:'reading · white type',                budget:'≤ 3%',   w:'3%',    bar:'rgba(230,237,234,0.85)' },
+      { label:'signal · clinic glazes',              budget:'≤ 1.2%', w:'1.2%',  bar:'#E8944A' },
+      { label:'inversion · once per screen',         budget:'≤ 0.4%', w:'0.4%',  bar:'#FFFFFF' }
+    ];
+
+    const encodings = [
+      { channel:'Hue',      fg:'#E8944A', means:'Which clinic. Identity only — assigned by alphabetical index and frozen for the life of the product.' },
+      { channel:'Size',     fg:'#E6EDEA', means:'Review count, on a log scale. 9 px at the market median, 15 px at 773, 6 px floor so nobody vanishes.' },
+      { channel:'Opacity',  fg:'#E6EDEA', means:'Relevance. Relevant 1.0, adjacent 0.5, irrelevant 0.22 — shown and dimmed, never hidden.' },
+      { channel:'Pulse',    fg:'#E6EDEA', means:'Liveness of the snapshot. Uniform across every dot; it is never a variable.' },
+      { channel:'Nothing',  fg:'rgba(230,237,234,0.42)', means:'Rating. No channel on the map encodes quality — that judgement belongs to a declared scale, not to a colour.' }
+    ];
+
+    const translation = [
+      { n:'01', title:'One plate, not ninety-two cards.',
+        body:'A single translucent plate rises out of the fog. Rows are hairline-separated readings on it. This is the decision the whole translation rests on: the premium surface stays singular and precious, while repetition costs nothing because a row is just type.' },
+      { n:'02', title:'The fog stays behind the plate as it scrolls.',
+        body:'The plate is translucent over a still-live map, so scrolling moves rows and not atmosphere. Answering your first thread directly: yes, the fog persists — and it must, or the premium feel scrolls away in the first flick.' },
+      { n:'03', title:'A row becomes an object only when you touch it.',
+        body:'At rest: type on a hairline. On hover it lifts into filled glass — Register A from Stage 1. On selection it inverts to white. Three states, three registers already evidenced in the reference, no new vocabulary invented.' },
+      { n:'04', title:'The seam is a depth gradient, not a divider.',
+        body:'The two rows nearest the seam sit in the haze at reduced contrast and resolve as they rise. Your second thread, taken. It means the boundary is a distance rather than a line, which is exactly what makes the reference\u2019s edge feel atmospheric.' },
+      { n:'05', title:'A row inherits its dot\u2019s hue — in one place only.',
+        body:'A 2 px tick at the row\u2019s leading edge, nothing more. Your third thread, but rationed: colouring the whole row would be the confetti problem moved indoors. One tick is enough to make the two halves one system.' },
+      { n:'06', title:'The reference composes across. A list composes down.',
+        body:'Its widgets are horizontal compositions, individually balanced. Our rows put every field at a fixed x, so 92 rows form columns — and columns are the only thing that makes a long list scannable. That inversion is the actual translation.' }
+    ];
+
+    const SAME = { verdict:'Same',    fg:'#05090A', bg:'rgba(230,237,234,0.55)' };
+    const DIFF = { verdict:'Differs', fg:'#05090A', bg:'#E8944A' };
+    const REV  = { verdict:'Revised', fg:'#05090A', bg:'#FFFFFF' };
+    const critique = [
+      { ...SAME, generic:'Glass cards, hairline borders, generous radius, backdrop blur.',
+        mine:'All of it. This is inherited from the reference and the brief mandates it.',
+        changed:'Nothing, and I am not going to pretend otherwise. The differentiation has to come from the two-register split, which is evidenced rather than invented.' },
+      { ...REV, generic:'Near-black ground with one bright accent applied across the UI — buttons, links, active tabs, focus rings.',
+        mine:'Near-black with a warm accent. Cliché #2 in your calibration, and I walked straight into it.',
+        changed:'The accent is now barred from chrome entirely. It exists only as emitted light on the map and as a 2 px row tick. Buttons, links, tabs and focus rings are white-at-opacity. A checkable rule, not a taste.' },
+      { ...REV, generic:'The map bottom fades to black under a gradient so the panel below has an edge.',
+        mine:'The fog seam, which I had nominated as the signature.',
+        changed:'Demoted from signature to inherited law. A generic brief with this reference attached produces the fog too. It is craft; it cannot be identity.' },
+      { ...DIFF, generic:'Ratings as five stars or a percentage bar. 4.9 renders as 98% full.',
+        mine:'A truncated vernier with review count as tick weight.',
+        changed:'Promoted to the signature. This is the furthest point from generic on the whole board, and it is the only one that fixes a real defect in the data rather than decorating it.' },
+      { ...DIFF, generic:'One accent colour for every map dot, sized by the primary metric.',
+        mine:'Ninety-two hues on a 64° arc, size on review count, hue barred from encoding quality.',
+        changed:'Held. The golden-angle walk plus the frozen alphabetical index is the part a generic build would not reach, because it only matters once snapshots have to be comparable across quarters.' },
+      { ...REV, generic:'Missing data hidden, or filled with an em-dash so rows stay tidy.',
+        mine:'I had "degrade loudly" as a compliance item in the accessibility section.',
+        changed:'Moved to the colour system as the absence rule, which makes it structural. Absence is now defined as having no colour at all — ground showing through a broken line. It is simultaneously the honesty requirement and the answer to design problem 2.' },
+      { ...DIFF, generic:'Semantic red for bad, green for good, on scores and states.',
+        mine:'No red anywhere. Severity runs sand to clay.',
+        changed:'Held, and it is not my credit — it is a standing rule in the repo. Worth noting that it also settles the accusatory question before it is asked: you cannot scold in sand.' },
+      { ...SAME, generic:'Token names like primary, secondary, muted, surface-2.',
+        mine:'ground, roadbed, watercourse, haze, instrument, reading, signal, absence.',
+        changed:'Different names, but I should be honest that renaming is the cheapest kind of distinctiveness. It earns its place only because the names encode rules — absence having no value is a name doing real work.' }
+    ];
+
+    return { dotsFull, dotsCore, fiveScale, vernier, siteStrip, palette, ratios, encodings, translation, critique };
+  }
+}
+</script>
+</body>
+</html>

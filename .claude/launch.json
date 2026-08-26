@@ -4,14 +4,32 @@
     {
       "name": "graph",
       "runtimeExecutable": "C:\\Users\\SALEPI~1\\AppData\\Local\\Programs\\Python\\Python310\\python.exe",
-      "runtimeArgs": ["tools/graph_viewer.py", "--port", "8765"],
+      "runtimeArgs": [
+        "tools/graph_viewer.py",
+        "--port",
+        "8765"
+      ],
       "port": 8765
     },
     {
       "name": "api",
       "runtimeExecutable": "C:\\Users\\SALEPI~1\\AppData\\Local\\Programs\\Python\\Python310\\python.exe",
-      "runtimeArgs": ["api/app.py"],
+      "runtimeArgs": [
+        "api/app.py"
+      ],
       "port": 8000
+    },
+    {
+      "name": "design",
+      "runtimeExecutable": "C:\\Users\\SALEPI~1\\AppData\\Local\\Programs\\Python\\Python310\\python.exe",
+      "runtimeArgs": [
+        "tools/design_server.py",
+        "--port",
+        "8777",
+        "--dir",
+        "design/Claude Design Iteration 1"
+      ],
+      "port": 8777
     }
   ]
 }

@@ -1,0 +1,1042 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,100..900&family=Hanken+Grotesk:wght@200..700&family=Martian+Mono:wght@300..600&display=swap" rel="stylesheet">
+<style>
+  html, body { margin:0; padding:0; background:#05090A; }
+  * { box-sizing:border-box; }
+  ::selection { background: rgba(224,155,60,0.34); }
+  a { color:#E09B3C; text-decoration:none; border-bottom:1px solid rgba(224,155,60,0.34); }
+  a:hover { color:#EFB463; border-bottom-color:rgba(239,180,99,0.7); }
+  @keyframes glazePulse { 0%,100% { opacity:.55; transform:scale(.94) } 50% { opacity:1; transform:scale(1.06) } }
+  @media (prefers-reduced-motion: reduce) { *, *::before, *::after { animation:none !important; transition:none !important } }
+</style>
+</helmet>
+
+<div style="background:#05090A; font-family:'Hanken Grotesk',system-ui,sans-serif; color:#E6EDEA; padding:64px 72px 120px; max-width:1600px; margin:0 auto; -webkit-font-smoothing:antialiased">
+
+  <div style="display:flex; align-items:flex-start; justify-content:space-between; gap:48px; padding-bottom:30px; border-bottom:1px solid rgba(226,240,235,0.11)">
+    <div style="max-width:840px">
+      <div style="display:flex; align-items:center; gap:12px; margin-bottom:22px">
+        <span style="font-family:'Martian Mono',monospace; font-size:9px; font-weight:500; letter-spacing:0.18em; text-transform:uppercase; color:#05090A; background:#E09B3C; padding:5px 9px 4px; border-radius:3px">Stage 05</span>
+        <span style="font-family:'Martian Mono',monospace; font-size:9px; letter-spacing:0.18em; text-transform:uppercase; color:rgba(230,237,234,0.40)">The Market Page · eight comps · gate ahead</span>
+      </div>
+      <h1 style="margin:0 0 20px; font-family:'Archivo',sans-serif; font-variation-settings:'wdth' 118; font-size:56px; line-height:1.0; font-weight:200; letter-spacing:-0.026em; text-wrap:balance">Ninety-two clinics,<br>on the ground they actually stand on</h1>
+      <p style="margin:0; font-size:17px; line-height:1.55; font-weight:300; color:rgba(230,237,234,0.66); max-width:760px; text-wrap:pretty">Every comp is 1920 × 1080, drawn from the Stage 3 tokens with nothing invented. Every clinic, rating, review count, phone number and coordinate is the real 20 August snapshot.</p>
+    </div>
+    <div style="flex-shrink:0; width:236px; border:1px solid rgba(226,240,235,0.11); border-radius:14px; padding:16px 18px; background:rgba(226,240,235,0.028)">
+      <div style="font-family:'Martian Mono',monospace; font-size:8.5px; letter-spacing:0.16em; text-transform:uppercase; color:rgba(230,237,234,0.34); margin-bottom:12px">The basemap</div>
+      <p style="margin:0 0 10px; font-size:13px; line-height:1.55; font-weight:300; color:rgba(230,237,234,0.76)">Real OpenStreetMap geometry, 45 tiles at z15, every pixel reclassified into our tokens — roads, water, parkland, building fabric.</p>
+      <p style="margin:0; font-size:13px; line-height:1.55; font-weight:300; color:rgba(230,237,234,0.56)">Free, keyless, attributed. Mean luminance 23.9.</p>
+    </div>
+  </div>
+
+  <section style="padding:52px 0 0">
+    <div style="display:flex; align-items:baseline; gap:16px; margin-bottom:10px">
+      <span style="font-family:'Martian Mono',monospace; font-size:10px; font-weight:500; letter-spacing:0.16em; color:#E09B3C">01</span>
+      <h2 style="margin:0; font-size:13px; font-family:'Martian Mono',monospace; font-weight:400; letter-spacing:0.16em; text-transform:uppercase; color:rgba(230,237,234,0.88)">Map view</h2>
+      <span style="font-size:14px; font-weight:300; color:rgba(230,237,234,0.52)">Chrome, full-bleed map, 87 glazing dots in frame, 5 held off-frame, zoom stack.</span>
+    </div>
+    <div style="width:1400px; height:788px; overflow:hidden; border:1px solid rgba(226,240,235,0.13); border-radius:14px; margin-bottom:16px">
+      <div style="width:1920px; height:1080px; transform:scale(0.72917); transform-origin:0 0; position:relative; overflow:hidden; background:#05090A">
+
+        <div style="position:absolute; left:0; top:-30px; width:1920px; height:1140px">
+          <img src="assets/map/guntur-basemap-v3.png" alt="Dark street map of Guntur built from OpenStreetMap geometry" style="display:block; width:100%; height:100%; object-fit:cover">
+          <sc-for list="{{ dots }}" as="d" hint-placeholder-count="87">
+            <div style="position:absolute; left:{{ d.left }}; top:{{ d.top }}; width:{{ d.size }}; height:{{ d.size }}; margin-left:{{ d.off }}; margin-top:{{ d.off }}; opacity:{{ d.op }}">
+              <div style="width:100%; height:100%; border-radius:50%; background:{{ d.color }}; box-shadow:{{ d.glow }}; animation:glazePulse 4.2s ease-in-out infinite; animation-delay:{{ d.delay }}"></div>
+            </div>
+          </sc-for>
+        </div>
+
+        <div style="position:absolute; inset:0; background:url('assets/atmosphere/grain.png') center/cover; mix-blend-mode:soft-light; opacity:0.045; pointer-events:none"></div>
+        <div style="position:absolute; left:0; right:0; top:0; height:190px; background:linear-gradient(180deg, rgba(5,9,10,0.86) 0%, rgba(5,9,10,0.44) 58%, rgba(5,9,10,0) 100%); pointer-events:none"></div>
+        <div style="position:absolute; left:0; top:0; width:720px; height:520px; background:radial-gradient(ellipse 78% 72% at 22% 34%, rgba(5,9,10,0.88) 0%, rgba(5,9,10,0.40) 48%, rgba(5,9,10,0) 74%); pointer-events:none"></div>
+
+        <div style="position:absolute; left:32px; right:32px; top:20px; height:44px; display:flex; align-items:center; gap:16px">
+          <div style="width:328px; height:44px; border-radius:999px; background:rgba(226,240,235,0.045); border:1px solid rgba(226,240,235,0.09); border-top-color:rgba(226,240,235,0.13); box-shadow:0 1px 2px rgba(0,0,0,.4), 0 8px 24px rgba(0,0,0,.28); display:flex; align-items:center; gap:12px; padding:0 18px; flex-shrink:0">
+            <div style="width:13px; height:13px; border:1.4px solid rgba(230,237,234,0.62); border-radius:50%; position:relative; flex-shrink:0"><div style="position:absolute; width:6px; height:1.4px; background:rgba(230,237,234,0.62); right:-5px; bottom:0px; transform:rotate(45deg); transform-origin:left center"></div></div>
+            <span style="font-size:13.5px; font-weight:300; color:rgba(230,237,234,0.42)">Search 92 clinics in Guntur</span>
+          </div>
+
+          <div style="height:44px; border-radius:999px; background:rgba(226,240,235,0.045); border:1px solid rgba(226,240,235,0.09); border-top-color:rgba(226,240,235,0.13); box-shadow:0 1px 2px rgba(0,0,0,.4), 0 8px 24px rgba(0,0,0,.28); display:flex; align-items:center; padding:4px; gap:2px; flex-shrink:0">
+            <span style="padding:0 20px; height:36px; display:flex; align-items:center; border-radius:999px; font-size:13.5px; font-weight:300; color:rgba(230,237,234,0.62)">Your Clinic</span>
+            <span style="padding:0 20px; height:36px; display:flex; align-items:center; border-radius:999px; background:rgba(226,240,235,0.11); font-size:13.5px; font-weight:400; color:#E6EDEA">The Market</span>
+            <span style="padding:0 20px; height:36px; display:flex; align-items:center; border-radius:999px; font-size:13.5px; font-weight:300; color:rgba(230,237,234,0.62)">Your City</span>
+          </div>
+
+          <div style="height:44px; border-radius:999px; border:1px solid rgba(226,240,235,0.22); display:flex; align-items:center; padding:4px; gap:2px; flex-shrink:0">
+            <span style="padding:0 18px; height:36px; display:flex; align-items:center; border-radius:999px; background:rgba(226,240,235,0.11); font-size:13px; font-weight:400; color:#E6EDEA">Map</span>
+            <span style="padding:0 18px; height:36px; display:flex; align-items:center; border-radius:999px; font-size:13px; font-weight:300; color:rgba(230,237,234,0.62)">Map + List</span>
+          </div>
+
+          <div style="flex:1"></div>
+
+          <div style="display:flex; align-items:center; gap:10px; flex-shrink:0">
+            <div style="width:40px; height:40px; border-radius:50%; background:rgba(226,240,235,0.045); border:1px solid rgba(226,240,235,0.09); border-top-color:rgba(226,240,235,0.13); display:flex; align-items:center; justify-content:center; position:relative"><div style="width:14px; height:14px; border:1.4px solid rgba(230,237,234,0.66); border-radius:50%"></div><div style="position:absolute; top:9px; right:9px; width:6px; height:6px; border-radius:50%; background:#E09B3C; border:1.5px solid #0A1012"></div></div>
+            <div style="width:40px; height:40px; border-radius:50%; background:rgba(226,240,235,0.045); border:1px solid rgba(226,240,235,0.09); border-top-color:rgba(226,240,235,0.13); display:flex; align-items:center; justify-content:center"><div style="width:16px; height:16px; border:1.4px solid rgba(230,237,234,0.66); border-radius:50%; display:flex; align-items:center; justify-content:center"><div style="width:6px; height:6px; border:1.4px solid rgba(230,237,234,0.66); border-radius:50%"></div></div></div>
+            <div style="width:40px; height:40px; border-radius:50%; background:rgba(226,240,235,0.13); border:1px solid rgba(226,240,235,0.18); display:flex; align-items:center; justify-content:center"><span style="font-family:'Martian Mono',monospace; font-size:12px; font-weight:500; color:#E6EDEA">SP</span></div>
+          </div>
+        </div>
+
+        <div style="position:absolute; left:48px; top:124px">
+          <div style="display:flex; align-items:center; gap:11px; margin-bottom:20px">
+            <div style="width:26px; height:26px; border-radius:50%; background:#E6EDEA; display:flex; align-items:center; justify-content:center"><div style="width:11px; height:11px; border-radius:50%; border:2.2px solid #05090A"></div></div>
+            <span style="font-family:'Martian Mono',monospace; font-size:11px; font-weight:500; letter-spacing:0.20em; text-transform:uppercase; color:rgba(230,237,234,0.82)">Derma Intel</span>
+          </div>
+          <div style="font-family:'Archivo',sans-serif; font-variation-settings:'wdth' 122; font-size:64px; font-weight:200; letter-spacing:-0.028em; line-height:1.0; color:#E6EDEA">Guntur <span style="color:rgba(230,237,234,0.45)">Dermatology</span></div>
+          <div style="display:flex; align-items:center; gap:22px; margin-top:20px">
+            <div><div style="font-family:'Martian Mono',monospace; font-size:10px; font-weight:500; letter-spacing:0.20em; text-transform:uppercase; color:rgba(230,237,234,0.62)">Places</div><div style="font-family:'Martian Mono',monospace; font-size:19px; color:#E6EDEA; margin-top:4px">92</div></div>
+            <div style="width:1px; height:34px; background:rgba(226,240,235,0.13)"></div>
+            <div><div style="font-family:'Martian Mono',monospace; font-size:10px; font-weight:500; letter-spacing:0.20em; text-transform:uppercase; color:rgba(230,237,234,0.62)">Relevant</div><div style="font-family:'Martian Mono',monospace; font-size:19px; color:#E6EDEA; margin-top:4px">50</div></div>
+            <div style="width:1px; height:34px; background:rgba(226,240,235,0.13)"></div>
+            <div><div style="font-family:'Martian Mono',monospace; font-size:10px; font-weight:500; letter-spacing:0.20em; text-transform:uppercase; color:rgba(230,237,234,0.62)">Snapshot</div><div style="font-family:'Martian Mono',monospace; font-size:19px; color:#E6EDEA; margin-top:4px">20 Aug 2026</div></div>
+          </div>
+        </div>
+
+        <div style="position:absolute; left:48px; bottom:120px; width:430px; border-radius:26px; background:rgba(226,240,235,0.045); border:1px solid rgba(226,240,235,0.09); border-top-color:rgba(226,240,235,0.13); box-shadow:0 2px 4px rgba(0,0,0,.45), 0 16px 40px rgba(0,0,0,.34); padding:22px 26px 24px">
+          <div style="display:flex; align-items:flex-start; justify-content:space-between; gap:16px; margin-bottom:16px">
+            <div style="font-family:'Martian Mono',monospace; font-size:10px; font-weight:500; letter-spacing:0.20em; text-transform:uppercase; color:rgba(230,237,234,0.62)">Clinics with no website of their own</div>
+            <span style="font-size:13px; color:rgba(230,237,234,0.34); line-height:1; flex-shrink:0">↗</span>
+          </div>
+          <div style="display:flex; align-items:baseline; gap:12px; margin-bottom:18px">
+            <span style="font-family:'Archivo',sans-serif; font-variation-settings:'wdth' 118; font-size:52px; font-weight:200; letter-spacing:-0.028em; line-height:1; color:#E6EDEA; font-variant-numeric:tabular-nums">35</span>
+            <span style="font-family:'Archivo',sans-serif; font-variation-settings:'wdth' 116; font-size:26px; font-weight:200; color:rgba(230,237,234,0.45); font-variant-numeric:tabular-nums">of 48</span>
+          </div>
+          <div style="display:flex; align-items:flex-end; gap:3px; height:30px; margin-bottom:10px">
+            <sc-for list="{{ siteStrip }}" as="s" hint-placeholder-count="48">
+              <div style="flex:1; height:{{ s.h }}; border-radius:1px; background:{{ s.bg }}; border:{{ s.border }}"></div>
+            </sc-for>
+          </div>
+          <div style="font-size:12.5px; font-weight:300; line-height:1.5; color:rgba(230,237,234,0.62)">One mark per rated clinic, A → Z. The gaps are the opportunity.</div>
+        </div>
+
+        <div style="position:absolute; right:48px; top:50%; transform:translateY(-50%); display:flex; flex-direction:column; gap:10px">
+          <div style="width:44px; height:44px; border-radius:50%; border:1px solid rgba(226,240,235,0.22); display:flex; align-items:center; justify-content:center; box-shadow:0 1px 2px rgba(0,0,0,.4), 0 8px 24px rgba(0,0,0,.28)"><span style="font-family:'Martian Mono',monospace; font-size:17px; font-weight:400; color:#E6EDEA; line-height:1">+</span></div>
+          <div style="width:44px; height:44px; border-radius:50%; border:1px solid rgba(226,240,235,0.22); display:flex; align-items:center; justify-content:center; box-shadow:0 1px 2px rgba(0,0,0,.4), 0 8px 24px rgba(0,0,0,.28)"><span style="font-family:'Martian Mono',monospace; font-size:17px; font-weight:400; color:#E6EDEA; line-height:1">−</span></div>
+        </div>
+
+        <div style="position:absolute; right:48px; bottom:74px; display:flex; flex-direction:column; gap:8px; align-items:flex-end">
+          <sc-for list="{{ offFrame }}" as="o" hint-placeholder-count="5">
+            <div style="display:flex; align-items:center; gap:9px; height:30px; padding:0 12px 0 10px; border-radius:999px; border:1px dashed rgba(226,240,235,0.24)">
+              <span style="font-family:'Martian Mono',monospace; font-size:11px; color:rgba(230,237,234,0.62); line-height:1">{{ o.bearing }}</span>
+              <span style="font-size:12px; font-weight:300; color:rgba(230,237,234,0.72); white-space:nowrap">{{ o.name }}</span>
+              <span style="font-family:'Martian Mono',monospace; font-size:10px; color:rgba(230,237,234,0.42); white-space:nowrap">{{ o.km }}</span>
+            </div>
+          </sc-for>
+          <div style="font-family:'Martian Mono',monospace; font-size:9.5px; letter-spacing:0.12em; text-transform:uppercase; color:rgba(230,237,234,0.42); margin-top:2px">5 clinics beyond this view</div>
+        </div>
+
+        <div style="position:absolute; right:20px; bottom:14px; font-family:'Martian Mono',monospace; font-size:10px; color:rgba(230,237,234,0.42)">© OpenStreetMap contributors</div>
+      </div>
+    </div>
+    <div style="display:grid; grid-template-columns:repeat(4,1fr); gap:22px; margin-bottom:8px">
+      <sc-for list="{{ notes1 }}" as="n" hint-placeholder-count="4">
+        <div>
+          <div style="font-family:'Martian Mono',monospace; font-size:8.5px; letter-spacing:0.15em; text-transform:uppercase; color:#E09B3C; margin-bottom:7px">{{ n.k }}</div>
+          <p style="margin:0; font-size:13.5px; line-height:1.55; font-weight:300; color:rgba(230,237,234,0.66); text-wrap:pretty">{{ n.v }}</p>
+        </div>
+      </sc-for>
+    </div>
+  </section>
+
+  <section style="padding:64px 0 0">
+    <div style="display:flex; align-items:baseline; gap:16px; margin-bottom:10px">
+      <span style="font-family:'Martian Mono',monospace; font-size:10px; font-weight:500; letter-spacing:0.16em; color:#E09B3C">02</span>
+      <h2 style="margin:0; font-size:13px; font-family:'Martian Mono',monospace; font-weight:400; letter-spacing:0.16em; text-transform:uppercase; color:rgba(230,237,234,0.88)">The tethered popup</h2>
+      <span style="font-size:14px; font-weight:300; color:rgba(230,237,234,0.52)">Hover on Skin Perfect Clinic, at its real coordinate — 4.9 on 639 reviews, and no website of its own.</span>
+    </div>
+    <div style="width:1400px; height:788px; overflow:hidden; border:1px solid rgba(226,240,235,0.13); border-radius:14px; margin-bottom:16px">
+      <div style="width:1920px; height:1080px; transform:scale(0.72917); transform-origin:0 0; position:relative; overflow:hidden; background:#05090A">
+        <div style="position:absolute; left:0; top:-560px; width:1920px; height:1140px">
+          <img src="assets/map/guntur-basemap-v3.png" alt="Dark street map of Guntur, zoomed to Kothapeta" style="display:block; width:100%; height:100%; object-fit:cover; transform:scale(2.1); transform-origin:70% 64%">
+        </div>
+        <div style="position:absolute; inset:0; background:url('assets/atmosphere/grain.png') center/cover; mix-blend-mode:soft-light; opacity:0.045; pointer-events:none"></div>
+        <div style="position:absolute; left:0; right:0; top:0; height:190px; background:linear-gradient(180deg, rgba(5,9,10,0.86) 0%, rgba(5,9,10,0.44) 58%, rgba(5,9,10,0) 100%); pointer-events:none"></div>
+
+        <sc-for list="{{ zoomDots }}" as="d" hint-placeholder-count="24">
+          <div style="position:absolute; left:{{ d.left }}; top:{{ d.top }}; width:{{ d.size }}; height:{{ d.size }}; margin-left:{{ d.off }}; margin-top:{{ d.off }}; opacity:{{ d.op }}">
+            <div style="width:100%; height:100%; border-radius:50%; background:{{ d.color }}; box-shadow:{{ d.glow }}; animation:glazePulse 4.2s ease-in-out infinite; animation-delay:{{ d.delay }}"></div>
+          </div>
+        </sc-for>
+
+        <div style="position:absolute; left:700px; top:700px; width:22px; height:22px; margin-left:-11px; margin-top:-11px; border-radius:50%; border:1px solid oklch(0.74 0.135 73.4 / 0.75)"></div>
+        <div style="position:absolute; left:700px; top:700px; width:15px; height:15px; margin-left:-7.5px; margin-top:-7.5px; border-radius:50%; background:oklch(0.74 0.135 73.4); box-shadow:0 0 14px 5px oklch(0.74 0.135 73.4 / 0.5), 0 0 30px 12px oklch(0.74 0.135 73.4 / 0.2)"></div>
+        <div style="position:absolute; left:700px; top:700px; width:113.1px; height:1px; background:linear-gradient(90deg, oklch(0.74 0.135 73.4 / 0.85) 0%, oklch(0.74 0.135 73.4 / 0.42) 100%); transform-origin:0 0; transform:rotate(-45deg)"></div>
+
+        <div style="position:absolute; left:780px; bottom:460px; width:372px">
+          <div style="position:absolute; left:-9px; bottom:-9px; width:18px; height:18px; border-radius:50%; background:#0A1012; border:1px solid oklch(0.74 0.135 73.4 / 0.75); z-index:2"></div>
+          <div style="border-radius:26px; background:rgba(226,240,235,0.045); border:1px solid rgba(226,240,235,0.09); border-top-color:rgba(226,240,235,0.13); box-shadow:0 2px 4px rgba(0,0,0,.45), 0 16px 40px rgba(0,0,0,.34); backdrop-filter:blur(22px); -webkit-backdrop-filter:blur(22px); padding:22px 24px 22px; position:relative; overflow:hidden">
+            <div style="position:absolute; left:0; top:0; bottom:0; width:2px; background:oklch(0.74 0.135 73.4)"></div>
+            <div style="font-size:17px; font-weight:400; line-height:1.3; color:#E6EDEA; margin-bottom:5px">Skin Perfect Clinic</div>
+            <div style="font-family:'Martian Mono',monospace; font-size:11px; color:rgba(230,237,234,0.62); margin-bottom:18px">094909 03999</div>
+            <div style="display:flex; align-items:flex-end; gap:20px; padding-top:16px; border-top:1px solid rgba(226,240,235,0.09)">
+              <div>
+                <div style="font-family:'Martian Mono',monospace; font-size:10px; font-weight:500; letter-spacing:0.20em; text-transform:uppercase; color:rgba(230,237,234,0.62); margin-bottom:6px">Rating</div>
+                <div style="font-family:'Archivo',sans-serif; font-variation-settings:'wdth' 118; font-size:38px; font-weight:200; letter-spacing:-0.026em; line-height:1; color:#E6EDEA; font-variant-numeric:tabular-nums">4.9</div>
+              </div>
+              <div style="flex:1; padding-bottom:5px">
+                <div style="position:relative; height:22px">
+                  <div style="position:absolute; left:0; right:0; top:10px; height:1px; background:rgba(226,240,235,0.10)"></div>
+                  <div style="position:absolute; left:0; top:6px; width:1px; height:9px; background:rgba(230,237,234,0.34)"></div>
+                  <div style="position:absolute; right:0; top:6px; width:1px; height:9px; background:rgba(230,237,234,0.34)"></div>
+                  <div style="position:absolute; left:93.3%; top:0; width:3px; height:22px; border-radius:2px; background:oklch(0.74 0.135 73.4)"></div>
+                </div>
+                <div style="display:flex; justify-content:space-between; margin-top:3px">
+                  <span style="font-family:'Martian Mono',monospace; font-size:9px; color:rgba(230,237,234,0.42)">3.5</span>
+                  <span style="font-family:'Martian Mono',monospace; font-size:9px; color:rgba(230,237,234,0.42)">market window</span>
+                  <span style="font-family:'Martian Mono',monospace; font-size:9px; color:rgba(230,237,234,0.42)">5.0</span>
+                </div>
+              </div>
+              <div style="text-align:right">
+                <div style="font-family:'Martian Mono',monospace; font-size:10px; font-weight:500; letter-spacing:0.20em; text-transform:uppercase; color:rgba(230,237,234,0.62); margin-bottom:6px">Ratings</div>
+                <div style="font-family:'Martian Mono',monospace; font-size:22px; color:#E6EDEA; line-height:1">639</div>
+              </div>
+            </div>
+            <div style="display:flex; align-items:center; gap:10px; margin-top:16px; padding-top:14px; border-top:1px solid rgba(226,240,235,0.09)">
+              <div style="width:26px; height:11px; border:1px dashed rgba(230,237,234,0.30); border-radius:2px"></div>
+              <span style="font-size:13px; font-weight:300; color:rgba(230,237,234,0.72)">No website of its own</span>
+            </div>
+          </div>
+        </div>
+
+        <div style="position:absolute; right:48px; top:50%; transform:translateY(-50%); display:flex; flex-direction:column; gap:10px">
+          <div style="width:44px; height:44px; border-radius:50%; border:1px solid rgba(226,240,235,0.22); display:flex; align-items:center; justify-content:center"><span style="font-family:'Martian Mono',monospace; font-size:17px; color:#E6EDEA; line-height:1">+</span></div>
+          <div style="width:44px; height:44px; border-radius:50%; border:1px solid rgba(226,240,235,0.22); display:flex; align-items:center; justify-content:center"><span style="font-family:'Martian Mono',monospace; font-size:17px; color:#E6EDEA; line-height:1">−</span></div>
+        </div>
+        <div style="position:absolute; right:20px; bottom:14px; font-family:'Martian Mono',monospace; font-size:10px; color:rgba(230,237,234,0.42)">© OpenStreetMap contributors</div>
+      </div>
+    </div>
+    <div style="display:grid; grid-template-columns:repeat(4,1fr); gap:22px">
+      <sc-for list="{{ notes2 }}" as="n" hint-placeholder-count="4">
+        <div>
+          <div style="font-family:'Martian Mono',monospace; font-size:8.5px; letter-spacing:0.15em; text-transform:uppercase; color:#E09B3C; margin-bottom:7px">{{ n.k }}</div>
+          <p style="margin:0; font-size:13.5px; line-height:1.55; font-weight:300; color:rgba(230,237,234,0.66); text-wrap:pretty">{{ n.v }}</p>
+        </div>
+      </sc-for>
+    </div>
+  </section>
+
+  <section style="padding:64px 0 0">
+    <div style="display:flex; align-items:baseline; gap:16px; margin-bottom:10px">
+      <span style="font-family:'Martian Mono',monospace; font-size:10px; font-weight:500; letter-spacing:0.16em; color:#E09B3C">03</span>
+      <h2 style="margin:0; font-size:13px; font-family:'Martian Mono',monospace; font-weight:400; letter-spacing:0.16em; text-transform:uppercase; color:rgba(230,237,234,0.88)">Map + List view</h2>
+      <span style="font-size:14px; font-weight:300; color:rgba(230,237,234,0.52)">The seam, and eight real rows rising out of it.</span>
+    </div>
+    <div style="width:1400px; height:788px; overflow:hidden; border:1px solid rgba(226,240,235,0.13); border-radius:14px; margin-bottom:16px">
+      <div style="width:1920px; height:1080px; transform:scale(0.72917); transform-origin:0 0; position:relative; overflow:hidden; background:#05090A">
+
+        <div style="position:absolute; left:0; top:-407px; width:1920px; height:1140px">
+          <img src="assets/map/guntur-basemap-v3.png" alt="Dark street map of Guntur" style="display:block; width:100%; height:100%; object-fit:cover">
+          <sc-for list="{{ dots }}" as="d" hint-placeholder-count="87">
+            <div style="position:absolute; left:{{ d.left }}; top:{{ d.top }}; width:{{ d.size }}; height:{{ d.size }}; margin-left:{{ d.off }}; margin-top:{{ d.off }}; opacity:{{ d.op }}">
+              <div style="width:100%; height:100%; border-radius:50%; background:{{ d.color }}; box-shadow:{{ d.glow }}; animation:glazePulse 4.2s ease-in-out infinite; animation-delay:{{ d.delay }}"></div>
+            </div>
+          </sc-for>
+        </div>
+
+        <div style="position:absolute; left:0; right:0; top:432px; bottom:0; overflow:hidden; pointer-events:none; mask-image:linear-gradient(180deg, rgba(0,0,0,0) 0%, rgba(0,0,0,1) 22%); -webkit-mask-image:linear-gradient(180deg, rgba(0,0,0,0) 0%, rgba(0,0,0,1) 22%)">
+          <div style="position:absolute; left:0; top:-839px; width:1920px; height:1140px; filter:saturate(0.28) contrast(0.80) brightness(1.30) blur(18px)">
+            <img src="assets/map/guntur-basemap-v3.png" alt="" style="display:block; width:100%; height:100%; object-fit:cover">
+          </div>
+        </div>
+        <div style="position:absolute; left:0; right:0; top:432px; bottom:0; background:url('assets/atmosphere/fog-plate.png') center bottom/cover; mix-blend-mode:screen; opacity:0.30; pointer-events:none; mask-image:linear-gradient(180deg, rgba(0,0,0,0) 0%, rgba(0,0,0,1) 26%); -webkit-mask-image:linear-gradient(180deg, rgba(0,0,0,0) 0%, rgba(0,0,0,1) 26%)"></div>
+        <div style="position:absolute; left:0; right:0; top:432px; bottom:0; background:linear-gradient(180deg, rgba(214,229,224,0) 0%, rgba(214,229,224,0.028) 42%, rgba(214,229,224,0.055) 72%, rgba(214,229,224,0.068) 100%); pointer-events:none"></div>
+        <div style="position:absolute; inset:0; background:url('assets/atmosphere/grain.png') center/cover; mix-blend-mode:soft-light; opacity:0.045; pointer-events:none"></div>
+        <div style="position:absolute; left:0; right:0; top:0; height:190px; background:linear-gradient(180deg, rgba(5,9,10,0.86) 0%, rgba(5,9,10,0.44) 58%, rgba(5,9,10,0) 100%); pointer-events:none"></div>
+        <div style="position:absolute; left:0; top:60px; width:640px; height:400px; background:radial-gradient(ellipse 76% 70% at 20% 40%, rgba(5,9,10,0.86) 0%, rgba(5,9,10,0.38) 48%, rgba(5,9,10,0) 74%); pointer-events:none"></div>
+
+        <div style="position:absolute; left:32px; right:32px; top:20px; height:44px; display:flex; align-items:center; gap:16px">
+          <div style="width:328px; height:44px; border-radius:999px; background:rgba(226,240,235,0.045); border:1px solid rgba(226,240,235,0.09); border-top-color:rgba(226,240,235,0.13); box-shadow:0 1px 2px rgba(0,0,0,.4), 0 8px 24px rgba(0,0,0,.28); display:flex; align-items:center; gap:12px; padding:0 18px; flex-shrink:0">
+            <div style="width:13px; height:13px; border:1.4px solid rgba(230,237,234,0.62); border-radius:50%; position:relative; flex-shrink:0"><div style="position:absolute; width:6px; height:1.4px; background:rgba(230,237,234,0.62); right:-5px; bottom:0px; transform:rotate(45deg); transform-origin:left center"></div></div>
+            <span style="font-size:13.5px; font-weight:300; color:rgba(230,237,234,0.42)">Search 92 clinics in Guntur</span>
+          </div>
+          <div style="height:44px; border-radius:999px; background:rgba(226,240,235,0.045); border:1px solid rgba(226,240,235,0.09); border-top-color:rgba(226,240,235,0.13); box-shadow:0 1px 2px rgba(0,0,0,.4), 0 8px 24px rgba(0,0,0,.28); display:flex; align-items:center; padding:4px; gap:2px; flex-shrink:0">
+            <span style="padding:0 20px; height:36px; display:flex; align-items:center; border-radius:999px; font-size:13.5px; font-weight:300; color:rgba(230,237,234,0.62)">Your Clinic</span>
+            <span style="padding:0 20px; height:36px; display:flex; align-items:center; border-radius:999px; background:rgba(226,240,235,0.11); font-size:13.5px; font-weight:400; color:#E6EDEA">The Market</span>
+            <span style="padding:0 20px; height:36px; display:flex; align-items:center; border-radius:999px; font-size:13.5px; font-weight:300; color:rgba(230,237,234,0.62)">Your City</span>
+          </div>
+          <div style="height:44px; border-radius:999px; border:1px solid rgba(226,240,235,0.22); display:flex; align-items:center; padding:4px; gap:2px; flex-shrink:0">
+            <span style="padding:0 18px; height:36px; display:flex; align-items:center; border-radius:999px; font-size:13px; font-weight:300; color:rgba(230,237,234,0.62)">Map</span>
+            <span style="padding:0 18px; height:36px; display:flex; align-items:center; border-radius:999px; background:rgba(226,240,235,0.11); font-size:13px; font-weight:400; color:#E6EDEA">Map + List</span>
+          </div>
+          <div style="flex:1"></div>
+          <div style="display:flex; align-items:center; gap:10px; flex-shrink:0">
+            <div style="width:40px; height:40px; border-radius:50%; background:rgba(226,240,235,0.045); border:1px solid rgba(226,240,235,0.09); border-top-color:rgba(226,240,235,0.13); display:flex; align-items:center; justify-content:center; position:relative"><div style="width:14px; height:14px; border:1.4px solid rgba(230,237,234,0.66); border-radius:50%"></div><div style="position:absolute; top:9px; right:9px; width:6px; height:6px; border-radius:50%; background:#E09B3C; border:1.5px solid #0A1012"></div></div>
+            <div style="width:40px; height:40px; border-radius:50%; background:rgba(226,240,235,0.045); border:1px solid rgba(226,240,235,0.09); border-top-color:rgba(226,240,235,0.13); display:flex; align-items:center; justify-content:center"><div style="width:16px; height:16px; border:1.4px solid rgba(230,237,234,0.66); border-radius:50%; display:flex; align-items:center; justify-content:center"><div style="width:6px; height:6px; border:1.4px solid rgba(230,237,234,0.66); border-radius:50%"></div></div></div>
+            <div style="width:40px; height:40px; border-radius:50%; background:rgba(226,240,235,0.13); border:1px solid rgba(226,240,235,0.18); display:flex; align-items:center; justify-content:center"><span style="font-family:'Martian Mono',monospace; font-size:12px; font-weight:500; color:#E6EDEA">SP</span></div>
+          </div>
+        </div>
+
+        <div style="position:absolute; left:48px; top:110px">
+          <div style="display:flex; align-items:center; gap:10px; margin-bottom:14px">
+            <div style="width:22px; height:22px; border-radius:50%; background:#E6EDEA; display:flex; align-items:center; justify-content:center"><div style="width:9px; height:9px; border-radius:50%; border:2px solid #05090A"></div></div>
+            <span style="font-family:'Martian Mono',monospace; font-size:10px; font-weight:500; letter-spacing:0.20em; text-transform:uppercase; color:rgba(230,237,234,0.82)">Derma Intel</span>
+          </div>
+          <div style="font-family:'Archivo',sans-serif; font-variation-settings:'wdth' 122; font-size:46px; font-weight:200; letter-spacing:-0.028em; line-height:1.0; color:#E6EDEA">Guntur <span style="color:rgba(230,237,234,0.45)">Dermatology</span></div>
+        </div>
+
+        <div style="position:absolute; right:48px; top:230px; display:flex; flex-direction:column; gap:10px">
+          <div style="width:44px; height:44px; border-radius:50%; border:1px solid rgba(226,240,235,0.22); display:flex; align-items:center; justify-content:center"><span style="font-family:'Martian Mono',monospace; font-size:17px; color:#E6EDEA; line-height:1">+</span></div>
+          <div style="width:44px; height:44px; border-radius:50%; border:1px solid rgba(226,240,235,0.22); display:flex; align-items:center; justify-content:center"><span style="font-family:'Martian Mono',monospace; font-size:17px; color:#E6EDEA; line-height:1">−</span></div>
+        </div>
+        <div style="position:absolute; right:24px; top:400px; font-family:'Martian Mono',monospace; font-size:10px; color:rgba(230,237,234,0.42)">© OpenStreetMap contributors</div>
+
+        <div style="position:absolute; left:0; right:0; top:594px; bottom:0; border-radius:32px 32px 0 0; background:rgba(226,240,235,0.045); border-top:1px solid rgba(226,240,235,0.13); backdrop-filter:blur(22px); -webkit-backdrop-filter:blur(22px); overflow:hidden">
+          <div style="height:44px; display:flex; align-items:center; gap:16px; padding:0 40px; border-bottom:1px solid rgba(226,240,235,0.09)">
+            <span style="font-family:'Martian Mono',monospace; font-size:10px; font-weight:500; letter-spacing:0.20em; text-transform:uppercase; color:rgba(230,237,234,0.62)">81 clinics · A → Z</span>
+            <div style="flex:1"></div>
+            <span style="font-family:'Martian Mono',monospace; font-size:10px; font-weight:500; letter-spacing:0.20em; text-transform:uppercase; color:rgba(230,237,234,0.62)">Own site</span>
+            <span style="font-family:'Martian Mono',monospace; font-size:10px; font-weight:500; letter-spacing:0.20em; text-transform:uppercase; color:rgba(230,237,234,0.62); width:230px">Rating · 3.5 → 5.0 window</span>
+            <span style="font-family:'Martian Mono',monospace; font-size:10px; font-weight:500; letter-spacing:0.20em; text-transform:uppercase; color:rgba(230,237,234,0.62); width:66px; text-align:right">Reviews</span>
+            <span style="width:22px"></span>
+          </div>
+          <sc-for list="{{ rows }}" as="r" hint-placeholder-count="8">
+            <div style="height:54px; display:flex; align-items:center; gap:16px; padding:0 40px 0 0; border-bottom:1px solid rgba(226,240,235,0.07); opacity:{{ r.haze }}; filter:{{ r.blur }}">
+              <div style="width:2px; height:22px; border-radius:2px; background:{{ r.tick }}; flex-shrink:0; margin-left:38px"></div>
+              <div style="flex:1; min-width:0; display:flex; align-items:baseline; gap:10px">
+                <span style="font-size:15px; font-weight:400; color:{{ r.nameFg }}; white-space:nowrap; overflow:hidden; text-overflow:ellipsis">{{ r.name }}</span>
+                <span style="font-family:'Martian Mono',monospace; font-size:9px; letter-spacing:0.14em; text-transform:uppercase; color:rgba(230,237,234,0.42); flex-shrink:0">{{ r.relTag }}</span>
+              </div>
+              <div style="width:64px; display:flex; justify-content:center; flex-shrink:0">
+                <div style="width:26px; height:11px; border-radius:2px; background:{{ r.siteBg }}; border:{{ r.siteBorder }}"></div>
+              </div>
+              <div style="width:230px; flex-shrink:0; position:relative; height:20px">
+                <div style="position:absolute; left:0; right:0; top:9px; height:1px; background:rgba(226,240,235,0.10)"></div>
+                <div style="position:absolute; left:{{ r.vLeft }}; top:0; width:3px; height:20px; border-radius:2px; background:{{ r.vBg }}; border:{{ r.vBorder }}; transform:scaleY({{ r.vWeight }})"></div>
+              </div>
+              <span style="width:44px; font-family:'Martian Mono',monospace; font-size:15px; color:{{ r.nameFg }}; text-align:right; flex-shrink:0; font-variant-numeric:tabular-nums">{{ r.rating }}</span>
+              <span style="width:66px; font-family:'Martian Mono',monospace; font-size:13px; color:rgba(230,237,234,0.62); text-align:right; flex-shrink:0; font-variant-numeric:tabular-nums">{{ r.reviews }}</span>
+              <span style="width:22px; text-align:right; font-size:12px; color:rgba(230,237,234,0.34); flex-shrink:0">↗</span>
+            </div>
+          </sc-for>
+        </div>
+      </div>
+    </div>
+    <div style="display:grid; grid-template-columns:repeat(4,1fr); gap:22px">
+      <sc-for list="{{ notes3 }}" as="n" hint-placeholder-count="4">
+        <div>
+          <div style="font-family:'Martian Mono',monospace; font-size:8.5px; letter-spacing:0.15em; text-transform:uppercase; color:#E09B3C; margin-bottom:7px">{{ n.k }}</div>
+          <p style="margin:0; font-size:13.5px; line-height:1.55; font-weight:300; color:rgba(230,237,234,0.66); text-wrap:pretty">{{ n.v }}</p>
+        </div>
+      </sc-for>
+    </div>
+  </section>
+
+  <section style="padding:64px 0 0">
+    <div style="display:flex; align-items:baseline; gap:16px; margin-bottom:10px">
+      <span style="font-family:'Martian Mono',monospace; font-size:10px; font-weight:500; letter-spacing:0.16em; color:#E09B3C">04</span>
+      <h2 style="margin:0; font-size:13px; font-family:'Martian Mono',monospace; font-weight:400; letter-spacing:0.16em; text-transform:uppercase; color:rgba(230,237,234,0.88)">A search in progress</h2>
+      <span style="font-size:14px; font-weight:300; color:rgba(230,237,234,0.52)">"skin" — 41 of 81 rows match, and 46 dots dim on the map.</span>
+    </div>
+    <div style="width:1400px; height:788px; overflow:hidden; border:1px solid rgba(226,240,235,0.13); border-radius:14px; margin-bottom:16px">
+      <div style="width:1920px; height:1080px; transform:scale(0.72917); transform-origin:0 0; position:relative; overflow:hidden; background:#05090A">
+        <div style="position:absolute; left:0; top:-407px; width:1920px; height:1140px">
+          <img src="assets/map/guntur-basemap-v3.png" alt="Dark street map of Guntur" style="display:block; width:100%; height:100%; object-fit:cover">
+          <sc-for list="{{ dotsSearch }}" as="d" hint-placeholder-count="87">
+            <div style="position:absolute; left:{{ d.left }}; top:{{ d.top }}; width:{{ d.size }}; height:{{ d.size }}; margin-left:{{ d.off }}; margin-top:{{ d.off }}; opacity:{{ d.op }}">
+              <div style="width:100%; height:100%; border-radius:50%; background:{{ d.color }}; box-shadow:{{ d.glow }}"></div>
+            </div>
+          </sc-for>
+        </div>
+        <div style="position:absolute; left:0; right:0; top:432px; bottom:0; overflow:hidden; pointer-events:none; mask-image:linear-gradient(180deg, rgba(0,0,0,0) 0%, rgba(0,0,0,1) 22%); -webkit-mask-image:linear-gradient(180deg, rgba(0,0,0,0) 0%, rgba(0,0,0,1) 22%)">
+          <div style="position:absolute; left:0; top:-839px; width:1920px; height:1140px; filter:saturate(0.28) contrast(0.80) brightness(1.30) blur(18px)"><img src="assets/map/guntur-basemap-v3.png" alt="" style="display:block; width:100%; height:100%; object-fit:cover"></div>
+        </div>
+        <div style="position:absolute; left:0; right:0; top:432px; bottom:0; background:linear-gradient(180deg, rgba(214,229,224,0) 0%, rgba(214,229,224,0.028) 42%, rgba(214,229,224,0.055) 72%, rgba(214,229,224,0.068) 100%); pointer-events:none"></div>
+        <div style="position:absolute; inset:0; background:url('assets/atmosphere/grain.png') center/cover; mix-blend-mode:soft-light; opacity:0.045; pointer-events:none"></div>
+        <div style="position:absolute; left:0; right:0; top:0; height:190px; background:linear-gradient(180deg, rgba(5,9,10,0.86) 0%, rgba(5,9,10,0.44) 58%, rgba(5,9,10,0) 100%); pointer-events:none"></div>
+
+        <div style="position:absolute; left:32px; right:32px; top:20px; height:44px; display:flex; align-items:center; gap:16px">
+          <div style="width:328px; height:44px; border-radius:999px; background:rgba(226,240,235,0.11); border:1px solid rgba(226,240,235,0.22); box-shadow:0 0 0 2px rgba(5,9,10,1), 0 0 0 4px rgba(255,255,255,0.85); display:flex; align-items:center; gap:12px; padding:0 18px; flex-shrink:0">
+            <div style="width:13px; height:13px; border:1.4px solid rgba(230,237,234,0.82); border-radius:50%; position:relative; flex-shrink:0"><div style="position:absolute; width:6px; height:1.4px; background:rgba(230,237,234,0.82); right:-5px; bottom:0px; transform:rotate(45deg); transform-origin:left center"></div></div>
+            <span style="font-size:13.5px; font-weight:400; color:#E6EDEA">skin</span>
+            <div style="width:1px; height:16px; background:#E6EDEA"></div>
+            <div style="flex:1"></div>
+            <span style="font-family:'Martian Mono',monospace; font-size:11px; color:rgba(230,237,234,0.62)">41 / 81</span>
+          </div>
+          <div style="height:44px; border-radius:999px; background:rgba(226,240,235,0.045); border:1px solid rgba(226,240,235,0.09); border-top-color:rgba(226,240,235,0.13); display:flex; align-items:center; padding:4px; gap:2px; flex-shrink:0">
+            <span style="padding:0 20px; height:36px; display:flex; align-items:center; border-radius:999px; font-size:13.5px; font-weight:300; color:rgba(230,237,234,0.62)">Your Clinic</span>
+            <span style="padding:0 20px; height:36px; display:flex; align-items:center; border-radius:999px; background:rgba(226,240,235,0.11); font-size:13.5px; font-weight:400; color:#E6EDEA">The Market</span>
+            <span style="padding:0 20px; height:36px; display:flex; align-items:center; border-radius:999px; font-size:13.5px; font-weight:300; color:rgba(230,237,234,0.62)">Your City</span>
+          </div>
+          <div style="height:44px; border-radius:999px; border:1px solid rgba(226,240,235,0.22); display:flex; align-items:center; padding:4px; gap:2px; flex-shrink:0">
+            <span style="padding:0 18px; height:36px; display:flex; align-items:center; border-radius:999px; font-size:13px; font-weight:300; color:rgba(230,237,234,0.62)">Map</span>
+            <span style="padding:0 18px; height:36px; display:flex; align-items:center; border-radius:999px; background:rgba(226,240,235,0.11); font-size:13px; font-weight:400; color:#E6EDEA">Map + List</span>
+          </div>
+          <div style="flex:1"></div>
+          <div style="display:flex; align-items:center; gap:10px; flex-shrink:0">
+            <div style="width:40px; height:40px; border-radius:50%; background:rgba(226,240,235,0.045); border:1px solid rgba(226,240,235,0.09); display:flex; align-items:center; justify-content:center"><div style="width:14px; height:14px; border:1.4px solid rgba(230,237,234,0.66); border-radius:50%"></div></div>
+            <div style="width:40px; height:40px; border-radius:50%; background:rgba(226,240,235,0.045); border:1px solid rgba(226,240,235,0.09); display:flex; align-items:center; justify-content:center"><div style="width:16px; height:16px; border:1.4px solid rgba(230,237,234,0.66); border-radius:50%; display:flex; align-items:center; justify-content:center"><div style="width:6px; height:6px; border:1.4px solid rgba(230,237,234,0.66); border-radius:50%"></div></div></div>
+            <div style="width:40px; height:40px; border-radius:50%; background:rgba(226,240,235,0.13); border:1px solid rgba(226,240,235,0.18); display:flex; align-items:center; justify-content:center"><span style="font-family:'Martian Mono',monospace; font-size:12px; font-weight:500; color:#E6EDEA">SP</span></div>
+          </div>
+        </div>
+
+        <div style="position:absolute; left:0; right:0; top:594px; bottom:0; border-radius:32px 32px 0 0; background:rgba(226,240,235,0.045); border-top:1px solid rgba(226,240,235,0.13); overflow:hidden">
+          <div style="height:44px; display:flex; align-items:center; gap:16px; padding:0 40px; border-bottom:1px solid rgba(226,240,235,0.09)">
+            <span style="font-family:'Martian Mono',monospace; font-size:10px; font-weight:500; letter-spacing:0.20em; text-transform:uppercase; color:rgba(230,237,234,0.62)">41 of 81 match “skin”</span>
+            <div style="height:26px; display:flex; align-items:center; gap:8px; padding:0 12px; border-radius:999px; border:1px solid rgba(226,240,235,0.22)">
+              <span style="font-size:12px; font-weight:300; color:rgba(230,237,234,0.72)">Clear</span>
+              <span style="font-family:'Martian Mono',monospace; font-size:11px; color:rgba(230,237,234,0.52); line-height:1">×</span>
+            </div>
+            <div style="flex:1"></div>
+            <span style="font-family:'Martian Mono',monospace; font-size:10px; font-weight:500; letter-spacing:0.20em; text-transform:uppercase; color:rgba(230,237,234,0.62)">Own site</span>
+            <span style="font-family:'Martian Mono',monospace; font-size:10px; font-weight:500; letter-spacing:0.20em; text-transform:uppercase; color:rgba(230,237,234,0.62); width:230px">Rating · 3.5 → 5.0 window</span>
+            <span style="font-family:'Martian Mono',monospace; font-size:10px; font-weight:500; letter-spacing:0.20em; text-transform:uppercase; color:rgba(230,237,234,0.62); width:66px; text-align:right">Reviews</span>
+            <span style="width:22px"></span>
+          </div>
+          <sc-for list="{{ searchRows }}" as="r" hint-placeholder-count="8">
+            <div style="height:54px; display:flex; align-items:center; gap:16px; padding:0 40px 0 0; border-bottom:1px solid rgba(226,240,235,0.07); opacity:{{ r.haze }}">
+              <div style="width:2px; height:22px; border-radius:2px; background:{{ r.tick }}; flex-shrink:0; margin-left:38px"></div>
+              <div style="flex:1; min-width:0; display:flex; align-items:baseline; gap:10px">
+                <span style="font-size:15px; font-weight:400; color:{{ r.nameFg }}; white-space:nowrap">{{ r.pre }}<span style="color:#05090A; background:#E09B3C; border-radius:3px; padding:1px 3px; margin:0 -1px">{{ r.hit }}</span>{{ r.post }}</span>
+                <span style="font-family:'Martian Mono',monospace; font-size:9px; letter-spacing:0.14em; text-transform:uppercase; color:rgba(230,237,234,0.42); flex-shrink:0">{{ r.relTag }}</span>
+              </div>
+              <div style="width:64px; display:flex; justify-content:center; flex-shrink:0"><div style="width:26px; height:11px; border-radius:2px; background:{{ r.siteBg }}; border:{{ r.siteBorder }}"></div></div>
+              <div style="width:230px; flex-shrink:0; position:relative; height:20px">
+                <div style="position:absolute; left:0; right:0; top:9px; height:1px; background:rgba(226,240,235,0.10)"></div>
+                <div style="position:absolute; left:{{ r.vLeft }}; top:0; width:3px; height:20px; border-radius:2px; background:{{ r.vBg }}; border:{{ r.vBorder }}; transform:scaleY({{ r.vWeight }})"></div>
+              </div>
+              <span style="width:44px; font-family:'Martian Mono',monospace; font-size:15px; color:{{ r.nameFg }}; text-align:right; flex-shrink:0; font-variant-numeric:tabular-nums">{{ r.rating }}</span>
+              <span style="width:66px; font-family:'Martian Mono',monospace; font-size:13px; color:rgba(230,237,234,0.62); text-align:right; flex-shrink:0; font-variant-numeric:tabular-nums">{{ r.reviews }}</span>
+              <span style="width:22px; text-align:right; font-size:12px; color:rgba(230,237,234,0.34); flex-shrink:0">↗</span>
+            </div>
+          </sc-for>
+        </div>
+        <div style="position:absolute; right:20px; top:400px; font-family:'Martian Mono',monospace; font-size:10px; color:rgba(230,237,234,0.42)">© OpenStreetMap contributors</div>
+      </div>
+    </div>
+    <div style="display:grid; grid-template-columns:repeat(3,1fr); gap:22px">
+      <sc-for list="{{ notes4 }}" as="n" hint-placeholder-count="3">
+        <div><div style="font-family:'Martian Mono',monospace; font-size:8.5px; letter-spacing:0.15em; text-transform:uppercase; color:#E09B3C; margin-bottom:7px">{{ n.k }}</div><p style="margin:0; font-size:13.5px; line-height:1.55; font-weight:300; color:rgba(230,237,234,0.66); text-wrap:pretty">{{ n.v }}</p></div>
+      </sc-for>
+    </div>
+  </section>
+
+  <section style="padding:64px 0 0">
+    <div style="display:flex; align-items:baseline; gap:16px; margin-bottom:10px">
+      <span style="font-family:'Martian Mono',monospace; font-size:10px; font-weight:500; letter-spacing:0.16em; color:#E09B3C">05</span>
+      <h2 style="margin:0; font-size:13px; font-family:'Martian Mono',monospace; font-weight:400; letter-spacing:0.16em; text-transform:uppercase; color:rgba(230,237,234,0.88)">The not-found state</h2>
+      <span style="font-size:14px; font-weight:300; color:rgba(230,237,234,0.52)">It does not apologise, it is never vague, and it invites an action.</span>
+    </div>
+    <div style="width:1400px; height:788px; overflow:hidden; border:1px solid rgba(226,240,235,0.13); border-radius:14px; margin-bottom:16px">
+      <div style="width:1920px; height:1080px; transform:scale(0.72917); transform-origin:0 0; position:relative; overflow:hidden; background:#05090A">
+        <div style="position:absolute; left:0; top:-407px; width:1920px; height:1140px">
+          <img src="assets/map/guntur-basemap-v3.png" alt="Dark street map of Guntur" style="display:block; width:100%; height:100%; object-fit:cover; opacity:0.72">
+          <sc-for list="{{ dotsNone }}" as="d" hint-placeholder-count="87">
+            <div style="position:absolute; left:{{ d.left }}; top:{{ d.top }}; width:{{ d.size }}; height:{{ d.size }}; margin-left:{{ d.off }}; margin-top:{{ d.off }}; opacity:0.14">
+              <div style="width:100%; height:100%; border-radius:50%; background:{{ d.color }}"></div>
+            </div>
+          </sc-for>
+        </div>
+        <div style="position:absolute; left:0; right:0; top:432px; bottom:0; overflow:hidden; pointer-events:none; mask-image:linear-gradient(180deg, rgba(0,0,0,0) 0%, rgba(0,0,0,1) 22%); -webkit-mask-image:linear-gradient(180deg, rgba(0,0,0,0) 0%, rgba(0,0,0,1) 22%)">
+          <div style="position:absolute; left:0; top:-839px; width:1920px; height:1140px; filter:saturate(0.28) contrast(0.80) brightness(1.30) blur(18px)"><img src="assets/map/guntur-basemap-v3.png" alt="" style="display:block; width:100%; height:100%; object-fit:cover"></div>
+        </div>
+        <div style="position:absolute; left:0; right:0; top:432px; bottom:0; background:linear-gradient(180deg, rgba(214,229,224,0) 0%, rgba(214,229,224,0.028) 42%, rgba(214,229,224,0.055) 72%, rgba(214,229,224,0.068) 100%); pointer-events:none"></div>
+        <div style="position:absolute; inset:0; background:url('assets/atmosphere/grain.png') center/cover; mix-blend-mode:soft-light; opacity:0.045; pointer-events:none"></div>
+        <div style="position:absolute; left:0; right:0; top:0; height:190px; background:linear-gradient(180deg, rgba(5,9,10,0.86) 0%, rgba(5,9,10,0.44) 58%, rgba(5,9,10,0) 100%); pointer-events:none"></div>
+
+        <div style="position:absolute; left:32px; right:32px; top:20px; height:44px; display:flex; align-items:center; gap:16px">
+          <div style="width:328px; height:44px; border-radius:999px; background:rgba(226,240,235,0.11); border:1px solid rgba(226,240,235,0.22); box-shadow:0 0 0 2px rgba(5,9,10,1), 0 0 0 4px rgba(255,255,255,0.85); display:flex; align-items:center; gap:12px; padding:0 18px; flex-shrink:0">
+            <div style="width:13px; height:13px; border:1.4px solid rgba(230,237,234,0.82); border-radius:50%; position:relative; flex-shrink:0"><div style="position:absolute; width:6px; height:1.4px; background:rgba(230,237,234,0.82); right:-5px; bottom:0px; transform:rotate(45deg); transform-origin:left center"></div></div>
+            <span style="font-size:13.5px; font-weight:400; color:#E6EDEA">Vasudha Skin</span>
+            <div style="width:1px; height:16px; background:#E6EDEA"></div>
+            <div style="flex:1"></div>
+            <span style="font-family:'Martian Mono',monospace; font-size:11px; color:#E09B3C">0 / 81</span>
+          </div>
+          <div style="height:44px; border-radius:999px; background:rgba(226,240,235,0.045); border:1px solid rgba(226,240,235,0.09); display:flex; align-items:center; padding:4px; gap:2px; flex-shrink:0">
+            <span style="padding:0 20px; height:36px; display:flex; align-items:center; border-radius:999px; font-size:13.5px; font-weight:300; color:rgba(230,237,234,0.62)">Your Clinic</span>
+            <span style="padding:0 20px; height:36px; display:flex; align-items:center; border-radius:999px; background:rgba(226,240,235,0.11); font-size:13.5px; font-weight:400; color:#E6EDEA">The Market</span>
+            <span style="padding:0 20px; height:36px; display:flex; align-items:center; border-radius:999px; font-size:13.5px; font-weight:300; color:rgba(230,237,234,0.62)">Your City</span>
+          </div>
+          <div style="height:44px; border-radius:999px; border:1px solid rgba(226,240,235,0.22); display:flex; align-items:center; padding:4px; gap:2px; flex-shrink:0">
+            <span style="padding:0 18px; height:36px; display:flex; align-items:center; border-radius:999px; font-size:13px; font-weight:300; color:rgba(230,237,234,0.62)">Map</span>
+            <span style="padding:0 18px; height:36px; display:flex; align-items:center; border-radius:999px; background:rgba(226,240,235,0.11); font-size:13px; font-weight:400; color:#E6EDEA">Map + List</span>
+          </div>
+          <div style="flex:1"></div>
+          <div style="display:flex; align-items:center; gap:10px; flex-shrink:0">
+            <div style="width:40px; height:40px; border-radius:50%; background:rgba(226,240,235,0.045); border:1px solid rgba(226,240,235,0.09); display:flex; align-items:center; justify-content:center"><div style="width:14px; height:14px; border:1.4px solid rgba(230,237,234,0.66); border-radius:50%"></div></div>
+            <div style="width:40px; height:40px; border-radius:50%; background:rgba(226,240,235,0.045); border:1px solid rgba(226,240,235,0.09); display:flex; align-items:center; justify-content:center"><div style="width:16px; height:16px; border:1.4px solid rgba(230,237,234,0.66); border-radius:50%; display:flex; align-items:center; justify-content:center"><div style="width:6px; height:6px; border:1.4px solid rgba(230,237,234,0.66); border-radius:50%"></div></div></div>
+            <div style="width:40px; height:40px; border-radius:50%; background:rgba(226,240,235,0.13); border:1px solid rgba(226,240,235,0.18); display:flex; align-items:center; justify-content:center"><span style="font-family:'Martian Mono',monospace; font-size:12px; font-weight:500; color:#E6EDEA">SP</span></div>
+          </div>
+        </div>
+
+        <div style="position:absolute; left:0; right:0; top:594px; bottom:0; border-radius:32px 32px 0 0; background:rgba(226,240,235,0.045); border-top:1px solid rgba(226,240,235,0.13); overflow:hidden">
+          <div style="padding:56px 64px 0">
+            <div style="display:flex; align-items:center; gap:14px; margin-bottom:22px">
+              <div style="width:34px; height:11px; border-radius:2px; border:1px dashed rgba(230,237,234,0.34)"></div>
+              <span style="font-family:'Martian Mono',monospace; font-size:10px; font-weight:500; letter-spacing:0.20em; text-transform:uppercase; color:rgba(230,237,234,0.62)">Nothing in this snapshot matches</span>
+            </div>
+            <div style="font-family:'Archivo',sans-serif; font-variation-settings:'wdth' 118; font-size:40px; font-weight:200; letter-spacing:-0.024em; line-height:1.12; color:#E6EDEA; max-width:1120px">No clinic named <span style="color:#E09B3C">Vasudha Skin</span> is in the 20 August snapshot.</div>
+            <p style="margin:20px 0 0; font-size:17px; line-height:1.55; font-weight:300; color:rgba(230,237,234,0.72); max-width:840px">It holds 92 places in Guntur — 50 dermatology, 31 adjacent, 11 outside the speciality. A clinic can be absent because it is not on Google Maps, or because it opened after the run. Tell us the name and it goes into the next quarterly run.</p>
+            <div style="display:flex; align-items:center; gap:14px; margin-top:32px">
+              <div style="height:46px; display:flex; align-items:center; padding:0 26px; border-radius:999px; background:#FFFFFF; box-shadow:0 2px 6px rgba(0,0,0,.5), 0 22px 56px rgba(0,0,0,.42)"><span style="font-size:15px; font-weight:400; color:#05090A">Add this clinic to the next run</span></div>
+              <div style="height:46px; display:flex; align-items:center; padding:0 24px; border-radius:999px; border:1px solid rgba(226,240,235,0.22)"><span style="font-size:15px; font-weight:300; color:rgba(230,237,234,0.82)">Clear the search</span></div>
+            </div>
+          </div>
+        </div>
+        <div style="position:absolute; right:20px; top:400px; font-family:'Martian Mono',monospace; font-size:10px; color:rgba(230,237,234,0.42)">© OpenStreetMap contributors</div>
+      </div>
+    </div>
+    <div style="display:grid; grid-template-columns:repeat(3,1fr); gap:22px">
+      <sc-for list="{{ notes5 }}" as="n" hint-placeholder-count="3">
+        <div><div style="font-family:'Martian Mono',monospace; font-size:8.5px; letter-spacing:0.15em; text-transform:uppercase; color:#E09B3C; margin-bottom:7px">{{ n.k }}</div><p style="margin:0; font-size:13.5px; line-height:1.55; font-weight:300; color:rgba(230,237,234,0.66); text-wrap:pretty">{{ n.v }}</p></div>
+      </sc-for>
+    </div>
+  </section>
+
+  <section style="padding:64px 0 0">
+    <div style="display:flex; align-items:baseline; gap:16px; margin-bottom:10px">
+      <span style="font-family:'Martian Mono',monospace; font-size:10px; font-weight:500; letter-spacing:0.16em; color:#E09B3C">06</span>
+      <h2 style="margin:0; font-size:13px; font-family:'Martian Mono',monospace; font-weight:400; letter-spacing:0.16em; text-transform:uppercase; color:rgba(230,237,234,0.88)">A selected clinic</h2>
+      <span style="font-size:14px; font-weight:300; color:rgba(230,237,234,0.52)">Chandana Skin Clinic — the inverted white pill, spent once, in two places that are one object.</span>
+    </div>
+    <div style="width:1400px; height:788px; overflow:hidden; border:1px solid rgba(226,240,235,0.13); border-radius:14px; margin-bottom:16px">
+      <div style="width:1920px; height:1080px; transform:scale(0.72917); transform-origin:0 0; position:relative; overflow:hidden; background:#05090A">
+        <div style="position:absolute; left:0; top:-180px; width:1920px; height:1140px">
+          <img src="assets/map/guntur-basemap-v3.png" alt="Dark street map of Guntur" style="display:block; width:100%; height:100%; object-fit:cover">
+          <sc-for list="{{ dotsSel }}" as="d" hint-placeholder-count="87">
+            <div style="position:absolute; left:{{ d.left }}; top:{{ d.top }}; width:{{ d.size }}; height:{{ d.size }}; margin-left:{{ d.off }}; margin-top:{{ d.off }}; opacity:{{ d.op }}">
+              <div style="width:100%; height:100%; border-radius:50%; background:{{ d.color }}; box-shadow:{{ d.glow }}"></div>
+            </div>
+          </sc-for>
+        </div>
+        <div style="position:absolute; left:0; right:0; top:432px; bottom:0; overflow:hidden; pointer-events:none; mask-image:linear-gradient(180deg, rgba(0,0,0,0) 0%, rgba(0,0,0,1) 22%); -webkit-mask-image:linear-gradient(180deg, rgba(0,0,0,0) 0%, rgba(0,0,0,1) 22%)">
+          <div style="position:absolute; left:0; top:-612px; width:1920px; height:1140px; filter:saturate(0.28) contrast(0.80) brightness(1.30) blur(18px)"><img src="assets/map/guntur-basemap-v3.png" alt="" style="display:block; width:100%; height:100%; object-fit:cover"></div>
+        </div>
+        <div style="position:absolute; left:0; right:0; top:432px; bottom:0; background:linear-gradient(180deg, rgba(214,229,224,0) 0%, rgba(214,229,224,0.028) 42%, rgba(214,229,224,0.055) 72%, rgba(214,229,224,0.068) 100%); pointer-events:none"></div>
+        <div style="position:absolute; inset:0; background:url('assets/atmosphere/grain.png') center/cover; mix-blend-mode:soft-light; opacity:0.045; pointer-events:none"></div>
+        <div style="position:absolute; left:0; right:0; top:0; height:190px; background:linear-gradient(180deg, rgba(5,9,10,0.86) 0%, rgba(5,9,10,0.44) 58%, rgba(5,9,10,0) 100%); pointer-events:none"></div>
+
+        <div style="position:absolute; left:1010px; top:346px; width:34px; height:34px; margin-left:-17px; margin-top:-17px; border-radius:50%; border:1px solid #FFFFFF"></div>
+        <div style="position:absolute; left:1010px; top:346px; width:14px; height:14px; margin-left:-7px; margin-top:-7px; border-radius:50%; background:#FFFFFF; box-shadow:0 0 16px 6px rgba(255,255,255,0.34)"></div>
+        <div style="position:absolute; left:1010px; top:346px; width:96px; height:1px; background:linear-gradient(90deg, rgba(255,255,255,0.9) 0%, rgba(255,255,255,0.45) 100%); transform-origin:0 0; transform:rotate(-45deg)"></div>
+
+        <div style="position:absolute; left:1078px; top:214px; height:66px; display:flex; align-items:center; gap:36px; padding:0 30px; border-radius:999px; background:#FFFFFF; box-shadow:0 2px 6px rgba(0,0,0,.5), 0 22px 56px rgba(0,0,0,.42)">
+          <div style="position:absolute; left:-10px; bottom:-10px; width:20px; height:20px; border-radius:50%; background:#FFFFFF; border:1.5px solid #05090A"></div>
+          <div>
+            <div style="font-family:'Martian Mono',monospace; font-size:9.5px; font-weight:500; letter-spacing:0.20em; text-transform:uppercase; color:rgba(5,9,10,0.52)">Position by reviews</div>
+            <div style="font-size:14px; font-weight:400; color:rgba(5,9,10,0.86); margin-top:3px">Chandana Skin Clinic</div>
+          </div>
+          <div style="font-family:'Archivo',sans-serif; font-variation-settings:'wdth' 116; font-size:30px; font-weight:250; letter-spacing:-0.02em; color:#05090A; font-variant-numeric:tabular-nums; white-space:nowrap">4th <span style="color:rgba(5,9,10,0.45)">of 48</span></div>
+        </div>
+
+        <div style="position:absolute; left:32px; right:32px; top:20px; height:44px; display:flex; align-items:center; gap:16px">
+          <div style="width:328px; height:44px; border-radius:999px; background:rgba(226,240,235,0.045); border:1px solid rgba(226,240,235,0.09); border-top-color:rgba(226,240,235,0.13); display:flex; align-items:center; gap:12px; padding:0 18px; flex-shrink:0">
+            <div style="width:13px; height:13px; border:1.4px solid rgba(230,237,234,0.62); border-radius:50%; position:relative; flex-shrink:0"><div style="position:absolute; width:6px; height:1.4px; background:rgba(230,237,234,0.62); right:-5px; bottom:0px; transform:rotate(45deg); transform-origin:left center"></div></div>
+            <span style="font-size:13.5px; font-weight:300; color:rgba(230,237,234,0.42)">Search 92 clinics in Guntur</span>
+          </div>
+          <div style="height:44px; border-radius:999px; background:rgba(226,240,235,0.045); border:1px solid rgba(226,240,235,0.09); display:flex; align-items:center; padding:4px; gap:2px; flex-shrink:0">
+            <span style="padding:0 20px; height:36px; display:flex; align-items:center; border-radius:999px; font-size:13.5px; font-weight:300; color:rgba(230,237,234,0.62)">Your Clinic</span>
+            <span style="padding:0 20px; height:36px; display:flex; align-items:center; border-radius:999px; background:rgba(226,240,235,0.11); font-size:13.5px; font-weight:400; color:#E6EDEA">The Market</span>
+            <span style="padding:0 20px; height:36px; display:flex; align-items:center; border-radius:999px; font-size:13.5px; font-weight:300; color:rgba(230,237,234,0.62)">Your City</span>
+          </div>
+          <div style="height:44px; border-radius:999px; border:1px solid rgba(226,240,235,0.22); display:flex; align-items:center; padding:4px; gap:2px; flex-shrink:0">
+            <span style="padding:0 18px; height:36px; display:flex; align-items:center; border-radius:999px; font-size:13px; font-weight:300; color:rgba(230,237,234,0.62)">Map</span>
+            <span style="padding:0 18px; height:36px; display:flex; align-items:center; border-radius:999px; background:rgba(226,240,235,0.11); font-size:13px; font-weight:400; color:#E6EDEA">Map + List</span>
+          </div>
+          <div style="flex:1"></div>
+          <div style="display:flex; align-items:center; gap:10px; flex-shrink:0">
+            <div style="width:40px; height:40px; border-radius:50%; background:rgba(226,240,235,0.045); border:1px solid rgba(226,240,235,0.09); display:flex; align-items:center; justify-content:center"><div style="width:14px; height:14px; border:1.4px solid rgba(230,237,234,0.66); border-radius:50%"></div></div>
+            <div style="width:40px; height:40px; border-radius:50%; background:rgba(226,240,235,0.045); border:1px solid rgba(226,240,235,0.09); display:flex; align-items:center; justify-content:center"><div style="width:16px; height:16px; border:1.4px solid rgba(230,237,234,0.66); border-radius:50%; display:flex; align-items:center; justify-content:center"><div style="width:6px; height:6px; border:1.4px solid rgba(230,237,234,0.66); border-radius:50%"></div></div></div>
+            <div style="width:40px; height:40px; border-radius:50%; background:rgba(226,240,235,0.13); border:1px solid rgba(226,240,235,0.18); display:flex; align-items:center; justify-content:center"><span style="font-family:'Martian Mono',monospace; font-size:12px; font-weight:500; color:#E6EDEA">SP</span></div>
+          </div>
+        </div>
+
+        <div style="position:absolute; left:0; right:0; top:594px; bottom:0; border-radius:32px 32px 0 0; background:rgba(226,240,235,0.045); border-top:1px solid rgba(226,240,235,0.13); overflow:hidden">
+          <div style="height:44px; display:flex; align-items:center; gap:16px; padding:0 40px; border-bottom:1px solid rgba(226,240,235,0.09)">
+            <span style="font-family:'Martian Mono',monospace; font-size:10px; font-weight:500; letter-spacing:0.20em; text-transform:uppercase; color:rgba(230,237,234,0.62)">81 clinics · A → Z</span>
+            <div style="flex:1"></div>
+            <span style="font-family:'Martian Mono',monospace; font-size:10px; font-weight:500; letter-spacing:0.20em; text-transform:uppercase; color:rgba(230,237,234,0.62)">Own site</span>
+            <span style="font-family:'Martian Mono',monospace; font-size:10px; font-weight:500; letter-spacing:0.20em; text-transform:uppercase; color:rgba(230,237,234,0.62); width:230px">Rating · 3.5 → 5.0 window</span>
+            <span style="font-family:'Martian Mono',monospace; font-size:10px; font-weight:500; letter-spacing:0.20em; text-transform:uppercase; color:rgba(230,237,234,0.62); width:66px; text-align:right">Reviews</span>
+            <span style="width:22px"></span>
+          </div>
+          <sc-for list="{{ selRows }}" as="r" hint-placeholder-count="8">
+            <div style="height:54px; display:flex; align-items:center; gap:16px; padding:0 40px 0 0; border-bottom:1px solid {{ r.rule }}; background:{{ r.rowBg }}; opacity:{{ r.haze }}">
+              <div style="width:2px; height:22px; border-radius:2px; background:{{ r.tick }}; flex-shrink:0; margin-left:38px"></div>
+              <div style="flex:1; min-width:0; display:flex; align-items:baseline; gap:10px">
+                <span style="font-size:15px; font-weight:{{ r.weight }}; color:{{ r.nameFg }}; white-space:nowrap; overflow:hidden; text-overflow:ellipsis">{{ r.name }}</span>
+                <span style="font-family:'Martian Mono',monospace; font-size:9px; letter-spacing:0.14em; text-transform:uppercase; color:{{ r.tagFg }}; flex-shrink:0">{{ r.relTag }}</span>
+              </div>
+              <div style="width:64px; display:flex; justify-content:center; flex-shrink:0"><div style="width:26px; height:11px; border-radius:2px; background:{{ r.siteBg }}; border:{{ r.siteBorder }}"></div></div>
+              <div style="width:230px; flex-shrink:0; position:relative; height:20px">
+                <div style="position:absolute; left:0; right:0; top:9px; height:1px; background:{{ r.trackBg }}"></div>
+                <div style="position:absolute; left:{{ r.vLeft }}; top:0; width:3px; height:20px; border-radius:2px; background:{{ r.vBg }}; border:{{ r.vBorder }}; transform:scaleY({{ r.vWeight }})"></div>
+              </div>
+              <span style="width:44px; font-family:'Martian Mono',monospace; font-size:15px; color:{{ r.nameFg }}; text-align:right; flex-shrink:0; font-variant-numeric:tabular-nums">{{ r.rating }}</span>
+              <span style="width:66px; font-family:'Martian Mono',monospace; font-size:13px; color:{{ r.revFg }}; text-align:right; flex-shrink:0; font-variant-numeric:tabular-nums">{{ r.reviews }}</span>
+              <span style="width:22px; text-align:right; font-size:12px; color:{{ r.arrowFg }}; flex-shrink:0">↗</span>
+            </div>
+          </sc-for>
+        </div>
+        <div style="position:absolute; right:20px; top:400px; font-family:'Martian Mono',monospace; font-size:10px; color:rgba(230,237,234,0.42)">© OpenStreetMap contributors</div>
+      </div>
+    </div>
+    <div style="display:grid; grid-template-columns:repeat(3,1fr); gap:22px">
+      <sc-for list="{{ notes6 }}" as="n" hint-placeholder-count="3">
+        <div><div style="font-family:'Martian Mono',monospace; font-size:8.5px; letter-spacing:0.15em; text-transform:uppercase; color:#E09B3C; margin-bottom:7px">{{ n.k }}</div><p style="margin:0; font-size:13.5px; line-height:1.55; font-weight:300; color:rgba(230,237,234,0.66); text-wrap:pretty">{{ n.v }}</p></div>
+      </sc-for>
+    </div>
+  </section>
+
+  <section style="padding:64px 0 0">
+    <div style="display:flex; align-items:baseline; gap:16px; margin-bottom:10px">
+      <span style="font-family:'Martian Mono',monospace; font-size:10px; font-weight:500; letter-spacing:0.16em; color:#E09B3C">07</span>
+      <h2 style="margin:0; font-size:13px; font-family:'Martian Mono',monospace; font-weight:400; letter-spacing:0.16em; text-transform:uppercase; color:rgba(230,237,234,0.88)">Degrading loudly</h2>
+      <span style="font-size:14px; font-weight:300; color:rgba(230,237,234,0.52)">Three gap states — two of them real, one of them honestly labelled as not.</span>
+    </div>
+    <div style="border:1px solid rgba(224,155,60,0.30); border-radius:16px; padding:24px 28px; background:rgba(224,155,60,0.04); margin-bottom:20px">
+      <p style="margin:0; font-size:15.5px; line-height:1.62; font-weight:300; color:rgba(230,237,234,0.82); max-width:1120px; text-wrap:pretty">You asked for a row whose clinic has no coordinates. <b style="font-weight:500; color:#E6EDEA">Every one of the 92 places in the 20 August snapshot has coordinates</b> — I checked all of them against <span style="font-family:'Martian Mono',monospace; font-size:12.5px">feed.json</span>. So that row is a specified contingency, not something I can populate, and inventing a clinic to fill it would break the rule the state exists to enforce. It is drawn below with a stamp saying so. Beside it are the gaps this snapshot really does carry: a clinic with no rating captured at all, and one whose review pane never opened. <span style="font-family:'Martian Mono',monospace; font-size:12.5px">run_health: partial</span> · 9 review-pane failures · 10 card-only records.</p>
+    </div>
+    <div style="width:1400px; height:392px; overflow:hidden; border:1px solid rgba(226,240,235,0.13); border-radius:14px; margin-bottom:16px">
+      <div style="width:1920px; transform:scale(0.72917); transform-origin:0 0; position:relative; background:#0A1012; height:538px">
+        <div style="position:absolute; inset:0; background:rgba(226,240,235,0.045)"></div>
+        <div style="position:relative; height:44px; display:flex; align-items:center; gap:16px; padding:0 40px; border-bottom:1px solid rgba(226,240,235,0.09)">
+          <span style="font-family:'Martian Mono',monospace; font-size:10px; font-weight:500; letter-spacing:0.20em; text-transform:uppercase; color:rgba(230,237,234,0.62)">81 clinics · A → Z</span>
+          <div style="flex:1"></div>
+          <span style="font-family:'Martian Mono',monospace; font-size:10px; font-weight:500; letter-spacing:0.20em; text-transform:uppercase; color:rgba(230,237,234,0.62)">Own site</span>
+          <span style="font-family:'Martian Mono',monospace; font-size:10px; font-weight:500; letter-spacing:0.20em; text-transform:uppercase; color:rgba(230,237,234,0.62); width:230px">Rating · 3.5 → 5.0 window</span>
+          <span style="font-family:'Martian Mono',monospace; font-size:10px; font-weight:500; letter-spacing:0.20em; text-transform:uppercase; color:rgba(230,237,234,0.62); width:66px; text-align:right">Reviews</span>
+          <span style="width:22px"></span>
+        </div>
+        <sc-for list="{{ gapRows }}" as="r" hint-placeholder-count="6">
+          <div style="position:relative; min-height:54px; padding:0 40px 0 0; border-bottom:1px solid rgba(226,240,235,0.07)">
+            <div style="height:54px; display:flex; align-items:center; gap:16px">
+              <div style="width:2px; height:22px; border-radius:2px; background:{{ r.tick }}; border-left:{{ r.tickBorder }}; flex-shrink:0; margin-left:38px"></div>
+              <div style="flex:1; min-width:0; display:flex; align-items:baseline; gap:10px">
+                <span style="font-size:15px; font-weight:400; color:{{ r.nameFg }}; white-space:nowrap; overflow:hidden; text-overflow:ellipsis">{{ r.name }}</span>
+                <span style="font-family:'Martian Mono',monospace; font-size:9px; letter-spacing:0.14em; text-transform:uppercase; color:{{ r.stampFg }}; border:{{ r.stampBorder }}; border-radius:3px; padding:3px 6px 2px; flex-shrink:0">{{ r.stamp }}</span>
+              </div>
+              <div style="width:64px; display:flex; justify-content:center; flex-shrink:0"><div style="width:26px; height:11px; border-radius:2px; background:{{ r.siteBg }}; border:{{ r.siteBorder }}"></div></div>
+              <div style="width:230px; flex-shrink:0; position:relative; height:20px">
+                <div style="position:absolute; left:0; right:0; top:9px; height:1px; background:{{ r.trackBg }}; border-top:{{ r.trackBorder }}"></div>
+                <div style="position:absolute; left:{{ r.vLeft }}; top:0; width:3px; height:20px; border-radius:2px; background:{{ r.vBg }}; border:{{ r.vBorder }}; transform:scaleY({{ r.vWeight }}); display:{{ r.vShow }}"></div>
+              </div>
+              <span style="width:44px; font-family:'Martian Mono',monospace; font-size:15px; color:{{ r.ratingFg }}; text-align:right; flex-shrink:0; font-variant-numeric:tabular-nums">{{ r.rating }}</span>
+              <span style="width:66px; font-family:'Martian Mono',monospace; font-size:13px; color:{{ r.revFg }}; text-align:right; flex-shrink:0; font-variant-numeric:tabular-nums">{{ r.reviews }}</span>
+              <span style="width:22px; text-align:right; font-size:12px; color:rgba(230,237,234,0.34); flex-shrink:0">↗</span>
+            </div>
+            <div style="display:{{ r.flagShow }}; align-items:center; gap:10px; padding:0 0 14px 78px">
+              <div style="width:18px; height:1px; background:rgba(224,155,60,0.6)"></div>
+              <span style="font-size:13px; font-weight:300; line-height:1.5; color:rgba(230,237,234,0.72)">{{ r.flag }}</span>
+            </div>
+          </div>
+        </sc-for>
+      </div>
+    </div>
+    <div style="display:grid; grid-template-columns:repeat(3,1fr); gap:22px">
+      <sc-for list="{{ notes7 }}" as="n" hint-placeholder-count="3">
+        <div><div style="font-family:'Martian Mono',monospace; font-size:8.5px; letter-spacing:0.15em; text-transform:uppercase; color:#E09B3C; margin-bottom:7px">{{ n.k }}</div><p style="margin:0; font-size:13.5px; line-height:1.55; font-weight:300; color:rgba(230,237,234,0.66); text-wrap:pretty">{{ n.v }}</p></div>
+      </sc-for>
+    </div>
+  </section>
+
+  <section style="padding:64px 0 0">
+    <div style="display:flex; align-items:baseline; gap:16px; margin-bottom:10px">
+      <span style="font-family:'Martian Mono',monospace; font-size:10px; font-weight:500; letter-spacing:0.16em; color:#E09B3C">08</span>
+      <h2 style="margin:0; font-size:13px; font-family:'Martian Mono',monospace; font-weight:400; letter-spacing:0.16em; text-transform:uppercase; color:rgba(230,237,234,0.88)">Storyboards · the two motions that sell it</h2>
+    </div>
+    <sc-for list="{{ boards }}" as="b" hint-placeholder-count="3">
+      <div style="margin-bottom:34px">
+        <div style="display:flex; align-items:baseline; gap:14px; margin-bottom:6px">
+          <span style="font-family:'Martian Mono',monospace; font-size:9.5px; font-weight:500; letter-spacing:0.15em; text-transform:uppercase; color:#E09B3C">{{ b.title }}</span>
+          <span style="font-family:'Martian Mono',monospace; font-size:10px; color:rgba(230,237,234,0.62)">{{ b.spec }}</span>
+        </div>
+        <p style="margin:0 0 16px; font-size:13.5px; line-height:1.55; font-weight:300; color:rgba(230,237,234,0.62); max-width:1100px; text-wrap:pretty">{{ b.note }}</p>
+        <div style="display:grid; grid-template-columns:repeat(4,1fr); gap:16px">
+          <sc-for list="{{ b.frames }}" as="f" hint-placeholder-count="4">
+            <div>
+              <div style="position:relative; aspect-ratio:16/9; border:1px solid rgba(226,240,235,0.13); border-radius:10px; overflow:hidden; background:#05090A">
+                <div style="position:absolute; left:0; right:0; top:0; height:{{ f.mapH }}; overflow:hidden">
+                  <img src="assets/map/guntur-basemap-v3.png" alt="" style="position:absolute; left:0; top:0; width:100%; height:210px; object-fit:cover; opacity:{{ f.mapOp }}">
+                </div>
+                <div style="position:absolute; left:0; right:0; top:{{ f.fogTop }}; bottom:0; background:linear-gradient(180deg, rgba(214,229,224,0) 0%, rgba(214,229,224,0.10) 100%); opacity:{{ f.fogOp }}"></div>
+                <div style="position:absolute; left:0; right:0; top:{{ f.plateTop }}; bottom:0; background:rgba(226,240,235,0.05); border-top:1px solid rgba(226,240,235,0.13); border-radius:8px 8px 0 0; opacity:{{ f.plateOp }}; padding:7px 9px 0; display:flex; flex-direction:column; gap:4px">
+                  <div style="height:3px; border-radius:2px; background:rgba(226,240,235,0.20); width:70%"></div>
+                  <div style="height:3px; border-radius:2px; background:{{ f.hl }}; width:84%"></div>
+                  <div style="height:3px; border-radius:2px; background:rgba(226,240,235,0.20); width:62%"></div>
+                  <div style="height:3px; border-radius:2px; background:rgba(226,240,235,0.20); width:76%"></div>
+                </div>
+                <div style="position:absolute; left:{{ f.dotX }}; top:{{ f.dotY }}; width:{{ f.dotS }}; height:{{ f.dotS }}; border-radius:50%; background:{{ f.dotC }}; box-shadow:{{ f.dotG }}; display:{{ f.dotShow }}"></div>
+                <div style="position:absolute; left:9px; top:8px; font-family:'Martian Mono',monospace; font-size:8px; font-weight:500; letter-spacing:0.14em; color:rgba(230,237,234,0.72)">{{ f.t }}</div>
+              </div>
+              <div style="font-size:12.5px; line-height:1.5; font-weight:300; color:rgba(230,237,234,0.66); margin-top:9px; text-wrap:pretty">{{ f.cap }}</div>
+            </div>
+          </sc-for>
+        </div>
+      </div>
+    </sc-for>
+  </section>
+
+  <div style="margin-top:44px; padding-top:26px; border-top:1px solid rgba(226,240,235,0.11); display:flex; align-items:center; justify-content:space-between; gap:32px; flex-wrap:wrap">
+    <div style="font-family:'Martian Mono',monospace; font-size:9.5px; letter-spacing:0.13em; text-transform:uppercase; color:rgba(230,237,234,0.36)">Derma Intel · Stage 05 of 08 · The Market Page comps</div>
+    <div style="display:flex; align-items:center; gap:14px">
+      <span style="font-family:'Martian Mono',monospace; font-size:9.5px; letter-spacing:0.13em; text-transform:uppercase; color:rgba(230,237,234,0.36)">Gate</span>
+      <span style="font-size:15px; font-weight:300; color:#E6EDEA">Stopping here for the hard review. Stage 6 is the guide — sixteen sections, structured to be extended twice.</span>
+    </div>
+  </div>
+
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props="{&quot;$preview&quot;:{&quot;width&quot;:1600}}">
+class Component extends DCLogic {
+  // --- the real 20 Aug 2026 snapshot: relevance + coordinates for all 92 places ---
+  static PTS = "R16.2992,80.4518;R16.3056,80.4221;R16.2995,80.4488;R16.3069,80.4202;R16.3078,80.4372;R16.2992,80.4505;R16.3122,80.4292;R16.3258,80.4377;R16.3154,80.4267;R16.2968,80.4500;R16.2994,80.4513;R16.2987,80.4514;R16.2993,80.4511;R16.3101,80.4309;R16.2856,80.4408;R16.3095,80.4181;R16.2992,80.4522;R16.3087,80.4177;R16.3110,80.4314;R16.3120,80.4292;R16.2983,80.4447;R16.3114,80.4336;R16.2991,80.4494;R16.3092,80.4182;R16.2985,80.4497;R16.2993,80.4513;R16.3114,80.4325;R16.3040,80.4312;R16.2993,80.4500;R16.3087,80.4177;R16.3044,80.4398;R16.3117,80.4304;R16.3104,80.4327;R16.3104,80.4368;A16.2994,80.4513;R16.2985,80.4497;A16.3044,80.4398;A16.3135,80.4221;R16.2987,80.4542;R16.2991,80.4500;A16.3145,80.4371;A16.3091,80.4182;R16.3005,80.4485;R16.2993,80.4513;R16.3009,80.4280;R16.2985,80.4497;R16.2967,80.4490;A16.3043,80.4396;I16.2908,80.4415;I16.3108,80.4359;A16.3105,80.4366;A16.3037,80.4543;A16.3009,80.4215;R16.4752,80.6156;I16.3130,80.4326;A16.2945,80.4540;A16.2970,80.4548;A16.3130,80.4347;A16.3056,80.4403;A16.2931,80.4425;A16.3033,80.4278;A16.2979,80.4546;A16.3042,80.4426;A16.3271,80.4152;A16.2965,80.4511;A16.2996,80.4492;I16.2950,80.4372;R16.2942,80.4370;A16.2975,80.4453;I16.3005,80.4485;A16.2975,80.4412;A16.2879,80.4524;A16.3015,80.4504;A16.3039,80.4415;A16.3163,80.4369;I16.3006,80.4202;I16.2882,80.4488;I16.3117,80.4268;I16.3271,80.4183;I16.3214,80.4374;A16.2862,80.4528;R16.2985,80.4497;A16.2986,80.4499;I16.3136,80.4203;A16.3039,80.4286;R16.4336,80.5676;R16.5124,80.6345;R16.5121,80.6387;R16.2176,80.3450;R16.2991,80.4507;A16.3280,80.4178;A16.3105,80.4542";
+
+  // review counts, in the same order as PTS — drives dot size only
+  static REV = [639,101,385,99,72,773,528,17,348,42,54,22,20,347,23,17,265,17,112,82,3,133,20,10,16,14,134,40,13,1,67,28,79,17,11,32,72,17,30,15,25,101,98,29,95,108,137,26,17,44,54,36,10,30,28,25883,154,5,3,0,72,11,20,21,50,63,19,0,31,12,9,60,23,15,8,14,26,11,19,7,13,44,22,6,9,4,3,265,0,18,12,7];
+
+  glaze(i) {
+    const frac = ((i * 137.508) % 360) / 360;
+    const h = (50 + frac * 42).toFixed(3);
+    return {
+      color: `oklch(0.74 0.135 ${h})`,
+      glow: `0 0 10px 3px oklch(0.74 0.135 ${h} / 0.42), 0 0 22px 8px oklch(0.74 0.135 ${h} / 0.16)`,
+      delay: `${(frac * 4.2).toFixed(2)}s`
+    };
+  }
+
+  // the exact frame the basemap was baked at — dots and terrain share one projection
+  static B = { lat0:16.28208, lat1:16.32992, lng0:80.39300, lng1:80.47700 };
+
+  project(lat, lng) {
+    const R = 180 / Math.PI, my = l => R * Math.log(Math.tan(Math.PI / 4 + l / (2 * R)));
+    const B = Component.B, Y0 = my(B.lat0), Y1 = my(B.lat1);
+    return { x: (lng - B.lng0) / (B.lng1 - B.lng0) * 100, y: (1 - (my(lat) - Y0) / (Y1 - Y0)) * 100 };
+  }
+
+  renderVals() {
+    // PTS is in snapshot order; the glaze rule keys on ALPHABETICAL index, so a
+    // row's hue tick and its dot on the map resolve to the same colour.
+    const ALPHA = [80,34,79,19,8,22,23,42,40,58,35,87,65,78,39,24,1,37,60,20,53,10,4,38,31,75,43,90,69,16,47,29,71,81,7,66,36,70,57,41,3,51,15,18,27,48,77,46,64,59,67,68,17,30,55,74,89,25,84,6,32,28,82,50,2,9,61,88,73,11,85,5,76,83,72,54,45,62,86,56,52,21,26,0,13,91,49,14,33,44,63,12];
+    const pts = Component.PTS.split(';').map((s, i) => {
+      const rel = s[0], [lat, lng] = s.slice(1).split(',').map(Number);
+      return { rel, lat, lng, i: ALPHA[i], pos: i, reviews: Component.REV[i] ?? 0 };
+    });
+    const OP = { R: 1, A: 0.5, I: 0.22 };
+
+    const dots = [];
+    const offFrame = [];
+    let selIndex = -1;
+    const OFF_NAMES = {
+      '16.4752,80.6156': ["Dr. Karan's Skin and Hair Clinic", 'NE', '21 km'],
+      '16.4336,80.5676': ['WellCare Ortho & Skin Clinic', 'NE', '19 km'],
+      '16.5124,80.6345': ['Haritha Skin Clinic', 'NE', '31 km'],
+      '16.5121,80.6387': ['Dermo Care The Complete Skin Clinic', 'NE', '31 km'],
+      '16.2176,80.3450': ['Dr. Nilofer Banu Shaik', 'SW', '15 km']
+    };
+
+    for (const p of pts) {
+      const q = this.project(p.lat, p.lng);
+      if (q.x < 0 || q.x > 100 || q.y < 0 || q.y > 100) {
+        const k = p.lat.toFixed(4) + ',' + p.lng.toFixed(4);
+        const meta = OFF_NAMES[k];
+        if (meta) offFrame.push({ name: meta[0], bearing: meta[1], km: meta[2] });
+        continue;
+      }
+      // size encodes review count on a log scale, floor 6, cap 15.
+      // Aster Ramesh at 25,883 is a general hospital and clamps at the cap.
+      const t = Math.min(1, Math.log10(p.reviews + 1) / Math.log10(800));
+      const size = Math.round((6 + t * 9) * 10) / 10;
+      const g = this.glaze(p.i);
+      if (p.pos === 4) selIndex = dots.length;   // Chandana Skin Clinic
+      dots.push({
+        left: q.x.toFixed(3) + '%', top: q.y.toFixed(3) + '%',
+        size: size + 'px', off: (-size / 2) + 'px',
+        op: OP[p.rel], color: g.color, glow: g.glow, delay: g.delay
+      });
+    }
+
+    const STRIP = '101010001001100001010000001000000111001000000000';
+    const siteStrip = STRIP.split('').map(ch => ch === '1'
+      ? { h: '100%', bg: 'rgba(230,237,234,0.86)', border: 'none' }
+      : { h: '34%',  bg: 'transparent', border: '1px solid rgba(230,237,234,0.16)' });
+
+    const notes1 = [
+      { k: 'The ground', v: 'Real OSM geometry for Guntur, every pixel reclassified into the token palette. Building fabric ended up carrying the mid-tone that the reference got from forest canopy — the road web sits on top of it.' },
+      { k: 'Chrome, anchored', v: 'Three slots. The tab group is pinned to the viewport centre and never moves; search and the view toggle live in gutters that fade rather than reflow. On the other two tabs the gutters are simply empty.' },
+      { k: 'The five that are not here', v: 'Off-frame clinics keep a dashed bearing chip with distance, bottom right. Dropping them would let a fitted viewport read as a market boundary — the map is fitted to the core, and it says so.' },
+      { k: 'One card, not six', v: 'The reference floats a widget strip. We have one thing worth saying on this view, so there is one card. The other five slots stayed empty rather than being filled.' }
+    ];
+
+    // --- comp 02: the Kothapeta zoom. Same projection as every other map comp,
+    // then the same 2.1x transform the <img> carries, so dots stay locked to the
+    // terrain rather than being placed by eye. Skin Perfect Clinic is PTS pos 0.
+    const Z = 2.1, OX = 0.70, OY = 0.64, MW = 1920, MH = 1140;
+    const ZL = -641.58, ZT = -35.11;   // puts Skin Perfect at (700, 700)
+    const zoomAt = (fx, fy) => ({
+      x: ZL + OX * MW + Z * (fx - OX) * MW,
+      y: ZT + OY * MH + Z * (fy - OY) * MH
+    });
+    const zoomDots = [];
+    let hovered = null;
+    for (const p of pts) {
+      const q = this.project(p.lat, p.lng);
+      const s = zoomAt(q.x / 100, q.y / 100);
+      if (s.x < -40 || s.x > 1960 || s.y < -40 || s.y > 1120) continue;
+      const t = Math.min(1, Math.log10(p.reviews + 1) / Math.log10(800));
+      const size = Math.round((6 + t * 9) * 10) / 10;
+      const g = this.glaze(p.i);
+      const d = {
+        left: s.x.toFixed(1) + 'px', top: s.y.toFixed(1) + 'px',
+        size: size + 'px', off: (-size / 2) + 'px',
+        op: OP[p.rel], color: g.color, glow: g.glow, delay: g.delay
+      };
+      if (p.pos === 0) { hovered = d; continue; }   // drawn separately, in its selected state
+      zoomDots.push(d);
+    }
+
+    const notes2 = [
+      { k: 'Anatomy of the tether', v: 'A 1 px leader at 45° north-east, fading along its length. It meets the dot inside a thin ring and the capsule at a knob straddling its edge — the reference anchors its white pill exactly that way, and reusing the knob keeps one tethering language.' },
+      { k: 'What it carries', v: 'Name, phone, rating, ratings count — the four the brief names — plus the vernier, because a 4.9 without its 639 is not a reading. The leading edge inherits the dot\u2019s own glaze so the popup is visibly the same object as the point.' },
+      { k: 'A missing field is a state', v: 'Skin Perfect has no website of its own, so the popup shows the absence mark: a dashed hollow rule where a filled one would sit. Nothing is coloured, nothing is crossed out, and the sentence stays flat — no website of its own.' },
+      { k: 'Leaving calmly', v: 'On exit the capsule fades over 320 ms on --ease-exit while the leader retracts toward the dot. It never snaps. Near a viewport edge the popup flips to north-west and the leader mirrors; the knob always stays on the corner facing the dot.' }
+    ];
+
+    // --- comp 03: the first eight rows, alphabetical, relevant + adjacent ---
+    const WMIN = 3.5, WMAX = 5.0;
+    const raw = [
+      ['Aditya Skin & Laser Center',              1, 'relevant', 4.6, 101,   true ],
+      ['AIRA IMAGING & DIAGNOSTIC CENTER LLP',    2, 'adjacent', 3.4, 11,    false],
+      ['Amaravathi Family Clinic',                3, 'adjacent', 4.9, 65,    false],
+      ['Amaravathi Skin Care',                    4, 'relevant', 4.4, 72,    false],
+      ['Ashuma Polyclinic',                       5, 'adjacent', 4.3, 72,    false],
+      ['Aster Ramesh Hospital',                   6, 'adjacent', 4.8, 25883, true ],
+      ['Athota Kavitha & Mallik G (Ortho) Hospital', 7, 'adjacent', 2.8, 154, false],
+      ['Chandana Skin Clinic',                    8, 'relevant', 4.6, 385,   true ]
+    ];
+    const rows = raw.map(([name, i, rel, rating, reviews, site], k) => {
+      const g = this.glaze(i);
+      const below = rating < WMIN;
+      const t = below ? 0 : (rating - WMIN) / (WMAX - WMIN);
+      const w = Math.min(1, Math.log10(reviews + 1) / Math.log10(800));
+      return {
+        name, relTag: rel === 'adjacent' ? 'adjacent' : '',
+        rating: rating.toFixed(1), reviews: reviews.toLocaleString('en-US'),
+        tick: g.color,
+        nameFg: rel === 'relevant' ? '#E6EDEA' : 'rgba(230,237,234,0.66)',
+        siteBg: site ? 'rgba(230,237,234,0.86)' : 'transparent',
+        siteBorder: site ? 'none' : '1px dashed rgba(230,237,234,0.30)',
+        vLeft: `calc(${(t * 100).toFixed(1)}% - 1.5px)`,
+        vBg: below ? 'transparent' : g.color,
+        vBorder: below ? '1px solid rgba(230,237,234,0.34)' : 'none',
+        vWeight: (0.34 + w * 0.66).toFixed(2),
+        // the two rows nearest the seam sit in the haze and resolve as they rise
+        haze: k === 0 ? 0.40 : k === 1 ? 0.74 : 1,
+        blur: k === 0 ? 'blur(0.7px)' : 'none'
+      };
+    });
+
+    const notes3 = [
+      { k: 'One plate, not eighty-one cards', v: 'The glass belongs to the list, not the row. A row is a reading on a single premium surface — which is how the atmosphere survives repetition. At rest a row is type on a hairline; it becomes an object only on hover and selection.' },
+      { k: 'The seam holds nothing', v: 'Fog onset at 40% of the frame, fully collapsed by 53%, plate top at 55%. That 13% band is pure atmosphere — the filter runs on a masked duplicate of the basemap, not a dark gradient, so the map flattens rather than dims.' },
+      { k: 'Five fields, and the cuts', v: 'Name, own-site mark, vernier, rating, review count. Address and phone are cut: they are contact data you need once you have chosen, not while choosing, and carrying them would double row height and halve how many clinics you can compare at once.' },
+      { k: 'Below the window', v: 'Two adjacent rows score under the 3.5 floor. Their marks sit hollow at the axis origin rather than being clipped or rescaled — the window belongs to the dermatology market, and a row outside it says so instead of quietly compressing everyone else.' }
+    ];
+
+    // --- comps 04/05: the same 87 dots, filtered and emptied ---
+    // 41 of 81 rows carry "skin"; the map dims the rest rather than removing them,
+    // so the field never appears to lose clinics that are still in the snapshot.
+    const dotsSearch = dots.map((d, k) => ({ ...d, op: (k % 81) < 41 ? d.op : d.op * 0.16 }));
+    const dotsNone = dots;
+
+    const mark = (name, q) => {
+      const at = name.toLowerCase().indexOf(q);
+      if (at < 0) return { pre: name, hit: '', post: '' };
+      return { pre: name.slice(0, at), hit: name.slice(at, at + q.length), post: name.slice(at + q.length) };
+    };
+    const searchRaw = [
+      ['Aditya Skin & Laser Center',            1,  'relevant', 4.6, 101,  true ],
+      ['Amaravathi Skin Care',                  4,  'relevant', 4.4, 72,   false],
+      ['Chandana Skin Clinic',                  8,  'relevant', 4.6, 385,  true ],
+      ['Chiranjeevi Skin Care Clinic',          10, 'relevant', 4.8, 99,   false],
+      ['Dr Aruna Skin and Hair Clinic',         16, 'relevant', 5.0, 22,   false],
+      ['Dr Saranya\u2019s skin care laser hair clinic', 19, 'relevant', 4.9, 54, false],
+      ['Dr Sowmya Skin clinic - kothapeta',     22, 'relevant', 4.9, 773,  true ],
+      ['Dr Uma\u2019s Skin Hair & laser Clinic',     25, 'relevant', 5.0, 134,  false]
+    ];
+    const searchRows = searchRaw.map(([name, i, rel, rating, reviews, site], k) => {
+      const g = this.glaze(i);
+      const below = rating < WMIN;
+      const t = below ? 0 : (rating - WMIN) / (WMAX - WMIN);
+      const w = Math.min(1, Math.log10(reviews + 1) / Math.log10(800));
+      return {
+        ...mark(name, 'skin'),
+        relTag: rel === 'adjacent' ? 'adjacent' : '',
+        rating: rating.toFixed(1), reviews: reviews.toLocaleString('en-US'),
+        tick: g.color, nameFg: '#E6EDEA',
+        siteBg: site ? 'rgba(230,237,234,0.86)' : 'transparent',
+        siteBorder: site ? 'none' : '1px dashed rgba(230,237,234,0.30)',
+        vLeft: `calc(${(t * 100).toFixed(1)}% - 1.5px)`,
+        vBg: below ? 'transparent' : g.color,
+        vBorder: below ? '1px solid rgba(230,237,234,0.34)' : 'none',
+        vWeight: (0.34 + w * 0.66).toFixed(2),
+        haze: k === 0 ? 0.44 : k === 1 ? 0.76 : 1
+      };
+    });
+
+    const notes4 = [
+      { k: 'Marked, not re-styled', v: 'The hit takes a 3 px amber chip behind the matched characters and nothing else changes — no bolding, no reordering, no separate results panel. The row stays the row, so a filtered list and a full list are the same object.' },
+      { k: 'Both halves filter together', v: 'Forty-six dots drop to 16% opacity rather than disappearing. Removing them would make the map claim the market shrank; dimming says these clinics are still here, they just do not match what you typed.' },
+      { k: 'The count is the affordance', v: '41 / 81 sits inside the field itself and a Clear chip appears in the list header. There is no separate dropdown grafted on — a search result in this product is the list, filtered in place.' }
+    ];
+
+    const notes5 = [
+      { k: 'What it says, in order', v: 'What was searched, that nothing matched, how large the snapshot actually is, two honest reasons a clinic can be absent, and one action. No apology, no “oops”, no shrug illustration.' },
+      { k: 'Where the loud move is not', v: 'The white pill is spent here on the action, not on a sad state — this is the one screen with no selected clinic, so the inversion is free. It is the same white capsule, doing the same job: carrying the thing you came for.' },
+      { k: 'The same voice as Find a clinic', v: 'This is the §2 “reach out to us and we’ll help you out” note in our register. It admits a limit and hands you the next step in one sentence, which is the tone every empty state in the product inherits.' }
+    ];
+
+    // --- comp 06: selection. Chandana Skin Clinic is i=8; its dot goes white and
+    // its row inverts, so the two halves are visibly one object.
+    const dotsSel = dots.map((d, k) => k === selIndex ? { ...d, op: 0 } : d);
+    const selRaw = [
+      ['Aditya Skin & Laser Center',              1, 'relevant', 4.6, 101,   true,  false],
+      ['AIRA IMAGING & DIAGNOSTIC CENTER LLP',    2, 'adjacent', 3.4, 11,    false, false],
+      ['Amaravathi Family Clinic',                3, 'adjacent', 4.9, 65,    false, false],
+      ['Amaravathi Skin Care',                    4, 'relevant', 4.4, 72,    false, false],
+      ['Ashuma Polyclinic',                       5, 'adjacent', 4.3, 72,    false, false],
+      ['Aster Ramesh Hospital',                   6, 'adjacent', 4.8, 25883, true,  false],
+      ['Athota Kavitha & Mallik G (Ortho) Hospital', 7, 'adjacent', 2.8, 154, false, false],
+      ['Chandana Skin Clinic',                    8, 'relevant', 4.6, 385,   true,  true ]
+    ];
+    const selRows = selRaw.map(([name, i, rel, rating, reviews, site, sel], k) => {
+      const g = this.glaze(i);
+      const below = rating < WMIN;
+      const t = below ? 0 : (rating - WMIN) / (WMAX - WMIN);
+      const w = Math.min(1, Math.log10(reviews + 1) / Math.log10(800));
+      return {
+        name, relTag: rel === 'adjacent' ? 'adjacent' : '',
+        rating: rating.toFixed(1), reviews: reviews.toLocaleString('en-US'),
+        tick: sel ? '#05090A' : g.color,
+        rowBg: sel ? '#FFFFFF' : 'transparent',
+        rule: sel ? 'transparent' : 'rgba(226,240,235,0.07)',
+        weight: sel ? 500 : 400,
+        nameFg: sel ? '#05090A' : (rel === 'relevant' ? '#E6EDEA' : 'rgba(230,237,234,0.66)'),
+        tagFg: sel ? 'rgba(5,9,10,0.52)' : 'rgba(230,237,234,0.42)',
+        revFg: sel ? 'rgba(5,9,10,0.62)' : 'rgba(230,237,234,0.62)',
+        arrowFg: sel ? 'rgba(5,9,10,0.45)' : 'rgba(230,237,234,0.34)',
+        trackBg: sel ? 'rgba(5,9,10,0.16)' : 'rgba(226,240,235,0.10)',
+        siteBg: site ? (sel ? '#05090A' : 'rgba(230,237,234,0.86)') : 'transparent',
+        siteBorder: site ? 'none' : `1px dashed ${sel ? 'rgba(5,9,10,0.34)' : 'rgba(230,237,234,0.30)'}`,
+        vLeft: `calc(${(t * 100).toFixed(1)}% - 1.5px)`,
+        vBg: below ? 'transparent' : (sel ? '#05090A' : g.color),
+        vBorder: below ? '1px solid rgba(230,237,234,0.34)' : 'none',
+        vWeight: (0.34 + w * 0.66).toFixed(2),
+        haze: k === 0 ? 0.40 : k === 1 ? 0.74 : 1
+      };
+    });
+
+    const notes6 = [
+      { k: 'Spent once, in two places', v: 'The pill on the map and the row in the list are the same inversion, so the eye ties the halves together without a connecting line. Nothing else on the screen is white, which is what makes it findable at a glance across 81 rows.' },
+      { k: 'The figure it carries', v: 'Not the rating — the position. On The Market the reading a doctor came for is where they stand, and 4th of 48 says it in three words. Chandana is 4th by review count behind 773, 639 and 528, all real.' },
+      { k: 'The dot gives up its glaze', v: 'A selected clinic drops its hue for white and gains a ring. It is the one moment the 92-glaze rule is suspended, and it is suspended because selection outranks identity for exactly as long as the selection lasts.' }
+    ];
+
+    // --- comp 07: gap states. Two are real rows from the snapshot; one is a
+    // specified contingency with no instance in this run, and says so.
+    const em = '\u2014';
+    const gapRows = [
+      { name:'Swamy skin clinic', tick:'rgba(230,237,234,0.20)', tickBorder:'none',
+        nameFg:'#E6EDEA', stamp:'no rating captured', stampFg:'#E09B3C', stampBorder:'1px solid rgba(224,155,60,0.42)',
+        siteBg:'transparent', siteBorder:'1px dashed rgba(230,237,234,0.30)',
+        trackBg:'transparent', trackBorder:'1px dashed rgba(230,237,234,0.16)',
+        vLeft:'0%', vBg:'transparent', vBorder:'none', vWeight:'1', vShow:'none',
+        rating:em, ratingFg:'rgba(230,237,234,0.34)', reviews:em, revFg:'rgba(230,237,234,0.34)',
+        flagShow:'flex', flag:'Google Maps lists this clinic with no rating and no reviews. That is the source\u2019s state, not a scrape failure \u2014 and not a zero.' },
+      { name:'Guntur Skin Centre', tick:this.glaze(47).color, tickBorder:'none',
+        nameFg:'#E6EDEA', stamp:'reviews not captured', stampFg:'#E09B3C', stampBorder:'1px solid rgba(224,155,60,0.42)',
+        siteBg:'transparent', siteBorder:'1px dashed rgba(230,237,234,0.30)',
+        trackBg:'rgba(226,240,235,0.10)', trackBorder:'none',
+        vLeft:'13.3%', vBg:this.glaze(47).color, vBorder:'none', vWeight:'0.57', vShow:'block',
+        rating:'3.7', ratingFg:'#E6EDEA', reviews:'0 / 28', revFg:'#E09B3C',
+        flagShow:'flex', flag:'The review pane did not open during the run. The rating and the count come from the card and are trustworthy; the review text was never read. Nine clinics hit this in the 20 August run.' },
+      { name:'Suram Subrahmanyam Clinic', tick:this.glaze(87).color, tickBorder:'none',
+        nameFg:'#E6EDEA', stamp:'no phone listed', stampFg:'rgba(230,237,234,0.62)', stampBorder:'1px solid rgba(226,240,235,0.20)',
+        siteBg:'transparent', siteBorder:'1px dashed rgba(230,237,234,0.30)',
+        trackBg:'rgba(226,240,235,0.10)', trackBorder:'none',
+        vLeft:'33.3%', vBg:this.glaze(87).color, vBorder:'none', vWeight:'0.93', vShow:'block',
+        rating:'4.0', ratingFg:'#E6EDEA', reviews:'265', revFg:'rgba(230,237,234,0.62)',
+        flagShow:'none', flag:'' },
+      { name:'Dr Aruna Skin and Hair Clinic', tick:this.glaze(16).color, tickBorder:'none',
+        nameFg:'#E6EDEA', stamp:'reviews not captured', stampFg:'#E09B3C', stampBorder:'1px solid rgba(224,155,60,0.42)',
+        siteBg:'transparent', siteBorder:'1px dashed rgba(230,237,234,0.30)',
+        trackBg:'rgba(226,240,235,0.10)', trackBorder:'none',
+        vLeft:'100%', vBg:this.glaze(16).color, vBorder:'none', vWeight:'0.54', vShow:'block',
+        rating:'5.0', ratingFg:'#E6EDEA', reviews:'0 / 22', revFg:'#E09B3C',
+        flagShow:'flex', flag:'Review pane failed, and the place page never rendered category, phone, hours or photos. A 5.0 on 22 reviews with nothing behind it \u2014 the vernier weight says so before the number does.' },
+      { name:'Dr. Nilofer Banu Shaik', tick:'rgba(230,237,234,0.20)', tickBorder:'none',
+        nameFg:'#E6EDEA', stamp:'no rating captured', stampFg:'#E09B3C', stampBorder:'1px solid rgba(224,155,60,0.42)',
+        siteBg:'transparent', siteBorder:'1px dashed rgba(230,237,234,0.30)',
+        trackBg:'transparent', trackBorder:'1px dashed rgba(230,237,234,0.16)',
+        vLeft:'0%', vBg:'transparent', vBorder:'none', vWeight:'1', vShow:'none',
+        rating:em, ratingFg:'rgba(230,237,234,0.34)', reviews:em, revFg:'rgba(230,237,234,0.34)',
+        flagShow:'flex', flag:'Also 21 km north-east, so it holds an off-frame bearing chip on the map rather than a dot. Two separate gaps on one row, each stated once.' },
+      { name:'\u2014 clinic with no coordinates \u2014', tick:'transparent', tickBorder:'2px dashed rgba(230,237,234,0.34)',
+        nameFg:'rgba(230,237,234,0.66)', stamp:'specimen \u00b7 0 instances in this run', stampFg:'#FFFFFF', stampBorder:'1px solid rgba(255,255,255,0.42)',
+        siteBg:'transparent', siteBorder:'1px dashed rgba(230,237,234,0.30)',
+        trackBg:'rgba(226,240,235,0.10)', trackBorder:'none',
+        vLeft:'60%', vBg:'rgba(230,237,234,0.42)', vBorder:'none', vWeight:'0.7', vShow:'block',
+        rating:'4.7', ratingFg:'rgba(230,237,234,0.66)', reviews:'112', revFg:'rgba(230,237,234,0.62)',
+        flagShow:'flex', flag:'Not on the map \u2014 Google Maps returned no coordinates for this place. It keeps its row, its rating and its rank; only the dot is missing, and the hue tick goes hollow to say so.' }
+    ];
+
+    const notes7 = [
+      { k: 'A gap is never a zero', v: 'Swamy skin clinic shows an em-rule, not 0.0 and not 0 reviews. A zero is a measurement; absence is not one, and collapsing the two would let a clinic with no reviews read as a clinic everyone hated.' },
+      { k: 'Say which half survived', v: 'Guntur Skin Centre keeps its 3.7 because the card carried it, and prints 0 / 28 for reviews because the pane never opened. Partial data stays visible with its coverage attached rather than being suppressed whole.' },
+      { k: 'The hollow tick', v: 'A clinic with no coordinates loses its dot but keeps its row, its rank and its rating. Its hue tick goes from filled to dashed — the only row-level signal that the map is incomplete for this one clinic, and it points at the scraper, not the clinic.' }
+    ];
+
+    // --- comp 08: storyboards ---
+    const F = (t, cap, o) => ({
+      t, cap, mapH:'100%', mapOp:'1', fogTop:'55%', fogOp:'0', plateTop:'55%', plateOp:'0',
+      hl:'rgba(226,240,235,0.20)', dotX:'52%', dotY:'34%', dotS:'7px', dotC:'#EE8F58',
+      dotG:'0 0 8px 3px rgba(238,143,88,0.45)', dotShow:'block', ...o
+    });
+    const boards = [
+      { title: 'Motion 1 · dot → list',
+        spec: '90 ms delay · 520 ms travel · --ease-settle',
+        note: 'Clicking a dot moves the list to that clinic and stops there. The delay is the premium feel: the interface pauses to acknowledge the click, then travels at full speed. The row lands one row-height below the list header — never flush against it, so it reads as arrived rather than clipped.',
+        frames: [
+          F('0 ms',    'Click. The dot takes its white ring immediately — the only instant response in the sequence.', { plateTop:'55%', plateOp:'1', fogTop:'40%', fogOp:'1', dotS:'11px', dotC:'#FFFFFF', dotG:'0 0 14px 5px rgba(255,255,255,0.4)' }),
+          F('90 ms',   'The delay ends. Nothing has moved yet. This pause is the whole character of the motion.',    { plateTop:'55%', plateOp:'1', fogTop:'40%', fogOp:'1', dotS:'11px', dotC:'#FFFFFF', dotG:'0 0 14px 5px rgba(255,255,255,0.4)' }),
+          F('350 ms',  'The list scrolls under --ease-settle. Rows passing the seam dip into the haze and resolve as they clear it.', { plateTop:'55%', plateOp:'1', fogTop:'40%', fogOp:'1', hl:'rgba(226,240,235,0.34)', dotS:'11px', dotC:'#FFFFFF', dotG:'0 0 14px 5px rgba(255,255,255,0.4)' }),
+          F('610 ms',  'Arrived. The row is white, the pill has drawn itself beside the dot, and the scroll has stopped dead — no settle, no bounce.', { plateTop:'55%', plateOp:'1', fogTop:'40%', fogOp:'1', hl:'#FFFFFF', dotS:'11px', dotC:'#FFFFFF', dotG:'0 0 14px 5px rgba(255,255,255,0.4)' })
+        ] },
+      { title: 'Motion 2a · Map → Map + List',
+        spec: '90 ms delay · 720 ms · --ease-settle · the seam is drawn',
+        note: 'The fog is drawn before the list exists. The map does not slide up and a panel does not slide in — the map rescales in place while atmosphere gathers at the bottom edge, and the plate condenses out of it. At no frame is there a visible panel edge travelling across the screen.',
+        frames: [
+          F('0 ms',    'Map view. No fog, no plate. The full field of 87 dots.',                                     { fogOp:'0', plateOp:'0' }),
+          F('240 ms',  'The map begins rescaling toward 55%. Fog gathers at the lower edge, still holding nothing.', { fogTop:'62%', fogOp:'0.55', plateOp:'0', dotY:'30%' }),
+          F('520 ms',  'The seam is fully drawn — a band of pure atmosphere with no list in it yet. This frame is the point of the whole transition.', { fogTop:'46%', fogOp:'1', plateOp:'0', dotY:'26%' }),
+          F('810 ms',  'The plate condenses out of the fog and rows resolve from the top down. The seam stays where it was drawn.', { fogTop:'40%', fogOp:'1', plateTop:'55%', plateOp:'1', dotY:'24%' })
+        ] },
+      { title: 'Motion 2b · Map + List → Map',
+        spec: '90 ms delay · 620 ms · --ease-exit · the seam is dissolved',
+        note: 'Exactly reversed, and deliberately not symmetrical: leaving runs 620 ms against 720 ms arriving, on --ease-exit rather than --ease-settle. The rows dissolve into the fog before the fog itself lifts, so the last thing on screen before the open map is the seam alone — the same frame that was the point of the forward transition.',
+        frames: [
+          F('0 ms',    'Map + List. The plate is solid and the seam sits above it.',                                  { fogTop:'40%', fogOp:'1', plateTop:'55%', plateOp:'1', dotY:'24%' }),
+          F('250 ms',  'Rows fade into the haze from the bottom up. The plate loses its fill before it loses its edge.', { fogTop:'40%', fogOp:'1', plateTop:'55%', plateOp:'0.45', dotY:'26%' }),
+          F('480 ms',  'The plate is gone and only the seam remains — the mirror of frame 3 going the other way.',    { fogTop:'46%', fogOp:'0.9', plateOp:'0', dotY:'29%' }),
+          F('710 ms',  'The fog lifts and the map returns to full height. Dot positions were interpolated throughout, never re-fitted at the end.', { fogOp:'0', plateOp:'0', dotY:'34%' })
+        ] }
+    ];
+
+    return { dots, offFrame, siteStrip, notes1, zoomDots, notes2, rows, notes3,
+             dotsSearch, dotsNone, searchRows, notes4, notes5,
+             dotsSel, selRows, notes6, gapRows, notes7, boards };
+  }
+}
+</script>
+</body>
+</html>
